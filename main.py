@@ -9,7 +9,7 @@ import os
 
 # --- CONFIGURATION ---
 BASE_SEARCH_URL = "https://store.steampowered.com/search/results/?sort_by=_ASC&category1=998&os=win&supportedlang=english&filter=comingsoon"
-BATCH_LIMIT = 50  # We stay safe at 50 games per hour
+BATCH_LIMIT = 50 
 DB_FILE = 'database.json'
 TRUSTED_PROVIDERS = ['gmail.com', 'outlook.com', 'proton.me', 'protonmail.com', 'zoho.com', 'icloud.com', 'yahoo.com', 'hotmail.com']
 
@@ -33,11 +33,11 @@ def filter_emails(emails, site_url):
     return list(set(clean))
 
 def save_data(database, stats):
-    """Saves the JSON and generates the live HTML dashboard."""
+    """Saves the JSON and generates the live HTML dashboard safely."""
     with open(DB_FILE, 'w') as f:
         json.dump(database, f, indent=4)
     
-    sorted_games = sorted(database.values(), key=lambda x: x['Date'], reverse=True)
+    sorted_games = sorted(database.values(), key=lambda x: x.get('Date', ''), reverse=True)
     
     html = f"""<html><head><meta name='viewport' content='width=device-width, initial-scale=1'><style>
         body {{ background: #0b0e14; color: #d1d1d1; font-family: sans-serif; padding: 15px; }}
@@ -48,23 +48,29 @@ def save_data(database, stats):
         .date-header {{ color: #66c0f4; margin-top: 25px; border-bottom: 1px solid #333; }}
     </style></head><body>
     <div class='stats-bar'>
-        <b>Last Run Stats:</b> {stats['success']}/{stats['total']} Games Scanned Successfully | 
+        <b>Last Run Stats:</b> {stats['success']}/{stats['total']} Games Scanned | 
         <b>Total in Database:</b> {len(database)} | 
-        <b>Updated:</b> {datetime.now().strftime('%H:%M')}
+        <b>Updated:</b> {datetime.now().strftime('%Y-%m-%d %H:%M')}
     </div>"""
 
     curr_date = ""
     for g in sorted_games:
-        if g['Date'] != curr_date:
-            curr_date = g['Date']
+        # Use .get() to avoid KeyError if old data is missing keys
+        release_date = g.get('Date', 'Unknown')
+        if release_date != curr_date:
+            curr_date = release_date
             html += f"<h3 class='date-header'>{curr_date}</h3>"
         
-        discord = f"<a href='{g['Discord']}'>[Discord]</a>" if g['Discord'] != 'None' else ""
-        site = f"<a href='{g['Site']}'>[Site]</a>" if g['Site'] != 'None' else ""
+        discord_url = g.get('Discord', 'None')
+        site_url = g.get('Site', 'None')
+        emails = g.get('Email', 'None')
+        
+        discord_btn = f"<a href='{discord_url}'>[Discord]</a>" if discord_url != 'None' else ""
+        site_btn = f"<a href='{site_url}'>[Site]</a>" if site_url != 'None' else ""
         
         html += f"""<div class='game-row'>
-            <span><b>{g['Title']}</b></span>
-            <span><span class='email'>{g['Email']}</span> | {discord} {site} <a href='{g['URL']}'>[Steam]</a></span>
+            <span><b>{g.get('Title', 'Unknown')}</b></span>
+            <span><span class='email'>{emails}</span> | {discord_btn} {site_btn} <a href='{g.get('URL', '#')}'>[Steam]</a></span>
         </div>"""
 
     with open("index.html", "w", encoding="utf-8") as f:
@@ -74,7 +80,13 @@ def run_script():
     database = {}
     if os.path.exists(DB_FILE):
         with open(DB_FILE, 'r') as f:
-            try: database = json.load(f)
+            try: 
+                database = json.load(f)
+                # MIGRATION: Ensure all old entries have the new keys to prevent crashes
+                for app_id in database:
+                    if 'Site' not in database[app_id]: database[app_id]['Site'] = 'None'
+                    if 'Email' not in database[app_id]: database[app_id]['Email'] = 'None'
+                    if 'Discord' not in database[app_id]: database[app_id]['Discord'] = 'None'
             except: database = {}
 
     stats = {'total': 0, 'success': 0}
@@ -87,41 +99,41 @@ def run_script():
         stats['total'] = len(rows)
 
         for i, row in enumerate(rows):
-            app_id = row['data-ds-appid']
-            title = row.select_one('.title').text.strip()
-            print(f"[{i+1}/{len(rows)}] Checking: {title}")
-            
-            # Hybrid Logic: If we already have it, we just do a quick refresh of the main page
-            game_info = database.get(app_id, {
-                'Title': title, 'Date': row.select_one('.search_released').text.strip(),
-                'Email': 'None', 'Discord': 'None', 'URL': row['href'].split('?')[0], 'Site': 'None'
-            })
-
             try:
+                app_id = row['data-ds-appid']
+                title = row.select_one('.title').text.strip()
+                print(f"[{i+1}/{len(rows)}] Checking: {title}")
+                
+                game_info = database.get(app_id, {
+                    'Title': title, 'Date': row.select_one('.search_released').text.strip(),
+                    'Email': 'None', 'Discord': 'None', 'URL': row['href'].split('?')[0], 'Site': 'None'
+                })
+
                 p_res = session.get(game_info['URL'], headers=get_headers(), timeout=12)
                 p_soup = BeautifulSoup(p_res.text, 'html.parser')
                 
-                # Scan for Discord/Site
                 for link in p_soup.find_all('a', href=True):
                     txt, href = link.get_text().lower(), link['href']
                     if 'website' in txt:
                         site = unquote(href.split('u=')[1].split('&')[0]) if 'linkfilter' in href else href
                         if 'steampowered' not in site:
                             game_info['Site'] = site
-                            # Only deep scan if we don't have an email yet
                             if game_info['Email'] == 'None':
-                                s_res = session.get(site, headers=get_headers(), timeout=10)
-                                emails = filter_emails(re.findall(r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}', s_res.text), site)
-                                if emails: game_info['Email'] = ", ".join(emails)
+                                try:
+                                    s_res = session.get(site, headers=get_headers(), timeout=10)
+                                    found = re.findall(r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}', s_res.text)
+                                    clean = filter_emails(found, site)
+                                    if clean: game_info['Email'] = ", ".join(clean)
+                                except: pass
                     if 'discord' in txt or 'discord.gg' in href:
                         game_info['Discord'] = unquote(href.split('u=')[1].split('&')[0]) if 'linkfilter' in href else href
 
                 stats['success'] += 1
                 database[app_id] = game_info
-            except:
-                print(f"   [!] Connection skipped for {title}")
+            except Exception as e:
+                print(f"   [!] Connection skipped for {title}: {e}")
             
-            time.sleep(4) # Very slow and safe
+            time.sleep(4)
 
     finally:
         save_data(database, stats)
