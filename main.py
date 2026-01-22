@@ -33,7 +33,6 @@ def filter_emails(emails, site_url):
     return list(set(clean))
 
 def save_data(database, stats):
-    """Saves the JSON and generates the clean HTML dashboard."""
     with open(DB_FILE, 'w') as f:
         json.dump(database, f, indent=4)
     
@@ -42,18 +41,19 @@ def save_data(database, stats):
     html = f"""<html><head><meta name='viewport' content='width=device-width, initial-scale=1'><style>
         body {{ background: #0b0e14; color: #d1d1d1; font-family: sans-serif; padding: 15px; }}
         .stats-bar {{ background: #2a475e; padding: 10px; border-radius: 5px; margin-bottom: 20px; font-size: 14px; border-left: 5px solid #a3da00; }}
-        .game-row {{ background: #1a1f26; margin: 5px 0; padding: 12px; border-radius: 4px; display: flex; justify-content: space-between; align-items: center; border-left: 5px solid #3a4453; }}
-        /* RULE: Gray out rows with no contact info */
+        .game-row {{ background: #1a1f26; margin: 5px 0; padding: 10px; border-radius: 4px; display: flex; justify-content: space-between; align-items: center; border-left: 5px solid #3a4453; }}
         .empty-row {{ opacity: 0.35; filter: grayscale(100%); }}
+        .game-info {{ display: flex; align-items: center; }}
+        .game-thumb {{ width: 60px; height: auto; margin-right: 15px; border-radius: 2px; }}
+        .game-title-link {{ color: inherit; text-decoration: none; font-weight: bold; font-size: 1.1em; }}
+        .game-title-link:hover {{ color: #66c0f4; }}
         .email {{ color: #a3da00; font-weight: bold; }}
         a {{ color: #66c0f4; text-decoration: none; }}
         .date-header {{ color: #66c0f4; margin-top: 25px; border-bottom: 1px solid #333; }}
-        .spacer {{ display: inline-block; width: 35px; }} /* Rule: 5-space empty gap */
+        .spacer {{ display: inline-block; width: 20px; }} /* Rule: Lowered spacing (3-space equivalent) */
     </style></head><body>
     <div class='stats-bar'>
-        <b>Sync:</b> {stats['success']}/{stats['total']} Scanned | 
-        <b>Total:</b> {len(database)} | 
-        <b>Updated:</b> {datetime.now().strftime('%Y-%m-%d %H:%M')}
+        <b>Sync:</b> {stats['success']}/{stats['total']} Scanned | <b>Total:</b> {len(database)} | <b>Updated:</b> {datetime.now().strftime('%Y-%m-%d %H:%M')}
     </div>"""
 
     curr_date = ""
@@ -65,28 +65,28 @@ def save_data(database, stats):
         
         discord_url = g.get('Discord', '')
         site_url = g.get('Site', '')
+        contact_page = g.get('ContactPage', '')
         emails = g.get('Email', '')
+        thumb = g.get('Thumb', '')
 
-        # Check if the row is empty (only has Steam URL)
-        is_empty = not emails and not discord_url and not site_url
+        is_empty = not emails and not discord_url and not site_url and not contact_page
         row_class = "game-row empty-row" if is_empty else "game-row"
 
-        # Formatting values: Show nothing if empty instead of "None"
-        email_display = f"<span class='email'>{emails}</span>" if emails else ""
-        discord_btn = f"<a href='{discord_url}'>Discord</a>" if discord_url else ""
-        site_btn = f"<a href='{site_url}'>Site</a>" if site_url else ""
+        # Logic for right-side links (Remove Steam 'Store' link from here)
+        links_list = []
+        if emails: links_list.append(f"<span class='email'>{emails}</span>")
+        if discord_url: links_list.append(f"<a href='{discord_url}'>Discord</a>")
+        if site_url: links_list.append(f"<a href='{site_url}'>Site</a>")
+        if contact_page: links_list.append(f"<a href='{contact_page}'>Contact/About</a>")
         
-        # Build the data string with the requested spacers
-        data_parts = [part for part in [email_display, discord_btn, site_btn] if part]
-        data_string = "<span class='spacer'></span>".join(data_parts)
+        data_string = "<span class='spacer'></span>".join(links_list)
         
         html += f"""<div class='{row_class}'>
-            <span><b>{g.get('Title', 'Unknown')}</b></span>
-            <span>
-                {data_string}
-                <span class='spacer'></span>
-                <a href='{g.get('URL', '#')}'>Steam</a>
-            </span>
+            <div class='game-info'>
+                <img src='{thumb}' class='game-thumb'>
+                <a href='{g.get('URL', '#')}' class='game-title-link'>{g.get('Title', 'Unknown')}</a>
+            </div>
+            <span>{data_string}</span>
         </div>"""
 
     with open("index.html", "w", encoding="utf-8") as f:
@@ -96,13 +96,7 @@ def run_script():
     database = {}
     if os.path.exists(DB_FILE):
         with open(DB_FILE, 'r') as f:
-            try: 
-                database = json.load(f)
-                # Cleanup old data for the new UI rules
-                for app_id in database:
-                    for key in ['Email', 'Discord', 'Site']:
-                        if database[app_id].get(key) == 'None':
-                            database[app_id][key] = ''
+            try: database = json.load(f)
             except: database = {}
 
     stats = {'total': 0, 'success': 0}
@@ -111,19 +105,27 @@ def run_script():
 
     try:
         res = session.get(f"{BASE_SEARCH_URL}&start=0", headers=get_headers(), timeout=20)
-        rows = BeautifulSoup(res.text, 'html.parser').select('.search_result_row')[:BATCH_LIMIT]
+        soup = BeautifulSoup(res.text, 'html.parser')
+        rows = soup.select('.search_result_row')[:BATCH_LIMIT]
         stats['total'] = len(rows)
 
         for i, row in enumerate(rows):
             try:
                 app_id = row['data-ds-appid']
                 title = row.select_one('.title').text.strip()
+                # Get Thumbnail (Steam Capsule Image)
+                img_tag = row.select_one('.search_capsule img')
+                thumb_url = img_tag['src'] if img_tag else ""
+                
                 print(f"[{i+1}/{len(rows)}] Checking: {title}")
                 
                 game_info = database.get(app_id, {
                     'Title': title, 'Date': row.select_one('.search_released').text.strip(),
-                    'Email': '', 'Discord': '', 'URL': row['href'].split('?')[0], 'Site': ''
+                    'Email': '', 'Discord': '', 'URL': row['href'].split('?')[0], 'Site': '',
+                    'ContactPage': '', 'Thumb': thumb_url
                 })
+                # Always update thumb in case it was missing
+                game_info['Thumb'] = thumb_url
 
                 p_res = session.get(game_info['URL'], headers=get_headers(), timeout=12)
                 p_soup = BeautifulSoup(p_res.text, 'html.parser')
@@ -134,22 +136,34 @@ def run_script():
                         site = unquote(href.split('u=')[1].split('&')[0]) if 'linkfilter' in href else href
                         if 'steampowered' not in site:
                             game_info['Site'] = site
-                            if not game_info['Email']:
-                                try:
-                                    s_res = session.get(site, headers=get_headers(), timeout=10)
-                                    found = re.findall(r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}', s_res.text)
-                                    clean = filter_emails(found, site)
-                                    if clean: game_info['Email'] = ", ".join(clean)
-                                except: pass
+                            # Prioritized Contact Page Hunt
+                            try:
+                                s_res = session.get(site, headers=get_headers(), timeout=10)
+                                s_soup = BeautifulSoup(s_res.text, 'html.parser')
+                                
+                                # Find Contact/About links
+                                for s_link in s_soup.find_all('a', href=True):
+                                    s_href = s_link['href'].lower()
+                                    if 'contact' in s_href:
+                                        game_info['ContactPage'] = urljoin(site, s_link['href'])
+                                        break
+                                    if 'about' in s_href and not game_info['ContactPage']:
+                                        game_info['ContactPage'] = urljoin(site, s_link['href'])
+
+                                # Email Hunt
+                                target_scan = game_info['ContactPage'] if game_info['ContactPage'] else site
+                                scan_res = session.get(target_scan, headers=get_headers(), timeout=10)
+                                found = re.findall(r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}', scan_res.text)
+                                clean = filter_emails(found, site)
+                                if clean: game_info['Email'] = ", ".join(clean)
+                            except: pass
                     if 'discord' in txt or 'discord.gg' in href:
                         game_info['Discord'] = unquote(href.split('u=')[1].split('&')[0]) if 'linkfilter' in href else href
 
                 stats['success'] += 1
                 database[app_id] = game_info
             except: pass
-            
             time.sleep(4)
-
     finally:
         save_data(database, stats)
 
