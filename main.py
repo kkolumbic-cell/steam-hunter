@@ -33,7 +33,7 @@ def filter_emails(emails, site_url):
     return list(set(clean))
 
 def save_data(database, stats):
-    """Saves the JSON and generates the live HTML dashboard safely."""
+    """Saves the JSON and generates the clean HTML dashboard."""
     with open(DB_FILE, 'w') as f:
         json.dump(database, f, indent=4)
     
@@ -42,35 +42,51 @@ def save_data(database, stats):
     html = f"""<html><head><meta name='viewport' content='width=device-width, initial-scale=1'><style>
         body {{ background: #0b0e14; color: #d1d1d1; font-family: sans-serif; padding: 15px; }}
         .stats-bar {{ background: #2a475e; padding: 10px; border-radius: 5px; margin-bottom: 20px; font-size: 14px; border-left: 5px solid #a3da00; }}
-        .game-row {{ background: #1a1f26; margin: 5px 0; padding: 12px; border-radius: 4px; display: flex; justify-content: space-between; align-items: center; }}
+        .game-row {{ background: #1a1f26; margin: 5px 0; padding: 12px; border-radius: 4px; display: flex; justify-content: space-between; align-items: center; border-left: 5px solid #3a4453; }}
+        /* RULE: Gray out rows with no contact info */
+        .empty-row {{ opacity: 0.35; filter: grayscale(100%); }}
         .email {{ color: #a3da00; font-weight: bold; }}
         a {{ color: #66c0f4; text-decoration: none; }}
         .date-header {{ color: #66c0f4; margin-top: 25px; border-bottom: 1px solid #333; }}
+        .spacer {{ display: inline-block; width: 35px; }} /* Rule: 5-space empty gap */
     </style></head><body>
     <div class='stats-bar'>
-        <b>Last Run Stats:</b> {stats['success']}/{stats['total']} Games Scanned | 
-        <b>Total in Database:</b> {len(database)} | 
+        <b>Sync:</b> {stats['success']}/{stats['total']} Scanned | 
+        <b>Total:</b> {len(database)} | 
         <b>Updated:</b> {datetime.now().strftime('%Y-%m-%d %H:%M')}
     </div>"""
 
     curr_date = ""
     for g in sorted_games:
-        # Use .get() to avoid KeyError if old data is missing keys
-        release_date = g.get('Date', 'Unknown')
+        release_date = g.get('Date', '')
         if release_date != curr_date:
             curr_date = release_date
             html += f"<h3 class='date-header'>{curr_date}</h3>"
         
-        discord_url = g.get('Discord', 'None')
-        site_url = g.get('Site', 'None')
-        emails = g.get('Email', 'None')
+        discord_url = g.get('Discord', '')
+        site_url = g.get('Site', '')
+        emails = g.get('Email', '')
+
+        # Check if the row is empty (only has Steam URL)
+        is_empty = not emails and not discord_url and not site_url
+        row_class = "game-row empty-row" if is_empty else "game-row"
+
+        # Formatting values: Show nothing if empty instead of "None"
+        email_display = f"<span class='email'>{emails}</span>" if emails else ""
+        discord_btn = f"<a href='{discord_url}'>Discord</a>" if discord_url else ""
+        site_btn = f"<a href='{site_url}'>Site</a>" if site_url else ""
         
-        discord_btn = f"<a href='{discord_url}'>[Discord]</a>" if discord_url != 'None' else ""
-        site_btn = f"<a href='{site_url}'>[Site]</a>" if site_url != 'None' else ""
+        # Build the data string with the requested spacers
+        data_parts = [part for part in [email_display, discord_btn, site_btn] if part]
+        data_string = "<span class='spacer'></span>".join(data_parts)
         
-        html += f"""<div class='game-row'>
+        html += f"""<div class='{row_class}'>
             <span><b>{g.get('Title', 'Unknown')}</b></span>
-            <span><span class='email'>{emails}</span> | {discord_btn} {site_btn} <a href='{g.get('URL', '#')}'>[Steam]</a></span>
+            <span>
+                {data_string}
+                <span class='spacer'></span>
+                <a href='{g.get('URL', '#')}'>Steam</a>
+            </span>
         </div>"""
 
     with open("index.html", "w", encoding="utf-8") as f:
@@ -82,11 +98,11 @@ def run_script():
         with open(DB_FILE, 'r') as f:
             try: 
                 database = json.load(f)
-                # MIGRATION: Ensure all old entries have the new keys to prevent crashes
+                # Cleanup old data for the new UI rules
                 for app_id in database:
-                    if 'Site' not in database[app_id]: database[app_id]['Site'] = 'None'
-                    if 'Email' not in database[app_id]: database[app_id]['Email'] = 'None'
-                    if 'Discord' not in database[app_id]: database[app_id]['Discord'] = 'None'
+                    for key in ['Email', 'Discord', 'Site']:
+                        if database[app_id].get(key) == 'None':
+                            database[app_id][key] = ''
             except: database = {}
 
     stats = {'total': 0, 'success': 0}
@@ -106,7 +122,7 @@ def run_script():
                 
                 game_info = database.get(app_id, {
                     'Title': title, 'Date': row.select_one('.search_released').text.strip(),
-                    'Email': 'None', 'Discord': 'None', 'URL': row['href'].split('?')[0], 'Site': 'None'
+                    'Email': '', 'Discord': '', 'URL': row['href'].split('?')[0], 'Site': ''
                 })
 
                 p_res = session.get(game_info['URL'], headers=get_headers(), timeout=12)
@@ -118,7 +134,7 @@ def run_script():
                         site = unquote(href.split('u=')[1].split('&')[0]) if 'linkfilter' in href else href
                         if 'steampowered' not in site:
                             game_info['Site'] = site
-                            if game_info['Email'] == 'None':
+                            if not game_info['Email']:
                                 try:
                                     s_res = session.get(site, headers=get_headers(), timeout=10)
                                     found = re.findall(r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}', s_res.text)
@@ -130,8 +146,7 @@ def run_script():
 
                 stats['success'] += 1
                 database[app_id] = game_info
-            except Exception as e:
-                print(f"   [!] Connection skipped for {title}: {e}")
+            except: pass
             
             time.sleep(4)
 
