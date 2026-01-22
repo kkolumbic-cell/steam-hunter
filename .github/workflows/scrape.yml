@@ -1,0 +1,40 @@
+name: Hourly Steam Scrape
+
+on:
+  schedule:
+    # This tells GitHub to run the script at the start of every hour
+    - cron: '0 * * * *'
+  # This button lets you run it manually for testing
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    # Permissions needed for the bot to update your database.json and index.html
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Run Scraper
+        run: python main.py
+
+      - name: Commit and Push results
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add database.json index.html
+          git commit -m "Hourly Update: New Leads Found" || exit 0
+          git push
