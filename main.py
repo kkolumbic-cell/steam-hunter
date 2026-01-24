@@ -33,6 +33,7 @@ def filter_emails(emails, site_url):
     return list(set(clean))
 
 def save_data(database, stats):
+    """Saves the JSON and generates the live HTML dashboard."""
     with open(DB_FILE, 'w') as f:
         json.dump(database, f, indent=4)
     
@@ -53,7 +54,9 @@ def save_data(database, stats):
         .spacer {{ display: inline-block; width: 20px; }}
     </style></head><body>
     <div class='stats-bar'>
-        <b>Sync:</b> {stats['success']}/{stats['total']} Scanned | <b>Total:</b> {len(database)} | <b>Updated:</b> {datetime.now().strftime('%Y-%m-%d %H:%M')}
+        <b>Bot Status:</b> Active <span style='color:#a3da00;'>●</span> | 
+        <b>Last Data Refresh:</b> {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')} | 
+        <b>Total Leads:</b> {len(database)}
     </div>"""
 
     curr_date = ""
@@ -72,7 +75,6 @@ def save_data(database, stats):
         is_empty = not emails and not discord_url and not site_url and not contact_page
         row_class = "game-row empty-row" if is_empty else "game-row"
 
-        # Logic for right-side links with target='_blank'
         links_list = []
         if emails: links_list.append(f"<span class='email'>{emails}</span>")
         if discord_url: links_list.append(f"<a href='{discord_url}' target='_blank'>Discord</a>")
@@ -93,6 +95,11 @@ def save_data(database, stats):
         f.write(html + "</body></html>")
 
 def run_script():
+    # --- HEARTBEAT LOGIC ---
+    # This creates/updates a file every single run to force GitHub to see a change.
+    with open("last_run.txt", "w") as f:
+        f.write(f"Scraper last active: {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}")
+
     database = {}
     if os.path.exists(DB_FILE):
         with open(DB_FILE, 'r') as f:
@@ -137,7 +144,6 @@ def run_script():
                             try:
                                 s_res = session.get(site, headers=get_headers(), timeout=10)
                                 s_soup = BeautifulSoup(s_res.text, 'html.parser')
-                                
                                 for s_link in s_soup.find_all('a', href=True):
                                     s_href = s_link['href'].lower()
                                     if 'contact' in s_href:
@@ -164,5 +170,3 @@ def run_script():
 
 if __name__ == "__main__":
     run_script()
-
-# Force schedule reset 2026-01-24
