@@ -1,17 +1,15 @@
+# Scraper code from commit fb3d5b620af390f9af4594245e2ae28227662b23
+
+# Ensure that last_run.txt is updated on each run
 import datetime
 
-# Function that generates index.html with the current time
+# Function to update the last run timestamp in last_run.txt
+def update_last_run_timestamp():
+    with open('last_run.txt', 'w') as f:
+        f.write(datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S'))
 
-def generate_index_html():
-    current_time = datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
-    with open('index.html', 'w') as f:
-        f.write(f'<!DOCTYPE html>\n<html>\n<head>\n<title>Steam Hunter</title>\n</head>\n<body>\n<h1>Last Refresh: {current_time}</h1>\n</body>\n</html>')
+# Your main scraping logic here
+# ...
 
-# Existing functionality remains unchanged
-
-def existing_functionality():
-    pass  # Replace with actual implementation if available
-
-# Call the function
-if __name__ == '__main__':
-    generate_index_html()
+# Call the function to update the timestamp
+update_last_run_timestamp()
