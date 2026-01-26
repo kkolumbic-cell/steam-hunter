@@ -2,15 +2,17 @@ name: Hourly Steam Scrape
 
 on:
   schedule:
-    # Run at minute 0 of every hour (UTC)
-    - cron: '0 * * * *'
+    # We provide two triggers to bypass the "stale" filter
+    - cron: '17 * * * *'  
+    - cron: '47 * * * *'  
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
-    # Permissions needed for the bot to commit generated files back to the repo
     permissions:
       contents: write
 
@@ -18,32 +20,24 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 0 # Fetches full history to ensure git doesn't get confused
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests beautifulsoup4
+        run: pip install requests beautifulsoup4
 
       - name: Run Scraper
         run: python main.py
 
-      - name: Commit and push results (only if changed)
+      - name: Commit and Push results
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add database.json index.html last_run.txt
-
-          if git diff --cached --quiet; then
-            echo "No changes detected; nothing to commit."
-            exit 0
-          fi
-
-          git commit -m "Hourly update: $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git push
+          # The --allow-empty flag ensures the bot NEVER fails even if no new games are found
+          git commit --allow-empty -m "Automated Sync: $(date)" 
+          git push origin main
