@@ -1,10 +1,9 @@
-name: Hourly Steam Scrape
+name: Steam Scrape Every 6 Hours
 
 on:
   schedule:
-    # We provide two triggers to bypass the "stale" filter
-    - cron: '17 * * * *'  
-    - cron: '47 * * * *'  
+    # Runs at 00:23, 06:23, 12:23, and 18:23 UTC
+    - cron: '23 */6 * * *'  
   workflow_dispatch:
   push:
     branches:
@@ -20,7 +19,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Fetches full history to ensure git doesn't get confused
+          fetch-depth: 0 
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -38,6 +37,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add database.json index.html last_run.txt
-          # The --allow-empty flag ensures the bot NEVER fails even if no new games are found
-          git commit --allow-empty -m "Automated Sync: $(date)" 
+          git commit --allow-empty -m "6-Hour Sync: $(date)" 
           git push origin main
