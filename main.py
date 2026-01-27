@@ -9,7 +9,6 @@ import os
 import random
 
 # --- CONFIGURATION ---
-# We scan 150 games (3 pages) to ensure no new release is missed.
 BATCH_LIMIT = 150 
 DB_FILE = 'database.json'
 TRUSTED_PROVIDERS = ['gmail.com', 'outlook.com', 'proton.me', 'protonmail.com', 'zoho.com', 'icloud.com', 'yahoo.com', 'hotmail.com']
@@ -37,14 +36,12 @@ def save_data(database):
     with open(DB_FILE, 'w') as f:
         json.dump(database, f, indent=4)
     
-    # Sort games by release date (TBA at the top)
     sorted_games = sorted(database.values(), key=lambda x: x.get('Date', 'TBA'), reverse=True)
     
     html = f"""<html><head><meta name='viewport' content='width=device-width, initial-scale=1'><style>
         body {{ background: #0b0e14; color: #d1d1d1; font-family: sans-serif; padding: 15px; }}
         .stats-bar {{ background: #2a475e; padding: 10px; border-radius: 5px; margin-bottom: 20px; font-size: 14px; border-left: 5px solid #a3da00; }}
         .game-row {{ background: #1a1f26; margin: 5px 0; padding: 10px; border-radius: 4px; display: flex; justify-content: space-between; align-items: center; border-left: 5px solid #3a4453; }}
-        /* Faded style for entries with no contact info */
         .empty-row {{ opacity: 0.35; filter: grayscale(100%); }}
         .game-info {{ display: flex; align-items: center; }}
         .game-thumb {{ width: 60px; height: auto; margin-right: 15px; border-radius: 2px; }}
@@ -68,12 +65,10 @@ def save_data(database):
             curr_date = date
             html += f"<h3 class='date-header'>{curr_date}</h3>"
         
-        # Check if we have any leads for this game
         has_email = bool(g.get('Email'))
         has_discord = bool(g.get('Discord'))
         has_site = bool(g.get('Site'))
         
-        # Apply the 'empty-row' class if no contact info was found
         row_class = "game-row"
         if not has_email and not has_discord and not has_site:
             row_class = "game-row empty-row"
@@ -95,7 +90,6 @@ def save_data(database):
         f.write(html + "</body></html>")
 
 def run_script():
-    # Update heartbeat file for GitHub
     with open("last_run.txt", "w") as f:
         f.write(f"Scraper last active: {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}")
 
@@ -108,7 +102,7 @@ def run_script():
     session = requests.Session()
     session.cookies.update({'birthtime': '631180801', 'lastagecheckage': '1-0-1990', 'wants_mature_content': '1'})
 
-    # Scanning first 3 pages of Steam search results
+    # Scans first 150 games across 3 pages
     for start in [0, 50, 100]:
         print(f"--- Systematic Scan: Batch {start} ---")
         try:
@@ -121,7 +115,6 @@ def run_script():
                 app_id = row['data-ds-appid']
                 title = row.select_one('.title').text.strip()
 
-                # Skip games we've already successfully indexed with an email
                 if app_id in database and database[app_id].get('Email'):
                     continue
 
@@ -135,7 +128,6 @@ def run_script():
                 })
 
                 try:
-                    # Visit the Steam Store page
                     p_res = session.get(game_info['URL'], headers=get_headers(), timeout=12)
                     p_soup = BeautifulSoup(p_res.text, 'html.parser')
                     
@@ -145,7 +137,6 @@ def run_script():
                             site = unquote(href.split('u=')[1].split('&')[0]) if 'linkfilter' in href else href
                             if 'steampowered' not in site:
                                 game_info['Site'] = site
-                                # Deep crawl the developer's site for emails
                                 s_res = session.get(site, headers=get_headers(), timeout=10)
                                 emails = re.findall(r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}', s_res.text)
                                 clean = filter_emails(emails, site)
@@ -154,7 +145,6 @@ def run_script():
                             game_info['Discord'] = unquote(href.split('u=')[1].split('&')[0]) if 'linkfilter' in href else href
                     
                     database[app_id] = game_info
-                    # Randomized delay to mimic human browsing
                     time.sleep(random.uniform(3.0, 6.0))
                 except: pass
         except: pass
