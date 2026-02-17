@@ -7942,7 +7942,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4384610/Getaway_Golf/",
-        "Site": "",
+        "Site": "https://getawaygolf.app",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4384610/c3f7f35b709432bf540189b819f9b9b2c34c93d1/capsule_231x87.jpg?t=1770670752"
     },
     "4306840": {
@@ -8862,5 +8862,23 @@
         "URL": "https://store.steampowered.com/app/4333840/Dash_Trails/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4333840/1ae73f53611555d80605bf5f8b186d961fc7a0f3/capsule_231x87.jpg?t=1770514442"
+    },
+    "4397120": {
+        "Title": "Yapori Advance",
+        "Date": "Feb 20, 2026",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4397120/Yapori_Advance/",
+        "Site": "https://www.youtube.com/@HayllonStudios_10",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4397120/59aca28728ab684cb9a58f36f7095e363e59ad13/capsule_231x87.jpg?t=1771271896"
+    },
+    "4180100": {
+        "Title": "Emily's Desire",
+        "Date": "Feb 22, 2026",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4180100/Emilys_Desire/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4180100/90d61083f8b16d6402669ffe20ba5a3f7d5aa157/capsule_231x87.jpg?t=1770943864"
     }
 }
