@@ -11254,7 +11254,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4345720/Gravelix/",
-        "Site": "",
+        "Site": "https://gravelix.cz",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4345720/97fe93d59afa682253dd403571c248ffa7c1279d/capsule_231x87.jpg?t=1772006595"
     },
     "3338560": {
@@ -11270,7 +11270,7 @@
         "Title": "Throst",
         "Date": "Mar 1, 2026",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/NYks3XAc25",
         "URL": "https://store.steampowered.com/app/4153910/Throst/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4153910/8f9b5e0168242f67cf15fafc787ba20c845bbe14/capsule_231x87.jpg?t=1771891384"
@@ -11391,5 +11391,86 @@
         "URL": "https://store.steampowered.com/app/3823520/Legends_of_Amberland_III_The_Crimson_Tower/",
         "Site": "http://www.silverlemurgames.com/legendsofamberland3/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3823520/2f80dddad66d4f8e4b7632fed580acc1075da509/capsule_231x87.jpg?t=1772106549"
+    },
+    "4084500": {
+        "Title": "Grand Galaxy",
+        "Date": "Feb 27, 2026",
+        "Email": "contact@support.necrocaticgames.com",
+        "Discord": "https://discord.gg/fGHutd4dUj",
+        "URL": "https://store.steampowered.com/app/4084500/Grand_Galaxy/",
+        "Site": "https://www.necrocaticgames.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084500/01db2f433ffa0fe4c4d4e6915bd0778ed17d871c/capsule_231x87.jpg?t=1772158084"
+    },
+    "3980020": {
+        "Title": "Mary Jane",
+        "Date": "Feb 27, 2026",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3980020/Mary_Jane/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3980020/4d76ffacc48a92fff7eddd9a977e440032b25583/capsule_231x87.jpg?t=1772141074"
+    },
+    "4297760": {
+        "Title": "Take a Hint",
+        "Date": "Mar 2, 2026",
+        "Email": "",
+        "Discord": "https://discord.gg/rxsntDNYKm",
+        "URL": "https://store.steampowered.com/app/4297760/Take_a_Hint/",
+        "Site": "https://www.skullqueens.games/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297760/3c015c517f13e45a7991be39ebc843d4da8c038a/capsule_231x87.jpg?t=1772145199"
+    },
+    "4326660": {
+        "Title": "Nancy Drew: The Missing Crowley Will",
+        "Date": "Mar 2, 2026",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4326660/Nancy_Drew_The_Missing_Crowley_Will/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4326660/aa2bb44e2a829dea4e7314e2d6b783f659cd349b/capsule_231x87.jpg?t=1771649903"
+    },
+    "4416730": {
+        "Title": "The Curse in the Village - Remastered",
+        "Date": "Mar 2, 2026",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4416730/The_Curse_in_the_Village__Remastered/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4416730/5df633ca220d017a562cc0b71a53cfb0873d91eb/capsule_231x87.jpg?t=1771333193"
+    },
+    "4366250": {
+        "Title": "SELF MADE: Investment Life Sim",
+        "Date": "Mar 2, 2026",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4366250/SELF_MADE_Investment_Life_Sim/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366250/a6b98f0e618dee0415158f27753b13f574d09b27/capsule_231x87.jpg?t=1771034278"
+    },
+    "4378250": {
+        "Title": "Organizer Pro",
+        "Date": "Mar 2, 2026",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4378250/Organizer_Pro/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4378250/4e089ff3df54166b19d149148b2ef378c2df3697/capsule_231x87.jpg?t=1770148940"
+    },
+    "4401990": {
+        "Title": "SUPER IDLE POOP CLICKER",
+        "Date": "Mar 2, 2026",
+        "Email": "milenabbrandao@gmail.com",
+        "Discord": "https://discord.gg/xCZyszG2kW",
+        "URL": "https://store.steampowered.com/app/4401990/SUPER_IDLE_POOP_CLICKER/",
+        "Site": "https://www.ForgedByOx.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4401990/1c7b252dd2924fb6e5661fa0c853617195b4d009/capsule_231x87.jpg?t=1771135573"
+    },
+    "3789660": {
+        "Title": "100 Candy Cats",
+        "Date": "Mar 2, 2026",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3789660/100_Candy_Cats/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3789660/ee45538f5ed5b55c04fd765036cd0f5179426a03/capsule_231x87.jpg?t=1771950706"
     }
 }
