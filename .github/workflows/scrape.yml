@@ -41,6 +41,6 @@ jobs:
           git add database.json index.html last_run.txt
           git commit --allow-empty -m "6-Hour Sync: $(date)" 
           
-          # Pull the latest changes to avoid conflicts before pushing
-          git pull --rebase origin main
+          # Pull latest changes. If there is a conflict, automatically keep the bot's newest files (-X ours)
+          git pull origin main --no-rebase -X ours
           git push origin main
