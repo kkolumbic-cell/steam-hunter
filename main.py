@@ -10,7 +10,6 @@ import random
 
 # --- CONFIGURATION ---
 DB_FILE = 'database.json'
-APP_LIST_FILE = 'app_list.json' # Our baseline memory of known Steam games
 TRUSTED_PROVIDERS = ['gmail.com', 'outlook.com', 'proton.me', 'protonmail.com', 'zoho.com', 'icloud.com', 'yahoo.com', 'hotmail.com']
 
 TARGET_TAGS = [
@@ -103,8 +102,27 @@ def save_data(database):
         f.write(html + "</body></html>")
 
 def run_script():
-    with open("last_run.txt", "w") as f:
-        f.write(f"Scraper last active: {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}")
+    # Fetch our newly minted API Key securely
+    API_KEY = os.environ.get('STEAM_API_KEY')
+    if not API_KEY:
+        print("Critical Error: STEAM_API_KEY environment variable is not set. Please add it to GitHub Secrets.")
+        return
+
+    # 1. Determine our time window
+    current_time = int(time.time())
+    
+    # Default to checking the last 24 hours if this is our very first run
+    last_timestamp = current_time - (24 * 3600) 
+    
+    if os.path.exists('last_run.txt'):
+        try:
+            with open('last_run.txt', 'r') as f:
+                content = f.read().strip()
+                # Ensure it's just numbers, skip old text formats from previous versions
+                if content.isdigit():
+                    last_timestamp = int(content)
+        except Exception as e:
+            print(f"Notice: Could not read last_run.txt ({e}). Defaulting to 24h lookback.")
 
     database = {}
     if os.path.exists(DB_FILE):
@@ -115,56 +133,22 @@ def run_script():
     req_session = requests.Session()
     req_session.cookies.update({'birthtime': '631180801', 'lastagecheckage': '1-0-1990', 'wants_mature_content': '1'})
 
-    print("--- Fetching Master Steam App List ---")
-    data = None
+    print(f"--- Fetching apps modified since Unix Time: {last_timestamp} ---")
     
-    # Removed the trailing slashes!
-    endpoints = [
-        "https://api.steampowered.com/ISteamApps/GetAppList/v2",
-        "https://api.steampowered.com/ISteamApps/GetAppList/v0002",
-        "https://community.steam-api.com/ISteamApps/GetAppList/v2"
-    ]
+    # Use the official new API endpoint with our key and time filter
+    api_url = f"https://api.steampowered.com/IStoreService/GetAppList/v1/?key={API_KEY}&if_modified_since={last_timestamp}&max_results=50000"
     
-    for api_url in endpoints:
-        try:
-            print(f"Connecting to: {api_url}")
-            res = req_session.get(api_url, headers=get_headers(), timeout=30)
-            
-            if res.status_code == 200 and 'json' in res.headers.get('Content-Type', '').lower():
-                data = res.json()
-                print("Successfully fetched Master List.")
-                break
-            else:
-                print(f"Failed. Status: {res.status_code}. Retrying next endpoint...")
-        except Exception as e:
-            print(f"Error connecting: {e}")
-        time.sleep(2) 
-        
-    if not data or 'applist' not in data:
-        print("Critical error: All Steam API endpoints were blocked or failed. Stopping execution to prevent database corruption.")
-        return
-
     try:
-        current_app_ids = set([str(app['appid']) for app in data.get('applist', {}).get('apps', [])])
-        print(f"Total apps currently on Steam: {len(current_app_ids)}")
-        
-        known_app_ids = set()
-        if os.path.exists(APP_LIST_FILE):
-            with open(APP_LIST_FILE, 'r') as f:
-                try: known_app_ids = set(json.load(f))
-                except: known_app_ids = set()
-                
-        # The Initialization Trick
-        if not known_app_ids:
-            print(f"Initialization run detected. Saving {len(current_app_ids)} apps to baseline.")
-            with open(APP_LIST_FILE, 'w') as f:
-                json.dump(list(current_app_ids), f)
-            print("Baseline saved! The next scheduled run will detect newly added games.")
+        res = req_session.get(api_url, headers=get_headers(), timeout=30)
+        if res.status_code != 200:
+            print(f"Failed to fetch from IStoreService. Status Code: {res.status_code}")
             return
-
-        # Mathematical Difference
-        new_app_ids = current_app_ids - known_app_ids
-        print(f"Found {len(new_app_ids)} brand new App IDs since last run. Processing...")
+            
+        data = res.json()
+        apps = data.get('response', {}).get('apps', [])
+        
+        new_app_ids = [str(app['appid']) for app in apps]
+        print(f"Found {len(new_app_ids)} updated/new App IDs in this time window. Processing...")
 
         for app_id in new_app_ids:
             if app_id in database and database[app_id].get('Email'):
@@ -175,6 +159,8 @@ def run_script():
             steam_url = f"https://store.steampowered.com/app/{app_id}/"
             s_res = req_session.get(steam_url, headers=get_headers(), timeout=15)
             
+            # If a game is added to the backend but has no public store page yet, 
+            # Steam redirects the URL to the homepage. We must skip these hidden games.
             if s_res.url != steam_url and not s_res.url.startswith(steam_url):
                 continue
                 
@@ -235,8 +221,9 @@ def run_script():
             database[app_id] = game_info
             save_data(database)
             
-        with open(APP_LIST_FILE, 'w') as f:
-            json.dump(list(current_app_ids), f)
+        # Update our time memory for the next 6-hour cycle
+        with open('last_run.txt', 'w') as f:
+            f.write(str(current_time))
             
     except Exception as e:
         print(f"Critical error during scrape: {e}")
