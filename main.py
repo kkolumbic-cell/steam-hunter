@@ -7,11 +7,10 @@ from urllib.parse import urlparse, unquote, urljoin
 from datetime import datetime
 import os
 import random
-from playwright.sync_api import sync_playwright
-from playwright_stealth import stealth_sync
 
 # --- CONFIGURATION ---
 DB_FILE = 'database.json'
+APP_LIST_FILE = 'app_list.json' # Our baseline memory of known Steam games
 TRUSTED_PROVIDERS = ['gmail.com', 'outlook.com', 'proton.me', 'protonmail.com', 'zoho.com', 'icloud.com', 'yahoo.com', 'hotmail.com']
 
 TARGET_TAGS = [
@@ -116,120 +115,114 @@ def run_script():
     req_session = requests.Session()
     req_session.cookies.update({'birthtime': '631180801', 'lastagecheckage': '1-0-1990', 'wants_mature_content': '1'})
 
-    print("--- Firing up Playwright Browser with Stealth ---")
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        context = browser.new_context(
-            user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-            viewport={'width': 1920, 'height': 1080}
-        )
+    print("--- Fetching Master Steam App List ---")
+    try:
+        api_url = "https://api.steampowered.com/ISteamApps/GetAppList/v2/"
+        res = req_session.get(api_url, timeout=20)
+        data = res.json()
         
-        context.add_cookies([
-            {"name": "birthtime", "value": "631180801", "domain": "store.steampowered.com", "path": "/"},
-            {"name": "lastagecheckage", "value": "1-0-1990", "domain": "store.steampowered.com", "path": "/"},
-            {"name": "wants_mature_content", "value": "1", "domain": "store.steampowered.com", "path": "/"}
-        ])
+        # Get all current app IDs directly from Steam's backend
+        current_app_ids = set([str(app['appid']) for app in data['applist']['apps']])
+        print(f"Total apps currently on Steam: {len(current_app_ids)}")
         
-        page = context.new_page()
-        
-        # Apply the stealth cloaking to the page
-        stealth_sync(page)
+        known_app_ids = set()
+        if os.path.exists(APP_LIST_FILE):
+            with open(APP_LIST_FILE, 'r') as f:
+                try: known_app_ids = set(json.load(f))
+                except: known_app_ids = set()
+                
+        # --- THE INITIALIZATION TRICK ---
+        # If this is our very first run, we must set the baseline and stop. 
+        # Otherwise, the bot would try to scrape all 180,000+ games at once!
+        if not known_app_ids:
+            print(f"Initialization run detected. Saving {len(current_app_ids)} apps to baseline.")
+            with open(APP_LIST_FILE, 'w') as f:
+                json.dump(list(current_app_ids), f)
+            print("Baseline saved! The next scheduled run will detect newly added games.")
+            return
 
-        print("--- Fetching Latest SteamDB Events ---")
-        try:
-            page.goto("https://steamdb.info/history/events/?type=game", timeout=30000)
-            page.wait_for_timeout(5000)
+        # Mathematical Difference: Apps that exist now, but didn't exist in our baseline file
+        new_app_ids = current_app_ids - known_app_ids
+        print(f"Found {len(new_app_ids)} brand new App IDs since last run. Processing...")
+
+        for app_id in new_app_ids:
+            if app_id in database and database[app_id].get('Email'):
+                continue
+
+            time.sleep(random.uniform(1.5, 3.0)) 
             
-            # --- DEBUGGING: Let's see what the page actually is ---
-            print(f"DEBUG - The page title is: {page.title()}")
+            steam_url = f"https://store.steampowered.com/app/{app_id}/"
+            s_res = req_session.get(steam_url, headers=get_headers(), timeout=15)
             
-            html_content = page.content()
+            # If a game is added to the backend but has no public store page yet, 
+            # Steam redirects the URL to the homepage. We must skip these hidden games.
+            if s_res.url != steam_url and not s_res.url.startswith(steam_url):
+                continue
+                
+            s_soup = BeautifulSoup(s_res.text, 'html.parser')
             
-            # Save the HTML so we can review it on GitHub if it fails
-            with open("debug.html", "w", encoding="utf-8") as f:
-                f.write(html_content)
-                
-            soup = BeautifulSoup(html_content, 'html.parser')
+            # Extract tags directly from the Steam store page
+            tag_elements = s_soup.select('.app_tag')
+            game_tags = [t.text.strip().lower() for t in tag_elements if t.text.strip() != '+']
             
-            app_links = soup.select('a[href^="/app/"]')
-            app_ids = list(set([link['href'].split('/')[2] for link in app_links if link['href'].split('/')[2].isdigit()]))
+            has_target_tag = any(tag in game_tags for tag in TARGET_TAGS)
             
-            print(f"Found {len(app_ids)} newly updated/added apps. Processing...")
+            if not has_target_tag:
+                continue
 
-            for app_id in app_ids:
-                if app_id in database and database[app_id].get('Email'):
-                    continue
+            print(f"Matched App ID: {app_id} (Tags: {', '.join([t for t in game_tags if t in TARGET_TAGS])})")
+            
+            title_el = s_soup.select_one('.apphub_AppName')
+            title = title_el.text.strip() if title_el else f"Unknown Game ({app_id})"
+            
+            date_el = s_soup.select_one('.release_date .date')
+            release_date = date_el.text.strip() if date_el else "TBA"
+            
+            thumb_el = s_soup.select_one('.game_header_image_full')
+            thumb = thumb_el['src'] if thumb_el else ""
 
-                steamdb_app_url = f"https://steamdb.info/app/{app_id}/"
-                page.goto(steamdb_app_url, timeout=30000)
-                page.wait_for_timeout(3000) 
-                
-                db_soup = BeautifulSoup(page.content(), 'html.parser')
-                tag_elements = db_soup.select('a[href^="/tags/"]')
-                game_tags = [t.text.strip().lower() for t in tag_elements]
-                
-                has_target_tag = any(tag in game_tags for tag in TARGET_TAGS)
-                
-                if not has_target_tag:
-                    continue
+            game_info = database.get(app_id, {
+                'Title': title, 'Date': release_date, 'Email': '', 'Discord': '', 
+                'URL': steam_url, 'Site': '', 'Thumb': thumb
+            })
 
-                print(f"Matched App ID: {app_id} (Tags: {', '.join([t for t in game_tags if t in TARGET_TAGS])})")
-                
-                steam_url = f"https://store.steampowered.com/app/{app_id}/"
-                page.goto(steam_url, timeout=30000)
-                page.wait_for_timeout(3000)
-                
-                s_soup = BeautifulSoup(page.content(), 'html.parser')
-                
-                title_el = s_soup.select_one('.apphub_AppName')
-                title = title_el.text.strip() if title_el else f"Unknown Game ({app_id})"
-                
-                date_el = s_soup.select_one('.release_date .date')
-                release_date = date_el.text.strip() if date_el else "TBA"
-                
-                thumb_el = s_soup.select_one('.game_header_image_full')
-                thumb = thumb_el['src'] if thumb_el else ""
+            for link in s_soup.select('.apphub_OtherSiteInfo a'):
+                txt, href = link.get_text().lower(), link.get('href', '')
+                if 'website' in txt or 'official site' in txt:
+                    found_site = unquote(href.split('u=')[1].split('&')[0]) if 'linkfilter' in href else href
+                    if 'steampowered' not in found_site:
+                        game_info['Site'] = found_site
+                if 'discord' in txt or 'discord.gg' in href:
+                    game_info['Discord'] = unquote(href.split('u=')[1].split('&')[0]) if 'linkfilter' in href else href
 
-                game_info = database.get(app_id, {
-                    'Title': title, 'Date': release_date, 'Email': '', 'Discord': '', 
-                    'URL': steam_url, 'Site': '', 'Thumb': thumb
-                })
-
-                for link in s_soup.select('.apphub_OtherSiteInfo a'):
-                    txt, href = link.get_text().lower(), link.get('href', '')
-                    if 'website' in txt or 'official site' in txt:
-                        found_site = unquote(href.split('u=')[1].split('&')[0]) if 'linkfilter' in href else href
-                        if 'steampowered' not in found_site:
-                            game_info['Site'] = found_site
-                    if 'discord' in txt or 'discord.gg' in href:
-                        game_info['Discord'] = unquote(href.split('u=')[1].split('&')[0]) if 'linkfilter' in href else href
-
-                if game_info['Site']:
-                    try:
-                        site_res = req_session.get(game_info['Site'], headers=get_headers(), timeout=10)
-                        emails = re.findall(r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}', site_res.text)
-                        
-                        if not emails:
-                            site_soup = BeautifulSoup(site_res.text, 'html.parser')
-                            for s_link in site_soup.find_all('a', href=True):
-                                s_txt, s_href = s_link.get_text().lower(), s_link['href']
-                                if any(k in s_txt or k in s_href.lower() for k in ['contact', 'about', 'support', 'impressum']):
-                                    contact_url = urljoin(game_info['Site'], s_href)
-                                    c_res = req_session.get(contact_url, headers=get_headers(), timeout=10)
-                                    emails += re.findall(r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}', c_res.text)
-                                    if emails: break
-                        
-                        clean = filter_emails(emails, game_info['Site'])
-                        if clean: game_info['Email'] = ", ".join(clean)
-                    except: pass
-                
-                database[app_id] = game_info
-                save_data(database)
-                
-        except Exception as e:
-            print(f"Critical error during scrape: {e}")
-        finally:
-            browser.close()
+            if game_info['Site']:
+                try:
+                    site_res = req_session.get(game_info['Site'], headers=get_headers(), timeout=10)
+                    emails = re.findall(r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}', site_res.text)
+                    
+                    if not emails:
+                        site_soup = BeautifulSoup(site_res.text, 'html.parser')
+                        for s_link in site_soup.find_all('a', href=True):
+                            s_txt, s_href = s_link.get_text().lower(), s_link['href']
+                            if any(k in s_txt or k in s_href.lower() for k in ['contact', 'about', 'support', 'impressum']):
+                                contact_url = urljoin(game_info['Site'], s_href)
+                                c_res = req_session.get(contact_url, headers=get_headers(), timeout=10)
+                                emails += re.findall(r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}', c_res.text)
+                                if emails: break
+                    
+                    clean = filter_emails(emails, game_info['Site'])
+                    if clean: game_info['Email'] = ", ".join(clean)
+                except: pass
+            
+            database[app_id] = game_info
+            save_data(database)
+            
+        # Update the baseline at the very end so we are ready for the next 6-hour window
+        with open(APP_LIST_FILE, 'w') as f:
+            json.dump(list(current_app_ids), f)
+            
+    except Exception as e:
+        print(f"Critical error during scrape: {e}")
 
 if __name__ == "__main__":
     run_script()
