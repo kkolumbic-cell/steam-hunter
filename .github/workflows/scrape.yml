@@ -30,6 +30,8 @@ jobs:
         run: pip install requests beautifulsoup4
 
       - name: Run Scraper
+        env:
+          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
         run: python main.py
 
       - name: Commit and Push results
@@ -37,7 +39,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # The period tells Git to dynamically add any generated files without strictly requiring specific names
+          # The period tells Git to dynamically add any generated files
           git add .
           git commit --allow-empty -m "6-Hour Sync: $(date)" 
           
