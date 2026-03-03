@@ -12,6 +12,7 @@ import random
 DB_FILE = 'database.json'
 TRUSTED_PROVIDERS = ['gmail.com', 'outlook.com', 'proton.me', 'protonmail.com', 'zoho.com', 'icloud.com', 'yahoo.com', 'hotmail.com']
 
+# The genres we WANT. If it has any of these, it stays.
 TARGET_TAGS = [
     'strategy', 'base building', 'colony sim', 'economy', 'city builder', 
     'resource management', 'management', 'grand strategy', 'tower defense', 
@@ -50,11 +51,12 @@ def filter_emails(emails, site_url):
 def save_data(database):
     current_refresh_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')
     
+    # Save the full database unconditionally
     with open(DB_FILE, 'w') as f:
         json.dump(database, f, indent=4)
     
     sorted_games = sorted(database.values(), key=lambda x: parse_steam_date(x.get('Date', '')), reverse=True)
-    visible_games_count = sum(1 for g in database.values() if g.get('Email') or g.get('Discord') or g.get('Site'))
+    visible_games_count = len(sorted_games)
 
     html = f"""<html><head><meta name='viewport' content='width=device-width, initial-scale=1'><style>
         body {{ background: #0b0e14; color: #d1d1d1; font-family: sans-serif; padding: 15px; }}
@@ -72,14 +74,12 @@ def save_data(database):
     <div class='stats-bar'>
         <b>Bot Status:</b> Active <span style='color:#a3da00;'>●</span> | 
         <b>Last Refresh:</b> {current_refresh_time} | 
-        <b>Actionable Leads:</b> {visible_games_count}
+        <b>Tracked Games:</b> {visible_games_count}
     </div>"""
 
     curr_date = ""
     for g in sorted_games:
-        if not g.get('Email') and not g.get('Discord') and not g.get('Site'):
-            continue
-
+        # NO LONGER FILTERING GAMES WITHOUT CONTACTS. ALL MATCHES ARE DISPLAYED.
         date = g.get('Date', 'TBA')
         if date != curr_date:
             curr_date = date
@@ -90,6 +90,10 @@ def save_data(database):
         if g.get('Discord'): links.append(f"<a href='{g['Discord']}' target='_blank'>Discord</a>")
         if g.get('Site'): links.append(f"<a href='{g['Site']}' target='_blank'>Site</a>")
         
+        # If the bot found absolutely nothing, explicitly state it so the team knows they need to dig manually
+        if not links:
+            links.append("<span style='color: #888;'>No contacts found</span>")
+            
         html += f"""<div class='game-row'>
             <div class='game-info'>
                 <img src='{g.get('Thumb', '')}' class='game-thumb'>
@@ -102,27 +106,32 @@ def save_data(database):
         f.write(html + "</body></html>")
 
 def run_script():
-    # Fetch our newly minted API Key securely
     API_KEY = os.environ.get('STEAM_API_KEY')
     if not API_KEY:
-        print("Critical Error: STEAM_API_KEY environment variable is not set. Please add it to GitHub Secrets.")
+        print("Critical Error: STEAM_API_KEY environment variable is not set.")
         return
 
-    # 1. Determine our time window
     current_time = int(time.time())
     
-    # Default to checking the last 24 hours if this is our very first run
-    last_timestamp = current_time - (24 * 3600) 
-    
-    if os.path.exists('last_run.txt'):
-        try:
-            with open('last_run.txt', 'r') as f:
-                content = f.read().strip()
-                # Ensure it's just numbers, skip old text formats from previous versions
-                if content.isdigit():
-                    last_timestamp = int(content)
-        except Exception as e:
-            print(f"Notice: Could not read last_run.txt ({e}). Defaulting to 24h lookback.")
+    # FRESH START LOGIC
+    # If last_run.txt is deleted, we completely wipe the database and set the clock to NOW.
+    if not os.path.exists('last_run.txt'):
+        print("Fresh Start Triggered: Deleting historical database and setting baseline to current time.")
+        with open('last_run.txt', 'w') as f:
+            f.write(str(current_time))
+        with open(DB_FILE, 'w') as f:
+            json.dump({}, f)
+        save_data({}) # Updates the HTML to be completely blank
+        print("Wipe complete. The bot will hunt for strictly new games on the next scheduled run.")
+        return
+
+    # If it's a normal run, read the last timestamp
+    try:
+        with open('last_run.txt', 'r') as f:
+            content = f.read().strip()
+            last_timestamp = int(content) if content.isdigit() else (current_time - (6 * 3600))
+    except:
+        last_timestamp = current_time - (6 * 3600)
 
     database = {}
     if os.path.exists(DB_FILE):
@@ -135,7 +144,6 @@ def run_script():
 
     print(f"--- Fetching apps modified since Unix Time: {last_timestamp} ---")
     
-    # Use the official new API endpoint with our key and time filter
     api_url = f"https://api.steampowered.com/IStoreService/GetAppList/v1/?key={API_KEY}&if_modified_since={last_timestamp}&max_results=50000"
     
     try:
@@ -148,7 +156,7 @@ def run_script():
         apps = data.get('response', {}).get('apps', [])
         
         new_app_ids = [str(app['appid']) for app in apps]
-        print(f"Found {len(new_app_ids)} updated/new App IDs in this time window. Processing...")
+        print(f"API returned {len(new_app_ids)} updated/new App IDs in this time window. Processing...")
 
         for app_id in new_app_ids:
             if app_id in database and database[app_id].get('Email'):
@@ -159,8 +167,6 @@ def run_script():
             steam_url = f"https://store.steampowered.com/app/{app_id}/"
             s_res = req_session.get(steam_url, headers=get_headers(), timeout=15)
             
-            # If a game is added to the backend but has no public store page yet, 
-            # Steam redirects the URL to the homepage. We must skip these hidden games.
             if s_res.url != steam_url and not s_res.url.startswith(steam_url):
                 continue
                 
@@ -169,9 +175,8 @@ def run_script():
             tag_elements = s_soup.select('.app_tag')
             game_tags = [t.text.strip().lower() for t in tag_elements if t.text.strip() != '+']
             
-            has_target_tag = any(tag in game_tags for tag in TARGET_TAGS)
-            
-            if not has_target_tag:
+            # THE ONLY FILTER: Does it have any tag from our whitelist?
+            if not any(good_tag in game_tags for good_tag in TARGET_TAGS):
                 continue
 
             print(f"Matched App ID: {app_id} (Tags: {', '.join([t for t in game_tags if t in TARGET_TAGS])})")
@@ -221,7 +226,7 @@ def run_script():
             database[app_id] = game_info
             save_data(database)
             
-        # Update our time memory for the next 6-hour cycle
+        # Update the time marker for the next 6-hour cycle
         with open('last_run.txt', 'w') as f:
             f.write(str(current_time))
             
