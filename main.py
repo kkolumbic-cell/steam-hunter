@@ -8,6 +8,7 @@ from datetime import datetime
 import os
 import random
 from playwright.sync_api import sync_playwright
+from playwright_stealth import stealth_sync
 
 # --- CONFIGURATION ---
 DB_FILE = 'database.json'
@@ -112,20 +113,17 @@ def run_script():
             try: database = json.load(f)
             except: database = {}
 
-    # Setup standard requests session for non-Cloudflare sites (like Dev websites)
     req_session = requests.Session()
     req_session.cookies.update({'birthtime': '631180801', 'lastagecheckage': '1-0-1990', 'wants_mature_content': '1'})
 
-    print("--- Firing up Playwright Browser ---")
+    print("--- Firing up Playwright Browser with Stealth ---")
     with sync_playwright() as p:
-        # Launch the invisible browser
         browser = p.chromium.launch(headless=True)
         context = browser.new_context(
             user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
             viewport={'width': 1920, 'height': 1080}
         )
         
-        # Add Steam age-gate cookies directly to the browser
         context.add_cookies([
             {"name": "birthtime", "value": "631180801", "domain": "store.steampowered.com", "path": "/"},
             {"name": "lastagecheckage", "value": "1-0-1990", "domain": "store.steampowered.com", "path": "/"},
@@ -133,17 +131,24 @@ def run_script():
         ])
         
         page = context.new_page()
+        
+        # Apply the stealth cloaking to the page
+        stealth_sync(page)
 
         print("--- Fetching Latest SteamDB Events ---")
         try:
-            # Navigate to SteamDB and give it time to pass Cloudflare JS checks
             page.goto("https://steamdb.info/history/events/?type=game", timeout=30000)
-            
-            # Wait a few seconds specifically to let the table render
             page.wait_for_timeout(5000)
             
-            # Grab the fully loaded HTML
+            # --- DEBUGGING: Let's see what the page actually is ---
+            print(f"DEBUG - The page title is: {page.title()}")
+            
             html_content = page.content()
+            
+            # Save the HTML so we can review it on GitHub if it fails
+            with open("debug.html", "w", encoding="utf-8") as f:
+                f.write(html_content)
+                
             soup = BeautifulSoup(html_content, 'html.parser')
             
             app_links = soup.select('a[href^="/app/"]')
@@ -155,10 +160,9 @@ def run_script():
                 if app_id in database and database[app_id].get('Email'):
                     continue
 
-                # Navigate to the specific game's SteamDB page
                 steamdb_app_url = f"https://steamdb.info/app/{app_id}/"
                 page.goto(steamdb_app_url, timeout=30000)
-                page.wait_for_timeout(3000) # Let tags load
+                page.wait_for_timeout(3000) 
                 
                 db_soup = BeautifulSoup(page.content(), 'html.parser')
                 tag_elements = db_soup.select('a[href^="/tags/"]')
@@ -171,7 +175,6 @@ def run_script():
 
                 print(f"Matched App ID: {app_id} (Tags: {', '.join([t for t in game_tags if t in TARGET_TAGS])})")
                 
-                # Game matches! Fetch the official Steam Store page via Playwright
                 steam_url = f"https://store.steampowered.com/app/{app_id}/"
                 page.goto(steam_url, timeout=30000)
                 page.wait_for_timeout(3000)
@@ -201,7 +204,6 @@ def run_script():
                     if 'discord' in txt or 'discord.gg' in href:
                         game_info['Discord'] = unquote(href.split('u=')[1].split('&')[0]) if 'linkfilter' in href else href
 
-                # Email Hunting on Dev Site using the faster requests module
                 if game_info['Site']:
                     try:
                         site_res = req_session.get(game_info['Site'], headers=get_headers(), timeout=10)
