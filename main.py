@@ -116,13 +116,35 @@ def run_script():
     req_session.cookies.update({'birthtime': '631180801', 'lastagecheckage': '1-0-1990', 'wants_mature_content': '1'})
 
     print("--- Fetching Master Steam App List ---")
-    try:
-        api_url = "https://api.steampowered.com/ISteamApps/GetAppList/v2/"
-        res = req_session.get(api_url, timeout=20)
-        data = res.json()
+    data = None
+    endpoints = [
+        "https://api.steampowered.com/ISteamApps/GetAppList/v2/",
+        "https://community.steam-api.com/ISteamApps/GetAppList/v2/"
+    ]
+    
+    # Try our redundant API endpoints
+    for api_url in endpoints:
+        try:
+            print(f"Connecting to: {api_url}")
+            res = req_session.get(api_url, headers=get_headers(), timeout=30)
+            
+            # Ensure the server gave us a success code AND actual JSON data
+            if res.status_code == 200 and 'json' in res.headers.get('Content-Type', '').lower():
+                data = res.json()
+                print("Successfully fetched Master List.")
+                break
+            else:
+                print(f"Failed. Status: {res.status_code}. Retrying next endpoint...")
+        except Exception as e:
+            print(f"Error connecting: {e}")
+        time.sleep(2) # Brief pause before hitting the backup API
         
-        # Get all current app IDs directly from Steam's backend
-        current_app_ids = set([str(app['appid']) for app in data['applist']['apps']])
+    if not data or 'applist' not in data:
+        print("Critical error: All Steam API endpoints were blocked or failed. Stopping execution to prevent database corruption.")
+        return
+
+    try:
+        current_app_ids = set([str(app['appid']) for app in data.get('applist', {}).get('apps', [])])
         print(f"Total apps currently on Steam: {len(current_app_ids)}")
         
         known_app_ids = set()
@@ -131,9 +153,7 @@ def run_script():
                 try: known_app_ids = set(json.load(f))
                 except: known_app_ids = set()
                 
-        # --- THE INITIALIZATION TRICK ---
-        # If this is our very first run, we must set the baseline and stop. 
-        # Otherwise, the bot would try to scrape all 180,000+ games at once!
+        # The Initialization Trick
         if not known_app_ids:
             print(f"Initialization run detected. Saving {len(current_app_ids)} apps to baseline.")
             with open(APP_LIST_FILE, 'w') as f:
@@ -141,7 +161,7 @@ def run_script():
             print("Baseline saved! The next scheduled run will detect newly added games.")
             return
 
-        # Mathematical Difference: Apps that exist now, but didn't exist in our baseline file
+        # Mathematical Difference
         new_app_ids = current_app_ids - known_app_ids
         print(f"Found {len(new_app_ids)} brand new App IDs since last run. Processing...")
 
@@ -154,14 +174,11 @@ def run_script():
             steam_url = f"https://store.steampowered.com/app/{app_id}/"
             s_res = req_session.get(steam_url, headers=get_headers(), timeout=15)
             
-            # If a game is added to the backend but has no public store page yet, 
-            # Steam redirects the URL to the homepage. We must skip these hidden games.
             if s_res.url != steam_url and not s_res.url.startswith(steam_url):
                 continue
                 
             s_soup = BeautifulSoup(s_res.text, 'html.parser')
             
-            # Extract tags directly from the Steam store page
             tag_elements = s_soup.select('.app_tag')
             game_tags = [t.text.strip().lower() for t in tag_elements if t.text.strip() != '+']
             
