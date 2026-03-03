@@ -28,7 +28,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4 playwright
+          pip install requests beautifulsoup4 playwright playwright-stealth
           playwright install chromium --with-deps
 
       - name: Run Scraper
@@ -38,7 +38,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add database.json index.html last_run.txt
+          git add database.json index.html last_run.txt debug.html
           git commit --allow-empty -m "6-Hour Sync: $(date)" 
           
           # Pull latest changes. If there is a conflict, automatically keep the bot's newest files (-X ours)
