@@ -1,4 +1,4 @@
-import requests
+import cloudscraper
 from bs4 import BeautifulSoup
 import json
 import time
@@ -9,39 +9,34 @@ import os
 import random
 
 # --- CONFIGURATION ---
-BATCH_LIMIT = 150 
 DB_FILE = 'database.json'
 TRUSTED_PROVIDERS = ['gmail.com', 'outlook.com', 'proton.me', 'protonmail.com', 'zoho.com', 'icloud.com', 'yahoo.com', 'hotmail.com']
+
+# The tags we care about. Keep them lowercase for easy matching.
+TARGET_TAGS = [
+    'strategy', 'base building', 'colony sim', 'economy', 'city builder', 
+    'resource management', 'management', 'grand strategy', 'tower defense', 
+    'turn-based strategy', 'turn-based tactics', 'tactical rpg', 'turn-based combat', 
+    'tactical', 'real time tactics', 'psychological horror', 'horror', 'survival horror'
+]
 
 def get_headers():
     return {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept-Language': 'en-US,en;q=0.9',
-        'Referer': 'https://store.steampowered.com/'
     }
 
 def parse_steam_date(date_str):
-    """Converts Steam date strings into comparable datetime objects."""
     date_str = date_str.strip()
-    # Handle vague dates like "Coming Soon" or "TBA" - put them far in the future
-    if not date_str or "coming" in date_str.lower() or "tba" in date_str.lower() or "wishlist" in date_str.lower():
+    if not date_str or "coming" in date_str.lower() or "tba" in date_str.lower() or "wishlist" in date_str.lower() or "to be announced" in date_str.lower():
         return datetime(2099, 12, 31)
     
-    # Try parsing standard formats like "25 Jan, 2026" or "Jan 2026"
-    formats = [
-        '%d %b, %Y',  # 25 Jan, 2026
-        '%b %d, %Y',  # Jan 25, 2026
-        '%b %Y',      # Jan 2026
-        '%Y'          # 2026
-    ]
-    
+    formats = ['%d %b, %Y', '%b %d, %Y', '%b %Y', '%Y']
     for fmt in formats:
         try:
             return datetime.strptime(date_str, fmt)
         except ValueError:
             continue
-            
-    # If parsing fails, treat it as a past date (bottom of list)
     return datetime(1900, 1, 1)
 
 def filter_emails(emails, site_url):
@@ -54,21 +49,12 @@ def filter_emails(emails, site_url):
     return list(set(clean))
 
 def save_data(database):
-    """Updates both the JSON database and the live HTML dashboard."""
     current_refresh_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')
     
     with open(DB_FILE, 'w') as f:
         json.dump(database, f, indent=4)
     
-    # --- SMART SORTING ---
-    # Sort by the parsed date object, descending (Future -> Present -> Past)
-    sorted_games = sorted(
-        database.values(), 
-        key=lambda x: parse_steam_date(x.get('Date', '')), 
-        reverse=True
-    )
-    
-    # Calculate stats for ONLY the visible games
+    sorted_games = sorted(database.values(), key=lambda x: parse_steam_date(x.get('Date', '')), reverse=True)
     visible_games_count = sum(1 for g in database.values() if g.get('Email') or g.get('Discord') or g.get('Site'))
 
     html = f"""<html><head><meta name='viewport' content='width=device-width, initial-scale=1'><style>
@@ -92,8 +78,6 @@ def save_data(database):
 
     curr_date = ""
     for g in sorted_games:
-        # --- CLEAN LIST FILTER ---
-        # If no data is found, skip this entry entirely in the HTML
         if not g.get('Email') and not g.get('Discord') and not g.get('Site'):
             continue
 
@@ -128,74 +112,103 @@ def run_script():
             try: database = json.load(f)
             except: database = {}
 
-    session = requests.Session()
-    session.cookies.update({'birthtime': '631180801', 'lastagecheckage': '1-0-1990', 'wants_mature_content': '1'})
-
-    for start in [0, 50, 100]:
-        print(f"--- Systematic Scan: Batch {start} ---")
-        try:
-            search_url = f"https://store.steampowered.com/search/results/?sort_by=_ASC&category1=998&os=win&supportedlang=english&filter=comingsoon&start={start}"
-            res = session.get(search_url, headers=get_headers(), timeout=20)
-            soup = BeautifulSoup(res.text, 'html.parser')
-            rows = soup.select('.search_result_row')
-
-            for row in rows:
-                app_id = row['data-ds-appid']
-                title = row.select_one('.title').text.strip()
-
-                if app_id in database and database[app_id].get('Email'):
-                    continue
-
-                print(f"Checking: {title}")
-                
-                game_info = database.get(app_id, {
-                    'Title': title, 
-                    'Date': row.select_one('.search_released').text.strip(),
-                    'Email': '', 'Discord': '', 'URL': row['href'].split('?')[0], 'Site': '',
-                    'Thumb': row.select_one('.search_capsule img')['src'] if row.select_one('.search_capsule img') else ""
-                })
-
-                try:
-                    p_res = session.get(game_info['URL'], headers=get_headers(), timeout=12)
-                    p_soup = BeautifulSoup(p_res.text, 'html.parser')
-                    
-                    for link in p_soup.find_all('a', href=True):
-                        txt, href = link.get_text().lower(), link['href']
-                        if 'website' in txt or 'official site' in txt:
-                            found_site = unquote(href.split('u=')[1].split('&')[0]) if 'linkfilter' in href else href
-                            if 'steampowered' not in found_site:
-                                game_info['Site'] = found_site
-                        if 'discord' in txt or 'discord.gg' in href:
-                            game_info['Discord'] = unquote(href.split('u=')[1].split('&')[0]) if 'linkfilter' in href else href
-
-                    # --- RESTORED CONTACT PAGE LOGIC ---
-                    if game_info['Site']:
-                        try:
-                            s_res = session.get(game_info['Site'], headers=get_headers(), timeout=10)
-                            emails = re.findall(r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}', s_res.text)
-                            
-                            # If homepage is empty, hunt for Contact/About pages
-                            if not emails:
-                                s_soup = BeautifulSoup(s_res.text, 'html.parser')
-                                for s_link in s_soup.find_all('a', href=True):
-                                    s_txt, s_href = s_link.get_text().lower(), s_link['href']
-                                    # Look for keywords in the link text or URL
-                                    if any(k in s_txt or k in s_href.lower() for k in ['contact', 'about', 'support', 'impressum']):
-                                        contact_url = urljoin(game_info['Site'], s_href)
-                                        c_res = session.get(contact_url, headers=get_headers(), timeout=10)
-                                        emails += re.findall(r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}', c_res.text)
-                                        if emails: break
-                            
-                            clean = filter_emails(emails, game_info['Site'])
-                            if clean: game_info['Email'] = ", ".join(clean)
-                        except: pass
-                    
-                    database[app_id] = game_info
-                    time.sleep(random.uniform(3.0, 6.0))
-                except: pass
-        except: pass
+    # Create a Cloudscraper instance instead of a normal requests session
+    scraper = cloudscraper.create_scraper(browser={'browser': 'chrome', 'platform': 'windows', 'mobile': False})
     
-    save_data(database)
+    # We still need Steam age-check cookies for when we visit the Steam store later
+    scraper.cookies.update({'birthtime': '631180801', 'lastagecheckage': '1-0-1990', 'wants_mature_content': '1'})
+
+    print("--- Fetching Latest SteamDB Events ---")
+    try:
+        # 1. Fetch the latest added games from SteamDB
+        events_url = "https://steamdb.info/history/events/?type=game"
+        res = scraper.get(events_url, headers=get_headers(), timeout=20)
+        soup = BeautifulSoup(res.text, 'html.parser')
+        
+        # Find all app links on the events page
+        app_links = soup.select('a[href^="/app/"]')
+        app_ids = list(set([link['href'].split('/')[2] for link in app_links if link['href'].split('/')[2].isdigit()]))
+        
+        print(f"Found {len(app_ids)} newly updated/added apps. Processing...")
+
+        for app_id in app_ids:
+            if app_id in database and database[app_id].get('Email'):
+                continue # Skip if we already fully successfully scraped this one
+
+            time.sleep(random.uniform(2.0, 4.0)) # Be polite to SteamDB
+            
+            # 2. Check tags on SteamDB
+            steamdb_app_url = f"https://steamdb.info/app/{app_id}/"
+            db_res = scraper.get(steamdb_app_url, headers=get_headers(), timeout=15)
+            db_soup = BeautifulSoup(db_res.text, 'html.parser')
+            
+            # Find all tag elements on SteamDB
+            tag_elements = db_soup.select('a[href^="/tags/"]')
+            game_tags = [t.text.strip().lower() for t in tag_elements]
+            
+            # Check if any of our target tags are in the game's tags
+            has_target_tag = any(tag in game_tags for tag in TARGET_TAGS)
+            
+            if not has_target_tag:
+                continue # Skip this game, it doesn't match our genres
+
+            print(f"Matched App ID: {app_id} (Tags: {', '.join([t for t in game_tags if t in TARGET_TAGS])})")
+            
+            # 3. Game matches! Now fetch the official Steam Store page
+            steam_url = f"https://store.steampowered.com/app/{app_id}/"
+            s_res = scraper.get(steam_url, headers=get_headers(), timeout=15)
+            s_soup = BeautifulSoup(s_res.text, 'html.parser')
+            
+            # Extract basic Steam Store info
+            title_el = s_soup.select_one('.apphub_AppName')
+            title = title_el.text.strip() if title_el else f"Unknown Game ({app_id})"
+            
+            date_el = s_soup.select_one('.release_date .date')
+            release_date = date_el.text.strip() if date_el else "TBA"
+            
+            thumb_el = s_soup.select_one('.game_header_image_full')
+            thumb = thumb_el['src'] if thumb_el else ""
+
+            game_info = database.get(app_id, {
+                'Title': title, 'Date': release_date, 'Email': '', 'Discord': '', 
+                'URL': steam_url, 'Site': '', 'Thumb': thumb
+            })
+
+            # Extract Site and Discord from Steam page
+            for link in s_soup.select('.apphub_OtherSiteInfo a'):
+                txt, href = link.get_text().lower(), link.get('href', '')
+                if 'website' in txt or 'official site' in txt:
+                    found_site = unquote(href.split('u=')[1].split('&')[0]) if 'linkfilter' in href else href
+                    if 'steampowered' not in found_site:
+                        game_info['Site'] = found_site
+                if 'discord' in txt or 'discord.gg' in href:
+                    game_info['Discord'] = unquote(href.split('u=')[1].split('&')[0]) if 'linkfilter' in href else href
+
+            # 4. Email Hunting on Dev Site (Your existing logic)
+            if game_info['Site']:
+                try:
+                    site_res = scraper.get(game_info['Site'], headers=get_headers(), timeout=10)
+                    emails = re.findall(r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}', site_res.text)
+                    
+                    if not emails:
+                        site_soup = BeautifulSoup(site_res.text, 'html.parser')
+                        for s_link in site_soup.find_all('a', href=True):
+                            s_txt, s_href = s_link.get_text().lower(), s_link['href']
+                            if any(k in s_txt or k in s_href.lower() for k in ['contact', 'about', 'support', 'impressum']):
+                                contact_url = urljoin(game_info['Site'], s_href)
+                                c_res = scraper.get(contact_url, headers=get_headers(), timeout=10)
+                                emails += re.findall(r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}', c_res.text)
+                                if emails: break
+                    
+                    clean = filter_emails(emails, game_info['Site'])
+                    if clean: game_info['Email'] = ", ".join(clean)
+                except: pass
+            
+            database[app_id] = game_info
+            
+        save_data(database)
+    except Exception as e:
+        print(f"Critical error during scrape: {e}")
 
 if __name__ == "__main__":
     run_script()
