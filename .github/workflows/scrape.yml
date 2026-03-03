@@ -36,7 +36,9 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add database.json index.html last_run.txt app_list.json
+          
+          # The period tells Git to dynamically add any generated files without strictly requiring specific names
+          git add .
           git commit --allow-empty -m "6-Hour Sync: $(date)" 
           
           # Pull latest changes. If there is a conflict, automatically keep the bot's newest files (-X ours)
