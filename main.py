@@ -117,18 +117,19 @@ def run_script():
 
     print("--- Fetching Master Steam App List ---")
     data = None
+    
+    # Removed the trailing slashes!
     endpoints = [
-        "https://api.steampowered.com/ISteamApps/GetAppList/v2/",
-        "https://community.steam-api.com/ISteamApps/GetAppList/v2/"
+        "https://api.steampowered.com/ISteamApps/GetAppList/v2",
+        "https://api.steampowered.com/ISteamApps/GetAppList/v0002",
+        "https://community.steam-api.com/ISteamApps/GetAppList/v2"
     ]
     
-    # Try our redundant API endpoints
     for api_url in endpoints:
         try:
             print(f"Connecting to: {api_url}")
             res = req_session.get(api_url, headers=get_headers(), timeout=30)
             
-            # Ensure the server gave us a success code AND actual JSON data
             if res.status_code == 200 and 'json' in res.headers.get('Content-Type', '').lower():
                 data = res.json()
                 print("Successfully fetched Master List.")
@@ -137,7 +138,7 @@ def run_script():
                 print(f"Failed. Status: {res.status_code}. Retrying next endpoint...")
         except Exception as e:
             print(f"Error connecting: {e}")
-        time.sleep(2) # Brief pause before hitting the backup API
+        time.sleep(2) 
         
     if not data or 'applist' not in data:
         print("Critical error: All Steam API endpoints were blocked or failed. Stopping execution to prevent database corruption.")
@@ -234,7 +235,6 @@ def run_script():
             database[app_id] = game_info
             save_data(database)
             
-        # Update the baseline at the very end so we are ready for the next 6-hour window
         with open(APP_LIST_FILE, 'w') as f:
             json.dump(list(current_app_ids), f)
             
