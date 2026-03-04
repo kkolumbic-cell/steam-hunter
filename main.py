@@ -16,7 +16,7 @@ TRUSTED_PROVIDERS = ['gmail.com', 'outlook.com', 'proton.me', 'protonmail.com', 
 
 # --- THE SNIPER TEST ---
 # We are forcing it to scan Korea: IL-2 Series to prove the global link extractor works
-TEST_APP_IDS = ['247970']
+TEST_APP_IDS = []
 
 TARGET_TAGS = [
     'strategy', 'base building', 'colony sim', 'economy', 'city builder', 
