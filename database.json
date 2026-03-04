@@ -23,7 +23,6 @@
         "Date": "Q2 2026",
         "AddedDate": "2026-03-04",
         "MatchedTags": [
-            "strategy",
             "resource management"
         ]
     },
@@ -511,6 +510,97 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "793780": {
+        "Title": "Infectum",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/793780/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/793780/ae342317130cc18537acfb5907eaa76d53a7d64d/header.jpg?t=1772640567",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-04",
+        "AddedTimestamp": 1772643842.0872447,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "3998640": {
+        "Title": "BUG SQUASH",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3998640/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3998640/b24abda230fe1f571e885e8776488238ae5ccb63/header.jpg?t=1772641118",
+        "Date": "November 2026",
+        "AddedDate": "2026-03-04",
+        "AddedTimestamp": 1772643845.9915829,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "tactical"
+        ]
+    },
+    "4428660": {
+        "Title": "Comet Busters",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4428660/",
+        "Site": "https://github.com/jasonbrianhall/cometbusters",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4428660/a21c8920334866de474843835c287458db03a8b6/header.jpg?t=1772640458",
+        "Date": "Mar 9, 2026",
+        "AddedDate": "2026-03-04",
+        "AddedTimestamp": 1772643855.551853,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4468180": {
+        "Title": "AI Society",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4468180/",
+        "Site": "https://b8ve.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4468180/b96a00d8440cb5a61ee44637363d72a2f2cd0295/header.jpg?t=1772642234",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-04",
+        "AddedTimestamp": 1772643862.901192,
+        "MatchedTags": [
+            "city builder",
+            "colony sim",
+            "economy"
+        ]
+    },
+    "4484320": {
+        "Title": "Brainrotting",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4484320/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484320/8da12705a1e2a4ac709466536d5f8522aef73c7c/header.jpg?t=1772643222",
+        "Date": "March 2026",
+        "AddedDate": "2026-03-04",
+        "AddedTimestamp": 1772643871.5824096,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4488040": {
+        "Title": "Scrap Diver",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4488040/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488040/5f4b7427ca5fbb7962365633afbfb88334f72119/header.jpg?t=1772640303",
+        "Date": "March 2026",
+        "AddedDate": "2026-03-04",
+        "AddedTimestamp": 1772643873.744627,
+        "MatchedTags": [
+            "resource management"
         ]
     }
 }
