@@ -169,14 +169,14 @@ def run_script():
     with open(MASTER_LIST_FILE, 'r') as f:
         master_list = set(json.load(f))
 
-    # --- THE 24-HOUR RESET SWEEP ---
-    # If last_run.txt is missing, it looks back 24 hours to populate your blank dashboard
+    # --- THE 30-DAY RESET SWEEP ---
     try:
         with open('last_run.txt', 'r') as f:
             content = f.read().strip()
-            last_timestamp = int(content) if content.isdigit() else (current_time - (24 * 3600))
+            # If missing, sweep the last 30 days instead of 24 hours
+            last_timestamp = int(content) if content.isdigit() else (current_time - (30 * 24 * 3600))
     except:
-        last_timestamp = current_time - (24 * 3600)
+        last_timestamp = current_time - (30 * 24 * 3600)
 
     print(f"--- Fetching apps modified since Unix Time: {last_timestamp} ---")
     
