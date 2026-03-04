@@ -14,6 +14,10 @@ MASTER_LIST_FILE = 'master_list.json'
 RECENT_GAMES_FILE = 'recent_games.json'
 TRUSTED_PROVIDERS = ['gmail.com', 'outlook.com', 'proton.me', 'protonmail.com', 'zoho.com', 'icloud.com', 'yahoo.com', 'hotmail.com']
 
+# --- THE SNIPER TEST ---
+# Put any App ID in here to force the bot to scrape it right now, bypassing all vault rules.
+TEST_APP_IDS = ['247970'] # 247970 is Korea: IL-2 Series (Has Site and Discord)
+
 TARGET_TAGS = [
     'strategy', 'base building', 'colony sim', 'economy', 'city builder', 
     'resource management', 'management', 'grand strategy', 'tower defense', 
@@ -169,14 +173,12 @@ def run_script():
     with open(MASTER_LIST_FILE, 'r') as f:
         master_list = set(json.load(f))
 
-    # --- THE 30-DAY RESET SWEEP ---
     try:
         with open('last_run.txt', 'r') as f:
             content = f.read().strip()
-            # If missing, sweep the last 30 days instead of 24 hours
-            last_timestamp = int(content) if content.isdigit() else (current_time - (30 * 24 * 3600))
+            last_timestamp = int(content) if content.isdigit() else (current_time - (6 * 3600))
     except:
-        last_timestamp = current_time - (30 * 24 * 3600)
+        last_timestamp = current_time - (6 * 3600)
 
     print(f"--- Fetching apps modified since Unix Time: {last_timestamp} ---")
     
@@ -204,10 +206,18 @@ def run_script():
             elif app_id in recent_games:
                 apps_to_scrape.append(app_id)
 
+        # Inject our Sniper Test IDs into the front of the line!
+        for test_id in TEST_APP_IDS:
+            if test_id not in apps_to_scrape:
+                apps_to_scrape.insert(0, test_id)
+            # Temporarily wipe its memory in the database so it scrapes fresh
+            if test_id in database:
+                del database[test_id]
+
         if len(recent_games) > 500:
             recent_games = recent_games[-500:]
 
-        print(f"API returned {len(modified_app_ids)} modified apps. Processing {len(apps_to_scrape)} new/dashboard apps...")
+        print(f"API returned {len(modified_app_ids)} modified apps. Processing {len(apps_to_scrape)} new/dashboard apps (including test apps)...")
 
         for app_id in apps_to_scrape:
             time.sleep(random.uniform(1.5, 3.0)) 
@@ -250,7 +260,6 @@ def run_script():
             game_info['AddedDate'] = today_str
             game_info['MatchedTags'] = matched_tags
 
-            # Scan the official sidebar
             for link in s_soup.select('.apphub_OtherSiteInfo a'):
                 txt = link.get_text().lower()
                 href = link.get('href', '')
@@ -264,7 +273,6 @@ def run_script():
                 elif 'website' in txt or 'official site' in txt:
                     game_info['Site'] = actual_url
 
-            # Fallback scan for the game description just in case the developer buried the Discord link!
             if not game_info['Discord']:
                 for link in s_soup.select('.game_area_description a'):
                     href = link.get('href', '')
