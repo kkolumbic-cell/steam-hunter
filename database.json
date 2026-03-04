@@ -369,9 +369,9 @@
         "URL": "https://store.steampowered.com/app/4474950/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4474950/77d1cf3dc56cd88cd5d02b338acb896f5d518cd5/header.jpg?t=1772626501",
-        "Date": "Coming soon",
+        "Date": "March 2026",
         "AddedDate": "2026-03-04",
-        "AddedTimestamp": 1772626649.2518342,
+        "AddedTimestamp": 1772636368.6737964,
         "MatchedTags": [
             "horror"
         ]
@@ -388,6 +388,84 @@
         "AddedTimestamp": 1772626651.2233176,
         "MatchedTags": [
             "turn-based tactics"
+        ]
+    },
+    "3049700": {
+        "Title": "Covenant Tower",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3049700/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3049700/e944440b878131f0dbd8c77b6585d9c944548bad/header.jpg?t=1772633663",
+        "Date": "2026",
+        "AddedDate": "2026-03-04",
+        "AddedTimestamp": 1772636343.1583333,
+        "MatchedTags": [
+            "tower defense",
+            "base building",
+            "turn-based strategy",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "3684990": {
+        "Title": "Apogee",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3684990/",
+        "Site": "https://shmbrt.de/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3684990/5db1bb3f49975f6a633d8d98d3264a287bed7c32/header.jpg?t=1772631287",
+        "Date": "2026",
+        "AddedDate": "2026-03-04",
+        "AddedTimestamp": 1772636345.1745267,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4183820": {
+        "Title": "Between Circuits",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4183820/",
+        "Site": "https://www.eseyemstudios.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4183820/7b377ec868bae2a103e30595f92ffd1edbaad28e/header.jpg?t=1772634906",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-04",
+        "AddedTimestamp": 1772636353.9334095,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4453950": {
+        "Title": "Remove Virus",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4453950/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4453950/6cd84b60e068b6ef0cf5eec849af52ae6d6d697f/header.jpg?t=1772631635",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-04",
+        "AddedTimestamp": 1772636364.6715758,
+        "MatchedTags": [
+            "tactical",
+            "strategy"
+        ]
+    },
+    "4478970": {
+        "Title": "ASEMA",
+        "Email": "",
+        "Discord": "https://discord.gg/kMJfQv62U2",
+        "URL": "https://store.steampowered.com/app/4478970/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4478970/17b88041761b77aef1e778cb9022b2a75c64607b/header.jpg?t=1772633310",
+        "Date": "Dec 31, 2026",
+        "AddedDate": "2026-03-04",
+        "AddedTimestamp": 1772636371.498161,
+        "MatchedTags": [
+            "resource management",
+            "survival horror",
+            "tactical"
         ]
     }
 }
