@@ -87,6 +87,13 @@ def save_data(database):
         .spacer {{ display: inline-block; width: 20px; }}
         .meta-info {{ font-size: 0.85em; color: #888; margin-top: 4px; }}
         .tag-highlight {{ color: #a3da00; }}
+        
+        /* Pagination CSS */
+        .pagination-container {{ text-align: center; margin: 30px 0; }}
+        .pagination-container button {{ background: #1a1f26; border: 1px solid #3a4453; color: #66c0f4; padding: 8px 14px; margin: 0 4px; border-radius: 4px; cursor: pointer; font-weight: bold; }}
+        .pagination-container button:hover {{ background: #2a475e; }}
+        .pagination-container button.active {{ background: #66c0f4; color: #0b0e14; border-color: #66c0f4; }}
+        .pagination-container .dots {{ color: #888; padding: 0 10px; }}
     </style></head><body>
     <div class='stats-bar'>
         <b>Bot Status:</b> Active <span style='color:#a3da00;'>●</span> | 
@@ -94,12 +101,21 @@ def save_data(database):
         <b>Tracked Games:</b> {visible_games_count}
     </div>"""
 
+    # --- FORMAT THE DATE ---
+    def format_nice_date(date_str):
+        try:
+            d_obj = datetime.strptime(date_str, '%Y-%m-%d')
+            return f"{d_obj.day} {d_obj.strftime('%B %Y')}"
+        except:
+            return date_str
+
     curr_date = ""
     for g in sorted_games:
         date = g.get('AddedDate', 'Prior to Update')
         if date != curr_date:
             curr_date = date
-            html += f"<h3 class='date-header'>Lead Found/Updated: {curr_date}</h3>"
+            nice_date = format_nice_date(curr_date)
+            html += f"<h3 class='date-header'>{nice_date}</h3>"
         
         links = []
         if g.get('Email'): links.append(f"<span class='email'>{g['Email']}</span>")
@@ -127,8 +143,74 @@ def save_data(database):
             <span>{"<span class='spacer'></span>".join(links)}</span>
         </div>"""
 
+    # --- JAVASCRIPT PAGINATION ENGINE ---
+    js_engine = """
+    <div id="pagination-container" class="pagination-container"></div>
+    <script>
+        const itemsPerPage = 50;
+        const items = Array.from(document.querySelectorAll('.game-row'));
+        const totalPages = Math.ceil(items.length / itemsPerPage) || 1;
+        let currentPage = 1;
+
+        function showPage(page) {
+            currentPage = page;
+            const start = (page - 1) * itemsPerPage;
+            const end = start + itemsPerPage;
+
+            // Show/Hide Games
+            items.forEach((item, index) => {
+                item.style.display = (index >= start && index < end) ? 'flex' : 'none';
+            });
+
+            // Show/Hide Date Headers based on visible games
+            const headers = document.querySelectorAll('.date-header');
+            headers.forEach(header => {
+                let next = header.nextElementSibling;
+                let hasVisible = false;
+                while (next && !next.classList.contains('date-header')) {
+                    if (next.classList.contains('game-row') && next.style.display === 'flex') {
+                        hasVisible = true;
+                        break;
+                    }
+                    next = next.nextElementSibling;
+                }
+                header.style.display = hasVisible ? 'block' : 'none';
+            });
+
+            renderPagination();
+            window.scrollTo(0, 0);
+        }
+
+        function renderPagination() {
+            const container = document.getElementById('pagination-container');
+            if (!container || totalPages <= 1) return;
+            
+            let html = '';
+            if (currentPage > 1) html += `<button onclick="showPage(${currentPage - 1})">&laquo; Prev</button>`;
+            
+            let lastPushed = 0;
+            for (let i = 1; i <= totalPages; i++) {
+                // Show first, last, and +/- 2 pages around current
+                if (i === 1 || i === totalPages || Math.abs(i - currentPage) <= 2) {
+                    if (lastPushed && i - lastPushed > 1) {
+                        html += `<span class="dots">...</span>`;
+                    }
+                    html += `<button onclick="showPage(${i})" class="${i === currentPage ? 'active' : ''}">${i}</button>`;
+                    lastPushed = i;
+                }
+            }
+            
+            if (currentPage < totalPages) html += `<button onclick="showPage(${currentPage + 1})">Next &raquo;</button>`;
+            container.innerHTML = html;
+        }
+
+        // Initialize first page
+        showPage(1);
+    </script>
+    """
+
     with open("index.html", "w", encoding="utf-8") as f:
-        f.write(html + "</body></html>")
+        f.write(html + js_engine + "</body></html>")
 
 def build_master_list(api_key, req_session):
     print("Building baseline memory of all historical Steam games...")
