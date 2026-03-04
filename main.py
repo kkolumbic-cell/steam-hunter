@@ -14,8 +14,6 @@ MASTER_LIST_FILE = 'master_list.json'
 RECENT_GAMES_FILE = 'recent_games.json'
 TRUSTED_PROVIDERS = ['gmail.com', 'outlook.com', 'proton.me', 'protonmail.com', 'zoho.com', 'icloud.com', 'yahoo.com', 'hotmail.com']
 
-# --- THE SNIPER TEST ---
-# We are forcing it to scan Korea: IL-2 Series to prove the global link extractor works
 TEST_APP_IDS = []
 
 TARGET_TAGS = [
@@ -25,7 +23,8 @@ TARGET_TAGS = [
     'tactical', 'real time tactics', 'psychological horror', 'horror', 'survival horror'
 ]
 
-EXCLUDE_TAGS = ['nudity']
+# EXPANDED EXCLUSION LIST
+EXCLUDE_TAGS = ['nudity', 'cute', 'sports', 'anime']
 
 def get_headers():
     return {
@@ -61,7 +60,19 @@ def save_data(database):
     with open(DB_FILE, 'w') as f:
         json.dump(database, f, indent=4)
     
-    sorted_games = sorted(database.values(), key=lambda x: x.get('AddedDate', '2000-01-01'), reverse=True)
+    # SORTING UPGRADE: Sort by exact millisecond timestamp to keep absolute newest on top!
+    def get_sort_key(x):
+        ts = x.get('AddedTimestamp')
+        if ts is not None:
+            return ts
+        # Fallback for old database entries that don't have a timestamp yet
+        date_str = x.get('AddedDate', '2000-01-01')
+        try:
+            return time.mktime(time.strptime(date_str, '%Y-%m-%d'))
+        except:
+            return 0
+
+    sorted_games = sorted(database.values(), key=get_sort_key, reverse=True)
     visible_games_count = len(sorted_games)
 
     html = f"""<html><head><meta name='viewport' content='width=device-width, initial-scale=1'><style>
@@ -199,9 +210,9 @@ def run_script():
         
         apps_to_scrape = []
         for app_id in modified_app_ids:
+            # UPGRADE: Always re-scrape tracked games if Steam flags them as modified!
             if app_id in database:
-                if not database[app_id].get('Email'):
-                    apps_to_scrape.append(app_id)
+                apps_to_scrape.append(app_id)
             elif app_id not in master_list:
                 apps_to_scrape.append(app_id)
                 master_list.add(app_id)
@@ -209,18 +220,16 @@ def run_script():
             elif app_id in recent_games:
                 apps_to_scrape.append(app_id)
 
-        # Inject our Sniper Test IDs into the front of the line!
         for test_id in TEST_APP_IDS:
             if test_id not in apps_to_scrape:
                 apps_to_scrape.insert(0, test_id)
-            # Temporarily wipe its memory in the database so it scrapes entirely fresh
             if test_id in database:
                 del database[test_id]
 
         if len(recent_games) > 500:
             recent_games = recent_games[-500:]
 
-        print(f"API returned {len(modified_app_ids)} modified apps. Processing {len(apps_to_scrape)} new/dashboard apps (including test apps)...")
+        print(f"API returned {len(modified_app_ids)} modified apps. Processing {len(apps_to_scrape)} new/dashboard apps...")
 
         for app_id in apps_to_scrape:
             time.sleep(random.uniform(1.5, 3.0)) 
@@ -236,6 +245,7 @@ def run_script():
             tag_elements = s_soup.select('.app_tag')
             game_tags = [t.text.strip().lower() for t in tag_elements if t.text.strip() != '+']
             
+            # Instantly block excluded games
             if any(bad_tag in game_tags for bad_tag in EXCLUDE_TAGS):
                 continue
 
@@ -254,14 +264,27 @@ def run_script():
             thumb_el = s_soup.select_one('.game_header_image_full')
             thumb = thumb_el['src'] if thumb_el else ""
 
-            game_info = database.get(app_id, {
-                'Title': title, 'Email': '', 'Discord': '', 
-                'URL': steam_url, 'Site': '', 'Thumb': thumb
-            })
+            is_existing_game = app_id in database
             
-            game_info['Date'] = release_date
-            game_info['AddedDate'] = today_str
-            game_info['MatchedTags'] = matched_tags
+            if is_existing_game:
+                game_info = database[app_id]
+                old_date = game_info.get('Date', 'TBA')
+                
+                # RELEASE DATE BUMP: Check if the dev changed the date!
+                if old_date != release_date:
+                    print(f"*** UPDATE DETECTED: {title} changed release date from '{old_date}' to '{release_date}'! ***")
+                    game_info['Date'] = release_date
+                    game_info['AddedDate'] = today_str
+                    game_info['AddedTimestamp'] = time.time()  # Bounces it to the top!
+                    
+                game_info['MatchedTags'] = matched_tags
+            else:
+                game_info = {
+                    'Title': title, 'Email': '', 'Discord': '', 
+                    'URL': steam_url, 'Site': '', 'Thumb': thumb,
+                    'Date': release_date, 'AddedDate': today_str, 
+                    'AddedTimestamp': time.time(), 'MatchedTags': matched_tags
+                }
 
             # --- THE FOOLPROOF GLOBAL LINK SCANNER ---
             for link in s_soup.find_all('a', href=True):
@@ -269,23 +292,18 @@ def run_script():
                 href = link.get('href', '')
                 actual_url = get_clean_url(href)
                 
-                # Ignore internal Steam links so we don't accidentally log Steam's own support pages
                 if 'steampowered.com' in actual_url or 'steamcommunity.com' in actual_url:
                     continue
 
-                # 1. Grab Discord by checking the actual decoded URL
                 if not game_info['Discord']:
                     if 'discord.gg' in actual_url or 'discord.com/invite' in actual_url:
                         game_info['Discord'] = actual_url
                 
-                # 2. Grab Website by looking for the words in your screenshot!
                 if not game_info['Site']:
                     if 'website' in txt or 'official site' in txt:
-                        # Ensure it's not a Discord/Twitter link masquerading as a website button
                         if 'discord' not in actual_url and 'twitter' not in actual_url:
                             game_info['Site'] = actual_url
 
-            # Email hunting via the Official Website
             if game_info['Site']:
                 try:
                     site_res = req_session.get(game_info['Site'], headers=get_headers(), timeout=10)
