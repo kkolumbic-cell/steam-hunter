@@ -14,7 +14,7 @@ MASTER_LIST_FILE = 'master_list.json'
 RECENT_GAMES_FILE = 'recent_games.json'
 TRUSTED_PROVIDERS = ['gmail.com', 'outlook.com', 'proton.me', 'protonmail.com', 'zoho.com', 'icloud.com', 'yahoo.com', 'hotmail.com']
 
-TEST_APP_IDS = ['4484190']
+TEST_APP_IDS = []
 
 TARGET_TAGS = [
     'strategy', 'base building', 'colony sim', 'economy', 'city builder', 
@@ -77,7 +77,8 @@ def save_data(database):
         .stats-bar {{ background: #2a475e; padding: 10px; border-radius: 5px; margin-bottom: 20px; font-size: 14px; border-left: 5px solid #a3da00; }}
         .game-row {{ background: #1a1f26; margin: 5px 0; padding: 10px; border-radius: 4px; display: flex; justify-content: space-between; align-items: center; border-left: 5px solid #3a4453; }}
         .game-info {{ display: flex; align-items: center; }}
-        .game-thumb {{ width: 60px; height: auto; margin-right: 15px; border-radius: 2px; }}
+        .game-thumb {{ width: 60px; height: auto; margin-right: 15px; border-radius: 2px; transition: opacity 0.2s; }}
+        .game-thumb:hover {{ opacity: 0.8; }}
         .game-title-link {{ color: inherit; text-decoration: none; font-weight: bold; font-size: 1.1em; }}
         .game-title-link:hover {{ color: #66c0f4; }}
         .email {{ color: #a3da00; font-weight: bold; }}
@@ -113,7 +114,9 @@ def save_data(database):
             
         html += f"""<div class='game-row'>
             <div class='game-info'>
-                <img src='{g.get('Thumb', '')}' class='game-thumb'>
+                <a href='{g.get('URL', '#')}' target='_blank'>
+                    <img src='{g.get('Thumb', '')}' class='game-thumb' title='View on Steam'>
+                </a>
                 <div>
                     <a href='{g.get('URL', '#')}' target='_blank' class='game-title-link'>{g.get('Title', 'Unknown')}</a>
                     <div class='meta-info'>
@@ -237,8 +240,6 @@ def run_script():
                 
             s_soup = BeautifulSoup(s_res.text, 'html.parser')
             
-            # --- THE FIX: DEEP TAG EXTRACTION ---
-            # Dig into the hidden Javascript data payload to grab ALL tags, even if they aren't visible on the page!
             game_tags = []
             tag_match = re.search(r'InitAppTagModal\(\s*\d+,\s*(\[.*?\])\s*\)', s_res.text)
             if tag_match:
@@ -248,17 +249,15 @@ def run_script():
                 except:
                     pass
             
-            # Fallback to the visible UI tags just in case Steam changes their Javascript
             if not game_tags:
                 tag_elements = s_soup.select('.app_tag')
                 game_tags = [t.text.strip().lower() for t in tag_elements if t.text.strip() != '+']
             
-            # --- THE FIX: THE SQUATTER EVICTION ---
             if any(bad_tag in game_tags for bad_tag in EXCLUDE_TAGS):
                 if app_id in database:
                     print(f"*** EVICTION: Removing '{app_id}' from dashboard (Found excluded tag) ***")
                     del database[app_id]
-                    save_data(database) # Instantly updates the HTML!
+                    save_data(database)
                 continue
 
             matched_tags = [t for t in game_tags if t in TARGET_TAGS]
