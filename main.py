@@ -11,6 +11,7 @@ import random
 # --- CONFIGURATION ---
 DB_FILE = 'database.json'
 MASTER_LIST_FILE = 'master_list.json'
+RECENT_GAMES_FILE = 'recent_games.json'
 TRUSTED_PROVIDERS = ['gmail.com', 'outlook.com', 'proton.me', 'protonmail.com', 'zoho.com', 'icloud.com', 'yahoo.com', 'hotmail.com']
 
 TARGET_TAGS = [
@@ -28,7 +29,6 @@ def get_headers():
         'Accept-Language': 'en-US,en;q=0.9',
     }
 
-# THE URL FIX: Properly extract hidden Steam links
 def get_clean_url(href):
     if 'linkfilter' in href:
         parsed = urlparse(href)
@@ -152,6 +152,12 @@ def run_script():
             try: database = json.load(f)
             except: pass
 
+    recent_games = []
+    if os.path.exists(RECENT_GAMES_FILE):
+        with open(RECENT_GAMES_FILE, 'r') as f:
+            try: recent_games = json.load(f)
+            except: pass
+
     if not os.path.exists(MASTER_LIST_FILE):
         build_master_list(API_KEY, req_session)
         with open('last_run.txt', 'w') as f:
@@ -163,12 +169,14 @@ def run_script():
     with open(MASTER_LIST_FILE, 'r') as f:
         master_list = set(json.load(f))
 
+    # --- THE 24-HOUR RESET SWEEP ---
+    # If last_run.txt is missing, it looks back 24 hours to populate your blank dashboard
     try:
         with open('last_run.txt', 'r') as f:
             content = f.read().strip()
-            last_timestamp = int(content) if content.isdigit() else (current_time - (6 * 3600))
+            last_timestamp = int(content) if content.isdigit() else (current_time - (24 * 3600))
     except:
-        last_timestamp = current_time - (6 * 3600)
+        last_timestamp = current_time - (24 * 3600)
 
     print(f"--- Fetching apps modified since Unix Time: {last_timestamp} ---")
     
@@ -187,12 +195,17 @@ def run_script():
         apps_to_scrape = []
         for app_id in modified_app_ids:
             if app_id in database:
-                # If it's on the dashboard but missing an email, queue it for a re-scrape
                 if not database[app_id].get('Email'):
                     apps_to_scrape.append(app_id)
             elif app_id not in master_list:
                 apps_to_scrape.append(app_id)
                 master_list.add(app_id)
+                recent_games.append(app_id)
+            elif app_id in recent_games:
+                apps_to_scrape.append(app_id)
+
+        if len(recent_games) > 500:
+            recent_games = recent_games[-500:]
 
         print(f"API returned {len(modified_app_ids)} modified apps. Processing {len(apps_to_scrape)} new/dashboard apps...")
 
@@ -287,6 +300,8 @@ def run_script():
             
         with open(MASTER_LIST_FILE, 'w') as f:
             json.dump(list(master_list), f)
+        with open(RECENT_GAMES_FILE, 'w') as f:
+            json.dump(recent_games, f)
             
     except Exception as e:
         print(f"Critical error during scrape: {e}")
