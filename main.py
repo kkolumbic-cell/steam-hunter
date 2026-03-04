@@ -10,9 +10,10 @@ import random
 
 # --- CONFIGURATION ---
 DB_FILE = 'database.json'
+MASTER_LIST_FILE = 'master_list.json'
+RECENT_GAMES_FILE = 'recent_games.json'
 TRUSTED_PROVIDERS = ['gmail.com', 'outlook.com', 'proton.me', 'protonmail.com', 'zoho.com', 'icloud.com', 'yahoo.com', 'hotmail.com']
 
-# The genres we WANT. If it has any of these, it stays.
 TARGET_TAGS = [
     'strategy', 'base building', 'colony sim', 'economy', 'city builder', 
     'resource management', 'management', 'grand strategy', 'tower defense', 
@@ -51,7 +52,6 @@ def filter_emails(emails, site_url):
 def save_data(database):
     current_refresh_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')
     
-    # Save the full database unconditionally
     with open(DB_FILE, 'w') as f:
         json.dump(database, f, indent=4)
     
@@ -79,7 +79,6 @@ def save_data(database):
 
     curr_date = ""
     for g in sorted_games:
-        # NO LONGER FILTERING GAMES WITHOUT CONTACTS. ALL MATCHES ARE DISPLAYED.
         date = g.get('Date', 'TBA')
         if date != curr_date:
             curr_date = date
@@ -90,7 +89,6 @@ def save_data(database):
         if g.get('Discord'): links.append(f"<a href='{g['Discord']}' target='_blank'>Discord</a>")
         if g.get('Site'): links.append(f"<a href='{g['Site']}' target='_blank'>Site</a>")
         
-        # If the bot found absolutely nothing, explicitly state it so the team knows they need to dig manually
         if not links:
             links.append("<span style='color: #888;'>No contacts found</span>")
             
@@ -105,6 +103,28 @@ def save_data(database):
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html + "</body></html>")
 
+def build_master_list(api_key, req_session):
+    print("Building baseline memory of all historical Steam games. This takes a few seconds...")
+    master_list = set()
+    last_appid = 0
+    while True:
+        url = f"https://api.steampowered.com/IStoreService/GetAppList/v1/?key={api_key}&max_results=50000&last_appid={last_appid}"
+        res = req_session.get(url, timeout=20)
+        if res.status_code != 200:
+            break
+        data = res.json()
+        apps = data.get('response', {}).get('apps', [])
+        if not apps:
+            break
+        for app in apps:
+            master_list.add(str(app['appid']))
+            last_appid = app['appid']
+    
+    with open(MASTER_LIST_FILE, 'w') as f:
+        json.dump(list(master_list), f)
+    print(f"Baseline built! Memorized {len(master_list)} old games.")
+    return master_list
+
 def run_script():
     API_KEY = os.environ.get('STEAM_API_KEY')
     if not API_KEY:
@@ -113,34 +133,40 @@ def run_script():
 
     current_time = int(time.time())
     
-    # FRESH START LOGIC
-    # If last_run.txt is deleted, we completely wipe the database and set the clock to NOW.
-    if not os.path.exists('last_run.txt'):
-        print("Fresh Start Triggered: Deleting historical database and setting baseline to current time.")
+    req_session = requests.Session()
+    req_session.cookies.update({'birthtime': '631180801', 'lastagecheckage': '1-0-1990', 'wants_mature_content': '1'})
+
+    # Load memories
+    database = {}
+    if os.path.exists(DB_FILE):
+        with open(DB_FILE, 'r') as f:
+            try: database = json.load(f)
+            except: pass
+
+    recent_games = []
+    if os.path.exists(RECENT_GAMES_FILE):
+        with open(RECENT_GAMES_FILE, 'r') as f:
+            try: recent_games = json.load(f)
+            except: pass
+
+    # If master list doesn't exist, we must build it so we don't scrape 5-year old games
+    if not os.path.exists(MASTER_LIST_FILE):
+        build_master_list(API_KEY, req_session)
         with open('last_run.txt', 'w') as f:
             f.write(str(current_time))
-        with open(DB_FILE, 'w') as f:
-            json.dump({}, f)
-        save_data({}) # Updates the HTML to be completely blank
-        print("Wipe complete. The bot will hunt for strictly new games on the next scheduled run.")
+        print("Initialization complete. Stopping execution. Next run will catch truly NEW games.")
         return
 
-    # If it's a normal run, read the last timestamp
+    master_list = set()
+    with open(MASTER_LIST_FILE, 'r') as f:
+        master_list = set(json.load(f))
+
     try:
         with open('last_run.txt', 'r') as f:
             content = f.read().strip()
             last_timestamp = int(content) if content.isdigit() else (current_time - (6 * 3600))
     except:
         last_timestamp = current_time - (6 * 3600)
-
-    database = {}
-    if os.path.exists(DB_FILE):
-        with open(DB_FILE, 'r') as f:
-            try: database = json.load(f)
-            except: database = {}
-
-    req_session = requests.Session()
-    req_session.cookies.update({'birthtime': '631180801', 'lastagecheckage': '1-0-1990', 'wants_mature_content': '1'})
 
     print(f"--- Fetching apps modified since Unix Time: {last_timestamp} ---")
     
@@ -149,16 +175,34 @@ def run_script():
     try:
         res = req_session.get(api_url, headers=get_headers(), timeout=30)
         if res.status_code != 200:
-            print(f"Failed to fetch from IStoreService. Status Code: {res.status_code}")
+            print(f"Failed to fetch from IStoreService.")
             return
             
         data = res.json()
         apps = data.get('response', {}).get('apps', [])
+        modified_app_ids = [str(app['appid']) for app in apps]
         
-        new_app_ids = [str(app['appid']) for app in apps]
-        print(f"API returned {len(new_app_ids)} updated/new App IDs in this time window. Processing...")
+        apps_to_scrape = []
+        for app_id in modified_app_ids:
+            if app_id not in master_list:
+                # It's a brand new game
+                apps_to_scrape.append(app_id)
+                master_list.add(app_id)
+                recent_games.append(app_id)
+            elif app_id in recent_games:
+                # It's a recently added game that got updated (re-scrape for contacts)
+                apps_to_scrape.append(app_id)
+            else:
+                # It is an old game (like Griftlands) being modified. Ignore it!
+                pass
 
-        for app_id in new_app_ids:
+        # Keep recent list to a rolling max of 500
+        if len(recent_games) > 500:
+            recent_games = recent_games[-500:]
+
+        print(f"API returned {len(modified_app_ids)} modified apps. Filtered out old games. Processing {len(apps_to_scrape)} new/recent apps...")
+
+        for app_id in apps_to_scrape:
             if app_id in database and database[app_id].get('Email'):
                 continue
 
@@ -175,11 +219,10 @@ def run_script():
             tag_elements = s_soup.select('.app_tag')
             game_tags = [t.text.strip().lower() for t in tag_elements if t.text.strip() != '+']
             
-            # THE ONLY FILTER: Does it have any tag from our whitelist?
             if not any(good_tag in game_tags for good_tag in TARGET_TAGS):
                 continue
 
-            print(f"Matched App ID: {app_id} (Tags: {', '.join([t for t in game_tags if t in TARGET_TAGS])})")
+            print(f"Matched App ID: {app_id}")
             
             title_el = s_soup.select_one('.apphub_AppName')
             title = title_el.text.strip() if title_el else f"Unknown Game ({app_id})"
@@ -195,6 +238,7 @@ def run_script():
                 'URL': steam_url, 'Site': '', 'Thumb': thumb
             })
 
+            # --- COMPLETELY REVERTED EXTRACTOR (EXACTLY AS IT WAS) ---
             for link in s_soup.select('.apphub_OtherSiteInfo a'):
                 txt, href = link.get_text().lower(), link.get('href', '')
                 if 'website' in txt or 'official site' in txt:
@@ -226,9 +270,13 @@ def run_script():
             database[app_id] = game_info
             save_data(database)
             
-        # Update the time marker for the next 6-hour cycle
         with open('last_run.txt', 'w') as f:
             f.write(str(current_time))
+            
+        with open(MASTER_LIST_FILE, 'w') as f:
+            json.dump(list(master_list), f)
+        with open(RECENT_GAMES_FILE, 'w') as f:
+            json.dump(recent_games, f)
             
     except Exception as e:
         print(f"Critical error during scrape: {e}")
