@@ -14,6 +14,7 @@ MASTER_LIST_FILE = 'master_list.json'
 RECENT_GAMES_FILE = 'recent_games.json'
 TRUSTED_PROVIDERS = ['gmail.com', 'outlook.com', 'proton.me', 'protonmail.com', 'zoho.com', 'icloud.com', 'yahoo.com', 'hotmail.com']
 
+# The genres we WANT.
 TARGET_TAGS = [
     'strategy', 'base building', 'colony sim', 'economy', 'city builder', 
     'resource management', 'management', 'grand strategy', 'tower defense', 
@@ -21,24 +22,14 @@ TARGET_TAGS = [
     'tactical', 'real time tactics', 'psychological horror', 'horror', 'survival horror'
 ]
 
+# The genres we absolutely DO NOT want. If it has any of these, it is instantly discarded.
+EXCLUDE_TAGS = ['nudity']
+
 def get_headers():
     return {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept-Language': 'en-US,en;q=0.9',
     }
-
-def parse_steam_date(date_str):
-    date_str = date_str.strip()
-    if not date_str or "coming" in date_str.lower() or "tba" in date_str.lower() or "wishlist" in date_str.lower() or "to be announced" in date_str.lower():
-        return datetime(2099, 12, 31)
-    
-    formats = ['%d %b, %Y', '%b %d, %Y', '%b %Y', '%Y']
-    for fmt in formats:
-        try:
-            return datetime.strptime(date_str, fmt)
-        except ValueError:
-            continue
-    return datetime(1900, 1, 1)
 
 def filter_emails(emails, site_url):
     site_domain = ""
@@ -55,7 +46,8 @@ def save_data(database):
     with open(DB_FILE, 'w') as f:
         json.dump(database, f, indent=4)
     
-    sorted_games = sorted(database.values(), key=lambda x: parse_steam_date(x.get('Date', '')), reverse=True)
+    # SORTING CHANGE: Sort by the date it was added/modified on our list, NOT the game's release date
+    sorted_games = sorted(database.values(), key=lambda x: x.get('AddedDate', '2000-01-01'), reverse=True)
     visible_games_count = len(sorted_games)
 
     html = f"""<html><head><meta name='viewport' content='width=device-width, initial-scale=1'><style>
@@ -70,6 +62,8 @@ def save_data(database):
         a {{ color: #66c0f4; text-decoration: none; }}
         .date-header {{ color: #66c0f4; margin-top: 25px; border-bottom: 1px solid #333; }}
         .spacer {{ display: inline-block; width: 20px; }}
+        .meta-info {{ font-size: 0.85em; color: #888; margin-top: 4px; }}
+        .tag-highlight {{ color: #a3da00; }}
     </style></head><body>
     <div class='stats-bar'>
         <b>Bot Status:</b> Active <span style='color:#a3da00;'>●</span> | 
@@ -79,10 +73,11 @@ def save_data(database):
 
     curr_date = ""
     for g in sorted_games:
-        date = g.get('Date', 'TBA')
+        # GROUPING CHANGE: Group by the date it hit our dashboard
+        date = g.get('AddedDate', 'Prior to Update')
         if date != curr_date:
             curr_date = date
-            html += f"<h3 class='date-header'>{curr_date}</h3>"
+            html += f"<h3 class='date-header'>Lead Found/Updated: {curr_date}</h3>"
         
         links = []
         if g.get('Email'): links.append(f"<span class='email'>{g['Email']}</span>")
@@ -92,10 +87,19 @@ def save_data(database):
         if not links:
             links.append("<span style='color: #888;'>No contacts found</span>")
             
+        # UI CHANGE: Formatting the tags and release date strings
+        tags_str = ", ".join(g.get('MatchedTags', ['Unknown']))
+        release_str = g.get('Date', 'TBA')
+            
         html += f"""<div class='game-row'>
             <div class='game-info'>
                 <img src='{g.get('Thumb', '')}' class='game-thumb'>
-                <a href='{g.get('URL', '#')}' target='_blank' class='game-title-link'>{g.get('Title', 'Unknown')}</a>
+                <div>
+                    <a href='{g.get('URL', '#')}' target='_blank' class='game-title-link'>{g.get('Title', 'Unknown')}</a>
+                    <div class='meta-info'>
+                        <b>Release:</b> {release_str} <span class='spacer'></span> <b>Tags:</b> <span class='tag-highlight'>{tags_str}</span>
+                    </div>
+                </div>
             </div>
             <span>{"<span class='spacer'></span>".join(links)}</span>
         </div>"""
@@ -132,11 +136,11 @@ def run_script():
         return
 
     current_time = int(time.time())
+    today_str = datetime.now().strftime('%Y-%m-%d')
     
     req_session = requests.Session()
     req_session.cookies.update({'birthtime': '631180801', 'lastagecheckage': '1-0-1990', 'wants_mature_content': '1'})
 
-    # Load memories
     database = {}
     if os.path.exists(DB_FILE):
         with open(DB_FILE, 'r') as f:
@@ -149,7 +153,6 @@ def run_script():
             try: recent_games = json.load(f)
             except: pass
 
-    # If master list doesn't exist, we must build it so we don't scrape 5-year old games
     if not os.path.exists(MASTER_LIST_FILE):
         build_master_list(API_KEY, req_session)
         with open('last_run.txt', 'w') as f:
@@ -185,18 +188,14 @@ def run_script():
         apps_to_scrape = []
         for app_id in modified_app_ids:
             if app_id not in master_list:
-                # It's a brand new game
                 apps_to_scrape.append(app_id)
                 master_list.add(app_id)
                 recent_games.append(app_id)
             elif app_id in recent_games:
-                # It's a recently added game that got updated (re-scrape for contacts)
                 apps_to_scrape.append(app_id)
             else:
-                # It is an old game (like Griftlands) being modified. Ignore it!
                 pass
 
-        # Keep recent list to a rolling max of 500
         if len(recent_games) > 500:
             recent_games = recent_games[-500:]
 
@@ -219,7 +218,13 @@ def run_script():
             tag_elements = s_soup.select('.app_tag')
             game_tags = [t.text.strip().lower() for t in tag_elements if t.text.strip() != '+']
             
-            if not any(good_tag in game_tags for good_tag in TARGET_TAGS):
+            # THE NUDITY FILTER: Check for any excluded tags first
+            if any(bad_tag in game_tags for bad_tag in EXCLUDE_TAGS):
+                continue
+
+            # Check for our target tags and save exactly which ones matched
+            matched_tags = [t for t in game_tags if t in TARGET_TAGS]
+            if not matched_tags:
                 continue
 
             print(f"Matched App ID: {app_id}")
@@ -233,12 +238,17 @@ def run_script():
             thumb_el = s_soup.select_one('.game_header_image_full')
             thumb = thumb_el['src'] if thumb_el else ""
 
+            # Load or initialize the game info, injecting today's date and the matched tags
             game_info = database.get(app_id, {
-                'Title': title, 'Date': release_date, 'Email': '', 'Discord': '', 
+                'Title': title, 'Email': '', 'Discord': '', 
                 'URL': steam_url, 'Site': '', 'Thumb': thumb
             })
+            
+            # Update the record with the freshest data and push it to today's date grouping
+            game_info['Date'] = release_date
+            game_info['AddedDate'] = today_str
+            game_info['MatchedTags'] = matched_tags
 
-            # --- COMPLETELY REVERTED EXTRACTOR (EXACTLY AS IT WAS) ---
             for link in s_soup.select('.apphub_OtherSiteInfo a'):
                 txt, href = link.get_text().lower(), link.get('href', '')
                 if 'website' in txt or 'official site' in txt:
