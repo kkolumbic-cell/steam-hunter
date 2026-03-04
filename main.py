@@ -15,8 +15,8 @@ RECENT_GAMES_FILE = 'recent_games.json'
 TRUSTED_PROVIDERS = ['gmail.com', 'outlook.com', 'proton.me', 'protonmail.com', 'zoho.com', 'icloud.com', 'yahoo.com', 'hotmail.com']
 
 # --- THE SNIPER TEST ---
-# Put any App ID in here to force the bot to scrape it right now, bypassing all vault rules.
-TEST_APP_IDS = ['247970'] # 247970 is Korea: IL-2 Series (Has Site and Discord)
+# We are forcing it to scan Korea: IL-2 Series to prove the global link extractor works
+TEST_APP_IDS = ['247970']
 
 TARGET_TAGS = [
     'strategy', 'base building', 'colony sim', 'economy', 'city builder', 
@@ -35,12 +35,15 @@ def get_headers():
 
 def get_clean_url(href):
     if 'linkfilter' in href:
-        parsed = urlparse(href)
-        qs = parse_qs(parsed.query)
-        if 'url' in qs:
-            return qs['url'][0]
-        elif 'u' in qs:
-            return qs['u'][0]
+        try:
+            parsed = urlparse(href)
+            qs = parse_qs(parsed.query)
+            if 'url' in qs:
+                return qs['url'][0]
+            elif 'u' in qs:
+                return qs['u'][0]
+        except:
+            pass
     return href
 
 def filter_emails(emails, site_url):
@@ -210,7 +213,7 @@ def run_script():
         for test_id in TEST_APP_IDS:
             if test_id not in apps_to_scrape:
                 apps_to_scrape.insert(0, test_id)
-            # Temporarily wipe its memory in the database so it scrapes fresh
+            # Temporarily wipe its memory in the database so it scrapes entirely fresh
             if test_id in database:
                 del database[test_id]
 
@@ -260,27 +263,29 @@ def run_script():
             game_info['AddedDate'] = today_str
             game_info['MatchedTags'] = matched_tags
 
-            for link in s_soup.select('.apphub_OtherSiteInfo a'):
-                txt = link.get_text().lower()
+            # --- THE FOOLPROOF GLOBAL LINK SCANNER ---
+            for link in s_soup.find_all('a', href=True):
+                txt = link.get_text().lower().strip()
                 href = link.get('href', '')
                 actual_url = get_clean_url(href)
                 
-                if 'steampowered.com' in actual_url:
+                # Ignore internal Steam links so we don't accidentally log Steam's own support pages
+                if 'steampowered.com' in actual_url or 'steamcommunity.com' in actual_url:
                     continue
 
-                if 'discord' in txt or 'discord.gg' in actual_url or 'discord.com/invite' in actual_url:
-                    game_info['Discord'] = actual_url
-                elif 'website' in txt or 'official site' in txt:
-                    game_info['Site'] = actual_url
-
-            if not game_info['Discord']:
-                for link in s_soup.select('.game_area_description a'):
-                    href = link.get('href', '')
-                    actual_url = get_clean_url(href)
+                # 1. Grab Discord by checking the actual decoded URL
+                if not game_info['Discord']:
                     if 'discord.gg' in actual_url or 'discord.com/invite' in actual_url:
                         game_info['Discord'] = actual_url
-                        break
+                
+                # 2. Grab Website by looking for the words in your screenshot!
+                if not game_info['Site']:
+                    if 'website' in txt or 'official site' in txt:
+                        # Ensure it's not a Discord/Twitter link masquerading as a website button
+                        if 'discord' not in actual_url and 'twitter' not in actual_url:
+                            game_info['Site'] = actual_url
 
+            # Email hunting via the Official Website
             if game_info['Site']:
                 try:
                     site_res = req_session.get(game_info['Site'], headers=get_headers(), timeout=10)
