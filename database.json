@@ -6,11 +6,12 @@
         "URL": "https://store.steampowered.com/app/4464630/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4464630/b904bc2fc10920c750b366b09b59f8f91f77746f/header.jpg?t=1772583626",
-        "Date": "Dec 31, 2026",
+        "Date": "2026",
         "AddedDate": "2026-03-04",
         "MatchedTags": [
             "psychological horror"
-        ]
+        ],
+        "AddedTimestamp": 1772639964.1198637
     },
     "247970": {
         "Title": "Korea. IL-2 Series",
@@ -77,11 +78,12 @@
         "URL": "https://store.steampowered.com/app/4452320/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4452320/c3407936241d3bcda71445c0d8dfc52a81ba9413/header.jpg?t=1772588554",
-        "Date": "Coming soon",
+        "Date": "Mar 17, 2026",
         "AddedDate": "2026-03-04",
         "MatchedTags": [
             "turn-based tactics"
-        ]
+        ],
+        "AddedTimestamp": 1772639958.151108
     },
     "4468880": {
         "Title": "The Chairman",
@@ -466,6 +468,49 @@
             "resource management",
             "survival horror",
             "tactical"
+        ]
+    },
+    "3882520": {
+        "Title": "Goritaire",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3882520/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3882520/9321d71df4de9677fa2a179cc0c93255623e0af5/header.jpg?t=1772637802",
+        "Date": "Mar 18, 2026",
+        "AddedDate": "2026-03-04",
+        "AddedTimestamp": 1772639945.2439196,
+        "MatchedTags": [
+            "turn-based tactics"
+        ]
+    },
+    "4487070": {
+        "Title": "Kritical McKoy",
+        "Email": "",
+        "Discord": "https://discord.gg/FB8qMzR6Yv",
+        "URL": "https://store.steampowered.com/app/4487070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4487070/ad8460afe1d442584fd9ca4de2532ad17e27b3f4/header.jpg?t=1772637143",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-04",
+        "AddedTimestamp": 1772639972.4145288,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4488250": {
+        "Title": "The Watching Woods: The Friend",
+        "Email": "",
+        "Discord": "https://discord.gg/utm25E5zuD",
+        "URL": "https://store.steampowered.com/app/4488250/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4488250/d834924e50d486b5002f060e2fd4af6f35c8947e/header.jpg?t=1772637989",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-03-04",
+        "AddedTimestamp": 1772639975.1031475,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
