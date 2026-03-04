@@ -3,7 +3,7 @@ name: Steam Scrape Every 6 Hours
 on:
   schedule:
     # Runs at 00:23, 06:23, 12:23, and 18:23 UTC
-    - cron: '23 */6 * * *'  
+    - cron: '15 * * * *'  
   workflow_dispatch:
   push:
     branches:
