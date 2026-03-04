@@ -730,5 +730,51 @@
             "management",
             "resource management"
         ]
+    },
+    "4268730": {
+        "Title": "Hero's Guild",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4268730/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268730/acf1b323955663e2ae36edb7ee9be6402a90217f/header.jpg?t=1772651325",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-04",
+        "AddedTimestamp": 1772653925.866147,
+        "MatchedTags": [
+            "tactical rpg",
+            "turn-based tactics",
+            "turn-based strategy"
+        ]
+    },
+    "4453340": {
+        "Title": "H.A.R.V.E.S.T.E.R",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4453340/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453340/5ba00fa27f1febc665dbb6890ee1cfbd4ad087fb/header.jpg?t=1772652847",
+        "Date": "TBA",
+        "AddedDate": "2026-03-04",
+        "AddedTimestamp": 1772653929.0820258,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4484800": {
+        "Title": "Hosting Simulator",
+        "Email": "",
+        "Discord": "https://discord.gg/yk2BMU324D",
+        "URL": "https://store.steampowered.com/app/4484800/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484800/0b0e3e815e430ed2560acef3a15cd4e5702d0864/header.jpg?t=1772653503",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-04",
+        "AddedTimestamp": 1772653936.762299,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management"
+        ]
     }
 }
