@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import json
 import time
 import re
-from urllib.parse import urlparse, unquote, urljoin
+from urllib.parse import urlparse, parse_qs, unquote, urljoin
 from datetime import datetime
 import os
 import random
@@ -11,10 +11,8 @@ import random
 # --- CONFIGURATION ---
 DB_FILE = 'database.json'
 MASTER_LIST_FILE = 'master_list.json'
-RECENT_GAMES_FILE = 'recent_games.json'
 TRUSTED_PROVIDERS = ['gmail.com', 'outlook.com', 'proton.me', 'protonmail.com', 'zoho.com', 'icloud.com', 'yahoo.com', 'hotmail.com']
 
-# The genres we WANT.
 TARGET_TAGS = [
     'strategy', 'base building', 'colony sim', 'economy', 'city builder', 
     'resource management', 'management', 'grand strategy', 'tower defense', 
@@ -22,7 +20,6 @@ TARGET_TAGS = [
     'tactical', 'real time tactics', 'psychological horror', 'horror', 'survival horror'
 ]
 
-# The genres we absolutely DO NOT want. If it has any of these, it is instantly discarded.
 EXCLUDE_TAGS = ['nudity']
 
 def get_headers():
@@ -30,6 +27,17 @@ def get_headers():
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept-Language': 'en-US,en;q=0.9',
     }
+
+# THE URL FIX: Properly extract hidden Steam links
+def get_clean_url(href):
+    if 'linkfilter' in href:
+        parsed = urlparse(href)
+        qs = parse_qs(parsed.query)
+        if 'url' in qs:
+            return qs['url'][0]
+        elif 'u' in qs:
+            return qs['u'][0]
+    return href
 
 def filter_emails(emails, site_url):
     site_domain = ""
@@ -46,7 +54,6 @@ def save_data(database):
     with open(DB_FILE, 'w') as f:
         json.dump(database, f, indent=4)
     
-    # SORTING CHANGE: Sort by the date it was added/modified on our list, NOT the game's release date
     sorted_games = sorted(database.values(), key=lambda x: x.get('AddedDate', '2000-01-01'), reverse=True)
     visible_games_count = len(sorted_games)
 
@@ -73,7 +80,6 @@ def save_data(database):
 
     curr_date = ""
     for g in sorted_games:
-        # GROUPING CHANGE: Group by the date it hit our dashboard
         date = g.get('AddedDate', 'Prior to Update')
         if date != curr_date:
             curr_date = date
@@ -87,7 +93,6 @@ def save_data(database):
         if not links:
             links.append("<span style='color: #888;'>No contacts found</span>")
             
-        # UI CHANGE: Formatting the tags and release date strings
         tags_str = ", ".join(g.get('MatchedTags', ['Unknown']))
         release_str = g.get('Date', 'TBA')
             
@@ -147,12 +152,6 @@ def run_script():
             try: database = json.load(f)
             except: pass
 
-    recent_games = []
-    if os.path.exists(RECENT_GAMES_FILE):
-        with open(RECENT_GAMES_FILE, 'r') as f:
-            try: recent_games = json.load(f)
-            except: pass
-
     if not os.path.exists(MASTER_LIST_FILE):
         build_master_list(API_KEY, req_session)
         with open('last_run.txt', 'w') as f:
@@ -187,24 +186,17 @@ def run_script():
         
         apps_to_scrape = []
         for app_id in modified_app_ids:
-            if app_id not in master_list:
+            if app_id in database:
+                # If it's on the dashboard but missing an email, queue it for a re-scrape
+                if not database[app_id].get('Email'):
+                    apps_to_scrape.append(app_id)
+            elif app_id not in master_list:
                 apps_to_scrape.append(app_id)
                 master_list.add(app_id)
-                recent_games.append(app_id)
-            elif app_id in recent_games:
-                apps_to_scrape.append(app_id)
-            else:
-                pass
 
-        if len(recent_games) > 500:
-            recent_games = recent_games[-500:]
-
-        print(f"API returned {len(modified_app_ids)} modified apps. Filtered out old games. Processing {len(apps_to_scrape)} new/recent apps...")
+        print(f"API returned {len(modified_app_ids)} modified apps. Processing {len(apps_to_scrape)} new/dashboard apps...")
 
         for app_id in apps_to_scrape:
-            if app_id in database and database[app_id].get('Email'):
-                continue
-
             time.sleep(random.uniform(1.5, 3.0)) 
             
             steam_url = f"https://store.steampowered.com/app/{app_id}/"
@@ -218,16 +210,14 @@ def run_script():
             tag_elements = s_soup.select('.app_tag')
             game_tags = [t.text.strip().lower() for t in tag_elements if t.text.strip() != '+']
             
-            # THE NUDITY FILTER: Check for any excluded tags first
             if any(bad_tag in game_tags for bad_tag in EXCLUDE_TAGS):
                 continue
 
-            # Check for our target tags and save exactly which ones matched
             matched_tags = [t for t in game_tags if t in TARGET_TAGS]
             if not matched_tags:
                 continue
 
-            print(f"Matched App ID: {app_id}")
+            print(f"Matched/Updated App ID: {app_id}")
             
             title_el = s_soup.select_one('.apphub_AppName')
             title = title_el.text.strip() if title_el else f"Unknown Game ({app_id})"
@@ -238,25 +228,37 @@ def run_script():
             thumb_el = s_soup.select_one('.game_header_image_full')
             thumb = thumb_el['src'] if thumb_el else ""
 
-            # Load or initialize the game info, injecting today's date and the matched tags
             game_info = database.get(app_id, {
                 'Title': title, 'Email': '', 'Discord': '', 
                 'URL': steam_url, 'Site': '', 'Thumb': thumb
             })
             
-            # Update the record with the freshest data and push it to today's date grouping
             game_info['Date'] = release_date
             game_info['AddedDate'] = today_str
             game_info['MatchedTags'] = matched_tags
 
+            # Scan the official sidebar
             for link in s_soup.select('.apphub_OtherSiteInfo a'):
-                txt, href = link.get_text().lower(), link.get('href', '')
-                if 'website' in txt or 'official site' in txt:
-                    found_site = unquote(href.split('u=')[1].split('&')[0]) if 'linkfilter' in href else href
-                    if 'steampowered' not in found_site:
-                        game_info['Site'] = found_site
-                if 'discord' in txt or 'discord.gg' in href:
-                    game_info['Discord'] = unquote(href.split('u=')[1].split('&')[0]) if 'linkfilter' in href else href
+                txt = link.get_text().lower()
+                href = link.get('href', '')
+                actual_url = get_clean_url(href)
+                
+                if 'steampowered.com' in actual_url:
+                    continue
+
+                if 'discord' in txt or 'discord.gg' in actual_url or 'discord.com/invite' in actual_url:
+                    game_info['Discord'] = actual_url
+                elif 'website' in txt or 'official site' in txt:
+                    game_info['Site'] = actual_url
+
+            # Fallback scan for the game description just in case the developer buried the Discord link!
+            if not game_info['Discord']:
+                for link in s_soup.select('.game_area_description a'):
+                    href = link.get('href', '')
+                    actual_url = get_clean_url(href)
+                    if 'discord.gg' in actual_url or 'discord.com/invite' in actual_url:
+                        game_info['Discord'] = actual_url
+                        break
 
             if game_info['Site']:
                 try:
@@ -285,8 +287,6 @@ def run_script():
             
         with open(MASTER_LIST_FILE, 'w') as f:
             json.dump(list(master_list), f)
-        with open(RECENT_GAMES_FILE, 'w') as f:
-            json.dump(recent_games, f)
             
     except Exception as e:
         print(f"Critical error during scrape: {e}")
