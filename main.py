@@ -14,7 +14,7 @@ MASTER_LIST_FILE = 'master_list.json'
 RECENT_GAMES_FILE = 'recent_games.json'
 TRUSTED_PROVIDERS = ['gmail.com', 'outlook.com', 'proton.me', 'protonmail.com', 'zoho.com', 'icloud.com', 'yahoo.com', 'hotmail.com']
 
-TEST_APP_IDS = []
+TEST_APP_IDS = ['4484190']
 
 TARGET_TAGS = [
     'strategy', 'base building', 'colony sim', 'economy', 'city builder', 
