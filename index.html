@@ -3,7 +3,8 @@
         .stats-bar { background: #2a475e; padding: 10px; border-radius: 5px; margin-bottom: 20px; font-size: 14px; border-left: 5px solid #a3da00; }
         .game-row { background: #1a1f26; margin: 5px 0; padding: 10px; border-radius: 4px; display: flex; justify-content: space-between; align-items: center; border-left: 5px solid #3a4453; }
         .game-info { display: flex; align-items: center; }
-        .game-thumb { width: 60px; height: auto; margin-right: 15px; border-radius: 2px; }
+        .game-thumb { width: 60px; height: auto; margin-right: 15px; border-radius: 2px; transition: opacity 0.2s; }
+        .game-thumb:hover { opacity: 0.8; }
         .game-title-link { color: inherit; text-decoration: none; font-weight: bold; font-size: 1.1em; }
         .game-title-link:hover { color: #66c0f4; }
         .email { color: #a3da00; font-weight: bold; }
@@ -12,14 +13,49 @@
         .spacer { display: inline-block; width: 20px; }
         .meta-info { font-size: 0.85em; color: #888; margin-top: 4px; }
         .tag-highlight { color: #a3da00; }
+        
+        /* Pagination CSS */
+        .pagination-container { text-align: center; margin: 30px 0; }
+        .pagination-container button { background: #1a1f26; border: 1px solid #3a4453; color: #66c0f4; padding: 8px 14px; margin: 0 4px; border-radius: 4px; cursor: pointer; font-weight: bold; }
+        .pagination-container button:hover { background: #2a475e; }
+        .pagination-container button.active { background: #66c0f4; color: #0b0e14; border-color: #66c0f4; }
+        .pagination-container .dots { color: #888; padding: 0 10px; }
     </style></head><body>
     <div class='stats-bar'>
         <b>Bot Status:</b> Active <span style='color:#a3da00;'>●</span> | 
-        <b>Last Refresh:</b> 2026-03-04 12:04:42 UTC | 
-        <b>Tracked Games:</b> 26
-    </div><h3 class='date-header'>Lead Found/Updated: 2026-03-04</h3><div class='game-row'>
+        <b>Last Refresh:</b> 2026-03-04 12:17:16 UTC | 
+        <b>Tracked Games:</b> 28
+    </div><h3 class='date-header'>4 March 2026</h3><div class='game-row'>
             <div class='game-info'>
-                <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4449750/bfa992537039916d4c98bd4f8575828cbb9b7d64/header.jpg?t=1772624998' class='game-thumb'>
+                <a href='https://store.steampowered.com/app/4487120/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4487120/181393eb50667c20f09e0d187d8c63031439ab88/header.jpg?t=1772626282' class='game-thumb' title='View on Steam'>
+                </a>
+                <div>
+                    <a href='https://store.steampowered.com/app/4487120/' target='_blank' class='game-title-link'>World In Chaos</a>
+                    <div class='meta-info'>
+                        <b>Release:</b> Apr 3, 2026 <span class='spacer'></span> <b>Tags:</b> <span class='tag-highlight'>turn-based tactics</span>
+                    </div>
+                </div>
+            </div>
+            <span><span style='color: #888;'>No contacts found</span></span>
+        </div><div class='game-row'>
+            <div class='game-info'>
+                <a href='https://store.steampowered.com/app/4474950/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4474950/77d1cf3dc56cd88cd5d02b338acb896f5d518cd5/header.jpg?t=1772626501' class='game-thumb' title='View on Steam'>
+                </a>
+                <div>
+                    <a href='https://store.steampowered.com/app/4474950/' target='_blank' class='game-title-link'>LIFE EFFECT Survival</a>
+                    <div class='meta-info'>
+                        <b>Release:</b> Coming soon <span class='spacer'></span> <b>Tags:</b> <span class='tag-highlight'>horror</span>
+                    </div>
+                </div>
+            </div>
+            <span><a href='https://discord.gg/6hcRRb4XWr' target='_blank'>Discord</a></span>
+        </div><div class='game-row'>
+            <div class='game-info'>
+                <a href='https://store.steampowered.com/app/4449750/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4449750/bfa992537039916d4c98bd4f8575828cbb9b7d64/header.jpg?t=1772624998' class='game-thumb' title='View on Steam'>
+                </a>
                 <div>
                     <a href='https://store.steampowered.com/app/4449750/' target='_blank' class='game-title-link'>Arbiters Dream</a>
                     <div class='meta-info'>
@@ -30,7 +66,9 @@
             <span><span style='color: #888;'>No contacts found</span></span>
         </div><div class='game-row'>
             <div class='game-info'>
-                <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4464630/b904bc2fc10920c750b366b09b59f8f91f77746f/header.jpg?t=1772583626' class='game-thumb'>
+                <a href='https://store.steampowered.com/app/4464630/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4464630/b904bc2fc10920c750b366b09b59f8f91f77746f/header.jpg?t=1772583626' class='game-thumb' title='View on Steam'>
+                </a>
                 <div>
                     <a href='https://store.steampowered.com/app/4464630/' target='_blank' class='game-title-link'>FEED</a>
                     <div class='meta-info'>
@@ -41,7 +79,9 @@
             <span><span style='color: #888;'>No contacts found</span></span>
         </div><div class='game-row'>
             <div class='game-info'>
-                <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/247970/c0d86dfb1e69d6165de8556949746d46e1d28f96/header.jpg?t=1772565034' class='game-thumb'>
+                <a href='https://store.steampowered.com/app/247970/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/247970/c0d86dfb1e69d6165de8556949746d46e1d28f96/header.jpg?t=1772565034' class='game-thumb' title='View on Steam'>
+                </a>
                 <div>
                     <a href='https://store.steampowered.com/app/247970/' target='_blank' class='game-title-link'>Korea. IL-2 Series</a>
                     <div class='meta-info'>
@@ -52,7 +92,9 @@
             <span><a href='https://discord.gg/ccFSw4PAUB' target='_blank'>Discord</a><span class='spacer'></span><a href='https://il2-korea.com/' target='_blank'>Site</a></span>
         </div><div class='game-row'>
             <div class='game-info'>
-                <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4434590/fe6d313818ddd4d94c00e15dd5686585b660fd44/header.jpg?t=1772586122' class='game-thumb'>
+                <a href='https://store.steampowered.com/app/4434590/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4434590/fe6d313818ddd4d94c00e15dd5686585b660fd44/header.jpg?t=1772586122' class='game-thumb' title='View on Steam'>
+                </a>
                 <div>
                     <a href='https://store.steampowered.com/app/4434590/' target='_blank' class='game-title-link'>ReTower: Custom Defense</a>
                     <div class='meta-info'>
@@ -63,7 +105,9 @@
             <span><span style='color: #888;'>No contacts found</span></span>
         </div><div class='game-row'>
             <div class='game-info'>
-                <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2387360/5b80dfbf5d67d8a6be787584335ab4efe5102a63/header.jpg?t=1772593189' class='game-thumb'>
+                <a href='https://store.steampowered.com/app/2387360/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2387360/5b80dfbf5d67d8a6be787584335ab4efe5102a63/header.jpg?t=1772593189' class='game-thumb' title='View on Steam'>
+                </a>
                 <div>
                     <a href='https://store.steampowered.com/app/2387360/' target='_blank' class='game-title-link'>Neko D.S.</a>
                     <div class='meta-info'>
@@ -74,7 +118,9 @@
             <span><span style='color: #888;'>No contacts found</span></span>
         </div><div class='game-row'>
             <div class='game-info'>
-                <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4434000/39aadf5cdea92a99d13b54bb72777eee7117c6c8/header.jpg?t=1772596312' class='game-thumb'>
+                <a href='https://store.steampowered.com/app/4434000/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4434000/39aadf5cdea92a99d13b54bb72777eee7117c6c8/header.jpg?t=1772596312' class='game-thumb' title='View on Steam'>
+                </a>
                 <div>
                     <a href='https://store.steampowered.com/app/4434000/' target='_blank' class='game-title-link'>Dream of Becoming</a>
                     <div class='meta-info'>
@@ -85,7 +131,9 @@
             <span><span style='color: #888;'>No contacts found</span></span>
         </div><div class='game-row'>
             <div class='game-info'>
-                <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4452320/c3407936241d3bcda71445c0d8dfc52a81ba9413/header.jpg?t=1772588554' class='game-thumb'>
+                <a href='https://store.steampowered.com/app/4452320/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4452320/c3407936241d3bcda71445c0d8dfc52a81ba9413/header.jpg?t=1772588554' class='game-thumb' title='View on Steam'>
+                </a>
                 <div>
                     <a href='https://store.steampowered.com/app/4452320/' target='_blank' class='game-title-link'>Woodbridge</a>
                     <div class='meta-info'>
@@ -96,7 +144,9 @@
             <span><span style='color: #888;'>No contacts found</span></span>
         </div><div class='game-row'>
             <div class='game-info'>
-                <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4468880/833f9303d0d7ec0d7d455dd15c4e3bb600ac39e5/header.jpg?t=1772596637' class='game-thumb'>
+                <a href='https://store.steampowered.com/app/4468880/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4468880/833f9303d0d7ec0d7d455dd15c4e3bb600ac39e5/header.jpg?t=1772596637' class='game-thumb' title='View on Steam'>
+                </a>
                 <div>
                     <a href='https://store.steampowered.com/app/4468880/' target='_blank' class='game-title-link'>The Chairman</a>
                     <div class='meta-info'>
@@ -107,7 +157,9 @@
             <span><span style='color: #888;'>No contacts found</span></span>
         </div><div class='game-row'>
             <div class='game-info'>
-                <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4486290/9711b2e8d3940ae41098f24e32ed41308eaae09f/header.jpg?t=1772597337' class='game-thumb'>
+                <a href='https://store.steampowered.com/app/4486290/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4486290/9711b2e8d3940ae41098f24e32ed41308eaae09f/header.jpg?t=1772597337' class='game-thumb' title='View on Steam'>
+                </a>
                 <div>
                     <a href='https://store.steampowered.com/app/4486290/' target='_blank' class='game-title-link'>Thunder Tank: Iron Shield</a>
                     <div class='meta-info'>
@@ -118,7 +170,9 @@
             <span><span style='color: #888;'>No contacts found</span></span>
         </div><div class='game-row'>
             <div class='game-info'>
-                <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4299040/05c9aebee360fd7b112e47b11d3cbcfa676a3626/header.jpg?t=1772598255' class='game-thumb'>
+                <a href='https://store.steampowered.com/app/4299040/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4299040/05c9aebee360fd7b112e47b11d3cbcfa676a3626/header.jpg?t=1772598255' class='game-thumb' title='View on Steam'>
+                </a>
                 <div>
                     <a href='https://store.steampowered.com/app/4299040/' target='_blank' class='game-title-link'>Square Force</a>
                     <div class='meta-info'>
@@ -129,7 +183,9 @@
             <span><span style='color: #888;'>No contacts found</span></span>
         </div><div class='game-row'>
             <div class='game-info'>
-                <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4389380/31c22a4e7ac430ef1529a77cf9d3aed25ca24cf3/header.jpg?t=1772601953' class='game-thumb'>
+                <a href='https://store.steampowered.com/app/4389380/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4389380/31c22a4e7ac430ef1529a77cf9d3aed25ca24cf3/header.jpg?t=1772601953' class='game-thumb' title='View on Steam'>
+                </a>
                 <div>
                     <a href='https://store.steampowered.com/app/4389380/' target='_blank' class='game-title-link'>Mia's Fantasy Tale</a>
                     <div class='meta-info'>
@@ -140,7 +196,9 @@
             <span><span style='color: #888;'>No contacts found</span></span>
         </div><div class='game-row'>
             <div class='game-info'>
-                <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4480380/55b6680d9d73a92250a2ad17f272e80fe959a0fe/header.jpg?t=1772600090' class='game-thumb'>
+                <a href='https://store.steampowered.com/app/4480380/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4480380/55b6680d9d73a92250a2ad17f272e80fe959a0fe/header.jpg?t=1772600090' class='game-thumb' title='View on Steam'>
+                </a>
                 <div>
                     <a href='https://store.steampowered.com/app/4480380/' target='_blank' class='game-title-link'>Wasteland Horror Radio: Episode 2 - The Lighthouse</a>
                     <div class='meta-info'>
@@ -151,7 +209,9 @@
             <span><span class='email'>admin@hsretrogames.com</span><span class='spacer'></span><a href='http://hsretrogames.com' target='_blank'>Site</a></span>
         </div><div class='game-row'>
             <div class='game-info'>
-                <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3508260/7d50d327738dd5acc35a090cb39c7ee54522f43e/header.jpg?t=1772606110' class='game-thumb'>
+                <a href='https://store.steampowered.com/app/3508260/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3508260/7d50d327738dd5acc35a090cb39c7ee54522f43e/header.jpg?t=1772606110' class='game-thumb' title='View on Steam'>
+                </a>
                 <div>
                     <a href='https://store.steampowered.com/app/3508260/' target='_blank' class='game-title-link'>Hex Town</a>
                     <div class='meta-info'>
@@ -162,7 +222,9 @@
             <span><a href='https://www.hextown.com' target='_blank'>Site</a></span>
         </div><div class='game-row'>
             <div class='game-info'>
-                <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4455090/958e92a89b752eb3d118ba6e455ccd16655ab475/header.jpg?t=1772604275' class='game-thumb'>
+                <a href='https://store.steampowered.com/app/4455090/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4455090/958e92a89b752eb3d118ba6e455ccd16655ab475/header.jpg?t=1772604275' class='game-thumb' title='View on Steam'>
+                </a>
                 <div>
                     <a href='https://store.steampowered.com/app/4455090/' target='_blank' class='game-title-link'>Travellers Inbetween</a>
                     <div class='meta-info'>
@@ -173,7 +235,9 @@
             <span><a href='https://discord.gg/YA5BXHwp' target='_blank'>Discord</a></span>
         </div><div class='game-row'>
             <div class='game-info'>
-                <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4412710/1bf7d05a5295ebac8e2943df01deec384b7ae3d8/header.jpg?t=1772609497' class='game-thumb'>
+                <a href='https://store.steampowered.com/app/4412710/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4412710/1bf7d05a5295ebac8e2943df01deec384b7ae3d8/header.jpg?t=1772609497' class='game-thumb' title='View on Steam'>
+                </a>
                 <div>
                     <a href='https://store.steampowered.com/app/4412710/' target='_blank' class='game-title-link'>Gummy Invaders</a>
                     <div class='meta-info'>
@@ -184,7 +248,9 @@
             <span><span style='color: #888;'>No contacts found</span></span>
         </div><div class='game-row'>
             <div class='game-info'>
-                <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4427960/f08f2e85a59bcee1b4398fa699c0d219913db294/header.jpg?t=1772609455' class='game-thumb'>
+                <a href='https://store.steampowered.com/app/4427960/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4427960/f08f2e85a59bcee1b4398fa699c0d219913db294/header.jpg?t=1772609455' class='game-thumb' title='View on Steam'>
+                </a>
                 <div>
                     <a href='https://store.steampowered.com/app/4427960/' target='_blank' class='game-title-link'>Banana Corp</a>
                     <div class='meta-info'>
@@ -195,7 +261,9 @@
             <span><span style='color: #888;'>No contacts found</span></span>
         </div><div class='game-row'>
             <div class='game-info'>
-                <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4409920/519ba27bac4a4b3f09da273d9a5d8287bb7c0bdc/header.jpg?t=1772611522' class='game-thumb'>
+                <a href='https://store.steampowered.com/app/4409920/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4409920/519ba27bac4a4b3f09da273d9a5d8287bb7c0bdc/header.jpg?t=1772611522' class='game-thumb' title='View on Steam'>
+                </a>
                 <div>
                     <a href='https://store.steampowered.com/app/4409920/' target='_blank' class='game-title-link'>Tower.defense(): Program The Fight</a>
                     <div class='meta-info'>
@@ -206,7 +274,9 @@
             <span><span style='color: #888;'>No contacts found</span></span>
         </div><div class='game-row'>
             <div class='game-info'>
-                <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4413360/a9765d877cb5ea5c30ed114674dbb66b008ac853/header.jpg?t=1772613787' class='game-thumb'>
+                <a href='https://store.steampowered.com/app/4413360/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4413360/a9765d877cb5ea5c30ed114674dbb66b008ac853/header.jpg?t=1772613787' class='game-thumb' title='View on Steam'>
+                </a>
                 <div>
                     <a href='https://store.steampowered.com/app/4413360/' target='_blank' class='game-title-link'>Bigfoot Hunting</a>
                     <div class='meta-info'>
@@ -217,7 +287,9 @@
             <span><span style='color: #888;'>No contacts found</span></span>
         </div><div class='game-row'>
             <div class='game-info'>
-                <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4413390/7e17ea4b075d6d21957b9c414a9ee60d7e7639ee/header.jpg?t=1772613834' class='game-thumb'>
+                <a href='https://store.steampowered.com/app/4413390/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4413390/7e17ea4b075d6d21957b9c414a9ee60d7e7639ee/header.jpg?t=1772613834' class='game-thumb' title='View on Steam'>
+                </a>
                 <div>
                     <a href='https://store.steampowered.com/app/4413390/' target='_blank' class='game-title-link'>Firefighting Rescue Simulator</a>
                     <div class='meta-info'>
@@ -228,7 +300,9 @@
             <span><span style='color: #888;'>No contacts found</span></span>
         </div><div class='game-row'>
             <div class='game-info'>
-                <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4413410/f0fc8568b955ea9e30c817a0a55a0b180712ca34/header.jpg?t=1772613967' class='game-thumb'>
+                <a href='https://store.steampowered.com/app/4413410/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4413410/f0fc8568b955ea9e30c817a0a55a0b180712ca34/header.jpg?t=1772613967' class='game-thumb' title='View on Steam'>
+                </a>
                 <div>
                     <a href='https://store.steampowered.com/app/4413410/' target='_blank' class='game-title-link'>Dinosaur Survival Simulator - Prehistoric RPG</a>
                     <div class='meta-info'>
@@ -239,7 +313,9 @@
             <span><span style='color: #888;'>No contacts found</span></span>
         </div><div class='game-row'>
             <div class='game-info'>
-                <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4314730/c5039c16980b695dab49bd0cb37c426fb63743f4/header.jpg?t=1772620401' class='game-thumb'>
+                <a href='https://store.steampowered.com/app/4314730/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4314730/c5039c16980b695dab49bd0cb37c426fb63743f4/header.jpg?t=1772620401' class='game-thumb' title='View on Steam'>
+                </a>
                 <div>
                     <a href='https://store.steampowered.com/app/4314730/' target='_blank' class='game-title-link'>Mechanical Menace</a>
                     <div class='meta-info'>
@@ -250,7 +326,9 @@
             <span><a href='https://810-studios.com/' target='_blank'>Site</a></span>
         </div><div class='game-row'>
             <div class='game-info'>
-                <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4454030/accc12fd3fa8230a766d8e8ebcffb7e57eab3d72/header.jpg?t=1772620824' class='game-thumb'>
+                <a href='https://store.steampowered.com/app/4454030/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4454030/accc12fd3fa8230a766d8e8ebcffb7e57eab3d72/header.jpg?t=1772620824' class='game-thumb' title='View on Steam'>
+                </a>
                 <div>
                     <a href='https://store.steampowered.com/app/4454030/' target='_blank' class='game-title-link'>The Korridor</a>
                     <div class='meta-info'>
@@ -261,7 +339,9 @@
             <span><span style='color: #888;'>No contacts found</span></span>
         </div><div class='game-row'>
             <div class='game-info'>
-                <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4474960/bb6dcab9f4d1f1e0740eccac58fa7ae7897f9658/header.jpg?t=1772619823' class='game-thumb'>
+                <a href='https://store.steampowered.com/app/4474960/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4474960/bb6dcab9f4d1f1e0740eccac58fa7ae7897f9658/header.jpg?t=1772619823' class='game-thumb' title='View on Steam'>
+                </a>
                 <div>
                     <a href='https://store.steampowered.com/app/4474960/' target='_blank' class='game-title-link'>Ratatouille Builder</a>
                     <div class='meta-info'>
@@ -272,7 +352,9 @@
             <span><a href='https://www.instagram.com/talenvin__/' target='_blank'>Site</a></span>
         </div><div class='game-row'>
             <div class='game-info'>
-                <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4296320/f44aa656467c8a469b637b06db6bae462b27af31/header.jpg?t=1772623391' class='game-thumb'>
+                <a href='https://store.steampowered.com/app/4296320/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4296320/f44aa656467c8a469b637b06db6bae462b27af31/header.jpg?t=1772623391' class='game-thumb' title='View on Steam'>
+                </a>
                 <div>
                     <a href='https://store.steampowered.com/app/4296320/' target='_blank' class='game-title-link'>MYTRA: No Escape Protocol</a>
                     <div class='meta-info'>
@@ -283,7 +365,9 @@
             <span><span style='color: #888;'>No contacts found</span></span>
         </div><div class='game-row'>
             <div class='game-info'>
-                <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4381330/7f0dffc94d85354c059a4dfdd3b034cfba8a143d/header.jpg?t=1772623973' class='game-thumb'>
+                <a href='https://store.steampowered.com/app/4381330/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4381330/7f0dffc94d85354c059a4dfdd3b034cfba8a143d/header.jpg?t=1772623973' class='game-thumb' title='View on Steam'>
+                </a>
                 <div>
                     <a href='https://store.steampowered.com/app/4381330/' target='_blank' class='game-title-link'>Disharmony</a>
                     <div class='meta-info'>
@@ -294,7 +378,9 @@
             <span><a href='https://discord.gg/756M5FMZmy' target='_blank'>Discord</a><span class='spacer'></span><a href='https://7eagle.net' target='_blank'>Site</a></span>
         </div><div class='game-row'>
             <div class='game-info'>
-                <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4413170/1ddf8bc64701fd3764dfb97befa2c50d831bbf55/header.jpg?t=1772622499' class='game-thumb'>
+                <a href='https://store.steampowered.com/app/4413170/' target='_blank'>
+                    <img src='https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4413170/1ddf8bc64701fd3764dfb97befa2c50d831bbf55/header.jpg?t=1772622499' class='game-thumb' title='View on Steam'>
+                </a>
                 <div>
                     <a href='https://store.steampowered.com/app/4413170/' target='_blank' class='game-title-link'>Deadhead: Autorail</a>
                     <div class='meta-info'>
@@ -303,4 +389,67 @@
                 </div>
             </div>
             <span><span style='color: #888;'>No contacts found</span></span>
-        </div></body></html>
+        </div>
+    <div id="pagination-container" class="pagination-container"></div>
+    <script>
+        const itemsPerPage = 50;
+        const items = Array.from(document.querySelectorAll('.game-row'));
+        const totalPages = Math.ceil(items.length / itemsPerPage) || 1;
+        let currentPage = 1;
+
+        function showPage(page) {
+            currentPage = page;
+            const start = (page - 1) * itemsPerPage;
+            const end = start + itemsPerPage;
+
+            // Show/Hide Games
+            items.forEach((item, index) => {
+                item.style.display = (index >= start && index < end) ? 'flex' : 'none';
+            });
+
+            // Show/Hide Date Headers based on visible games
+            const headers = document.querySelectorAll('.date-header');
+            headers.forEach(header => {
+                let next = header.nextElementSibling;
+                let hasVisible = false;
+                while (next && !next.classList.contains('date-header')) {
+                    if (next.classList.contains('game-row') && next.style.display === 'flex') {
+                        hasVisible = true;
+                        break;
+                    }
+                    next = next.nextElementSibling;
+                }
+                header.style.display = hasVisible ? 'block' : 'none';
+            });
+
+            renderPagination();
+            window.scrollTo(0, 0);
+        }
+
+        function renderPagination() {
+            const container = document.getElementById('pagination-container');
+            if (!container || totalPages <= 1) return;
+            
+            let html = '';
+            if (currentPage > 1) html += `<button onclick="showPage(${currentPage - 1})">&laquo; Prev</button>`;
+            
+            let lastPushed = 0;
+            for (let i = 1; i <= totalPages; i++) {
+                // Show first, last, and +/- 2 pages around current
+                if (i === 1 || i === totalPages || Math.abs(i - currentPage) <= 2) {
+                    if (lastPushed && i - lastPushed > 1) {
+                        html += `<span class="dots">...</span>`;
+                    }
+                    html += `<button onclick="showPage(${i})" class="${i === currentPage ? 'active' : ''}">${i}</button>`;
+                    lastPushed = i;
+                }
+            }
+            
+            if (currentPage < totalPages) html += `<button onclick="showPage(${currentPage + 1})">Next &raquo;</button>`;
+            container.innerHTML = html;
+        }
+
+        // Initialize first page
+        showPage(1);
+    </script>
+    </body></html>
