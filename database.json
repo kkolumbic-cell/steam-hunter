@@ -807,5 +807,50 @@
             "horror",
             "survival horror"
         ]
+    },
+    "4466610": {
+        "Title": "MysteryOS",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4466610/",
+        "Site": "https://mysteryos.app",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4466610/16e20d8616e57e11edebf52d7476e0c55adbe846/header.jpg?t=1772659245",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-04",
+        "AddedTimestamp": 1772661017.9391983,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4484740": {
+        "Title": "Aghia",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4484740/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484740/076f52186123131d4a3ac5d8148a832609b85522/header.jpg?t=1772660233",
+        "Date": "TBA",
+        "AddedDate": "2026-03-04",
+        "AddedTimestamp": 1772661025.3238907,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4485520": {
+        "Title": "Ratnik",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4485520/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4485520/06c2e70b52bbaa917060907da1531b615cb1cd37/header.jpg?t=1772658227",
+        "Date": "Jun 30, 2026",
+        "AddedDate": "2026-03-04",
+        "AddedTimestamp": 1772661028.0353777,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "real time tactics",
+            "management"
+        ]
     }
 }
