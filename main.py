@@ -23,7 +23,6 @@ TARGET_TAGS = [
     'tactical', 'real time tactics', 'psychological horror', 'horror', 'survival horror'
 ]
 
-# EXPANDED EXCLUSION LIST
 EXCLUDE_TAGS = ['nudity', 'cute', 'sports', 'anime']
 
 def get_headers():
@@ -60,12 +59,10 @@ def save_data(database):
     with open(DB_FILE, 'w') as f:
         json.dump(database, f, indent=4)
     
-    # SORTING UPGRADE: Sort by exact millisecond timestamp to keep absolute newest on top!
     def get_sort_key(x):
         ts = x.get('AddedTimestamp')
         if ts is not None:
             return ts
-        # Fallback for old database entries that don't have a timestamp yet
         date_str = x.get('AddedDate', '2000-01-01')
         try:
             return time.mktime(time.strptime(date_str, '%Y-%m-%d'))
@@ -131,7 +128,7 @@ def save_data(database):
         f.write(html + "</body></html>")
 
 def build_master_list(api_key, req_session):
-    print("Building baseline memory of all historical Steam games. This takes a few seconds...")
+    print("Building baseline memory of all historical Steam games...")
     master_list = set()
     last_appid = 0
     while True:
@@ -180,7 +177,6 @@ def run_script():
         build_master_list(API_KEY, req_session)
         with open('last_run.txt', 'w') as f:
             f.write(str(current_time))
-        print("Initialization complete. Stopping execution. Next run will catch truly NEW games.")
         return
 
     master_list = set()
@@ -201,7 +197,7 @@ def run_script():
     try:
         res = req_session.get(api_url, headers=get_headers(), timeout=30)
         if res.status_code != 200:
-            print(f"Failed to fetch from IStoreService.")
+            print("Failed to fetch from IStoreService.")
             return
             
         data = res.json()
@@ -210,7 +206,6 @@ def run_script():
         
         apps_to_scrape = []
         for app_id in modified_app_ids:
-            # UPGRADE: Always re-scrape tracked games if Steam flags them as modified!
             if app_id in database:
                 apps_to_scrape.append(app_id)
             elif app_id not in master_list:
@@ -242,11 +237,28 @@ def run_script():
                 
             s_soup = BeautifulSoup(s_res.text, 'html.parser')
             
-            tag_elements = s_soup.select('.app_tag')
-            game_tags = [t.text.strip().lower() for t in tag_elements if t.text.strip() != '+']
+            # --- THE FIX: DEEP TAG EXTRACTION ---
+            # Dig into the hidden Javascript data payload to grab ALL tags, even if they aren't visible on the page!
+            game_tags = []
+            tag_match = re.search(r'InitAppTagModal\(\s*\d+,\s*(\[.*?\])\s*\)', s_res.text)
+            if tag_match:
+                try:
+                    full_tags_data = json.loads(tag_match.group(1))
+                    game_tags = [t['name'].lower() for t in full_tags_data]
+                except:
+                    pass
             
-            # Instantly block excluded games
+            # Fallback to the visible UI tags just in case Steam changes their Javascript
+            if not game_tags:
+                tag_elements = s_soup.select('.app_tag')
+                game_tags = [t.text.strip().lower() for t in tag_elements if t.text.strip() != '+']
+            
+            # --- THE FIX: THE SQUATTER EVICTION ---
             if any(bad_tag in game_tags for bad_tag in EXCLUDE_TAGS):
+                if app_id in database:
+                    print(f"*** EVICTION: Removing '{app_id}' from dashboard (Found excluded tag) ***")
+                    del database[app_id]
+                    save_data(database) # Instantly updates the HTML!
                 continue
 
             matched_tags = [t for t in game_tags if t in TARGET_TAGS]
@@ -270,12 +282,11 @@ def run_script():
                 game_info = database[app_id]
                 old_date = game_info.get('Date', 'TBA')
                 
-                # RELEASE DATE BUMP: Check if the dev changed the date!
                 if old_date != release_date:
                     print(f"*** UPDATE DETECTED: {title} changed release date from '{old_date}' to '{release_date}'! ***")
                     game_info['Date'] = release_date
                     game_info['AddedDate'] = today_str
-                    game_info['AddedTimestamp'] = time.time()  # Bounces it to the top!
+                    game_info['AddedTimestamp'] = time.time()
                     
                 game_info['MatchedTags'] = matched_tags
             else:
@@ -286,7 +297,6 @@ def run_script():
                     'AddedTimestamp': time.time(), 'MatchedTags': matched_tags
                 }
 
-            # --- THE FOOLPROOF GLOBAL LINK SCANNER ---
             for link in s_soup.find_all('a', href=True):
                 txt = link.get_text().lower().strip()
                 href = link.get('href', '')
