@@ -339,12 +339,13 @@
         "URL": "https://store.steampowered.com/app/4413170/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4413170/1ddf8bc64701fd3764dfb97befa2c50d831bbf55/header.jpg?t=1772622499",
-        "Date": "TBA",
-        "AddedDate": "2026-03-04",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-05",
         "MatchedTags": [
-            "psychological horror",
-            "horror"
-        ]
+            "horror",
+            "psychological horror"
+        ],
+        "AddedTimestamp": 1772705016.5968773
     },
     "4449750": {
         "Title": "Arbiters Dream",
@@ -580,9 +581,9 @@
         "URL": "https://store.steampowered.com/app/4484320/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484320/8da12705a1e2a4ac709466536d5f8522aef73c7c/header.jpg?t=1772643222",
-        "Date": "March 2026",
-        "AddedDate": "2026-03-04",
-        "AddedTimestamp": 1772643871.5824096,
+        "Date": "2026",
+        "AddedDate": "2026-03-05",
+        "AddedTimestamp": 1772705042.7288527,
         "MatchedTags": [
             "economy",
             "management",
@@ -1241,6 +1242,97 @@
         "AddedTimestamp": 1772701280.512885,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4115900": {
+        "Title": "5555",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4115900/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4115900/dd4862384a7a488137538a98d090c70cffa02714/header.jpg?t=1772704456",
+        "Date": "Q1 2026",
+        "AddedDate": "2026-03-05",
+        "AddedTimestamp": 1772705001.0030181,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4413470": {
+        "Title": "Airport Police Contraband Simulator - Border Patrol",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4413470/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4413470/daaeb2dab06f4e564a4703929f9949089effac04/header.jpg?t=1772703901",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-05",
+        "AddedTimestamp": 1772705018.8947282,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4424410": {
+        "Title": "No Further Instructions",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4424410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4424410/f8a8e2bec3bf68c9f9e8760fc021a768ec99e7b2/header.jpg?t=1772703487",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-03-05",
+        "AddedTimestamp": 1772705021.036195,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4483310": {
+        "Title": "Firewall",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4483310/",
+        "Site": "https://out-of-box-games.com/firewall",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4483310/a37cb9d5213033b263012ba6d18e564f593b4786/header.jpg?t=1772702549",
+        "Date": "Apr 1, 2026",
+        "AddedDate": "2026-03-05",
+        "AddedTimestamp": 1772705028.4985,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "4484200": {
+        "Title": "Exponent: The Scaling Tower Defense",
+        "Email": "",
+        "Discord": "https://discord.com/invite/U65nZdjxAG",
+        "URL": "https://store.steampowered.com/app/4484200/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4484200/31a7760dff96819ac4089ae98398d11239c77506/header.jpg?t=1772704562",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-05",
+        "AddedTimestamp": 1772705040.6677139,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "base building",
+            "management",
+            "resource management"
+        ]
+    },
+    "4487360": {
+        "Title": "Spinova",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4487360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4487360/a23d5364216ce2cc1c940570d1be7b73b98a7ba8/header.jpg?t=1772704589",
+        "Date": "April 2026",
+        "AddedDate": "2026-03-05",
+        "AddedTimestamp": 1772705046.7781994,
+        "MatchedTags": [
+            "strategy",
+            "management"
         ]
     }
 }
