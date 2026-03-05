@@ -2076,5 +2076,67 @@
             "turn-based combat",
             "management"
         ]
+    },
+    "3281660": {
+        "Title": "Starlight Brigade",
+        "Email": "",
+        "Discord": "https://discord.gg/RDZKpPxUK9",
+        "URL": "https://store.steampowered.com/app/3281660/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3281660/dd4505f899da33e3194c1799b0db5764e85ce42d/header.jpg?t=1772745801",
+        "Date": "December 2026",
+        "AddedDate": "2026-03-05",
+        "AddedTimestamp": 1772747514.0816107,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4434030": {
+        "Title": "\u621a\u7ee7\u5149 Qi Jiguang: Art of War",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4434030/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4434030/4e422bbc244ec2f8f8df0e18be5832e98dddfaa5/header.jpg?t=1772744958",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-03-05",
+        "AddedTimestamp": 1772747527.2398286,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "tactical",
+            "turn-based combat"
+        ]
+    },
+    "4476320": {
+        "Title": "Feed The Void",
+        "Email": "barribobgames@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4476320/",
+        "Site": "https://barribob.github.io/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4476320/a2f1827bae05bbce4ff83aaee3df43e77f5418f0/header.jpg?t=1772746128",
+        "Date": "TBA",
+        "AddedDate": "2026-03-05",
+        "AddedTimestamp": 1772747531.7486687,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "turn-based strategy"
+        ]
+    },
+    "4483960": {
+        "Title": "Urbex",
+        "Email": "",
+        "Discord": "https://discord.gg/w4Jp9PhaM8",
+        "URL": "https://store.steampowered.com/app/4483960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4483960/6b7c706e95a89dedf8b0ac2ac1a791d7fb7ef02d/header.jpg?t=1772745123",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-05",
+        "AddedTimestamp": 1772747534.8744912,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
     }
 }
