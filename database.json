@@ -1681,9 +1681,9 @@
         "URL": "https://store.steampowered.com/app/4451210/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4451210/de3774a8fb7f3b62aaf7a6a1ab6219ff4781c1db/header.jpg?t=1772723636",
-        "Date": "Jun 30, 2026",
+        "Date": "June 2026",
         "AddedDate": "2026-03-05",
-        "AddedTimestamp": 1772726772.8671763,
+        "AddedTimestamp": 1772740887.7413933,
         "MatchedTags": [
             "base building"
         ]
@@ -1949,6 +1949,71 @@
         "AddedTimestamp": 1772735116.5006838,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "3760520": {
+        "Title": "Rogue 'n' Roll: Dice of Fate",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3760520/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3760520/972f453102d17c2bc1c8a3089ff06fd07b741219/header.jpg?t=1772738691",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-03-05",
+        "AddedTimestamp": 1772740860.1797347,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "turn-based tactics",
+            "turn-based strategy",
+            "tactical rpg"
+        ]
+    },
+    "3900700": {
+        "Title": "No\u00ebl macabre",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3900700/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3900700/332e4013faeacd90eb9694118ad76bc09fdc1592/header.jpg?t=1772738386",
+        "Date": "Dec 1, 2026",
+        "AddedDate": "2026-03-05",
+        "AddedTimestamp": 1772740862.293178,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4361680": {
+        "Title": "Home Store Simulator",
+        "Email": "",
+        "Discord": "https://discord.gg/WMCjWeUPmF",
+        "URL": "https://store.steampowered.com/app/4361680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4361680/02e7c6c88a9b43d33ffdd4e60ca0ad5d0166ee5c/header.jpg?t=1772735215",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-05",
+        "AddedTimestamp": 1772740876.3208106,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4447420": {
+        "Title": "Firestorm",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4447420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4447420/c2064c0a4cc938f2ae1d91ef50510d38e02be473/header.jpg?t=1772735084",
+        "Date": "Jun 1, 2026",
+        "AddedDate": "2026-03-05",
+        "AddedTimestamp": 1772740884.6515257,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical"
         ]
     }
 }
