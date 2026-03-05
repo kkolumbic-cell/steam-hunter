@@ -894,9 +894,9 @@
         "URL": "https://store.steampowered.com/app/4478700/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4478700/de668170f209b880252db85ce4cae1ae373776e4/header.jpg?t=1772662637",
-        "Date": "Mar 15, 2026",
-        "AddedDate": "2026-03-04",
-        "AddedTimestamp": 1772664693.6239464,
+        "Date": "March 2026",
+        "AddedDate": "2026-03-05",
+        "AddedTimestamp": 1772711374.4677312,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -1362,6 +1362,37 @@
         "MatchedTags": [
             "psychological horror",
             "horror"
+        ]
+    },
+    "4063150": {
+        "Title": "Ordo Venator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4063150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4063150/33bb06e3f3ad184ab0aba2803c52269a9c341667/header.jpg?t=1772710223",
+        "Date": "TBA",
+        "AddedDate": "2026-03-05",
+        "AddedTimestamp": 1772711366.384466,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "4457890": {
+        "Title": "Not Alone at Midnight",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4457890/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4457890/bc75d741f99ac8c68976cd331f990f2cf7b06b03/header.jpg?t=1772710627",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-05",
+        "AddedTimestamp": 1772711371.359767,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
         ]
     }
 }
