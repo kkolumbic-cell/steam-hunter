@@ -2115,9 +2115,9 @@
         "URL": "https://store.steampowered.com/app/4476320/",
         "Site": "https://barribob.github.io/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4476320/a2f1827bae05bbce4ff83aaee3df43e77f5418f0/header.jpg?t=1772746128",
-        "Date": "TBA",
+        "Date": "Coming soon",
         "AddedDate": "2026-03-05",
-        "AddedTimestamp": 1772747531.7486687,
+        "AddedTimestamp": 1772753403.9731343,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -2137,6 +2137,49 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4080390": {
+        "Title": "Varion: The Fading Path",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4080390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080390/ef5e6e501a3ed3f0f52792e40f8d2479b3824d5f/header.jpg?t=1772749132",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-05",
+        "AddedTimestamp": 1772753378.660846,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4192210": {
+        "Title": "Cold Decree",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4192210/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4192210/d172cd744f88a169d6e7a8cfecd13583a571da9e/header.jpg?t=1772751473",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-05",
+        "AddedTimestamp": 1772753384.3777475,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4304560": {
+        "Title": "The Undermall",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4304560/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4304560/b74d18a79b0f8e05bd489c2d02e9b302d3fbd357/header.jpg?t=1772752401",
+        "Date": "Mar 23, 2026",
+        "AddedDate": "2026-03-05",
+        "AddedTimestamp": 1772753386.5867393,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
         ]
     }
 }
