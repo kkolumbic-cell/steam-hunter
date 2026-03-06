@@ -2174,12 +2174,117 @@
         "URL": "https://store.steampowered.com/app/4304560/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4304560/b74d18a79b0f8e05bd489c2d02e9b302d3fbd357/header.jpg?t=1772752401",
-        "Date": "Mar 23, 2026",
-        "AddedDate": "2026-03-05",
-        "AddedTimestamp": 1772753386.5867393,
+        "Date": "Mar 20, 2026",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772766532.9760804,
         "MatchedTags": [
             "psychological horror",
             "horror"
+        ]
+    },
+    "4431390": {
+        "Title": "ColdShift Derby",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4431390/",
+        "Site": "https://www.coldshiftderby.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4431390/edb0607eb840671c0613e959b2a2ae115ba1ca3d/header.jpg?t=1772756958",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772766544.6967335,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4440950": {
+        "Title": "Vespers Edge",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4440950/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4440950/d8271f47cfb1689dde31b857cdb989e1e0d1a349/header.jpg?t=1772766250",
+        "Date": "Apr 21, 2026",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772766548.606998,
+        "MatchedTags": [
+            "tower defense"
+        ]
+    },
+    "4445030": {
+        "Title": "Crimson Creed",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4445030/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4445030/c01ada549f3b3265358b9b52e521bd0d3a565c7d/header.jpg?t=1772763994",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772766550.3639288,
+        "MatchedTags": [
+            "tower defense",
+            "strategy",
+            "base building"
+        ]
+    },
+    "4459090": {
+        "Title": "DiceRogue",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4459090/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459090/a132574dcc7630878b62c6eed9de15626a8380e8/header.jpg?t=1772760324",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772766556.22291,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical"
+        ]
+    },
+    "4459340": {
+        "Title": "Perfect Execution",
+        "Email": "",
+        "Discord": "https://discord.gg/Cz7bBMg5",
+        "URL": "https://store.steampowered.com/app/4459340/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459340/663f1dfb2d08988a4a7755fb113854da403f17d0/header.jpg?t=1772755572",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772766558.449575,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4463590": {
+        "Title": "Plateau",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4463590/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4463590/891dee749de1f16877221e29b2a0134d66b4b7d5/header.jpg?t=1772756694",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772766562.593625,
+        "MatchedTags": [
+            "city builder"
+        ]
+    },
+    "4476270": {
+        "Title": "Crown & Coin: The Hundred Years",
+        "Email": "",
+        "Discord": "https://discord.gg/xEpyDFQxCr",
+        "URL": "https://store.steampowered.com/app/4476270/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476270/badbab5667917f5aeb41c40ae97dfc9ae9681c7b/header.jpg?t=1772760762",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772766576.1874802,
+        "MatchedTags": [
+            "resource management",
+            "turn-based combat",
+            "strategy"
         ]
     }
 }
