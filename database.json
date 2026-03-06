@@ -2038,9 +2038,9 @@
         "URL": "https://store.steampowered.com/app/4475300/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475300/2095423873dacf3b2b0b6786bdb1ab34cc3ae92b/header.jpg?t=1772741079",
-        "Date": "Apr 15, 2026",
-        "AddedDate": "2026-03-05",
-        "AddedTimestamp": 1772744059.8944967,
+        "Date": "Jul 8, 2026",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772791033.4324036,
         "MatchedTags": [
             "tactical"
         ]
@@ -2558,6 +2558,20 @@
         "MatchedTags": [
             "base building",
             "colony sim"
+        ]
+    },
+    "4452020": {
+        "Title": "Turbo Trigger",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4452020/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4452020/f53c65575329b6c8303e2b68dea3ddaf78bd22d2/header.jpg?t=1772790504",
+        "Date": "2027",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772791030.0926616,
+        "MatchedTags": [
+            "tactical"
         ]
     }
 }
