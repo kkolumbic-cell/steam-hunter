@@ -1791,14 +1791,14 @@
         "URL": "https://store.steampowered.com/app/4212170/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4212170/1076f89ca8c3566a58ee59c2313e9c0aba445733/header.jpg?t=1772732893",
-        "Date": "Apr 6, 2026",
-        "AddedDate": "2026-03-05",
-        "AddedTimestamp": 1772735031.6762903,
+        "Date": "Jun 23, 2026",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772830150.847441,
         "MatchedTags": [
-            "strategy",
             "city builder",
             "base building",
             "resource management",
+            "strategy",
             "real time tactics"
         ]
     },
@@ -3199,6 +3199,99 @@
         "MatchedTags": [
             "psychological horror",
             "horror"
+        ]
+    },
+    "3936340": {
+        "Title": "HELL WAIT",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3936340/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3936340/a429813374132309ee2a54bfd32c99ad5d1a2d68/header.jpg?t=1772829804",
+        "Date": "2026",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772830146.0707383,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4422650": {
+        "Title": "Broken Voyage",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4422650/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4422650/30b6e3730b0fc99a2de167860c06d28dcb819503/header.jpg?t=1772827698",
+        "Date": "April 2026",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772830166.1681926,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4480640": {
+        "Title": "Deep Anomaly",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4480640/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4480640/be3bb9f67c6a863db705b2de2ea89de3e53f0ade/header.jpg?t=1772829736",
+        "Date": "TBA",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772830183.01909,
+        "MatchedTags": [
+            "survival horror",
+            "horror"
+        ]
+    },
+    "4487170": {
+        "Title": "Chess AI",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4487170/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4487170/7e3c299f1d29889020e0efd41948aecbb83a7d99/header.jpg?t=1772829213",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772830194.4009619,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "tactical",
+            "turn-based tactics"
+        ]
+    },
+    "4488080": {
+        "Title": "Infinigama",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4488080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4488080/75fb7f8ccd44b533a383668dc613d521063472cf/header.jpg?t=1772829089",
+        "Date": "Dec 31, 2026",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772830197.4669669,
+        "MatchedTags": [
+            "base building",
+            "resource management"
+        ]
+    },
+    "4498360": {
+        "Title": "Ara Gui Mano: Buscar y Escapar",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4498360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4498360/ad494bb3771f48b73ff3cffb6885eeb1f26c2c35/header.jpg?t=1772827490",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772830201.4512548,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
         ]
     }
 }
