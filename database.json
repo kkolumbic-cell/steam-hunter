@@ -2495,9 +2495,9 @@
         "URL": "https://store.steampowered.com/app/4429290/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4429290/34e76ceacd33b9a1718747ec2860a8d09b93a4c9/header.jpg?t=1772784578",
-        "Date": "Dec 31, 2026",
+        "Date": "2026",
         "AddedDate": "2026-03-06",
-        "AddedTimestamp": 1772787406.7955189,
+        "AddedTimestamp": 1772819624.8270116,
         "MatchedTags": [
             "strategy"
         ]
@@ -2923,8 +2923,8 @@
         "AddedTimestamp": 1772812463.5767667,
         "MatchedTags": [
             "strategy",
-            "management",
-            "turn-based tactics"
+            "turn-based tactics",
+            "management"
         ]
     },
     "4456220": {
@@ -3019,6 +3019,68 @@
         "AddedTimestamp": 1772816472.1066918,
         "MatchedTags": [
             "base building"
+        ]
+    },
+    "4430870": {
+        "Title": "All Dice on Deck",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4430870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4430870/5f3bac2e93bd269813c3923590fa044d3cceb28a/header.jpg?t=1772817990",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772819627.5286703,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "tactical"
+        ]
+    },
+    "4463080": {
+        "Title": "Arc Salvo",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4463080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4463080/037038e41a185fa62b73654911f6fb5b46b93790/header.jpg?t=1772817043",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772819635.6202052,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4484570": {
+        "Title": "A Detective Story",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4484570/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4484570/9353c56d2d17d9e26dcea41ef444405767f99d9b/header.jpg?t=1772817675",
+        "Date": "March 2026",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772819643.7298598,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4500890": {
+        "Title": "Anomaly Street",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4500890/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4500890/c838e18fd751f446c38059ad40fdb93f467a6efb/header.jpg?t=1772816900",
+        "Date": "March 2026",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772819646.2192445,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
         ]
     }
 }
