@@ -3163,9 +3163,9 @@
         "URL": "https://store.steampowered.com/app/4148510/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4148510/dfe7785b3130553995ab4d962b0cb92c39715fe6/header.jpg?t=1772825671",
-        "Date": "TBA",
+        "Date": "To be announced",
         "AddedDate": "2026-03-06",
-        "AddedTimestamp": 1772826550.4271395,
+        "AddedTimestamp": 1772840600.5806444,
         "MatchedTags": [
             "horror"
         ]
@@ -3364,6 +3364,68 @@
         "AddedTimestamp": 1772837364.5311842,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4292780": {
+        "Title": "THE CELLAR: Ashveil",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4292780/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292780/841a48ed7df001f5358004540110c33860566979/header.jpg?t=1772838027",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772840608.5837226,
+        "MatchedTags": [
+            "psychological horror",
+            "horror",
+            "turn-based combat",
+            "turn-based strategy"
+        ]
+    },
+    "4347270": {
+        "Title": "The Hat Man",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4347270/",
+        "Site": "https://blacklanternentertainment.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4347270/1cfbc59287ce69413fff5cb2e7bb212ab9896748/header.jpg?t=1772837932",
+        "Date": "Apr 29, 2026",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772840611.182112,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4416430": {
+        "Title": "Tales of the Trade",
+        "Email": "",
+        "Discord": "https://discord.gg/bVSmacF7nW",
+        "URL": "https://store.steampowered.com/app/4416430/",
+        "Site": "https://talesofthetradegame.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4416430/0cb6c6b4a4017a7710fb6228bbbdbbeddce57db9/header.jpg?t=1772839046",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772840617.0612664,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4423530": {
+        "Title": "Access Key",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4423530/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4423530/3f52b67df0a10d7e141947c830bf86c450ae8d75/header.jpg?t=1772840435",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772840619.760238,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
