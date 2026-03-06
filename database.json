@@ -1072,7 +1072,7 @@
     "3380120": {
         "Title": "Fort Laboratory",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/DpGCKAJQ",
         "URL": "https://store.steampowered.com/app/3380120/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3380120/42c0351fda0aa0e8e7b517e07c4a2c2b3f9a1702/header.jpg?t=1772685320",
@@ -2486,6 +2486,78 @@
             "psychological horror",
             "horror",
             "survival horror"
+        ]
+    },
+    "4429290": {
+        "Title": "The Incentive Program",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4429290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4429290/34e76ceacd33b9a1718747ec2860a8d09b93a4c9/header.jpg?t=1772784578",
+        "Date": "Dec 31, 2026",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772787406.7955189,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4450840": {
+        "Title": "Binded Souls",
+        "Email": "",
+        "Discord": "https://discord.gg/bindedsouls",
+        "URL": "https://store.steampowered.com/app/4450840/",
+        "Site": "https://bindedsouls.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4450840/59bf7cc464e9b62818d5e3d5bf60ccf3a5e9ea5b/header.jpg?t=1772786685",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772787411.0296822,
+        "MatchedTags": [
+            "resource management",
+            "base building"
+        ]
+    },
+    "4455910": {
+        "Title": "MESHUDA",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4455910/",
+        "Site": "https://taimongames.com/index_en.html",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4455910/474570f9e146a25b06f67554657e254798fa9d4b/header.jpg?t=1772784741",
+        "Date": "Jun 23, 2026",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772787414.8702362,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4483840": {
+        "Title": "Scout-TheBunker",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4483840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4483840/dd18121e92995aa117df83e81190691f6dbce8e3/header.jpg?t=1772786732",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772787418.5353749,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4498500": {
+        "Title": "Kopno: Blightfall",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4498500/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4498500/9fe6037875a5b950e89bffb3b0809953909ef54c/header.jpg?t=1772786868",
+        "Date": "TBA",
+        "AddedDate": "2026-03-06",
+        "AddedTimestamp": 1772787428.8911176,
+        "MatchedTags": [
+            "base building",
+            "colony sim"
         ]
     }
 }
