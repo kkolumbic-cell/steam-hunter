@@ -1759,11 +1759,10 @@
         "URL": "https://store.steampowered.com/app/3655400/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3655400/524d6d970120aec385ec42b3fe7f521d4430ac38/header.jpg?t=1772731016",
-        "Date": "Mar 16, 2026",
-        "AddedDate": "2026-03-05",
-        "AddedTimestamp": 1772735023.099637,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-07",
+        "AddedTimestamp": 1772851484.5120351,
         "MatchedTags": [
-            "base building",
             "tactical rpg",
             "strategy",
             "tactical"
@@ -2221,9 +2220,9 @@
         "AddedDate": "2026-03-06",
         "AddedTimestamp": 1772766550.3639288,
         "MatchedTags": [
-            "tower defense",
             "strategy",
-            "base building"
+            "base building",
+            "tower defense"
         ]
     },
     "4459090": {
@@ -3426,6 +3425,81 @@
         "AddedTimestamp": 1772840619.760238,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "3551880": {
+        "Title": "They Stare",
+        "Email": "",
+        "Discord": "https://discord.gg/dAWcj3BgtZ",
+        "URL": "https://store.steampowered.com/app/3551880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3551880/5e4105382e2d61d30b7165a25fa4fa5cc0a033be/header.jpg?t=1772840895",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-07",
+        "AddedTimestamp": 1772851479.0519392,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4478420": {
+        "Title": "Forgive or Finalize",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4478420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4478420/2980f2710494e41ce7a2375582fdd476a42ca8e2/header.jpg?t=1772846772",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-07",
+        "AddedTimestamp": 1772851529.318274,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4489950": {
+        "Title": "Lullaby of Y",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4489950/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4489950/8f5e7f482d6e30487106f891d262232270d96868/header.jpg?t=1772844676",
+        "Date": "Mar 19, 2026",
+        "AddedDate": "2026-03-07",
+        "AddedTimestamp": 1772851540.6179147,
+        "MatchedTags": [
+            "turn-based strategy"
+        ]
+    },
+    "4492480": {
+        "Title": "Pick Squad",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4492480/",
+        "Site": "https://www.douyin.com/user/MS4wLjABAAAA7HMokA5Rl2D44rI_wnXvGXbFXBJmJzj1NLrqtMW33RA?from_tab_name=main",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4492480/d48b17782def371d6d27b6a7c654e09f271431e7/header.jpg?t=1772847889",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-07",
+        "AddedTimestamp": 1772851542.355307,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "tactical",
+            "turn-based tactics"
+        ]
+    },
+    "4500830": {
+        "Title": "Mirolin: The Big Show",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4500830/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4500830/96fb8350b0da2e87870944b9a9485c5cc239d9a2/header.jpg?t=1772851063",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-07",
+        "AddedTimestamp": 1772851554.3776922,
+        "MatchedTags": [
+            "psychological horror"
         ]
     }
 }
