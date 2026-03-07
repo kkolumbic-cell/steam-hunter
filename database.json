@@ -1677,7 +1677,7 @@
     "4451210": {
         "Title": "Forsaken Shores",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/DBrFp8RsMJ",
         "URL": "https://store.steampowered.com/app/4451210/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4451210/de3774a8fb7f3b62aaf7a6a1ab6219ff4781c1db/header.jpg?t=1772723636",
@@ -2877,9 +2877,9 @@
         "URL": "https://store.steampowered.com/app/4494830/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4494830/21c69d13e3cf050529752d0793c3c15f5908025d/header.jpg?t=1772805645",
-        "Date": "TBA",
-        "AddedDate": "2026-03-06",
-        "AddedTimestamp": 1772809183.8452466,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-07",
+        "AddedTimestamp": 1772916171.4650826,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -3047,9 +3047,9 @@
         "URL": "https://store.steampowered.com/app/4463080/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4463080/037038e41a185fa62b73654911f6fb5b46b93790/header.jpg?t=1772817043",
-        "Date": "To be announced",
-        "AddedDate": "2026-03-06",
-        "AddedTimestamp": 1772819635.6202052,
+        "Date": "Sep 1, 2026",
+        "AddedDate": "2026-03-07",
+        "AddedTimestamp": 1772916164.679511,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -3784,6 +3784,21 @@
         "AddedTimestamp": 1772912115.9311037,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "3979370": {
+        "Title": "Shit-Stealing Gnomes",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3979370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3979370/0ca76a2cf8ae4fc1144716fe8d36c2f68b6b0815/header.jpg?t=1772915964",
+        "Date": "2026",
+        "AddedDate": "2026-03-07",
+        "AddedTimestamp": 1772916149.527439,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
         ]
     }
 }
