@@ -4389,9 +4389,9 @@
         "URL": "https://store.steampowered.com/app/4424740/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4424740/50c7d74e65fcd5067edaf6986233709362d9af39/header.jpg?t=1773071408",
-        "Date": "Coming soon",
+        "Date": "Apr 17, 2026",
         "AddedDate": "2026-03-09",
-        "AddedTimestamp": 1773072953.0066943,
+        "AddedTimestamp": 1773079346.6421852,
         "MatchedTags": [
             "psychological horror",
             "horror",
@@ -4411,6 +4411,99 @@
         "MatchedTags": [
             "horror",
             "survival horror"
+        ]
+    },
+    "4305470": {
+        "Title": "Holonoptic",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4305470/",
+        "Site": "https://www.glazial.com/holonoptic/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305470/b407ad3e6073ce2995ec950c6327976eed457316/header.jpg?t=1773076895",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-09",
+        "AddedTimestamp": 1773079337.710661,
+        "MatchedTags": [
+            "base building",
+            "strategy",
+            "resource management",
+            "economy",
+            "management"
+        ]
+    },
+    "4389370": {
+        "Title": "Clash Of Tanks",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4389370/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4389370/1867ed9048e952063a20b3f3ec26abb2d4fc5f05/header.jpg?t=1773079044",
+        "Date": "TBA",
+        "AddedDate": "2026-03-09",
+        "AddedTimestamp": 1773079343.6360683,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4474010": {
+        "Title": "Zi\u00b4s Mansion",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4474010/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4474010/d47ab6d1dfb0395ff941561d5d33e5ffbb331741/header.jpg?t=1773076499",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-09",
+        "AddedTimestamp": 1773079356.3558772,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4486430": {
+        "Title": "Tragedy is approaching",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4486430/",
+        "Site": "https://pervomens-website-ruddy.vercel.app?_vercel_share=uyat8wNZIvXgaurg66yBDvrDSsxgGeTW",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486430/b90a076a5efcde17bdfc3f0a35bbc4a39e8e3f82/header.jpg?t=1773077011",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-09",
+        "AddedTimestamp": 1773079368.7092242,
+        "MatchedTags": [
+            "base building",
+            "survival horror"
+        ]
+    },
+    "4489290": {
+        "Title": "Shadowed Train",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4489290/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4489290/71e2a7f6eef7bb658cdc61630b0b1a2b8a3621ea/header.jpg?t=1773074079",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-09",
+        "AddedTimestamp": 1773079374.3403325,
+        "MatchedTags": [
+            "psychological horror",
+            "horror",
+            "grand strategy"
+        ]
+    },
+    "4501170": {
+        "Title": "SKY HARVEST",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4501170/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501170/8b24790890071819738e1abcfa713076e094d972/header.jpg?t=1773074698",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-09",
+        "AddedTimestamp": 1773079384.0914836,
+        "MatchedTags": [
+            "resource management",
+            "colony sim"
         ]
     }
 }
