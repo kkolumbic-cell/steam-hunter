@@ -4660,9 +4660,9 @@
         "URL": "https://store.steampowered.com/app/4458370/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4458370/e69aedfd6b3fd6cef27afaaa8ff696e3acd58aa5/header.jpg?t=1773092073",
-        "Date": "Mar 19, 2026",
+        "Date": "Coming soon",
         "AddedDate": "2026-03-09",
-        "AddedTimestamp": 1773092878.6072798,
+        "AddedTimestamp": 1773099882.42724,
         "MatchedTags": [
             "tactical"
         ]
@@ -4712,6 +4712,35 @@
             "turn-based strategy",
             "turn-based combat",
             "tactical"
+        ]
+    },
+    "4485690": {
+        "Title": "Monster Travels",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4485690/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4485690/09c00a7ece7204b194d0fb92b309cdd0d65e4396/header.jpg?t=1773097279",
+        "Date": "March 2026",
+        "AddedDate": "2026-03-09",
+        "AddedTimestamp": 1773099889.2614686,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4495390": {
+        "Title": "\u5e74\u517d Nian Monster",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4495390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4495390/384204741e367024d0a2ab555da157656343547e/header.jpg?t=1773099055",
+        "Date": "TBA",
+        "AddedDate": "2026-03-09",
+        "AddedTimestamp": 1773099895.063954,
+        "MatchedTags": [
+            "survival horror",
+            "psychological horror"
         ]
     }
 }
