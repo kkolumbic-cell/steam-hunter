@@ -4363,5 +4363,54 @@
         "MatchedTags": [
             "turn-based strategy"
         ]
+    },
+    "4244420": {
+        "Title": "DreadHaven: The Last Colony",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4244420/",
+        "Site": "https://goblinzstudio.com/game/dreadhaven/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244420/7e38f857946eb135cbe4a006e260aa1b53053cd5/header.jpg?t=1773069757",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-03-09",
+        "AddedTimestamp": 1773072938.867029,
+        "MatchedTags": [
+            "tower defense",
+            "strategy",
+            "base building",
+            "resource management",
+            "economy"
+        ]
+    },
+    "4424740": {
+        "Title": "Agent of Strange: Arrival",
+        "Email": "",
+        "Discord": "https://discord.gg/fNtwXU8qZf",
+        "URL": "https://store.steampowered.com/app/4424740/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4424740/50c7d74e65fcd5067edaf6986233709362d9af39/header.jpg?t=1773071408",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-09",
+        "AddedTimestamp": 1773072953.0066943,
+        "MatchedTags": [
+            "psychological horror",
+            "horror",
+            "turn-based combat"
+        ]
+    },
+    "4480070": {
+        "Title": "DESCENT -100",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4480070/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4480070/15f24c5ade8a8e90b51d334cd29110db693351ca/header.jpg?t=1773071919",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-09",
+        "AddedTimestamp": 1773072962.9531353,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
     }
 }
