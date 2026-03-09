@@ -291,19 +291,6 @@
             "strategy"
         ]
     },
-    "4474960": {
-        "Title": "Ratatouille Builder",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4474960/",
-        "Site": "https://www.instagram.com/talenvin__/",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4474960/bb6dcab9f4d1f1e0740eccac58fa7ae7897f9658/header.jpg?t=1772619823",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-04",
-        "MatchedTags": [
-            "strategy"
-        ]
-    },
     "4296320": {
         "Title": "MYTRA: No Escape Protocol",
         "Email": "",
@@ -4294,6 +4281,87 @@
             "horror",
             "survival horror",
             "psychological horror"
+        ]
+    },
+    "3773450": {
+        "Title": "Crownkeep",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3773450/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3773450/1d56832c2d457a5b3cfa4ece18efddf18f9e58a2/header.jpg?t=1773066703",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-09",
+        "AddedTimestamp": 1773069154.2383256,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "turn-based combat",
+            "turn-based strategy"
+        ]
+    },
+    "4433960": {
+        "Title": "The Beyond",
+        "Email": "beyondgame2022@gmail.com",
+        "Discord": "https://discord.gg/wAmdgcnk",
+        "URL": "https://store.steampowered.com/app/4433960/",
+        "Site": "https://mulligames.squarespace.com/?fbclid=PAT01DUAQB1xZleHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAadfbJVALnekibhf8yZ9xx318yc-KGA9EeRZHXTJWIhTBlo8MxMfUlY_hI29Tg_aem_-DsY0JIpW0unPbO9sL5NFA",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4433960/800971e38440abf7c49ce49c96a7b3ef2372374f/header.jpg?t=1773068791",
+        "Date": "December 2028",
+        "AddedDate": "2026-03-09",
+        "AddedTimestamp": 1773069168.4481268,
+        "MatchedTags": [
+            "tower defense",
+            "base building"
+        ]
+    },
+    "4478820": {
+        "Title": "Subciety",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4478820/",
+        "Site": "https://www.facebook.com/profile.php?id=61588344645957",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4478820/1be98f1fa1bce3dc3e2a9d79ab075f0538e15a2a/header.jpg?t=1773068499",
+        "Date": "TBA",
+        "AddedDate": "2026-03-09",
+        "AddedTimestamp": 1773069182.0582767,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "colony sim",
+            "resource management",
+            "base building"
+        ]
+    },
+    "4486140": {
+        "Title": "IDLE: Intergalactic Defense League Exterminators",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4486140/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486140/a7ac4dbe60649c1d0cff4c5734ef46733421e2ab/header.jpg?t=1773067224",
+        "Date": "2026",
+        "AddedDate": "2026-03-09",
+        "AddedTimestamp": 1773069184.5968258,
+        "MatchedTags": [
+            "management",
+            "base building",
+            "resource management",
+            "economy"
+        ]
+    },
+    "4489990": {
+        "Title": "Bard of Y",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4489990/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4489990/92582d662fa3a18f54f94b39febf79920fb4ce47/header.jpg?t=1773065107",
+        "Date": "Mar 19, 2026",
+        "AddedDate": "2026-03-09",
+        "AddedTimestamp": 1773069189.476871,
+        "MatchedTags": [
+            "turn-based strategy"
         ]
     }
 }
