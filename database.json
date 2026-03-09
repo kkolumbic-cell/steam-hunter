@@ -2956,9 +2956,9 @@
         "URL": "https://store.steampowered.com/app/4498110/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4498110/bc2ebde0d7ce2869aa34697c7b14a5638cd03c57/header.jpg?t=1772810840",
-        "Date": "TBA",
-        "AddedDate": "2026-03-06",
-        "AddedTimestamp": 1772812481.2338393,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-09",
+        "AddedTimestamp": 1773089554.1866107,
         "MatchedTags": [
             "strategy"
         ]
@@ -4580,6 +4580,77 @@
         "AddedTimestamp": 1773086040.1966765,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4267000": {
+        "Title": "The Facility",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4267000/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4267000/8367e03d37759f5362f8e84ab00434337c40e686/header.jpg?t=1773089065",
+        "Date": "2026",
+        "AddedDate": "2026-03-09",
+        "AddedTimestamp": 1773089516.914118,
+        "MatchedTags": [
+            "survival horror"
+        ]
+    },
+    "4397260": {
+        "Title": "Seizure",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4397260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4397260/dbb4d92cb1bb9450ecc5e412157efcfb1f622e70/header.jpg?t=1773087821",
+        "Date": "TBA",
+        "AddedDate": "2026-03-09",
+        "AddedTimestamp": 1773089524.119115,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4477170": {
+        "Title": "Skully Seas",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4477170/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4477170/9856973097d640313b1949ff8874987acab8be65/header.jpg?t=1773086873",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-09",
+        "AddedTimestamp": 1773089532.3857355,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "4488740": {
+        "Title": "Hive Thrive",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4488740/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4488740/935f2e23bfb7760c60ba6d7f6538857df6a8bbe7/header.jpg?t=1773087338",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-09",
+        "AddedTimestamp": 1773089548.542509,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4503170": {
+        "Title": "XYLOMETAZOLINE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4503170/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4503170/7461b016c667591795280bd9f23de3350803f0ca/header.jpg?t=1773088516",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-03-09",
+        "AddedTimestamp": 1773089563.8794162,
+        "MatchedTags": [
+            "psychological horror"
         ]
     }
 }
