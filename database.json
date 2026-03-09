@@ -4438,9 +4438,9 @@
         "URL": "https://store.steampowered.com/app/4389370/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4389370/1867ed9048e952063a20b3f3ec26abb2d4fc5f05/header.jpg?t=1773079044",
-        "Date": "TBA",
+        "Date": "Coming soon",
         "AddedDate": "2026-03-09",
-        "AddedTimestamp": 1773079343.6360683,
+        "AddedTimestamp": 1773083517.9068499,
         "MatchedTags": [
             "strategy"
         ]
@@ -4504,6 +4504,68 @@
         "MatchedTags": [
             "resource management",
             "colony sim"
+        ]
+    },
+    "4199060": {
+        "Title": "Hammerfall: Fallen Kingdom",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4199060/",
+        "Site": "https://ironanvilgames.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199060/c944b90da5b058df5baccf8a46503920715df324/header.jpg?t=1773080927",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-09",
+        "AddedTimestamp": 1773083507.2514489,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4414800": {
+        "Title": "Tutsak",
+        "Email": "",
+        "Discord": "https://discord.gg/W5TAWXBeDj",
+        "URL": "https://store.steampowered.com/app/4414800/",
+        "Site": "https://www.ronistudios.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4414800/1ca5b12fca57bc9b985d5af8c8cdf8ba03595848/header.jpg?t=1773080095",
+        "Date": "Dec 31, 2026",
+        "AddedDate": "2026-03-09",
+        "AddedTimestamp": 1773083525.097937,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "4500280": {
+        "Title": "Hecatomb",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4500280/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4500280/25e1721fbbd62b05d6658de7961ce0832a946a99/header.jpg?t=1773080070",
+        "Date": "Jun 30, 2026",
+        "AddedDate": "2026-03-09",
+        "AddedTimestamp": 1773083539.4050498,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4502820": {
+        "Title": "Station: ZERO",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4502820/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4502820/3b303a363de9045ecabc7fcc4c28b7b06b0d473e/header.jpg?t=1773079905",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-09",
+        "AddedTimestamp": 1773083542.3994641,
+        "MatchedTags": [
+            "strategy",
+            "horror",
+            "psychological horror"
         ]
     }
 }
