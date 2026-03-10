@@ -2049,7 +2049,7 @@
     "4492990": {
         "Title": "Dread Admiral",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/PWMeWwK3U6",
         "URL": "https://store.steampowered.com/app/4492990/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492990/09a279a281f1f6b69b77c80cddfd196743fa2243/header.jpg?t=1772742257",
@@ -5119,9 +5119,9 @@
         "URL": "https://store.steampowered.com/app/4390910/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4390910/8fe1cfad92f7057f2e294bde9880c72f350ac99f/header.jpg?t=1773157649",
-        "Date": "TBA",
+        "Date": "To be announced",
         "AddedDate": "2026-03-10",
-        "AddedTimestamp": 1773159420.014296,
+        "AddedTimestamp": 1773165759.6858206,
         "MatchedTags": [
             "base building"
         ]
@@ -5138,6 +5138,64 @@
         "AddedTimestamp": 1773159427.678764,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4402520": {
+        "Title": "Hungry For Loot",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4402520/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4402520/df2797b606a28d8a175f4a07627502e0c958a832/header.jpg?t=1773164883",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-10",
+        "AddedTimestamp": 1773165762.492359,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4415740": {
+        "Title": "The Pale Mimic",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4415740/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4415740/94ee8d6872fd1fe69231c1c41c023395614d66c9/header.jpg?t=1773163633",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-03-10",
+        "AddedTimestamp": 1773165764.904696,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "4462740": {
+        "Title": "Missile Man",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4462740/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4462740/6a3eb9bafbc25c45e5489032bd74b033378efb70/header.jpg?t=1773160043",
+        "Date": "May 2026",
+        "AddedDate": "2026-03-10",
+        "AddedTimestamp": 1773165774.2004833,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4507150": {
+        "Title": "Micrographia",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4507150/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4507150/86b7ebf4bff3a0181e721afb7517a6c2a12c9a81/header.jpg?t=1773159947",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-10",
+        "AddedTimestamp": 1773165786.993104,
+        "MatchedTags": [
+            "psychological horror"
         ]
     }
 }
