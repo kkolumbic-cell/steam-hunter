@@ -5361,5 +5361,34 @@
             "tactical",
             "real time tactics"
         ]
+    },
+    "3400130": {
+        "Title": "Tombstone Tactics",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3400130/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3400130/51ac31e13d212770db7603636e3abbad1d535fbd/header.jpg?t=1773179375",
+        "Date": "Aug 26, 2026",
+        "AddedDate": "2026-03-10",
+        "AddedTimestamp": 1773182898.523672,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4474430": {
+        "Title": "EchoLink: Recursion",
+        "Email": "",
+        "Discord": "https://discord.gg/RDhw3ACm",
+        "URL": "https://store.steampowered.com/app/4474430/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4474430/89c3e35982430fe611bb5763a3e12fe4cb3526b1/header.jpg?t=1773181266",
+        "Date": "TBA",
+        "AddedDate": "2026-03-10",
+        "AddedTimestamp": 1773182907.9797738,
+        "MatchedTags": [
+            "strategy"
+        ]
     }
 }
