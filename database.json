@@ -5226,5 +5226,80 @@
         "MatchedTags": [
             "psychological horror"
         ]
+    },
+    "4387910": {
+        "Title": "There Is Nothing There",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4387910/",
+        "Site": "https://lupercalii.github.io/There-Is-Nothing-There/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4387910/d808c663189c815ffb9347ca041aa93484bbfa59/header.jpg?t=1773170141",
+        "Date": "Apr 27, 2026",
+        "AddedDate": "2026-03-10",
+        "AddedTimestamp": 1773172403.3625782,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4464380": {
+        "Title": "Stellar Fixer",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4464380/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4464380/cd054408cac3df7551b4ab47fed2aa6acec55a2b/header.jpg?t=1773170236",
+        "Date": "2026",
+        "AddedDate": "2026-03-10",
+        "AddedTimestamp": 1773172412.847769,
+        "MatchedTags": [
+            "management",
+            "base building"
+        ]
+    },
+    "4483500": {
+        "Title": "Gun Predict",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4483500/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4483500/7d16fc240fdc486dbe62cbafcf18055403ad63b0/header.jpg?t=1773170798",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-10",
+        "AddedTimestamp": 1773172420.3550723,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4502340": {
+        "Title": "JOB",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4502340/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4502340/35d312fba638adcb760163bff049c71256593620/header.jpg?t=1773170326",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-10",
+        "AddedTimestamp": 1773172423.4153905,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4503300": {
+        "Title": "Dope Wars - The Dopest",
+        "Email": "info@dope-wars.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4503300/",
+        "Site": "https://www.dope-wars.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4503300/db101d8cd943294e91cd202e3f06446e7225a8c0/header.jpg?t=1773170331",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-10",
+        "AddedTimestamp": 1773172425.549447,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy"
+        ]
     }
 }
