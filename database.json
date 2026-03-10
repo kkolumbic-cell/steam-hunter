@@ -2234,7 +2234,7 @@
         "Email": "",
         "Discord": "https://discord.gg/Cz7bBMg5",
         "URL": "https://store.steampowered.com/app/4459340/",
-        "Site": "",
+        "Site": "https://www.perfectexecutiongame.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459340/663f1dfb2d08988a4a7755fb113854da403f17d0/header.jpg?t=1772755572",
         "Date": "To be announced",
         "AddedDate": "2026-03-06",
@@ -4735,12 +4735,70 @@
         "URL": "https://store.steampowered.com/app/4495390/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4495390/384204741e367024d0a2ab555da157656343547e/header.jpg?t=1773099055",
-        "Date": "TBA",
-        "AddedDate": "2026-03-09",
-        "AddedTimestamp": 1773099895.063954,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-10",
+        "AddedTimestamp": 1773112092.6778495,
         "MatchedTags": [
             "survival horror",
             "psychological horror"
+        ]
+    },
+    "4467530": {
+        "Title": "Renegade Cat Marbles",
+        "Email": "",
+        "Discord": "https://discord.gg/ZS2wtUxYpT",
+        "URL": "https://store.steampowered.com/app/4467530/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4467530/b3cc8c86c2ffee995590c69f39d89a16f546de1c/header.jpg?t=1773106732",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-10",
+        "AddedTimestamp": 1773112076.1528718,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4483570": {
+        "Title": "PegPegBall",
+        "Email": "",
+        "Discord": "https://discord.gg/VQJSnMY4Dg",
+        "URL": "https://store.steampowered.com/app/4483570/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4483570/14e79651b9a1fd3ee1e0c5b1c5e2b03051f29464/header.jpg?t=1773104853",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-03-10",
+        "AddedTimestamp": 1773112085.482655,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4503400": {
+        "Title": "Scorched Incremental",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4503400/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4503400/d8f7ce21718467603d58533f3286dcaf4ae10db0/header.jpg?t=1773103547",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-10",
+        "AddedTimestamp": 1773112097.752043,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4504810": {
+        "Title": "Omnicore: Freiza's Retribution",
+        "Email": "",
+        "Discord": "https://discord.com/invite/FcdvfdjHn9",
+        "URL": "https://store.steampowered.com/app/4504810/",
+        "Site": "https://game.omnicoreventures.org/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4504810/c13bab120824442d4b547c79ab4a6f0bafb06306/header.jpg?t=1773105559",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-10",
+        "AddedTimestamp": 1773112100.7679262,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
         ]
     }
 }
