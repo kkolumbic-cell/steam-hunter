@@ -3925,8 +3925,8 @@
         "AddedDate": "2026-03-08",
         "AddedTimestamp": 1772981045.9730582,
         "MatchedTags": [
-            "real time tactics",
             "tactical",
+            "real time tactics",
             "strategy"
         ]
     },
@@ -4813,6 +4813,40 @@
         "AddedTimestamp": 1773118355.5777159,
         "MatchedTags": [
             "tactical rpg"
+        ]
+    },
+    "4371900": {
+        "Title": "Case File: Archived 3:12AM",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4371900/",
+        "Site": "https://shailja2029.wixsite.com/case-file",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4371900/2af4d2f1565e0d46f4d235255366403849f701b3/header.jpg?t=1773118645",
+        "Date": "2026",
+        "AddedDate": "2026-03-10",
+        "AddedTimestamp": 1773122466.1679618,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4433940": {
+        "Title": "Mecha Tower Defense",
+        "Email": "",
+        "Discord": "https://discord.gg/5TukXSXj5m",
+        "URL": "https://store.steampowered.com/app/4433940/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4433940/368a6199224e47d3db4797b707bc23a378d9af89/header.jpg?t=1773120827",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-10",
+        "AddedTimestamp": 1773122471.4604707,
+        "MatchedTags": [
+            "tower defense",
+            "strategy",
+            "turn-based strategy",
+            "resource management",
+            "tactical",
+            "turn-based combat"
         ]
     }
 }
