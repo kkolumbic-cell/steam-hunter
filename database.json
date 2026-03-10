@@ -84,21 +84,6 @@
         ],
         "AddedTimestamp": 1772639958.151108
     },
-    "4468880": {
-        "Title": "The Chairman",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4468880/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4468880/833f9303d0d7ec0d7d455dd15c4e3bb600ac39e5/header.jpg?t=1772596637",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-04",
-        "MatchedTags": [
-            "strategy",
-            "management",
-            "economy"
-        ]
-    },
     "4486290": {
         "Title": "Thunder Tank: Iron Shield",
         "Email": "",
@@ -5389,6 +5374,38 @@
         "AddedTimestamp": 1773182907.9797738,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4488190": {
+        "Title": "Vested",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4488190/",
+        "Site": "https://vestedgame.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488190/c3fc5053e24095021c7fda66ab8f8a7baf5839fa/header.jpg?t=1773185519",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-10",
+        "AddedTimestamp": 1773186250.5141215,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management",
+            "turn-based strategy"
+        ]
+    },
+    "4506940": {
+        "Title": "Spinnopoly",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4506940/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4506940/2356a7c3bb9ebafccdb368678f6819a9886d7df3/header.jpg?t=1773185638",
+        "Date": "September 2026",
+        "AddedDate": "2026-03-10",
+        "AddedTimestamp": 1773186253.041814,
+        "MatchedTags": [
+            "psychological horror",
+            "resource management"
         ]
     }
 }
