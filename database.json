@@ -3034,9 +3034,9 @@
         "URL": "https://store.steampowered.com/app/4463080/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4463080/037038e41a185fa62b73654911f6fb5b46b93790/header.jpg?t=1772817043",
-        "Date": "Sep 11, 2026",
-        "AddedDate": "2026-03-07",
-        "AddedTimestamp": 1772919342.5081995,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-10",
+        "AddedTimestamp": 1773155539.739871,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -4991,9 +4991,9 @@
         "URL": "https://store.steampowered.com/app/4298650/",
         "Site": "https://shothop.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298650/0ca30167aea410eed308d26c8b79082f70ff7dcf/header.jpg?t=1773148821",
-        "Date": "To be announced",
+        "Date": "Q4 2026",
         "AddedDate": "2026-03-10",
-        "AddedTimestamp": 1773149955.8955383,
+        "AddedTimestamp": 1773155526.2851217,
         "MatchedTags": [
             "horror"
         ]
@@ -5030,6 +5030,86 @@
             "turn-based tactics",
             "turn-based strategy",
             "turn-based combat"
+        ]
+    },
+    "4421960": {
+        "Title": "Flesh Blossom",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4421960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4421960/30c977c7e346957dcdce3a3cfa18eeba525882d5/header.jpg?t=1773154884",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-10",
+        "AddedTimestamp": 1773155531.6986406,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4501800": {
+        "Title": "AL-SARAB",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4501800/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4501800/471171e1dc9fedf774200213ba0f5d6ae29a2714/header.jpg?t=1773155232",
+        "Date": "Apr 1, 2027",
+        "AddedDate": "2026-03-10",
+        "AddedTimestamp": 1773155558.791756,
+        "MatchedTags": [
+            "survival horror",
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4502200": {
+        "Title": "Legends of Goodness",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4502200/",
+        "Site": "https://mebunaz.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4502200/b4d2f2c328fe98f52206368782c90d83e9e9cf3a/header.jpg?t=1773152921",
+        "Date": "TBA",
+        "AddedDate": "2026-03-10",
+        "AddedTimestamp": 1773155561.3023067,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "base building",
+            "grand strategy",
+            "resource management"
+        ]
+    },
+    "4506060": {
+        "Title": "Scrap Syndicate",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4506060/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4506060/93f6bfb0204424e1188754fe76a256137b52686f/header.jpg?t=1773155107",
+        "Date": "July 2026",
+        "AddedDate": "2026-03-10",
+        "AddedTimestamp": 1773155566.07202,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "turn-based tactics"
+        ]
+    },
+    "4506220": {
+        "Title": "Sly Apes",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4506220/",
+        "Site": "https://slyapes.io",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4506220/fac2f219c415e9c7a7c544d88f09bad0df2f5a02/header.jpg?t=1773150942",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-10",
+        "AddedTimestamp": 1773155568.193556,
+        "MatchedTags": [
+            "survival horror",
+            "psychological horror"
         ]
     }
 }
