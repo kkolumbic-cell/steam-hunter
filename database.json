@@ -911,9 +911,9 @@
         "URL": "https://store.steampowered.com/app/4489340/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4489340/f2d9c9be040f867de983df76860e427c2efdea2e/header.jpg?t=1772665225",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-04",
-        "AddedTimestamp": 1772667970.0463867,
+        "Date": "Mar 18, 2026",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773197448.0813797,
         "MatchedTags": [
             "turn-based strategy",
             "horror",
@@ -1425,8 +1425,7 @@
         "MatchedTags": [
             "strategy",
             "tower defense",
-            "real time tactics",
-            "resource management"
+            "real time tactics"
         ]
     },
     "4437490": {
@@ -2075,8 +2074,7 @@
         "MatchedTags": [
             "strategy",
             "tower defense",
-            "tactical",
-            "turn-based combat"
+            "real time tactics"
         ]
     },
     "4476320": {
@@ -5142,7 +5140,7 @@
     "4415740": {
         "Title": "The Pale Mimic",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/Ge72km6ZJQ",
         "URL": "https://store.steampowered.com/app/4415740/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4415740/94ee8d6872fd1fe69231c1c41c023395614d66c9/header.jpg?t=1773163633",
@@ -5369,9 +5367,9 @@
         "URL": "https://store.steampowered.com/app/4474430/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4474430/89c3e35982430fe611bb5763a3e12fe4cb3526b1/header.jpg?t=1773181266",
-        "Date": "TBA",
-        "AddedDate": "2026-03-10",
-        "AddedTimestamp": 1773182907.9797738,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773197431.4155223,
         "MatchedTags": [
             "strategy"
         ]
@@ -5406,6 +5404,80 @@
         "MatchedTags": [
             "psychological horror",
             "resource management"
+        ]
+    },
+    "4407460": {
+        "Title": "\u6251\u514b\u8ff7\u9635 Poker Matrix",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4407460/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4407460/e72d7c2ec36c185165aa8209d06db31e654a7a4f/header.jpg?t=1773194205",
+        "Date": "Jun 30, 2026",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773197413.9300168,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4486210": {
+        "Title": "\u72e9\u9b54\u4e4b\u65c5",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4486210/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486210/39412fed76b3798bcce5a5c91dff62b75c23714d/header.jpg?t=1773195521",
+        "Date": "Apr 19, 2026",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773197443.2389455,
+        "MatchedTags": [
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4494970": {
+        "Title": "\u6050\u6016\u591c\u8a71",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4494970/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4494970/bb826898e2a76af7809089f036d4cf53829bfcb9/header.jpg?t=1773196781",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773197449.98746,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4501240": {
+        "Title": "\u5e1d\u738b\u9738\u4e1a",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4501240/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501240/667d28c35eddd4937ad5b2819d5d9627ca164b0d/header.jpg?t=1773193013",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773197457.126645,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4504640": {
+        "Title": "Emi's Solo Ghost Hunting 2",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4504640/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4504640/ef4dd8b188d2cd3d56e51bcc6ef1aab664046416/header.jpg?t=1773192656",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773197464.3671927,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
         ]
     }
 }
