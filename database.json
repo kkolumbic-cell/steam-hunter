@@ -4988,9 +4988,9 @@
         "URL": "https://store.steampowered.com/app/4404050/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4404050/5efdf89d108cb7c05ac6d756070da2d9dde1de51/header.jpg?t=1773149267",
-        "Date": "Apr 15, 2026",
-        "AddedDate": "2026-03-10",
-        "AddedTimestamp": 1773149961.465762,
+        "Date": "Apr 30, 2026",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773204874.8883047,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -5478,6 +5478,50 @@
         "MatchedTags": [
             "horror",
             "survival horror"
+        ]
+    },
+    "4272870": {
+        "Title": "Aquarium 24'",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4272870/",
+        "Site": "https://zippycat9.itch.io/aquarium",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4272870/eb4368a1d9d5cb568de3e220db7db64901a4a13a/header.jpg?t=1773202561",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773204863.3482556,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4318830": {
+        "Title": "Save the City : Table Top Edition",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4318830/",
+        "Site": "https://aaimmersive.com/games/savethecity",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4318830/4a40e9adb4bfb7932297d7251f2711a97902ed96/header.jpg?t=1773204554",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773204865.7107613,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "real time tactics"
+        ]
+    },
+    "4353600": {
+        "Title": "Radiance of Annihilation -Disorder Eclipse-",
+        "Email": "",
+        "Discord": "https://discord.gg/kaguragames",
+        "URL": "https://store.steampowered.com/app/4353600/",
+        "Site": "https://www.kaguragames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4353600/859d57e4bd691383f139b8e97bf0cb54751afee2/header.jpg?t=1773198736",
+        "Date": "2026",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773204868.949822,
+        "MatchedTags": [
+            "turn-based combat"
         ]
     }
 }
