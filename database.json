@@ -1731,9 +1731,9 @@
         "URL": "https://store.steampowered.com/app/3655400/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3655400/524d6d970120aec385ec42b3fe7f521d4430ac38/header.jpg?t=1772731016",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-07",
-        "AddedTimestamp": 1772851484.5120351,
+        "Date": "Mar 30, 2026",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773256297.971372,
         "MatchedTags": [
             "tactical rpg",
             "strategy",
@@ -3033,7 +3033,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4484570/",
-        "Site": "",
+        "Site": "http://adetectivestory.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4484570/9353c56d2d17d9e26dcea41ef444405767f99d9b/header.jpg?t=1772817675",
         "Date": "March 2026",
         "AddedDate": "2026-03-06",
@@ -5925,6 +5925,99 @@
             "turn-based strategy",
             "turn-based tactics",
             "tactical"
+        ]
+    },
+    "4018270": {
+        "Title": "Kriv Solas",
+        "Email": "",
+        "Discord": "https://discord.gg/EdaZn7hsrN",
+        "URL": "https://store.steampowered.com/app/4018270/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4018270/1a15c029c131702263696a1c9fbba45092789770/header.jpg?t=1773254734",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773256300.8371727,
+        "MatchedTags": [
+            "tactical rpg",
+            "turn-based tactics",
+            "resource management",
+            "turn-based combat",
+            "strategy",
+            "survival horror",
+            "turn-based strategy"
+        ]
+    },
+    "4462890": {
+        "Title": "Skinscribing",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4462890/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4462890/e9e354d9d3b01c01e45d77a57e84956d002c9566/header.jpg?t=1773252649",
+        "Date": "Dec 21, 2027",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773256313.5401669,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4485340": {
+        "Title": "Lock & Stone",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4485340/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4485340/d5b9cd7d46433a2854a6c7cae589e63b8495c2df/header.jpg?t=1773252754",
+        "Date": "TBA",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773256318.7802048,
+        "MatchedTags": [
+            "survival horror",
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4492420": {
+        "Title": "Out of Body",
+        "Email": "hey@outofbody.life",
+        "Discord": "https://discord.gg/GbqKujZ63u",
+        "URL": "https://store.steampowered.com/app/4492420/",
+        "Site": "https://outofbody.life/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4492420/34f413e248d21da05c4451ad35487b86662031a0/header.jpg?t=1773254014",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773256323.7173605,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4502690": {
+        "Title": "GRUDGE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4502690/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4502690/e8dbcfd722df627e21fd9dfa147afee787f16b7c/header.jpg?t=1773255289",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773256329.8590858,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4503150": {
+        "Title": "GLOOMTIDE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4503150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4503150/7d932c06d4cdc069eb209b6472d535bae6445082/header.jpg?t=1773254455",
+        "Date": "2026",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773256333.4376485,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
