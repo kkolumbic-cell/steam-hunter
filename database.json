@@ -3226,9 +3226,9 @@
         "URL": "https://store.steampowered.com/app/4487170/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4487170/7e3c299f1d29889020e0efd41948aecbb83a7d99/header.jpg?t=1772829213",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-06",
-        "AddedTimestamp": 1772830194.4009619,
+        "Date": "Mar 23, 2026",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773241671.2329473,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -4685,9 +4685,9 @@
         "URL": "https://store.steampowered.com/app/4505030/",
         "Site": "http://yesgamesonline.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4505030/5ba7e55b1f4dd960beaaf7b47b14c55466a6e499/header.jpg?t=1773095521",
-        "Date": "TBA",
-        "AddedDate": "2026-03-09",
-        "AddedTimestamp": 1773096518.5333967,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773241675.7795053,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -4947,7 +4947,9 @@
         "AddedDate": "2026-03-10",
         "AddedTimestamp": 1773143334.7414377,
         "MatchedTags": [
-            "resource management"
+            "resource management",
+            "horror",
+            "survival horror"
         ]
     },
     "4272270": {
@@ -5770,6 +5772,48 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4411420": {
+        "Title": "\u8ff7\u5bab\uff1a\u56da\u7b3c Maze : Captivity",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4411420/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4411420/a82a951b8a6bf10b7e4adc1ae7724ce58bab223b/header.jpg?t=1773240911",
+        "Date": "2028",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773241630.7943838,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4450260": {
+        "Title": "666 Malevolence Lane",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4450260/",
+        "Site": "https://ssusp24socials.wixsite.com/bearlyastudio",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4450260/84d8e55bb0690c22167d42a8508009b07a225aae/header.jpg?t=1773240384",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773241643.44808,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4492100": {
+        "Title": "Spatial Puzzle 3D",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4492100/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492100/a5a28ce7723f8938411c230d30650789bcebdcb9/header.jpg?t=1773239151",
+        "Date": "March 2026",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773241673.914448,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
