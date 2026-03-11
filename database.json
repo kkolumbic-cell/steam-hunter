@@ -67,7 +67,8 @@
         "Date": "Mar 17, 2026",
         "AddedDate": "2026-03-04",
         "MatchedTags": [
-            "strategy"
+            "strategy",
+            "real time tactics"
         ]
     },
     "4452320": {
@@ -5162,9 +5163,9 @@
         "URL": "https://store.steampowered.com/app/4462740/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4462740/6a3eb9bafbc25c45e5489032bd74b033378efb70/header.jpg?t=1773160043",
-        "Date": "May 2026",
-        "AddedDate": "2026-03-10",
-        "AddedTimestamp": 1773165774.2004833,
+        "Date": "June 2026",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773252373.1719913,
         "MatchedTags": [
             "tactical"
         ]
@@ -5877,6 +5878,53 @@
             "strategy",
             "economy",
             "management"
+        ]
+    },
+    "4313040": {
+        "Title": "Crystalmancers",
+        "Email": "gamer@gmail.com",
+        "Discord": "https://discord.gg/Jx8EhC5rBT",
+        "URL": "https://store.steampowered.com/app/4313040/",
+        "Site": "https://www.vaniagames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4313040/60dec47726d9b139115ed1434e1815c12983cca3/header.jpg?t=1773251610",
+        "Date": "TBA",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773252362.7183347,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4420210": {
+        "Title": "Terminal Tales: An Interactive Fiction Anthology",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4420210/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4420210/6675ea360ba99b8596e368df96fe4702d605fc50/header.jpg?t=1773251923",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773252366.1024032,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4487790": {
+        "Title": "Fidus",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4487790/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4487790/83344fe35299df68159d29f8334a19e3929c30e4/header.jpg?t=1773252036",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773252379.253665,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical"
         ]
     }
 }
