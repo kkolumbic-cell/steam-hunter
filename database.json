@@ -696,9 +696,9 @@
         "URL": "https://store.steampowered.com/app/4486300/",
         "Site": "https://funkmunki.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4486300/799ebf0139230c40ce1856e4179f695e1c12cf4c/header.jpg?t=1772650682",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-04",
-        "AddedTimestamp": 1772651323.9458394,
+        "Date": "July 2026",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773245101.7744827,
         "MatchedTags": [
             "management",
             "resource management"
@@ -5814,6 +5814,36 @@
         "AddedTimestamp": 1773241673.914448,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "3866370": {
+        "Title": "WITCHHUNTER.exe",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3866370/",
+        "Site": "https://noahdundasgames.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3866370/1aba53068a615b17f8ced7e515713b601b494990/header.jpg?t=1773244003",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773245078.2635682,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4492280": {
+        "Title": "Maiden Hand",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4492280/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492280/213e6ec4265ffb50fe3d44e3086718baebd17f65/header.jpg?t=1773242467",
+        "Date": "TBA",
+        "AddedDate": "2026-03-11",
+        "AddedTimestamp": 1773245104.5223992,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
         ]
     }
 }
