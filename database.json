@@ -6042,9 +6042,9 @@
         "URL": "https://store.steampowered.com/app/4230580/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4230580/a6f2443069791f52f4c719b20909ccc7b2ca0d9c/header.jpg?t=1773257916",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-11",
-        "AddedTimestamp": 1773258821.484144,
+        "Date": "Q2 2026",
+        "AddedDate": "2026-03-12",
+        "AddedTimestamp": 1773342814.9001615,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -6660,6 +6660,69 @@
         "AddedTimestamp": 1773338692.9965277,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "3295000": {
+        "Title": "ReVamp",
+        "Email": "",
+        "Discord": "https://discord.com/invite/BFWrAfxd2H",
+        "URL": "https://store.steampowered.com/app/3295000/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3295000/3d46949c47d132561d825f992738f357826e6e3c/header.jpg?t=1773342334",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-12",
+        "AddedTimestamp": 1773342809.5365307,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "real time tactics",
+            "management",
+            "tactical"
+        ]
+    },
+    "4373160": {
+        "Title": "Evil Thing",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4373160/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4373160/723591e687fa343de08b8f9ef7d251684993a005/header.jpg?t=1773341595",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-12",
+        "AddedTimestamp": 1773342820.3338957,
+        "MatchedTags": [
+            "horror",
+            "strategy"
+        ]
+    },
+    "4414560": {
+        "Title": "CORDURA",
+        "Email": "",
+        "Discord": "https://discord.gg/sfqeACkVkT",
+        "URL": "https://store.steampowered.com/app/4414560/",
+        "Site": "https://garage51.es/cordura/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4414560/5b03017ebc043f09596c3404a74708e96561e529/header.jpg?t=1773340414",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-12",
+        "AddedTimestamp": 1773342826.1641872,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4503090": {
+        "Title": "Reverse Survivors",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4503090/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4503090/297247fb6932ad4382a2e08f0c92d9f9f26da8cb/header.jpg?t=1773341990",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-03-12",
+        "AddedTimestamp": 1773342842.5494435,
+        "MatchedTags": [
+            "resource management"
         ]
     }
 }
