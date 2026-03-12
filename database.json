@@ -5057,15 +5057,17 @@
         "URL": "https://store.steampowered.com/app/4502200/",
         "Site": "https://mebunaz.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4502200/b4d2f2c328fe98f52206368782c90d83e9e9cf3a/header.jpg?t=1773152921",
-        "Date": "TBA",
-        "AddedDate": "2026-03-10",
-        "AddedTimestamp": 1773155561.3023067,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-12",
+        "AddedTimestamp": 1773352188.4099362,
         "MatchedTags": [
             "strategy",
             "real time tactics",
-            "base building",
             "grand strategy",
-            "resource management"
+            "base building",
+            "resource management",
+            "management",
+            "tactical"
         ]
     },
     "4506060": {
@@ -6780,14 +6782,59 @@
         "URL": "https://store.steampowered.com/app/4315270/",
         "Site": "https://woodlandsoftware.org/#games",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315270/725ade629e95e8aa0ff3ba01b0c2a303ee1deaff/header.jpg?t=1773346368",
-        "Date": "TBA",
+        "Date": "Coming soon",
         "AddedDate": "2026-03-12",
-        "AddedTimestamp": 1773348816.5727453,
+        "AddedTimestamp": 1773352158.3235297,
         "MatchedTags": [
             "strategy",
             "resource management",
             "economy",
             "base building"
+        ]
+    },
+    "4442750": {
+        "Title": "Void Hunters",
+        "Email": "",
+        "Discord": "https://discord.gg/tQvEsJGvvp",
+        "URL": "https://store.steampowered.com/app/4442750/",
+        "Site": "https://voidhunters.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4442750/cfa11bc0f61dc41350500fca6c34cab7477f312a/header.jpg?t=1773350425",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-12",
+        "AddedTimestamp": 1773352181.075336,
+        "MatchedTags": [
+            "turn-based combat",
+            "turn-based tactics",
+            "turn-based strategy",
+            "tactical rpg"
+        ]
+    },
+    "4491360": {
+        "Title": "The 7th Guest Remake",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4491360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4491360/ba4e68cf5d709de4d3c4971850548d66321c6110/header.jpg?t=1773349223",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-12",
+        "AddedTimestamp": 1773352183.7932794,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4492570": {
+        "Title": "Fear",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4492570/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4492570/98648f9e9d1c5c0e6f220dc6f16d517046002c28/header.jpg?t=1773350245",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-12",
+        "AddedTimestamp": 1773352186.5717063,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
