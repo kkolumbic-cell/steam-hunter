@@ -6724,5 +6724,70 @@
         "MatchedTags": [
             "resource management"
         ]
+    },
+    "2482940": {
+        "Title": "Little Nightmares VR: Altered Echoes",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2482940/",
+        "Site": "https://littlenightmaresvr.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2482940/d452a2c46f521825dead1bd5fda5a2b6a31d6379/header.jpg?t=1773348047",
+        "Date": "Apr 23, 2026",
+        "AddedDate": "2026-03-12",
+        "AddedTimestamp": 1773348797.8059533,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "3335310": {
+        "Title": "Remothered: Red Nun's Legacy",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3335310/",
+        "Site": "https://www.remothered.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3335310/36b0a83ca1f760fae7b0d063b89b2f5ad2e7115a/header.jpg?t=1773345858",
+        "Date": "2026",
+        "AddedDate": "2026-03-12",
+        "AddedTimestamp": 1773348807.6621218,
+        "MatchedTags": [
+            "survival horror",
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4208140": {
+        "Title": "Defender of the Crown: The Legend Returns",
+        "Email": "",
+        "Discord": "https://discord.gg/3hUzpDm8cm",
+        "URL": "https://store.steampowered.com/app/4208140/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4208140/131479ec2e41016e6baf82b98c2106abc562c095/header.jpg?t=1773347530",
+        "Date": "2026",
+        "AddedDate": "2026-03-12",
+        "AddedTimestamp": 1773348813.7286556,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "real time tactics",
+            "tactical"
+        ]
+    },
+    "4315270": {
+        "Title": "Idle Time",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4315270/",
+        "Site": "https://woodlandsoftware.org/#games",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315270/725ade629e95e8aa0ff3ba01b0c2a303ee1deaff/header.jpg?t=1773346368",
+        "Date": "TBA",
+        "AddedDate": "2026-03-12",
+        "AddedTimestamp": 1773348816.5727453,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "economy",
+            "base building"
+        ]
     }
 }
