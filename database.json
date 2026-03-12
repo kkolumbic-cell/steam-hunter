@@ -6373,5 +6373,36 @@
         "MatchedTags": [
             "strategy"
         ]
+    },
+    "3240890": {
+        "Title": "Chaos Agents",
+        "Email": "hello@popularium.com",
+        "Discord": "https://discord.gg/ZKHVM2FEJ8",
+        "URL": "https://store.steampowered.com/app/3240890/",
+        "Site": "http://www.popularium.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240890/106d6249a65b578bf5579a84823fdf88de06e209/header.jpg?t=1773300811",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-12",
+        "AddedTimestamp": 1773302318.9042728,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "tactical",
+            "turn-based combat"
+        ]
+    },
+    "4474130": {
+        "Title": "Westins World",
+        "Email": "westinsworldstudio@gmail.com",
+        "Discord": "https://discord.com/invite/GEkFHhycmy",
+        "URL": "https://store.steampowered.com/app/4474130/",
+        "Site": "https://westinsworldstudio.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4474130/27d2b670f46a893aaaa55521c38b8e7b0ec209f7/header.jpg?t=1773301309",
+        "Date": "2028",
+        "AddedDate": "2026-03-12",
+        "AddedTimestamp": 1773302339.5417895,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
     }
 }
