@@ -742,9 +742,9 @@
         "URL": "https://store.steampowered.com/app/4484800/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484800/0b0e3e815e430ed2560acef3a15cd4e5702d0864/header.jpg?t=1772653503",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-04",
-        "AddedTimestamp": 1772653936.762299,
+        "Date": "Mar 23, 2026",
+        "AddedDate": "2026-03-13",
+        "AddedTimestamp": 1773408942.7958438,
         "MatchedTags": [
             "strategy",
             "management",
@@ -2955,9 +2955,9 @@
         "URL": "https://store.steampowered.com/app/4186280/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4186280/998943c15a44deef6707e3604decc1da267d1afe/header.jpg?t=1772815509",
-        "Date": "TBA",
-        "AddedDate": "2026-03-06",
-        "AddedTimestamp": 1772816456.046667,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-13",
+        "AddedTimestamp": 1773408922.0251572,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -7154,6 +7154,131 @@
         "AddedTimestamp": 1773402436.5588791,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "3268420": {
+        "Title": "FarHorizons",
+        "Email": "",
+        "Discord": "https://discord.gg/sum7q279CJ",
+        "URL": "https://store.steampowered.com/app/3268420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3268420/3dd889fb70721b8c7cb6acb8b07cec84d8aacaad/header.jpg?t=1773406037",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-13",
+        "AddedTimestamp": 1773408911.831316,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4090010": {
+        "Title": "Cardslinger",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4090010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4090010/f1a81ac80295ae3e40542c4018dc4646da2a7a9b/header.jpg?t=1773405725",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-13",
+        "AddedTimestamp": 1773408917.0629318,
+        "MatchedTags": [
+            "tactical",
+            "turn-based strategy",
+            "strategy",
+            "turn-based combat",
+            "turn-based tactics",
+            "tactical rpg"
+        ]
+    },
+    "4335460": {
+        "Title": "BOXROOM",
+        "Email": "hello@pantaloon.io",
+        "Discord": "https://discord.com/invite/GshQKAEY4P?_kx=_NEZvoNKZfV4cXEX5IMHEg%3D%3D.VxpbwG",
+        "URL": "https://store.steampowered.com/app/4335460/",
+        "Site": "https://www.pantaloon.io/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4335460/604da940e85a84b3d980ab6f783db7a1b63c6f61/header.jpg?t=1773405263",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-03-13",
+        "AddedTimestamp": 1773408927.3641336,
+        "MatchedTags": [
+            "base building",
+            "management",
+            "strategy"
+        ]
+    },
+    "4424140": {
+        "Title": "\u83ab\u5854\u7c73Motami",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4424140/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4424140/374e560d4cf160c2ade35f4224fdf46a16f9089f/header.jpg?t=1773405286",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-03-13",
+        "AddedTimestamp": 1773408930.4096076,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4475930": {
+        "Title": "Distributrains",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4475930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4475930/1939b83798ca046f8f260c7f1ba17162e68aaace/header.jpg?t=1773407295",
+        "Date": "Mar 26, 2026",
+        "AddedDate": "2026-03-13",
+        "AddedTimestamp": 1773408935.9148815,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4483710": {
+        "Title": "Coilbound",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4483710/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4483710/df21e129d9f41d439455661b96f0a52357dc92d5/header.jpg?t=1773403774",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-13",
+        "AddedTimestamp": 1773408941.0708537,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4509030": {
+        "Title": "Boya Coya",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4509030/",
+        "Site": "https://boisclub.games",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4509030/f7b7696def8857d589db0d28a2fb260bf22269c3/header.jpg?t=1773405653",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-13",
+        "AddedTimestamp": 1773408954.3541346,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4514620": {
+        "Title": "Midnight Matinee",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4514620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4514620/5c330eb482e748d6cb51e5ff7b9dd367c92f694c/header.jpg?t=1773406344",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-13",
+        "AddedTimestamp": 1773408962.3631835,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
