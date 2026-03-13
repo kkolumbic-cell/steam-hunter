@@ -7373,14 +7373,14 @@
     },
     "4366210": {
         "Title": "Good Night Little Ones",
-        "Email": "honor98.contact@gmail.com, mimmicco.contact@gmail.com, lhalavent@gmail.com, blackcat42.lvls@gmail.com, flora.kossi.pro@gmail.com",
+        "Email": "blackcat42.lvls@gmail.com, mimmicco.contact@gmail.com, honor98.contact@gmail.com, lhalavent@gmail.com, flora.kossi.pro@gmail.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4366210/",
         "Site": "https://www.gnlo.fr",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366210/16de14d65c2e547907a0525793e0ffed1c70af31/header.jpg?t=1773417844",
-        "Date": "Mar 17, 2026",
+        "Date": "Coming soon",
         "AddedDate": "2026-03-13",
-        "AddedTimestamp": 1773421186.0335183,
+        "AddedTimestamp": 1773428558.5359054,
         "MatchedTags": [
             "strategy",
             "survival horror"
@@ -7430,6 +7430,36 @@
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
+        ]
+    },
+    "3333590": {
+        "Title": "Save Our Queen",
+        "Email": "",
+        "Discord": "https://discord.gg/SJM75Bmk",
+        "URL": "https://store.steampowered.com/app/3333590/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3333590/edd898047c0fd24103e5dccbc386b0c85e87e6e5/header.jpg?t=1773425237",
+        "Date": "2026",
+        "AddedDate": "2026-03-13",
+        "AddedTimestamp": 1773428551.0462766,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4324480": {
+        "Title": "Dirty Business",
+        "Email": "",
+        "Discord": "https://discord.gg/fkqUw8msw3",
+        "URL": "https://store.steampowered.com/app/4324480/",
+        "Site": "https://dirtybusinessgame.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324480/0bf41369aa9d8f70fd5b1dfcf9b71b0a5b1074f3/header.jpg?t=1773427402",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-13",
+        "AddedTimestamp": 1773428555.632066,
+        "MatchedTags": [
+            "management",
+            "base building",
+            "strategy"
         ]
     }
 }
