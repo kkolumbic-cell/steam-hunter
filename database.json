@@ -5665,7 +5665,7 @@
     "3768750": {
         "Title": "War On Wheels",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/jYVMJy2H7e",
         "URL": "https://store.steampowered.com/app/3768750/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3768750/d6b825c48ca8a0e268867a98a87cfa9476ce680a/header.jpg?t=1773230859",
@@ -5673,11 +5673,12 @@
         "AddedDate": "2026-03-11",
         "AddedTimestamp": 1773236367.5643227,
         "MatchedTags": [
-            "strategy",
-            "turn-based strategy",
-            "tactical rpg",
+            "tactical",
+            "turn-based combat",
             "turn-based tactics",
-            "tactical"
+            "tactical rpg",
+            "strategy",
+            "turn-based strategy"
         ]
     },
     "4021740": {
@@ -7339,6 +7340,65 @@
         "AddedTimestamp": 1773417538.4509637,
         "MatchedTags": [
             "psychological horror"
+        ]
+    },
+    "3853910": {
+        "Title": "Gore Sword",
+        "Email": "",
+        "Discord": "https://discord.gg/kMJjXNqqwk",
+        "URL": "https://store.steampowered.com/app/3853910/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3853910/e9e71105cb976e37a31fc1cee745260b586787d1/header.jpg?t=1773418000",
+        "Date": "Feb 11, 2026",
+        "AddedDate": "2026-03-13",
+        "AddedTimestamp": 1773421170.5419433,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "turn-based tactics"
+        ]
+    },
+    "3921010": {
+        "Title": "War Alert",
+        "Email": "",
+        "Discord": "https://discord.gg/wtmScJpqJs",
+        "URL": "https://store.steampowered.com/app/3921010/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3921010/57358f3516c4c1fc6c4751dbf4e747585ace699a/header.jpg?t=1773418491",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-13",
+        "AddedTimestamp": 1773421173.3069355,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4366210": {
+        "Title": "Good Night Little Ones",
+        "Email": "honor98.contact@gmail.com, mimmicco.contact@gmail.com, lhalavent@gmail.com, blackcat42.lvls@gmail.com, flora.kossi.pro@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4366210/",
+        "Site": "https://www.gnlo.fr",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366210/16de14d65c2e547907a0525793e0ffed1c70af31/header.jpg?t=1773417844",
+        "Date": "Mar 17, 2026",
+        "AddedDate": "2026-03-13",
+        "AddedTimestamp": 1773421186.0335183,
+        "MatchedTags": [
+            "strategy",
+            "survival horror"
+        ]
+    },
+    "4492500": {
+        "Title": "The Cinder Throne",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4492500/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492500/39c32db8a3d108b4bce552953b5b4b74f2e7ec4c/header.jpg?t=1773418207",
+        "Date": "2026",
+        "AddedDate": "2026-03-13",
+        "AddedTimestamp": 1773421192.790425,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
