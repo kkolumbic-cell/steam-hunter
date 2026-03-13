@@ -5971,9 +5971,9 @@
         "URL": "https://store.steampowered.com/app/4485340/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4485340/d5b9cd7d46433a2854a6c7cae589e63b8495c2df/header.jpg?t=1773252754",
-        "Date": "TBA",
-        "AddedDate": "2026-03-11",
-        "AddedTimestamp": 1773256318.7802048,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-13",
+        "AddedTimestamp": 1773431354.702439,
         "MatchedTags": [
             "survival horror",
             "horror",
@@ -7460,6 +7460,60 @@
             "management",
             "base building",
             "strategy"
+        ]
+    },
+    "2212470": {
+        "Title": "Mountain Resort Manager",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2212470/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2212470/903cb7053aae382c64fe847803fc0c304bcffbdb/header.jpg?t=1773430027",
+        "Date": "2027",
+        "AddedDate": "2026-03-13",
+        "AddedTimestamp": 1773431333.2272499,
+        "MatchedTags": [
+            "city builder",
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4489820": {
+        "Title": "DOGPIT",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4489820/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4489820/8fef24bd98a6ac76c87067b2e760d4b9834d186a/header.jpg?t=1773429277",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-13",
+        "AddedTimestamp": 1773431356.7383568,
+        "MatchedTags": [
+            "tactical",
+            "resource management",
+            "management",
+            "base building"
+        ]
+    },
+    "4500270": {
+        "Title": "Global Protocol: New World Order",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4500270/",
+        "Site": "https://www.globalprotocolgame.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4500270/640783e903a50b6273350274be1f7044a86e093c/header.jpg?t=1773429680",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-13",
+        "AddedTimestamp": 1773431359.5353963,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "real time tactics",
+            "economy",
+            "turn-based tactics",
+            "turn-based combat",
+            "management"
         ]
     }
 }
