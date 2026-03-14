@@ -7695,13 +7695,57 @@
         "URL": "https://store.steampowered.com/app/4514930/",
         "Site": "https://www.the-undercut.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4514930/fc59de3950d1d5c884e72db08733464cf4de6a6d/header.jpg?t=1773475861",
-        "Date": "Jun 30, 2026",
+        "Date": "Q2 2026",
         "AddedDate": "2026-03-14",
-        "AddedTimestamp": 1773478374.405763,
+        "AddedTimestamp": 1773481799.0664725,
         "MatchedTags": [
             "strategy",
             "management",
             "resource management"
+        ]
+    },
+    "4456350": {
+        "Title": "Organomancer",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4456350/",
+        "Site": "https://vantachamber.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456350/efe143f079225e743e8b7f071ca2b8cfd51603bc/header.jpg?t=1773480901",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-14",
+        "AddedTimestamp": 1773481772.0916173,
+        "MatchedTags": [
+            "economy",
+            "management"
+        ]
+    },
+    "4465120": {
+        "Title": "Dice Ark",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4465120/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4465120/eeba893b42008ded7df191ce80a44f36b3e47608/header.jpg?t=1773480062",
+        "Date": "Apr 30, 2026",
+        "AddedDate": "2026-03-14",
+        "AddedTimestamp": 1773481777.8151069,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4489940": {
+        "Title": "[ABERRATION] THE ANALYST",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4489940/",
+        "Site": "https://feiginentertainment.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4489940/08ba8920b7754ab7870c69e673a2565e85567c6c/header.jpg?t=1773481709",
+        "Date": "August 2026",
+        "AddedDate": "2026-03-14",
+        "AddedTimestamp": 1773481781.0026917,
+        "MatchedTags": [
+            "psychological horror",
+            "survival horror"
         ]
     }
 }
