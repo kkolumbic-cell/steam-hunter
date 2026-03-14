@@ -7681,9 +7681,9 @@
         "URL": "https://store.steampowered.com/app/4518070/",
         "Site": "https://strixandscholar.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4518070/0529fac5e1e1c7edfa68efde1c83c69f33172381/header.jpg?t=1773473014",
-        "Date": "TBA",
+        "Date": "To be announced",
         "AddedDate": "2026-03-14",
-        "AddedTimestamp": 1773474665.020965,
+        "AddedTimestamp": 1773485293.8023632,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -7746,6 +7746,69 @@
         "MatchedTags": [
             "psychological horror",
             "survival horror"
+        ]
+    },
+    "4365410": {
+        "Title": "Primal Legacy",
+        "Email": "",
+        "Discord": "https://discord.gg/RFPay9U6sa",
+        "URL": "https://store.steampowered.com/app/4365410/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4365410/07267dab3a0fec868256cc7cb3700cdb7218c06d/header.jpg?t=1773484414",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-14",
+        "AddedTimestamp": 1773485281.1334376,
+        "MatchedTags": [
+            "survival horror",
+            "horror"
+        ]
+    },
+    "4460090": {
+        "Title": "Starwing Tactics",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4460090/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4460090/73cae9a33444d6bd4089a3d030a15a28271e7da3/header.jpg?t=1773483420",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-14",
+        "AddedTimestamp": 1773485283.791206,
+        "MatchedTags": [
+            "turn-based tactics",
+            "tactical rpg",
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat",
+            "tactical",
+            "management"
+        ]
+    },
+    "4484540": {
+        "Title": "Neurobreach",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4484540/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484540/6f6b303642baf60abedce470fb735c00f34b3151/header.jpg?t=1773483927",
+        "Date": "TBA",
+        "AddedDate": "2026-03-14",
+        "AddedTimestamp": 1773485289.3030295,
+        "MatchedTags": [
+            "survival horror"
+        ]
+    },
+    "4509200": {
+        "Title": "Grease Trap '99",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4509200/",
+        "Site": "https://deepcrypt.games/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4509200/ce6e2b12ed4b81fa6261f1c7f5ec59fc3705afd5/header.jpg?t=1773482174",
+        "Date": "2026",
+        "AddedDate": "2026-03-14",
+        "AddedTimestamp": 1773485291.4361382,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
