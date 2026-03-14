@@ -7408,9 +7408,9 @@
         "URL": "https://store.steampowered.com/app/4496400/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4496400/74fe653cf540a3b365d6d2b64c42549518429b3b/header.jpg?t=1773423010",
-        "Date": "Mar 17, 2026",
-        "AddedDate": "2026-03-13",
-        "AddedTimestamp": 1773424388.172784,
+        "Date": "March 2026",
+        "AddedDate": "2026-03-14",
+        "AddedTimestamp": 1773457694.0388465,
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
@@ -7564,6 +7564,22 @@
             "horror",
             "strategy",
             "survival horror"
+        ]
+    },
+    "4276350": {
+        "Title": "Build a Mecha",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4276350/",
+        "Site": "https://josiahlukah424.wixsite.com/josiahnistor",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4276350/1c51e4a06781cf28de4f07bb844c4c61a87becf4/header.jpg?t=1773452610",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-14",
+        "AddedTimestamp": 1773457657.0968745,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "turn-based combat"
         ]
     }
 }
