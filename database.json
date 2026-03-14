@@ -4546,9 +4546,9 @@
         "AddedDate": "2026-03-09",
         "AddedTimestamp": 1773083542.3994641,
         "MatchedTags": [
-            "strategy",
+            "psychological horror",
             "horror",
-            "psychological horror"
+            "strategy"
         ]
     },
     "4431760": {
@@ -7915,6 +7915,20 @@
             "strategy",
             "tactical",
             "real time tactics"
+        ]
+    },
+    "4512410": {
+        "Title": "Alchemic Apothecary",
+        "Email": "",
+        "Discord": "https://discord.gg/8DMpfv4u5R",
+        "URL": "https://store.steampowered.com/app/4512410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4512410/88adb8d3a58761ff0b9f11af7584fe44a71cf0cb/header.jpg?t=1773530373",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-14",
+        "AddedTimestamp": 1773531887.675411,
+        "MatchedTags": [
+            "economy"
         ]
     }
 }
