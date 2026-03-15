@@ -7086,9 +7086,9 @@
         "URL": "https://store.steampowered.com/app/4503910/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4503910/8727f37e1a38ad8e04a8cbcfbbe5772ea5c4d0b8/header.jpg?t=1773383409",
-        "Date": "TBA",
-        "AddedDate": "2026-03-13",
-        "AddedTimestamp": 1773386042.7918944,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-15",
+        "AddedTimestamp": 1773568211.590735,
         "MatchedTags": [
             "survival horror"
         ]
@@ -7959,6 +7959,22 @@
         "AddedTimestamp": 1773553608.51815,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4139000": {
+        "Title": "Ominous Room -\u4e0d\u6c17\u5473\u306a\u90e8\u5c4b-",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4139000/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4139000/62f13735b2498628d7db7b480eb90a2ba3a8ea01/header.jpg?t=1773565274",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-03-15",
+        "AddedTimestamp": 1773568204.4578433,
+        "MatchedTags": [
+            "psychological horror",
+            "horror",
+            "resource management"
         ]
     }
 }
