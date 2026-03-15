@@ -7212,9 +7212,9 @@
         "URL": "https://store.steampowered.com/app/4475930/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4475930/1939b83798ca046f8f260c7f1ba17162e68aaace/header.jpg?t=1773407295",
-        "Date": "Mar 26, 2026",
-        "AddedDate": "2026-03-13",
-        "AddedTimestamp": 1773408935.9148815,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-15",
+        "AddedTimestamp": 1773611075.2213585,
         "MatchedTags": [
             "strategy",
             "management",
@@ -8009,6 +8009,22 @@
             "strategy",
             "real time tactics",
             "tactical",
+            "resource management"
+        ]
+    },
+    "4229880": {
+        "Title": "Souq Boss Simulator",
+        "Email": "",
+        "Discord": "https://discord.gg/xqbJ7jCFh4",
+        "URL": "https://store.steampowered.com/app/4229880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4229880/b32365afd580d5ab2e145f914be0f0fcb815f40d/header.jpg?t=1773608075",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-03-15",
+        "AddedTimestamp": 1773611066.7030826,
+        "MatchedTags": [
+            "economy",
+            "management",
             "resource management"
         ]
     }
