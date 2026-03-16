@@ -7865,12 +7865,12 @@
         "URL": "https://store.steampowered.com/app/4415120/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4415120/c85ba7b08ab1becf12b8312d20128bbf45e1a805/header.jpg?t=1773514008",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-14",
-        "AddedTimestamp": 1773514700.0078974,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-03-16",
+        "AddedTimestamp": 1773669390.5827034,
         "MatchedTags": [
-            "resource management",
-            "economy"
+            "economy",
+            "resource management"
         ]
     },
     "4511710": {
@@ -8133,6 +8133,160 @@
         "MatchedTags": [
             "psychological horror",
             "survival horror"
+        ]
+    },
+    "3670940": {
+        "Title": "Dave's Word Game",
+        "Email": "",
+        "Discord": "https://discord.gg/Bearwaves",
+        "URL": "https://store.steampowered.com/app/3670940/",
+        "Site": "https://www.playdwg.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3670940/e9f0c3e52acbec11a975e69a222452cca17c8a37/header.jpg?t=1773664652",
+        "Date": "2026",
+        "AddedDate": "2026-03-16",
+        "AddedTimestamp": 1773669362.6637948,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "3873480": {
+        "Title": "LUUP",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3873480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3873480/454aeac8ab9abe72f1a66c93bd3c1fca2d65fc38/header.jpg?t=1773666070",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-16",
+        "AddedTimestamp": 1773669366.764384,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "tactical"
+        ]
+    },
+    "3919690": {
+        "Title": "OPEN FOR BUSINESS",
+        "Email": "",
+        "Discord": "https://discord.gg/45kTCRdy",
+        "URL": "https://store.steampowered.com/app/3919690/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3919690/4a3e4b1cd084b1a95a6a0a5b490f916b4155e27e/header.jpg?t=1773664364",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-16",
+        "AddedTimestamp": 1773669369.235172,
+        "MatchedTags": [
+            "management",
+            "economy"
+        ]
+    },
+    "4249930": {
+        "Title": "Modern Durak",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4249930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4249930/25303c75c7b2a6eb811140e66ee96ac8d147406b/header.jpg?t=1773665771",
+        "Date": "Q1 2026",
+        "AddedDate": "2026-03-16",
+        "AddedTimestamp": 1773669376.0445683,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4253020": {
+        "Title": "Murder Meet Cute",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4253020/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4253020/88f4367c70fa3f99b16579fa0888af7949f9db1a/header.jpg?t=1773662693",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-16",
+        "AddedTimestamp": 1773669378.290111,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4310470": {
+        "Title": "Do Not Disturb",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4310470/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4310470/5e1266d0d3f64d93e2595dcea17917355bf6341b/header.jpg?t=1773664345",
+        "Date": "March 2026",
+        "AddedDate": "2026-03-16",
+        "AddedTimestamp": 1773669380.414773,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4380850": {
+        "Title": "Backrooms: Multiverse",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4380850/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4380850/3c833245f8dc3e5bb2d821d5e8a764125bbe7c9c/header.jpg?t=1773666585",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-16",
+        "AddedTimestamp": 1773669386.045622,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4449620": {
+        "Title": "Greedcurse",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4449620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4449620/37e671b2eca9e74b258f946ae9335f409e83815e/header.jpg?t=1773666360",
+        "Date": "TBA",
+        "AddedDate": "2026-03-16",
+        "AddedTimestamp": 1773669396.7856283,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4504430": {
+        "Title": "Crab Kingdom",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4504430/",
+        "Site": "https://www.northmeadowgames.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4504430/ad8d19e4f90bafc4b524635f898b868bfa240dd0/header.jpg?t=1773664446",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-16",
+        "AddedTimestamp": 1773669409.6590643,
+        "MatchedTags": [
+            "tower defense",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4517730": {
+        "Title": "My House on the 9th Floor",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4517730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4517730/f7dfad325eacc64d973e1eae7cd25f10f8b84fc6/header.jpg?t=1773668827",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-16",
+        "AddedTimestamp": 1773669422.4462006,
+        "MatchedTags": [
+            "survival horror",
+            "horror",
+            "psychological horror"
         ]
     }
 }
