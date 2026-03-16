@@ -1763,9 +1763,9 @@
         "URL": "https://store.steampowered.com/app/4212170/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4212170/1076f89ca8c3566a58ee59c2313e9c0aba445733/header.jpg?t=1772732893",
-        "Date": "Jun 23, 2026",
-        "AddedDate": "2026-03-06",
-        "AddedTimestamp": 1772830150.847441,
+        "Date": "Jul 3, 2026",
+        "AddedDate": "2026-03-16",
+        "AddedTimestamp": 1773652522.9022148,
         "MatchedTags": [
             "city builder",
             "base building",
@@ -4929,9 +4929,9 @@
         "URL": "https://store.steampowered.com/app/4483650/",
         "Site": "https://axlplay.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4483650/5739f32a0b901f26a8e4e55e70c2de9f7575a998/header.jpg?t=1773142025",
-        "Date": "Apr 3, 2026",
-        "AddedDate": "2026-03-10",
-        "AddedTimestamp": 1773143334.7414377,
+        "Date": "Q2 2026",
+        "AddedDate": "2026-03-16",
+        "AddedTimestamp": 1773652531.4019287,
         "MatchedTags": [
             "resource management",
             "horror",
@@ -8088,6 +8088,36 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4488690": {
+        "Title": "Phase Line Red",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4488690/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4488690/1345580a80434d5cc9bcbb4fa51dfa259f541ca2/header.jpg?t=1773651841",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-16",
+        "AddedTimestamp": 1773652536.7042885,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy"
+        ]
+    },
+    "4513900": {
+        "Title": "Ava Loveless",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4513900/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4513900/40e815379b8794d522fbde6ebd4e099f711950c3/header.jpg?t=1773649680",
+        "Date": "Apr 21, 2026",
+        "AddedDate": "2026-03-16",
+        "AddedTimestamp": 1773652542.970827,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
