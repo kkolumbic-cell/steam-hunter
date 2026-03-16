@@ -570,9 +570,9 @@
         "URL": "https://store.steampowered.com/app/4488040/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488040/5f4b7427ca5fbb7962365633afbfb88334f72119/header.jpg?t=1772640303",
-        "Date": "March 2026",
-        "AddedDate": "2026-03-04",
-        "AddedTimestamp": 1772643873.744627,
+        "Date": "Mar 27, 2026",
+        "AddedDate": "2026-03-16",
+        "AddedTimestamp": 1773632115.602598,
         "MatchedTags": [
             "resource management"
         ]
@@ -2961,10 +2961,10 @@
         "AddedTimestamp": 1773408922.0251572,
         "MatchedTags": [
             "strategy",
-            "turn-based tactics",
             "turn-based strategy",
             "base building",
             "turn-based combat",
+            "turn-based tactics",
             "tactical",
             "resource management"
         ]
@@ -5756,9 +5756,9 @@
         "URL": "https://store.steampowered.com/app/4503600/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4503600/d165f7396e1214b9b08e91545f53d7d072ecd2c7/header.jpg?t=1773235444",
-        "Date": "March 2026",
-        "AddedDate": "2026-03-14",
-        "AddedTimestamp": 1773494139.022063,
+        "Date": "Mar 27, 2026",
+        "AddedDate": "2026-03-16",
+        "AddedTimestamp": 1773632121.7103157,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -8026,6 +8026,21 @@
             "economy",
             "management",
             "resource management"
+        ]
+    },
+    "4517350": {
+        "Title": "\u4f20\u5947\u76db\u4e16",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4517350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4517350/81862945c1a33dcebcf26ec3f11e1e4e8253f8c1/header.jpg?t=1773625037",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-16",
+        "AddedTimestamp": 1773632137.695918,
+        "MatchedTags": [
+            "strategy",
+            "city builder"
         ]
     }
 }
