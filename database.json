@@ -8219,9 +8219,9 @@
         "URL": "https://store.steampowered.com/app/4310470/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4310470/5e1266d0d3f64d93e2595dcea17917355bf6341b/header.jpg?t=1773664345",
-        "Date": "March 2026",
+        "Date": "Mar 25, 2026",
         "AddedDate": "2026-03-16",
-        "AddedTimestamp": 1773669380.414773,
+        "AddedTimestamp": 1773681525.256815,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -8317,6 +8317,105 @@
             "strategy",
             "real time tactics",
             "tactical"
+        ]
+    },
+    "3501050": {
+        "Title": "Total Incremental War",
+        "Email": "",
+        "Discord": "https://discord.gg/b4DKXSVHRF",
+        "URL": "https://store.steampowered.com/app/3501050/",
+        "Site": "https://techdebtgames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3501050/94e4d61662408a336895864cce7b022ccfeb350b/header.jpg?t=1773678465",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-03-16",
+        "AddedTimestamp": 1773681501.9828825,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "resource management",
+            "tactical rpg"
+        ]
+    },
+    "3654170": {
+        "Title": "Sea of Intrigue",
+        "Email": "",
+        "Discord": "https://discord.gg/gpmueNSSQU",
+        "URL": "https://store.steampowered.com/app/3654170/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3654170/2f20c0cc9a6002ea63e46c08849eac29a55b0bc3/header.jpg?t=1773680727",
+        "Date": "TBA",
+        "AddedDate": "2026-03-16",
+        "AddedTimestamp": 1773681509.399685,
+        "MatchedTags": [
+            "turn-based combat",
+            "tactical rpg",
+            "turn-based strategy",
+            "tactical"
+        ]
+    },
+    "3768400": {
+        "Title": "Gridlords",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3768400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3768400/f121aaa3f5b573754ed07e9a7819c5c530360b3e/header.jpg?t=1773680314",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-03-16",
+        "AddedTimestamp": 1773681514.2427418,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "tactical",
+            "management",
+            "base building"
+        ]
+    },
+    "4308170": {
+        "Title": "DVD Screensaver 2: 30th Anniversary Survivors Edition",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4308170/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4308170/3ccaafc49be7629a7ed03c68323b9e06e41f5908/header.jpg?t=1773677943",
+        "Date": "TBA",
+        "AddedDate": "2026-03-16",
+        "AddedTimestamp": 1773681522.9289994,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4492180": {
+        "Title": "Infectica",
+        "Email": "",
+        "Discord": "https://discord.gg/v9c4tUZT",
+        "URL": "https://store.steampowered.com/app/4492180/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4492180/171064b3c8a471f0b1076ae290cfda79084a0273/header.jpg?t=1773678020",
+        "Date": "June 2026",
+        "AddedDate": "2026-03-16",
+        "AddedTimestamp": 1773681548.259461,
+        "MatchedTags": [
+            "horror",
+            "management"
+        ]
+    },
+    "4519110": {
+        "Title": "Fortain",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4519110/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4519110/b6bec1d2ea1d1d708614de17e93d5c7a1f276139/header.jpg?t=1773678464",
+        "Date": "Aug 31, 2026",
+        "AddedDate": "2026-03-16",
+        "AddedTimestamp": 1773681565.0230403,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "economy",
+            "management",
+            "base building"
         ]
     }
 }
