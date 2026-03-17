@@ -168,20 +168,6 @@
             "strategy"
         ]
     },
-    "4412710": {
-        "Title": "Gummy Invaders",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4412710/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4412710/1bf7d05a5295ebac8e2943df01deec384b7ae3d8/header.jpg?t=1772609497",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-04",
-        "MatchedTags": [
-            "resource management",
-            "management"
-        ]
-    },
     "4427960": {
         "Title": "Banana Corp",
         "Email": "",
@@ -8736,6 +8722,84 @@
         "AddedTimestamp": 1773704703.7351785,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "3953070": {
+        "Title": "DATA DUTY",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3953070/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953070/b10c1f7828d86f3134ed98052be0e253c61eb135/header.jpg?t=1773716551",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773717261.715849,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4338230": {
+        "Title": "Last Shot: Drunkman\u2019s Roulette",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4338230/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4338230/ca293a105715a72e5d095a22666add1e2a970e28/header.jpg?t=1773714227",
+        "Date": "Sep 10, 2026",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773717277.8469806,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical",
+            "real time tactics"
+        ]
+    },
+    "4478200": {
+        "Title": "\u9019\u907a\u865a\u914d\u4fe1",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4478200/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4478200/c9fadff3a039fe9317e2e795fa7f286bdeb81d5c/header.jpg?t=1773711703",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773717291.200541,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4516990": {
+        "Title": "ShardSpace",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4516990/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516990/3d8f614268c3cb594f7f2ef345717e9904d06caa/header.jpg?t=1773708373",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773717311.3352485,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "base building",
+            "resource management"
+        ]
+    },
+    "4522150": {
+        "Title": "Crazy Caveman",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4522150/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4522150/cd83e4df500466d590383722721385f7272a8c09/header.jpg?t=1773714729",
+        "Date": "Apr 30, 2026",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773717317.8210917,
+        "MatchedTags": [
+            "base building",
+            "resource management"
         ]
     }
 }
