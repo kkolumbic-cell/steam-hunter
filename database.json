@@ -7429,8 +7429,7 @@
         "AddedTimestamp": 1773428555.632066,
         "MatchedTags": [
             "management",
-            "base building",
-            "strategy"
+            "base building"
         ]
     },
     "2212470": {
@@ -9262,6 +9261,81 @@
             "economy",
             "management",
             "resource management"
+        ]
+    },
+    "3896890": {
+        "Title": "No Peeking",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3896890/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3896890/282972a3e129c177bc710b2a61ab2b5278f747a4/header.jpg?t=1773775054",
+        "Date": "April 2026",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773775821.3676631,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4393600": {
+        "Title": "Bird Breakout",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4393600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4393600/cb1bb84387714c6b64193192d68d944085c8aafe/header.jpg?t=1773770769",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773775830.1810539,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4446920": {
+        "Title": "King For a Week",
+        "Email": "dac@kalempirionstudios13.com, info@kalempirionstudios13.comcvs, info@kalempirionstudios13.com",
+        "Discord": "https://discord.gg/T9ps3CrrHk",
+        "URL": "https://store.steampowered.com/app/4446920/",
+        "Site": "https://kalempirionstudios13.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4446920/af20a5cb754d22fea6534bf44fa06a96bb31cc9e/header.jpg?t=1773768608",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773775838.4170747,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4516370": {
+        "Title": "It Breathes",
+        "Email": "",
+        "Discord": "https://discord.gg/aPYzeFsgxH",
+        "URL": "https://store.steampowered.com/app/4516370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4516370/38496af45e8301d78127610b30bfd5398e8833d1/header.jpg?t=1773772823",
+        "Date": "Dec 31, 2027",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773775866.280593,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4517790": {
+        "Title": "Sheep Game: Something In The Flock",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4517790/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4517790/7c41b9f6238f2d624723eb4a0b174b6e1563d973/header.jpg?t=1773769559",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773775868.149483,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
         ]
     }
 }
