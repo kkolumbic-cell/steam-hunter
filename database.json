@@ -2758,9 +2758,9 @@
         "URL": "https://store.steampowered.com/app/4428790/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4428790/66967b101ae6c30eee025842d6cd033d6b270f05/header.jpg?t=1772805368",
-        "Date": "Coming soon",
+        "Date": "Mar 17, 2026",
         "AddedDate": "2026-03-17",
-        "AddedTimestamp": 1773755602.3789914,
+        "AddedTimestamp": 1773760773.5486584,
         "MatchedTags": [
             "management",
             "economy",
@@ -9096,6 +9096,65 @@
             "grand strategy",
             "turn-based tactics",
             "turn-based combat"
+        ]
+    },
+    "2295940": {
+        "Title": "Master of Realms",
+        "Email": "",
+        "Discord": "https://discord.gg/VXeyxytZdh",
+        "URL": "https://store.steampowered.com/app/2295940/",
+        "Site": "https://masterofrealms.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295940/9e7faa57eea3c9252b1db33dbae54f09a75d1326/header.jpg?t=1773759878",
+        "Date": "Mar 26, 2026",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773760746.5186324,
+        "MatchedTags": [
+            "city builder"
+        ]
+    },
+    "4426700": {
+        "Title": "The Key to Forgotten Souls",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4426700/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4426700/01212b217288a80c4322e8993d9c9271ea20044a/header.jpg?t=1773756757",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773760771.797949,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4471030": {
+        "Title": "An Odd Walk: Shinjuku Alley",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4471030/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4471030/c9ff920e925d4ca241bc5248d06233dd815248be/header.jpg?t=1773759890",
+        "Date": "April 2026",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773760785.107382,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4515440": {
+        "Title": "The Final Chamber",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4515440/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4515440/582b1e5abde35ae25e1fba658df95e7851c14907/header.jpg?t=1773757369",
+        "Date": "TBA",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773760801.07364,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
         ]
     }
 }
