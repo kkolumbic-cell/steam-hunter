@@ -9314,9 +9314,9 @@
         "URL": "https://store.steampowered.com/app/4516370/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4516370/38496af45e8301d78127610b30bfd5398e8833d1/header.jpg?t=1773772823",
-        "Date": "Dec 31, 2027",
+        "Date": "2027",
         "AddedDate": "2026-03-17",
-        "AddedTimestamp": 1773775866.280593,
+        "AddedTimestamp": 1773781132.3620617,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -9336,6 +9336,85 @@
             "horror",
             "psychological horror",
             "survival horror"
+        ]
+    },
+    "3568280": {
+        "Title": "Star Haul Tycoon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3568280/",
+        "Site": "https://starhaultycoon.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3568280/5eb870ae5420001ae266618d56662f84825494a3/header.jpg?t=1773776483",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773781090.592642,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "economy",
+            "resource management",
+            "grand strategy",
+            "real time tactics"
+        ]
+    },
+    "4089520": {
+        "Title": "Bronzebeard's Tavern 2",
+        "Email": "mermaidmenzgames@gmail.com",
+        "Discord": "https://discord.gg/D5QFcZt3aX",
+        "URL": "https://store.steampowered.com/app/4089520/",
+        "Site": "https://bronzebeardstavern.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4089520/0810a9998906bf981207f819de192612d08b9800/header.jpg?t=1773777221",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773781102.0810447,
+        "MatchedTags": [
+            "management",
+            "economy"
+        ]
+    },
+    "4174730": {
+        "Title": "Evershard: Heroes of Gallan's Landing",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4174730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4174730/e49a562291bfedb930abe37372d0562ff7a5c6c5/header.jpg?t=1773778396",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773781105.4407742,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "turn-based tactics"
+        ]
+    },
+    "4274730": {
+        "Title": "Roguefort",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4274730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4274730/d026ed5e398f3c47af592a8f08a3fe2bde436dcd/header.jpg?t=1773779590",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773781110.3080473,
+        "MatchedTags": [
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4525480": {
+        "Title": "Grim Shift",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4525480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4525480/e0f1e1767fa256cdf2fc369b99a3194494c8688c/header.jpg?t=1773777450",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773781137.3108025,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
