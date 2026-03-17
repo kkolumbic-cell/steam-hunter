@@ -853,9 +853,9 @@
         "URL": "https://store.steampowered.com/app/4478700/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4478700/de668170f209b880252db85ce4cae1ae373776e4/header.jpg?t=1772662637",
-        "Date": "March 2026",
-        "AddedDate": "2026-03-05",
-        "AddedTimestamp": 1772711374.4677312,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773742229.6569717,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -8941,6 +8941,35 @@
             "horror",
             "psychological horror",
             "survival horror"
+        ]
+    },
+    "4454060": {
+        "Title": "Fronimus",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4454060/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4454060/47dcd118ee78775efb7c17819c57547af1bd1aed/header.jpg?t=1773740876",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773742222.223021,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "4498350": {
+        "Title": "Slimazing",
+        "Email": "info@resurrectedstudio.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4498350/",
+        "Site": "https://resurrectedstudio.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4498350/16c92a8e472b7ea7041e21fdb42ef63fd753475e/header.jpg?t=1773739288",
+        "Date": "Dec 31, 2026",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773742232.5170891,
+        "MatchedTags": [
+            "strategy",
+            "economy"
         ]
     }
 }
