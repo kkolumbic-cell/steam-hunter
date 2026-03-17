@@ -8364,9 +8364,9 @@
         "URL": "https://store.steampowered.com/app/4308170/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4308170/3ccaafc49be7629a7ed03c68323b9e06e41f5908/header.jpg?t=1773677943",
-        "Date": "TBA",
-        "AddedDate": "2026-03-16",
-        "AddedTimestamp": 1773681522.9289994,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773732780.0570216,
         "MatchedTags": [
             "strategy"
         ]
@@ -8876,6 +8876,55 @@
         "AddedTimestamp": 1773728085.6233406,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4438360": {
+        "Title": "I Can Never Love Another",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4438360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4438360/bf64c08c50e2904a9a514023e3743674657ff4d9/header.jpg?t=1773729828",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773732786.828974,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4487590": {
+        "Title": "Chicken Inc.",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4487590/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4487590/5f3b336b38f5eca5e86aebf83ea14c89bf183e5a/header.jpg?t=1773729847",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773732791.4464831,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4519750": {
+        "Title": "Deep Space Merchant",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4519750/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4519750/61d1c1c158bfdccea50f9ad23eaf5f88a15988c6/header.jpg?t=1773731499",
+        "Date": "Apr 7, 2026",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773732796.4222422,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "economy",
+            "management",
+            "base building",
+            "resource management"
         ]
     }
 }
