@@ -6202,9 +6202,9 @@
         "URL": "https://store.steampowered.com/app/4505500/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4505500/32912d5a9cdcb485cad1fece43a76b5c58646321/header.jpg?t=1773279238",
-        "Date": "To be announced",
-        "AddedDate": "2026-03-12",
-        "AddedTimestamp": 1773285214.6720707,
+        "Date": "March 2026",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773788040.0697,
         "MatchedTags": [
             "strategy"
         ]
@@ -9495,6 +9495,64 @@
         "AddedTimestamp": 1773784545.8578446,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4443390": {
+        "Title": "Clank-Robotics",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4443390/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443390/54ec1c3348ca15042b6b3e66fc68748aa9589eea/header.jpg?t=1773786917",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773788028.9167645,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4515000": {
+        "Title": "Injection",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4515000/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4515000/a7ec4adf42a73009fd75eef674f34e87d07e129f/header.jpg?t=1773785550",
+        "Date": "TBA",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773788043.007838,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4520940": {
+        "Title": "Doom Survivor: Horde Rush",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4520940/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4520940/7e4d95ee2f03c65cf518a8684c006baad77b9bb9/header.jpg?t=1773787391",
+        "Date": "Apr 15, 2026",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773788048.027432,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4525370": {
+        "Title": "Master Alchemist Simulator: Arcane Workshop",
+        "Email": "",
+        "Discord": "https://discord.gg/dhMKadXg76",
+        "URL": "https://store.steampowered.com/app/4525370/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525370/fc605e384e743d57a4805927572ba175c1aa7552/header.jpg?t=1773784709",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773788052.289942,
+        "MatchedTags": [
+            "resource management",
+            "economy",
+            "management"
         ]
     }
 }
