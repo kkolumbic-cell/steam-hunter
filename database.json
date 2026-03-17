@@ -3847,12 +3847,11 @@
         "AddedDate": "2026-03-08",
         "AddedTimestamp": 1772966684.4641058,
         "MatchedTags": [
-            "strategy",
-            "tower defense",
+            "tactical rpg",
             "real time tactics",
-            "economy",
-            "management",
-            "tactical"
+            "tower defense",
+            "base building",
+            "strategy"
         ]
     },
     "4243980": {
@@ -7817,7 +7816,7 @@
     "3902520": {
         "Title": "Ukrainian Warfare: Gostomel Heroes",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/fKVgMWaKdF",
         "URL": "https://store.steampowered.com/app/3902520/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3902520/ebc704ad48ec2f8c6a6b90d93fe6a4cf3ab4ba63/header.jpg?t=1773504154",
@@ -9155,6 +9154,114 @@
         "MatchedTags": [
             "horror",
             "survival horror"
+        ]
+    },
+    "4362350": {
+        "Title": "The Ladder",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4362350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4362350/e7f99fea26a0910e5ae18776392e67509ab85230/header.jpg?t=1773761700",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773767932.9664547,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4385500": {
+        "Title": "HERE AGAIN",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4385500/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4385500/a016ffa690bc3d88312b880c21668219b76c1a7d/header.jpg?t=1773765783",
+        "Date": "Dec 31, 2026",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773767935.7520623,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4419700": {
+        "Title": "TERRORSTORM: Ground Zero",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4419700/",
+        "Site": "https://www.twopillarsgames.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4419700/7da49007aa448c0c0f7c4f0731f9355a7783d5fd/header.jpg?t=1773765188",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773767945.4331207,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4475960": {
+        "Title": "Hold & Advance",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4475960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4475960/b2bd32f0407af621914b53f7a7e9cc089da9f99c/header.jpg?t=1773762974",
+        "Date": "2026",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773767957.2443972,
+        "MatchedTags": [
+            "tower defense",
+            "base building",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4488180": {
+        "Title": "Dark Fantasy Tower Defense",
+        "Email": "",
+        "Discord": "https://discord.gg/fk5DMsBrBG",
+        "URL": "https://store.steampowered.com/app/4488180/",
+        "Site": "https://darkfantasytowerdefense.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4488180/0f45f86d75198208315794b2669efc023277bf13/header.jpg?t=1773767001",
+        "Date": "Apr 20, 2026",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773767962.435612,
+        "MatchedTags": [
+            "tower defense",
+            "strategy"
+        ]
+    },
+    "4501960": {
+        "Title": "HAIGLA",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4501960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4501960/eb6dba62c9f98ac775b1794b523905d039a11900/header.jpg?t=1773766232",
+        "Date": "TBA",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773767972.7701,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4511810": {
+        "Title": "Idle Slot Machine",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4511810/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4511810/1467c7be55112c353bb39bda85f2ef292dcdd0ef/header.jpg?t=1773762886",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773767977.576739,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "resource management"
         ]
     }
 }
