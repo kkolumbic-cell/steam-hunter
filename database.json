@@ -2758,9 +2758,9 @@
         "URL": "https://store.steampowered.com/app/4428790/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4428790/66967b101ae6c30eee025842d6cd033d6b270f05/header.jpg?t=1772805368",
-        "Date": "Mar 17, 2026",
-        "AddedDate": "2026-03-10",
-        "AddedTimestamp": 1773136925.4119809,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773755602.3789914,
         "MatchedTags": [
             "management",
             "economy",
@@ -6578,7 +6578,7 @@
         "Email": "",
         "Discord": "https://discord.gg/d3qxqb5H72",
         "URL": "https://store.steampowered.com/app/4399290/",
-        "Site": "",
+        "Site": "https://greylegend.net/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4399290/df46cf39027cd2e61fa771afa3e739ed46da9855/header.jpg?t=1773333689",
         "Date": "2027",
         "AddedDate": "2026-03-12",
@@ -9031,6 +9031,71 @@
         "MatchedTags": [
             "management",
             "strategy"
+        ]
+    },
+    "4148530": {
+        "Title": "City Transport Simulator 2026",
+        "Email": "",
+        "Discord": "https://discord.com/invite/viewapp-community-1053340211016372285",
+        "URL": "https://store.steampowered.com/app/4148530/",
+        "Site": "https://citytransportsimulator.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4148530/a25e6c79fe2ed7074e15d0fa0c9f61f87c05d6af/header.jpg?t=1773752212",
+        "Date": "Apr 14, 2026",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773755590.5152235,
+        "MatchedTags": [
+            "management",
+            "city builder"
+        ]
+    },
+    "4456720": {
+        "Title": "ColorRandomDefense",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4456720/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4456720/3ddaa3f725359bc16ac1d98ff46012a2df348590/header.jpg?t=1773754558",
+        "Date": "March 2026",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773755613.1512852,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "real time tactics",
+            "tactical"
+        ]
+    },
+    "4463990": {
+        "Title": "Superstore Survival",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4463990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4463990/795f10ada1cb013f3342d5a984fd3058b6c35aa2/header.jpg?t=1773750365",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773755619.245213,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4499090": {
+        "Title": "Mother Of All Battles",
+        "Email": "sean@windowsgames.co.uk",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4499090/",
+        "Site": "https://www.windowsgames.co.uk",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4499090/ff06cf161f5288c8c5e678087acff29448abac82/header.jpg?t=1773748656",
+        "Date": "Mar 20, 2026",
+        "AddedDate": "2026-03-17",
+        "AddedTimestamp": 1773755637.8648503,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "turn-based tactics",
+            "turn-based combat"
         ]
     }
 }
