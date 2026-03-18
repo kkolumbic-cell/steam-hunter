@@ -510,9 +510,9 @@
         "URL": "https://store.steampowered.com/app/4428660/",
         "Site": "https://github.com/jasonbrianhall/cometbusters",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4428660/a21c8920334866de474843835c287458db03a8b6/header.jpg?t=1772640458",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-14",
-        "AddedTimestamp": 1773494124.4586008,
+        "Date": "Mar 18, 2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773861566.1902292,
         "MatchedTags": [
             "strategy"
         ]
@@ -1875,9 +1875,9 @@
         "URL": "https://store.steampowered.com/app/4482880/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4482880/01d0ec3328b08ac1a5fc2192e4ea50ef8f911056/header.jpg?t=1772731385",
-        "Date": "March 2026",
-        "AddedDate": "2026-03-05",
-        "AddedTimestamp": 1772735099.570504,
+        "Date": "Q2 2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773861574.7653947,
         "MatchedTags": [
             "strategy"
         ]
@@ -6047,9 +6047,9 @@
         "URL": "https://store.steampowered.com/app/4502140/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4502140/b88d9e04a015d63fa0f066126556c032a06ba53f/header.jpg?t=1773256389",
-        "Date": "Sep 30, 2026",
-        "AddedDate": "2026-03-11",
-        "AddedTimestamp": 1773258846.6052825,
+        "Date": "September 2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773861599.6503875,
         "MatchedTags": [
             "survival horror"
         ]
@@ -10137,9 +10137,9 @@
         "URL": "https://store.steampowered.com/app/4508840/",
         "Site": "https://sites.google.com/view/redreaperproductions/startsida",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4508840/ecd6c3e75ab0688c55ee5ef10bb23b9271bf7922/header.jpg?t=1773854024",
-        "Date": "TBA",
+        "Date": "Coming soon",
         "AddedDate": "2026-03-18",
-        "AddedTimestamp": 1773854376.597753,
+        "AddedTimestamp": 1773861602.3477151,
         "MatchedTags": [
             "horror"
         ]
@@ -10156,6 +10156,129 @@
         "AddedTimestamp": 1773854379.1838205,
         "MatchedTags": [
             "tower defense"
+        ]
+    },
+    "4274600": {
+        "Title": "Fractal Forge: Sierpinski's Sanctuary",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4274600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4274600/c78e8abfa2d2c94116f9b3ae80f73473e6d658de/header.jpg?t=1773858603",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773861545.205713,
+        "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "4438630": {
+        "Title": "Cubits",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4438630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4438630/8291a5f5bb3decd056203c91c794355f96033147/header.jpg?t=1773860074",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773861570.2370434,
+        "MatchedTags": [
+            "strategy",
+            "base building"
+        ]
+    },
+    "4466370": {
+        "Title": "DRYER DRAMA",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4466370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4466370/5560684f2f1c0185a04a977c0ec8fd281e6e09b1/header.jpg?t=1773854901",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773861572.8436494,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4492730": {
+        "Title": "Keeper - UnCorruptDead",
+        "Email": "",
+        "Discord": "https://discord.gg/Rjm3SfrwQb",
+        "URL": "https://store.steampowered.com/app/4492730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4492730/48b49f3e29d93071d06b1a1f3d9b9549b5668d6e/header.jpg?t=1773855975",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773861588.608401,
+        "MatchedTags": [
+            "strategy",
+            "colony sim",
+            "management",
+            "tower defense",
+            "city builder",
+            "real time tactics"
+        ]
+    },
+    "4498620": {
+        "Title": "Operation: All Out",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4498620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4498620/ef0385ccebbb0207f6c153fa704bbc2a388d4c1e/header.jpg?t=1773859701",
+        "Date": "April 2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773861590.8601658,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4522040": {
+        "Title": "SIGKILL",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4522040/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4522040/353f30a38ba18fa393076c64ce1c9dade91e4927/header.jpg?t=1773855742",
+        "Date": "September 2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773861613.3556058,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4530030": {
+        "Title": "MURINO: The Fog Is Coming",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4530030/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4530030/22bce77cf6c9f23ce95700f0a2758ea7e0b3fa35/header.jpg?t=1773854348",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773861621.8119617,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "economy"
+        ]
+    },
+    "4530520": {
+        "Title": "Hostile Entity",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4530520/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4530520/fc6f597b9e08644a989317fb629a93b29671e76f/header.jpg?t=1773859650",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773861624.1203911,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
