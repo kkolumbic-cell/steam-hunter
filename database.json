@@ -3023,9 +3023,9 @@
         "URL": "https://store.steampowered.com/app/4484570/",
         "Site": "http://adetectivestory.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4484570/9353c56d2d17d9e26dcea41ef444405767f99d9b/header.jpg?t=1772817675",
-        "Date": "March 2026",
-        "AddedDate": "2026-03-06",
-        "AddedTimestamp": 1772819643.7298598,
+        "Date": "To be announced",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773854358.4102588,
         "MatchedTags": [
             "strategy"
         ]
@@ -10082,6 +10082,80 @@
         "MatchedTags": [
             "strategy",
             "psychological horror"
+        ]
+    },
+    "4309040": {
+        "Title": "Barman",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4309040/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4309040/883c3ed1e3200429c7a6bc0c21a2c9d17356db13/header.jpg?t=1773850382",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773854347.0265388,
+        "MatchedTags": [
+            "resource management",
+            "management"
+        ]
+    },
+    "4427770": {
+        "Title": "The Falling Skies",
+        "Email": "",
+        "Discord": "https://discord.gg/xAuJ8jUv5k",
+        "URL": "https://store.steampowered.com/app/4427770/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4427770/2b057bee2ef7e0782d8c5fdd09663dc737a55dd7/header.jpg?t=1773852413",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773854352.9799073,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4500800": {
+        "Title": "Goblins for Good",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4500800/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4500800/1defeb51631aef0c25f7de40c4f09dac81864d81/header.jpg?t=1773854253",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773854367.6923194,
+        "MatchedTags": [
+            "base building",
+            "management",
+            "strategy"
+        ]
+    },
+    "4508840": {
+        "Title": "The Playhouse",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4508840/",
+        "Site": "https://sites.google.com/view/redreaperproductions/startsida",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4508840/ecd6c3e75ab0688c55ee5ef10bb23b9271bf7922/header.jpg?t=1773854024",
+        "Date": "TBA",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773854376.597753,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4514660": {
+        "Title": "Satan's Fall",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4514660/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4514660/80b8b8856f009faa996bce39c07ee79cb41f7d71/header.jpg?t=1773853128",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773854379.1838205,
+        "MatchedTags": [
+            "tower defense"
         ]
     }
 }
