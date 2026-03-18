@@ -789,9 +789,9 @@
         "URL": "https://store.steampowered.com/app/4484740/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484740/076f52186123131d4a3ac5d8148a832609b85522/header.jpg?t=1772660233",
-        "Date": "TBA",
-        "AddedDate": "2026-03-04",
-        "AddedTimestamp": 1772661025.3238907,
+        "Date": "To be announced",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773867490.216719,
         "MatchedTags": [
             "horror"
         ]
@@ -10018,8 +10018,8 @@
         "AddedTimestamp": 1773842199.888518,
         "MatchedTags": [
             "horror",
-            "psychological horror",
-            "survival horror"
+            "survival horror",
+            "psychological horror"
         ]
     },
     "1473960": {
@@ -10279,6 +10279,93 @@
         "AddedTimestamp": 1773861624.1203911,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4438220": {
+        "Title": "My Necromancer's Library",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4438220/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4438220/1eda4b965f8ce4d6d2974743731c94360035ab6d/header.jpg?t=1773866940",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773867480.921355,
+        "MatchedTags": [
+            "management",
+            "turn-based combat"
+        ]
+    },
+    "4469340": {
+        "Title": "Gambling Simulator - Win it All or Lose it All",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4469340/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4469340/f9afaa0f3c5159d3fd21933efa3057b4c727d1b7/header.jpg?t=1773866142",
+        "Date": "April 2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773867485.3829184,
+        "MatchedTags": [
+            "economy",
+            "turn-based tactics"
+        ]
+    },
+    "4515350": {
+        "Title": "Bullets & BlackJack",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4515350/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4515350/53f6a3ac3fe4923e927bd5632c09dd5a961afb9a/header.jpg?t=1773867161",
+        "Date": "TBA",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773867511.6396391,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4518210": {
+        "Title": "Counter Attack On Zombies",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4518210/",
+        "Site": "https://www.tnrgames.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4518210/c2696d61623f7d4b94a870e864bd3ff11bd34359/header.jpg?t=1773862937",
+        "Date": "2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773867516.6766417,
+        "MatchedTags": [
+            "survival horror"
+        ]
+    },
+    "4520010": {
+        "Title": "Chef's Dogma",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4520010/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4520010/0dada70c4c99ee575fc7af1787ed137240620640/header.jpg?t=1773862852",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773867524.782756,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4527930": {
+        "Title": "Idle Deepcore",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4527930/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4527930/59b402a1151b6aa0ceb2a56ee0fdcb7f5ad2f676/header.jpg?t=1773862179",
+        "Date": "Apr 14, 2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773867537.2189474,
+        "MatchedTags": [
+            "grand strategy",
+            "resource management"
         ]
     }
 }
