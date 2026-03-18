@@ -853,9 +853,9 @@
         "URL": "https://store.steampowered.com/app/4478700/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4478700/de668170f209b880252db85ce4cae1ae373776e4/header.jpg?t=1772662637",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-17",
-        "AddedTimestamp": 1773742229.6569717,
+        "Date": "Mar 18, 2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773818365.5817802,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -5119,9 +5119,9 @@
         "URL": "https://store.steampowered.com/app/4415740/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4415740/94ee8d6872fd1fe69231c1c41c023395614d66c9/header.jpg?t=1773163633",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-03-10",
-        "AddedTimestamp": 1773165764.904696,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773818355.9080706,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -5614,6 +5614,7 @@
         "AddedTimestamp": 1773226943.1937997,
         "MatchedTags": [
             "tower defense",
+            "base building",
             "strategy"
         ]
     },
@@ -6443,7 +6444,7 @@
     "4205470": {
         "Title": "Nearborn",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/gKyC38Scvd",
         "URL": "https://store.steampowered.com/app/4205470/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4205470/0b51be2b8f2e59fa0db995602252408483288f3f/header.jpg?t=1773318037",
@@ -9754,6 +9755,36 @@
             "base building",
             "resource management",
             "real time tactics"
+        ]
+    },
+    "3548810": {
+        "Title": "Ritual Tides",
+        "Email": "",
+        "Discord": "https://discord.gg/ritualtides",
+        "URL": "https://store.steampowered.com/app/3548810/",
+        "Site": "https://www.ritualtides.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3548810/992080dbf1b2f94bdc5ae1b2705d5f2b53923aa6/header.jpg?t=1773815852",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773818348.2650213,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4488780": {
+        "Title": "Heave-Ho: Uphill",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4488780/",
+        "Site": "https://nerdneststudio.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4488780/15fe9fd05aa927119e71c0a762cfaf8fccb68dbb/header.jpg?t=1773816098",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773818373.6819098,
+        "MatchedTags": [
+            "psychological horror"
         ]
     }
 }
