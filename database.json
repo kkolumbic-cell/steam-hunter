@@ -4918,9 +4918,10 @@
         "AddedDate": "2026-03-16",
         "AddedTimestamp": 1773652531.4019287,
         "MatchedTags": [
-            "resource management",
             "horror",
-            "survival horror"
+            "psychological horror",
+            "survival horror",
+            "resource management"
         ]
     },
     "4272270": {
@@ -8990,7 +8991,7 @@
     "4390280": {
         "Title": "Steel Command",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/jEG2S9tJ",
         "URL": "https://store.steampowered.com/app/4390280/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4390280/c6da85341ac61290f33bc85d77f4afef4a59b082/header.jpg?t=1773747348",
@@ -9868,12 +9869,156 @@
         "URL": "https://store.steampowered.com/app/4396440/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4396440/ed1906f54404f47a86729ef04efb5c0f68c9e90c/header.jpg?t=1773833518",
-        "Date": "TBA",
+        "Date": "Coming soon",
         "AddedDate": "2026-03-18",
-        "AddedTimestamp": 1773835277.3221903,
+        "AddedTimestamp": 1773842158.2946484,
         "MatchedTags": [
             "psychological horror",
             "horror",
+            "survival horror"
+        ]
+    },
+    "3785650": {
+        "Title": "Cheat Line",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3785650/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3785650/86a1112a4f697cadb766c63c690353a11b321854/header.jpg?t=1773839052",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773842141.1517487,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg"
+        ]
+    },
+    "3979590": {
+        "Title": "Beerhouse Simulator",
+        "Email": "",
+        "Discord": "https://discord.gg/TbZCnWSBtw",
+        "URL": "https://store.steampowered.com/app/3979590/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3979590/9dcb98542a614baed4c968ed082e48847a7bfd2b/header.jpg?t=1773840987",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773842144.2734532,
+        "MatchedTags": [
+            "economy",
+            "resource management"
+        ]
+    },
+    "4140700": {
+        "Title": "Cash is King!",
+        "Email": "",
+        "Discord": "https://discord.gg/WpxwA9B8G3",
+        "URL": "https://store.steampowered.com/app/4140700/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4140700/2ee064cfb6ab0b0ad29829c1c15d58bb4e96a029/header.jpg?t=1773841544",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773842147.137325,
+        "MatchedTags": [
+            "management",
+            "economy"
+        ]
+    },
+    "4210580": {
+        "Title": "Ore Factory Squad",
+        "Email": "",
+        "Discord": "https://discord.gg/RydUEYCbC9",
+        "URL": "https://store.steampowered.com/app/4210580/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210580/b92a9a6a416073d67cce44596e5c51fa2c24d3ae/header.jpg?t=1773840526",
+        "Date": "2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773842150.3073297,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "base building",
+            "resource management",
+            "colony sim"
+        ]
+    },
+    "4446010": {
+        "Title": "The First Million",
+        "Email": "",
+        "Discord": "https://discord.gg/YWwXW3KP9v",
+        "URL": "https://store.steampowered.com/app/4446010/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446010/ec8e9f97b463f68513796c48e3a283474fd93fc9/header.jpg?t=1773840796",
+        "Date": "Sep 30, 2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773842168.0874002,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "management",
+            "economy"
+        ]
+    },
+    "4514090": {
+        "Title": "PSYCHOBYL",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4514090/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4514090/ca18c0e5caeb8b0e0083f499104bbdab564c7bd1/header.jpg?t=1773838753",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773842185.9928336,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4516130": {
+        "Title": "Second Chance at a Billion",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4516130/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516130/3acd201b2d1a50c0a9f6b0a96d7353ef5befbd8e/header.jpg?t=1773839688",
+        "Date": "May 2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773842191.7140265,
+        "MatchedTags": [
+            "economy",
+            "strategy",
+            "resource management",
+            "turn-based strategy"
+        ]
+    },
+    "4516770": {
+        "Title": "Bloody Moon - First Fear",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4516770/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516770/714254fa61eded26c6da512a4e20c38b0777cc75/header.jpg?t=1773839700",
+        "Date": "Q2 2028",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773842193.6194344,
+        "MatchedTags": [
+            "psychological horror",
+            "survival horror",
+            "horror"
+        ]
+    },
+    "4521620": {
+        "Title": "Deceptive Shadows: Final Case",
+        "Email": "queendeveloper95@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4521620/",
+        "Site": "https://queendeveloper.net",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4521620/a3f4b95bc59cc59f42b7d9934e1601375c3e45c7/header.jpg?t=1773840137",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773842199.888518,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
             "survival horror"
         ]
     }
