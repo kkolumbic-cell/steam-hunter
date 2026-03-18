@@ -760,9 +760,9 @@
         "URL": "https://store.steampowered.com/app/4438500/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4438500/c3056a556b6aae0574019ebddf55a1388a86f226/header.jpg?t=1772655693",
-        "Date": "March 2026",
-        "AddedDate": "2026-03-12",
-        "AddedTimestamp": 1773322664.1345866,
+        "Date": "Mar 18, 2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773848782.3351793,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -2892,7 +2892,7 @@
     "4456220": {
         "Title": "AnUncommonWinter",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/P9Qn2mACCv",
         "URL": "https://store.steampowered.com/app/4456220/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4456220/1f1f661d1d32780fb1e4134df04e6ec2cf4d0e1f/header.jpg?t=1772810697",
@@ -9352,9 +9352,9 @@
         "AddedTimestamp": 1773781090.592642,
         "MatchedTags": [
             "strategy",
-            "management",
-            "economy",
             "resource management",
+            "economy",
+            "management",
             "grand strategy",
             "real time tactics"
         ]
@@ -9948,9 +9948,9 @@
         "URL": "https://store.steampowered.com/app/4446010/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446010/ec8e9f97b463f68513796c48e3a283474fd93fc9/header.jpg?t=1773840796",
-        "Date": "Sep 30, 2026",
+        "Date": "Q3 2026",
         "AddedDate": "2026-03-18",
-        "AddedTimestamp": 1773842168.0874002,
+        "AddedTimestamp": 1773848788.2650115,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -10020,6 +10020,68 @@
             "horror",
             "psychological horror",
             "survival horror"
+        ]
+    },
+    "1473960": {
+        "Title": "Wreck Runners",
+        "Email": "",
+        "Discord": "https://discord.gg/BDbc3WRQJd",
+        "URL": "https://store.steampowered.com/app/1473960/",
+        "Site": "https://www.wreckrunners.gg",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1473960/4b6200dca4fccc688f91abbb5e831b07e21098e8/header.jpg?t=1773847039",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773848748.263571,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4081200": {
+        "Title": "Chessman Adventures",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4081200/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4081200/a5936f6eecff9034e0f022b7ee7a92cf0fbbf671/header.jpg?t=1773846922",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773848763.0371742,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "tactical"
+        ]
+    },
+    "4485120": {
+        "Title": "NorthHold",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4485120/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4485120/36f47fec9dab998a8da7fbcf3d3d1a8df53c1971/header.jpg?t=1773843843",
+        "Date": "2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773848799.2023401,
+        "MatchedTags": [
+            "strategy",
+            "colony sim",
+            "resource management",
+            "city builder"
+        ]
+    },
+    "4486330": {
+        "Title": "Nothing Remarkable Today",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4486330/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486330/e78b06aea1249c08ee811e7245723b5ca1950482/header.jpg?t=1773842710",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773848804.279681,
+        "MatchedTags": [
+            "strategy",
+            "psychological horror"
         ]
     }
 }
