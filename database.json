@@ -914,9 +914,9 @@
         "URL": "https://store.steampowered.com/app/1839500/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1839500/3d8eba8623153d29f6dada0cc2ee5c8faee24cca/header.jpg?t=1772668963",
-        "Date": "March 2026",
-        "AddedDate": "2026-03-05",
-        "AddedTimestamp": 1772680213.2325625,
+        "Date": "Mar 18, 2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773877475.7587156,
         "MatchedTags": [
             "strategy",
             "tactical rpg",
@@ -10446,6 +10446,51 @@
         "AddedTimestamp": 1773874204.3497095,
         "MatchedTags": [
             "horror",
+            "psychological horror"
+        ]
+    },
+    "4389770": {
+        "Title": "Last Dawn: Helios",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4389770/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4389770/e2091dc056056f24f4f4053dd62c69089f4990b1/header.jpg?t=1773877290",
+        "Date": "2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773877487.3100069,
+        "MatchedTags": [
+            "tower defense",
+            "base building"
+        ]
+    },
+    "4513270": {
+        "Title": "Myth-OS",
+        "Email": "",
+        "Discord": "https://discord.gg/XcvVapH9KC",
+        "URL": "https://store.steampowered.com/app/4513270/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4513270/64b2da07ee98c2ad5a6798d931e1d814dc225d31/header.jpg?t=1773874726",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773877509.0701256,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "tactical rpg"
+        ]
+    },
+    "4523310": {
+        "Title": "Megalophobia",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4523310/",
+        "Site": "https://linktr.ee/Kosmos_Studio",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4523310/702a3a811dbad3f3e0e41cad4eb622ba2bedee16/header.jpg?t=1773877322",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773877511.3114371,
+        "MatchedTags": [
             "psychological horror"
         ]
     }
