@@ -9132,9 +9132,9 @@
         "URL": "https://store.steampowered.com/app/4471030/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4471030/c9ff920e925d4ca241bc5248d06233dd815248be/header.jpg?t=1773759890",
-        "Date": "April 2026",
-        "AddedDate": "2026-03-17",
-        "AddedTimestamp": 1773760785.107382,
+        "Date": "May 2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773804136.1883154,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -9582,6 +9582,129 @@
         "MatchedTags": [
             "strategy",
             "tactical"
+        ]
+    },
+    "4317220": {
+        "Title": "Hundred Nights: DIFU",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4317220/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4317220/5d29ee90f6eb70789383df561a79dbb6659acc3c/header.jpg?t=1773798680",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773804120.924715,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "management"
+        ]
+    },
+    "4451190": {
+        "Title": "Thou Shalt Be Rich",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4451190/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4451190/09e026eebfd28fafc3ff9193fc69c6f90b24aa1c/header.jpg?t=1773798862",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773804130.8956528,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management",
+            "turn-based strategy",
+            "resource management"
+        ]
+    },
+    "4463170": {
+        "Title": "The Evaluation",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4463170/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4463170/b7ad130921f7bafe8ae325d97523fbad1d85a1a6/header.jpg?t=1773792451",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773804134.2042096,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4498860": {
+        "Title": "The Last Survivor",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4498860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4498860/6e3503a8fcd54eb1f7170bf3b321c73caa3fd761/header.jpg?t=1773795052",
+        "Date": "March 2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773804148.4148293,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4517630": {
+        "Title": "Hero and Monster",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4517630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4517630/97b374b97aaa1bd0efe90a5c146471ebbc37d77f/header.jpg?t=1773802176",
+        "Date": "TBA",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773804162.2262824,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4523530": {
+        "Title": "Will or Water",
+        "Email": "",
+        "Discord": "https://discord.gg/2UTGuHQfcH",
+        "URL": "https://store.steampowered.com/app/4523530/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4523530/4e525ab55d711a8721640a7fb2c3c29dd78f902f/header.jpg?t=1773796866",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773804169.9062593,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4523810": {
+        "Title": "Super Loot Runner",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4523810/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4523810/c5cebcb7a7670d0f63614ae0f6c4100b3b93a596/header.jpg?t=1773798722",
+        "Date": "April 2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773804172.2678773,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4526420": {
+        "Title": "Amarta: Kingdom of Shadows",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4526420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4526420/4a9dc15a706dc8f4119cfa102b0618a035c27bee/header.jpg?t=1773803428",
+        "Date": "2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773804175.2458284,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "base building",
+            "city builder",
+            "resource management"
         ]
     }
 }
