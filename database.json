@@ -10318,9 +10318,9 @@
         "URL": "https://store.steampowered.com/app/4515350/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4515350/53f6a3ac3fe4923e927bd5632c09dd5a961afb9a/header.jpg?t=1773867161",
-        "Date": "TBA",
+        "Date": "To be announced",
         "AddedDate": "2026-03-18",
-        "AddedTimestamp": 1773867511.6396391,
+        "AddedTimestamp": 1773874201.2573638,
         "MatchedTags": [
             "strategy"
         ]
@@ -10366,6 +10366,87 @@
         "MatchedTags": [
             "grand strategy",
             "resource management"
+        ]
+    },
+    "3482810": {
+        "Title": "Tiny Troops",
+        "Email": "",
+        "Discord": "https://discord.gg/VNDHHmxwJZ",
+        "URL": "https://store.steampowered.com/app/3482810/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3482810/15ce43d22edcd9784dd40776fa96e70d1b9b7c4d/header.jpg?t=1773871247",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773874172.0142407,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "base building",
+            "city builder",
+            "tactical"
+        ]
+    },
+    "4249000": {
+        "Title": "Stellar Freight: Endless Horizon",
+        "Email": "",
+        "Discord": "https://discord.gg/BjkVby833R",
+        "URL": "https://store.steampowered.com/app/4249000/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4249000/0940474aadce059d8b4aff20af7f3066726d0663/header.jpg?t=1773873782",
+        "Date": "2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773874174.1601713,
+        "MatchedTags": [
+            "management",
+            "turn-based combat",
+            "strategy"
+        ]
+    },
+    "4428630": {
+        "Title": "My Fire Is Bigger Than Yours",
+        "Email": "",
+        "Discord": "https://discord.gg/ybtGQ75dhb",
+        "URL": "https://store.steampowered.com/app/4428630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4428630/ae9d1bd00bb1a02eb7c39e2bf5727842f30c08d4/header.jpg?t=1773872213",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773874180.5526824,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4493200": {
+        "Title": "Head Office",
+        "Email": "contact@dumbbellgames.com, hello@dumbbellgames.com",
+        "Discord": "https://discord.gg/rjGETAhs6B",
+        "URL": "https://store.steampowered.com/app/4493200/",
+        "Site": "http://www.dumbbellgames.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4493200/3ab5673edbd3a3fdae918754cdb1a415886e3caf/header.jpg?t=1773871838",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773874190.0673075,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "horror",
+            "psychological horror",
+            "strategy"
+        ]
+    },
+    "4516880": {
+        "Title": "Unusual Tales: After Bark",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4516880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4516880/1a00f0306b6506b19b27984a971f266af2e3f6c5/header.jpg?t=1773871057",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-18",
+        "AddedTimestamp": 1773874204.3497095,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
