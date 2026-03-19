@@ -6200,7 +6200,7 @@
     "4505500": {
         "Title": "MergePiece: Merge pixels into masterpieces",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/vRWF86vp",
         "URL": "https://store.steampowered.com/app/4505500/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4505500/32912d5a9cdcb485cad1fece43a76b5c58646321/header.jpg?t=1773279238",
@@ -10492,6 +10492,67 @@
         "AddedTimestamp": 1773877511.3114371,
         "MatchedTags": [
             "psychological horror"
+        ]
+    },
+    "4485350": {
+        "Title": "Deunocta",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4485350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4485350/31e812a1ea1c3df8fa47c90c868f4f0c3f1bbf62/header.jpg?t=1773890192",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773890576.448793,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4499650": {
+        "Title": "Seven Relics",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4499650/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4499650/29afb40a068e7a08157b8f0ea998c786fe3ed833/header.jpg?t=1773890001",
+        "Date": "2026",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773890587.3302243,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "tower defense",
+            "turn-based combat"
+        ]
+    },
+    "4526920": {
+        "Title": "Space Commanders: Solar System",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4526920/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4526920/354698126c0c434b53b65bf30f7f01396c8b17e4/header.jpg?t=1773877969",
+        "Date": "Mar 31, 2026",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773890607.52794,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "4528240": {
+        "Title": "\u6697\u9ed1\u6218\u795e",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4528240/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4528240/2cefda1c3c1f831ef1cf7631934ac38a19e151e7/header.jpg?t=1773886545",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773890613.370433,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "tactical"
         ]
     }
 }
