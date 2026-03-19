@@ -6847,9 +6847,9 @@
         "URL": "https://store.steampowered.com/app/4510580/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4510580/bb5788673d7df92e9b73e764d15f1081586f4465/header.jpg?t=1773353471",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-12",
-        "AddedTimestamp": 1773355611.5505402,
+        "Date": "Apr 9, 2026",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773932886.1239169,
         "MatchedTags": [
             "resource management"
         ]
@@ -10895,6 +10895,35 @@
             "tower defense",
             "real time tactics",
             "tactical"
+        ]
+    },
+    "3352910": {
+        "Title": "Fine Dying",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3352910/",
+        "Site": "https://roomgames.co/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3352910/f88e10836fe67353088e7cf7249bd6061e2b9318/header.jpg?t=1773930986",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773932871.2926285,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4516550": {
+        "Title": "112 Meters",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4516550/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4516550/c0f32ea06186ae71502046da9b646e6f38b6a52c/header.jpg?t=1773930798",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773932891.550453,
+        "MatchedTags": [
+            "survival horror"
         ]
     }
 }
