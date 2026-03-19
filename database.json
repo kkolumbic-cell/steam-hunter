@@ -1904,9 +1904,9 @@
         "URL": "https://store.steampowered.com/app/4488520/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4488520/f8e4d861a3a61479e172c657b7da2a00ea67f42b/header.jpg?t=1772734723",
-        "Date": "Mar 17, 2026",
-        "AddedDate": "2026-03-05",
-        "AddedTimestamp": 1772735116.5006838,
+        "Date": "Mar 19, 2026",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773927818.9127028,
         "MatchedTags": [
             "horror"
         ]
@@ -10862,6 +10862,39 @@
             "tower defense",
             "economy",
             "management"
+        ]
+    },
+    "4356900": {
+        "Title": "I Like to Dig",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4356900/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356900/43bf73082fa7cca3d79f05fb2965e5a5c52c32c8/header.jpg?t=1773925418",
+        "Date": "Apr 1, 2026",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773927811.2765198,
+        "MatchedTags": [
+            "base building",
+            "tactical",
+            "survival horror"
+        ]
+    },
+    "4506190": {
+        "Title": "CastleArena",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4506190/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4506190/5a15319a3abb1e2f37570982db591a8daff1127c/header.jpg?t=1773925585",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773927823.4559743,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "real time tactics",
+            "tactical"
         ]
     }
 }
