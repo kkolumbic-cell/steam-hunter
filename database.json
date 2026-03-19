@@ -8656,9 +8656,9 @@
         "URL": "https://store.steampowered.com/app/4462570/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4462570/9ad605d8842d57f40be43646401d0ffdc5c15548/header.jpg?t=1773695538",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-16",
-        "AddedTimestamp": 1773698164.842749,
+        "Date": "March 2026",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773947797.0514135,
         "MatchedTags": [
             "survival horror",
             "horror",
@@ -11012,6 +11012,67 @@
             "base building",
             "colony sim",
             "resource management"
+        ]
+    },
+    "3323620": {
+        "Title": "By Any Means",
+        "Email": "",
+        "Discord": "https://discord.gg/uzT7fGkJXj",
+        "URL": "https://store.steampowered.com/app/3323620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3323620/06a44e2ef7234024a6b170dc935159622569211c/header.jpg?t=1773945978",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773947773.620515,
+        "MatchedTags": [
+            "tactical",
+            "strategy"
+        ]
+    },
+    "4388820": {
+        "Title": "Hexart City",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4388820/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4388820/51897e317164e4322090122f3e19acf1430d5e44/header.jpg?t=1773942418",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773947788.5194407,
+        "MatchedTags": [
+            "city builder",
+            "strategy"
+        ]
+    },
+    "4446640": {
+        "Title": "Trading Tycoon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4446640/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4446640/7f7de72632ffe2c8295df55bb45963b23139db20/header.jpg?t=1773945331",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773947794.6175442,
+        "MatchedTags": [
+            "economy",
+            "grand strategy"
+        ]
+    },
+    "4513530": {
+        "Title": "Dino Desolation",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4513530/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4513530/c2baf38931463d64893bdfbf884f86cbbf9a2027/header.jpg?t=1773945518",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773947815.3771644,
+        "MatchedTags": [
+            "horror",
+            "tactical",
+            "survival horror"
         ]
     }
 }
