@@ -92,12 +92,13 @@
         "URL": "https://store.steampowered.com/app/4486290/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4486290/9711b2e8d3940ae41098f24e32ed41308eaae09f/header.jpg?t=1772597337",
-        "Date": "Mar 19, 2026",
-        "AddedDate": "2026-03-04",
+        "Date": "Mar 18, 2026",
+        "AddedDate": "2026-03-19",
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
-        ]
+        ],
+        "AddedTimestamp": 1773904617.6235883
     },
     "4299040": {
         "Title": "Square Force",
@@ -2317,9 +2318,9 @@
         "URL": "https://store.steampowered.com/app/4498870/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4498870/ea34ad27ebbf448fddea528f9581b4f1eb008da4/header.jpg?t=1772768293",
-        "Date": "March 2026",
-        "AddedDate": "2026-03-06",
-        "AddedTimestamp": 1772772800.63104,
+        "Date": "Mar 19, 2026",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773904622.4455323,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -9589,7 +9590,7 @@
     "4317220": {
         "Title": "Hundred Nights: DIFU",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/BptRQfenU8",
         "URL": "https://store.steampowered.com/app/4317220/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4317220/5d29ee90f6eb70789383df561a79dbb6659acc3c/header.jpg?t=1773798680",
@@ -10614,6 +10615,63 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4200910": {
+        "Title": "COREDUMP: \u53e3\u53e3\u53e3\u53e3",
+        "Email": "",
+        "Discord": "https://discord.gg/Zh3GT3W5",
+        "URL": "https://store.steampowered.com/app/4200910/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4200910/7c88d4d38529406e6d9298655d96cfe9c0f4226c/header.jpg?t=1773901605",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773904591.1610498,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4370930": {
+        "Title": "Harvestville: Song of the Ancestress",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4370930/",
+        "Site": "https://harvestudios.com/#our-team",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4370930/8c75e70e522033f314d194bf0be32897d80c063a/header.jpg?t=1773901194",
+        "Date": "2026",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773904604.279237,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4513950": {
+        "Title": "phase knight",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4513950/",
+        "Site": "http://www.opentouch.xyz/support.html",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4513950/dfc039c564d7159b4f05cab723bb0494f74099a6/header.jpg?t=1773903456",
+        "Date": "March 2026",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773904631.1711967,
+        "MatchedTags": [
+            "turn-based tactics"
+        ]
+    },
+    "4528430": {
+        "Title": "Gloamroot",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4528430/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4528430/d1c03bb364ad80093f0273bb5aa88feeea31a0bc/header.jpg?t=1773900227",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773904634.4657428,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
