@@ -8235,9 +8235,9 @@
         "URL": "https://store.steampowered.com/app/4449620/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4449620/37e671b2eca9e74b258f946ae9335f409e83815e/header.jpg?t=1773666360",
-        "Date": "TBA",
-        "AddedDate": "2026-03-16",
-        "AddedTimestamp": 1773669396.7856283,
+        "Date": "To be announced",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773898755.7274287,
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
@@ -10553,6 +10553,67 @@
             "strategy",
             "tower defense",
             "tactical"
+        ]
+    },
+    "4213880": {
+        "Title": "High Pleasure Mall",
+        "Email": "",
+        "Discord": "https://discord.gg/8pvzJXtpUx",
+        "URL": "https://store.steampowered.com/app/4213880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4213880/5275b35d075331f0b9b9e0f5540432f01484797f/header.jpg?t=1773898600",
+        "Date": "2026",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773898739.2207994,
+        "MatchedTags": [
+            "psychological horror",
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4310190": {
+        "Title": "Keyboard Warriors",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4310190/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4310190/b5aafd4badb44af8279d1ca0c8ef0802b9642b57/header.jpg?t=1773894671",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773898743.1665668,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4430660": {
+        "Title": "Thrill Seeker",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4430660/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4430660/15b6ce1cbcf99d19c5b371f7f45cc3d7966921c3/header.jpg?t=1773898041",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773898751.9604485,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "4513730": {
+        "Title": "Unsettled : NIGHT SHIFT",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4513730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4513730/a2a908a0514a3b57326d01dafbf37cefc36caf1e/header.jpg?t=1773896775",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773898769.7282233,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
