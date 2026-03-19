@@ -776,9 +776,9 @@
         "URL": "https://store.steampowered.com/app/4466610/",
         "Site": "https://mysteryos.app",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4466610/16e20d8616e57e11edebf52d7476e0c55adbe846/header.jpg?t=1772659245",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-04",
-        "AddedTimestamp": 1772661017.9391983,
+        "Date": "Mar 19, 2026",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773911022.6302104,
         "MatchedTags": [
             "strategy"
         ]
@@ -10672,6 +10672,114 @@
         "AddedTimestamp": 1773904634.4657428,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "2393970": {
+        "Title": "Human Host",
+        "Email": "",
+        "Discord": "https://discord.gg/erbPUaAXtZ",
+        "URL": "https://store.steampowered.com/app/2393970/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2393970/39a5aa4877d44608f8e080f31cfa21a16678fa0d/header.jpg?t=1773904635",
+        "Date": "Apr 3, 2026",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773910998.4549081,
+        "MatchedTags": [
+            "tower defense",
+            "survival horror"
+        ]
+    },
+    "4298700": {
+        "Title": "Escape By Spoon",
+        "Email": "contact@paibandstudio.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4298700/",
+        "Site": "https://paibandstudio.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4298700/6b86c679d3b53c9df1acdd0567e9e8d51c596d5a/header.jpg?t=1773910652",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773911011.9546137,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4467620": {
+        "Title": "The Pirate: Republic of Nassau",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4467620/",
+        "Site": "https://www.homenetgames.com/the-pirate-republic-of-nassau/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4467620/f69f02965fb241d457054a32bff29cfe91556959/header.jpg?t=1773909251",
+        "Date": "April 2026",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773911026.879835,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4475430": {
+        "Title": "\u56db\u53f7\u5bf9\u8c61 Object 4",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4475430/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4475430/6861f75daca764e9604c9d8126950d678d909a34/header.jpg?t=1773905705",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773911029.9648674,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4503530": {
+        "Title": "Dream Corp \u68a6\u60f3\u516c\u53f8",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4503530/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4503530/845e921a51b9bf84e0818f916e5d25376eb47079/header.jpg?t=1773904820",
+        "Date": "May 19, 2026",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773911032.4933567,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management",
+            "city builder"
+        ]
+    },
+    "4507390": {
+        "Title": "\u8ba9\u4f60\u5148\u8dd140\u7c73",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4507390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4507390/9b55e5e390433b71bc9b5f4106e214577d311547/header.jpg?t=1773906128",
+        "Date": "April 2026",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773911035.1418273,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "tactical rpg",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4526080": {
+        "Title": "Kukata: Word of Ghosts",
+        "Email": "",
+        "Discord": "https://discord.gg/Nz9YsFsAtz",
+        "URL": "https://store.steampowered.com/app/4526080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4526080/deda6b2dad9dbbee1a69f5d139683749aec4e2e0/header.jpg?t=1773907521",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-19",
+        "AddedTimestamp": 1773911053.7707431,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
