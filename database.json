@@ -1131,9 +1131,9 @@
         "URL": "https://store.steampowered.com/app/4486360/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4486360/f82b47939271efc4d2a5e3690fdd6e441def2315/header.jpg?t=1772694360",
-        "Date": "Mar 20, 2026",
-        "AddedDate": "2026-03-05",
-        "AddedTimestamp": 1772694724.1602025,
+        "Date": "March 2026",
+        "AddedDate": "2026-03-20",
+        "AddedTimestamp": 1773990922.2690086,
         "MatchedTags": [
             "strategy",
             "horror",
@@ -11439,6 +11439,20 @@
         "MatchedTags": [
             "tactical rpg",
             "base building"
+        ]
+    },
+    "3218070": {
+        "Title": "Project JS",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3218070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3218070/fac802a8cdee86a04703bee66e14be84cadec9fb/header.jpg?t=1773988351",
+        "Date": "Q4 2027",
+        "AddedDate": "2026-03-20",
+        "AddedTimestamp": 1773990896.6856134,
+        "MatchedTags": [
+            "psychological horror"
         ]
     }
 }
