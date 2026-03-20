@@ -7938,10 +7938,10 @@
     },
     "4514120": {
         "Title": "Scenic",
-        "Email": "",
+        "Email": "dongchascript@gmail.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4514120/",
-        "Site": "",
+        "Site": "https://inbluegames.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4514120/5223d7cccaff43d0ab41bf3c4788619628990cd7/header.jpg?t=1773552634",
         "Date": "To be announced",
         "AddedDate": "2026-03-15",
@@ -11482,6 +11482,48 @@
             "management",
             "economy",
             "resource management"
+        ]
+    },
+    "4391590": {
+        "Title": "BLOOD MALL: RETAPED",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4391590/",
+        "Site": "https://www.dosmangames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4391590/aa720573f0bf019ed3d96bc6dd946625d352dc36/header.jpg?t=1774004778",
+        "Date": "Apr 22, 2026",
+        "AddedDate": "2026-03-20",
+        "AddedTimestamp": 1774007209.3962,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4392130": {
+        "Title": "Homonculus",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4392130/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4392130/f03a4d9979b5b5898842991288284b36467c5533/header.jpg?t=1774004394",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-20",
+        "AddedTimestamp": 1774007212.3455331,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4499100": {
+        "Title": "Shadown",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4499100/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4499100/0388871ffefae95e61e1e9d71831a9ba458abd50/header.jpg?t=1774007074",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-03-20",
+        "AddedTimestamp": 1774007220.3656435,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
