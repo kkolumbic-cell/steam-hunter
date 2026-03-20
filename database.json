@@ -3458,9 +3458,9 @@
         "URL": "https://store.steampowered.com/app/4500830/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4500830/96fb8350b0da2e87870944b9a9485c5cc239d9a2/header.jpg?t=1772851063",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-07",
-        "AddedTimestamp": 1772851554.3776922,
+        "Date": "March 2026",
+        "AddedDate": "2026-03-20",
+        "AddedTimestamp": 1774039855.8447866,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -11723,6 +11723,39 @@
         "AddedTimestamp": 1774036219.784979,
         "MatchedTags": [
             "turn-based tactics",
+            "strategy"
+        ]
+    },
+    "4442890": {
+        "Title": "Line Go Up",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4442890/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4442890/501df22a86e551a4ac9d6878991c06b1507c9123/header.jpg?t=1774039609",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-20",
+        "AddedTimestamp": 1774039852.6255455,
+        "MatchedTags": [
+            "economy",
+            "turn-based strategy",
+            "strategy"
+        ]
+    },
+    "4530690": {
+        "Title": "Depleted",
+        "Email": "",
+        "Discord": "https://discord.gg/rGzcHhdPZA",
+        "URL": "https://store.steampowered.com/app/4530690/",
+        "Site": "https://playdepleted.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4530690/50b7cae9795387e5d3bdc4dd616e6c90bc62fc74/header.jpg?t=1774036319",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-20",
+        "AddedTimestamp": 1774039863.0493565,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror",
             "strategy"
         ]
     }
