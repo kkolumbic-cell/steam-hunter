@@ -11609,5 +11609,49 @@
             "base building",
             "resource management"
         ]
+    },
+    "3711770": {
+        "Title": "Trabacolo",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3711770/",
+        "Site": "https://trabacolo.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3711770/c4acc3eeee7d5518b23d73fe59385cbb53b696f5/header.jpg?t=1774028246",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-20",
+        "AddedTimestamp": 1774029253.6539495,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4406930": {
+        "Title": "Oh Apollo!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4406930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4406930/134c3c2c0b5abb8dfb9f72409a450cfc0275c1f2/header.jpg?t=1774026775",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-20",
+        "AddedTimestamp": 1774029262.6502922,
+        "MatchedTags": [
+            "management",
+            "strategy"
+        ]
+    },
+    "4531090": {
+        "Title": "Hexa Vanguard",
+        "Email": "",
+        "Discord": "https://discord.gg/DutEjXeRFz",
+        "URL": "https://store.steampowered.com/app/4531090/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4531090/fe6e257bd047e430d62bc4621a30fc50dc4e9e68/header.jpg?t=1774027786",
+        "Date": "Apr 30, 2026",
+        "AddedDate": "2026-03-20",
+        "AddedTimestamp": 1774029275.9430072,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg"
+        ]
     }
 }
