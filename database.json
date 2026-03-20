@@ -5606,7 +5606,7 @@
     "4418500": {
         "Title": "Fangstorm",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/TKgaPyWhBM",
         "URL": "https://store.steampowered.com/app/4418500/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4418500/ef3200956c3a62992453b035bc97c87e45923be7/header.jpg?t=1773225848",
@@ -9055,9 +9055,9 @@
         "URL": "https://store.steampowered.com/app/4456720/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4456720/3ddaa3f725359bc16ac1d98ff46012a2df348590/header.jpg?t=1773754558",
-        "Date": "March 2026",
-        "AddedDate": "2026-03-17",
-        "AddedTimestamp": 1773755613.1512852,
+        "Date": "Q1 2026",
+        "AddedDate": "2026-03-20",
+        "AddedTimestamp": 1774013763.7672696,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -11524,6 +11524,37 @@
         "AddedTimestamp": 1774007220.3656435,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4042450": {
+        "Title": "Street Life: It\u2019s Mine Now!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4042450/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4042450/2543a40683c55b4ab36bd2c63e5480d6e011bd1e/header.jpg?t=1774009024",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-20",
+        "AddedTimestamp": 1774013733.6774333,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "4525520": {
+        "Title": "Jarred Defense",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4525520/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4525520/bd5e8a288cd8b7ff4a7a98bf02a7d276797efd2b/header.jpg?t=1774013065",
+        "Date": "2026",
+        "AddedDate": "2026-03-20",
+        "AddedTimestamp": 1774013779.4050643,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "tactical",
+            "base building"
         ]
     }
 }
