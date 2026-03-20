@@ -525,9 +525,9 @@
         "URL": "https://store.steampowered.com/app/4468180/",
         "Site": "https://b8ve.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4468180/b96a00d8440cb5a61ee44637363d72a2f2cd0295/header.jpg?t=1772642234",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-04",
-        "AddedTimestamp": 1772643862.901192,
+        "Date": "Mar 20, 2026",
+        "AddedDate": "2026-03-20",
+        "AddedTimestamp": 1774046965.6685472,
         "MatchedTags": [
             "city builder",
             "colony sim",
@@ -11786,6 +11786,34 @@
         "MatchedTags": [
             "strategy",
             "turn-based combat"
+        ]
+    },
+    "4165240": {
+        "Title": "I AM COFFEEE!",
+        "Email": "",
+        "Discord": "https://discord.gg/Cp5bCgbZKt",
+        "URL": "https://store.steampowered.com/app/4165240/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4165240/8251ebe522073700e0c8463737de6066ce251561/header.jpg?t=1774044057",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-20",
+        "AddedTimestamp": 1774046958.0914686,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4398560": {
+        "Title": "ConSent - Stolen Dreams",
+        "Email": "",
+        "Discord": "https://discord.gg/HfaTSugGjr",
+        "URL": "https://store.steampowered.com/app/4398560/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4398560/22c656e495873dcd2e7bf97e270495b8cac5342b/header.jpg?t=1774043687",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-20",
+        "AddedTimestamp": 1774046963.687896,
+        "MatchedTags": [
+            "resource management"
         ]
     }
 }
