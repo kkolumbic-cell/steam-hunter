@@ -745,9 +745,9 @@
         "URL": "https://store.steampowered.com/app/4304880/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4304880/877b5fafc7ee5750a6e5a812859efb4bbf1ff344/header.jpg?t=1772654582",
-        "Date": "July 2026",
-        "AddedDate": "2026-03-04",
-        "AddedTimestamp": 1772657387.4367523,
+        "Date": "To be announced",
+        "AddedDate": "2026-03-20",
+        "AddedTimestamp": 1774043177.8266563,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -11749,14 +11749,43 @@
         "URL": "https://store.steampowered.com/app/4530690/",
         "Site": "https://playdepleted.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4530690/50b7cae9795387e5d3bdc4dd616e6c90bc62fc74/header.jpg?t=1774036319",
-        "Date": "Coming soon",
+        "Date": "Apr 6, 2026",
         "AddedDate": "2026-03-20",
-        "AddedTimestamp": 1774039863.0493565,
+        "AddedTimestamp": 1774043195.3185673,
         "MatchedTags": [
             "horror",
             "survival horror",
             "psychological horror",
             "strategy"
+        ]
+    },
+    "4358910": {
+        "Title": "The Adventure of Lioh - The beginning of the End",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4358910/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4358910/1bfa6dea00544eea50af80c704cdf61957dcbf3b/header.jpg?t=1774040620",
+        "Date": "April 2026",
+        "AddedDate": "2026-03-20",
+        "AddedTimestamp": 1774043179.8749015,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4531710": {
+        "Title": "Cavern of Mourning",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4531710/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4531710/25dd704fb3227f1d38c6a15c4541791888f13214/header.jpg?t=1774042207",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-20",
+        "AddedTimestamp": 1774043197.454226,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
         ]
     }
 }
