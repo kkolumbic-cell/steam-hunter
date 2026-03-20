@@ -587,9 +587,9 @@
         "URL": "https://store.steampowered.com/app/4469180/",
         "Site": "https://game.arcbound.co.uk",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4469180/9c8e839871ef07c19b25a36318997121e9d78ae6/header.jpg?t=1772645500",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-04",
-        "AddedTimestamp": 1772647152.58785,
+        "Date": "Mar 20, 2026",
+        "AddedDate": "2026-03-20",
+        "AddedTimestamp": 1774033672.1365952,
         "MatchedTags": [
             "colony sim",
             "base building",
@@ -2442,13 +2442,12 @@
         "URL": "https://store.steampowered.com/app/4450660/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4450660/4e3023003dac799e8baf98fde62912fd770a8e4a/header.jpg?t=1772777203",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-03-06",
-        "AddedTimestamp": 1772780956.8812761,
+        "Date": "To be announced",
+        "AddedDate": "2026-03-20",
+        "AddedTimestamp": 1774033669.1137564,
         "MatchedTags": [
-            "psychological horror",
             "horror",
-            "survival horror"
+            "psychological horror"
         ]
     },
     "4429290": {
@@ -11652,6 +11651,65 @@
         "MatchedTags": [
             "strategy",
             "tactical rpg"
+        ]
+    },
+    "4512890": {
+        "Title": "Forbidden Sight",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4512890/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4512890/b555d0dbc69bfb3eae660637fa6aecd01afffabf/header.jpg?t=1774030981",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-20",
+        "AddedTimestamp": 1774033689.3422909,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4525630": {
+        "Title": "Broken Divide",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4525630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4525630/3890b9a61b4bbee6c9c01ec2b80b35dab1da92c9/header.jpg?t=1774030249",
+        "Date": "2026",
+        "AddedDate": "2026-03-20",
+        "AddedTimestamp": 1774033694.5310001,
+        "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "4526710": {
+        "Title": "N U C L I D E A N",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4526710/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4526710/f315905bc8d08b873059dd17a5087e9aec5ed5ef/header.jpg?t=1774031165",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-20",
+        "AddedTimestamp": 1774033699.1074665,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4533360": {
+        "Title": "Blackjack Alchemist",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4533360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4533360/56217a6fd9cb462538cddbaed55dc0257518a669/header.jpg?t=1774031159",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-20",
+        "AddedTimestamp": 1774033704.8285937,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
         ]
     }
 }
