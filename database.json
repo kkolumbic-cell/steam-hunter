@@ -8729,9 +8729,9 @@
         "URL": "https://store.steampowered.com/app/3953070/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953070/b10c1f7828d86f3134ed98052be0e253c61eb135/header.jpg?t=1773716551",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-17",
-        "AddedTimestamp": 1773717261.715849,
+        "Date": "May 1, 2026",
+        "AddedDate": "2026-03-21",
+        "AddedTimestamp": 1774119322.938284,
         "MatchedTags": [
             "management"
         ]
@@ -12029,6 +12029,40 @@
         "MatchedTags": [
             "economy",
             "management"
+        ]
+    },
+    "4508590": {
+        "Title": "Crafting in Berxley",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4508590/",
+        "Site": "https://quietlypacked.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4508590/263e16fd20cbaad167daf5430a594ef2b43b636a/header.jpg?t=1774118584",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-21",
+        "AddedTimestamp": 1774119337.042291,
+        "MatchedTags": [
+            "economy",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4524940": {
+        "Title": "Rush Hour Relay",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4524940/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4524940/e22b0f3e5ef011175cafb045ef75ef0eb61eab2f/header.jpg?t=1774118118",
+        "Date": "TBA",
+        "AddedDate": "2026-03-21",
+        "AddedTimestamp": 1774119352.0570452,
+        "MatchedTags": [
+            "real time tactics",
+            "strategy",
+            "economy",
+            "management",
+            "tactical"
         ]
     }
 }
