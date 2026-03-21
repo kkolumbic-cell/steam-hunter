@@ -3665,9 +3665,9 @@
         "URL": "https://store.steampowered.com/app/4163040/",
         "Site": "https://durancegaming.wixsite.com/ogreleg",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4163040/4196a414a8233cc2fa06fb259be1b70a7727fc3d/header.jpg?t=1772890134",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-07",
-        "AddedTimestamp": 1772891426.9521413,
+        "Date": "Mar 21, 2026",
+        "AddedDate": "2026-03-21",
+        "AddedTimestamp": 1774115011.0112326,
         "MatchedTags": [
             "strategy"
         ]
@@ -12014,6 +12014,21 @@
             "turn-based strategy",
             "economy",
             "turn-based tactics"
+        ]
+    },
+    "4274990": {
+        "Title": "Minibus Simulator",
+        "Email": "",
+        "Discord": "https://discord.gg/fHcg4HDDzE",
+        "URL": "https://store.steampowered.com/app/4274990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4274990/b0eb149fd466d9c33d5ac2b6240a3fa0c1818408/header.jpg?t=1774112490",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-21",
+        "AddedTimestamp": 1774115014.9419296,
+        "MatchedTags": [
+            "economy",
+            "management"
         ]
     }
 }
