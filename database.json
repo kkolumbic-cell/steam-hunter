@@ -7469,7 +7469,7 @@
     "4500270": {
         "Title": "Global Protocol: New World Order",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/yFwBGSwR",
         "URL": "https://store.steampowered.com/app/4500270/",
         "Site": "https://www.globalprotocolgame.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4500270/640783e903a50b6273350274be1f7044a86e093c/header.jpg?t=1773429680",
@@ -10139,7 +10139,8 @@
         "AddedDate": "2026-03-18",
         "AddedTimestamp": 1773861602.3477151,
         "MatchedTags": [
-            "horror"
+            "horror",
+            "survival horror"
         ]
     },
     "4514660": {
@@ -11936,6 +11937,20 @@
         "MatchedTags": [
             "strategy",
             "real time tactics"
+        ]
+    },
+    "4532390": {
+        "Title": "BowlTown\u7897\u9547",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4532390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4532390/7ffc69402f8f1080cfad0394f9524f4b2bd45408/header.jpg?t=1774089223",
+        "Date": "2027",
+        "AddedDate": "2026-03-21",
+        "AddedTimestamp": 1774090046.0127082,
+        "MatchedTags": [
+            "resource management"
         ]
     }
 }
