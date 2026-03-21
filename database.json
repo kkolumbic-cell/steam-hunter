@@ -4852,9 +4852,9 @@
         "URL": "https://store.steampowered.com/app/4487310/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4487310/b023eb4c09e5150ffcda418dbd1b525aa72d017c/header.jpg?t=1773139170",
-        "Date": "Mar 25, 2026",
-        "AddedDate": "2026-03-10",
-        "AddedTimestamp": 1773140584.7864788,
+        "Date": "Apr 9, 2026",
+        "AddedDate": "2026-03-21",
+        "AddedTimestamp": 1774061369.1731164,
         "MatchedTags": [
             "resource management",
             "management"
@@ -6551,9 +6551,9 @@
         "URL": "https://store.steampowered.com/app/4333180/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4333180/fa83569564f8a352fa032c8f9c312091a8db45f6/header.jpg?t=1773337861",
-        "Date": "Oct 26, 2026",
-        "AddedDate": "2026-03-12",
-        "AddedTimestamp": 1773338656.7479262,
+        "Date": "Oct 27, 2026",
+        "AddedDate": "2026-03-21",
+        "AddedTimestamp": 1774061343.5710008,
         "MatchedTags": [
             "horror"
         ]
@@ -7971,9 +7971,9 @@
         "URL": "https://store.steampowered.com/app/3404270/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3404270/1b2eea10ff7c7813a0b9a56b7d3bcc430843b082/header.jpg?t=1773586571",
-        "Date": "TBA",
-        "AddedDate": "2026-03-15",
-        "AddedTimestamp": 1773589564.8144329,
+        "Date": "To be announced",
+        "AddedDate": "2026-03-21",
+        "AddedTimestamp": 1774061326.3368702,
         "MatchedTags": [
             "strategy",
             "tower defense"
@@ -8475,9 +8475,9 @@
         "URL": "https://store.steampowered.com/app/4495180/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4495180/7ff672c7806c0581e5c84e252fbaa4ee260dd88c/header.jpg?t=1773687147",
-        "Date": "March 2026",
-        "AddedDate": "2026-03-16",
-        "AddedTimestamp": 1773689446.1195998,
+        "Date": "Mar 27, 2026",
+        "AddedDate": "2026-03-21",
+        "AddedTimestamp": 1774061375.2750356,
         "MatchedTags": [
             "tactical rpg",
             "turn-based combat"
@@ -11829,6 +11829,83 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4408260": {
+        "Title": "Dark Observations",
+        "Email": "",
+        "Discord": "https://discord.gg/36nmpxrn",
+        "URL": "https://store.steampowered.com/app/4408260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4408260/14624c8b08c3e9fe4a4e0aaa79425033e950c4b7/header.jpg?t=1774060546",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-21",
+        "AddedTimestamp": 1774061354.722846,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4413250": {
+        "Title": "Falling Up",
+        "Email": "",
+        "Discord": "https://discord.gg/asvgeaJU8g",
+        "URL": "https://store.steampowered.com/app/4413250/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4413250/6eedab21c396c98d716a6c417ebb022868b92d79/header.jpg?t=1774054053",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-21",
+        "AddedTimestamp": 1774061357.1660793,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4513390": {
+        "Title": "We Were Here Before",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4513390/",
+        "Site": "https://wewereherebefore.biz/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4513390/665aacdb6db5b87a8919284998c79d7335edb8bd/header.jpg?t=1774050374",
+        "Date": "2026",
+        "AddedDate": "2026-03-21",
+        "AddedTimestamp": 1774061379.318172,
+        "MatchedTags": [
+            "strategy",
+            "colony sim",
+            "psychological horror"
+        ]
+    },
+    "4524120": {
+        "Title": "Hollow Heart",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4524120/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4524120/65092071cd85310f4000c13f3f8a543fbc03aca7/header.jpg?t=1774057672",
+        "Date": "2027",
+        "AddedDate": "2026-03-21",
+        "AddedTimestamp": 1774061397.7853034,
+        "MatchedTags": [
+            "turn-based tactics"
+        ]
+    },
+    "4538200": {
+        "Title": "Heat",
+        "Email": "",
+        "Discord": "https://discord.gg/DjEwh2g",
+        "URL": "https://store.steampowered.com/app/4538200/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4538200/58d4fdfe4407995b1f87d1c3f70fb8d68a94897a/header.jpg?t=1774053668",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-21",
+        "AddedTimestamp": 1774061414.7853417,
+        "MatchedTags": [
+            "resource management",
+            "base building",
+            "tactical",
+            "survival horror"
         ]
     }
 }
