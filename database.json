@@ -11349,10 +11349,10 @@
         "AddedDate": "2026-03-20",
         "AddedTimestamp": 1773976368.7891448,
         "MatchedTags": [
-            "strategy",
-            "turn-based combat",
             "tactical",
             "turn-based strategy",
+            "strategy",
+            "turn-based combat",
             "resource management"
         ]
     },
@@ -12155,6 +12155,20 @@
         "MatchedTags": [
             "strategy",
             "management"
+        ]
+    },
+    "4214130": {
+        "Title": "Tihama | \u062a\u0647\u0627\u0645\u0629",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4214130/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4214130/6afdb0ac182ef38061b8b9ba3828e166ce7e8086/header.jpg?t=1774160362",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-22",
+        "AddedTimestamp": 1774163389.8712704,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
