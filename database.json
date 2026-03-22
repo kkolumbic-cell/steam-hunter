@@ -7990,8 +7990,8 @@
         "AddedDate": "2026-03-15",
         "AddedTimestamp": 1773603831.414802,
         "MatchedTags": [
-            "strategy",
             "real time tactics",
+            "strategy",
             "tactical",
             "resource management"
         ]
@@ -12231,6 +12231,52 @@
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
+        ]
+    },
+    "4092990": {
+        "Title": "Hard:Ship",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4092990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4092990/028a8fd7ef851f875c3fe44737fd4c6be17620b9/header.jpg?t=1774210526",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-22",
+        "AddedTimestamp": 1774212366.249084,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4489380": {
+        "Title": "Whalefall",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4489380/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4489380/7b4c3def35572d07fdd281f7461eb13778f900ce/header.jpg?t=1774210009",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-22",
+        "AddedTimestamp": 1774212376.001876,
+        "MatchedTags": [
+            "survival horror",
+            "horror"
+        ]
+    },
+    "4525210": {
+        "Title": "Zodiac Echoes",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4525210/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4525210/5e37c8a7200353aa77dbbdd16ff180c27e5ac6f6/header.jpg?t=1774209679",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-03-22",
+        "AddedTimestamp": 1774212380.9187095,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
         ]
     }
 }
