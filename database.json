@@ -11855,9 +11855,9 @@
         "URL": "https://store.steampowered.com/app/4413250/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4413250/6eedab21c396c98d716a6c417ebb022868b92d79/header.jpg?t=1774054053",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-21",
-        "AddedTimestamp": 1774061357.1660793,
+        "Date": "Q2 2026",
+        "AddedDate": "2026-03-22",
+        "AddedTimestamp": 1774149738.6354647,
         "MatchedTags": [
             "strategy"
         ]
@@ -12110,6 +12110,36 @@
         "AddedTimestamp": 1774129276.9538639,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "2777420": {
+        "Title": "Driversion",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2777420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2777420/88696635cecb0a0c7f18c1b71c19c64348541445/header.jpg?t=1774139561",
+        "Date": "Mar 31, 2026",
+        "AddedDate": "2026-03-22",
+        "AddedTimestamp": 1774149727.0139127,
+        "MatchedTags": [
+            "strategy",
+            "horror"
+        ]
+    },
+    "4452480": {
+        "Title": "Caldra",
+        "Email": "",
+        "Discord": "https://discord.gg/MEDwvcxgQb",
+        "URL": "https://store.steampowered.com/app/4452480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4452480/e409f23e10b01d70b607e68a12228d8b373ebb2e/header.jpg?t=1774147950",
+        "Date": "May 2026",
+        "AddedDate": "2026-03-22",
+        "AddedTimestamp": 1774149743.1748657,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
         ]
     }
 }
