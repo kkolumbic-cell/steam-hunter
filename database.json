@@ -8654,9 +8654,9 @@
         "URL": "https://store.steampowered.com/app/4462570/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4462570/9ad605d8842d57f40be43646401d0ffdc5c15548/header.jpg?t=1773695538",
-        "Date": "March 2026",
-        "AddedDate": "2026-03-19",
-        "AddedTimestamp": 1773947797.0514135,
+        "Date": "Mar 30, 2026",
+        "AddedDate": "2026-03-23",
+        "AddedTimestamp": 1774306417.5480778,
         "MatchedTags": [
             "survival horror",
             "horror",
@@ -12711,6 +12711,22 @@
             "turn-based strategy",
             "tactical",
             "turn-based combat"
+        ]
+    },
+    "4463220": {
+        "Title": "MAHJONG: BEYOND THE WALL  \u5929\u4e95\u4e4b\u5916",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4463220/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4463220/69d3f00f2e08ae031a69c3db67f705a617a8d61a/header.jpg?t=1774306228",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-03-23",
+        "AddedTimestamp": 1774306420.5594893,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
         ]
     }
 }
