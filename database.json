@@ -4629,9 +4629,9 @@
         "URL": "https://store.steampowered.com/app/4458370/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4458370/e69aedfd6b3fd6cef27afaaa8ff696e3acd58aa5/header.jpg?t=1773092073",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-09",
-        "AddedTimestamp": 1773099882.42724,
+        "Date": "Mar 23, 2026",
+        "AddedDate": "2026-03-23",
+        "AddedTimestamp": 1774279016.199848,
         "MatchedTags": [
             "tactical"
         ]
@@ -8159,9 +8159,9 @@
         "URL": "https://store.steampowered.com/app/3919690/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3919690/4a3e4b1cd084b1a95a6a0a5b490f916b4155e27e/header.jpg?t=1773664364",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-16",
-        "AddedTimestamp": 1773669369.235172,
+        "Date": "March 2026",
+        "AddedDate": "2026-03-23",
+        "AddedTimestamp": 1774279000.332545,
         "MatchedTags": [
             "management",
             "economy"
@@ -8640,9 +8640,9 @@
         "URL": "https://store.steampowered.com/app/4411930/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4411930/b776c3fd4ddd2dbe3682f15ee75503acd9dd5823/header.jpg?t=1773695346",
-        "Date": "Sep 30, 2026",
-        "AddedDate": "2026-03-16",
-        "AddedTimestamp": 1773698157.3116271,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-03-23",
+        "AddedTimestamp": 1774279010.803564,
         "MatchedTags": [
             "strategy"
         ]
@@ -12397,9 +12397,9 @@
         "URL": "https://store.steampowered.com/app/4505290/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4505290/77541e46260207b10fe9acb943e94afaac119e6b/header.jpg?t=1774273776",
-        "Date": "Apr 9, 2026",
+        "Date": "Coming soon",
         "AddedDate": "2026-03-23",
-        "AddedTimestamp": 1774273915.5553262,
+        "AddedTimestamp": 1774279025.6966043,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -12449,6 +12449,21 @@
             "horror",
             "survival horror",
             "psychological horror",
+            "resource management"
+        ]
+    },
+    "4529950": {
+        "Title": "Titanic Survival Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4529950/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4529950/ac091eea645289cae2679cfce70d7918c85a69f8/header.jpg?t=1774276781",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-23",
+        "AddedTimestamp": 1774279036.2206314,
+        "MatchedTags": [
+            "management",
             "resource management"
         ]
     }
