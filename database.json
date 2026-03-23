@@ -8840,9 +8840,9 @@
         "URL": "https://store.steampowered.com/app/4474330/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4474330/d26a0c20a324615bbe84c64f9df69a203832a5d6/header.jpg?t=1773724154",
-        "Date": "Apr 10, 2026",
-        "AddedDate": "2026-03-17",
-        "AddedTimestamp": 1773728078.0890036,
+        "Date": "Apr 17, 2026",
+        "AddedDate": "2026-03-23",
+        "AddedTimestamp": 1774251638.3253784,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -12341,6 +12341,38 @@
         "AddedTimestamp": 1774236311.7822921,
         "MatchedTags": [
             "base building"
+        ]
+    },
+    "2598990": {
+        "Title": "\u5143\u7d20\u5947\u5175\uff1a\u82f1\u96c4\u96c6\u7ed3\u4ee4",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2598990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2598990/2a11a4657eb21dc930945c53128745975680ac13/header.jpg?t=1774248353",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-23",
+        "AddedTimestamp": 1774251628.8610473,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "tower defense",
+            "resource management"
+        ]
+    },
+    "4023430": {
+        "Title": "INTO THE AETHER",
+        "Email": "",
+        "Discord": "https://discord.gg/udfwE8rBWU",
+        "URL": "https://store.steampowered.com/app/4023430/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4023430/cfc352c0a3dbdb27612ac14f358a21d27cf637a8/header.jpg?t=1774249023",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-23",
+        "AddedTimestamp": 1774251632.9135745,
+        "MatchedTags": [
+            "turn-based strategy",
+            "turn-based combat"
         ]
     }
 }
