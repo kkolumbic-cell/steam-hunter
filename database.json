@@ -4407,9 +4407,9 @@
         "URL": "https://store.steampowered.com/app/4389370/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4389370/1867ed9048e952063a20b3f3ec26abb2d4fc5f05/header.jpg?t=1773079044",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-09",
-        "AddedTimestamp": 1773083517.9068499,
+        "Date": "Mar 23, 2026",
+        "AddedDate": "2026-03-23",
+        "AddedTimestamp": 1774285821.3034549,
         "MatchedTags": [
             "strategy"
         ]
@@ -12465,6 +12465,111 @@
         "MatchedTags": [
             "management",
             "resource management"
+        ]
+    },
+    "3837360": {
+        "Title": "A show she never watched.",
+        "Email": "",
+        "Discord": "https://discord.gg/autnKY2Gjw",
+        "URL": "https://store.steampowered.com/app/3837360/",
+        "Site": "https://sourcemacchiato.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3837360/fe33f1bdc45bb3aec9fba56d6778a4fe71d4a494/header.jpg?t=1774285222",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-23",
+        "AddedTimestamp": 1774285804.0864606,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "3966930": {
+        "Title": "CyberZ: Energy Wars",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3966930/",
+        "Site": "https://www.cyberz.world/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3966930/61d6977ab51d2c30792e9b3d7ea0f53501c9da41/header.jpg?t=1774280930",
+        "Date": "Q2 2027",
+        "AddedDate": "2026-03-23",
+        "AddedTimestamp": 1774285807.726838,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4307930": {
+        "Title": "MECH OPS 2092",
+        "Email": "",
+        "Discord": "https://discord.gg/HF3sTGED",
+        "URL": "https://store.steampowered.com/app/4307930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4307930/f2b910b8045ee20d8110236a076429dfc3629124/header.jpg?t=1774279098",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-23",
+        "AddedTimestamp": 1774285817.11611,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4387810": {
+        "Title": "FOOTSLOG",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4387810/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4387810/d061bef5f21a53647a0255c314ab201970c166af/header.jpg?t=1774285561",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-23",
+        "AddedTimestamp": 1774285819.4158592,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4512190": {
+        "Title": "ZrOth",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4512190/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4512190/07a88ec0592cd369064a550806ea8c6a8477bc7f/header.jpg?t=1774282518",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-23",
+        "AddedTimestamp": 1774285871.0225563,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical"
+        ]
+    },
+    "4523160": {
+        "Title": "Slot Theory",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4523160/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4523160/2285c7b1f21b3a16442a75f7ea18d127d5e4b111/header.jpg?t=1774285707",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-23",
+        "AddedTimestamp": 1774285881.7141488,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "4529300": {
+        "Title": "De profundis 1454",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4529300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4529300/7456e3c904e6c18c82f9b22d02d6ee842634e55c/header.jpg?t=1774280606",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-03-23",
+        "AddedTimestamp": 1774285888.0883112,
+        "MatchedTags": [
+            "turn-based strategy",
+            "strategy",
+            "turn-based tactics",
+            "turn-based combat"
         ]
     }
 }
