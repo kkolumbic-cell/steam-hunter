@@ -205,11 +205,12 @@
         "URL": "https://store.steampowered.com/app/4413360/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4413360/a9765d877cb5ea5c30ed114674dbb66b008ac853/header.jpg?t=1772613787",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-04",
+        "Date": "Apr 20, 2026",
+        "AddedDate": "2026-03-23",
         "MatchedTags": [
             "tactical rpg"
-        ]
+        ],
+        "AddedTimestamp": 1774257279.3906407
     },
     "4413390": {
         "Title": "Firefighting Rescue Simulator",
@@ -4326,9 +4327,9 @@
         "URL": "https://store.steampowered.com/app/4489990/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4489990/92582d662fa3a18f54f94b39febf79920fb4ce47/header.jpg?t=1773065107",
-        "Date": "Mar 19, 2026",
-        "AddedDate": "2026-03-09",
-        "AddedTimestamp": 1773069189.476871,
+        "Date": "Mar 23, 2026",
+        "AddedDate": "2026-03-23",
+        "AddedTimestamp": 1774257288.3519473,
         "MatchedTags": [
             "turn-based strategy"
         ]
@@ -11542,7 +11543,7 @@
     "4525520": {
         "Title": "Jarred Defense",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/GYCTQDcVTf",
         "URL": "https://store.steampowered.com/app/4525520/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4525520/bd5e8a288cd8b7ff4a7a98bf02a7d276797efd2b/header.jpg?t=1774013065",
@@ -12373,6 +12374,20 @@
         "MatchedTags": [
             "turn-based strategy",
             "turn-based combat"
+        ]
+    },
+    "4397210": {
+        "Title": "SAADINE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4397210/",
+        "Site": "https://www.saadine.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4397210/b36f803c56142c6d44b5730cf3cd568ff244d1cd/header.jpg?t=1774254264",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-23",
+        "AddedTimestamp": 1774257276.8054929,
+        "MatchedTags": [
+            "turn-based tactics"
         ]
     }
 }
