@@ -5222,9 +5222,9 @@
         "URL": "https://store.steampowered.com/app/4483500/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4483500/7d16fc240fdc486dbe62cbafcf18055403ad63b0/header.jpg?t=1773170798",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-10",
-        "AddedTimestamp": 1773172420.3550723,
+        "Date": "Mar 24, 2026",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774343429.0644753,
         "MatchedTags": [
             "strategy"
         ]
@@ -5236,9 +5236,9 @@
         "URL": "https://store.steampowered.com/app/4502340/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4502340/35d312fba638adcb760163bff049c71256593620/header.jpg?t=1773170326",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-10",
-        "AddedTimestamp": 1773172423.4153905,
+        "Date": "Mar 24, 2026",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774343431.4777598,
         "MatchedTags": [
             "management",
             "economy",
@@ -9505,9 +9505,9 @@
         "URL": "https://store.steampowered.com/app/4443390/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443390/54ec1c3348ca15042b6b3e66fc68748aa9589eea/header.jpg?t=1773786917",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-17",
-        "AddedTimestamp": 1773788028.9167645,
+        "Date": "Q2 2026",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774343421.5033786,
         "MatchedTags": [
             "strategy"
         ]
@@ -12688,9 +12688,9 @@
         "URL": "https://store.steampowered.com/app/4544520/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544520/3a503cb9662a180d56cae8d2bcd8a0ab6c4149ad/header.jpg?t=1774298309",
-        "Date": "Apr 10, 2026",
-        "AddedDate": "2026-03-23",
-        "AddedTimestamp": 1774299388.9203873,
+        "Date": "Apr 9, 2026",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774343445.1536756,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -12974,6 +12974,39 @@
         "AddedTimestamp": 1774337628.8092473,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4341100": {
+        "Title": "Starchitect",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4341100/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4341100/3515e597a46303a9088e7ea20a9bc3b142e79ec7/header.jpg?t=1774338779",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774343417.288857,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4482390": {
+        "Title": "Archimedes II: Some Like It Hot",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4482390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4482390/377ef8980467635d7e2913be7c2926f864e332be/header.jpg?t=1774342267",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774343426.7063599,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management"
         ]
     }
 }
