@@ -3264,9 +3264,9 @@
         "URL": "https://store.steampowered.com/app/4437600/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4437600/84be64282f76a6246a41503ee88213050839feb4/header.jpg?t=1772830195",
-        "Date": "Mar 31, 2027",
-        "AddedDate": "2026-03-06",
-        "AddedTimestamp": 1772833554.2821846,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774353517.609361,
         "MatchedTags": [
             "resource management"
         ]
@@ -13015,9 +13015,9 @@
         "URL": "https://store.steampowered.com/app/4536740/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4536740/a39fef079c97f7368e1dc146a5fd2cd7c0b8afb2/header.jpg?t=1774346486",
-        "Date": "2026",
+        "Date": "July 2026",
         "AddedDate": "2026-03-24",
-        "AddedTimestamp": 1774347072.986048,
+        "AddedTimestamp": 1774353526.04727,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -13068,6 +13068,36 @@
             "strategy",
             "turn-based combat",
             "turn-based strategy"
+        ]
+    },
+    "3972590": {
+        "Title": "Haunted Diary : The Hunting Tower",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3972590/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3972590/43887e26a16f609358129aed4569d3591f84c219/header.jpg?t=1774353277",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774353512.6472726,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4414950": {
+        "Title": "My Music Label",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4414950/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4414950/e80e625c30f9848dea6bd1cca6ef919d2fbaf508/header.jpg?t=1774352793",
+        "Date": "TBA",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774353514.4498453,
+        "MatchedTags": [
+            "management",
+            "resource management"
         ]
     }
 }
