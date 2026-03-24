@@ -6203,9 +6203,9 @@
         "URL": "https://store.steampowered.com/app/4505500/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4505500/32912d5a9cdcb485cad1fece43a76b5c58646321/header.jpg?t=1773279238",
-        "Date": "2026",
-        "AddedDate": "2026-03-19",
-        "AddedTimestamp": 1773960593.6512513,
+        "Date": "2027",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774360376.0685585,
         "MatchedTags": [
             "strategy"
         ]
@@ -8159,9 +8159,9 @@
         "URL": "https://store.steampowered.com/app/3919690/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3919690/4a3e4b1cd084b1a95a6a0a5b490f916b4155e27e/header.jpg?t=1773664364",
-        "Date": "March 2026",
-        "AddedDate": "2026-03-23",
-        "AddedTimestamp": 1774279000.332545,
+        "Date": "Mar 30, 2026",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774360351.7896566,
         "MatchedTags": [
             "management",
             "economy"
@@ -11781,9 +11781,9 @@
         "URL": "https://store.steampowered.com/app/4531710/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4531710/25dd704fb3227f1d38c6a15c4541791888f13214/header.jpg?t=1774042207",
-        "Date": "To be announced",
-        "AddedDate": "2026-03-20",
-        "AddedTimestamp": 1774043197.454226,
+        "Date": "Apr 3, 2026",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774360398.4013104,
         "MatchedTags": [
             "strategy",
             "turn-based combat"
@@ -12908,9 +12908,9 @@
         "URL": "https://store.steampowered.com/app/4530250/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4530250/ffe61056a3aa70d99a8173fc1d98ee1b41560e68/header.jpg?t=1774322371",
-        "Date": "Feb 28, 2027",
+        "Date": "February 2027",
         "AddedDate": "2026-03-24",
-        "AddedTimestamp": 1774328946.635816,
+        "AddedTimestamp": 1774360395.1745293,
         "MatchedTags": [
             "real time tactics"
         ]
@@ -13098,6 +13098,68 @@
         "MatchedTags": [
             "management",
             "resource management"
+        ]
+    },
+    "3949280": {
+        "Title": "Machiavelli",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3949280/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949280/60f07115e9cf144cfc442da22799714439afc8f7/header.jpg?t=1774357837",
+        "Date": "TBA",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774360354.3896737,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "resource management"
+        ]
+    },
+    "4272440": {
+        "Title": "SLOP Crew",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4272440/",
+        "Site": "https://slopcrew.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272440/7351bc380a472cb4d30a9c25515dc5ce748672e4/header.jpg?t=1774354891",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774360357.5326536,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4525470": {
+        "Title": "Shoku Pain",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4525470/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525470/61f3ca5a068a7a1b7137cc0f5dc3b42395fbc7e2/header.jpg?t=1774355557",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774360389.734381,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "management",
+            "survival horror"
+        ]
+    },
+    "4540880": {
+        "Title": "Defence of Nythrial",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4540880/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4540880/d080fb22cbc2b7d96df0f3dd60e6549c4fe77569/header.jpg?t=1774357428",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774360403.8608289,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
         ]
     }
 }
