@@ -346,9 +346,9 @@
         "URL": "https://store.steampowered.com/app/4487120/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4487120/181393eb50667c20f09e0d187d8c63031439ab88/header.jpg?t=1772626282",
-        "Date": "May 1, 2026",
-        "AddedDate": "2026-03-13",
-        "AddedTimestamp": 1773424385.320829,
+        "Date": "Apr 1, 2026",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774375932.0845308,
         "MatchedTags": [
             "turn-based tactics"
         ]
@@ -8204,9 +8204,9 @@
         "URL": "https://store.steampowered.com/app/4310470/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4310470/5e1266d0d3f64d93e2595dcea17917355bf6341b/header.jpg?t=1773664345",
-        "Date": "Mar 25, 2026",
-        "AddedDate": "2026-03-16",
-        "AddedTimestamp": 1773681525.256815,
+        "Date": "March 2026",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774375917.9199247,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -8476,9 +8476,9 @@
         "URL": "https://store.steampowered.com/app/4495180/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4495180/7ff672c7806c0581e5c84e252fbaa4ee260dd88c/header.jpg?t=1773687147",
-        "Date": "Mar 27, 2026",
-        "AddedDate": "2026-03-21",
-        "AddedTimestamp": 1774061375.2750356,
+        "Date": "Mar 29, 2026",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774375934.5016873,
         "MatchedTags": [
             "tactical rpg",
             "turn-based combat"
@@ -13414,6 +13414,51 @@
             "tactical rpg",
             "tactical",
             "management"
+        ]
+    },
+    "3226380": {
+        "Title": "Dice Game",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3226380/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3226380/f43ed4690443aaaef4ffd02270528c6863bf0083/header.jpg?t=1774374395",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774375899.7116783,
+        "MatchedTags": [
+            "strategy",
+            "horror"
+        ]
+    },
+    "3869290": {
+        "Title": "Evil Cartridge",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3869290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3869290/6529d60b24bdb01006955c5287e713a7f1ffa140/header.jpg?t=1774375781",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774375908.8691359,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4525850": {
+        "Title": "Molesweeper",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4525850/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4525850/39e0e12e42ef93efa7359b1589ff8bc7705d5136/header.jpg?t=1774374248",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774375939.2714996,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
         ]
     }
 }
