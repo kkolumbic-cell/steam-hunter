@@ -1831,9 +1831,9 @@
         "URL": "https://store.steampowered.com/app/4458740/",
         "Site": "https://poder.gg/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4458740/74c2a8135698233e41d0d031d9d4e66a6329705b/header.jpg?t=1772733543",
-        "Date": "Dec 31, 2026",
-        "AddedDate": "2026-03-05",
-        "AddedTimestamp": 1772735071.4237173,
+        "Date": "2026",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774350675.7918425,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -13036,6 +13036,38 @@
         "MatchedTags": [
             "management",
             "resource management"
+        ]
+    },
+    "3751600": {
+        "Title": "Dunwich Horror",
+        "Email": "",
+        "Discord": "https://discord.gg/8RfNThYM",
+        "URL": "https://store.steampowered.com/app/3751600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3751600/96376883a613cf2b2f63f0580f3f2f596e7181b1/header.jpg?t=1774349655",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774350657.406395,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4535980": {
+        "Title": "Talisman Codes",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4535980/",
+        "Site": "https://talisman.codes",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4535980/ff2348f0b3b8348f4608a57bba5bf1a3cb9dedb9/header.jpg?t=1774348397",
+        "Date": "Jun 30, 2026",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774350679.6200016,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "turn-based strategy"
         ]
     }
 }
