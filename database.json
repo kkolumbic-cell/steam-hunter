@@ -2558,9 +2558,9 @@
         "URL": "https://store.steampowered.com/app/2449610/",
         "Site": "https://ryan-mcdougall.itch.io/planetfall-endless-wave-early-playtest",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2449610/c1e45b0872850cd3586b5494f391068c843e70d9/header.jpg?t=1772802222",
-        "Date": "To be announced",
-        "AddedDate": "2026-03-15",
-        "AddedTimestamp": 1773553575.072563,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774347039.8481002,
         "MatchedTags": [
             "management",
             "resource management"
@@ -11350,11 +11350,10 @@
         "AddedDate": "2026-03-20",
         "AddedTimestamp": 1773976368.7891448,
         "MatchedTags": [
+            "turn-based combat",
             "tactical",
             "turn-based strategy",
-            "strategy",
-            "turn-based combat",
-            "resource management"
+            "turn-based tactics"
         ]
     },
     "4462690": {
@@ -13005,6 +13004,36 @@
         "AddedTimestamp": 1774343426.7063599,
         "MatchedTags": [
             "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4536740": {
+        "Title": "Echoes",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4536740/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4536740/a39fef079c97f7368e1dc146a5fd2cd7c0b8afb2/header.jpg?t=1774346486",
+        "Date": "2026",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774347072.986048,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4542680": {
+        "Title": "Observation Daruma Log",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4542680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4542680/f3cfb4deb534820f64866a2b776dedb9a0248b59/header.jpg?t=1774343598",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-24",
+        "AddedTimestamp": 1774347075.1237924,
+        "MatchedTags": [
             "management",
             "resource management"
         ]
