@@ -2063,9 +2063,8 @@
         "AddedDate": "2026-03-05",
         "AddedTimestamp": 1772747527.2398286,
         "MatchedTags": [
-            "strategy",
             "tower defense",
-            "real time tactics"
+            "strategy"
         ]
     },
     "4476320": {
@@ -4601,9 +4600,9 @@
         "URL": "https://store.steampowered.com/app/4488740/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4488740/935f2e23bfb7760c60ba6d7f6538857df6a8bbe7/header.jpg?t=1773087338",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-03-11",
-        "AddedTimestamp": 1773258838.1048791,
+        "Date": "Mar 27, 2026",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774453050.4004543,
         "MatchedTags": [
             "strategy"
         ]
@@ -14271,6 +14270,64 @@
         "MatchedTags": [
             "base building",
             "tower defense"
+        ]
+    },
+    "4530650": {
+        "Title": "Reroll or Die",
+        "Email": "",
+        "Discord": "https://discord.com/invite/dpNGBdT265",
+        "URL": "https://store.steampowered.com/app/4530650/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4530650/b023516f56b49a1ed7aa6a9ab26911606bf52fa7/header.jpg?t=1774446916",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774453073.096604,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4535930": {
+        "Title": "Pax Astra",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4535930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4535930/5fd3e0b4da6442c7477b87848718acac55a39e4c/header.jpg?t=1774449209",
+        "Date": "2026",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774453078.0107336,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4536810": {
+        "Title": "2TAP",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4536810/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4536810/b22cb2bc6103c270c2ffa8bf3fb2e172e1a65faa/header.jpg?t=1774450195",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774453079.9732096,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4546990": {
+        "Title": "Airspace Master",
+        "Email": "",
+        "Discord": "https://discord.gg/4JzkmDD7",
+        "URL": "https://store.steampowered.com/app/4546990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4546990/83821521fa86d33a1b8a7b6002d8a10cc5b5f85a/header.jpg?t=1774451589",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774453087.089655,
+        "MatchedTags": [
+            "strategy",
+            "management"
         ]
     }
 }
