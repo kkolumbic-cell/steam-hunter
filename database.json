@@ -1132,9 +1132,9 @@
         "URL": "https://store.steampowered.com/app/4486360/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4486360/f82b47939271efc4d2a5e3690fdd6e441def2315/header.jpg?t=1772694360",
-        "Date": "March 2026",
-        "AddedDate": "2026-03-20",
-        "AddedTimestamp": 1773990922.2690086,
+        "Date": "Mar 27, 2026",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774468594.9725227,
         "MatchedTags": [
             "strategy",
             "horror",
@@ -12605,9 +12605,9 @@
         "URL": "https://store.steampowered.com/app/4523800/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4523800/e758ba24848c3d1724b272a51c61334bfa2b38ed/header.jpg?t=1774292477",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-03-23",
-        "AddedTimestamp": 1774293302.9034312,
+        "Date": "Apr 17, 2026",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774468605.8327456,
         "MatchedTags": [
             "resource management"
         ]
@@ -14642,6 +14642,68 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "3808020": {
+        "Title": "Oceanopolis 2000",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3808020/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3808020/265f16076458358d14365dca3b161fdc48566e7a/header.jpg?t=1774467021",
+        "Date": "May 2026",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774468580.1788058,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "colony sim",
+            "economy",
+            "management"
+        ]
+    },
+    "4301480": {
+        "Title": "Dont Look",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4301480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4301480/886149e8a239a35ba2771a56f9533ccd936367f5/header.jpg?t=1774466441",
+        "Date": "2026",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774468582.96481,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4540150": {
+        "Title": "GridFall",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4540150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4540150/5dac40ceca64259ef96a5d47ba9b7344c3cd9931/header.jpg?t=1774468083",
+        "Date": "April 2026",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774468611.472079,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4551680": {
+        "Title": "Bounced: Not Tonight",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4551680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4551680/99657c32975633e70867eef88ab78546383f5a19/header.jpg?t=1774466691",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774468613.9577694,
+        "MatchedTags": [
+            "management"
         ]
     }
 }
