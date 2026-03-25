@@ -5785,9 +5785,9 @@
         "URL": "https://store.steampowered.com/app/4492100/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492100/a5a28ce7723f8938411c230d30650789bcebdcb9/header.jpg?t=1773239151",
-        "Date": "March 2026",
-        "AddedDate": "2026-03-11",
-        "AddedTimestamp": 1773241673.914448,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774436979.8324559,
         "MatchedTags": [
             "strategy"
         ]
@@ -14148,6 +14148,64 @@
             "strategy",
             "tower defense",
             "base building"
+        ]
+    },
+    "1771320": {
+        "Title": "Project XZ",
+        "Email": "",
+        "Discord": "https://discord.gg/7qtqpn6mYe",
+        "URL": "https://store.steampowered.com/app/1771320/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1771320/7845dded11c8200e2d1d97d08314ac7e98482a44/header.jpg?t=1774435571",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774436958.8775852,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "real time tactics"
+        ]
+    },
+    "4409290": {
+        "Title": "Kansallislintuja; punaisessa planeetassa.",
+        "Email": "",
+        "Discord": "https://discord.gg/uAtmNXrzXH",
+        "URL": "https://store.steampowered.com/app/4409290/",
+        "Site": "http://olisinpa.com/kansallislintuja",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4409290/06642baf60fa5f52f6b7022c0c83da6018a8bfb1/header.jpg?t=1774436348",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774436964.8196416,
+        "MatchedTags": [
+            "colony sim"
+        ]
+    },
+    "4461760": {
+        "Title": "Cup Heroes",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4461760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4461760/7e93c5a350871dfebf6ca749a580fc8818f5ebd0/header.jpg?t=1774434211",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774436976.803436,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4537880": {
+        "Title": "The Great Flock Off",
+        "Email": "",
+        "Discord": "https://discord.gg/AdfpdwuzXT",
+        "URL": "https://store.steampowered.com/app/4537880/",
+        "Site": "https://flockoff.fun/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4537880/738d6596f5cc0d527268376e2405a9a54c349562/header.jpg?t=1774436069",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774436993.228486,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
