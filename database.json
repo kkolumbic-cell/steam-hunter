@@ -5913,13 +5913,13 @@
         "AddedDate": "2026-03-11",
         "AddedTimestamp": 1773256300.8371727,
         "MatchedTags": [
-            "tactical rpg",
-            "turn-based tactics",
-            "resource management",
             "turn-based combat",
+            "turn-based tactics",
+            "tactical rpg",
             "strategy",
-            "survival horror",
-            "turn-based strategy"
+            "resource management",
+            "turn-based strategy",
+            "tactical"
         ]
     },
     "4462890": {
@@ -13914,6 +13914,111 @@
         "AddedDate": "2026-03-25",
         "AddedTimestamp": 1774408905.930133,
         "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4143850": {
+        "Title": "Diabolocracy",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4143850/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4143850/6691689ca2696688caff956e044acc460ba8e098/header.jpg?t=1774409916",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774417184.695777,
+        "MatchedTags": [
+            "tactical rpg",
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "turn-based combat",
+            "tactical"
+        ]
+    },
+    "4286960": {
+        "Title": "Island For Sale",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4286960/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286960/0a139027bd0c1fc69653ee117ae61904f932af8a/header.jpg?t=1774411593",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774417190.278929,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4379390": {
+        "Title": "AFK Tactics",
+        "Email": "",
+        "Discord": "https://discord.gg/2HzjJxWKM3",
+        "URL": "https://store.steampowered.com/app/4379390/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4379390/70e4c477293ab39335d065535df353b5fdcabb9f/header.jpg?t=1774410989",
+        "Date": "Mar 26, 2026",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774417200.7701707,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg"
+        ]
+    },
+    "4516010": {
+        "Title": "Slumber Craft",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4516010/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516010/39a27f8fd502d6d1267f3723916870723df8b287/header.jpg?t=1774415525",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774417229.4906452,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4534010": {
+        "Title": "Scene No.0",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4534010/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534010/86555cf38f0965fdd03425ccafa355ad96cfaece/header.jpg?t=1774416719",
+        "Date": "Apr 6, 2026",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774417237.30429,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4535690": {
+        "Title": "evoke: The Rules of Toys",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4535690/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4535690/c4e73fbbd12087c780dfb4bfb174fdff4a4aa909/header.jpg?t=1774409489",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774417240.1172044,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4547250": {
+        "Title": "ANIMA : Dark Fairy Tale for Adults",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4547250/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4547250/7971779943bfc266161a30c05e51a2ce41d9a824/header.jpg?t=1774415379",
+        "Date": "Apr 19, 2026",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774417253.7622457,
+        "MatchedTags": [
+            "psychological horror",
             "horror"
         ]
     }
