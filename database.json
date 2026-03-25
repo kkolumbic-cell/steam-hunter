@@ -7256,7 +7256,7 @@
     "4173810": {
         "Title": "Resort Island Simulator: Prologue",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/EGKd5CVw",
         "URL": "https://store.steampowered.com/app/4173810/",
         "Site": "https://tenjingames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4173810/7220a33e9e2ce219e7d2f26dca4531687a929d39/header.jpg?t=1773411573",
@@ -12336,9 +12336,9 @@
         "URL": "https://store.steampowered.com/app/4428980/",
         "Site": "https://app.bio.link/dashboard/links",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4428980/0888d404654666d61b98115e7a2e6e0e2146a393/header.jpg?t=1774234235",
-        "Date": "April 2026",
-        "AddedDate": "2026-03-23",
-        "AddedTimestamp": 1774236311.7822921,
+        "Date": "Apr 6, 2026",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774433437.8236854,
         "MatchedTags": [
             "base building"
         ]
@@ -14132,6 +14132,22 @@
             "turn-based tactics",
             "turn-based combat",
             "tactical"
+        ]
+    },
+    "4500660": {
+        "Title": "Cosmic Robots",
+        "Email": "",
+        "Discord": "https://discord.gg/XjMbMVZG",
+        "URL": "https://store.steampowered.com/app/4500660/",
+        "Site": "https://aniode.com/cosmicrobotssteam.html",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4500660/449f313bfdb5c7d575cf0bb8338be1c4bae6fa9c/header.jpg?t=1774430042",
+        "Date": "July 2026",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774433443.8356605,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "base building"
         ]
     }
 }
