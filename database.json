@@ -3710,9 +3710,9 @@
         "URL": "https://store.steampowered.com/app/4195020/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4195020/5581c9ff955117fc8588d6d566f311d2fa6d220a/header.jpg?t=1772896494",
-        "Date": "March 2026",
-        "AddedDate": "2026-03-08",
-        "AddedTimestamp": 1772963155.2994256,
+        "Date": "Mar 25, 2026",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774429815.081837,
         "MatchedTags": [
             "strategy"
         ]
@@ -14065,6 +14065,73 @@
             "strategy",
             "resource management",
             "city builder"
+        ]
+    },
+    "4537770": {
+        "Title": "Nonogueram",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4537770/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4537770/51b3d02f9bc98d4218304c047a4f8f150a3f12f3/header.jpg?t=1774428122",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774429849.9630473,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4537800": {
+        "Title": "Snuggle Nightmare",
+        "Email": "questionsbluemoon@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4537800/",
+        "Site": "https://www.catiregamesstudio.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4537800/9c62ef7dceb3c83ab0965c1f65c73e8e9f0cc5c5/header.jpg?t=1774428159",
+        "Date": "2026",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774429852.9366617,
+        "MatchedTags": [
+            "horror",
+            "strategy",
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "4538170": {
+        "Title": "Yet Another Reality Show",
+        "Email": "",
+        "Discord": "https://discord.gg/2CmtvmF2HQ",
+        "URL": "https://store.steampowered.com/app/4538170/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4538170/1d58b0eabf68b41009112f1ffeea04dcee431b32/header.jpg?t=1774426380",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774429856.6698635,
+        "MatchedTags": [
+            "turn-based strategy",
+            "strategy",
+            "turn-based combat",
+            "turn-based tactics"
+        ]
+    },
+    "4546420": {
+        "Title": "Gridwardens",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4546420/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4546420/96caf89eb634cabb1efd6da889a62bc0ab5d298b/header.jpg?t=1774427385",
+        "Date": "Apr 8, 2026",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774429868.8949919,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "turn-based combat",
+            "tactical"
         ]
     }
 }
