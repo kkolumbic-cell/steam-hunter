@@ -14850,9 +14850,9 @@
         "URL": "https://store.steampowered.com/app/4429730/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4429730/81d3456ec5a06892269af8994b892a10d9ab59d8/header.jpg?t=1774479369",
-        "Date": "TBA",
+        "Date": "Coming soon",
         "AddedDate": "2026-03-25",
-        "AddedTimestamp": 1774479441.8491535,
+        "AddedTimestamp": 1774482698.882905,
         "MatchedTags": [
             "resource management"
         ]
@@ -14870,6 +14870,52 @@
         "MatchedTags": [
             "management",
             "economy"
+        ]
+    },
+    "3619000": {
+        "Title": "Mikane's Hand",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3619000/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3619000/15de2d5b5dfcf7594dca56e640b77386f34b2340/header.jpg?t=1774481498",
+        "Date": "2026",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774482691.6675436,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "4443350": {
+        "Title": "Zombuds",
+        "Email": "contact@gamecraftstudios.com",
+        "Discord": "https://discord.com/invite/N8w7PmS",
+        "URL": "https://store.steampowered.com/app/4443350/",
+        "Site": "https://gamecraftstudios.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4443350/e68c5d7f4b324a81cf28482b0144e472b266c9d0/header.jpg?t=1774479550",
+        "Date": "TBA",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774482700.8600261,
+        "MatchedTags": [
+            "base building",
+            "management"
+        ]
+    },
+    "4524800": {
+        "Title": "Shellshock",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4524800/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4524800/e45f3dd44941dc4166ee62cd50816e6245903783/header.jpg?t=1774479968",
+        "Date": "TBA",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774482714.5177135,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
