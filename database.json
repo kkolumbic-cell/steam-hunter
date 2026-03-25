@@ -8204,9 +8204,9 @@
         "URL": "https://store.steampowered.com/app/4310470/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4310470/5e1266d0d3f64d93e2595dcea17917355bf6341b/header.jpg?t=1773664345",
-        "Date": "Mar 25, 2026",
-        "AddedDate": "2026-03-24",
-        "AddedTimestamp": 1774380715.2064366,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774439897.2644515,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -13015,9 +13015,9 @@
         "URL": "https://store.steampowered.com/app/4536740/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4536740/a39fef079c97f7368e1dc146a5fd2cd7c0b8afb2/header.jpg?t=1774346486",
-        "Date": "July 2026",
-        "AddedDate": "2026-03-24",
-        "AddedTimestamp": 1774353526.04727,
+        "Date": "2026",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774439923.1213078,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -14206,6 +14206,39 @@
         "AddedTimestamp": 1774436993.228486,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4389010": {
+        "Title": "Caribbean Frontier",
+        "Email": "",
+        "Discord": "https://discord.gg/y68nXD5bPz",
+        "URL": "https://store.steampowered.com/app/4389010/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4389010/aa6151ba79a438ed2310c27619c942c108e4b692/header.jpg?t=1774439819",
+        "Date": "Dec 31, 2026",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774439906.5660267,
+        "MatchedTags": [
+            "strategy",
+            "colony sim",
+            "city builder",
+            "management",
+            "economy"
+        ]
+    },
+    "4428330": {
+        "Title": "GreenMars: Expedition 744",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4428330/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4428330/b6dc41e781e088c2e1c76cd2161f7d94faa4eff2/header.jpg?t=1774439739",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-25",
+        "AddedTimestamp": 1774439913.9998515,
+        "MatchedTags": [
+            "base building",
+            "resource management"
         ]
     }
 }
