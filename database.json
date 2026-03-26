@@ -4851,9 +4851,9 @@
         "URL": "https://store.steampowered.com/app/4487310/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4487310/b023eb4c09e5150ffcda418dbd1b525aa72d017c/header.jpg?t=1773139170",
-        "Date": "April 2026",
-        "AddedDate": "2026-03-21",
-        "AddedTimestamp": 1774083073.7665787,
+        "Date": "Apr 10, 2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774533671.6701775,
         "MatchedTags": [
             "resource management",
             "management"
@@ -14743,9 +14743,9 @@
         "URL": "https://store.steampowered.com/app/4401100/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4401100/85f52b5c7ea2b4b5455e6f8c72930a82bdbbd36a/header.jpg?t=1774470022",
-        "Date": "TBA",
-        "AddedDate": "2026-03-25",
-        "AddedTimestamp": 1774472208.001077,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774533650.5779667,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -15234,6 +15234,52 @@
         "AddedTimestamp": 1774526645.9972177,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4073500": {
+        "Title": "Only Booze: Liquor Store Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4073500/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4073500/d170341d54686d3df7d111205d2a4dc2bd010a6a/header.jpg?t=1774527881",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774533633.4409957,
+        "MatchedTags": [
+            "management",
+            "resource management",
+            "economy"
+        ]
+    },
+    "4408710": {
+        "Title": "Traffic Stop Anomaly",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4408710/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4408710/bb4e9c0f744cd894064ccf89c27ee4091fbfc990/header.jpg?t=1774530911",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774533652.9407675,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4545170": {
+        "Title": "EDU SIMULATOR",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4545170/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4545170/65691beef64296250669efb736576d8bac07deed/header.jpg?t=1774533367",
+        "Date": "April 2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774533705.5094032,
+        "MatchedTags": [
+            "survival horror",
+            "horror",
+            "psychological horror"
         ]
     }
 }
