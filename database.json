@@ -15635,9 +15635,9 @@
         "URL": "https://store.steampowered.com/app/4529260/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4529260/2d846513cb8443e03f9f1e26b03923b80db9743c/header.jpg?t=1774553286",
-        "Date": "Coming soon",
+        "Date": "April 2026",
         "AddedDate": "2026-03-26",
-        "AddedTimestamp": 1774553710.0486336,
+        "AddedTimestamp": 1774561662.4974053,
         "MatchedTags": [
             "strategy",
             "management",
@@ -15801,6 +15801,51 @@
             "management",
             "tactical",
             "turn-based combat"
+        ]
+    },
+    "2777100": {
+        "Title": "GALLANT: Arena of the Alchemist",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2777100/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2777100/ea4b37bf7bdfa3d05807bb353d52088405ac87fd/header.jpg?t=1774561481",
+        "Date": "2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774561639.4009094,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4168390": {
+        "Title": "MAN EAT MAN",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4168390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4168390/eb3f30c9398b0b853d6edf0781168cc25fd476fc/header.jpg?t=1774560156",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774561641.891244,
+        "MatchedTags": [
+            "tactical rpg",
+            "turn-based tactics",
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4427760": {
+        "Title": "SoulBite",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4427760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4427760/43bd868ee45291a4e2039ee764dab987bf2e0669/header.jpg?t=1774559611",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774561649.4887424,
+        "MatchedTags": [
+            "resource management"
         ]
     }
 }
