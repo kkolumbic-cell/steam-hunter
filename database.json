@@ -2712,9 +2712,9 @@
         "URL": "https://store.steampowered.com/app/4499900/",
         "Site": "https://jestercraft.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4499900/e658d87fca85681222b096d6892b066c431d7f01/header.jpg?t=1772799056",
-        "Date": "Mar 26, 2026",
-        "AddedDate": "2026-03-06",
-        "AddedTimestamp": 1772803855.1158183,
+        "Date": "Mar 27, 2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774545639.4581783,
         "MatchedTags": [
             "psychological horror",
             "tactical"
@@ -15390,6 +15390,129 @@
             "tower defense",
             "base building",
             "tactical"
+        ]
+    },
+    "2684730": {
+        "Title": "Dangidice",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2684730/",
+        "Site": "https://dangidice.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684730/11be38ae595670ee46b82c7c21e66dd30bc6855d/header.jpg?t=1774544088",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774545590.8952894,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "tactical",
+            "turn-based tactics"
+        ]
+    },
+    "4364650": {
+        "Title": "Space Numbers Go Up",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4364650/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4364650/ba8ac960a97ab92dd15f90ca74496526a3112ff0/header.jpg?t=1774544179",
+        "Date": "2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774545605.8274827,
+        "MatchedTags": [
+            "strategy",
+            "economy"
+        ]
+    },
+    "4367330": {
+        "Title": "Avoid The Stalin's Purge",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4367330/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4367330/121c95c1603c52df3f6db8f418785f570bf9bdc4/header.jpg?t=1774543944",
+        "Date": "April 2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774545608.4198828,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4475780": {
+        "Title": "Block Shooter",
+        "Email": "",
+        "Discord": "https://discord.gg/blockshooter",
+        "URL": "https://store.steampowered.com/app/4475780/",
+        "Site": "https://blockshooter.club/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475780/03e2d6859649435310a549c95cc25f887a9225bf/header.jpg?t=1774541542",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774545629.1703877,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4527840": {
+        "Title": "Of Grace & Gambit",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4527840/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4527840/ae6b610a085fc3550d9d9f9bd2096137a2516935/header.jpg?t=1774543206",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774545646.906263,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4528060": {
+        "Title": "Dominoir",
+        "Email": "",
+        "Discord": "https://discord.gg/Ejd2y3QG",
+        "URL": "https://store.steampowered.com/app/4528060/",
+        "Site": "https://weingames.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528060/be8ef9986d4d00ef9b021eb28dcb599ebb9a60bb/header.jpg?t=1774543724",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774545649.9669595,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4545380": {
+        "Title": "Echoes of Choice",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4545380/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4545380/d9533016d9c8d88c7e4de88df5b9c14166f6c0b3/header.jpg?t=1774542477",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774545666.5518162,
+        "MatchedTags": [
+            "turn-based combat",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical rpg"
+        ]
+    },
+    "4550740": {
+        "Title": "Kidnapped Simulator",
+        "Email": "",
+        "Discord": "https://discord.gg/GspH7CYTJM",
+        "URL": "https://store.steampowered.com/app/4550740/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4550740/608f67fb047fb4eca169a7926b36f22032e2aa5d/header.jpg?t=1774543514",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774545673.0267117,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
         ]
     }
 }
