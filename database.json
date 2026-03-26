@@ -7195,9 +7195,9 @@
         "URL": "https://store.steampowered.com/app/4475930/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4475930/1939b83798ca046f8f260c7f1ba17162e68aaace/header.jpg?t=1773407295",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-15",
-        "AddedTimestamp": 1773611075.2213585,
+        "Date": "Mar 30, 2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774568995.2783709,
         "MatchedTags": [
             "strategy",
             "management",
@@ -15806,7 +15806,7 @@
     "2777100": {
         "Title": "GALLANT: Arena of the Alchemist",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/5VdGzmjM7q",
         "URL": "https://store.steampowered.com/app/2777100/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2777100/ea4b37bf7bdfa3d05807bb353d52088405ac87fd/header.jpg?t=1774561481",
@@ -15864,6 +15864,66 @@
             "turn-based strategy",
             "tactical rpg",
             "tactical"
+        ]
+    },
+    "4155470": {
+        "Title": "The Hour: Echoes of the Crescent",
+        "Email": "",
+        "Discord": "https://discord.gg/9BpfHaz5b2",
+        "URL": "https://store.steampowered.com/app/4155470/",
+        "Site": "https://www.veilbreakstudio.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4155470/86126a94e647e9556835bbbfb11cfa2db7a581cf/header.jpg?t=1774567890",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774568974.1046565,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4290250": {
+        "Title": "Phantacall Realm",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4290250/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4290250/e4fdfbd48306af25a35e0e973ea0aeb5189044dd/header.jpg?t=1774567076",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774568978.9828203,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4529860": {
+        "Title": "Alibi",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4529860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4529860/5176892d6edf1e94e86b012757283152389b52d0/header.jpg?t=1774567407",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774569000.8532946,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4541610": {
+        "Title": "Ascension: The Infinite Descent",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4541610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4541610/d9f083126aca3b9d4a6b21b5e22d2eeae41a97d4/header.jpg?t=1774566195",
+        "Date": "Aug 14, 2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774569005.0027177,
+        "MatchedTags": [
+            "turn-based combat",
+            "turn-based strategy",
+            "tactical",
+            "strategy"
         ]
     }
 }
