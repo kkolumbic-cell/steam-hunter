@@ -14836,9 +14836,9 @@
         "URL": "https://store.steampowered.com/app/3856960/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3856960/93503d783a23f5828072f7c489d9d6312ca3cb6b/header.jpg?t=1774477447",
-        "Date": "TBA",
-        "AddedDate": "2026-03-25",
-        "AddedTimestamp": 1774479433.9778476,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774495717.5134897,
         "MatchedTags": [
             "resource management"
         ]
@@ -14916,6 +14916,94 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "3884330": {
+        "Title": "Orbital Traffic Controller",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3884330/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3884330/5f07d575283ff2fb83d2853f42ba1b3fd0618281/header.jpg?t=1774489572",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774495719.3902383,
+        "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "4528440": {
+        "Title": "\u963f\u8d56\u8036\uff1a\u5e7d\u68a6\u5947\u8c2d",
+        "Email": "",
+        "Discord": "https://discord.gg/Kg37aBg9",
+        "URL": "https://store.steampowered.com/app/4528440/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4528440/29995616e31d2ea5a9edd735049f7859adbd63a1/header.jpg?t=1774492798",
+        "Date": "TBA",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774495782.2704465,
+        "MatchedTags": [
+            "turn-based combat",
+            "strategy"
+        ]
+    },
+    "4539320": {
+        "Title": "RoPos",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4539320/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4539320/37eaa71d07ab2cf3a823658e1de5a5bd05ed3b38/header.jpg?t=1774487550",
+        "Date": "May 21, 2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774495799.893092,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4539460": {
+        "Title": "Fragments of Fear",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4539460/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4539460/a77982b2fe6ec1f84986f93615825e04476298dc/header.jpg?t=1774492927",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774495802.4140167,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4550500": {
+        "Title": "Journey",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4550500/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4550500/29ba3302de6d69162cbeb0ac38278c046ffa6a65/header.jpg?t=1774494624",
+        "Date": "Aug 31, 2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774495812.9990108,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4552190": {
+        "Title": "\u300a30\u5929\u300b",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4552190/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4552190/9be1ea5089a9c6e32abfd2f9781b1caaf3db307f/header.jpg?t=1774486760",
+        "Date": "Sep 30, 2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774495815.2182589,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
         ]
     }
 }
