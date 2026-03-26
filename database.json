@@ -5415,9 +5415,9 @@
         "URL": "https://store.steampowered.com/app/4494970/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4494970/bb826898e2a76af7809089f036d4cf53829bfcb9/header.jpg?t=1773196781",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-11",
-        "AddedTimestamp": 1773197449.98746,
+        "Date": "Apr 8, 2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774516540.9029245,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -5434,8 +5434,7 @@
         "AddedDate": "2026-03-11",
         "AddedTimestamp": 1773197457.126645,
         "MatchedTags": [
-            "strategy",
-            "turn-based strategy"
+            "strategy"
         ]
     },
     "4504640": {
@@ -15050,6 +15049,80 @@
         "MatchedTags": [
             "grand strategy",
             "strategy"
+        ]
+    },
+    "4292930": {
+        "Title": "Unbound Pioneer",
+        "Email": "",
+        "Discord": "https://discord.gg/R749bfdADw",
+        "URL": "https://store.steampowered.com/app/4292930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4292930/834cbba55a684cf9fdbfd5c46d288eb5475cb3b8/header.jpg?t=1774511750",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774516517.0709805,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4513510": {
+        "Title": "Beefy Boi",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4513510/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4513510/126add1bf4376d97a3456a701b99fa72f8557075/header.jpg?t=1774511140",
+        "Date": "April 2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774516555.6099303,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4535860": {
+        "Title": "The Way Home | \uc9d1\uc73c\ub85c \uac00\ub294 \uae38",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4535860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4535860/efe4698ccc9b6f4e4d49d3bfb50f0bf48fd2f8f2/header.jpg?t=1774515994",
+        "Date": "April 2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774516565.223607,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4550450": {
+        "Title": "Hotel Renovator Simulator",
+        "Email": "support@cgilabdesign.de",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4550450/",
+        "Site": "https://cgilabdesign.de",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4550450/4442f5db28904a27995e0262e5694541db583e88/header.jpg?t=1774512047",
+        "Date": "2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774516578.10178,
+        "MatchedTags": [
+            "management",
+            "economy"
+        ]
+    },
+    "4553360": {
+        "Title": "King Of Leberkas - Austria Restaurant Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4553360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4553360/e6a51a215aae1469125093c8bc353c9ca0c07d3d/header.jpg?t=1774515677",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774516584.3846705,
+        "MatchedTags": [
+            "management",
+            "economy"
         ]
     }
 }
