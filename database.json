@@ -7422,9 +7422,9 @@
         "URL": "https://store.steampowered.com/app/4324480/",
         "Site": "https://dirtybusinessgame.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324480/0bf41369aa9d8f70fd5b1dfcf9b71b0a5b1074f3/header.jpg?t=1773427402",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-13",
-        "AddedTimestamp": 1773428555.632066,
+        "Date": "2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774553644.9273047,
         "MatchedTags": [
             "management",
             "base building"
@@ -8201,9 +8201,9 @@
         "URL": "https://store.steampowered.com/app/4310470/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4310470/5e1266d0d3f64d93e2595dcea17917355bf6341b/header.jpg?t=1773664345",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-25",
-        "AddedTimestamp": 1774439897.2644515,
+        "Date": "Mar 30, 2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774553640.2226768,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -9452,9 +9452,9 @@
         "URL": "https://store.steampowered.com/app/4519930/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4519930/24c8c880217fe396f90a9b7c2888d1d8186be2e0/header.jpg?t=1773783174",
-        "Date": "Jun 30, 2026",
-        "AddedDate": "2026-03-17",
-        "AddedTimestamp": 1773784540.5888376,
+        "Date": "Q2 2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774553705.0757918,
         "MatchedTags": [
             "survival horror",
             "psychological horror",
@@ -9900,7 +9900,7 @@
         "AddedDate": "2026-03-18",
         "AddedTimestamp": 1773842144.2734532,
         "MatchedTags": [
-            "economy",
+            "management",
             "resource management"
         ]
     },
@@ -15513,6 +15513,243 @@
         "MatchedTags": [
             "psychological horror",
             "horror"
+        ]
+    },
+    "2400080": {
+        "Title": "Scenarios Of The Ancient Realm",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2400080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2400080/7004dd0e1a5b32e338456bf36afa16fb22b86119/header.jpg?t=1774547806",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774553610.1355278,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "2439030": {
+        "Title": "Vaunted",
+        "Email": "",
+        "Discord": "https://discord.gg/uFP4Pj8wGz",
+        "URL": "https://store.steampowered.com/app/2439030/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2439030/61e37611984a481b09b7616c4fd17fbca4fa57da/header.jpg?t=1774546217",
+        "Date": "2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774553612.3504515,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "real time tactics",
+            "tactical rpg"
+        ]
+    },
+    "4284830": {
+        "Title": "Ribbit Jump",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4284830/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4284830/91e0602c897e99677491e956b2c13ed194906fcc/header.jpg?t=1774549122",
+        "Date": "2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774553637.1552994,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4315880": {
+        "Title": "Ponder Thy Realm",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4315880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4315880/6634a719ead981f718738216e361a3659b1b28f8/header.jpg?t=1774551546",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774553642.5985277,
+        "MatchedTags": [
+            "strategy",
+            "survival horror"
+        ]
+    },
+    "4404900": {
+        "Title": "Dominos",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4404900/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4404900/58d04aae78dfabb9d2e3e3fdf1c0a187d3913289/header.jpg?t=1774551282",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774553655.3110242,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "real time tactics",
+            "turn-based tactics",
+            "tactical",
+            "turn-based combat"
+        ]
+    },
+    "4513150": {
+        "Title": "Built the End",
+        "Email": "",
+        "Discord": "https://discord.gg/vRGDXdhyEy",
+        "URL": "https://store.steampowered.com/app/4513150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4513150/b80528a73bed94a88c96e452099183e381f18d6e/header.jpg?t=1774549703",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774553698.1337025,
+        "MatchedTags": [
+            "tower defense",
+            "strategy",
+            "resource management",
+            "economy",
+            "turn-based tactics",
+            "base building"
+        ]
+    },
+    "4514780": {
+        "Title": "I WILL BE THERE: Remastered Edition",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4514780/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4514780/c4f9e5f8b541f4c35f8de8709d148444305becd4/header.jpg?t=1774551218",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774553700.0901687,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4529260": {
+        "Title": "Infinite Dungeon: Idle Adventure",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4529260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4529260/2d846513cb8443e03f9f1e26b03923b80db9743c/header.jpg?t=1774553286",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774553710.0486336,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "economy"
+        ]
+    },
+    "4531670": {
+        "Title": "Cromania",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4531670/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4531670/9b3d941484c1a7024343f1f64ad5f6dd2da60057/header.jpg?t=1774553488",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774553715.2916563,
+        "MatchedTags": [
+            "turn-based tactics",
+            "turn-based combat",
+            "resource management"
+        ]
+    },
+    "4537250": {
+        "Title": "Batak",
+        "Email": "",
+        "Discord": "https://discord.gg/zU3pM6JxrU",
+        "URL": "https://store.steampowered.com/app/4537250/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4537250/f01a273fbae4347d14cdbdee24038235bedd91f4/header.jpg?t=1774549499",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774553722.6353767,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy"
+        ]
+    },
+    "4538860": {
+        "Title": "COZY MOVING DAY",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4538860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4538860/080799c74973f37d414ceec44127d6bdebc9094c/header.jpg?t=1774546445",
+        "Date": "2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774553725.6366472,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4542610": {
+        "Title": "The Baron's Burden: One Fortnight",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4542610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4542610/3ddaa905fae0c55c52d436f1b6f21cb461d8542e/header.jpg?t=1774547497",
+        "Date": "Apr 8, 2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774553734.337897,
+        "MatchedTags": [
+            "resource management",
+            "strategy",
+            "management"
+        ]
+    },
+    "4544690": {
+        "Title": "The Labyrinth",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4544690/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4544690/baf4f5f682cda1dce85ddb33e52683ef9f342c1f/header.jpg?t=1774553100",
+        "Date": "May 2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774553740.4788597,
+        "MatchedTags": [
+            "psychological horror",
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4547110": {
+        "Title": "Vaethorn: Realm of Legends",
+        "Email": "info@yankuu.games",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4547110/",
+        "Site": "https://www.yankuu.games/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4547110/f8a5cee1506a0db24f9663602eecedb7c82d00f0/header.jpg?t=1774553163",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774553749.2374127,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4554080": {
+        "Title": "Socrates Ragebait",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4554080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4554080/c43a74cdf61897da66199f9ccc10f9569b1cff7c/header.jpg?t=1774546177",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-03-26",
+        "AddedTimestamp": 1774553756.1191607,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
