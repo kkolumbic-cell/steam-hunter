@@ -285,13 +285,14 @@
         "URL": "https://store.steampowered.com/app/4381330/",
         "Site": "https://7eagle.net",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4381330/7f0dffc94d85354c059a4dfdd3b034cfba8a143d/header.jpg?t=1772623973",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-03-04",
+        "Date": "Apr 23, 2026",
+        "AddedDate": "2026-03-27",
         "MatchedTags": [
             "strategy",
             "survival horror",
             "horror"
-        ]
+        ],
+        "AddedTimestamp": 1774655238.959036
     },
     "4413170": {
         "Title": "Deadhead: Autorail",
@@ -16686,10 +16687,11 @@
         "AddedDate": "2026-03-27",
         "AddedTimestamp": 1774645100.6386197,
         "MatchedTags": [
-            "strategy",
             "city builder",
+            "strategy",
             "management",
-            "resource management"
+            "resource management",
+            "colony sim"
         ]
     },
     "4527900": {
@@ -16759,9 +16761,9 @@
         "URL": "https://store.steampowered.com/app/4489310/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4489310/3145a52e2eb5a8598330397e9af719079c4955af/header.jpg?t=1774649470",
-        "Date": "2026",
+        "Date": "April 2026",
         "AddedDate": "2026-03-27",
-        "AddedTimestamp": 1774652028.1961823,
+        "AddedTimestamp": 1774655253.8558464,
         "MatchedTags": [
             "economy"
         ]
@@ -16779,6 +16781,39 @@
         "MatchedTags": [
             "horror",
             "management"
+        ]
+    },
+    "4481230": {
+        "Title": "Terra: The Voracious",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4481230/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4481230/a13e061bb5b65d65d67d3f56bf83fe3b9ef27044/header.jpg?t=1774655010",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774655252.0433345,
+        "MatchedTags": [
+            "turn-based tactics",
+            "turn-based combat",
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4554070": {
+        "Title": "Overbloom",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4554070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4554070/be7a37f77639ae87ec1a965ce3892739250366d4/header.jpg?t=1774652158",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774655276.8325884,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "resource management"
         ]
     }
 }
