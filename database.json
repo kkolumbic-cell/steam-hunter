@@ -7393,9 +7393,9 @@
         "URL": "https://store.steampowered.com/app/4496400/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4496400/74fe653cf540a3b365d6d2b64c42549518429b3b/header.jpg?t=1773423010",
-        "Date": "March 2026",
-        "AddedDate": "2026-03-14",
-        "AddedTimestamp": 1773457694.0388465,
+        "Date": "Mar 27, 2026",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774596993.7237666,
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
@@ -11820,12 +11820,12 @@
         "URL": "https://store.steampowered.com/app/4537820/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4537820/17643df779cf9818f8aafbce5b35d1b6aca285c3/header.jpg?t=1774050282",
-        "Date": "TBA",
-        "AddedDate": "2026-03-20",
-        "AddedTimestamp": 1774050324.8843923,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774597001.193217,
         "MatchedTags": [
-            "horror",
-            "psychological horror"
+            "psychological horror",
+            "horror"
         ]
     },
     "4408260": {
@@ -12862,9 +12862,9 @@
         "URL": "https://store.steampowered.com/app/4542270/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4542270/f1838c6c145440f942ff4ff58c94edcc7c1ac712/header.jpg?t=1774318677",
-        "Date": "Sep 30, 2026",
-        "AddedDate": "2026-03-24",
-        "AddedTimestamp": 1774322206.7419326,
+        "Date": "To be announced",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774597009.0817335,
         "MatchedTags": [
             "real time tactics"
         ]
@@ -16061,6 +16061,66 @@
             "base building",
             "strategy",
             "tower defense"
+        ]
+    },
+    "4537850": {
+        "Title": "Jack The Reaper : Vagrants in the Mist",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4537850/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4537850/809ae45f2b5783a9c3be64188dc0e2d7d52ebb35/header.jpg?t=1774592175",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774597003.498865,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4546040": {
+        "Title": "The Death Handover",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4546040/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4546040/7e125769edca30554e401d06f03a7093c0cd3935/header.jpg?t=1774596433",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774597014.4085376,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4547800": {
+        "Title": "EIR",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4547800/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4547800/dae59179f515660d3046211204501a459f2ba28b/header.jpg?t=1774594202",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774597016.5381083,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4553780": {
+        "Title": "Crystal Ascend",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4553780/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553780/949914926a8109c49d2f671f58bf251606a20d52/header.jpg?t=1774592725",
+        "Date": "2026",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774597022.1141834,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "resource management",
+            "strategy"
         ]
     }
 }
