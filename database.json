@@ -3051,9 +3051,9 @@
         "URL": "https://store.steampowered.com/app/4223220/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223220/6e5d42446a8ebd1c7b36645851a1f14191fbcbdb/header.jpg?t=1772819881",
-        "Date": "March 2026",
-        "AddedDate": "2026-03-06",
-        "AddedTimestamp": 1772823872.2426903,
+        "Date": "2026",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774582266.7163332,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -12216,10 +12216,10 @@
     },
     "4537280": {
         "Title": "House Rules",
-        "Email": "",
-        "Discord": "",
+        "Email": "business@dalichro.me",
+        "Discord": "https://discord.gg/DFD65qfWWw",
         "URL": "https://store.steampowered.com/app/4537280/",
-        "Site": "",
+        "Site": "https://dalichro.me",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4537280/d8986e6b93950426e39330b30d02dcc1e616af39/header.jpg?t=1774206063",
         "Date": "2026",
         "AddedDate": "2026-03-22",
@@ -15431,9 +15431,9 @@
         "URL": "https://store.steampowered.com/app/4367330/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4367330/121c95c1603c52df3f6db8f418785f570bf9bdc4/header.jpg?t=1774543944",
-        "Date": "April 2026",
-        "AddedDate": "2026-03-26",
-        "AddedTimestamp": 1774545608.4198828,
+        "Date": "Apr 8, 2026",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774582273.5162885,
         "MatchedTags": [
             "horror"
         ]
@@ -15888,9 +15888,9 @@
         "URL": "https://store.steampowered.com/app/4290250/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4290250/e4fdfbd48306af25a35e0e973ea0aeb5189044dd/header.jpg?t=1774567076",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-26",
-        "AddedTimestamp": 1774568978.9828203,
+        "Date": "Jul 23, 2026",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774582270.49983,
         "MatchedTags": [
             "strategy"
         ]
@@ -15923,6 +15923,128 @@
             "turn-based combat",
             "turn-based strategy",
             "tactical",
+            "strategy"
+        ]
+    },
+    "4242200": {
+        "Title": "Hauntworks",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4242200/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4242200/16077d8aee3e2a83cdf14829424f733a3db055a6/header.jpg?t=1774580716",
+        "Date": "October 2026",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774582268.5190742,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "base building",
+            "horror"
+        ]
+    },
+    "4393990": {
+        "Title": "Prehistoric Pack",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4393990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4393990/d610e701a5438263293b3812ae9f2b0dd94d7703/header.jpg?t=1774574293",
+        "Date": "Apr 30, 2026",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774582276.4822154,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4459750": {
+        "Title": "\u90e8\u843d\u5f81\u670d\uff1a\u8054\u76df\u5d1b\u8d77 Tempest bastion",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4459750/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4459750/6bfaec865347ac486f96ee58f5671f2f1bc89e2d/header.jpg?t=1774573921",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774582290.775531,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4516860": {
+        "Title": "RuneClick",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4516860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4516860/e9655172cc285b17923633368de14c8201746a65/header.jpg?t=1774581919",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774582325.287926,
+        "MatchedTags": [
+            "resource management",
+            "economy"
+        ]
+    },
+    "4522990": {
+        "Title": "Veil Breach: Raven County",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4522990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4522990/4a15a87596f4b34a62275b7be5ec649e773563b4/header.jpg?t=1774569721",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774582330.5726366,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4538260": {
+        "Title": "SeverSoul XOOKEEPER",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4538260/",
+        "Site": "https://www.seversoul.com/xookeeper",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4538260/55bcad7d1f1dcf51f1e4b504da2d5f1199e01166/header.jpg?t=1774576007",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774582363.3493073,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror",
+            "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4542650": {
+        "Title": "AnimalSchool",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4542650/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4542650/d8282de98b059a467d9a74803695d326a5eea543/header.jpg?t=1774575624",
+        "Date": "Apr 10, 2026",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774582377.7168572,
+        "MatchedTags": [
+            "city builder",
+            "resource management"
+        ]
+    },
+    "4543670": {
+        "Title": "Stack Match",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4543670/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4543670/d77bb1cc1a539d9fa7a2acbd556cfa3690ec6f25/header.jpg?t=1774569983",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774582380.6504688,
+        "MatchedTags": [
             "strategy"
         ]
     }
