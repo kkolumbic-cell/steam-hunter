@@ -16195,14 +16195,14 @@
     },
     "2703760": {
         "Title": "Colorable",
-        "Email": "info@sanforgestudio.com, career@sanforgestudio.com, business@sanforgestudio.com, press@sanforgestudio.com",
+        "Email": "career@sanforgestudio.com, press@sanforgestudio.com, business@sanforgestudio.com, info@sanforgestudio.com",
         "Discord": "https://discord.gg/Z758tWUG",
         "URL": "https://store.steampowered.com/app/2703760/",
         "Site": "https://www.sanforgestudio.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2703760/dc91fa49e1ab7cc674c4732cb2a4580080575760/header.jpg?t=1774608855",
-        "Date": "Coming soon",
+        "Date": "Apr 13, 2026",
         "AddedDate": "2026-03-27",
-        "AddedTimestamp": 1774609700.6625683,
+        "AddedTimestamp": 1774612664.2315166,
         "MatchedTags": [
             "strategy"
         ]
@@ -16220,6 +16220,84 @@
         "MatchedTags": [
             "survival horror",
             "horror"
+        ]
+    },
+    "3748240": {
+        "Title": "Unforsaken",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3748240/",
+        "Site": "https://tinyhag.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3748240/9d27f421d67d9bc05671d76b7e5b76daadf0ec98/header.jpg?t=1774610648",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774612667.2368007,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tactical",
+            "resource management",
+            "base building"
+        ]
+    },
+    "4526300": {
+        "Title": "BAENANA",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4526300/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526300/8edb3f48fae9be398b1849a34fab33296418f14c/header.jpg?t=1774611239",
+        "Date": "May 1, 2026",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774612684.878723,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4527890": {
+        "Title": "Sword & Siege Crusades: Book I",
+        "Email": "helpdesk@wargameds.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4527890/",
+        "Site": "https://wargameds.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4527890/9d90054dba45b2117a8dfb5247b27f19e04d1555/header.jpg?t=1774610059",
+        "Date": "Apr 20, 2026",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774612687.314657,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "tactical",
+            "turn-based combat"
+        ]
+    },
+    "4529430": {
+        "Title": "Ball, Fall, Dungeon Crawl",
+        "Email": "",
+        "Discord": "https://discord.gg/mBrjUm2T9H",
+        "URL": "https://store.steampowered.com/app/4529430/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4529430/21aa2d0e8212f43e3de0ce497a76323a96cf0e41/header.jpg?t=1774610101",
+        "Date": "July 2026",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774612690.5487864,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4551590": {
+        "Title": "Chat, Is This Real?",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4551590/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4551590/43a1c3479ef9d145b27589c28f7e3df8c509c567/header.jpg?t=1774611575",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774612708.4865403,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
