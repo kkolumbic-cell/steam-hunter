@@ -13929,6 +13929,7 @@
         "AddedDate": "2026-03-25",
         "AddedTimestamp": 1774417190.278929,
         "MatchedTags": [
+            "economy",
             "resource management"
         ]
     },
@@ -16566,6 +16567,38 @@
             "turn-based tactics",
             "strategy",
             "turn-based strategy"
+        ]
+    },
+    "3581030": {
+        "Title": "Edge of Madness",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3581030/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3581030/9dbbfbc2a98c36fb5258f1cec38566e5ac25f2cf/header.jpg?t=1774640885",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774641226.574386,
+        "MatchedTags": [
+            "turn-based combat",
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4550980": {
+        "Title": "Jokey and Jolly\u00b4s",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4550980/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4550980/f9b23db648755286d2ac1a2b7b459991696db577/header.jpg?t=1774640767",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774641254.510055,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
         ]
     }
 }
