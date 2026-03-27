@@ -1641,9 +1641,9 @@
         "URL": "https://store.steampowered.com/app/4451210/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4451210/de3774a8fb7f3b62aaf7a6a1ab6219ff4781c1db/header.jpg?t=1772723636",
-        "Date": "June 2026",
-        "AddedDate": "2026-03-05",
-        "AddedTimestamp": 1772740887.7413933,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774634793.4727232,
         "MatchedTags": [
             "base building"
         ]
@@ -12300,9 +12300,9 @@
         "URL": "https://store.steampowered.com/app/4399400/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4399400/9ff22c9af4b1f6914693b09f33c0265711952c2a/header.jpg?t=1774235378",
-        "Date": "Dec 31, 2026",
-        "AddedDate": "2026-03-23",
-        "AddedTimestamp": 1774236309.4324803,
+        "Date": "2026",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774634789.147077,
         "MatchedTags": [
             "turn-based combat",
             "strategy",
@@ -14380,9 +14380,9 @@
         "URL": "https://store.steampowered.com/app/4285020/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285020/ab6f6ebd79579bed228a9ce81137c00e446b66ef/header.jpg?t=1774458372",
-        "Date": "2026",
-        "AddedDate": "2026-03-25",
-        "AddedTimestamp": 1774459120.4531844,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774634783.5621333,
         "MatchedTags": [
             "strategy",
             "city builder",
@@ -16459,6 +16459,51 @@
         "MatchedTags": [
             "management",
             "psychological horror"
+        ]
+    },
+    "4355910": {
+        "Title": "Impurity",
+        "Email": "",
+        "Discord": "https://discord.gg/aTXcR4VKtr",
+        "URL": "https://store.steampowered.com/app/4355910/",
+        "Site": "https://incurso-studios.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4355910/c5ed8c0ed4db35bd2bfd79c183b966f905a76b02/header.jpg?t=1774633843",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774634786.5520558,
+        "MatchedTags": [
+            "colony sim",
+            "base building"
+        ]
+    },
+    "4482510": {
+        "Title": "Swords and Guns",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4482510/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4482510/3c37552e562e07e0c7557e4ae658ddd9fbfe43f4/header.jpg?t=1774634238",
+        "Date": "TBA",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774634796.0405314,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "4535030": {
+        "Title": "Card Trainer",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4535030/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4535030/7d5938c77086ac29e85c180159a002a82d456cf2/header.jpg?t=1774632645",
+        "Date": "Apr 7, 2026",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774634811.3045938,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
         ]
     }
 }
