@@ -15780,8 +15780,9 @@
         "AddedDate": "2026-03-26",
         "AddedTimestamp": 1774558359.0346246,
         "MatchedTags": [
-            "strategy",
             "turn-based strategy",
+            "strategy",
+            "grand strategy",
             "turn-based tactics",
             "management",
             "tactical",
@@ -16332,6 +16333,22 @@
             "tower defense",
             "base building",
             "strategy",
+            "resource management"
+        ]
+    },
+    "4513750": {
+        "Title": "The Void",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4513750/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4513750/7c37d4e431af4ba837d5aca8ce6770b79658896d/header.jpg?t=1774622258",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-03-27",
+        "AddedTimestamp": 1774624247.554646,
+        "MatchedTags": [
+            "survival horror",
+            "horror",
             "resource management"
         ]
     }
