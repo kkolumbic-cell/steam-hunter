@@ -4032,9 +4032,9 @@
         "URL": "https://store.steampowered.com/app/4365420/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4365420/a6dc5edac96d6fbf0b05085b3e87d5edff6e078b/header.jpg?t=1773025982",
-        "Date": "March 2026",
-        "AddedDate": "2026-03-09",
-        "AddedTimestamp": 1773026176.7471051,
+        "Date": "Mar 28, 2026",
+        "AddedDate": "2026-03-28",
+        "AddedTimestamp": 1774704001.303141,
         "MatchedTags": [
             "turn-based tactics",
             "turn-based combat"
@@ -8143,9 +8143,9 @@
         "URL": "https://store.steampowered.com/app/3919690/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3919690/4a3e4b1cd084b1a95a6a0a5b490f916b4155e27e/header.jpg?t=1773664364",
-        "Date": "Mar 30, 2026",
-        "AddedDate": "2026-03-24",
-        "AddedTimestamp": 1774360351.7896566,
+        "Date": "2026",
+        "AddedDate": "2026-03-28",
+        "AddedTimestamp": 1774703988.960314,
         "MatchedTags": [
             "management",
             "economy"
@@ -17339,6 +17339,66 @@
             "management",
             "economy",
             "tactical"
+        ]
+    },
+    "4202280": {
+        "Title": "Dungeon Rise",
+        "Email": "",
+        "Discord": "https://discord.gg/9WmGScZx",
+        "URL": "https://store.steampowered.com/app/4202280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4202280/abdcbe289d13b62175371e3d15f028d6dce9cfe8/header.jpg?t=1774699329",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-28",
+        "AddedTimestamp": 1774703991.5071416,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg",
+            "turn-based combat",
+            "turn-based strategy"
+        ]
+    },
+    "4387610": {
+        "Title": "Clearance Defence",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4387610/",
+        "Site": "https://flatfrog.games",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4387610/a6c16d3356d96256c61067cec7863bbd8ba35f48/header.jpg?t=1774702908",
+        "Date": "Jun 30, 2026",
+        "AddedDate": "2026-03-28",
+        "AddedTimestamp": 1774704003.1436803,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "4446930": {
+        "Title": "Gravity Shift",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4446930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4446930/ea826c865d951ac92b61807f580ca8b23ccc42d3/header.jpg?t=1774700441",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-28",
+        "AddedTimestamp": 1774704006.3496284,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4537640": {
+        "Title": "Black Powder Box",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4537640/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4537640/7a2e025b5cef92b04f12a40a53d4c4b54ad7e542/header.jpg?t=1774702379",
+        "Date": "May 15, 2026",
+        "AddedDate": "2026-03-28",
+        "AddedTimestamp": 1774704022.349879,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
