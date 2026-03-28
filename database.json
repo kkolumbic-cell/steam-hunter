@@ -4481,9 +4481,9 @@
         "URL": "https://store.steampowered.com/app/4414800/",
         "Site": "https://www.ronistudios.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4414800/1ca5b12fca57bc9b985d5af8c8cdf8ba03595848/header.jpg?t=1773080095",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-03-13",
-        "AddedTimestamp": 1773392410.717731,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-28",
+        "AddedTimestamp": 1774716726.867105,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -11116,8 +11116,8 @@
         "AddedTimestamp": 1773953889.5077431,
         "MatchedTags": [
             "strategy",
-            "turn-based strategy",
-            "turn-based combat"
+            "turn-based combat",
+            "tactical rpg"
         ]
     },
     "4505460": {
@@ -17471,6 +17471,64 @@
         "AddedTimestamp": 1774712919.2985806,
         "MatchedTags": [
             "tactical rpg"
+        ]
+    },
+    "4014100": {
+        "Title": "Model Kit Shop Simulator",
+        "Email": "",
+        "Discord": "https://discord.gg/AEd7VD2yEw",
+        "URL": "https://store.steampowered.com/app/4014100/",
+        "Site": "https://www.tenacitygames.net",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4014100/133aab7d047bf2035966507123035e8f521393ae/header.jpg?t=1774715718",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-28",
+        "AddedTimestamp": 1774716714.061783,
+        "MatchedTags": [
+            "management",
+            "resource management"
+        ]
+    },
+    "4454860": {
+        "Title": "Berry Bounce",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4454860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4454860/54cc4809e02821e4b49bac4b3879aed1e11e2a82/header.jpg?t=1774716397",
+        "Date": "May 2026",
+        "AddedDate": "2026-03-28",
+        "AddedTimestamp": 1774716733.4177544,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4522180": {
+        "Title": "Tegelfall",
+        "Email": "info@tegelfall.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4522180/",
+        "Site": "https://tegelfall.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4522180/c4783554fbc265a81ef5b685698a0647c1769c25/header.jpg?t=1774716394",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-28",
+        "AddedTimestamp": 1774716742.2624614,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4557940": {
+        "Title": "Slime Reaper",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4557940/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4557940/36d5009cac2ccdca7a1f1a99101b461d5973a512/header.jpg?t=1774715787",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-28",
+        "AddedTimestamp": 1774716761.3460882,
+        "MatchedTags": [
+            "management",
+            "strategy"
         ]
     }
 }
