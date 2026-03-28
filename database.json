@@ -13323,9 +13323,9 @@
         "URL": "https://store.steampowered.com/app/4530890/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4530890/1f9c5eed11cea0a88c7329797c37897937dad3b9/header.jpg?t=1774370230",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-03-24",
-        "AddedTimestamp": 1774372606.599651,
+        "Date": "Apr 30, 2026",
+        "AddedDate": "2026-03-28",
+        "AddedTimestamp": 1774709584.5561771,
         "MatchedTags": [
             "strategy",
             "real time tactics",
@@ -14492,9 +14492,9 @@
         "URL": "https://store.steampowered.com/app/4535680/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4535680/2b3ab04d0bad19e923e061de62d87679fc238a1b/header.jpg?t=1774457228",
-        "Date": "July 2026",
-        "AddedDate": "2026-03-25",
-        "AddedTimestamp": 1774459186.9292905,
+        "Date": "Jul 14, 2026",
+        "AddedDate": "2026-03-28",
+        "AddedTimestamp": 1774709591.999437,
         "MatchedTags": [
             "turn-based tactics",
             "strategy",
@@ -17399,6 +17399,50 @@
         "AddedTimestamp": 1774704022.349879,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4521310": {
+        "Title": "Nepotism for Germany",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4521310/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4521310/239a8b4f9bbd4fbb72f39895dd25e7c4fce33f81/header.jpg?t=1774709487",
+        "Date": "Apr 3, 2026",
+        "AddedDate": "2026-03-28",
+        "AddedTimestamp": 1774709576.761244,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4535320": {
+        "Title": "Rotfang: The House",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4535320/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4535320/8153a3c0276bf8642870ffcc3ea808a7695b6f75/header.jpg?t=1774707216",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-28",
+        "AddedTimestamp": 1774709588.8665385,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4544020": {
+        "Title": "Straddle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4544020/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4544020/101e77d977bc4cf427665d5b292c3977a12d0539/header.jpg?t=1774705964",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-28",
+        "AddedTimestamp": 1774709597.4504087,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
