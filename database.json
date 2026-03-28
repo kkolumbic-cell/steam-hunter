@@ -11777,7 +11777,7 @@
         "Email": "",
         "Discord": "https://discord.gg/Cp5bCgbZKt",
         "URL": "https://store.steampowered.com/app/4165240/",
-        "Site": "",
+        "Site": "https://crimsoncloudgames.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4165240/8251ebe522073700e0c8463737de6066ce251561/header.jpg?t=1774044057",
         "Date": "Coming soon",
         "AddedDate": "2026-03-20",
@@ -14319,9 +14319,9 @@
         "URL": "https://store.steampowered.com/app/861360/",
         "Site": "https://windwalkersgame.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861360/36f44c1b77e51643653a1aac4615d7ffe8d25e1b/header.jpg?t=1774454410",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-03-25",
-        "AddedTimestamp": 1774459097.6161985,
+        "Date": "2027",
+        "AddedDate": "2026-03-28",
+        "AddedTimestamp": 1774676170.3473237,
         "MatchedTags": [
             "resource management"
         ]
@@ -15963,9 +15963,9 @@
         "URL": "https://store.steampowered.com/app/4516860/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4516860/e9655172cc285b17923633368de14c8201746a65/header.jpg?t=1774581919",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-27",
-        "AddedTimestamp": 1774582325.287926,
+        "Date": "April 2026",
+        "AddedDate": "2026-03-28",
+        "AddedTimestamp": 1774676218.9183972,
         "MatchedTags": [
             "resource management",
             "economy"
@@ -17011,6 +17011,102 @@
             "psychological horror",
             "horror",
             "survival horror"
+        ]
+    },
+    "3311540": {
+        "Title": "Circustime",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3311540/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3311540/28273ad51081898b4deae4f8e5fd79494c96fd56/header.jpg?t=1774673982",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-28",
+        "AddedTimestamp": 1774676174.9964747,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4519070": {
+        "Title": "MOVILLIA",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4519070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4519070/64f0d3914f17ecd141b0af4c45f32879d0e86829/header.jpg?t=1774670942",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-28",
+        "AddedTimestamp": 1774676221.1967018,
+        "MatchedTags": [
+            "survival horror",
+            "psychological horror",
+            "management"
+        ]
+    },
+    "4539160": {
+        "Title": "Son Of The Exorcist",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4539160/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4539160/aae4bdff0355d75e633de5fe65f6e524e2e3fcc6/header.jpg?t=1774675109",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-28",
+        "AddedTimestamp": 1774676232.3961682,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4543620": {
+        "Title": "Milky Way: Chumak Trail",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4543620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4543620/a57a52aa990f8e29a5918f8fed8455630b49f901/header.jpg?t=1774674629",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-28",
+        "AddedTimestamp": 1774676239.053992,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "economy"
+        ]
+    },
+    "4547290": {
+        "Title": "Night Of Dread",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4547290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4547290/d3f6b973b1675708e148ce0466f18f4ddfb9cd9c/header.jpg?t=1774671411",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-28",
+        "AddedTimestamp": 1774676242.0236647,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4549540": {
+        "Title": "The Capitalist",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4549540/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4549540/df6f991fcc64665f74b9029667f9e04f1b128763/header.jpg?t=1774668441",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-28",
+        "AddedTimestamp": 1774676246.922816,
+        "MatchedTags": [
+            "grand strategy",
+            "real time tactics",
+            "economy",
+            "management",
+            "resource management",
+            "strategy"
         ]
     }
 }
