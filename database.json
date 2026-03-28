@@ -11296,7 +11296,7 @@
     "4529660": {
         "Title": "Greedy Slots",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/CSWBwkNePK",
         "URL": "https://store.steampowered.com/app/4529660/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4529660/2f68a79e89887568cd9b67db6cc0e8f845d384ec/header.jpg?t=1773972601",
@@ -17184,6 +17184,49 @@
             "strategy",
             "grand strategy",
             "resource management"
+        ]
+    },
+    "3043420": {
+        "Title": "Sacrumagus",
+        "Email": "",
+        "Discord": "https://discord.gg/KS9qWu9n",
+        "URL": "https://store.steampowered.com/app/3043420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3043420/44cc3a8c4b0249afa8ef365057e5f75cd2c41072/header.jpg?t=1774684805",
+        "Date": "Nov 30, 2026",
+        "AddedDate": "2026-03-28",
+        "AddedTimestamp": 1774688337.9758666,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4562850": {
+        "Title": "I Fell for Her",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4562850/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4562850/2079aa4d1c0ce659257cc96955a4f2b103a3d177/header.jpg?t=1774683959",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-28",
+        "AddedTimestamp": 1774688393.7537937,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4563400": {
+        "Title": "Sad Virus Darkland",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4563400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4563400/267339247432acaa8181da61818fa683b5f98346/header.jpg?t=1774683984",
+        "Date": "Apr 19, 2026",
+        "AddedDate": "2026-03-28",
+        "AddedTimestamp": 1774688396.1420162,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
