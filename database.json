@@ -1054,9 +1054,9 @@
         "URL": "https://store.steampowered.com/app/4434240/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434240/710a77ddef04617aee930be6110d7649234bc18e/header.jpg?t=1772690504",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-05",
-        "AddedTimestamp": 1772690663.1536865,
+        "Date": "2026",
+        "AddedDate": "2026-03-29",
+        "AddedTimestamp": 1774768802.8389053,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -17651,6 +17651,35 @@
         "MatchedTags": [
             "horror",
             "resource management"
+        ]
+    },
+    "2434660": {
+        "Title": "Red Door Yellow Door",
+        "Email": "",
+        "Discord": "https://discord.gg/Tc7A3W9EF6",
+        "URL": "https://store.steampowered.com/app/2434660/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2434660/666132e0398904ee04254614f2e13fa878967906/header.jpg?t=1774768135",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-29",
+        "AddedTimestamp": 1774768791.9600935,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4529520": {
+        "Title": "30 minutes to rescue",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4529520/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4529520/a0dbfe32728b44ba85fe7ec6a77c580388b11a7b/header.jpg?t=1774768484",
+        "Date": "Apr 7, 2026",
+        "AddedDate": "2026-03-29",
+        "AddedTimestamp": 1774768811.7758977,
+        "MatchedTags": [
+            "tactical rpg"
         ]
     }
 }
