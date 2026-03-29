@@ -17559,5 +17559,83 @@
             "psychological horror",
             "horror"
         ]
+    },
+    "3503010": {
+        "Title": "LAST CALL",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3503010/",
+        "Site": "https://www.californiaworlds.com/games/last-call",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3503010/90687591c886bce406500baf73802191bac4ece4/header.jpg?t=1774753635",
+        "Date": "Apr 27, 2026",
+        "AddedDate": "2026-03-29",
+        "AddedTimestamp": 1774755495.681432,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4530430": {
+        "Title": "SCP-093",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4530430/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4530430/96702b6f0d4e7c22696b74d11b02dee5ea54e0f5/header.jpg?t=1774744331",
+        "Date": "Apr 2, 2026",
+        "AddedDate": "2026-03-29",
+        "AddedTimestamp": 1774755537.3053293,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4542150": {
+        "Title": "Genterra",
+        "Email": "",
+        "Discord": "https://discord.gg/7kW7rS9Jxm",
+        "URL": "https://store.steampowered.com/app/4542150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4542150/dd12373e7e61829e6dc786e51dec085bbf0c5cf6/header.jpg?t=1774743551",
+        "Date": "Apr 6, 2026",
+        "AddedDate": "2026-03-29",
+        "AddedTimestamp": 1774755541.7672844,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4546870": {
+        "Title": "End of End",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4546870/",
+        "Site": "https://sqb.dev",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4546870/12d8c6bb625b4375d24d5a6b23a4b395782c442a/header.jpg?t=1774754018",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-29",
+        "AddedTimestamp": 1774755543.6761155,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "4553340": {
+        "Title": "SSR Wives: The Murder Of My Winter Crush",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4553340/",
+        "Site": "https://ssrwives.gg",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4553340/c00cb4f7217ed79de64c93bebe4d94688751deb6/header.jpg?t=1774753597",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-29",
+        "AddedTimestamp": 1774755551.8887162,
+        "MatchedTags": [
+            "survival horror",
+            "psychological horror",
+            "strategy",
+            "horror"
+        ]
     }
 }
