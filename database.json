@@ -11717,9 +11717,9 @@
         "URL": "https://store.steampowered.com/app/4442890/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4442890/501df22a86e551a4ac9d6878991c06b1507c9123/header.jpg?t=1774039609",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-20",
-        "AddedTimestamp": 1774039852.6255455,
+        "Date": "Apr 20, 2026",
+        "AddedDate": "2026-03-29",
+        "AddedTimestamp": 1774806543.8724577,
         "MatchedTags": [
             "economy",
             "turn-based strategy",
@@ -13835,8 +13835,8 @@
         "AddedDate": "2026-03-25",
         "AddedTimestamp": 1774408861.374527,
         "MatchedTags": [
-            "strategy",
             "horror",
+            "strategy",
             "survival horror"
         ]
     },
@@ -17750,6 +17750,20 @@
             "survival horror",
             "resource management",
             "psychological horror"
+        ]
+    },
+    "4559620": {
+        "Title": "Rotten Chamber",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4559620/",
+        "Site": "https://rottenchamber.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559620/301a30f579acc1390b4a3d781a35adbec72247d1/header.jpg?t=1774805774",
+        "Date": "Sep 30, 2026",
+        "AddedDate": "2026-03-29",
+        "AddedTimestamp": 1774806564.4175904,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
