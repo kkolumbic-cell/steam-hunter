@@ -14775,9 +14775,9 @@
         "URL": "https://store.steampowered.com/app/4548330/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4548330/af26b097cca3de68f26dcfd37b1fe16444b3f1f3/header.jpg?t=1774472016",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-25",
-        "AddedTimestamp": 1774472238.6959088,
+        "Date": "April 2026",
+        "AddedDate": "2026-03-29",
+        "AddedTimestamp": 1774781685.8476813,
         "MatchedTags": [
             "survival horror",
             "psychological horror"
@@ -15209,7 +15209,7 @@
     "4485760": {
         "Title": "Lich of Might",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/XxFah9WDpr",
         "URL": "https://store.steampowered.com/app/4485760/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4485760/d362bd90132ff093e0e86b8e0f4abc9b587d8be2/header.jpg?t=1774525762",
@@ -17697,6 +17697,42 @@
             "tactical",
             "turn-based tactics",
             "turn-based strategy"
+        ]
+    },
+    "4548510": {
+        "Title": "Shiki Tea House",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4548510/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4548510/7b4811fc535c79591b823af75d395860799414a0/header.jpg?t=1774780888",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-29",
+        "AddedTimestamp": 1774781688.3943987,
+        "MatchedTags": [
+            "management",
+            "resource management"
+        ]
+    },
+    "4553620": {
+        "Title": "Dark Rail",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4553620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4553620/fa1275f0f2209e101ef1ef7b68278b37e8729446/header.jpg?t=1774780994",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-29",
+        "AddedTimestamp": 1774781691.1987288,
+        "MatchedTags": [
+            "resource management",
+            "strategy",
+            "management",
+            "turn-based strategy",
+            "colony sim",
+            "base building",
+            "turn-based tactics",
+            "turn-based combat"
         ]
     }
 }
