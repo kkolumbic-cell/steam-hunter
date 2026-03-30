@@ -486,7 +486,6 @@
         "AddedDate": "2026-03-04",
         "AddedTimestamp": 1772643842.0872447,
         "MatchedTags": [
-            "horror",
             "survival horror"
         ]
     },
@@ -4344,9 +4343,9 @@
         "URL": "https://store.steampowered.com/app/4424740/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4424740/50c7d74e65fcd5067edaf6986233709362d9af39/header.jpg?t=1773071408",
-        "Date": "Apr 17, 2026",
-        "AddedDate": "2026-03-09",
-        "AddedTimestamp": 1773079346.6421852,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774864188.1045532,
         "MatchedTags": [
             "psychological horror",
             "horror",
@@ -8279,9 +8278,9 @@
         "URL": "https://store.steampowered.com/app/4451970/",
         "Site": "https://tyasang.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4451970/c59b76c93209e7d712942d00a468dadcf0506b74/header.jpg?t=1773669901",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-16",
-        "AddedTimestamp": 1773674443.9734883,
+        "Date": "Mar 30, 2026",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774864199.0681047,
         "MatchedTags": [
             "strategy",
             "real time tactics",
@@ -9526,10 +9525,10 @@
     },
     "4525370": {
         "Title": "Master Alchemist Simulator: Arcane Workshop",
-        "Email": "",
+        "Email": "contact@bohemgames.com",
         "Discord": "https://discord.gg/dhMKadXg76",
         "URL": "https://store.steampowered.com/app/4525370/",
-        "Site": "",
+        "Site": "https://bohemgames.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525370/fc605e384e743d57a4805927572ba175c1aa7552/header.jpg?t=1773784709",
         "Date": "Q1 2027",
         "AddedDate": "2026-03-17",
@@ -9639,9 +9638,9 @@
         "URL": "https://store.steampowered.com/app/4517630/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4517630/97b374b97aaa1bd0efe90a5c146471ebbc37d77f/header.jpg?t=1773802176",
-        "Date": "TBA",
-        "AddedDate": "2026-03-18",
-        "AddedTimestamp": 1773804162.2262824,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774864206.671344,
         "MatchedTags": [
             "strategy"
         ]
@@ -17139,6 +17138,7 @@
         "AddedDate": "2026-03-28",
         "AddedTimestamp": 1774682174.607178,
         "MatchedTags": [
+            "turn-based strategy",
             "strategy"
         ]
     },
@@ -17859,6 +17859,23 @@
         "MatchedTags": [
             "strategy",
             "turn-based combat"
+        ]
+    },
+    "4540010": {
+        "Title": "Business Defence",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4540010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4540010/ba3906a0f700fb44ff0db60836449f084c6214ba/header.jpg?t=1774862722",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774864216.9602299,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "tactical",
+            "management"
         ]
     }
 }
