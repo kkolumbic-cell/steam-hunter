@@ -2939,7 +2939,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4186280/",
-        "Site": "",
+        "Site": "https://lostplatypusgames.com/celestialfragments/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4186280/998943c15a44deef6707e3604decc1da267d1afe/header.jpg?t=1772815509",
         "Date": "Coming soon",
         "AddedDate": "2026-03-13",
@@ -15089,9 +15089,9 @@
         "URL": "https://store.steampowered.com/app/4550450/",
         "Site": "https://cgilabdesign.de",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4550450/4442f5db28904a27995e0262e5694541db583e88/header.jpg?t=1774512047",
-        "Date": "2026",
-        "AddedDate": "2026-03-26",
-        "AddedTimestamp": 1774516578.10178,
+        "Date": "Apr 9, 2026",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774879501.410845,
         "MatchedTags": [
             "management",
             "economy"
@@ -16296,9 +16296,9 @@
         "URL": "https://store.steampowered.com/app/4498250/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4498250/e19ba5e96749104885fd49af2a22dba7ef3548e8/header.jpg?t=1774618514",
-        "Date": "Dec 31, 2026",
-        "AddedDate": "2026-03-27",
-        "AddedTimestamp": 1774619146.6321566,
+        "Date": "2026",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774879470.856554,
         "MatchedTags": [
             "strategy",
             "tactical",
@@ -17892,6 +17892,67 @@
             "survival horror",
             "horror",
             "psychological horror"
+        ]
+    },
+    "4452620": {
+        "Title": "Thieves and Gold",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4452620/",
+        "Site": "https://thievesandgold.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4452620/e3f344893d631bf4ce59d95d8fb02ea6c54249be/header.jpg?t=1774877146",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774879453.3732274,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4484090": {
+        "Title": "Dungeon Drawlers",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4484090/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4484090/450fdf27d858e0490246e5267db3d353abe60d43/header.jpg?t=1774878293",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774879461.9015424,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "tactical",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4555760": {
+        "Title": "Container Hunter Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4555760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4555760/7ea596a55db50d9550a42eda1d31b4d46582889a/header.jpg?t=1774876547",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774879504.1626883,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4560130": {
+        "Title": "Still Warm",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4560130/",
+        "Site": "https://stillwarmgame.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4560130/706742d00fe0ffb0b28544f3ace8db5659c02a9b/header.jpg?t=1774878989",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774879511.3627696,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
         ]
     }
 }
