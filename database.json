@@ -14778,9 +14778,9 @@
         "URL": "https://store.steampowered.com/app/4548330/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4548330/af26b097cca3de68f26dcfd37b1fe16444b3f1f3/header.jpg?t=1774472016",
-        "Date": "April 2026",
-        "AddedDate": "2026-03-29",
-        "AddedTimestamp": 1774781685.8476813,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774898512.4159315,
         "MatchedTags": [
             "survival horror",
             "psychological horror"
@@ -18230,6 +18230,99 @@
         "AddedTimestamp": 1774894215.8207972,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "2448920": {
+        "Title": "Gun Glade",
+        "Email": "",
+        "Discord": "https://discord.com/invite/M3kB3jpjet",
+        "URL": "https://store.steampowered.com/app/2448920/",
+        "Site": "https://gunglade.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2448920/3fc629a075de4df9eaf29f4f94317f2e4957bba9/header.jpg?t=1774896760",
+        "Date": "April 2026",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774898450.8933969,
+        "MatchedTags": [
+            "tactical",
+            "strategy"
+        ]
+    },
+    "3276100": {
+        "Title": "Cosmic Crew",
+        "Email": "",
+        "Discord": "https://discord.gg/aWVDWVWsZa",
+        "URL": "https://store.steampowered.com/app/3276100/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3276100/230aaa7032b5b4e0441123c7b32b59d77bc010d2/header.jpg?t=1774897007",
+        "Date": "TBA",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774898453.6187756,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4424580": {
+        "Title": "Satisplantory",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4424580/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4424580/9aa83df6fc9cd7fe40a0dfb282bdaaad53cfa2d7/header.jpg?t=1774896515",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774898470.2048059,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4542730": {
+        "Title": "Jump Broke",
+        "Email": "",
+        "Discord": "https://discord.gg/fcSUqcGe",
+        "URL": "https://store.steampowered.com/app/4542730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4542730/ece141836208b4c451ad6b05036bc7e1254694c2/header.jpg?t=1774894929",
+        "Date": "2026",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774898504.4776723,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4557340": {
+        "Title": "Dead Reckoning: The Long Drift",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4557340/",
+        "Site": "https://selenodrome.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4557340/5daafe80e868316a33c262b4366d6e84d12b084d/header.jpg?t=1774894158",
+        "Date": "May 29, 2026",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774898522.378617,
+        "MatchedTags": [
+            "turn-based strategy",
+            "strategy",
+            "horror"
+        ]
+    },
+    "4565710": {
+        "Title": "MAJESTIC",
+        "Email": "",
+        "Discord": "https://discord.gg/bBPb8XeCRm",
+        "URL": "https://store.steampowered.com/app/4565710/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4565710/c89defce67026e644f7d8d08c8ef321d88d32c18/header.jpg?t=1774896476",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774898525.4824326,
+        "MatchedTags": [
+            "strategy",
+            "horror",
+            "management",
+            "tactical",
+            "psychological horror",
+            "base building"
         ]
     }
 }
