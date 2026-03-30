@@ -8460,9 +8460,9 @@
         "URL": "https://store.steampowered.com/app/4495180/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4495180/7ff672c7806c0581e5c84e252fbaa4ee260dd88c/header.jpg?t=1773687147",
-        "Date": "Mar 29, 2026",
-        "AddedDate": "2026-03-24",
-        "AddedTimestamp": 1774375934.5016873,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774857786.8029377,
         "MatchedTags": [
             "tactical rpg",
             "turn-based combat"
@@ -12431,7 +12431,8 @@
             "horror",
             "survival horror",
             "psychological horror",
-            "resource management"
+            "resource management",
+            "strategy"
         ]
     },
     "4529950": {
@@ -17795,6 +17796,69 @@
         "AddedTimestamp": 1774842348.1649704,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "3841680": {
+        "Title": "Witherheart",
+        "Email": "",
+        "Discord": "https://discord.com/invite/f8eHX4DarH",
+        "URL": "https://store.steampowered.com/app/3841680/",
+        "Site": "https://witherheart.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3841680/661fa2ea1494fb4fe9388f53a5a152ee98d9d689/header.jpg?t=1774856872",
+        "Date": "2027",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774857766.416583,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "4217140": {
+        "Title": "JPEG",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4217140/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4217140/a888e8094a7c93182f5aefed2f2c9512b7c45e11/header.jpg?t=1774854391",
+        "Date": "April 2026",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774857769.7529097,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4375520": {
+        "Title": "PlanetForge Protocol",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4375520/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375520/631bbc5e330b45a2a1fd2454a68f429afb0b5b49/header.jpg?t=1774853991",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774857773.8010862,
+        "MatchedTags": [
+            "strategy",
+            "base building",
+            "tower defense",
+            "resource management",
+            "management"
+        ]
+    },
+    "4528500": {
+        "Title": "\u4ee3\u53f7\uff1a\u897f\u6e38\u6597\u667a\u724c",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4528500/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528500/20ba989338883a28d83d96f5bacc10b02e712c72/header.jpg?t=1774853620",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774857795.7503266,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
         ]
     }
 }
