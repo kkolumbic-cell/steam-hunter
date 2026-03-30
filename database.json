@@ -6459,9 +6459,9 @@
         "URL": "https://store.steampowered.com/app/4509160/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4509160/f6e5b695aa7139beb22f089691d06d439b5b879f/header.jpg?t=1773320886",
-        "Date": "Mar 30, 2026",
-        "AddedDate": "2026-03-12",
-        "AddedTimestamp": 1773322678.0134752,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774885388.16288,
         "MatchedTags": [
             "strategy"
         ]
@@ -14232,9 +14232,9 @@
         "URL": "https://store.steampowered.com/app/4125200/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4125200/47c51a437753139866c850807b3717ee0f154302/header.jpg?t=1774442401",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-29",
-        "AddedTimestamp": 1774784697.0433369,
+        "Date": "Jul 16, 2026",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774885353.011434,
         "MatchedTags": [
             "strategy",
             "economy",
@@ -17182,9 +17182,9 @@
         "URL": "https://store.steampowered.com/app/3043420/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3043420/44cc3a8c4b0249afa8ef365057e5f75cd2c41072/header.jpg?t=1774684805",
-        "Date": "Nov 30, 2026",
-        "AddedDate": "2026-03-28",
-        "AddedTimestamp": 1774688337.9758666,
+        "Date": "November 2026",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774885345.6476147,
         "MatchedTags": [
             "horror"
         ]
@@ -17953,6 +17953,76 @@
         "MatchedTags": [
             "psychological horror",
             "horror"
+        ]
+    },
+    "2287050": {
+        "Title": "Wilgold's Playground",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2287050/",
+        "Site": "https://wilgold.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2287050/dbd70821b6a349c1188899517b824d0b9353aa07/header.jpg?t=1774884713",
+        "Date": "2026",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774885340.5782518,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4460010": {
+        "Title": "Bootstrap",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4460010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4460010/14b5a88bb57f23d3749fdcea809af52d9ff3312c/header.jpg?t=1774882073",
+        "Date": "Apr 14, 2026",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774885379.1579788,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4548070": {
+        "Title": "TERAFAB.AI",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4548070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4548070/0afe89650401fb0d52a8805fe0e25804c5b4edf9/header.jpg?t=1774881563",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774885418.5103385,
+        "MatchedTags": [
+            "city builder"
+        ]
+    },
+    "4550990": {
+        "Title": "A Vessel of Frustration",
+        "Email": "",
+        "Discord": "https://discord.gg/JXSPjcwAcX",
+        "URL": "https://store.steampowered.com/app/4550990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4550990/650cd9b4359c10e6b12b10f2951b2f033a1db545/header.jpg?t=1774879787",
+        "Date": "2027",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774885424.1566374,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4563730": {
+        "Title": "Master the Track",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4563730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4563730/82898136d58af2de0bbc91fea806ba325c1e61aa/header.jpg?t=1774879837",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774885435.2714887,
+        "MatchedTags": [
+            "resource management"
         ]
     }
 }
