@@ -8635,7 +8635,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4462570/",
-        "Site": "",
+        "Site": "https://tripleaxestudio.wixsite.com/triple-axe-studio/urbex-nightmare",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4462570/9ad605d8842d57f40be43646401d0ffdc5c15548/header.jpg?t=1773695538",
         "Date": "Mar 30, 2026",
         "AddedDate": "2026-03-23",
@@ -9146,9 +9146,9 @@
         "URL": "https://store.steampowered.com/app/4362350/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4362350/e7f99fea26a0910e5ae18776392e67509ab85230/header.jpg?t=1773761700",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-03-17",
-        "AddedTimestamp": 1773767932.9664547,
+        "Date": "May 21, 2026",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774894167.922988,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -18129,6 +18129,107 @@
             "strategy",
             "turn-based tactics",
             "turn-based strategy"
+        ]
+    },
+    "3421680": {
+        "Title": "AxleVerdant: Exile",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3421680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3421680/8a38ca17fb2dcfdc6caea10fed5a307856b086ff/header.jpg?t=1774893817",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774894158.5546167,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg"
+        ]
+    },
+    "3930690": {
+        "Title": "The Magic Between",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3930690/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3930690/96552d0bfa934c7c6e993a4aff0ac1003bad8e5d/header.jpg?t=1774891765",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774894161.0885184,
+        "MatchedTags": [
+            "tactical rpg"
+        ]
+    },
+    "4462380": {
+        "Title": "Super Station Swarm",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4462380/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4462380/88ece4b8a9600b901b9e31486e391d9caa664e14/header.jpg?t=1774893031",
+        "Date": "April 2026",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774894172.966974,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "4550280": {
+        "Title": "Dawn of Horror",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4550280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4550280/0cb4bf0212bb4666a6e346cf11c3581d769ef128/header.jpg?t=1774892385",
+        "Date": "Jul 7, 2026",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774894205.7353723,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4556450": {
+        "Title": "Stamped : Visa Officer",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4556450/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4556450/cd229ad94e2ef8e7ed92f794956f538809b19172/header.jpg?t=1774893878",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774894207.7690768,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4565830": {
+        "Title": "Prismachines",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4565830/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4565830/a3515b932205d5f61a8e0dc81bed8cb6f9dd4f07/header.jpg?t=1774891588",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774894213.2340024,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "tactical"
+        ]
+    },
+    "4566970": {
+        "Title": "The Grounds Escape",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4566970/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4566970/af89a6a2aa7a646237eec160915fdc9ba8c72db1/header.jpg?t=1774891141",
+        "Date": "Apr 30, 2026",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774894215.8207972,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
