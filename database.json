@@ -9517,9 +9517,9 @@
         "URL": "https://store.steampowered.com/app/4520940/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4520940/7e4d95ee2f03c65cf518a8684c006baad77b9bb9/header.jpg?t=1773787391",
-        "Date": "Apr 15, 2026",
-        "AddedDate": "2026-03-17",
-        "AddedTimestamp": 1773788048.027432,
+        "Date": "Apr 14, 2026",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774842342.015392,
         "MatchedTags": [
             "strategy"
         ]
@@ -12657,7 +12657,10 @@
         "AddedDate": "2026-03-23",
         "AddedTimestamp": 1774299380.756769,
         "MatchedTags": [
-            "strategy"
+            "strategy",
+            "management",
+            "economy",
+            "resource management"
         ]
     },
     "4544520": {
@@ -17318,11 +17321,11 @@
         "AddedDate": "2026-03-28",
         "AddedTimestamp": 1774698221.4282649,
         "MatchedTags": [
-            "strategy",
-            "grand strategy",
             "turn-based strategy",
+            "grand strategy",
             "management",
             "economy",
+            "strategy",
             "tactical"
         ]
     },
@@ -17761,6 +17764,35 @@
         "Date": "Coming soon",
         "AddedDate": "2026-03-29",
         "AddedTimestamp": 1774813710.4385495,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4526380": {
+        "Title": "My neighbor stinks",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4526380/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4526380/71f0c5c2cd2ead619090fcdb42a95ad3e19ec1a7/header.jpg?t=1774841001",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774842344.2752213,
+        "MatchedTags": [
+            "strategy",
+            "horror"
+        ]
+    },
+    "4535700": {
+        "Title": "ESKAPI2 7\u30ab\u30a4\u30ad",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4535700/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4535700/c093c8413eaa1a3c44fc39aa0a7810919ffeb665/header.jpg?t=1774840146",
+        "Date": "Apr 16, 2026",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774842348.1649704,
         "MatchedTags": [
             "horror"
         ]
