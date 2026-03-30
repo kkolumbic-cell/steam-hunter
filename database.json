@@ -8157,9 +8157,9 @@
         "URL": "https://store.steampowered.com/app/4249930/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4249930/25303c75c7b2a6eb811140e66ee96ac8d147406b/header.jpg?t=1773665771",
-        "Date": "Q1 2026",
-        "AddedDate": "2026-03-16",
-        "AddedTimestamp": 1773669376.0445683,
+        "Date": "Mar 30, 2026",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774869559.5911624,
         "MatchedTags": [
             "strategy",
             "tactical"
@@ -8459,9 +8459,9 @@
         "URL": "https://store.steampowered.com/app/4495180/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4495180/7ff672c7806c0581e5c84e252fbaa4ee260dd88c/header.jpg?t=1773687147",
-        "Date": "Coming soon",
+        "Date": "Mar 30, 2026",
         "AddedDate": "2026-03-30",
-        "AddedTimestamp": 1774857786.8029377,
+        "AddedTimestamp": 1774869579.4708958,
         "MatchedTags": [
             "tactical rpg",
             "turn-based combat"
@@ -17876,6 +17876,22 @@
             "tower defense",
             "tactical",
             "management"
+        ]
+    },
+    "4465900": {
+        "Title": "Inhuman Echoes",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4465900/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4465900/fe71dbf8c21f40b6c6fb6aabd2c7f13d53dd44ed/header.jpg?t=1774868781",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774869571.6297846,
+        "MatchedTags": [
+            "survival horror",
+            "horror",
+            "psychological horror"
         ]
     }
 }
