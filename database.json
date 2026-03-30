@@ -3110,9 +3110,9 @@
         "URL": "https://store.steampowered.com/app/4500410/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4500410/5a79c47928da8882191e33392002c8e48fc808a5/header.jpg?t=1772821040",
-        "Date": "Apr 1, 2026",
-        "AddedDate": "2026-03-06",
-        "AddedTimestamp": 1772823900.7192578,
+        "Date": "April 2026",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774904615.8605902,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -5666,9 +5666,10 @@
         "MatchedTags": [
             "tactical rpg",
             "turn-based tactics",
-            "strategy",
             "turn-based strategy",
-            "turn-based combat"
+            "strategy",
+            "turn-based combat",
+            "tactical"
         ]
     },
     "4308550": {
@@ -5845,9 +5846,9 @@
         "URL": "https://store.steampowered.com/app/4313040/",
         "Site": "https://www.vaniagames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4313040/60dec47726d9b139115ed1434e1815c12983cca3/header.jpg?t=1773251610",
-        "Date": "To be announced",
-        "AddedDate": "2026-03-27",
-        "AddedTimestamp": 1774631524.5171673,
+        "Date": "2027",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774904589.9723592,
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
@@ -18323,6 +18324,145 @@
             "tactical",
             "psychological horror",
             "base building"
+        ]
+    },
+    "4262710": {
+        "Title": "Airship 2: Kingdoms Ablaze",
+        "Email": "",
+        "Discord": "https://discord.gg/Vw3HYq3rCU",
+        "URL": "https://store.steampowered.com/app/4262710/",
+        "Site": "https://www.revolution-industry.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4262710/3b8d961e210efd0776f0a84ebfef224f75cc5890/header.jpg?t=1774900239",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774904586.7265267,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tactical rpg",
+            "management",
+            "tactical"
+        ]
+    },
+    "4443380": {
+        "Title": "REGENERATE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4443380/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4443380/a588bdc0bfff5247371feab3ec904f27c1ab2f90/header.jpg?t=1774903392",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774904596.0055637,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4518950": {
+        "Title": "Quod Erat Demonstrandum",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4518950/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4518950/97b9bd7b4d9abf7dc2487e83631883e57cec748d/header.jpg?t=1774899699",
+        "Date": "August 2026",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774904624.0622501,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4532910": {
+        "Title": "Battle : Frenzy Zone",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4532910/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4532910/8a0a1ea5b951e63fa667d4a8ffed775b99f79298/header.jpg?t=1774901699",
+        "Date": "July 2026",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774904628.6575751,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4543970": {
+        "Title": "Fallen Scout",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4543970/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4543970/9b0bfe40163cc83eeb1b308232bfd09e367001a9/header.jpg?t=1774901582",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774904640.7624226,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4553840": {
+        "Title": "EraPuzzle: Grid & Glory",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4553840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4553840/a8a279420ee5e3a69435bfa9f399c4379727acc4/header.jpg?t=1774900651",
+        "Date": "April 2026",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774904650.9870243,
+        "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "4556670": {
+        "Title": "Centre 18",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4556670/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4556670/c055a2eacca71386cd244012abdcfe67d792fe24/header.jpg?t=1774901265",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774904656.0698674,
+        "MatchedTags": [
+            "grand strategy",
+            "real time tactics",
+            "management"
+        ]
+    },
+    "4556710": {
+        "Title": "Digital Footprint: Cyber Investigation",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4556710/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4556710/83e0f8e244c348edb8cd29cfa7bab44c09f288a6/header.jpg?t=1774903267",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774904658.9104676,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4558690": {
+        "Title": "SkyChart: Airline Executive",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4558690/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4558690/1d59c8ac3b0e57479df91b5b3cd8af5794d6d55f/header.jpg?t=1774899619",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-03-30",
+        "AddedTimestamp": 1774904664.600014,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "grand strategy",
+            "economy",
+            "resource management",
+            "turn-based strategy",
+            "turn-based tactics"
         ]
     }
 }
