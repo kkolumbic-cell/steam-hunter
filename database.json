@@ -17898,7 +17898,7 @@
     "4452620": {
         "Title": "Thieves and Gold",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/CxyAFPH2PB",
         "URL": "https://store.steampowered.com/app/4452620/",
         "Site": "https://thievesandgold.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4452620/e3f344893d631bf4ce59d95d8fb02ea6c54249be/header.jpg?t=1774877146",
@@ -18727,6 +18727,125 @@
             "tower defense",
             "turn-based strategy",
             "base building"
+        ]
+    },
+    "3935520": {
+        "Title": "A Service Call",
+        "Email": "mail@mikeengler.com",
+        "Discord": "https://discord.gg/qJYHNF9ADg",
+        "URL": "https://store.steampowered.com/app/3935520/",
+        "Site": "https://mikeengler.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3935520/1b16723ab24d6ad1b21e7c04c10fcda6049dad9e/header.jpg?t=1774930538",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774936514.1979833,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4198730": {
+        "Title": "Alchemist's Arcana",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4198730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4198730/89d6f9f6a8bf5bf34c83f9403ecf8f7af8148788/header.jpg?t=1774934640",
+        "Date": "Dec 31, 2026",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774936522.4325645,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4304340": {
+        "Title": "Into the Cave",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4304340/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4304340/befd85fde9f1425d3cfafcb81c34388826d17f8c/header.jpg?t=1774936223",
+        "Date": "TBA",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774936530.971406,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4469130": {
+        "Title": "I KNOW YOUR ADDRESS 2",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4469130/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4469130/0bf8a819eb99770c1bf28c770446a0b7c229f0c7/header.jpg?t=1774936191",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774936543.4355934,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4538930": {
+        "Title": "We are one body",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4538930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4538930/caae9c3079f66a07010bbca39773f11e85ab09c7/header.jpg?t=1774928645",
+        "Date": "April 2026",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774936570.148851,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "4554350": {
+        "Title": "RISING FOOL",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4554350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4554350/6b3262eae30b4da0c187f815a5f965770e017ae3/header.jpg?t=1774933326",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774936585.0102642,
+        "MatchedTags": [
+            "turn-based tactics",
+            "tactical rpg"
+        ]
+    },
+    "4555670": {
+        "Title": "GameBuilder Puzzle Platformer",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4555670/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4555670/168f178ede23f33dd27be0a6522d2fcac44aa855/header.jpg?t=1774933823",
+        "Date": "Apr 9, 2026",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774936588.0146103,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4555740": {
+        "Title": "BOMBERCOOK!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4555740/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4555740/f8d37d2059707bcef23b9a650da2ef0623335e8f/header.jpg?t=1774928467",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774936591.1291316,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
         ]
     }
 }
