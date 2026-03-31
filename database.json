@@ -7261,9 +7261,9 @@
         "URL": "https://store.steampowered.com/app/4361900/",
         "Site": "https://blunix.games/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4361900/7a5a2c59b4a02f9711b60020830655070865886d/header.jpg?t=1773414165",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-13",
-        "AddedTimestamp": 1773414259.257553,
+        "Date": "Apr 1, 2026",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1775001021.3116145,
         "MatchedTags": [
             "city builder",
             "management"
@@ -19543,6 +19543,63 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4531140": {
+        "Title": "Craps Royale: The Ultimate Craps Simulator",
+        "Email": "admin@thevegaslab.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4531140/",
+        "Site": "https://thevegaslab.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4531140/c582dcb49f7c6beeb042504983ade0dfc60b6d22/header.jpg?t=1774999889",
+        "Date": "Apr 20, 2026",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1775001038.1350176,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4539060": {
+        "Title": "Grimshaw's Blotto",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4539060/",
+        "Site": "https://coldboot.studio",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4539060/2514877462affa3ab49ad708016fd34f8bad9b6f/header.jpg?t=1774999694",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1775001041.7827475,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4541000": {
+        "Title": "Hackers: The Revolution Begins",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4541000/",
+        "Site": "https://www.fifthbattery.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541000/f3fd44549c0534b4925b085b12e1b9a14da3c2f0/header.jpg?t=1775000030",
+        "Date": "TBA",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1775001044.578832,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4563440": {
+        "Title": "Why Did You Press",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4563440/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4563440/1e55560db1f16c3e3c8739f097ce26635f0b0d54/header.jpg?t=1774999592",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1775001053.7145681,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
