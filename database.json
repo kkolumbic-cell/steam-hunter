@@ -2032,10 +2032,10 @@
         "AddedDate": "2026-03-05",
         "AddedTimestamp": 1772744065.4212253,
         "MatchedTags": [
-            "turn-based strategy",
             "strategy",
-            "turn-based combat",
-            "management"
+            "turn-based strategy",
+            "tactical",
+            "turn-based combat"
         ]
     },
     "3281660": {
@@ -19232,6 +19232,149 @@
         "AddedTimestamp": 1774980680.8979502,
         "MatchedTags": [
             "economy",
+            "resource management"
+        ]
+    },
+    "3108410": {
+        "Title": "Inventor Simulator",
+        "Email": "",
+        "Discord": "https://discord.gg/cwTRpgWs8r",
+        "URL": "https://store.steampowered.com/app/3108410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3108410/9f6ab050b886fe7ab433962c6ebd4058a1a9d804/header.jpg?t=1774982004",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774985404.8980541,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4082680": {
+        "Title": "GAMBALL",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4082680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4082680/254f3903319a53a02c4ea096e7df8698dd97ef97/header.jpg?t=1774980878",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774985414.6880271,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "survival horror",
+            "turn-based combat",
+            "turn-based tactics"
+        ]
+    },
+    "4323030": {
+        "Title": "Creepy Peepy",
+        "Email": "",
+        "Discord": "https://discord.gg/866eBx9Adw",
+        "URL": "https://store.steampowered.com/app/4323030/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4323030/5f70ad11a62f50f4427b63c2fcb62b2c06962a5a/header.jpg?t=1774982533",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774985419.491628,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "4405370": {
+        "Title": "Unreal Race",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4405370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4405370/0c65c67b68761c69b85a2e96c80544c98bf0f3b6/header.jpg?t=1774982801",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774985422.430813,
+        "MatchedTags": [
+            "management",
+            "real time tactics",
+            "strategy"
+        ]
+    },
+    "4548150": {
+        "Title": "Glass Monsters",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4548150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4548150/23b5a315fec9ba8fc01abedf11a00095fd47fb63/header.jpg?t=1774984118",
+        "Date": "Apr 8, 2026",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774985462.0651157,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4562920": {
+        "Title": "DrivApp",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4562920/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4562920/bbe3cbb756ca542db005a6362c4ba3516c36bc85/header.jpg?t=1774984770",
+        "Date": "Apr 25, 2026",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774985476.6687868,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "4563770": {
+        "Title": "Big Tech Time",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4563770/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4563770/df5b4ec61db705ec11e3ba393dac4ee6d568bc3d/header.jpg?t=1774984200",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774985481.8896067,
+        "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "4568490": {
+        "Title": "TurtleSkate",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4568490/",
+        "Site": "https://yjj985280.wixsite.com/my-site",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4568490/b805e8bc5277d330a212dcab53bb309dc312b972/header.jpg?t=1774981471",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774985484.7259414,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4570250": {
+        "Title": "Cover My Buns",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4570250/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4570250/121f89e59ab4e13ef8f9616659e65626548a932b/header.jpg?t=1774982700",
+        "Date": "TBA",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774985490.6788824,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "base building",
             "resource management"
         ]
     }
