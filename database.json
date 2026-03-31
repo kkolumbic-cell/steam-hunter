@@ -149,12 +149,13 @@
         "URL": "https://store.steampowered.com/app/3508260/",
         "Site": "https://www.hextown.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3508260/7d50d327738dd5acc35a090cb39c7ee54522f43e/header.jpg?t=1772606110",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-03-04",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-31",
         "MatchedTags": [
             "strategy",
             "city builder"
-        ]
+        ],
+        "AddedTimestamp": 1774965780.0326815
     },
     "4455090": {
         "Title": "Travellers Inbetween",
@@ -9038,9 +9039,9 @@
         "URL": "https://store.steampowered.com/app/4456720/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4456720/3ddaa3f725359bc16ac1d98ff46012a2df348590/header.jpg?t=1773754558",
-        "Date": "March 2026",
-        "AddedDate": "2026-03-24",
-        "AddedTimestamp": 1774328926.5553725,
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774965815.6478887,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -10482,7 +10483,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4485350/",
-        "Site": "",
+        "Site": "https://www.instagram.com/deunocta_/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4485350/31e812a1ea1c3df8fa47c90c868f4f0c3f1bbf62/header.jpg?t=1773890192",
         "Date": "Coming soon",
         "AddedDate": "2026-03-19",
@@ -13240,9 +13241,9 @@
         "URL": "https://store.steampowered.com/app/4532480/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4532480/ab168264950f1e6ac5bae6690d7901ecd8572603/header.jpg?t=1774362128",
-        "Date": "Apr 6, 2026",
-        "AddedDate": "2026-03-24",
-        "AddedTimestamp": 1774366568.8543062,
+        "Date": "Apr 7, 2026",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774965850.4172316,
         "MatchedTags": [
             "horror"
         ]
@@ -17135,9 +17136,9 @@
         "URL": "https://store.steampowered.com/app/4532280/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4532280/95cec98529d496993a23203e25416eaf53cbe9bb/header.jpg?t=1774680292",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-03-28",
-        "AddedTimestamp": 1774682174.607178,
+        "Date": "2026",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774965848.0253553,
         "MatchedTags": [
             "turn-based strategy",
             "strategy"
@@ -18014,10 +18015,10 @@
     },
     "4563730": {
         "Title": "Master the Track",
-        "Email": "",
+        "Email": "info@madmoosesoftworks.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4563730/",
-        "Site": "",
+        "Site": "https://madmoosesoftworks.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4563730/82898136d58af2de0bbc91fea806ba325c1e61aa/header.jpg?t=1774879837",
         "Date": "Coming soon",
         "AddedDate": "2026-03-30",
@@ -18605,9 +18606,9 @@
         "URL": "https://store.steampowered.com/app/4382980/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4382980/86ecb3acd4e7196225a3d6ac1fba2515a7283099/header.jpg?t=1774917175",
-        "Date": "Q2 2026",
+        "Date": "Coming soon",
         "AddedDate": "2026-03-31",
-        "AddedTimestamp": 1774927884.010556,
+        "AddedTimestamp": 1774965807.2916193,
         "MatchedTags": [
             "strategy"
         ]
@@ -19008,11 +19009,27 @@
         "URL": "https://store.steampowered.com/app/4522510/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4522510/2bcc7825c4d0524af87a7f52cc2b0333efc25c38/header.jpg?t=1774952957",
-        "Date": "Apr 30, 2026",
+        "Date": "April 2026",
         "AddedDate": "2026-03-31",
-        "AddedTimestamp": 1774955556.395153,
+        "AddedTimestamp": 1774965836.9772747,
         "MatchedTags": [
             "resource management"
+        ]
+    },
+    "3831180": {
+        "Title": "Vagrant Shifter",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3831180/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3831180/e68c851d4d06a2c4d9f6309869a422302dfd8e6f/header.jpg?t=1774962851",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774965783.7369242,
+        "MatchedTags": [
+            "turn-based combat",
+            "horror",
+            "psychological horror"
         ]
     }
 }
