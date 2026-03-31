@@ -9039,9 +9039,9 @@
         "URL": "https://store.steampowered.com/app/4456720/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4456720/3ddaa3f725359bc16ac1d98ff46012a2df348590/header.jpg?t=1773754558",
-        "Date": "Coming soon",
+        "Date": "Mar 31, 2026",
         "AddedDate": "2026-03-31",
-        "AddedTimestamp": 1774965815.6478887,
+        "AddedTimestamp": 1774971452.3888159,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -18227,9 +18227,9 @@
         "URL": "https://store.steampowered.com/app/4566970/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4566970/af89a6a2aa7a646237eec160915fdc9ba8c72db1/header.jpg?t=1774891141",
-        "Date": "Apr 30, 2026",
-        "AddedDate": "2026-03-30",
-        "AddedTimestamp": 1774894215.8207972,
+        "Date": "April 2026",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774971519.7090993,
         "MatchedTags": [
             "horror"
         ]
@@ -18554,7 +18554,7 @@
     "4506860": {
         "Title": "From Embers",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/vaXGnXHFmC",
         "URL": "https://store.steampowered.com/app/4506860/",
         "Site": "https://cindieforge.com/games/from-embers",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4506860/59af6cd7c9a7ab565689de796ef941cb1c2c5c5b/header.jpg?t=1774913902",
@@ -19030,6 +19030,78 @@
             "turn-based combat",
             "horror",
             "psychological horror"
+        ]
+    },
+    "4383440": {
+        "Title": "Not Yet",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4383440/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4383440/b199dcf67f8d977bd9f8fef22f8635f21dac6df7/header.jpg?t=1774969106",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774971443.6601448,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4450670": {
+        "Title": "Timefract",
+        "Email": "",
+        "Discord": "https://discord.gg/TQpTdZuqf",
+        "URL": "https://store.steampowered.com/app/4450670/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4450670/4730bb0c9b913e49f5d941a69b7480503efd823b/header.jpg?t=1774969590",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774971449.711674,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4518240": {
+        "Title": "Commie Bobrs",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4518240/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4518240/c040fa34d4678a3111bbd6ba3ffced95e003bd2a/header.jpg?t=1774971216",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774971482.3218663,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4537100": {
+        "Title": "diffiCULT",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4537100/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4537100/1998cb16e6220eacef0fb44afd760b0b54b58f23/header.jpg?t=1774971064",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774971496.5375447,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg"
+        ]
+    },
+    "4554050": {
+        "Title": "A Game About Making Numbers Go Up",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4554050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4554050/3ad4e09e409715e39f95ea0b91656f61866fa711/header.jpg?t=1774967759",
+        "Date": "To be announced",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774971512.4763758,
+        "MatchedTags": [
+            "economy",
+            "management"
         ]
     }
 }
