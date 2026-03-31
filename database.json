@@ -3228,7 +3228,7 @@
     "4488080": {
         "Title": "Infinigama",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/J8EcDVhk6z",
         "URL": "https://store.steampowered.com/app/4488080/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4488080/75fb7f8ccd44b533a383668dc613d521063472cf/header.jpg?t=1772829089",
@@ -19102,6 +19102,49 @@
         "MatchedTags": [
             "economy",
             "management"
+        ]
+    },
+    "3784820": {
+        "Title": "Autoloo",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3784820/",
+        "Site": "https://johnamarante.github.io/autoloo-data/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3784820/81d295fea753ae966b5c6973ce5a54c18d0af4e7/header.jpg?t=1774974074",
+        "Date": "Coming soon",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774977325.4078596,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4429870": {
+        "Title": "There's Nothing Down There",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4429870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4429870/ddd73a754b9c62e46d244b9896c5de1a7d1924d7/header.jpg?t=1774976835",
+        "Date": "Jun 4, 2026",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774977351.2211726,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4533760": {
+        "Title": "\u6613\u9608\u75c7",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4533760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4533760/62286dedf0ca5881ee868c980184e318ad846116/header.jpg?t=1774973894",
+        "Date": "2026",
+        "AddedDate": "2026-03-31",
+        "AddedTimestamp": 1774977380.6404235,
+        "MatchedTags": [
+            "psychological horror"
         ]
     }
 }
