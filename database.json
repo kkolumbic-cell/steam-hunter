@@ -10516,9 +10516,9 @@
         "URL": "https://store.steampowered.com/app/4526920/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4526920/354698126c0c434b53b65bf30f7f01396c8b17e4/header.jpg?t=1773877969",
-        "Date": "Coming soon",
+        "Date": "Apr 1, 2026",
         "AddedDate": "2026-04-01",
-        "AddedTimestamp": 1775015270.0817842,
+        "AddedTimestamp": 1775030150.226256,
         "MatchedTags": [
             "base building"
         ]
@@ -19920,6 +19920,74 @@
         "MatchedTags": [
             "horror",
             "survival horror"
+        ]
+    },
+    "3456700": {
+        "Title": "Iron Pact",
+        "Email": "",
+        "Discord": "https://discord.gg/y4KuJ49VfZ",
+        "URL": "https://store.steampowered.com/app/3456700/",
+        "Site": "https://iron-pact.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3456700/052ec2876f324fc12263a7a9fa0f7eec342adb3e/header.jpg?t=1775029836",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-01",
+        "AddedTimestamp": 1775030129.6825352,
+        "MatchedTags": [
+            "resource management",
+            "base building",
+            "economy",
+            "strategy",
+            "grand strategy"
+        ]
+    },
+    "4505410": {
+        "Title": "Crystal Core",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4505410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4505410/8da3cf479a370d2f89bca1e5ba0e9ae320bb4d31/header.jpg?t=1775027208",
+        "Date": "2026",
+        "AddedDate": "2026-04-01",
+        "AddedTimestamp": 1775030141.072535,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "management",
+            "economy"
+        ]
+    },
+    "4545820": {
+        "Title": "Solidarity",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4545820/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4545820/555b051c25ff8e4439924ccdb1917722ac8ed37b/header.jpg?t=1775025726",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-01",
+        "AddedTimestamp": 1775030159.6507947,
+        "MatchedTags": [
+            "turn-based strategy",
+            "turn-based tactics",
+            "turn-based combat",
+            "strategy"
+        ]
+    },
+    "4572110": {
+        "Title": "ESCAPE THE NEST",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4572110/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4572110/9f6c83f6cdf9182d64156df0048dba106ae922e7/header.jpg?t=1775028168",
+        "Date": "April 2026",
+        "AddedDate": "2026-04-01",
+        "AddedTimestamp": 1775030175.2689445,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
         ]
     }
 }
