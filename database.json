@@ -8883,9 +8883,9 @@
         "URL": "https://store.steampowered.com/app/4487590/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4487590/5f3b336b38f5eca5e86aebf83ea14c89bf183e5a/header.jpg?t=1773729847",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-17",
-        "AddedTimestamp": 1773732791.4464831,
+        "Date": "April 2026",
+        "AddedDate": "2026-04-01",
+        "AddedTimestamp": 1775084345.1825154,
         "MatchedTags": [
             "economy",
             "management",
@@ -20743,6 +20743,22 @@
         "MatchedTags": [
             "strategy",
             "resource management"
+        ]
+    },
+    "4574820": {
+        "Title": "Rejected Draft",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4574820/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4574820/1158f038ca024af322246a5e37d16bc7de0aae10/header.jpg?t=1775081626",
+        "Date": "June 2026",
+        "AddedDate": "2026-04-01",
+        "AddedTimestamp": 1775084363.4618182,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "management"
         ]
     }
 }
