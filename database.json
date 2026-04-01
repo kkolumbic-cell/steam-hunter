@@ -10636,9 +10636,9 @@
         "URL": "https://store.steampowered.com/app/4513950/",
         "Site": "http://www.opentouch.xyz/support.html",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4513950/dfc039c564d7159b4f05cab723bb0494f74099a6/header.jpg?t=1773903456",
-        "Date": "Coming soon",
+        "Date": "Apr 1, 2026",
         "AddedDate": "2026-04-01",
-        "AddedTimestamp": 1775015249.518147,
+        "AddedTimestamp": 1775036245.2938068,
         "MatchedTags": [
             "turn-based tactics"
         ]
@@ -19988,6 +19988,38 @@
             "horror",
             "survival horror",
             "psychological horror"
+        ]
+    },
+    "4265280": {
+        "Title": "Nile Express",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4265280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4265280/2631df244bfb9945c73e619773ba589759933ee8/header.jpg?t=1775030368",
+        "Date": "June 2026",
+        "AddedDate": "2026-04-01",
+        "AddedTimestamp": 1775036218.6759567,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4557900": {
+        "Title": "Coin of Fate",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4557900/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4557900/c1b0c4f8b375ff4f9a3b4326e91199f8cf2ebc9d/header.jpg?t=1775033736",
+        "Date": "Apr 9, 2026",
+        "AddedDate": "2026-04-01",
+        "AddedTimestamp": 1775036262.5442467,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
         ]
     }
 }
