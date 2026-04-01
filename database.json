@@ -11315,9 +11315,9 @@
         "URL": "https://store.steampowered.com/app/4534790/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4534790/7a11d95ccfd59c80d5be9d91c6dbbe1aab5aef53/header.jpg?t=1773972115",
-        "Date": "Apr 1, 2026",
-        "AddedDate": "2026-03-20",
-        "AddedTimestamp": 1773976366.965959,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-01",
+        "AddedTimestamp": 1775080783.9330187,
         "MatchedTags": [
             "strategy",
             "tower defense"
@@ -20697,6 +20697,51 @@
         "AddedTimestamp": 1775077416.1104858,
         "MatchedTags": [
             "management",
+            "resource management"
+        ]
+    },
+    "4296990": {
+        "Title": "CLASHROIDS",
+        "Email": "",
+        "Discord": "https://discord.gg/cjdxJUEBuZ",
+        "URL": "https://store.steampowered.com/app/4296990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4296990/28a95f0a30880a3c77ff659508263e3d18261b56/header.jpg?t=1775079073",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-01",
+        "AddedTimestamp": 1775080765.7229602,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4553070": {
+        "Title": "Almost Castaways",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4553070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4553070/3240e8731e44b7fd8acb0ad2e3255a07c92f2998/header.jpg?t=1775080687",
+        "Date": "Apr 30, 2026",
+        "AddedDate": "2026-04-01",
+        "AddedTimestamp": 1775080786.7228487,
+        "MatchedTags": [
+            "base building",
+            "resource management"
+        ]
+    },
+    "4559690": {
+        "Title": "Project Zebrafinch",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4559690/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4559690/0ad313ccdf2029ec185183a198a370facf65aa6e/header.jpg?t=1775079764",
+        "Date": "TBA",
+        "AddedDate": "2026-04-01",
+        "AddedTimestamp": 1775080792.4603276,
+        "MatchedTags": [
+            "strategy",
             "resource management"
         ]
     }
