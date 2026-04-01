@@ -6001,9 +6001,9 @@
         "URL": "https://store.steampowered.com/app/4230580/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4230580/a6f2443069791f52f4c719b20909ccc7b2ca0d9c/header.jpg?t=1773257916",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-03-12",
-        "AddedTimestamp": 1773342814.9001615,
+        "Date": "Apr 2, 2026",
+        "AddedDate": "2026-04-01",
+        "AddedTimestamp": 1775077361.1062717,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -12596,7 +12596,8 @@
         "AddedDate": "2026-03-25",
         "AddedTimestamp": 1774468605.8327456,
         "MatchedTags": [
-            "resource management"
+            "management",
+            "tactical"
         ]
     },
     "4538910": {
@@ -18453,9 +18454,9 @@
         "URL": "https://store.steampowered.com/app/4558690/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4558690/1d59c8ac3b0e57479df91b5b3cd8af5794d6d55f/header.jpg?t=1774899619",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-03-30",
-        "AddedTimestamp": 1774904664.600014,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-01",
+        "AddedTimestamp": 1775077407.3949711,
         "MatchedTags": [
             "strategy",
             "management",
@@ -19368,9 +19369,9 @@
         "URL": "https://store.steampowered.com/app/4570250/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4570250/121f89e59ab4e13ef8f9616659e65626548a932b/header.jpg?t=1774982700",
-        "Date": "TBA",
-        "AddedDate": "2026-03-31",
-        "AddedTimestamp": 1774985490.6788824,
+        "Date": "To be announced",
+        "AddedDate": "2026-04-01",
+        "AddedTimestamp": 1775077424.128687,
         "MatchedTags": [
             "economy",
             "management",
@@ -20653,6 +20654,50 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "744960": {
+        "Title": "GUITAR WORKSHOP",
+        "Email": "fr.accretion.games@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/744960/",
+        "Site": "https://www.accretion-games.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/744960/1a0157eab3a7f7f11eaa167d08b29ae5e603ef8a/header.jpg?t=1775073650",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-01",
+        "AddedTimestamp": 1775077345.8771794,
+        "MatchedTags": [
+            "management",
+            "base building"
+        ]
+    },
+    "4553510": {
+        "Title": "DEVIL GATE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4553510/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4553510/5418587ce7e1846419020e97da74f4adc455a937/header.jpg?t=1775074603",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-01",
+        "AddedTimestamp": 1775077401.046658,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4565730": {
+        "Title": "Taverntasia",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4565730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4565730/e81aa2f428106a7a9eabf125faa4e8e6e8a51de8/header.jpg?t=1775072263",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-01",
+        "AddedTimestamp": 1775077416.1104858,
+        "MatchedTags": [
+            "management",
+            "resource management"
         ]
     }
 }
