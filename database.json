@@ -5418,9 +5418,9 @@
         "URL": "https://store.steampowered.com/app/4501240/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501240/667d28c35eddd4937ad5b2819d5d9627ca164b0d/header.jpg?t=1773193013",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-11",
-        "AddedTimestamp": 1773197457.126645,
+        "Date": "Apr 3, 2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775115759.8430383,
         "MatchedTags": [
             "strategy"
         ]
@@ -11254,9 +11254,9 @@
         "URL": "https://store.steampowered.com/app/4520390/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4520390/2ea7f69bc0b649bab506deb2c47260cfd26e5e1d/header.jpg?t=1773964495",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-20",
-        "AddedTimestamp": 1773976348.50305,
+        "Date": "Apr 2, 2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775115767.3101642,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -21002,6 +21002,117 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "2674310": {
+        "Title": "Global Transit Manager",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2674310/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2674310/6792f0079adfa741cb1474c5c48007cb02d18782/header.jpg?t=1775113895",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775115733.1708946,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "tactical"
+        ]
+    },
+    "3920990": {
+        "Title": "Blood Welkin",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3920990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3920990/cf662739fb4cc70595990a8b195ddfb7cb30e15a/header.jpg?t=1775113604",
+        "Date": "June 2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775115735.8959816,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4537970": {
+        "Title": "Region at War: The Shogun's Tale of War",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4537970/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4537970/587f7983cdea58e5d497f514408e88ba5ba8c4b1/header.jpg?t=1775109973",
+        "Date": "April 2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775115777.849727,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "turn-based strategy",
+            "tactical",
+            "management"
+        ]
+    },
+    "4561370": {
+        "Title": "Relic Reaver",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4561370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4561370/0dbf63dfac4b8341a323fb1d58c941c4e7188e17/header.jpg?t=1775112428",
+        "Date": "TBA",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775115795.7742374,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "4568130": {
+        "Title": "LaVonne's Lemons Idle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4568130/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4568130/ed76e395d8563b5d968e1c1a23a57b78bbdb2dc9/header.jpg?t=1775109480",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775115801.1795573,
+        "MatchedTags": [
+            "management",
+            "resource management"
+        ]
+    },
+    "4573590": {
+        "Title": "The Horror Occultist",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4573590/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4573590/e328d818d886a5875208c755ca5fa67ab5f34acc/header.jpg?t=1775109750",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775115808.6879704,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4573970": {
+        "Title": "Syntaris",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4573970/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4573970/3a8fede582b5076e9293548879c32b02be61840d/header.jpg?t=1775109709",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775115811.262006,
+        "MatchedTags": [
+            "strategy",
+            "colony sim",
+            "management",
+            "economy",
+            "real time tactics",
+            "resource management"
         ]
     }
 }
