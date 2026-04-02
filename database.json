@@ -8145,9 +8145,9 @@
         "URL": "https://store.steampowered.com/app/3919690/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3919690/4a3e4b1cd084b1a95a6a0a5b490f916b4155e27e/header.jpg?t=1773664364",
-        "Date": "2026",
-        "AddedDate": "2026-03-28",
-        "AddedTimestamp": 1774703988.960314,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775121399.9524286,
         "MatchedTags": [
             "management",
             "economy"
@@ -14670,7 +14670,7 @@
     "4540150": {
         "Title": "GridFall",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/RAWBjdXWbT",
         "URL": "https://store.steampowered.com/app/4540150/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4540150/5dac40ceca64259ef96a5d47ba9b7344c3cd9931/header.jpg?t=1774468083",
@@ -18932,9 +18932,9 @@
         "URL": "https://store.steampowered.com/app/4555790/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4555790/31c60a4e7ca7831361ce89d09cf11cde98e171c4/header.jpg?t=1774942517",
-        "Date": "TBA",
-        "AddedDate": "2026-03-31",
-        "AddedTimestamp": 1774943186.535301,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775121448.8912394,
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
@@ -19867,9 +19867,9 @@
         "URL": "https://store.steampowered.com/app/4566900/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4566900/81f42763fdcdab8a6355d3111804cfc24e90147c/header.jpg?t=1775017595",
-        "Date": "Apr 7, 2026",
-        "AddedDate": "2026-04-01",
-        "AddedTimestamp": 1775023531.1369092,
+        "Date": "April 2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775121456.5283387,
         "MatchedTags": [
             "strategy",
             "base building"
@@ -21113,6 +21113,54 @@
             "economy",
             "real time tactics",
             "resource management"
+        ]
+    },
+    "4548480": {
+        "Title": "25 Days in the DARK",
+        "Email": "",
+        "Discord": "https://discord.gg/pJ9AzbbCVr",
+        "URL": "https://store.steampowered.com/app/4548480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4548480/f7bd218b785e5be5fe98698324aaa7873d169ccc/header.jpg?t=1775119790",
+        "Date": "Aug 3, 2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775121446.670714,
+        "MatchedTags": [
+            "horror",
+            "management",
+            "base building"
+        ]
+    },
+    "4563360": {
+        "Title": "B\u00fcnzliFight: Swiss City Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4563360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4563360/0d6ae2bb8f1b537e77250dca95e2cdc7e63ac3f8/header.jpg?t=1775119274",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775121450.9872236,
+        "MatchedTags": [
+            "city builder",
+            "management",
+            "economy",
+            "base building"
+        ]
+    },
+    "4564390": {
+        "Title": "Heroes of Ropascia",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4564390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4564390/4a18f104abec212cf086aa1c3034b4744efc1e8e/header.jpg?t=1775117622",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775121454.183268,
+        "MatchedTags": [
+            "turn-based tactics",
+            "turn-based combat"
         ]
     }
 }
