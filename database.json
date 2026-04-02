@@ -11238,9 +11238,9 @@
         "URL": "https://store.steampowered.com/app/4500310/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4500310/4ac0a3b582888ae2afd123dedf089a1c4c603cc0/header.jpg?t=1773965303",
-        "Date": "2026",
-        "AddedDate": "2026-03-24",
-        "AddedTimestamp": 1774372585.8228188,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775153031.4982572,
         "MatchedTags": [
             "strategy",
             "real time tactics",
@@ -21175,9 +21175,9 @@
         "URL": "https://store.steampowered.com/app/4333960/",
         "Site": "https://typer3000.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4333960/c746a6ef104c08f25af1f7da86bc8b9e89997412/header.jpg?t=1775123001",
-        "Date": "Apr 20, 2026",
+        "Date": "May 5, 2026",
         "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775128266.3160808,
+        "AddedTimestamp": 1775153022.4962158,
         "MatchedTags": [
             "tower defense",
             "base building"
@@ -21488,6 +21488,50 @@
         "AddedTimestamp": 1775149982.1845582,
         "MatchedTags": [
             "tower defense"
+        ]
+    },
+    "3360260": {
+        "Title": "Epiko World",
+        "Email": "",
+        "Discord": "https://discord.gg/J2ZCNMJXMN",
+        "URL": "https://store.steampowered.com/app/3360260/",
+        "Site": "https://www.epiko.io/games/epiko-world",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3360260/header.jpg?t=1775150284",
+        "Date": "Jan 20, 2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775153013.5443168,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics"
+        ]
+    },
+    "4526480": {
+        "Title": "Prim3 Hunt",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4526480/",
+        "Site": "https://aksonia.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4526480/7d49473578fa0a986d1e375923b574d553d6561c/header.jpg?t=1775152836",
+        "Date": "2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775153046.2435448,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4560660": {
+        "Title": "Eslabong",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4560660/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4560660/5688a138cabe17b209eb93fec9cb8206ac52cf44/header.jpg?t=1775152036",
+        "Date": "2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775153050.641837,
+        "MatchedTags": [
+            "strategy",
+            "management"
         ]
     }
 }
