@@ -3369,9 +3369,9 @@
         "URL": "https://store.steampowered.com/app/4423530/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4423530/3f52b67df0a10d7e141947c830bf86c450ae8d75/header.jpg?t=1772840435",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-06",
-        "AddedTimestamp": 1772840619.760238,
+        "Date": "To be announced",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775173876.831915,
         "MatchedTags": [
             "horror"
         ]
@@ -21807,6 +21807,52 @@
         "MatchedTags": [
             "tactical rpg",
             "tactical"
+        ]
+    },
+    "4556110": {
+        "Title": "Kinetype",
+        "Email": "",
+        "Discord": "https://discord.gg/6dm8qFMtN4",
+        "URL": "https://store.steampowered.com/app/4556110/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4556110/1b853cc3a0a2a40327f8a5220f72f342e8402c74/header.jpg?t=1775171669",
+        "Date": "2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775173901.890768,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "real time tactics"
+        ]
+    },
+    "4559610": {
+        "Title": "You Will Fall",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4559610/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559610/d37722dbcd5478a1734773d0723fa0bfa4f3e3c9/header.jpg?t=1775173708",
+        "Date": "TBA",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775173904.3204377,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4579770": {
+        "Title": "Wannabe Trashman",
+        "Email": "",
+        "Discord": "https://discord.gg/qAgyCQHAP5",
+        "URL": "https://store.steampowered.com/app/4579770/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579770/96de222a9f75c68ea19202ee44ae3cc9fbdf8a9f/header.jpg?t=1775171456",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775173910.785928,
+        "MatchedTags": [
+            "economy",
+            "management"
         ]
     }
 }
