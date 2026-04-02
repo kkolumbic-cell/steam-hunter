@@ -3111,9 +3111,9 @@
         "URL": "https://store.steampowered.com/app/4500410/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4500410/5a79c47928da8882191e33392002c8e48fc808a5/header.jpg?t=1772821040",
-        "Date": "April 2026",
-        "AddedDate": "2026-03-30",
-        "AddedTimestamp": 1774904615.8605902,
+        "Date": "Apr 1, 2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775100488.2998548,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -5331,7 +5331,8 @@
         "AddedDate": "2026-03-11",
         "AddedTimestamp": 1773197431.4155223,
         "MatchedTags": [
-            "strategy"
+            "strategy",
+            "management"
         ]
     },
     "4488190": {
@@ -13841,8 +13842,8 @@
         "AddedTimestamp": 1774408861.374527,
         "MatchedTags": [
             "horror",
-            "strategy",
-            "survival horror"
+            "survival horror",
+            "strategy"
         ]
     },
     "4493220": {
@@ -20790,6 +20791,172 @@
             "city builder",
             "resource management",
             "colony sim"
+        ]
+    },
+    "4249100": {
+        "Title": "Resident Evil (1996)",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4249100/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4249100/370da9c8c5e4573ea3c9d6ff22c88e89728fa0ed/header.jpg?t=1775088621",
+        "Date": "Apr 1, 2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775100445.9666085,
+        "MatchedTags": [
+            "survival horror",
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4249110": {
+        "Title": "Resident Evil 2 (1998)",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4249110/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4249110/db95a4fbb11b56b6dc065dc0d6c662dab47498e5/header.jpg?t=1775090214",
+        "Date": "Apr 1, 2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775100448.3714964,
+        "MatchedTags": [
+            "survival horror",
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4249120": {
+        "Title": "Resident Evil 3 Nemesis (1999)",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4249120/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4249120/a882eb9852c45108a0e4d725cd15132387ab038e/header.jpg?t=1775090236",
+        "Date": "Apr 1, 2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775100451.279532,
+        "MatchedTags": [
+            "survival horror",
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4249150": {
+        "Title": "Breath of Fire IV",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4249150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4249150/426a889a2d4ec776dc4d87530dadd659ffa393a6/header.jpg?t=1775089453",
+        "Date": "Apr 1, 2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775100453.0651298,
+        "MatchedTags": [
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4356540": {
+        "Title": "Monster Rush Survivors",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4356540/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4356540/7eddeb633358a6df1d2ba2b035a36f9bb6fa6c2b/header.jpg?t=1775097431",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775100463.524177,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4535630": {
+        "Title": "WallFront",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4535630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4535630/824b92a3154a22bb2f3c86f90eff1541257519cd/header.jpg?t=1775096699",
+        "Date": "July 2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775100503.5981348,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "real time tactics"
+        ]
+    },
+    "4536220": {
+        "Title": "\u6c49\u672b\u7eb7\u4e89\u4e09\u56fd",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4536220/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4536220/2e2193494b82c2329ad43dc148cb9a4f0cf2ddc5/header.jpg?t=1775092658",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775100506.826091,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4548450": {
+        "Title": "\u8bba\u9053\u804a\u658b",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4548450/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4548450/e6e67768cb0e350f156a8a0cb676638b1cb4e82d/header.jpg?t=1775098653",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775100526.0309937,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4554530": {
+        "Title": "Weekly Jobless Isle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4554530/",
+        "Site": "http://everything2games.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4554530/4a996a35e796cd5f1556a21d3e6396977225528f/header.jpg?t=1775087592",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775100532.649975,
+        "MatchedTags": [
+            "tower defense"
+        ]
+    },
+    "4559220": {
+        "Title": "Last Alive",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4559220/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4559220/a2ab676b4e5f87b50a6322066cf3918393a91d0e/header.jpg?t=1775097924",
+        "Date": "Jul 31, 2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775100545.6880457,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4563450": {
+        "Title": "The Sage's Seven",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4563450/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4563450/5a5dd522599f7f58dd794e1571a5ea00bc7c037d/header.jpg?t=1775094974",
+        "Date": "April 2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775100552.1498024,
+        "MatchedTags": [
+            "turn-based strategy",
+            "strategy",
+            "tactical",
+            "turn-based tactics"
         ]
     }
 }
