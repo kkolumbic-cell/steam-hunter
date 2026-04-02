@@ -14326,9 +14326,9 @@
         "URL": "https://store.steampowered.com/app/861360/",
         "Site": "https://windwalkersgame.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861360/36f44c1b77e51643653a1aac4615d7ffe8d25e1b/header.jpg?t=1774454410",
-        "Date": "2027",
-        "AddedDate": "2026-03-28",
-        "AddedTimestamp": 1774676170.3473237,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775157439.3282325,
         "MatchedTags": [
             "resource management"
         ]
@@ -20512,9 +20512,9 @@
         "URL": "https://store.steampowered.com/app/4545290/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4545290/c0cde432c900f98b8a87e9407840d3994c3da0dc/header.jpg?t=1775065583",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-01",
-        "AddedTimestamp": 1775066813.0534961,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775157470.569554,
         "MatchedTags": [
             "resource management"
         ]
@@ -21508,7 +21508,7 @@
     "4526480": {
         "Title": "Prim3 Hunt",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/A4Frd7gSmK",
         "URL": "https://store.steampowered.com/app/4526480/",
         "Site": "https://aksonia.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4526480/7d49473578fa0a986d1e375923b574d553d6561c/header.jpg?t=1775152836",
@@ -21532,6 +21532,52 @@
         "MatchedTags": [
             "strategy",
             "management"
+        ]
+    },
+    "4160590": {
+        "Title": "Abyss of Kings",
+        "Email": "",
+        "Discord": "https://discord.gg/YnHA3Yrn",
+        "URL": "https://store.steampowered.com/app/4160590/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4160590/50b3946621bac6c75bf820272d35498854e5a067/header.jpg?t=1775156348",
+        "Date": "2027",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775157449.1045165,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4487320": {
+        "Title": "LastRoll",
+        "Email": "",
+        "Discord": "https://discord.gg/DRmHxwgPhR",
+        "URL": "https://store.steampowered.com/app/4487320/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4487320/517b70f1464190ae9db813df9ccaa88fc7e3995d/header.jpg?t=1775156584",
+        "Date": "2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775157456.91109,
+        "MatchedTags": [
+            "turn-based tactics",
+            "tactical rpg",
+            "tactical",
+            "resource management"
+        ]
+    },
+    "4579520": {
+        "Title": "Clumsy Killers",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4579520/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4579520/4d1f9909d43b73d3efdde43bd9378005f8b51d83/header.jpg?t=1775157345",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775157482.7598116,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
         ]
     }
 }
