@@ -3476,9 +3476,9 @@
         "URL": "https://store.steampowered.com/app/4483170/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4483170/55760a9ddb70c635d809b3721d360a56fd8383ba/header.jpg?t=1772857898",
-        "Date": "Mar 27, 2026",
-        "AddedDate": "2026-03-07",
-        "AddedTimestamp": 1772858526.0767813,
+        "Date": "Apr 1, 2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775109041.7554998,
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
@@ -11630,9 +11630,9 @@
         "URL": "https://store.steampowered.com/app/4531090/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4531090/fe6e257bd047e430d62bc4621a30fc50dc4e9e68/header.jpg?t=1774027786",
-        "Date": "Apr 29, 2026",
-        "AddedDate": "2026-03-28",
-        "AddedTimestamp": 1774730965.192104,
+        "Date": "May 28, 2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775109064.5336206,
         "MatchedTags": [
             "strategy",
             "tactical rpg"
@@ -16111,8 +16111,7 @@
         "MatchedTags": [
             "management",
             "economy",
-            "resource management",
-            "strategy"
+            "resource management"
         ]
     },
     "3982770": {
@@ -16488,9 +16487,9 @@
         "URL": "https://store.steampowered.com/app/4482510/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4482510/3c37552e562e07e0c7557e4ae658ddd9fbfe43f4/header.jpg?t=1774634238",
-        "Date": "To be announced",
-        "AddedDate": "2026-03-28",
-        "AddedTimestamp": 1774667887.8937688,
+        "Date": "2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775109039.3181772,
         "MatchedTags": [
             "strategy",
             "tower defense"
@@ -20957,6 +20956,52 @@
             "strategy",
             "tactical",
             "turn-based tactics"
+        ]
+    },
+    "4450110": {
+        "Title": "Last One Standing Academy",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4450110/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4450110/cc1b99c8f09ece2910e0aede928baa147e39dbfc/header.jpg?t=1775107162",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775109029.8938892,
+        "MatchedTags": [
+            "psychological horror",
+            "management",
+            "horror"
+        ]
+    },
+    "4463570": {
+        "Title": "\u957f\u751f\u7acb\u5fd7\u4f20",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4463570/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4463570/4c07d0f1f5d881ee54264c23511a88cf78c30d9c/header.jpg?t=1775102792",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775109031.8759716,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4565390": {
+        "Title": "Grief",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4565390/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4565390/72d4cff85955698c4e5c645fcfabb84605806c89/header.jpg?t=1775101570",
+        "Date": "April 2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775109087.9967563,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
