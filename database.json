@@ -3006,9 +3006,9 @@
         "URL": "https://store.steampowered.com/app/4463080/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4463080/037038e41a185fa62b73654911f6fb5b46b93790/header.jpg?t=1772817043",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-10",
-        "AddedTimestamp": 1773155539.739871,
+        "Date": "Sep 10, 2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775149911.4800289,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -14203,9 +14203,9 @@
         "URL": "https://store.steampowered.com/app/4389010/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4389010/aa6151ba79a438ed2310c27619c942c108e4b692/header.jpg?t=1774439819",
-        "Date": "Dec 31, 2026",
-        "AddedDate": "2026-03-25",
-        "AddedTimestamp": 1774439906.5660267,
+        "Date": "2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775149901.6134152,
         "MatchedTags": [
             "strategy",
             "colony sim",
@@ -20232,9 +20232,9 @@
         "URL": "https://store.steampowered.com/app/4431110/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4431110/050cfeb1e62b64d250375c059da7146a4b069ece/header.jpg?t=1775054760",
-        "Date": "TBA",
-        "AddedDate": "2026-04-01",
-        "AddedTimestamp": 1775058264.3003798,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775149906.8906841,
         "MatchedTags": [
             "management",
             "economy",
@@ -21064,9 +21064,9 @@
         "URL": "https://store.steampowered.com/app/4561370/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4561370/0dbf63dfac4b8341a323fb1d58c941c4e7188e17/header.jpg?t=1775112428",
-        "Date": "TBA",
+        "Date": "Coming soon",
         "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775115795.7742374,
+        "AddedTimestamp": 1775149961.8630235,
         "MatchedTags": [
             "strategy",
             "turn-based combat"
@@ -21296,9 +21296,9 @@
         "URL": "https://store.steampowered.com/app/4531310/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4531310/e4bc6a064ffd5dd985e8562fcd10e3f87ef9b841/header.jpg?t=1775137667",
-        "Date": "TBA",
+        "Date": "To be announced",
         "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775138367.3968809,
+        "AddedTimestamp": 1775149941.1977367,
         "MatchedTags": [
             "turn-based tactics",
             "strategy",
@@ -21380,6 +21380,114 @@
         "MatchedTags": [
             "economy",
             "resource management"
+        ]
+    },
+    "3947040": {
+        "Title": "Pegfinity",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3947040/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3947040/425af8799169a4398e52ffd5f1afb9db9d66a623/header.jpg?t=1775149667",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775149879.2974834,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4536900": {
+        "Title": "Next Reign: Kingdom",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4536900/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4536900/7830ee57b1827573dc30ae58d246f4ade4114bef/header.jpg?t=1775148419",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775149945.6565995,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "management",
+            "tactical",
+            "economy"
+        ]
+    },
+    "4552160": {
+        "Title": "Help Me Get Up",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4552160/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4552160/9c4307a38cf3580570bd1f9bbf90c361398fa2ec/header.jpg?t=1775147253",
+        "Date": "TBA",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775149950.2267406,
+        "MatchedTags": [
+            "tactical",
+            "survival horror"
+        ]
+    },
+    "4557240": {
+        "Title": "WOOD | We Observe Odd Disturbances",
+        "Email": "",
+        "Discord": "https://discord.gg/rDTrkcySfk",
+        "URL": "https://store.steampowered.com/app/4557240/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4557240/86410d5e9ed69c4c223acd6d9a359bf696933dc1/header.jpg?t=1775149212",
+        "Date": "TBA",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775149952.1637561,
+        "MatchedTags": [
+            "horror",
+            "management",
+            "psychological horror"
+        ]
+    },
+    "4569900": {
+        "Title": "Creepytape Rewind - Not From Here",
+        "Email": "",
+        "Discord": "https://discord.gg/5XUeYVrCEz",
+        "URL": "https://store.steampowered.com/app/4569900/",
+        "Site": "https://immersionforms.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4569900/270c64903efe7dfffdf718dbc1a1bd825ce071b7/header.jpg?t=1775143490",
+        "Date": "Apr 30, 2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775149964.5812416,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4577280": {
+        "Title": "[MULTIPLIERS]",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4577280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4577280/ed7e1a1f7097f28c8babd4563a48e018eb9d968c/header.jpg?t=1775147398",
+        "Date": "Apr 16, 2026",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775149979.6022525,
+        "MatchedTags": [
+            "management",
+            "strategy",
+            "economy"
+        ]
+    },
+    "4578890": {
+        "Title": "Trainferno",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4578890/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4578890/36b67f00eae33fdc792465d45a8078cf0289150f/header.jpg?t=1775149365",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-02",
+        "AddedTimestamp": 1775149982.1845582,
+        "MatchedTags": [
+            "tower defense"
         ]
     }
 }
