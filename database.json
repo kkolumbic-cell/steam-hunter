@@ -15705,9 +15705,9 @@
         "URL": "https://store.steampowered.com/app/4544690/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4544690/baf4f5f682cda1dce85ddb33e52683ef9f342c1f/header.jpg?t=1774553100",
-        "Date": "May 2026",
-        "AddedDate": "2026-03-26",
-        "AddedTimestamp": 1774553740.4788597,
+        "Date": "April 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775217319.1748893,
         "MatchedTags": [
             "psychological horror",
             "horror",
@@ -19230,9 +19230,9 @@
         "URL": "https://store.steampowered.com/app/4570360/",
         "Site": "https://www.catsoulstudios.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4570360/f5da7182ed7204cba44fc3fb8be29fe9d3d1b83b/header.jpg?t=1774978511",
-        "Date": "To be announced",
-        "AddedDate": "2026-03-31",
-        "AddedTimestamp": 1774980680.8979502,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775217328.9733682,
         "MatchedTags": [
             "economy",
             "resource management"
@@ -22215,6 +22215,38 @@
             "strategy",
             "economy",
             "management"
+        ]
+    },
+    "4525340": {
+        "Title": "Elebend",
+        "Email": "support@astrodestudio.com",
+        "Discord": "https://discord.gg/uFEPNzTq7p",
+        "URL": "https://store.steampowered.com/app/4525340/",
+        "Site": "https://astrodestudio.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4525340/60ef42e9dfef8a775aa92063c12f263a8f4fdaa7/header.jpg?t=1775214664",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775217310.613607,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "real time tactics",
+            "turn-based tactics"
+        ]
+    },
+    "4580670": {
+        "Title": "TAMURO CARDS",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4580670/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4580670/9895ebafe4ab14c157fd09ffc254b708bca3ff3f/header.jpg?t=1775214590",
+        "Date": "TBA",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775217334.9911704,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
         ]
     }
 }
