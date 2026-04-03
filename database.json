@@ -21877,9 +21877,9 @@
         "URL": "https://store.steampowered.com/app/4500770/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4500770/c7b6c061a22ebff364026031c3f2d3700ddeb9f6/header.jpg?t=1775184546",
-        "Date": "Coming soon",
+        "Date": "Jun 15, 2026",
         "AddedDate": "2026-04-03",
-        "AddedTimestamp": 1775186973.2129874,
+        "AddedTimestamp": 1775235524.5557702,
         "MatchedTags": [
             "strategy",
             "turn-based combat",
@@ -22479,6 +22479,53 @@
             "turn-based strategy",
             "resource management",
             "economy"
+        ]
+    },
+    "4027230": {
+        "Title": "Offworlder",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4027230/",
+        "Site": "https://www.playoffworlder.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4027230/ffe918a8d96855448ca128ebff7edc712692eb1e/header.jpg?t=1775232191",
+        "Date": "Jun 30, 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775235504.403223,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "turn-based strategy",
+            "tactical rpg",
+            "turn-based combat"
+        ]
+    },
+    "4554330": {
+        "Title": "Escape from Vlogger: Runaway",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4554330/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4554330/666e4857778460831b2d063472df9ccd0b12a361/header.jpg?t=1775232162",
+        "Date": "2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775235529.213101,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4574410": {
+        "Title": "Glossolalia",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4574410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4574410/12f77ee29247fb68aac66816f43767261d9c25af/header.jpg?t=1775234228",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775235539.8119488,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
         ]
     }
 }
