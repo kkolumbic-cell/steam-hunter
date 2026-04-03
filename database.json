@@ -15064,9 +15064,9 @@
         "URL": "https://store.steampowered.com/app/4513510/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4513510/126add1bf4376d97a3456a701b99fa72f8557075/header.jpg?t=1774511140",
-        "Date": "April 2026",
-        "AddedDate": "2026-03-26",
-        "AddedTimestamp": 1774516555.6099303,
+        "Date": "2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775238855.333555,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -22525,6 +22525,35 @@
         "AddedTimestamp": 1775235539.8119488,
         "MatchedTags": [
             "psychological horror",
+            "horror"
+        ]
+    },
+    "862750": {
+        "Title": "Lost Railway",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/862750/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/862750/8c8d178e2f9af5a80d21beb84f4f04ce5874ab99/header.jpg?t=1775238476",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775238819.9298842,
+        "MatchedTags": [
+            "survival horror",
+            "horror"
+        ]
+    },
+    "1270660": {
+        "Title": "Dead Party",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/1270660/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1270660/39fc9dc2981a36c4e7e90c93f502e929307cbbaa/header.jpg?t=1775236917",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775238822.612883,
+        "MatchedTags": [
             "horror"
         ]
     }
