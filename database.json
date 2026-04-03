@@ -13081,9 +13081,9 @@
         "URL": "https://store.steampowered.com/app/4414950/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4414950/e80e625c30f9848dea6bd1cca6ef919d2fbaf508/header.jpg?t=1774352793",
-        "Date": "TBA",
-        "AddedDate": "2026-03-24",
-        "AddedTimestamp": 1774353514.4498453,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775223588.124676,
         "MatchedTags": [
             "management",
             "resource management"
@@ -20621,9 +20621,9 @@
         "URL": "https://store.steampowered.com/app/4567000/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4567000/eae9e8c0b120f65902d9832c5a39bd9f0df38b2a/header.jpg?t=1775070936",
-        "Date": "Apr 16, 2026",
-        "AddedDate": "2026-04-01",
-        "AddedTimestamp": 1775072027.0766225,
+        "Date": "April 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775223633.1740954,
         "MatchedTags": [
             "strategy",
             "horror"
@@ -22247,6 +22247,64 @@
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
+        ]
+    },
+    "4428170": {
+        "Title": "Sefton Asylum",
+        "Email": "",
+        "Discord": "https://discord.gg/q86SDjeFEg",
+        "URL": "https://store.steampowered.com/app/4428170/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4428170/3f3f0572a15192b13a119131bc3ea74ba3640c28/header.jpg?t=1775219600",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775223589.8694298,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4457180": {
+        "Title": "Launch!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4457180/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4457180/ba417c5797aa6641b5a93c60fce1b401936f5221/header.jpg?t=1775220184",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775223594.8643074,
+        "MatchedTags": [
+            "strategy",
+            "base building"
+        ]
+    },
+    "4512350": {
+        "Title": "Compleat",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4512350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4512350/7f702188985cce8ead134c7a70d53e2a0882c7fd/header.jpg?t=1775219280",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775223604.6106567,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4521710": {
+        "Title": "GetFunky Deliv'or Die",
+        "Email": "",
+        "Discord": "https://discord.gg/TDuWaHpcUF",
+        "URL": "https://store.steampowered.com/app/4521710/",
+        "Site": "https://nexus.vi/le-jeu/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4521710/3ec3a3c64812e7780cd01c69f3f264dc94ce464f/header.jpg?t=1775221751",
+        "Date": "TBA",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775223615.712475,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
