@@ -1720,9 +1720,9 @@
         "URL": "https://store.steampowered.com/app/3655400/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3655400/524d6d970120aec385ec42b3fe7f521d4430ac38/header.jpg?t=1772731016",
-        "Date": "Mar 30, 2026",
-        "AddedDate": "2026-03-11",
-        "AddedTimestamp": 1773256297.971372,
+        "Date": "Apr 3, 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775249655.5691214,
         "MatchedTags": [
             "tactical rpg",
             "strategy",
@@ -22584,6 +22584,21 @@
         "AddedTimestamp": 1775246047.0181224,
         "MatchedTags": [
             "tactical"
+        ]
+    },
+    "4516940": {
+        "Title": "Yolo Mode",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4516940/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4516940/dd8dbd2dd8b9e642ffda57de1f90ea775c904ed2/header.jpg?t=1775247847",
+        "Date": "Apr 17, 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775249675.1977658,
+        "MatchedTags": [
+            "strategy",
+            "economy"
         ]
     }
 }
