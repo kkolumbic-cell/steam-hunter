@@ -21755,9 +21755,9 @@
         "URL": "https://store.steampowered.com/app/1940970/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940970/7337f51eb56c621ec15b16218e32938659a8545a/header.jpg?t=1775166626",
-        "Date": "Jul 31, 2026",
-        "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775166842.522828,
+        "Date": "July 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775246038.6031017,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -22555,6 +22555,35 @@
         "AddedTimestamp": 1775238822.612883,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "3967920": {
+        "Title": "Gut Rot",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3967920/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3967920/a52f161b7a2c2f862dacd52564e0ee0913fcaad4/header.jpg?t=1775245628",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775246041.5527172,
+        "MatchedTags": [
+            "survival horror",
+            "horror"
+        ]
+    },
+    "4349720": {
+        "Title": "Artifex Legends",
+        "Email": "",
+        "Discord": "https://discord.gg/qFt2qKsG3T",
+        "URL": "https://store.steampowered.com/app/4349720/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4349720/e88d335a49cbb8d895edecd3f651f8f352288cb0/header.jpg?t=1775243518",
+        "Date": "April 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775246047.0181224,
+        "MatchedTags": [
+            "tactical"
         ]
     }
 }
