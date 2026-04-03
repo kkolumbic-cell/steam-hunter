@@ -5418,9 +5418,9 @@
         "URL": "https://store.steampowered.com/app/4501240/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501240/667d28c35eddd4937ad5b2819d5d9627ca164b0d/header.jpg?t=1773193013",
-        "Date": "Apr 3, 2026",
-        "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775115759.8430383,
+        "Date": "Apr 2, 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775201960.1390758,
         "MatchedTags": [
             "strategy"
         ]
@@ -10271,7 +10271,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4438220/",
-        "Site": "",
+        "Site": "https://www.obscuregods.com/games",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4438220/1eda4b965f8ce4d6d2974743731c94360035ab6d/header.jpg?t=1773866940",
         "Date": "Q3 2026",
         "AddedDate": "2026-03-18",
@@ -21863,9 +21863,9 @@
         "URL": "https://store.steampowered.com/app/4321390/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4321390/9e75661fc3e83d6f3ef11e606c05e844ab6b4705/header.jpg?t=1775183242",
-        "Date": "November 2026",
+        "Date": "Q4 2026",
         "AddedDate": "2026-04-03",
-        "AddedTimestamp": 1775186944.3249183,
+        "AddedTimestamp": 1775201928.1246455,
         "MatchedTags": [
             "base building"
         ]
@@ -22015,6 +22015,81 @@
         "AddedTimestamp": 1775195559.9782019,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4417910": {
+        "Title": "Adopt Me Please",
+        "Email": "",
+        "Discord": "https://discord.gg/TX45ywR5H3",
+        "URL": "https://store.steampowered.com/app/4417910/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4417910/48561a4bcf339eeef1dbef9a039344571fc1ea1a/header.jpg?t=1775198464",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775201939.4630222,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4490840": {
+        "Title": "Lurking",
+        "Email": "",
+        "Discord": "https://discord.gg/jMsARtaD68",
+        "URL": "https://store.steampowered.com/app/4490840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4490840/9e9cc3ee8b1c15a70b85d26c79bad32474bb28c4/header.jpg?t=1775198771",
+        "Date": "2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775201956.3433344,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "4518020": {
+        "Title": "Ward X",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4518020/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4518020/0fef1dc95bff10842c127424409194119b510b79/header.jpg?t=1775198225",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775201969.536475,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4558500": {
+        "Title": "Squarsenal",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4558500/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4558500/44623e20cb96ba078007a3c542e58c35defff7ae/header.jpg?t=1775201315",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775201983.1239953,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4572610": {
+        "Title": "Agon : Legends of the Arena",
+        "Email": "",
+        "Discord": "https://discord.gg/4qmTvg8R5g",
+        "URL": "https://store.steampowered.com/app/4572610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4572610/4d53226fe5ab05021bd89b4c2f7a320f9984564e/header.jpg?t=1775201873",
+        "Date": "TBA",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775201996.857121,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg"
         ]
     }
 }
