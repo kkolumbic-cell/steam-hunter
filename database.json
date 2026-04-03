@@ -21390,9 +21390,9 @@
         "URL": "https://store.steampowered.com/app/3947040/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3947040/425af8799169a4398e52ffd5f1afb9db9d66a623/header.jpg?t=1775149667",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775149879.2974834,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775214281.6713672,
         "MatchedTags": [
             "resource management"
         ]
@@ -22199,6 +22199,22 @@
             "strategy",
             "turn-based strategy",
             "turn-based tactics"
+        ]
+    },
+    "4526450": {
+        "Title": "Incremental RTS",
+        "Email": "",
+        "Discord": "https://discord.gg/Y4f5ETxEPP",
+        "URL": "https://store.steampowered.com/app/4526450/",
+        "Site": "https://www.dyrkabes.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526450/5e3ce22b34b84e74d63533c0ee07ca3ac7692a86/header.jpg?t=1775212682",
+        "Date": "Dec 31, 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775214295.7754877,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management"
         ]
     }
 }
