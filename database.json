@@ -8995,9 +8995,9 @@
         "URL": "https://store.steampowered.com/app/4438460/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4438460/af7fe8bcf3546f61d47ab7df407637e5a1032e2a/header.jpg?t=1773747291",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-17",
-        "AddedTimestamp": 1773748636.566594,
+        "Date": "May 29, 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775207515.680196,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -11690,9 +11690,9 @@
         "URL": "https://store.steampowered.com/app/4533360/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4533360/56217a6fd9cb462538cddbaed55dc0257518a669/header.jpg?t=1774031159",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-20",
-        "AddedTimestamp": 1774033704.8285937,
+        "Date": "Apr 3, 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775207533.719502,
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
@@ -11917,9 +11917,9 @@
         "URL": "https://store.steampowered.com/app/4529370/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4529370/eb0336693807965fb527a685527e223b3337cf8a/header.jpg?t=1774074376",
-        "Date": "Apr 2, 2026",
-        "AddedDate": "2026-03-29",
-        "AddedTimestamp": 1774820896.5869043,
+        "Date": "Apr 3, 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775207528.3033602,
         "MatchedTags": [
             "strategy",
             "real time tactics"
@@ -22090,6 +22090,70 @@
         "MatchedTags": [
             "strategy",
             "tactical rpg"
+        ]
+    },
+    "4277960": {
+        "Title": "SGS Vietnam War",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4277960/",
+        "Site": "https://strategygamestudio.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4277960/b03eb027d538c2ec0c1159b2062a7d7a31c87707/header.jpg?t=1775203277",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775207493.5029912,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4519180": {
+        "Title": "The History of Everything",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4519180/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4519180/a192ceeba2fcf57fe2d4c99fcfd22de90cca70f7/header.jpg?t=1775203223",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775207521.3781776,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "turn-based strategy",
+            "psychological horror"
+        ]
+    },
+    "4546100": {
+        "Title": "Kircles",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4546100/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4546100/28e58c9c2e5e11d27821e2ce849167f0b2e2cafc/header.jpg?t=1775204887",
+        "Date": "2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775207547.8859797,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "management",
+            "base building",
+            "resource management"
+        ]
+    },
+    "4553080": {
+        "Title": "JAMA POKER",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4553080/",
+        "Site": "https://tunanstudio.github.io",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4553080/06be37362aa67e0bba75a2f34f5f0daaff822615/header.jpg?t=1775206924",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775207552.482485,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
