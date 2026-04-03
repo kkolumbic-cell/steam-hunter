@@ -11435,6 +11435,7 @@
         "AddedDate": "2026-03-20",
         "AddedTimestamp": 1773990896.6856134,
         "MatchedTags": [
+            "strategy",
             "psychological horror"
         ]
     },
@@ -12941,9 +12942,9 @@
         "URL": "https://store.steampowered.com/app/4371680/",
         "Site": "http://mojian.8yx.com/ ",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4371680/2b05e149212feda6b87ae8e3e6ceff9daf86622d/header.jpg?t=1774333023",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-26",
-        "AddedTimestamp": 1774520125.031628,
+        "Date": "Apr 20, 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775186949.4994445,
         "MatchedTags": [
             "city builder",
             "strategy"
@@ -15184,9 +15185,9 @@
         "URL": "https://store.steampowered.com/app/4552500/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4552500/19f9498309a0ba72fffc2c7194843938b15b1f7d/header.jpg?t=1774519590",
-        "Date": "Apr 20, 2026",
-        "AddedDate": "2026-03-26",
-        "AddedTimestamp": 1774520161.2556148,
+        "Date": "To be announced",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775187010.990597,
         "MatchedTags": [
             "strategy",
             "management",
@@ -18541,14 +18542,14 @@
     },
     "4562390": {
         "Title": "Order of the Ivy",
-        "Email": "rustware.ai@gmail.com",
+        "Email": "rustgames@orderoftheivy.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4562390/",
         "Site": "https://www.orderoftheivy.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4562390/5dbd0cc8c908fe954cf0529aa34f671b2dcc3f9f/header.jpg?t=1774911196",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-30",
-        "AddedTimestamp": 1774911497.216111,
+        "Date": "Apr 23, 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775187018.56357,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -20015,9 +20016,9 @@
         "URL": "https://store.steampowered.com/app/4557900/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4557900/c1b0c4f8b375ff4f9a3b4326e91199f8cf2ebc9d/header.jpg?t=1775033736",
-        "Date": "Apr 9, 2026",
-        "AddedDate": "2026-04-01",
-        "AddedTimestamp": 1775036262.5442467,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775187014.1416996,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -21344,9 +21345,9 @@
         "URL": "https://store.steampowered.com/app/4578470/",
         "Site": "https://dogwaterdev.com/grave-endeavors.php",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4578470/27dbdbf2badc4c57895ff1775800dd1500879d20/header.jpg?t=1775138054",
-        "Date": "TBA",
-        "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775138422.4911783,
+        "Date": "Apr 22, 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775187044.761633,
         "MatchedTags": [
             "resource management",
             "strategy"
@@ -21851,6 +21852,138 @@
         "AddedDate": "2026-04-02",
         "AddedTimestamp": 1775173910.785928,
         "MatchedTags": [
+            "economy",
+            "management"
+        ]
+    },
+    "4321390": {
+        "Title": "The Last Opening",
+        "Email": "",
+        "Discord": "https://discord.gg/JH8xE4Eb6Y",
+        "URL": "https://store.steampowered.com/app/4321390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4321390/9e75661fc3e83d6f3ef11e606c05e844ab6b4705/header.jpg?t=1775183242",
+        "Date": "November 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775186944.3249183,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "4500770": {
+        "Title": "KeyFortress",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4500770/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4500770/c7b6c061a22ebff364026031c3f2d3700ddeb9f6/header.jpg?t=1775184546",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775186973.2129874,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "base building"
+        ]
+    },
+    "4513300": {
+        "Title": "Dinerz",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4513300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4513300/d6d8ea290cd1ba3cea8f240759d0fbd1966da15b/header.jpg?t=1775184581",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775186982.5996997,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4531610": {
+        "Title": "Goodbye Page",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4531610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4531610/c17cbed57600fa1013b28edf4b00cf4cc097e49f/header.jpg?t=1775179472",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775186999.5086029,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4539310": {
+        "Title": "Guild of Three",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4539310/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4539310/0d6d3b270162f9f08f8fdcc8b93bc601c72ce30d/header.jpg?t=1775186529",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775187002.4899125,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "4547610": {
+        "Title": "Abyss Cards",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4547610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4547610/92d3423af9777297e28eda5c6109e08ff56ef665/header.jpg?t=1775184046",
+        "Date": "Apr 6, 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775187005.5720701,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4549620": {
+        "Title": "Fire Escape",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4549620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4549620/5d5c6b4c1e2d5ce502f3e3d9c98301cd1cbf3ebb/header.jpg?t=1775186540",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775187007.6672783,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4579400": {
+        "Title": "Graveknell",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4579400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4579400/f847e7e6d00575fc6ab0efba26ae5f4912def44c/header.jpg?t=1775185706",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775187047.6879478,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4582500": {
+        "Title": "Withering State",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4582500/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4582500/487dc655714f266412c0e2e2620fd11b10f73f9f/header.jpg?t=1775178856",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775187053.6597674,
+        "MatchedTags": [
+            "strategy",
             "economy",
             "management"
         ]
