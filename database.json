@@ -6740,9 +6740,9 @@
         "URL": "https://store.steampowered.com/app/4315270/",
         "Site": "https://woodlandsoftware.org/#games",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315270/725ade629e95e8aa0ff3ba01b0c2a303ee1deaff/header.jpg?t=1773346368",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-12",
-        "AddedTimestamp": 1773352158.3235297,
+        "Date": "Apr 2, 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775195479.097502,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -11859,8 +11859,8 @@
         "AddedDate": "2026-03-21",
         "AddedTimestamp": 1774061379.318172,
         "MatchedTags": [
-            "strategy",
             "colony sim",
+            "strategy",
             "psychological horror"
         ]
     },
@@ -14003,9 +14003,9 @@
         "URL": "https://store.steampowered.com/app/4547250/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4547250/7971779943bfc266161a30c05e51a2ce41d9a824/header.jpg?t=1774415379",
-        "Date": "Apr 19, 2026",
-        "AddedDate": "2026-03-25",
-        "AddedTimestamp": 1774417253.7622457,
+        "Date": "Apr 26, 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775195549.7032828,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -17591,9 +17591,9 @@
         "URL": "https://store.steampowered.com/app/4542150/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4542150/dd12373e7e61829e6dc786e51dec085bbf0c5cf6/header.jpg?t=1774743551",
-        "Date": "Apr 6, 2026",
-        "AddedDate": "2026-03-29",
-        "AddedTimestamp": 1774755541.7672844,
+        "Date": "April 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775195545.5926356,
         "MatchedTags": [
             "strategy",
             "management",
@@ -18798,9 +18798,9 @@
         "URL": "https://store.steampowered.com/app/4538930/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4538930/caae9c3079f66a07010bbca39773f11e85ab09c7/header.jpg?t=1774928645",
-        "Date": "April 2026",
-        "AddedDate": "2026-03-31",
-        "AddedTimestamp": 1774936570.148851,
+        "Date": "Apr 14, 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775195539.6998365,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -21986,6 +21986,35 @@
             "strategy",
             "economy",
             "management"
+        ]
+    },
+    "4555720": {
+        "Title": "\u9ed1\u5e06\u738b\u5ea7\u00b7Galactic Loadout",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4555720/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555720/edb4efba54c5bbf8ecfea0502eca766b754f194a/header.jpg?t=1775188362",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775195555.1731982,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy"
+        ]
+    },
+    "4560170": {
+        "Title": "Orblins",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4560170/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560170/01167aa0716a96b26f6aacff086eb44cbf00396f/header.jpg?t=1775190079",
+        "Date": "2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775195559.9782019,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
