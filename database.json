@@ -10288,9 +10288,9 @@
         "URL": "https://store.steampowered.com/app/4469340/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4469340/f9afaa0f3c5159d3fd21933efa3057b4c727d1b7/header.jpg?t=1773866142",
-        "Date": "April 2026",
-        "AddedDate": "2026-03-18",
-        "AddedTimestamp": 1773867485.3829184,
+        "Date": "April 2027",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775228669.71649,
         "MatchedTags": [
             "economy",
             "turn-based tactics"
@@ -22010,9 +22010,9 @@
         "URL": "https://store.steampowered.com/app/4560170/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560170/01167aa0716a96b26f6aacff086eb44cbf00396f/header.jpg?t=1775190079",
-        "Date": "2026",
+        "Date": "June 2026",
         "AddedDate": "2026-04-03",
-        "AddedTimestamp": 1775195559.9782019,
+        "AddedTimestamp": 1775228701.0810921,
         "MatchedTags": [
             "strategy"
         ]
@@ -22305,6 +22305,71 @@
         "AddedTimestamp": 1775223615.712475,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4509400": {
+        "Title": "Giga Flop",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4509400/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4509400/fd920c6e97d7d29e9deb2bff61de34da0a2f73ff/header.jpg?t=1775223887",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775228676.722985,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4535200": {
+        "Title": "Harpooneer",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4535200/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4535200/774d4caa7785c38dcb174fd4bab48d383320d583/header.jpg?t=1775224194",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775228689.8859127,
+        "MatchedTags": [
+            "psychological horror",
+            "strategy"
+        ]
+    },
+    "4536780": {
+        "Title": "Unwanted Host",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4536780/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4536780/758dfb4dcbdb626e5568be0b80d38c30429f90ea/header.jpg?t=1775228265",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775228694.8709989,
+        "MatchedTags": [
+            "strategy",
+            "horror",
+            "psychological horror",
+            "turn-based combat",
+            "turn-based strategy",
+            "real time tactics"
+        ]
+    },
+    "4566580": {
+        "Title": "Billionaire in the Greedy America",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4566580/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4566580/b9e9173b9f61853065067525665926cd15f2c02d/header.jpg?t=1775223983",
+        "Date": "June 2026",
+        "AddedDate": "2026-04-03",
+        "AddedTimestamp": 1775228705.606624,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management",
+            "resource management"
         ]
     }
 }
