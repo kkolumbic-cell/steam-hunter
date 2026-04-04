@@ -19390,9 +19390,9 @@
         "URL": "https://store.steampowered.com/app/4544030/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544030/fc5240e0fd09b73569948fc98b5bbd7c5a55f851/header.jpg?t=1774987336",
-        "Date": "Apr 2, 2026",
-        "AddedDate": "2026-03-31",
-        "AddedTimestamp": 1774990733.1462376,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-04",
+        "AddedTimestamp": 1775296550.6556387,
         "MatchedTags": [
             "strategy",
             "survival horror"
@@ -22785,6 +22785,38 @@
             "turn-based combat",
             "management",
             "resource management"
+        ]
+    },
+    "4500100": {
+        "Title": "WarVara",
+        "Email": "",
+        "Discord": "https://discord.gg/4VuQXevk",
+        "URL": "https://store.steampowered.com/app/4500100/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4500100/29a96b0fe3569144948cfd72ce0fab444cf05fd7/header.jpg?t=1775293906",
+        "Date": "Q2 2027",
+        "AddedDate": "2026-04-04",
+        "AddedTimestamp": 1775296545.7297032,
+        "MatchedTags": [
+            "survival horror",
+            "horror"
+        ]
+    },
+    "4515410": {
+        "Title": "Project Heist",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4515410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4515410/16f67812f059b80c8f387a2e24d2e9f42d008af7/header.jpg?t=1775294779",
+        "Date": "June 2026",
+        "AddedDate": "2026-04-04",
+        "AddedTimestamp": 1775296548.4201891,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "turn-based combat"
         ]
     }
 }
