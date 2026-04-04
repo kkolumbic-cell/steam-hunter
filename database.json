@@ -3540,9 +3540,9 @@
         "URL": "https://store.steampowered.com/app/4448930/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4448930/cfd9749695c969201e263051c7852b5a3038c2b4/header.jpg?t=1772865518",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-07",
-        "AddedTimestamp": 1772866786.1800654,
+        "Date": "Apr 3, 2026",
+        "AddedDate": "2026-04-04",
+        "AddedTimestamp": 1775287147.1631856,
         "MatchedTags": [
             "strategy",
             "real time tactics",
@@ -7578,9 +7578,9 @@
         "URL": "https://store.steampowered.com/app/4504030/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4504030/779f6c1530ad6fda550e0581e6fb8ece22933688/header.jpg?t=1773467455",
-        "Date": "Apr 2, 2026",
-        "AddedDate": "2026-03-14",
-        "AddedTimestamp": 1773468086.5091166,
+        "Date": "Apr 3, 2026",
+        "AddedDate": "2026-04-04",
+        "AddedTimestamp": 1775287149.9978688,
         "MatchedTags": [
             "horror"
         ]
@@ -17126,9 +17126,9 @@
         "URL": "https://store.steampowered.com/app/4527040/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4527040/e81aeb63058e56726a49cff6ed37e105cb6a7977/header.jpg?t=1774678810",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-28",
-        "AddedTimestamp": 1774682169.204194,
+        "Date": "Apr 10, 2026",
+        "AddedDate": "2026-04-04",
+        "AddedTimestamp": 1775287152.5279973,
         "MatchedTags": [
             "strategy",
             "tactical"
@@ -22768,6 +22768,23 @@
             "strategy",
             "real time tactics",
             "tactical"
+        ]
+    },
+    "4211020": {
+        "Title": "Waning Light",
+        "Email": "biz@treebearinteractive.com, press@treebearinteractive.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4211020/",
+        "Site": "https://treebearinteractive.com/projects/waning-light/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4211020/818887ffa786788b4d8166ae7303ec85771587ac/header.jpg?t=1775287026",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-04",
+        "AddedTimestamp": 1775287137.4924774,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "management",
+            "resource management"
         ]
     }
 }
