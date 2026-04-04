@@ -12534,9 +12534,9 @@
         "URL": "https://store.steampowered.com/app/4523160/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4523160/2285c7b1f21b3a16442a75f7ea18d127d5e4b111/header.jpg?t=1774285707",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-23",
-        "AddedTimestamp": 1774285881.7141488,
+        "Date": "Apr 20, 2026",
+        "AddedDate": "2026-04-04",
+        "AddedTimestamp": 1775335829.2178466,
         "MatchedTags": [
             "strategy",
             "tower defense"
@@ -22910,6 +22910,37 @@
             "turn-based tactics",
             "turn-based strategy",
             "tactical"
+        ]
+    },
+    "4559160": {
+        "Title": "Endless War: Defense",
+        "Email": "contact@lionbyte.games",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4559160/",
+        "Site": "https://lionbyte.games/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4559160/bc1f9a0cd9cf6c9931a20f2f541a0ef4162c486a/header.jpg?t=1775333891",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-04",
+        "AddedTimestamp": 1775335858.4682717,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "base building"
+        ]
+    },
+    "4575680": {
+        "Title": "Prison Glow",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4575680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4575680/8450e0183b87fd116a2f920e5ce4ef9f901a4bba/header.jpg?t=1775333329",
+        "Date": "April 2026",
+        "AddedDate": "2026-04-04",
+        "AddedTimestamp": 1775335863.5686123,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
         ]
     }
 }
