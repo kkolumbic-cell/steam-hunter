@@ -12333,7 +12333,7 @@
     "2598990": {
         "Title": "\u5143\u7d20\u5947\u5175\uff1a\u82f1\u96c4\u96c6\u7ed3\u4ee4",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/hV2uJFNgU",
         "URL": "https://store.steampowered.com/app/2598990/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2598990/2a11a4657eb21dc930945c53128745975680ac13/header.jpg?t=1774248353",
@@ -18424,7 +18424,7 @@
     "4556670": {
         "Title": "Centre 18",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/WBCZkahPeZ",
         "URL": "https://store.steampowered.com/app/4556670/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4556670/c055a2eacca71386cd244012abdcfe67d792fe24/header.jpg?t=1774901265",
@@ -21879,9 +21879,9 @@
         "URL": "https://store.steampowered.com/app/4500770/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4500770/c7b6c061a22ebff364026031c3f2d3700ddeb9f6/header.jpg?t=1775184546",
-        "Date": "Jun 15, 2026",
-        "AddedDate": "2026-04-03",
-        "AddedTimestamp": 1775235524.5557702,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-04",
+        "AddedTimestamp": 1775272646.6564288,
         "MatchedTags": [
             "strategy",
             "turn-based combat",
@@ -22707,6 +22707,51 @@
         "AddedTimestamp": 1775260216.8879735,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4155730": {
+        "Title": "CHESS.0",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4155730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4155730/608691fcdac117ab552f4ed0eb32bf9807245a34/header.jpg?t=1775268147",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-04",
+        "AddedTimestamp": 1775272623.5682473,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4276030": {
+        "Title": "Lab Loonies",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4276030/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4276030/767898b36bd3a5dfefb2cd1c3775e47de8d2850b/header.jpg?t=1775266483",
+        "Date": "2026",
+        "AddedDate": "2026-04-04",
+        "AddedTimestamp": 1775272628.254467,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4577180": {
+        "Title": "At Night: Haunted Ride",
+        "Email": "",
+        "Discord": "https://discord.com/invite/dzdysGJNcn",
+        "URL": "https://store.steampowered.com/app/4577180/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4577180/536cf79d5327ea93f3271539d64da81889e6328e/header.jpg?t=1775263559",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-04",
+        "AddedTimestamp": 1775272679.0285666,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
