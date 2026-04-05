@@ -10663,9 +10663,9 @@
         "URL": "https://store.steampowered.com/app/2393970/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2393970/39a5aa4877d44608f8e080f31cfa21a16678fa0d/header.jpg?t=1773904635",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-04",
-        "AddedTimestamp": 1775280963.463204,
+        "Date": "Apr 5, 2026",
+        "AddedDate": "2026-04-05",
+        "AddedTimestamp": 1775408161.614598,
         "MatchedTags": [
             "tower defense",
             "survival horror"
@@ -21132,8 +21132,9 @@
         "AddedTimestamp": 1775121446.670714,
         "MatchedTags": [
             "horror",
+            "base building",
             "management",
-            "base building"
+            "survival horror"
         ]
     },
     "4563360": {
@@ -23125,6 +23126,20 @@
         "MatchedTags": [
             "strategy",
             "turn-based combat"
+        ]
+    },
+    "4546490": {
+        "Title": "Arkansas 2125",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4546490/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4546490/3eb7ca2ab7b77b9eda66988622e0eaf71fbdfdc9/header.jpg?t=1775407937",
+        "Date": "Apr 24, 2026",
+        "AddedDate": "2026-04-05",
+        "AddedTimestamp": 1775408186.6271648,
+        "MatchedTags": [
+            "turn-based strategy"
         ]
     }
 }
