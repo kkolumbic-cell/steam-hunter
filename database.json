@@ -22762,9 +22762,9 @@
         "URL": "https://store.steampowered.com/app/4552360/",
         "Site": "https://sinpros.com/galactic-conflict",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4552360/e4abb4da7e198026c84e9d9974d411295bd7469e/header.jpg?t=1775273176",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-04",
-        "AddedTimestamp": 1775280990.5898051,
+        "Date": "April 2026",
+        "AddedDate": "2026-04-05",
+        "AddedTimestamp": 1775418620.77013,
         "MatchedTags": [
             "strategy",
             "real time tactics",
@@ -23173,6 +23173,25 @@
         "MatchedTags": [
             "tactical",
             "resource management"
+        ]
+    },
+    "4551530": {
+        "Title": "SIM Election USA",
+        "Email": "",
+        "Discord": "https://discord.gg/ASUMFATP",
+        "URL": "https://store.steampowered.com/app/4551530/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4551530/dcdc552796c30ae2d04f0567c027b29d7da8c6ca/header.jpg?t=1775418224",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-05",
+        "AddedTimestamp": 1775418618.2369618,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "economy",
+            "management",
+            "turn-based strategy",
+            "turn-based combat"
         ]
     }
 }
