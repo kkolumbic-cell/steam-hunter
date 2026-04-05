@@ -4380,9 +4380,8 @@
         "AddedTimestamp": 1775321679.2904112,
         "MatchedTags": [
             "management",
-            "base building",
-            "strategy",
-            "economy"
+            "economy",
+            "base building"
         ]
     },
     "4389370": {
@@ -23002,6 +23001,25 @@
         "AddedTimestamp": 1775379710.8346095,
         "MatchedTags": [
             "tactical"
+        ]
+    },
+    "4565810": {
+        "Title": "Clash of Cultures",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4565810/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4565810/da65c5459c0265c1875f301ed574b0353cc4d4bd/header.jpg?t=1775380256",
+        "Date": "Jul 21, 2026",
+        "AddedDate": "2026-04-05",
+        "AddedTimestamp": 1775383107.0121634,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "economy",
+            "resource management"
         ]
     }
 }
