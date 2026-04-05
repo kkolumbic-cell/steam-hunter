@@ -1213,9 +1213,9 @@
         "URL": "https://store.steampowered.com/app/4115900/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4115900/dd4862384a7a488137538a98d090c70cffa02714/header.jpg?t=1772704456",
-        "Date": "Q1 2026",
-        "AddedDate": "2026-03-05",
-        "AddedTimestamp": 1772705001.0030181,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-05",
+        "AddedTimestamp": 1775389585.5299695,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -14782,9 +14782,9 @@
         "URL": "https://store.steampowered.com/app/4548330/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4548330/af26b097cca3de68f26dcfd37b1fe16444b3f1f3/header.jpg?t=1774472016",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-30",
-        "AddedTimestamp": 1774898512.4159315,
+        "Date": "Apr 14, 2026",
+        "AddedDate": "2026-04-05",
+        "AddedTimestamp": 1775389595.3424072,
         "MatchedTags": [
             "survival horror",
             "psychological horror"
@@ -23050,6 +23050,35 @@
             "management",
             "strategy",
             "resource management"
+        ]
+    },
+    "4481540": {
+        "Title": "Core Defense 2099",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4481540/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4481540/bc640a792a4b1da66ee6e7349b7e27cd3eb120e0/header.jpg?t=1775389390",
+        "Date": "April 2026",
+        "AddedDate": "2026-04-05",
+        "AddedTimestamp": 1775389589.6280112,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "4566560": {
+        "Title": "Mahjong Kawuxing",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4566560/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4566560/f4f2c1ec2ff8bc796d72c3e606dd374c9458727b/header.jpg?t=1775388321",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-05",
+        "AddedTimestamp": 1775389597.3199282,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
