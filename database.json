@@ -5328,8 +5328,9 @@
         "AddedDate": "2026-03-11",
         "AddedTimestamp": 1773197431.4155223,
         "MatchedTags": [
-            "strategy",
-            "management"
+            "resource management",
+            "management",
+            "strategy"
         ]
     },
     "4488190": {
@@ -12792,9 +12793,9 @@
         "URL": "https://store.steampowered.com/app/4532140/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4532140/817ce9f0b2db6ad9af9b5cff363e08404b47a8bf/header.jpg?t=1774315157",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-04",
-        "AddedTimestamp": 1775329368.8943174,
+        "Date": "Apr 6, 2026",
+        "AddedDate": "2026-04-06",
+        "AddedTimestamp": 1775509056.2789068,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -14882,9 +14883,9 @@
         "URL": "https://store.steampowered.com/app/4443350/",
         "Site": "https://gamecraftstudios.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4443350/e68c5d7f4b324a81cf28482b0144e472b266c9d0/header.jpg?t=1774479550",
-        "Date": "TBA",
-        "AddedDate": "2026-03-25",
-        "AddedTimestamp": 1774482700.8600261,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-06",
+        "AddedTimestamp": 1775509037.898539,
         "MatchedTags": [
             "base building",
             "management"
@@ -21384,10 +21385,10 @@
     },
     "3947040": {
         "Title": "Pegfinity",
-        "Email": "",
+        "Email": "lasse@fragmentventures.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/3947040/",
-        "Site": "",
+        "Site": "https://fragmentventures.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3947040/425af8799169a4398e52ffd5f1afb9db9d66a623/header.jpg?t=1775149667",
         "Date": "Q3 2026",
         "AddedDate": "2026-04-03",
@@ -23506,6 +23507,67 @@
         "MatchedTags": [
             "strategy",
             "tactical"
+        ]
+    },
+    "4047270": {
+        "Title": "Orc Incremental",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4047270/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4047270/34b07c4c30965e75316bec78ea8463cad306d4b6/header.jpg?t=1775507762",
+        "Date": "2026",
+        "AddedDate": "2026-04-06",
+        "AddedTimestamp": 1775509032.688052,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4512780": {
+        "Title": "Zero Point Resonance",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4512780/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4512780/fca4b307f2b5167867f6f32f99725c1585df5f81/header.jpg?t=1775506764",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-06",
+        "AddedTimestamp": 1775509051.833124,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4577790": {
+        "Title": "The Voss Clinic",
+        "Email": "brokenfrequency@protonmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4577790/",
+        "Site": "http://brokenfrequency.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4577790/ecced1698800f8c4da636aa6d0e8ea32b476b392/header.jpg?t=1775508731",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-06",
+        "AddedTimestamp": 1775509066.614974,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4579900": {
+        "Title": "Spa World",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4579900/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4579900/c6b3b4e5411abd89c6e7cf1689bd19d6446cff20/header.jpg?t=1775508543",
+        "Date": "Jun 3, 2026",
+        "AddedDate": "2026-04-06",
+        "AddedTimestamp": 1775509069.0470974,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management"
         ]
     }
 }
