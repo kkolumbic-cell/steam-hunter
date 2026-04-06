@@ -11093,9 +11093,9 @@
         "URL": "https://store.steampowered.com/app/4434660/",
         "Site": "https://happysheepstudios.wixsite.com/happy-sheep-studios",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4434660/1cfbade56b2b1a4c186c6efc81e09a6b915a2e5b/header.jpg?t=1773951418",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-19",
-        "AddedTimestamp": 1773953880.0027852,
+        "Date": "2026",
+        "AddedDate": "2026-04-06",
+        "AddedTimestamp": 1775495296.2992969,
         "MatchedTags": [
             "survival horror",
             "psychological horror",
@@ -12020,9 +12020,9 @@
         "URL": "https://store.steampowered.com/app/4508590/",
         "Site": "https://quietlypacked.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4508590/263e16fd20cbaad167daf5430a594ef2b43b636a/header.jpg?t=1774118584",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-05",
-        "AddedTimestamp": 1775404144.2814355,
+        "Date": "Apr 9, 2026",
+        "AddedDate": "2026-04-06",
+        "AddedTimestamp": 1775495320.478066,
         "MatchedTags": [
             "economy",
             "strategy",
@@ -16345,12 +16345,12 @@
         "URL": "https://store.steampowered.com/app/4513750/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4513750/7c37d4e431af4ba837d5aca8ce6770b79658896d/header.jpg?t=1774622258",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-03-27",
-        "AddedTimestamp": 1774624247.554646,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-06",
+        "AddedTimestamp": 1775495324.6935914,
         "MatchedTags": [
-            "survival horror",
             "horror",
+            "survival horror",
             "resource management"
         ]
     },
@@ -17983,6 +17983,7 @@
         "AddedDate": "2026-03-30",
         "AddedTimestamp": 1774885379.1579788,
         "MatchedTags": [
+            "turn-based strategy",
             "turn-based combat"
         ]
     },
@@ -20633,9 +20634,9 @@
         "URL": "https://store.steampowered.com/app/4575440/",
         "Site": "https://www.youtube.com/watch?v=HczsqiBHbq8",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4575440/63f30e8546f69fe6cf0fed2c2a4cce23b11041e7/header.jpg?t=1775068973",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-01",
-        "AddedTimestamp": 1775072028.8805463,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-06",
+        "AddedTimestamp": 1775495357.894519,
         "MatchedTags": [
             "strategy"
         ]
@@ -23380,6 +23381,22 @@
         "AddedTimestamp": 1775491354.0284784,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4575470": {
+        "Title": "Mountains & Molehills",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4575470/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4575470/4084324e6cb1ae8d5b72fc9f17b85f0039a9c3da/header.jpg?t=1775491541",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-06",
+        "AddedTimestamp": 1775495362.0346262,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based combat"
         ]
     }
 }
