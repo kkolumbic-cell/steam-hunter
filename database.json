@@ -22002,20 +22002,6 @@
             "grand strategy"
         ]
     },
-    "4560170": {
-        "Title": "Orblins",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4560170/",
-        "Site": "",
-        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560170/01167aa0716a96b26f6aacff086eb44cbf00396f/header.jpg?t=1775190079",
-        "Date": "June 2026",
-        "AddedDate": "2026-04-03",
-        "AddedTimestamp": 1775228701.0810921,
-        "MatchedTags": [
-            "strategy"
-        ]
-    },
     "4417910": {
         "Title": "Adopt Me Please",
         "Email": "",
@@ -23191,6 +23177,58 @@
             "management",
             "turn-based strategy",
             "turn-based combat"
+        ]
+    },
+    "4443360": {
+        "Title": "Isle of Elinys",
+        "Email": "",
+        "Discord": "https://discord.gg/34sVf8pQxS",
+        "URL": "https://store.steampowered.com/app/4443360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4443360/84a20b6ca7189731488b8c7172991c246c63cf92/header.jpg?t=1775461595",
+        "Date": "2026",
+        "AddedDate": "2026-04-06",
+        "AddedTimestamp": 1775462645.666836,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "base building",
+            "turn-based combat",
+            "economy"
+        ]
+    },
+    "4529930": {
+        "Title": "Mafia Business Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4529930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4529930/81c8fe0d72fd5dc52acabe989728ed357ddf985d/header.jpg?t=1775458977",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-06",
+        "AddedTimestamp": 1775462653.0567853,
+        "MatchedTags": [
+            "colony sim",
+            "management",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4529980": {
+        "Title": "Auto Shop Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4529980/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4529980/25c3f724eee381372911421a972766d8c70c6bbb/header.jpg?t=1775459081",
+        "Date": "TBA",
+        "AddedDate": "2026-04-06",
+        "AddedTimestamp": 1775462655.8928504,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "strategy"
         ]
     }
 }
