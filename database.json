@@ -11457,9 +11457,9 @@
         "URL": "https://store.steampowered.com/app/4518320/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4518320/e761f65dd07d9fbdb9c1b4247225189e52825431/header.jpg?t=1774001166",
-        "Date": "Dec 31, 2026",
-        "AddedDate": "2026-03-20",
-        "AddedTimestamp": 1774004327.4425156,
+        "Date": "2026",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775582250.2380433,
         "MatchedTags": [
             "management",
             "economy",
@@ -14342,8 +14342,8 @@
         "AddedDate": "2026-03-25",
         "AddedTimestamp": 1774459100.7808154,
         "MatchedTags": [
-            "strategy",
-            "horror"
+            "horror",
+            "strategy"
         ]
     },
     "4163120": {
@@ -24215,9 +24215,9 @@
         "URL": "https://store.steampowered.com/app/4418720/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4418720/509be1a62f4ec127cd1fd5b7373313aef8fa2704/header.jpg?t=1775570078",
-        "Date": "TBA",
+        "Date": "To be announced",
         "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775570573.6100657,
+        "AddedTimestamp": 1775582236.5266628,
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
@@ -24356,6 +24356,82 @@
         "MatchedTags": [
             "psychological horror",
             "horror"
+        ]
+    },
+    "4461450": {
+        "Title": "Backpack Roguelike",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4461450/",
+        "Site": "https://ambitious-rock-09ed48c03.5.azurestaticapps.net/dsgvo",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4461450/b126a3ed329dc08f266518263fb5ff3b7ea893db/header.jpg?t=1775577343",
+        "Date": "July 2026",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775582242.4469645,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4566880": {
+        "Title": "Endless Roll",
+        "Email": "contact@hermithollow.dev",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4566880/",
+        "Site": "https://hermithollow.dev",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4566880/d90eb621aa43415c6121b09d24a4a77fcf8d024c/header.jpg?t=1775578852",
+        "Date": "Dec 31, 2026",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775582266.6351616,
+        "MatchedTags": [
+            "turn-based tactics",
+            "turn-based strategy",
+            "strategy"
+        ]
+    },
+    "4589920": {
+        "Title": "Into the Dust",
+        "Email": "",
+        "Discord": "https://discord.gg/gJ4RJPeya9",
+        "URL": "https://store.steampowered.com/app/4589920/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4589920/92d15a744778800f80a06fb578cd385da416d893/header.jpg?t=1775579413",
+        "Date": "2027",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775582285.5749488,
+        "MatchedTags": [
+            "base building",
+            "resource management"
+        ]
+    },
+    "4590820": {
+        "Title": "Eyes On Them",
+        "Email": "",
+        "Discord": "https://discord.gg/Bvrecss9",
+        "URL": "https://store.steampowered.com/app/4590820/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4590820/377c1d912bc762f27a20b5ee7217dbbc7dfebd10/header.jpg?t=1775578139",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775582287.945413,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "4592800": {
+        "Title": "Node Body",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4592800/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4592800/6087b4d33ca1916af35f1615fcab54f1f2ce6546/header.jpg?t=1775578020",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775582295.6254003,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
         ]
     }
 }
