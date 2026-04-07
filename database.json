@@ -5533,9 +5533,9 @@
         "URL": "https://store.steampowered.com/app/4508520/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4508520/a3c1f237dceebcb52fddd788d18244ccf6142cc4/header.jpg?t=1773212300",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-03-25",
-        "AddedTimestamp": 1774459161.435421,
+        "Date": "Apr 7, 2026",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775548286.6373634,
         "MatchedTags": [
             "economy"
         ]
@@ -5943,9 +5943,9 @@
         "URL": "https://store.steampowered.com/app/4492420/",
         "Site": "https://outofbody.life/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4492420/34f413e248d21da05c4451ad35487b86662031a0/header.jpg?t=1773254014",
-        "Date": "To be announced",
-        "AddedDate": "2026-03-11",
-        "AddedTimestamp": 1773256323.7173605,
+        "Date": "Dec 20, 2026",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775548277.0757372,
         "MatchedTags": [
             "resource management"
         ]
@@ -11954,7 +11954,7 @@
     "4451570": {
         "Title": "Land of Ruins",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/pRHXyJTR",
         "URL": "https://store.steampowered.com/app/4451570/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4451570/0f670bc89c23d399ffec6c62b6310c3ed1a9317e/header.jpg?t=1774097501",
@@ -13972,9 +13972,9 @@
         "URL": "https://store.steampowered.com/app/4534010/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534010/86555cf38f0965fdd03425ccafa355ad96cfaece/header.jpg?t=1774416719",
-        "Date": "Apr 6, 2026",
-        "AddedDate": "2026-03-25",
-        "AddedTimestamp": 1774417237.30429,
+        "Date": "Apr 7, 2026",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775548290.7138133,
         "MatchedTags": [
             "horror"
         ]
@@ -16309,7 +16309,7 @@
     "4511960": {
         "Title": "SILENCY",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/Extsqhp4",
         "URL": "https://store.steampowered.com/app/4511960/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4511960/befe6309f2093a5227340b3ffd7489aa807af3f7/header.jpg?t=1774613508",
@@ -16317,9 +16317,8 @@
         "AddedDate": "2026-03-27",
         "AddedTimestamp": 1774619152.8875716,
         "MatchedTags": [
-            "horror",
-            "survival horror",
-            "psychological horror"
+            "psychological horror",
+            "horror"
         ]
     },
     "4550460": {
@@ -18860,9 +18859,9 @@
         "URL": "https://store.steampowered.com/app/4142130/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4142130/96c8ae83c5903cd6d0db18d42aea4cecf675f470/header.jpg?t=1774941524",
-        "Date": "Dec 31, 2026",
-        "AddedDate": "2026-03-31",
-        "AddedTimestamp": 1774943129.1711593,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775548266.7044275,
         "MatchedTags": [
             "strategy",
             "real time tactics"
@@ -23964,6 +23963,22 @@
         "AddedTimestamp": 1775541506.3986835,
         "MatchedTags": [
             "management"
+        ]
+    },
+    "4579830": {
+        "Title": "Insomnia is Coming",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4579830/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4579830/10a84e2a7f806098ef082ddd508da1622790194f/header.jpg?t=1775543009",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775548320.5802543,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
         ]
     }
 }
