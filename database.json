@@ -12954,9 +12954,9 @@
         "URL": "https://store.steampowered.com/app/4522530/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4522530/fec6221c570cae772f7869f8525c38dc5abd8f62/header.jpg?t=1774336819",
-        "Date": "April 2026",
-        "AddedDate": "2026-03-24",
-        "AddedTimestamp": 1774337628.8092473,
+        "Date": "Apr 7, 2026",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775554558.5730839,
         "MatchedTags": [
             "strategy"
         ]
@@ -16529,9 +16529,9 @@
         "URL": "https://store.steampowered.com/app/4540160/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4540160/271468e4de760c32bc6d368e01a2645dfd163488/header.jpg?t=1774637701",
-        "Date": "June 2026",
-        "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775143084.2587266,
+        "Date": "April 2026",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775554567.1209488,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -21295,7 +21295,7 @@
         "Email": "",
         "Discord": "https://discord.com/invite/QFMavrdNfb",
         "URL": "https://store.steampowered.com/app/4531310/",
-        "Site": "",
+        "Site": "https://majesticmindgames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4531310/e4bc6a064ffd5dd985e8562fcd10e3f87ef9b841/header.jpg?t=1775137667",
         "Date": "To be announced",
         "AddedDate": "2026-04-02",
@@ -23979,6 +23979,113 @@
             "horror",
             "psychological horror",
             "survival horror"
+        ]
+    },
+    "4395630": {
+        "Title": "Office Hours",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4395630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4395630/67e627e4ed52b446069c000faa23a547dac97d99/header.jpg?t=1775554204",
+        "Date": "April 2026",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775554528.8834395,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4403390": {
+        "Title": "MrToilet",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4403390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4403390/575973cbca292cf64922739b428fe64d1130ad29/header.jpg?t=1775551701",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775554531.547467,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4498150": {
+        "Title": "The Unnatural Leap",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4498150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4498150/a63f4f884b8f0ee651b6a6bd5b742398ea5a96b5/header.jpg?t=1775551091",
+        "Date": "TBA",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775554538.5549738,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4515360": {
+        "Title": "Under Potion Influence",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4515360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4515360/c898f7290c143555b944bafc2fd4f60786227ea0/header.jpg?t=1775549566",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775554546.5152295,
+        "MatchedTags": [
+            "strategy",
+            "psychological horror",
+            "economy",
+            "management"
+        ]
+    },
+    "4553500": {
+        "Title": "Abyss Drifter",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4553500/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4553500/9f80de409fe6aa643a61a7fca65ea36155c8fd21/header.jpg?t=1775548857",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775554573.6243236,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4578880": {
+        "Title": "\u4f20\u67d3\u75c5/Infectious Disease",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4578880/",
+        "Site": "https://www.youtube.com/channel/UCUw2-PSUD6nb3QTkiyn7hiQ",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4578880/b5572d258ff6d9fdc36f2ce77761310e39398c37/header.jpg?t=1775551496",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775554593.114363,
+        "MatchedTags": [
+            "tactical rpg",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4580660": {
+        "Title": "Click & Curate: Idle Photography",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4580660/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4580660/ed6651692aeb9f30cddd881eb5eb4fe59f3b9acb/header.jpg?t=1775550138",
+        "Date": "2026",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775554597.0891757,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "economy",
+            "management"
         ]
     }
 }
