@@ -12985,9 +12985,9 @@
         "URL": "https://store.steampowered.com/app/4482390/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4482390/377ef8980467635d7e2913be7c2926f864e332be/header.jpg?t=1774342267",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-24",
-        "AddedTimestamp": 1774343426.7063599,
+        "Date": "Apr 7, 2026",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775590425.9630568,
         "MatchedTags": [
             "strategy",
             "management",
@@ -13686,9 +13686,9 @@
         "URL": "https://store.steampowered.com/app/4444960/",
         "Site": "https://spacebell.games/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4444960/1fd6e29bb3ab60ac6659753633f4e45af48c6458/header.jpg?t=1774393256",
-        "Date": "Apr 8, 2026",
-        "AddedDate": "2026-03-24",
-        "AddedTimestamp": 1774396089.883905,
+        "Date": "Apr 7, 2026",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775590419.388232,
         "MatchedTags": [
             "strategy"
         ]
@@ -18461,13 +18461,12 @@
         "AddedDate": "2026-04-01",
         "AddedTimestamp": 1775077407.3949711,
         "MatchedTags": [
-            "strategy",
             "management",
             "grand strategy",
             "economy",
+            "strategy",
             "resource management",
-            "turn-based strategy",
-            "turn-based tactics"
+            "city builder"
         ]
     },
     "4548670": {
@@ -24432,6 +24431,123 @@
         "MatchedTags": [
             "strategy",
             "resource management"
+        ]
+    },
+    "4546760": {
+        "Title": "SOE 64",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4546760/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4546760/945f226d135f7d23e1108302f9efc2d411c12c77/header.jpg?t=1775585363",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775590445.412329,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4559240": {
+        "Title": "Grid Grief",
+        "Email": "synmakesgames@proton.me",
+        "Discord": "https://discord.com/invite/QNruab7Tab",
+        "URL": "https://store.steampowered.com/app/4559240/",
+        "Site": "https://synmakesgames.github.io/gridgrief/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559240/ef2255d5846c1f0bb4bb19a2e5e67700da90a7fb/header.jpg?t=1775584026",
+        "Date": "2026",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775590456.5741348,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4576550": {
+        "Title": "The Sleepless Nights Origins",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4576550/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576550/70e79458d20561fea62f7c2170d30006f71d5a1a/header.jpg?t=1775588630",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775590471.89376,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4579750": {
+        "Title": "Idle Knight",
+        "Email": "",
+        "Discord": "https://discord.com/invite/DEdF8V8dSn",
+        "URL": "https://store.steampowered.com/app/4579750/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579750/f90b9ed070f1bd831acf579b2c54c227b40ea9ec/header.jpg?t=1775583339",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775590475.015007,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4583080": {
+        "Title": "Condition Unknown",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4583080/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4583080/452cf50e001c8a19805a72ca7723949165617d30/header.jpg?t=1775586921",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775590480.656311,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4583150": {
+        "Title": "Greda Inferno",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4583150/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4583150/425d81d85af0c3d3148b7d8706f286d20f549a37/header.jpg?t=1775586931",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775590483.1306243,
+        "MatchedTags": [
+            "management",
+            "resource management"
+        ]
+    },
+    "4585260": {
+        "Title": "The Rake Sees You",
+        "Email": "",
+        "Discord": "https://discord.gg/efdgKXQMgH",
+        "URL": "https://store.steampowered.com/app/4585260/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4585260/177ff178518bea414849fd9817b4f309e26aea60/header.jpg?t=1775588327",
+        "Date": "May 20, 2026",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775590486.134729,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4590840": {
+        "Title": "Mine Wizard",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4590840/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4590840/cbe894184fb8d9fffdfd9720f9059c1c5d109225/header.jpg?t=1775589694",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775590491.8721702,
+        "MatchedTags": [
+            "tower defense",
+            "base building"
         ]
     }
 }
