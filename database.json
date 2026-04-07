@@ -8265,9 +8265,9 @@
         "URL": "https://store.steampowered.com/app/4330380/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4330380/b308fea33d2caddcd606b204f5e28a9db0fae194/header.jpg?t=1773671737",
-        "Date": "April 2026",
-        "AddedDate": "2026-03-16",
-        "AddedTimestamp": 1773674431.6450095,
+        "Date": "Apr 8, 2026",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775606103.8166246,
         "MatchedTags": [
             "tactical"
         ]
@@ -14000,9 +14000,9 @@
         "URL": "https://store.steampowered.com/app/4547250/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4547250/7971779943bfc266161a30c05e51a2ce41d9a824/header.jpg?t=1774415379",
-        "Date": "Apr 26, 2026",
-        "AddedDate": "2026-04-03",
-        "AddedTimestamp": 1775195549.7032828,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775606124.0676308,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -24623,6 +24623,20 @@
         "AddedTimestamp": 1775602821.8916214,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4545780": {
+        "Title": "Lost in the Fogbound Deadwood",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4545780/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4545780/fae3ea20c830e956b1dfb7dd467321747ebc867f/header.jpg?t=1775605027",
+        "Date": "Jul 23, 2026",
+        "AddedDate": "2026-04-07",
+        "AddedTimestamp": 1775606120.8781424,
+        "MatchedTags": [
+            "survival horror"
         ]
     }
 }
