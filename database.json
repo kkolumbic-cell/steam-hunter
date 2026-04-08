@@ -15624,9 +15624,9 @@
         "URL": "https://store.steampowered.com/app/4529260/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4529260/2d846513cb8443e03f9f1e26b03923b80db9743c/header.jpg?t=1774553286",
-        "Date": "April 2026",
-        "AddedDate": "2026-03-26",
-        "AddedTimestamp": 1774561662.4974053,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775669668.9075687,
         "MatchedTags": [
             "strategy",
             "management",
@@ -25190,6 +25190,110 @@
         "MatchedTags": [
             "horror",
             "survival horror"
+        ]
+    },
+    "4544620": {
+        "Title": "Whispers of the Tallgrass",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4544620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4544620/f7ff48e227576a102dc9f5a92509216c036b9a27/header.jpg?t=1775666532",
+        "Date": "2026",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775669689.1798935,
+        "MatchedTags": [
+            "survival horror",
+            "horror"
+        ]
+    },
+    "4553910": {
+        "Title": "Codex Solis: Purrgatorium",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4553910/",
+        "Site": "https://www.codexsolis.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4553910/d8d9f0d0cc3627ae109bd2a5e2646fb9067f3e7a/header.jpg?t=1775667191",
+        "Date": "May 2026",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775669699.6777873,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4569260": {
+        "Title": "Nytherra",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4569260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4569260/df9dc3089b8eed424046bb1459c102f9840a990d/header.jpg?t=1775664588",
+        "Date": "2026",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775669706.9890742,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4574210": {
+        "Title": "Santa Smoke: Prologue",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4574210/",
+        "Site": "https://harpernicholson.ca",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4574210/8c33b24aa62363a6df1917a339d92578d248c042/header.jpg?t=1775665332",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775669711.6573248,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4580690": {
+        "Title": "Neo Capitalist - Stock Market Survival Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4580690/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4580690/144e4f5c68097d0657b7965c136efddb5a0d2142/header.jpg?t=1775667359",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775669726.4788017,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4581490": {
+        "Title": "Aethinion",
+        "Email": "lunarpenguinstudios@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4581490/",
+        "Site": "https://aethinion.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4581490/46621e10ac4f9a390a78ec2d004408091ae704e6/header.jpg?t=1775664256",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775669728.9351983,
+        "MatchedTags": [
+            "turn-based strategy",
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "4597030": {
+        "Title": "Hillforts",
+        "Email": "",
+        "Discord": "https://discord.gg/kFZp332hpc",
+        "URL": "https://store.steampowered.com/app/4597030/",
+        "Site": "https://linktr.ee/fiveheadgames",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4597030/3feb480c7806a93be6809ebd7e9ad08d019eb862/header.jpg?t=1775665960",
+        "Date": "2026",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775669752.6194508,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
         ]
     }
 }
