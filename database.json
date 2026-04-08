@@ -3367,9 +3367,9 @@
         "URL": "https://store.steampowered.com/app/4423530/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4423530/3f52b67df0a10d7e141947c830bf86c450ae8d75/header.jpg?t=1772840435",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775173876.831915,
+        "Date": "Apr 8, 2026",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775657012.843648,
         "MatchedTags": [
             "horror"
         ]
@@ -22227,9 +22227,9 @@
         "URL": "https://store.steampowered.com/app/4580670/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4580670/9895ebafe4ab14c157fd09ffc254b708bca3ff3f/header.jpg?t=1775214590",
-        "Date": "TBA",
-        "AddedDate": "2026-04-03",
-        "AddedTimestamp": 1775217334.9911704,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775657081.5342085,
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
@@ -24704,7 +24704,7 @@
     "4582490": {
         "Title": "SudoCrawler : Sudoku + Rogulike",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/R2XxQHVd",
         "URL": "https://store.steampowered.com/app/4582490/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4582490/b2c7b79406643ecff9042004208f7b17fc8ba142/header.jpg?t=1775618074",
@@ -24946,6 +24946,130 @@
         "AddedTimestamp": 1775647067.610181,
         "MatchedTags": [
             "management"
+        ]
+    },
+    "4271520": {
+        "Title": "The Pines",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4271520/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271520/854e387893294c3297824287421aea1a1c79b392/header.jpg?t=1775655464",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775656989.9012635,
+        "MatchedTags": [
+            "psychological horror",
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4298050": {
+        "Title": "\u6b7b\u6597\u5361\u724c",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4298050/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298050/a396f039f55f415fcb5d1e2cc56d115910fd4c78/header.jpg?t=1775653218",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775656992.1476016,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4513840": {
+        "Title": "Embers of the Gods",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4513840/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513840/564ca0ee6759de079d8e0e7e015911a5c4d3dd69/header.jpg?t=1775650935",
+        "Date": "May 2026",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775657033.2252371,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg"
+        ]
+    },
+    "4535020": {
+        "Title": "Gamarra - Street Vendor Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4535020/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4535020/2aab04e13b9c9810900a93195ac6113770055a58/header.jpg?t=1775656700",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775657043.9699981,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "resource management",
+            "management"
+        ]
+    },
+    "4547330": {
+        "Title": "Hotel Beresford",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4547330/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4547330/f1f6de36f1b1b747a2c402cf91a892d16005b3c2/header.jpg?t=1775651502",
+        "Date": "Nov 20, 2026",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775657057.4018645,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4570050": {
+        "Title": "Monster TD",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4570050/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570050/8ac428b5fbc5320ea4f25ffda807417ea219d03a/header.jpg?t=1775654536",
+        "Date": "TBA",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775657070.4865859,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "real time tactics",
+            "tactical"
+        ]
+    },
+    "4586870": {
+        "Title": "Leaky Business",
+        "Email": "",
+        "Discord": "https://discord.gg/SGqp87cbhW",
+        "URL": "https://store.steampowered.com/app/4586870/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586870/a518b679881456a85dab33767d2eb6c69e45d9ab/header.jpg?t=1775648511",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775657094.8301327,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "management"
+        ]
+    },
+    "4595670": {
+        "Title": "Satori",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4595670/",
+        "Site": "https://www.playsatori.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4595670/80fbe6203daa00bf349544d9a13ee8e19e4a48f8/header.jpg?t=1775654999",
+        "Date": "April 2026",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775657105.112687,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
