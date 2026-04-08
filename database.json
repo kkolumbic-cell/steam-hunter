@@ -15968,9 +15968,9 @@
         "URL": "https://store.steampowered.com/app/4516860/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4516860/e9655172cc285b17923633368de14c8201746a65/header.jpg?t=1774581919",
-        "Date": "April 2026",
-        "AddedDate": "2026-03-28",
-        "AddedTimestamp": 1774676218.9183972,
+        "Date": "Apr 19, 2026",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775619261.0993161,
         "MatchedTags": [
             "resource management",
             "economy"
@@ -21903,7 +21903,7 @@
     "4531610": {
         "Title": "Goodbye Page",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/nNWJgKcHwE",
         "URL": "https://store.steampowered.com/app/4531610/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4531610/c17cbed57600fa1013b28edf4b00cf4cc097e49f/header.jpg?t=1775179472",
@@ -23629,7 +23629,8 @@
         "AddedDate": "2026-04-06",
         "AddedTimestamp": 1775516260.9882789,
         "MatchedTags": [
-            "strategy"
+            "strategy",
+            "turn-based tactics"
         ]
     },
     "4528620": {
@@ -23851,9 +23852,9 @@
         "URL": "https://store.steampowered.com/app/4566660/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4566660/f0fe7a52fbac42382cc1c0bcb641870652585f64/header.jpg?t=1775520302",
-        "Date": "Apr 13, 2026",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775532809.139034,
+        "Date": "April 2026",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775619300.3611774,
         "MatchedTags": [
             "strategy",
             "tactical rpg",
@@ -24637,6 +24638,95 @@
         "AddedTimestamp": 1775606120.8781424,
         "MatchedTags": [
             "survival horror"
+        ]
+    },
+    "4405800": {
+        "Title": "Outliar",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4405800/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4405800/6e84b17114e475301dcdacb27eff14f1b27ce077/header.jpg?t=1775614779",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775619236.6889656,
+        "MatchedTags": [
+            "real time tactics",
+            "strategy"
+        ]
+    },
+    "4536610": {
+        "Title": "City Masterplan",
+        "Email": "recruit@citymasterplan.com, contact@citymasterplan.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4536610/",
+        "Site": "https://citymasterplan.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4536610/075ff91125e6a944432b7ed2801424d1bb7a3b26/header.jpg?t=1775613375",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775619276.3021305,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "management",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4547760": {
+        "Title": "Evil thought",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4547760/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4547760/8ce1d0368090bbe5281250ba585d51d19eb6f67e/header.jpg?t=1775613010",
+        "Date": "Q4 2027",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775619284.610719,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4548920": {
+        "Title": "Puzzle Pulse!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4548920/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4548920/6b6cc6938ca23b0acea99a36e4cad940ae6ae765/header.jpg?t=1775609649",
+        "Date": "May 2026",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775619289.7580633,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4582490": {
+        "Title": "SudoCrawler : Sudoku + Rogulike",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4582490/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4582490/b2c7b79406643ecff9042004208f7b17fc8ba142/header.jpg?t=1775618074",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775619310.1883442,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4589430": {
+        "Title": "Star Array",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4589430/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4589430/eea71637646584c9ff84cc63806c981a47f79317/header.jpg?t=1775619100",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775619321.9348779,
+        "MatchedTags": [
+            "tower defense"
         ]
     }
 }
