@@ -6979,9 +6979,9 @@
         "URL": "https://store.steampowered.com/app/4508610/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508610/805220e1111c1f3fd3bd972615f01c92a858c0ae/header.jpg?t=1773376239",
-        "Date": "May 2026",
-        "AddedDate": "2026-03-13",
-        "AddedTimestamp": 1773377797.7752566,
+        "Date": "May 3, 2026",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775627983.2018428,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -24727,6 +24727,40 @@
         "AddedTimestamp": 1775619321.9348779,
         "MatchedTags": [
             "tower defense"
+        ]
+    },
+    "4571160": {
+        "Title": "Rainbow Tower Defence",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4571160/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4571160/9908f29bd6bc00dbac875d99608558c9ecab65e6/header.jpg?t=1775627335",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775628012.9934928,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tower defense",
+            "tactical",
+            "resource management"
+        ]
+    },
+    "4593290": {
+        "Title": "Nanima: Curse of Kalavati",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4593290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4593290/88503c626103b805afbf575d79326bf6e8ca473a/header.jpg?t=1775622065",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775628025.6484976,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
         ]
     }
 }
