@@ -5475,9 +5475,9 @@
         "URL": "https://store.steampowered.com/app/4353600/",
         "Site": "https://www.kaguragames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4353600/859d57e4bd691383f139b8e97bf0cb54751afee2/header.jpg?t=1773198736",
-        "Date": "2026",
-        "AddedDate": "2026-03-11",
-        "AddedTimestamp": 1773204868.949822,
+        "Date": "Apr 17, 2026",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775663241.1596708,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -10691,9 +10691,9 @@
         "URL": "https://store.steampowered.com/app/4467620/",
         "Site": "https://www.homenetgames.com/the-pirate-republic-of-nassau/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4467620/f69f02965fb241d457054a32bff29cfe91556959/header.jpg?t=1773909251",
-        "Date": "April 2026",
-        "AddedDate": "2026-03-19",
-        "AddedTimestamp": 1773911026.879835,
+        "Date": "Apr 8, 2026",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775663260.053402,
         "MatchedTags": [
             "strategy"
         ]
@@ -13574,7 +13574,7 @@
     "4518230": {
         "Title": "TD Master",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/5evYDgqaYq",
         "URL": "https://store.steampowered.com/app/4518230/",
         "Site": "https://evisystems.org/games/tdmaster/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4518230/331db8a7a8a3bd3b5e180ee362d1ce20f0740c2c/header.jpg?t=1774387831",
@@ -14463,9 +14463,9 @@
         "URL": "https://store.steampowered.com/app/4521280/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4521280/7b528f1e2513e44d398815c8b39d0c501694ef2d/header.jpg?t=1774457843",
-        "Date": "Apr 1, 2026",
-        "AddedDate": "2026-03-25",
-        "AddedTimestamp": 1774459172.67795,
+        "Date": "Apr 8, 2026",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775663273.0633123,
         "MatchedTags": [
             "strategy"
         ]
@@ -17972,23 +17972,6 @@
             "psychological horror"
         ]
     },
-    "4460010": {
-        "Title": "Bootstrap",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4460010/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4460010/14b5a88bb57f23d3749fdcea809af52d9ff3312c/header.jpg?t=1774882073",
-        "Date": "Apr 14, 2026",
-        "AddedDate": "2026-03-30",
-        "AddedTimestamp": 1774885379.1579788,
-        "MatchedTags": [
-            "strategy",
-            "turn-based strategy",
-            "turn-based tactics",
-            "turn-based combat"
-        ]
-    },
     "4548070": {
         "Title": "TERAFAB.AI",
         "Email": "",
@@ -18307,8 +18290,9 @@
         "AddedDate": "2026-04-07",
         "AddedTimestamp": 1775576806.6380804,
         "MatchedTags": [
-            "turn-based strategy",
             "strategy",
+            "management",
+            "turn-based strategy",
             "horror"
         ]
     },
@@ -20218,9 +20202,9 @@
         "URL": "https://store.steampowered.com/app/4365890/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4365890/5e70467729861a84ff6809281752df22b4bdcd32/header.jpg?t=1775057852",
-        "Date": "Mar 31, 2026",
-        "AddedDate": "2026-04-01",
-        "AddedTimestamp": 1775058251.5727718,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775663244.6324015,
         "MatchedTags": [
             "strategy",
             "tactical"
@@ -22242,9 +22226,9 @@
         "URL": "https://store.steampowered.com/app/4428170/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4428170/3f3f0572a15192b13a119131bc3ea74ba3640c28/header.jpg?t=1775219600",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-03",
-        "AddedTimestamp": 1775223589.8694298,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775663249.9012141,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -25070,6 +25054,142 @@
         "AddedTimestamp": 1775657105.112687,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4315810": {
+        "Title": "Florist Bar: Floristry Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4315810/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315810/6cc6fe78679620f42e3ddac110f36ea4fff6e738/header.jpg?t=1775660910",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775663238.896561,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4399190": {
+        "Title": "Fatherlode",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4399190/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4399190/0a483bc77668ad0489eed9c9ceb61913d7271d1a/header.jpg?t=1775661290",
+        "Date": "Jul 7, 2026",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775663246.7146785,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4461460": {
+        "Title": "Fantasy Blacksmith Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4461460/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4461460/baf98585e8063106b5f0cf68ff17544cbfe9109e/header.jpg?t=1775662648",
+        "Date": "2026",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775663257.3556645,
+        "MatchedTags": [
+            "management",
+            "resource management",
+            "economy",
+            "base building"
+        ]
+    },
+    "4522160": {
+        "Title": "Seedfall",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4522160/",
+        "Site": "https://seedfallidle.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4522160/b96ab33854e5c6227dff27a387dc139f847400d5/header.jpg?t=1775657322",
+        "Date": "2027",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775663276.1369855,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4556750": {
+        "Title": "Slots & Sword & Magic",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4556750/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4556750/4f2abd3ef2a93c29d6fdce98653c55ce6fbfbc34/header.jpg?t=1775660384",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775663294.755258,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "turn-based strategy"
+        ]
+    },
+    "4575080": {
+        "Title": "Lost Exit",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4575080/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4575080/f86e6262d35039bdc420c46c5d0bb35f274852d0/header.jpg?t=1775662155",
+        "Date": "2026",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775663301.916976,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4582300": {
+        "Title": "The Heart Of Delly",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4582300/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4582300/5e20b0136d011b34885d54061b1e09d3135042af/header.jpg?t=1775662423",
+        "Date": "TBA",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775663321.8452625,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4584480": {
+        "Title": "Casino Simulator: Vendetta",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4584480/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4584480/ee687e590ac653db46a25070b3da9dc37ce11162/header.jpg?t=1775661008",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775663327.8633454,
+        "MatchedTags": [
+            "management",
+            "resource management",
+            "economy"
+        ]
+    },
+    "4589400": {
+        "Title": "SUBFLOOR",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4589400/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4589400/dc7674bce22067ee5bd4bd76bdf4364da2d96f28/header.jpg?t=1775660772",
+        "Date": "TBA",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775663330.2626698,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
         ]
     }
 }
