@@ -23235,7 +23235,7 @@
     "3142910": {
         "Title": "Financial Freedom",
         "Email": "gamekurs007@gmail.com",
-        "Discord": "",
+        "Discord": "https://discord.gg/4qQgCCqCcK",
         "URL": "https://store.steampowered.com/app/3142910/",
         "Site": "https://drive.google.com/drive/folders/1TFj6x5msAtcsiodf7D-qtEeW3icbc2qN?usp=sharing",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3142910/36bb9250eb272c7ed6cf278a1ff2d593755f2005/header.jpg?t=1775464598",
@@ -24261,9 +24261,9 @@
         "URL": "https://store.steampowered.com/app/4588170/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4588170/c35f91fa5d6ab9cf99047e1f87d1d37cc264da2a/header.jpg?t=1775564614",
-        "Date": "Apr 26, 2026",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775570644.124248,
+        "Date": "Apr 21, 2026",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775640089.090079,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -24790,6 +24790,41 @@
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
+        ]
+    },
+    "4115170": {
+        "Title": "Life on NEPTUNE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4115170/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115170/0af9c5010211f8e664e71e8a0444fed47312a494/header.jpg?t=1775635446",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775640034.0823083,
+        "MatchedTags": [
+            "colony sim",
+            "base building"
+        ]
+    },
+    "4545200": {
+        "Title": "Broken Crown",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4545200/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4545200/8126cb877675ca171e1adb39cac6d55a33dc1a5c/header.jpg?t=1775636217",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775640068.3815289,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "city builder",
+            "grand strategy",
+            "base building",
+            "management",
+            "tactical"
         ]
     }
 }
