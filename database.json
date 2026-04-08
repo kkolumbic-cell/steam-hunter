@@ -25195,7 +25195,7 @@
     "4544620": {
         "Title": "Whispers of the Tallgrass",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/wphC8CYZ",
         "URL": "https://store.steampowered.com/app/4544620/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4544620/f7ff48e227576a102dc9f5a92509216c036b9a27/header.jpg?t=1775666532",
@@ -25381,6 +25381,98 @@
         "AddedTimestamp": 1775677369.9671037,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "3567260": {
+        "Title": "Herbalist Roman",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3567260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3567260/9ac7137589f149987e39a268553323ce7861db89/header.jpg?t=1775680507",
+        "Date": "2026",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775682193.3733418,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "3686640": {
+        "Title": "Offland",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3686640/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3686640/be6ee1f6636d56bb60962fcfa66fe49cbdbd0a2b/header.jpg?t=1775678378",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775682198.5433068,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4431800": {
+        "Title": "Waifuro : Roguelike Waifubuilder",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4431800/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4431800/360db0c656e0a74a81449f8c5a427214f9385363/header.jpg?t=1775680964",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775682213.2809439,
+        "MatchedTags": [
+            "turn-based tactics",
+            "turn-based strategy",
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "4516210": {
+        "Title": "Studio Sim",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4516210/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4516210/8e20c55e0eb02873f7960569e73a054542945a62/header.jpg?t=1775677501",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775682221.1295078,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "resource management",
+            "strategy"
+        ]
+    },
+    "4582280": {
+        "Title": "Kolchanovo: The Manor",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4582280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4582280/78a4fc61f126743b8feb7d06bdad145f17c1e141/header.jpg?t=1775681901",
+        "Date": "Dec 31, 2027",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775682264.2814481,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4595120": {
+        "Title": "LaVonne's Grid Idle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4595120/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4595120/b298cc75e0f968413167edaa78492a945928d0b7/header.jpg?t=1775678139",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775682274.4127774,
+        "MatchedTags": [
+            "management",
+            "resource management"
         ]
     }
 }
