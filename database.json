@@ -17040,9 +17040,9 @@
         "URL": "https://store.steampowered.com/app/4539160/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4539160/aae4bdff0355d75e633de5fe65f6e524e2e3fcc6/header.jpg?t=1774675109",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-28",
-        "AddedTimestamp": 1774676232.3961682,
+        "Date": "Apr 10, 2026",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775677332.7186193,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -25154,9 +25154,9 @@
         "URL": "https://store.steampowered.com/app/4582300/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4582300/5e20b0136d011b34885d54061b1e09d3135042af/header.jpg?t=1775662423",
-        "Date": "TBA",
+        "Date": "Coming soon",
         "AddedDate": "2026-04-08",
-        "AddedTimestamp": 1775663321.8452625,
+        "AddedTimestamp": 1775677359.9439256,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -25242,9 +25242,9 @@
         "URL": "https://store.steampowered.com/app/4574210/",
         "Site": "https://harpernicholson.ca",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4574210/8c33b24aa62363a6df1917a339d92578d248c042/header.jpg?t=1775665332",
-        "Date": "Coming soon",
+        "Date": "Apr 21, 2026",
         "AddedDate": "2026-04-08",
-        "AddedTimestamp": 1775669711.6573248,
+        "AddedTimestamp": 1775677351.95493,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -25294,6 +25294,93 @@
         "MatchedTags": [
             "strategy",
             "turn-based combat"
+        ]
+    },
+    "4418430": {
+        "Title": "STRAFEST",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4418430/",
+        "Site": "https://OStanley.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4418430/2b6a8f6fe43ad7320abfca27af35296bbf25ceff/header.jpg?t=1775671426",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775677311.6899743,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4443830": {
+        "Title": "ResistanceZ",
+        "Email": "",
+        "Discord": "https://discord.gg/Kv7kChbRqE",
+        "URL": "https://store.steampowered.com/app/4443830/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4443830/4383498dc9b98a7bb10af72f7eb86024559ef593/header.jpg?t=1775670527",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775677320.051528,
+        "MatchedTags": [
+            "strategy",
+            "survival horror"
+        ]
+    },
+    "4540810": {
+        "Title": "Throne of Shards",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4540810/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4540810/edb6cd9d6bf7b9377223b2ec1505fab4fe4d6c2c/header.jpg?t=1775673714",
+        "Date": "November 2026",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775677335.373766,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4583390": {
+        "Title": "Gridlock",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4583390/",
+        "Site": "https://aeterna-apps.com/gridlock",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4583390/8661e38f2a75d1d067f38d05db69a6853bbe28bc/header.jpg?t=1775674647",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775677361.7915246,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4587690": {
+        "Title": "ScrapCrew: Running on Fumes",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4587690/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4587690/e85b351efe1f1a4a55d550c3e2de8da0b0a945d5/header.jpg?t=1775670928",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775677366.0183532,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4596210": {
+        "Title": "Directive 220",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4596210/",
+        "Site": "https://directive220.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4596210/0746cfaae3677e2a63a15025f5afe07dd7b1bb9d/header.jpg?t=1775673657",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-08",
+        "AddedTimestamp": 1775677369.9671037,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
