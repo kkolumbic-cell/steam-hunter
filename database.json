@@ -1083,9 +1083,9 @@
         "URL": "https://store.steampowered.com/app/4486090/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486090/aaeea66ab11eeaeb36aafe006758c51a2d6ace10/header.jpg?t=1772686857",
-        "Date": "Apr 29, 2026",
-        "AddedDate": "2026-03-05",
-        "AddedTimestamp": 1772690676.3240361,
+        "Date": "May 4, 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775744208.6274297,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -12425,9 +12425,9 @@
         "URL": "https://store.steampowered.com/app/4539270/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4539270/fd4f9a8c25f59c9c27cc5ada28613f9cdbd41919/header.jpg?t=1774267511",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-04",
-        "AddedTimestamp": 1775314422.8492112,
+        "Date": "May 7, 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775744233.5668683,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -14887,8 +14887,8 @@
         "AddedDate": "2026-04-06",
         "AddedTimestamp": 1775509037.898539,
         "MatchedTags": [
-            "base building",
-            "management"
+            "management",
+            "base building"
         ]
     },
     "4524800": {
@@ -15076,9 +15076,9 @@
         "URL": "https://store.steampowered.com/app/4535860/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4535860/efe4698ccc9b6f4e4d49d3bfb50f0bf48fd2f8f2/header.jpg?t=1774515994",
-        "Date": "April 2026",
-        "AddedDate": "2026-03-26",
-        "AddedTimestamp": 1774516565.223607,
+        "Date": "Apr 9, 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775744221.9402392,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -15656,9 +15656,9 @@
         "URL": "https://store.steampowered.com/app/4537250/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4537250/f01a273fbae4347d14cdbdee24038235bedd91f4/header.jpg?t=1774549499",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775128298.0328515,
+        "Date": "Apr 9, 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775744227.071831,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -18282,7 +18282,7 @@
     "4557340": {
         "Title": "Dead Reckoning: The Long Drift",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/9jBRgKcm8P",
         "URL": "https://store.steampowered.com/app/4557340/",
         "Site": "https://selenodrome.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4557340/5daafe80e868316a33c262b4366d6e84d12b084d/header.jpg?t=1774894158",
@@ -25997,6 +25997,264 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4338940": {
+        "Title": "The Doorframe",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4338940/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4338940/10528a763c8ccd53c7780d857f5d63e296da0812/header.jpg?t=1775737464",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775744164.867504,
+        "MatchedTags": [
+            "horror",
+            "resource management",
+            "survival horror"
+        ]
+    },
+    "4397680": {
+        "Title": "Spell Sniffers",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4397680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4397680/020438c72aa3f11e82747b0fd332a958ec9d6991/header.jpg?t=1775742647",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775744169.0693135,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4463840": {
+        "Title": "Inquisitor Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4463840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4463840/47cbd93e07fe5f641c8abda1ecc5de732318102a/header.jpg?t=1775743226",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775744198.6994305,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4466540": {
+        "Title": "Crimson ore: Brink of Carnage",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4466540/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4466540/4b106501e4d7eb8f191152ddab41cc01baf59661/header.jpg?t=1775737966",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775744201.2312999,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "turn-based tactics",
+            "real time tactics"
+        ]
+    },
+    "4535890": {
+        "Title": "The Profaned",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4535890/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4535890/ec0e4ab3fea45be43bd3e3248e74236eaef48996/header.jpg?t=1775740105",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775744224.2424536,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4539630": {
+        "Title": "Sorry, My King",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4539630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4539630/1630bbedcb88a25974a63561d06051f662235fee/header.jpg?t=1775743587",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775744236.197127,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4553890": {
+        "Title": "Service Area Simulator: Prologue",
+        "Email": "info@ikikagames.com",
+        "Discord": "https://discord.gg/gfJBqX9gXc",
+        "URL": "https://store.steampowered.com/app/4553890/",
+        "Site": "https://www.ikikagames.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4553890/06fbf2bad5cb5ea382c78d29f47f539c318d7733/header.jpg?t=1775737588",
+        "Date": "Apr 28, 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775744249.8604891,
+        "MatchedTags": [
+            "economy",
+            "management"
+        ]
+    },
+    "4577040": {
+        "Title": "\u81f4\uff0c\u6211\u4eb2\u7231\u7684",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4577040/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4577040/fe246a74f2638b18b06b1d634c7f61cebdfcebc0/header.jpg?t=1775737511",
+        "Date": "September 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775744293.2610407,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4580120": {
+        "Title": "Sludge Department",
+        "Email": "",
+        "Discord": "https://discord.gg/yVYhcKXu",
+        "URL": "https://store.steampowered.com/app/4580120/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4580120/67acf60a1960677c62ebc7872ff145fa0fcac08e/header.jpg?t=1775737346",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775744301.1442828,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4581600": {
+        "Title": "import robots",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4581600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4581600/d8a29bbd44fa6d00a1fcdb7b7b8e5f04f6041c30/header.jpg?t=1775741661",
+        "Date": "2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775744310.0811546,
+        "MatchedTags": [
+            "resource management",
+            "colony sim",
+            "strategy",
+            "economy"
+        ]
+    },
+    "4585360": {
+        "Title": "Starbase Starlight",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4585360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4585360/30924aab5fb254fed4e902f55986b458b39d099c/header.jpg?t=1775736934",
+        "Date": "2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775744314.5134676,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "4586090": {
+        "Title": "Remaining Kingdom",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4586090/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4586090/adaa8fff4dd720842e481b05a16ab5fb921c89e7/header.jpg?t=1775741926",
+        "Date": "Dec 31, 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775744319.2752705,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tower defense"
+        ]
+    },
+    "4593300": {
+        "Title": "ARTSEC",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4593300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4593300/9739cc9412ccab554dc9ed579f326e14dc82e3d4/header.jpg?t=1775738355",
+        "Date": "May 1, 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775744325.1084192,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4594070": {
+        "Title": "Simulation Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4594070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4594070/54214a8e595b5f6832b188050b5341d1008574d3/header.jpg?t=1775741401",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775744328.3449628,
+        "MatchedTags": [
+            "turn-based tactics"
+        ]
+    },
+    "4599010": {
+        "Title": "New Game+ - Game Store Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4599010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4599010/6d37e714c75a25afcd87e707a3af983023995f94/header.jpg?t=1775741529",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775744333.144341,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4599470": {
+        "Title": "Lost Media Agency",
+        "Email": "",
+        "Discord": "https://discord.com/invite/Qqhb2QSDw7",
+        "URL": "https://store.steampowered.com/app/4599470/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4599470/8d013ea19a2c7f2a3b2f2cb3c41d95b4e3443ec2/header.jpg?t=1775741398",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775744335.6209774,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4602840": {
+        "Title": "WarBoard: Arena Empire",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4602840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4602840/7811965a36cc494433183d61eaf3c129fd736fdf/header.jpg?t=1775741702",
+        "Date": "May 4, 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775744338.5505025,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical rpg",
+            "resource management",
+            "turn-based combat"
         ]
     }
 }
