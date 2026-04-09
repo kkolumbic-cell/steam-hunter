@@ -17472,9 +17472,9 @@
         "URL": "https://store.steampowered.com/app/4014100/",
         "Site": "https://www.tenacitygames.net",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4014100/133aab7d047bf2035966507123035e8f521393ae/header.jpg?t=1774715718",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-28",
-        "AddedTimestamp": 1774716714.061783,
+        "Date": "May 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775768713.1409838,
         "MatchedTags": [
             "management",
             "resource management"
@@ -25272,9 +25272,9 @@
         "URL": "https://store.steampowered.com/app/4581490/",
         "Site": "https://aethinion.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4581490/46621e10ac4f9a390a78ec2d004408091ae704e6/header.jpg?t=1775664256",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-08",
-        "AddedTimestamp": 1775669728.9351983,
+        "Date": "Apr 24, 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775768776.4673948,
         "MatchedTags": [
             "turn-based strategy",
             "strategy",
@@ -26762,6 +26762,108 @@
         "MatchedTags": [
             "horror",
             "survival horror"
+        ]
+    },
+    "3584860": {
+        "Title": "Branded For Sacrifice",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3584860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3584860/6671367daf91c07d15eca76bb0fe7941904e6858/header.jpg?t=1775765719",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775768705.2746632,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4375040": {
+        "Title": "Dwarfspire",
+        "Email": "",
+        "Discord": "https://discord.gg/j3dtdpmEur",
+        "URL": "https://store.steampowered.com/app/4375040/",
+        "Site": "https://www.coldfrontgames.ca/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4375040/d907e5e0ef1627b8832e0028e8e428cf2ada3a5d/header.jpg?t=1775766907",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775768724.173552,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4521770": {
+        "Title": "Drunk Woodcutter",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4521770/",
+        "Site": "https://elschorscho.com/drunkwoodcutter",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4521770/cb5c3d548e2325f9002c3d415a6cb553e298db5b/header.jpg?t=1775765966",
+        "Date": "2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775768742.0079467,
+        "MatchedTags": [
+            "economy",
+            "resource management"
+        ]
+    },
+    "4554710": {
+        "Title": "Portal of Nightmares",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4554710/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4554710/001c9d19fb163ab8ca40cd337a05251091253c03/header.jpg?t=1775764792",
+        "Date": "May 1, 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775768755.2441645,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4579740": {
+        "Title": "Kingdom Klicker",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4579740/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4579740/c8b1fb52cd2264763fcbbebc2b3b7c65be3b1bea/header.jpg?t=1775766299",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775768771.4799201,
+        "MatchedTags": [
+            "city builder",
+            "strategy",
+            "management"
+        ]
+    },
+    "4587200": {
+        "Title": "Shepherd",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4587200/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4587200/99b40ef9d15d49ae43bb5f3e42a4020efcd58d7b/header.jpg?t=1775766382",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775768780.7102127,
+        "MatchedTags": [
+            "survival horror",
+            "horror"
+        ]
+    },
+    "4597630": {
+        "Title": "CHROMALEES",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4597630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4597630/f15014af2c7f540116ebe64a6349c457ab240250/header.jpg?t=1775767727",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775768791.3144133,
+        "MatchedTags": [
+            "psychological horror"
         ]
     }
 }
