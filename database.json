@@ -14109,9 +14109,9 @@
         "URL": "https://store.steampowered.com/app/4546420/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4546420/96caf89eb634cabb1efd6da889a62bc0ab5d298b/header.jpg?t=1774427385",
-        "Date": "Apr 8, 2026",
-        "AddedDate": "2026-03-25",
-        "AddedTimestamp": 1774429868.8949919,
+        "Date": "Apr 9, 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775721422.9423625,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -17372,9 +17372,9 @@
         "URL": "https://store.steampowered.com/app/4446930/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4446930/ea826c865d951ac92b61807f580ca8b23ccc42d3/header.jpg?t=1774700441",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-28",
-        "AddedTimestamp": 1774704006.3496284,
+        "Date": "Apr 9, 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775721392.648219,
         "MatchedTags": [
             "strategy"
         ]
@@ -19854,9 +19854,9 @@
         "URL": "https://store.steampowered.com/app/4566900/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4566900/81f42763fdcdab8a6355d3111804cfc24e90147c/header.jpg?t=1775017595",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775121456.5283387,
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775721432.7645032,
         "MatchedTags": [
             "strategy",
             "base building"
@@ -23726,7 +23726,7 @@
     "3879680": {
         "Title": "Cells of Division",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/erteYuwc",
         "URL": "https://store.steampowered.com/app/3879680/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3879680/26ed4d3aa6381815a15049b351274d6927980b5b/header.jpg?t=1775529801",
@@ -25863,6 +25863,49 @@
             "base building",
             "strategy",
             "resource management"
+        ]
+    },
+    "2547710": {
+        "Title": "Risky pizza delivery",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2547710/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2547710/c8f8620b5698695742aad8e961f152e2c20f044d/header.jpg?t=1775718394",
+        "Date": "Aug 31, 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775721379.450701,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4582230": {
+        "Title": "\u30a2\u30ac\u30eb\u30bf81\u756a\u7dda\uff01- City of angels",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4582230/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4582230/4e271266de2719bafe9a8c031b96c07016cff45d/header.jpg?t=1775718888",
+        "Date": "TBA",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775721442.1928651,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4590270": {
+        "Title": "Fallgrade",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4590270/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4590270/d6f56096ea943805b856b6fc0cac500cd5b266d0/header.jpg?t=1775718236",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775721447.26922,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
