@@ -15106,9 +15106,9 @@
         "URL": "https://store.steampowered.com/app/4553360/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4553360/e6a51a215aae1469125093c8bc353c9ca0c07d3d/header.jpg?t=1774515677",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-26",
-        "AddedTimestamp": 1774516584.3846705,
+        "Date": "Apr 9, 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775727750.168889,
         "MatchedTags": [
             "management",
             "economy"
@@ -15702,9 +15702,9 @@
         "URL": "https://store.steampowered.com/app/4544690/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4544690/baf4f5f682cda1dce85ddb33e52683ef9f342c1f/header.jpg?t=1774553100",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-03",
-        "AddedTimestamp": 1775217319.1748893,
+        "Date": "Apr 9, 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775727742.4273622,
         "MatchedTags": [
             "psychological horror",
             "horror",
@@ -25906,6 +25906,37 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4467640": {
+        "Title": "Last Line: Zombie Horde",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4467640/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4467640/034c73bfc4c9eded926c80711cc0b2dcaa61051f/header.jpg?t=1775723850",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775727733.035853,
+        "MatchedTags": [
+            "tower defense",
+            "strategy"
+        ]
+    },
+    "4600020": {
+        "Title": "Curio Shop",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4600020/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4600020/48002e5557fc498665b5a3987ad531194fbeef30/header.jpg?t=1775724715",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775727781.1869378,
+        "MatchedTags": [
+            "management",
+            "horror",
+            "resource management"
         ]
     }
 }
