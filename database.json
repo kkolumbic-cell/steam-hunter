@@ -15421,9 +15421,9 @@
         "URL": "https://store.steampowered.com/app/4367330/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4367330/121c95c1603c52df3f6db8f418785f570bf9bdc4/header.jpg?t=1774543944",
-        "Date": "Apr 8, 2026",
-        "AddedDate": "2026-03-27",
-        "AddedTimestamp": 1774582273.5162885,
+        "Date": "Apr 9, 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775733482.2080603,
         "MatchedTags": [
             "horror"
         ]
@@ -23530,9 +23530,9 @@
         "URL": "https://store.steampowered.com/app/4577790/",
         "Site": "http://brokenfrequency.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4577790/ecced1698800f8c4da636aa6d0e8ea32b476b392/header.jpg?t=1775508731",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-06",
-        "AddedTimestamp": 1775509066.614974,
+        "Date": "May 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775733524.1122317,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -24169,9 +24169,9 @@
         "URL": "https://store.steampowered.com/app/4456600/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456600/d3e4a7374c4924b3a87c2771b92304d858805b98/header.jpg?t=1775561808",
-        "Date": "Jun 26, 2026",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775570587.1659818,
+        "Date": "Jun 23, 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775733495.156047,
         "MatchedTags": [
             "economy",
             "management"
@@ -25303,9 +25303,9 @@
         "URL": "https://store.steampowered.com/app/4418430/",
         "Site": "https://OStanley.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4418430/2b6a8f6fe43ad7320abfca27af35296bbf25ceff/header.jpg?t=1775671426",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-08",
-        "AddedTimestamp": 1775677311.6899743,
+        "Date": "Jul 1, 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775733489.679714,
         "MatchedTags": [
             "strategy"
         ]
@@ -25937,6 +25937,66 @@
             "management",
             "horror",
             "resource management"
+        ]
+    },
+    "4549240": {
+        "Title": "Rogue Merchant",
+        "Email": "",
+        "Discord": "https://discord.gg/A784dAJQMF",
+        "URL": "https://store.steampowered.com/app/4549240/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4549240/c2bebed57e6ada2760ea907a2ce348f5b02bd80d/header.jpg?t=1775730756",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775733515.3142653,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4560710": {
+        "Title": "Spacebolt",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4560710/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4560710/dae4e29fcdc5a0211bb8b47375f4d01b69c8e7fa/header.jpg?t=1775730937",
+        "Date": "May 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775733519.601161,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4594150": {
+        "Title": "Sir, We Have an Orc Problem",
+        "Email": "",
+        "Discord": "https://discord.com/invite/7YJhv65VM7",
+        "URL": "https://store.steampowered.com/app/4594150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4594150/2c964b1b4ebd848a9a257c942d1933d87b32d217/header.jpg?t=1775731221",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775733537.5442278,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "management",
+            "base building"
+        ]
+    },
+    "4598940": {
+        "Title": "Last Dive: Echo Trench",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4598940/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4598940/d79f382c3582859b445e978d89b400d96a4ab619/header.jpg?t=1775733191",
+        "Date": "Jun 30, 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775733542.452469,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
