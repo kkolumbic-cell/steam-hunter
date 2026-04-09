@@ -23870,9 +23870,9 @@
         "URL": "https://store.steampowered.com/app/4587010/",
         "Site": "https://beggarsroad.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4587010/3ddffe3ee556c8bc296bae3d31c7b392664d6319/header.jpg?t=1775523818",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775532829.5273767,
+        "Date": "May 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775714394.9883475,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -25762,6 +25762,107 @@
         "AddedTimestamp": 1775705530.8205945,
         "MatchedTags": [
             "tactical"
+        ]
+    },
+    "3517570": {
+        "Title": "Village Flow",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3517570/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3517570/f84f21432fe2c2c8a79fb04bef1f353b3167aa5c/header.jpg?t=1775713239",
+        "Date": "Apr 21, 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775714320.358414,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management",
+            "colony sim",
+            "city builder"
+        ]
+    },
+    "4082870": {
+        "Title": "Killer of Kings",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4082870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4082870/cb4fa22fde4c04dd9b6ff2008a9fb38dc261a1fa/header.jpg?t=1775711687",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775714337.097877,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4505270": {
+        "Title": "Core Diggers",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4505270/",
+        "Site": "https://gapzerogames.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4505270/9ef48a94f4fde55f0e9ddeabfee730000b2d6c41/header.jpg?t=1775713274",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775714351.3835213,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4536830": {
+        "Title": "Wilderness Strike: Survivor",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4536830/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4536830/18c091b325f45004d9f65fd1ca422b4c6e60d586/header.jpg?t=1775709005",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775714362.6844172,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "4558000": {
+        "Title": "Defend Our Land",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4558000/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4558000/0f989f94c151dd4f68129d94a0790df5cd7ba66d/header.jpg?t=1775713092",
+        "Date": "Q2 2027",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775714379.2971969,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "base building",
+            "management",
+            "real time tactics",
+            "tactical",
+            "economy"
+        ]
+    },
+    "4590790": {
+        "Title": "Defense of Kyrath",
+        "Email": "info@frostywren.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4590790/",
+        "Site": "https://frostywren.com/kyrath/defense/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4590790/41c375969fdb5a052d68e00dfc236b2eac6551e3/header.jpg?t=1775707689",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775714406.866982,
+        "MatchedTags": [
+            "tower defense",
+            "base building",
+            "strategy",
+            "resource management"
         ]
     }
 }
