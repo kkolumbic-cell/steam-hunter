@@ -9474,9 +9474,9 @@
         "URL": "https://store.steampowered.com/app/4525820/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525820/242b6ef5964a5e0ce54d5c322ef7c59913f44a26/header.jpg?t=1773783598",
-        "Date": "TBA",
-        "AddedDate": "2026-03-17",
-        "AddedTimestamp": 1773784545.8578446,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775771941.4539912,
         "MatchedTags": [
             "horror"
         ]
@@ -25184,9 +25184,9 @@
         "URL": "https://store.steampowered.com/app/4589400/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4589400/dc7674bce22067ee5bd4bd76bdf4364da2d96f28/header.jpg?t=1775660772",
-        "Date": "TBA",
-        "AddedDate": "2026-04-08",
-        "AddedTimestamp": 1775663330.2626698,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775771956.1745214,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -25528,9 +25528,9 @@
         "URL": "https://store.steampowered.com/app/4450800/",
         "Site": "https://idolsofash.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4450800/e6cd42c09698e37859b9b8641c160b5957c57185/header.jpg?t=1775691214",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-08",
-        "AddedTimestamp": 1775692443.3446953,
+        "Date": "Apr 9, 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775771933.4618692,
         "MatchedTags": [
             "horror"
         ]
@@ -26864,6 +26864,102 @@
         "AddedTimestamp": 1775768791.3144133,
         "MatchedTags": [
             "psychological horror"
+        ]
+    },
+    "3510360": {
+        "Title": "Ethereal: Clash of Souls",
+        "Email": "",
+        "Discord": "https://discord.gg/2Pkr7Fbth6",
+        "URL": "https://store.steampowered.com/app/3510360/",
+        "Site": "https://etherealcos.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3510360/709cadf685b02a0bb996748f23a6673b76cdb2b0/header.jpg?t=1775770373",
+        "Date": "2027",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775771918.32435,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "real time tactics",
+            "tactical rpg"
+        ]
+    },
+    "4140440": {
+        "Title": "Windbound",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4140440/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4140440/603f990e96c51a852a2195380b5034caefa0b17a/header.jpg?t=1775770890",
+        "Date": "May 1, 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775771924.7392051,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4588960": {
+        "Title": "Dendrophobia",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4588960/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4588960/8ba407405f9723d29d3222c6f1d51fb7bbdda984/header.jpg?t=1775770579",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775771952.8821983,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4591870": {
+        "Title": "NODEKEEP",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4591870/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4591870/a3809d17ecefe020c18d4b5ff080ee3c424b4646/header.jpg?t=1775770532",
+        "Date": "April 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775771958.1063879,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "management",
+            "resource management"
+        ]
+    },
+    "4593520": {
+        "Title": "Reflex Rush",
+        "Email": "",
+        "Discord": "https://discord.gg/ZxSM94nAt5",
+        "URL": "https://store.steampowered.com/app/4593520/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593520/bc08bc402ae4f44738ccb3b41da5513decbdc49e/header.jpg?t=1775770400",
+        "Date": "May 1, 2026",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775771962.220289,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4596180": {
+        "Title": "Table of Fates",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4596180/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596180/6f289bb77ab06f967bc3e10d92074789dbafe46f/header.jpg?t=1775770704",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-09",
+        "AddedTimestamp": 1775771964.3875766,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "turn-based strategy",
+            "turn-based tactics"
         ]
     }
 }
