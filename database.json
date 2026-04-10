@@ -12673,9 +12673,9 @@
         "URL": "https://store.steampowered.com/app/4544520/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544520/3a503cb9662a180d56cae8d2bcd8a0ab6c4149ad/header.jpg?t=1774298309",
-        "Date": "Apr 9, 2026",
-        "AddedDate": "2026-03-24",
-        "AddedTimestamp": 1774343445.1536756,
+        "Date": "Apr 10, 2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775819684.4768305,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -15357,9 +15357,9 @@
         "URL": "https://store.steampowered.com/app/4540090/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4540090/7ce80d0448e67bd49297cfcca7d8f860bb34b7bd/header.jpg?t=1774537993",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-27",
-        "AddedTimestamp": 1774609734.2513,
+        "Date": "2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775819679.8501887,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -15672,9 +15672,9 @@
         "URL": "https://store.steampowered.com/app/4538860/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4538860/080799c74973f37d414ceec44127d6bdebc9094c/header.jpg?t=1774546445",
-        "Date": "2026",
-        "AddedDate": "2026-03-26",
-        "AddedTimestamp": 1774553725.6366472,
+        "Date": "Apr 10, 2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775819677.5273323,
         "MatchedTags": [
             "management"
         ]
@@ -16843,9 +16843,9 @@
         "URL": "https://store.steampowered.com/app/4275540/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4275540/a31728569bc495ec486dc24d83a83b3aad6084d7/header.jpg?t=1774658742",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-28",
-        "AddedTimestamp": 1774667858.3669903,
+        "Date": "Apr 10, 2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775819638.8321435,
         "MatchedTags": [
             "strategy"
         ]
@@ -20208,8 +20208,7 @@
         "AddedTimestamp": 1775149906.8906841,
         "MatchedTags": [
             "management",
-            "economy",
-            "resource management"
+            "economy"
         ]
     },
     "4432790": {
@@ -24923,7 +24922,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4271520/",
-        "Site": "",
+        "Site": "https://www.thepinesgame.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271520/854e387893294c3297824287421aea1a1c79b392/header.jpg?t=1775655464",
         "Date": "Coming soon",
         "AddedDate": "2026-04-08",
@@ -27478,7 +27477,7 @@
     "4517160": {
         "Title": "Piroker",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/2C67WHmpsp",
         "URL": "https://store.steampowered.com/app/4517160/",
         "Site": "https://www.piroker.com ",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4517160/e2d9b05c1708c1b8edd5372fc5ddad2d19d3cda9/header.jpg?t=1775811065",
@@ -27540,6 +27539,97 @@
             "strategy",
             "real time tactics",
             "turn-based strategy"
+        ]
+    },
+    "2590860": {
+        "Title": "Monst",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2590860/",
+        "Site": "http://www.blusped.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2590860/b93df54f1175658a356969349a05ef1ba960e2b8/header.jpg?t=1775815215",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775819614.4122841,
+        "MatchedTags": [
+            "strategy",
+            "horror"
+        ]
+    },
+    "3960760": {
+        "Title": "Enlighted",
+        "Email": "",
+        "Discord": "https://discord.gg/euRrXUBDpm",
+        "URL": "https://store.steampowered.com/app/3960760/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960760/ac5050fe9bfe041775aeba8a1bf7dfb2a3cf4719/header.jpg?t=1775815103",
+        "Date": "2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775819621.5995114,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4162470": {
+        "Title": "Steppe: The Last Defence",
+        "Email": "",
+        "Discord": "https://discord.gg/Kw8MM9DXrf",
+        "URL": "https://store.steampowered.com/app/4162470/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162470/201a9bffbb65614f2fa2e70175afb25b5576a8a8/header.jpg?t=1775817093",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775819627.1640875,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "base building",
+            "management"
+        ]
+    },
+    "4439550": {
+        "Title": "Infernal Depths",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4439550/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4439550/a8a5af4ea04380ec7bcf1e5ce4f60e7ee8be479d/header.jpg?t=1775815713",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775819656.2459998,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4530000": {
+        "Title": "House Cleaner Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4530000/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530000/55c76a0fd1ca8aea235fb57d3c532f4723d1f50d/header.jpg?t=1775819285",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775819674.6787875,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4588740": {
+        "Title": "Epicenter City",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4588740/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4588740/eb703f5d9f569f26c9b37bfdd30129929bcdc62b/header.jpg?t=1775815937",
+        "Date": "Jun 29, 2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775819698.1880941,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "resource management",
+            "management"
         ]
     }
 }
