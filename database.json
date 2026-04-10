@@ -6829,9 +6829,9 @@
         "URL": "https://store.steampowered.com/app/4510580/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4510580/bb5788673d7df92e9b73e764d15f1081586f4465/header.jpg?t=1773353471",
-        "Date": "Apr 9, 2026",
-        "AddedDate": "2026-03-19",
-        "AddedTimestamp": 1773932886.1239169,
+        "Date": "Apr 10, 2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775808087.682097,
         "MatchedTags": [
             "resource management"
         ]
@@ -17107,9 +17107,9 @@
         "URL": "https://store.steampowered.com/app/4526640/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526640/9f76825aeffd59bf31a2ab00e120ceec31938ba0/header.jpg?t=1774681317",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-28",
-        "AddedTimestamp": 1774682166.04674,
+        "Date": "Apr 10, 2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775808101.4366505,
         "MatchedTags": [
             "tower defense",
             "base building"
@@ -22656,7 +22656,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4549590/",
-        "Site": "",
+        "Site": "https://zipangames.blog.fc2.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4549590/5619a0176e9f35b6849ee042b93beffbcf046897/header.jpg?t=1775258035",
         "Date": "Jun 23, 2026",
         "AddedDate": "2026-04-03",
@@ -24016,9 +24016,9 @@
         "URL": "https://store.steampowered.com/app/4515360/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4515360/c898f7290c143555b944bafc2fd4f60786227ea0/header.jpg?t=1775549566",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775554546.5152295,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775808092.6081457,
         "MatchedTags": [
             "strategy",
             "psychological horror",
@@ -27383,6 +27383,95 @@
         "MatchedTags": [
             "strategy",
             "psychological horror"
+        ]
+    },
+    "4341480": {
+        "Title": "Last Known Vector",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4341480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4341480/364ab21628193723e94a4bca71949781553708df/header.jpg?t=1775806532",
+        "Date": "Apr 30, 2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775808066.4238608,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4530740": {
+        "Title": "Marmorea",
+        "Email": "",
+        "Discord": "https://discord.gg/Z94hgW2d  ",
+        "URL": "https://store.steampowered.com/app/4530740/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4530740/b40074a6864c6175fe29ab55fcf6bd72fdf2856f/header.jpg?t=1775806043",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775808105.9091566,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4573570": {
+        "Title": "Echoes of Stella: Prologue",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4573570/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4573570/12edce67b555690f86ffbe382fea24bdbe0ca607/header.jpg?t=1775807993",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775808133.8350825,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4579650": {
+        "Title": "Rpg Rush",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4579650/",
+        "Site": "https://rpgrush.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4579650/26405e13f8d53ce3db82c2f3983daa069bbc1475/header.jpg?t=1775804738",
+        "Date": "TBA",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775808136.1270313,
+        "MatchedTags": [
+            "turn-based tactics"
+        ]
+    },
+    "4579700": {
+        "Title": "Rites of Accord",
+        "Email": "",
+        "Discord": "https://discord.gg/ePTEFw4tyk",
+        "URL": "https://store.steampowered.com/app/4579700/",
+        "Site": "https://ritesofaccord.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4579700/5bac04d44e39910bbeaef9b30f75f8b493b0b5a7/header.jpg?t=1775807602",
+        "Date": "July 2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775808138.5547476,
+        "MatchedTags": [
+            "turn-based strategy",
+            "strategy",
+            "turn-based tactics",
+            "tactical rpg",
+            "tactical"
+        ]
+    },
+    "4599250": {
+        "Title": "EXPEDITION : THE CULT",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4599250/",
+        "Site": "https://expedition-srv.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4599250/19d6cfba091797287fda3dbb5609f1a1e933de6c/header.jpg?t=1775801670",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775808153.6465952,
+        "MatchedTags": [
+            "survival horror"
         ]
     }
 }
