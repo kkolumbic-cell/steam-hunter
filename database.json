@@ -17442,9 +17442,9 @@
         "URL": "https://store.steampowered.com/app/4014100/",
         "Site": "https://www.tenacitygames.net",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4014100/133aab7d047bf2035966507123035e8f521393ae/header.jpg?t=1774715718",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775768713.1409838,
+        "Date": "May 8, 2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775851031.965997,
         "MatchedTags": [
             "management",
             "resource management"
@@ -19292,7 +19292,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4563770/",
-        "Site": "",
+        "Site": "https://bigtechtime.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4563770/df5b4ec61db705ec11e3ba393dac4ee6d568bc3d/header.jpg?t=1774984200",
         "Date": "Coming soon",
         "AddedDate": "2026-03-31",
@@ -27655,9 +27655,9 @@
         "URL": "https://store.steampowered.com/app/4339260/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4339260/628e339915b19af3bfaee4c7f393b6a9cddec532/header.jpg?t=1775824405",
-        "Date": "Coming soon",
+        "Date": "Jul 2, 2026",
         "AddedDate": "2026-04-10",
-        "AddedTimestamp": 1775829117.7531617,
+        "AddedTimestamp": 1775851044.2117178,
         "MatchedTags": [
             "strategy",
             "psychological horror",
@@ -28200,6 +28200,51 @@
             "economy",
             "management",
             "resource management"
+        ]
+    },
+    "4117910": {
+        "Title": "Contraband Car",
+        "Email": "contacto@partyragestudio.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4117910/",
+        "Site": "https://partyragestudio.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4117910/044ede97520da4fa38196839032fb73e142b2846/header.jpg?t=1775850441",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775851041.0972583,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4586360": {
+        "Title": "Iskarn",
+        "Email": "",
+        "Discord": "https://discord.gg/MEBzGzRz5Q",
+        "URL": "https://store.steampowered.com/app/4586360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4586360/9f3f8a20ae1a4a7aebea4b07aac00f660527c2c8/header.jpg?t=1775850582",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775851073.955836,
+        "MatchedTags": [
+            "colony sim",
+            "strategy",
+            "city builder",
+            "economy"
+        ]
+    },
+    "4588890": {
+        "Title": "Hack Protocol",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4588890/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4588890/74c98a4c45f221ee3d498484712ce9c1362e544a/header.jpg?t=1775850045",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775851076.3448513,
+        "MatchedTags": [
+            "tactical"
         ]
     }
 }
