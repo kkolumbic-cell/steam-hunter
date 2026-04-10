@@ -15947,20 +15947,6 @@
             "strategy"
         ]
     },
-    "4459750": {
-        "Title": "\u90e8\u843d\u5f81\u670d\uff1a\u8054\u76df\u5d1b\u8d77 Tempest bastion",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4459750/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4459750/6bfaec865347ac486f96ee58f5671f2f1bc89e2d/header.jpg?t=1774573921",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-27",
-        "AddedTimestamp": 1774582290.775531,
-        "MatchedTags": [
-            "strategy"
-        ]
-    },
     "4516860": {
         "Title": "RuneClick",
         "Email": "",
@@ -16529,9 +16515,9 @@
         "URL": "https://store.steampowered.com/app/4540160/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4540160/271468e4de760c32bc6d368e01a2645dfd163488/header.jpg?t=1774637701",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775554567.1209488,
+        "Date": "Apr 10, 2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775814036.2096655,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -21861,9 +21847,9 @@
         "URL": "https://store.steampowered.com/app/4500770/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4500770/c7b6c061a22ebff364026031c3f2d3700ddeb9f6/header.jpg?t=1775184546",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-04",
-        "AddedTimestamp": 1775272646.6564288,
+        "Date": "June 2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775814020.15193,
         "MatchedTags": [
             "strategy",
             "turn-based combat",
@@ -27472,6 +27458,88 @@
         "AddedTimestamp": 1775808153.6465952,
         "MatchedTags": [
             "survival horror"
+        ]
+    },
+    "4428520": {
+        "Title": "Wyrm Saga",
+        "Email": "info@borb-games.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4428520/",
+        "Site": "https://borb-games.com/wyrm-saga/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4428520/321922a1f752a477dbe35f63a2a3f96be6692dba/header.jpg?t=1775808804",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775814006.7987869,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4517160": {
+        "Title": "Piroker",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4517160/",
+        "Site": "https://www.piroker.com ",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4517160/e2d9b05c1708c1b8edd5372fc5ddad2d19d3cda9/header.jpg?t=1775811065",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775814028.1604776,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical"
+        ]
+    },
+    "4558450": {
+        "Title": "Our Last Stand",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4558450/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4558450/713908959d115b6b4494d892ea777a596215b0df/header.jpg?t=1775808652",
+        "Date": "2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775814044.623616,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "real time tactics",
+            "base building"
+        ]
+    },
+    "4566360": {
+        "Title": "Dead Head Drive",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4566360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4566360/cbd43fac9252726d8d689404107cb4cfcafa0e68/header.jpg?t=1775810418",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775814049.8150623,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4601360": {
+        "Title": "Magic Quest Online",
+        "Email": "u0022b1234ngo@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4601360/",
+        "Site": "https://magic-quest.ru",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4601360/a7ba83723337df86edb4de06ed2a90cce9c9ccfa/header.jpg?t=1775809021",
+        "Date": "May 1, 2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775814061.012852,
+        "MatchedTags": [
+            "tactical rpg",
+            "turn-based tactics",
+            "strategy",
+            "real time tactics",
+            "turn-based strategy"
         ]
     }
 }
