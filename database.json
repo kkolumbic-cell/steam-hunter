@@ -16763,9 +16763,9 @@
         "URL": "https://store.steampowered.com/app/4554070/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4554070/be7a37f77639ae87ec1a965ce3892739250366d4/header.jpg?t=1774652158",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-03-27",
-        "AddedTimestamp": 1774655276.8325884,
+        "Date": "Apr 10, 2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775833774.4444609,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -27739,6 +27739,131 @@
         "AddedTimestamp": 1775829223.6173906,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4271140": {
+        "Title": "Universe Plan",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4271140/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4271140/178943cce872b7274d5cd62ec5b59d97fe20f4d4/header.jpg?t=1775830387",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775833728.55748,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg",
+            "tactical"
+        ]
+    },
+    "4411510": {
+        "Title": "Incremental Mass Rewritten",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4411510/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4411510/b28e798b13741b304c902a20d48296971aaf169b/header.jpg?t=1775832710",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775833738.4652026,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4411890": {
+        "Title": "RK Roulette",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4411890/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4411890/117efe881b0745357c4e70da5c0af6e539e61cdf/header.jpg?t=1775833544",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775833740.804274,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4514420": {
+        "Title": "NODE: PROTOCOL",
+        "Email": "",
+        "Discord": "https://discord.gg/rGXa2jR5d8",
+        "URL": "https://store.steampowered.com/app/4514420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4514420/1bbabaaa37312633cd425c78e555024b3a0b4bef/header.jpg?t=1775832714",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775833760.3499992,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg"
+        ]
+    },
+    "4582130": {
+        "Title": "The Bone Yard.",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4582130/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4582130/f830d9f05c0cb6f0a5739ad1dae9a869bf78e4ca/header.jpg?t=1775833671",
+        "Date": "Jun 23, 2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775833792.0337203,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4601460": {
+        "Title": "The Traveller Tale",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4601460/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4601460/89533af68d04d8bcf46a69cbce086f830a452dc0/header.jpg?t=1775833304",
+        "Date": "Sep 30, 2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775833802.4363549,
+        "MatchedTags": [
+            "tactical",
+            "resource management",
+            "turn-based combat"
+        ]
+    },
+    "4603540": {
+        "Title": "Who Haunts The Haunters?",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4603540/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4603540/920ccaee519b1504f70be88c3af88d468169b1bf/header.jpg?t=1775832951",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775833805.5084386,
+        "MatchedTags": [
+            "strategy",
+            "horror"
+        ]
+    },
+    "4605730": {
+        "Title": "Tactical Roulette",
+        "Email": "albertadroer@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4605730/",
+        "Site": "https://albertfreeman.org/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4605730/c9cdff9a0c530a00db5bc7571644db482a1f6aba/header.jpg?t=1775831649",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775833808.0554266,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "horror",
+            "turn-based combat"
         ]
     }
 }
