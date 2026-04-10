@@ -9363,9 +9363,9 @@
         "URL": "https://store.steampowered.com/app/4174730/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4174730/e49a562291bfedb930abe37372d0562ff7a5c6c5/header.jpg?t=1773778396",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-17",
-        "AddedTimestamp": 1773781105.4407742,
+        "Date": "Apr 10, 2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775829095.8742015,
         "MatchedTags": [
             "strategy",
             "turn-based combat",
@@ -10800,9 +10800,9 @@
         "URL": "https://store.steampowered.com/app/4311360/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4311360/4df2b7d8b9a5bdd4e70ea1b2e95e6f32294040ed/header.jpg?t=1773917752",
-        "Date": "TBA",
-        "AddedDate": "2026-03-19",
-        "AddedTimestamp": 1773918207.2249672,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775829109.9399319,
         "MatchedTags": [
             "strategy",
             "management",
@@ -14309,9 +14309,9 @@
         "URL": "https://store.steampowered.com/app/4546990/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4546990/83821521fa86d33a1b8a7b6002d8a10cc5b5f85a/header.jpg?t=1774451589",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-25",
-        "AddedTimestamp": 1774453087.089655,
+        "Date": "2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775829167.800872,
         "MatchedTags": [
             "strategy",
             "management"
@@ -14858,22 +14858,6 @@
         "MatchedTags": [
             "management",
             "economy"
-        ]
-    },
-    "3619000": {
-        "Title": "Mikane's Hand",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/3619000/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3619000/15de2d5b5dfcf7594dca56e640b77386f34b2340/header.jpg?t=1774481498",
-        "Date": "2026",
-        "AddedDate": "2026-03-25",
-        "AddedTimestamp": 1774482691.6675436,
-        "MatchedTags": [
-            "turn-based tactics",
-            "strategy",
-            "turn-based combat"
         ]
     },
     "4443350": {
@@ -27644,6 +27628,116 @@
         "AddedTimestamp": 1775822612.6280315,
         "MatchedTags": [
             "psychological horror",
+            "horror"
+        ]
+    },
+    "4218780": {
+        "Title": "EyeballRichman",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4218780/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4218780/8d14a4681d4bf4bc7ba70c0f3fc450d4a0666cd2/header.jpg?t=1775828821",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775829100.5756812,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based combat",
+            "resource management"
+        ]
+    },
+    "4339260": {
+        "Title": "Under the Eye",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4339260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4339260/628e339915b19af3bfaee4c7f393b6a9cddec532/header.jpg?t=1775824405",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775829117.7531617,
+        "MatchedTags": [
+            "strategy",
+            "psychological horror",
+            "horror",
+            "resource management"
+        ]
+    },
+    "4457590": {
+        "Title": "Don't Go Live",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4457590/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4457590/7cad837b6c9cdaa6e90b06b17fec1d1b74d304ab/header.jpg?t=1775822976",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775829128.7855172,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4480580": {
+        "Title": "Plane Ranger",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4480580/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4480580/f22e236f0c907d1695749aa70b20972f411efd65/header.jpg?t=1775827324",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775829134.6774366,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4544630": {
+        "Title": "Tac-Tile",
+        "Email": "",
+        "Discord": "https://discord.gg/44Zczpx4Ep",
+        "URL": "https://store.steampowered.com/app/4544630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4544630/b8c0fd699cd03c07a1c507fde1b0f238e257c10c/header.jpg?t=1775826869",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775829164.9304323,
+        "MatchedTags": [
+            "turn-based strategy",
+            "strategy",
+            "turn-based tactics",
+            "turn-based combat",
+            "tactical",
+            "management"
+        ]
+    },
+    "4595100": {
+        "Title": "Hollow Ward",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4595100/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4595100/4a83cda563d718875a37ebf15c2e8bc6b7efa200/header.jpg?t=1775823870",
+        "Date": "April 2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775829221.7012715,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4595650": {
+        "Title": "Dark Wonderland",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4595650/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4595650/0f6518ed55597b425506913d01f70b88e487ed68/header.jpg?t=1775826683",
+        "Date": "May 2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775829223.6173906,
+        "MatchedTags": [
             "horror"
         ]
     }
