@@ -25073,7 +25073,7 @@
     "4522160": {
         "Title": "Seedfall",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/vWMNJusB",
         "URL": "https://store.steampowered.com/app/4522160/",
         "Site": "https://seedfallidle.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4522160/b96ab33854e5c6227dff27a387dc139f847400d5/header.jpg?t=1775657322",
@@ -27864,6 +27864,34 @@
             "turn-based tactics",
             "horror",
             "turn-based combat"
+        ]
+    },
+    "4580010": {
+        "Title": "VHS Club",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4580010/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4580010/8ce556bc0815a6277de4dd2cebe8bf0e68ffc20e/header.jpg?t=1775836761",
+        "Date": "TBA",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775837356.1296825,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4585310": {
+        "Title": "\u5730\u72f1\u4e0d\u7a7a Till Hell Is Empty",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4585310/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4585310/69084edf0802d1dc4b6b823779bccedc25c75015/header.jpg?t=1775833766",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775837361.1648088,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
