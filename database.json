@@ -4744,9 +4744,9 @@
         "URL": "https://store.steampowered.com/app/4504810/",
         "Site": "https://game.omnicoreventures.org/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4504810/c13bab120824442d4b547c79ab4a6f0bafb06306/header.jpg?t=1773105559",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-10",
-        "AddedTimestamp": 1773112100.7679262,
+        "Date": "Apr 21, 2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775861861.468156,
         "MatchedTags": [
             "strategy",
             "tower defense"
@@ -28338,6 +28338,52 @@
         "MatchedTags": [
             "horror",
             "turn-based combat"
+        ]
+    },
+    "4538330": {
+        "Title": "MINOS INITIATIVE - 2112",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4538330/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4538330/0c61313cd7bee4911c595eff288dbb43ea9fb94c/header.jpg?t=1775859908",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775861866.7871225,
+        "MatchedTags": [
+            "tactical rpg",
+            "survival horror"
+        ]
+    },
+    "4597020": {
+        "Title": "Palimpsest",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4597020/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4597020/633edae81aa857a29f783f0d75c5a26cef83b5a2/header.jpg?t=1775861499",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775861872.5099194,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4599620": {
+        "Title": "SCP: Permafrost",
+        "Email": "",
+        "Discord": "https://discord.gg/8yJpEWJh",
+        "URL": "https://store.steampowered.com/app/4599620/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4599620/ba300bb97bc498fcf7880927899ce66b4b2de872/header.jpg?t=1775859137",
+        "Date": "April 2026",
+        "AddedDate": "2026-04-10",
+        "AddedTimestamp": 1775861877.4397628,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
         ]
     }
 }
