@@ -5798,9 +5798,9 @@
         "URL": "https://store.steampowered.com/app/4492280/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492280/213e6ec4265ffb50fe3d44e3086718baebd17f65/header.jpg?t=1773242467",
-        "Date": "TBA",
-        "AddedDate": "2026-03-11",
-        "AddedTimestamp": 1773245104.5223992,
+        "Date": "To be announced",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775948035.8656163,
         "MatchedTags": [
             "strategy",
             "tower defense"
@@ -28994,6 +28994,35 @@
         "AddedTimestamp": 1775940720.680237,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4525940": {
+        "Title": "Through the Chalk Dust",
+        "Email": "",
+        "Discord": "https://discord.gg/PqNeYKKKj",
+        "URL": "https://store.steampowered.com/app/4525940/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4525940/021fafe4dfe507ffd0ef8b78f293799fe31d1d04/header.jpg?t=1775947421",
+        "Date": "Jun 1, 2026",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775948037.6773362,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4533830": {
+        "Title": "ONE SHOT OUT",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4533830/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4533830/adf126fdf925e94834fc9fb24eb8e905b8208326/header.jpg?t=1775947902",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775948040.7930634,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
         ]
     }
 }
