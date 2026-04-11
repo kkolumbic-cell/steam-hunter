@@ -10648,9 +10648,9 @@
         "URL": "https://store.steampowered.com/app/4528430/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4528430/d1c03bb364ad80093f0273bb5aa88feeea31a0bc/header.jpg?t=1773900227",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-19",
-        "AddedTimestamp": 1773904634.4657428,
+        "Date": "Apr 24, 2026",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775877719.4444747,
         "MatchedTags": [
             "horror"
         ]
@@ -15045,9 +15045,9 @@
         "URL": "https://store.steampowered.com/app/4513510/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4513510/126add1bf4376d97a3456a701b99fa72f8557075/header.jpg?t=1774511140",
-        "Date": "2026",
-        "AddedDate": "2026-04-03",
-        "AddedTimestamp": 1775238855.333555,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775877710.5526757,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -16470,9 +16470,9 @@
         "URL": "https://store.steampowered.com/app/4535030/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4535030/7d5938c77086ac29e85c180159a002a82d456cf2/header.jpg?t=1774632645",
-        "Date": "Apr 7, 2026",
-        "AddedDate": "2026-03-27",
-        "AddedTimestamp": 1774634811.3045938,
+        "Date": "Apr 10, 2026",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775877722.47724,
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
@@ -18024,8 +18024,8 @@
         "AddedDate": "2026-03-30",
         "AddedTimestamp": 1774890804.9182973,
         "MatchedTags": [
-            "horror",
-            "psychological horror"
+            "psychological horror",
+            "horror"
         ]
     },
     "4513600": {
@@ -21889,9 +21889,9 @@
         "URL": "https://store.steampowered.com/app/4547610/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4547610/92d3423af9777297e28eda5c6109e08ff56ef665/header.jpg?t=1775184046",
-        "Date": "Apr 6, 2026",
-        "AddedDate": "2026-04-03",
-        "AddedTimestamp": 1775187005.5720701,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775877735.5763383,
         "MatchedTags": [
             "strategy",
             "tactical"
@@ -28399,6 +28399,118 @@
         "MatchedTags": [
             "horror",
             "survival horror"
+        ]
+    },
+    "4389810": {
+        "Title": "Zoo Protocol",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4389810/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4389810/c68c440348f9b6ae39c5c527b2f72ae4329ea5c5/header.jpg?t=1775873891",
+        "Date": "June 2026",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775877683.7680187,
+        "MatchedTags": [
+            "management",
+            "horror",
+            "resource management"
+        ]
+    },
+    "4507460": {
+        "Title": "Valkyrie Raid",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4507460/",
+        "Site": "http://valkyrieraid.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4507460/d23a1d7b095522eb2a37b048c84f9063f449ac72/header.jpg?t=1775869232",
+        "Date": "Jun 23, 2026",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775877704.174849,
+        "MatchedTags": [
+            "real time tactics",
+            "strategy"
+        ]
+    },
+    "4565940": {
+        "Title": "Factory Train: DreamLine",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4565940/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4565940/5ed2d0a80b8007b66565db6c2cda6e20c81ad839/header.jpg?t=1775867189",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775877742.9048827,
+        "MatchedTags": [
+            "resource management",
+            "city builder",
+            "management",
+            "base building"
+        ]
+    },
+    "4575220": {
+        "Title": "Tactorius",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4575220/",
+        "Site": "https://www.tactorius.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4575220/577bd2829840ec805475c427a080524be240815e/header.jpg?t=1775874973",
+        "Date": "Jun 5, 2026",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775877764.7759275,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4587610": {
+        "Title": "Dice Tavern: Farkle Roguelike",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4587610/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4587610/9e4d56e4c2fb249bb3984bf5b58aaa5ff46b9b19/header.jpg?t=1775876973",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775877777.4871094,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy"
+        ]
+    },
+    "4592990": {
+        "Title": "What You Don't See",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4592990/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4592990/314e3b277d0e8e3fcf664768ac89ea0d44f86466/header.jpg?t=1775876112",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775877792.3651597,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4606970": {
+        "Title": "Mound Kingdoms",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4606970/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606970/fc080d9a0b3b3f632c43a5be5bcde7c9b03d104e/header.jpg?t=1775873816",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775877796.560325,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "colony sim",
+            "real time tactics",
+            "base building"
         ]
     }
 }
