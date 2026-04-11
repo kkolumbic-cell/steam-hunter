@@ -21834,8 +21834,8 @@
         "AddedDate": "2026-04-10",
         "AddedTimestamp": 1775814020.15193,
         "MatchedTags": [
+            "tower defense",
             "strategy",
-            "turn-based combat",
             "base building"
         ]
     },
@@ -25745,8 +25745,8 @@
         "AddedTimestamp": 1775714320.358414,
         "MatchedTags": [
             "strategy",
-            "management",
             "resource management",
+            "management",
             "colony sim",
             "city builder"
         ]
@@ -26410,9 +26410,9 @@
         "URL": "https://store.steampowered.com/app/4581720/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4581720/648440f0178943aee71a9b7309be0033d6371a10/header.jpg?t=1775751330",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775753173.139106,
+        "Date": "Apr 22, 2026",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775898222.3905442,
         "MatchedTags": [
             "turn-based tactics"
         ]
@@ -28627,6 +28627,50 @@
         "AddedTimestamp": 1775891942.6112266,
         "MatchedTags": [
             "psychological horror"
+        ]
+    },
+    "3764710": {
+        "Title": "Aetheria",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3764710/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764710/720b58fea7785a80647cc64a4f979c7e909a89cf/header.jpg?t=1775894446",
+        "Date": "Apr 28, 2026",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775898193.492088,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "4487050": {
+        "Title": "\u9000\u52e4\u6642\u9593",
+        "Email": "",
+        "Discord": "https://discord.gg/Ds4ZP8Prxp",
+        "URL": "https://store.steampowered.com/app/4487050/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487050/20b6ee5561b5907ea2cb31ba95b50a975114781f/header.jpg?t=1775896525",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775898206.2821615,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4592100": {
+        "Title": "Umigami Eye",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4592100/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4592100/a1897c334ba626f44ee0c0ae748310026a989a02/header.jpg?t=1775892963",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775898227.633315,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
         ]
     }
 }
