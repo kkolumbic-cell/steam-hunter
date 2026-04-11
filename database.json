@@ -11565,9 +11565,9 @@
         "URL": "https://store.steampowered.com/app/3823420/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3823420/b6313c456a22c1945443b7f3941c6f32f3055ae9/header.jpg?t=1774020631",
-        "Date": "To be announced",
-        "AddedDate": "2026-03-20",
-        "AddedTimestamp": 1774022413.306258,
+        "Date": "Apr 11, 2026",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775891925.3797052,
         "MatchedTags": [
             "strategy"
         ]
@@ -12789,7 +12789,7 @@
     "4532140": {
         "Title": "HUSHED",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/wvkdqwn7fj",
         "URL": "https://store.steampowered.com/app/4532140/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4532140/817ce9f0b2db6ad9af9b5cff363e08404b47a8bf/header.jpg?t=1774315157",
@@ -14561,9 +14561,9 @@
         "URL": "https://store.steampowered.com/app/4469470/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4469470/0c053258048287d5ccb210e6c774506b57edcfc6/header.jpg?t=1774463257",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-03-25",
-        "AddedTimestamp": 1774466010.191967,
+        "Date": "To be announced",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775891937.6614149,
         "MatchedTags": [
             "strategy",
             "economy",
@@ -17184,9 +17184,9 @@
         "URL": "https://store.steampowered.com/app/4563400/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4563400/267339247432acaa8181da61818fa683b5f98346/header.jpg?t=1774683984",
-        "Date": "Apr 19, 2026",
-        "AddedDate": "2026-03-28",
-        "AddedTimestamp": 1774688396.1420162,
+        "Date": "Apr 11, 2026",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775891964.4681046,
         "MatchedTags": [
             "horror"
         ]
@@ -24273,9 +24273,9 @@
         "URL": "https://store.steampowered.com/app/4529960/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4529960/3963218a210e2e69bef0eef499823071c67af0d4/header.jpg?t=1775572094",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775576783.3078337,
+        "Date": "Apr 20, 2026",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775891946.9596322,
         "MatchedTags": [
             "strategy",
             "tower defense"
@@ -28599,6 +28599,34 @@
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
+        ]
+    },
+    "3892850": {
+        "Title": "The Bright Future Village",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3892850/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3892850/a9d3962f9830e78dd2593acd22d4e3afe203124a/header.jpg?t=1775891738",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775891927.1830683,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4511480": {
+        "Title": "Corporate Board",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4511480/",
+        "Site": "https://phantomproductions.com.tr/corporate-board/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4511480/9213d3535253b89d5b84303fd2a172259185076a/header.jpg?t=1775891279",
+        "Date": "Apr 12, 2026",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775891942.6112266,
+        "MatchedTags": [
+            "psychological horror"
         ]
     }
 }
