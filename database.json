@@ -17559,9 +17559,9 @@
         "URL": "https://store.steampowered.com/app/4542150/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4542150/dd12373e7e61829e6dc786e51dec085bbf0c5cf6/header.jpg?t=1774743551",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-03",
-        "AddedTimestamp": 1775195545.5926356,
+        "Date": "Apr 11, 2026",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775914337.357873,
         "MatchedTags": [
             "strategy",
             "management",
@@ -23632,7 +23632,7 @@
     },
     "3776730": {
         "Title": "House of Heists",
-        "Email": "support@absurdgames.in",
+        "Email": "contact@absurdgames.in",
         "Discord": "https://discord.gg/FCYNEf3Qjc",
         "URL": "https://store.steampowered.com/app/3776730/",
         "Site": "https://absurdgames.in/",
@@ -24497,9 +24497,9 @@
         "URL": "https://store.steampowered.com/app/4590840/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4590840/cbe894184fb8d9fffdfd9720f9059c1c5d109225/header.jpg?t=1775589694",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775590491.8721702,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775914371.333061,
         "MatchedTags": [
             "tower defense",
             "base building"
@@ -25143,8 +25143,8 @@
         "AddedTimestamp": 1775663327.8633454,
         "MatchedTags": [
             "management",
-            "resource management",
-            "economy"
+            "economy",
+            "resource management"
         ]
     },
     "4589400": {
@@ -25780,6 +25780,8 @@
         "AddedDate": "2026-04-09",
         "AddedTimestamp": 1775714351.3835213,
         "MatchedTags": [
+            "resource management",
+            "management",
             "economy"
         ]
     },
@@ -27857,9 +27859,9 @@
         "URL": "https://store.steampowered.com/app/4605730/",
         "Site": "https://albertfreeman.org/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4605730/c9cdff9a0c530a00db5bc7571644db482a1f6aba/header.jpg?t=1775831649",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-10",
-        "AddedTimestamp": 1775833808.0554266,
+        "Date": "Jul 10, 2026",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775914378.782206,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -27874,9 +27876,9 @@
         "URL": "https://store.steampowered.com/app/4580010/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4580010/8ce556bc0815a6277de4dd2cebe8bf0e68ffc20e/header.jpg?t=1775836761",
-        "Date": "TBA",
-        "AddedDate": "2026-04-10",
-        "AddedTimestamp": 1775837356.1296825,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775914354.78243,
         "MatchedTags": [
             "strategy"
         ]
@@ -28796,6 +28798,35 @@
         "MatchedTags": [
             "base building",
             "resource management"
+        ]
+    },
+    "4504510": {
+        "Title": "The Great Exhibition",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4504510/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4504510/2a8b632ffce95b35a0ebc2f023ea0ca019e22c19/header.jpg?t=1775911429",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775914322.6490583,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4580790": {
+        "Title": "Mine Mage Minion",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4580790/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4580790/54d90048c722e5149b9ba30312c4ec81d1fbb830/header.jpg?t=1775908346",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775914359.126009,
+        "MatchedTags": [
+            "colony sim",
+            "management"
         ]
     }
 }
