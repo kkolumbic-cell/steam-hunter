@@ -8519,9 +8519,9 @@
         "URL": "https://store.steampowered.com/app/4516190/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516190/79fd6a70cb9b8f2c375761810eec7d66e0d61b70/header.jpg?t=1773687189",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-16",
-        "AddedTimestamp": 1773689465.2730868,
+        "Date": "2026",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775907978.5577328,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -21361,11 +21361,12 @@
         "AddedDate": "2026-04-02",
         "AddedTimestamp": 1775149945.6565995,
         "MatchedTags": [
-            "strategy",
             "resource management",
+            "strategy",
+            "economy",
+            "colony sim",
             "management",
-            "tactical",
-            "economy"
+            "tactical"
         ]
     },
     "4552160": {
@@ -28752,6 +28753,49 @@
         "AddedTimestamp": 1775901555.0307724,
         "MatchedTags": [
             "city builder"
+        ]
+    },
+    "4527250": {
+        "Title": "Don't Push Your Luck",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4527250/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4527250/b893f4c1e65595b3cd7fa7831ead0769a29862be/header.jpg?t=1775905868",
+        "Date": "Apr 29, 2026",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775907980.4706056,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4567960": {
+        "Title": "Tales from Davidstown: The Game",
+        "Email": "",
+        "Discord": "https://discord.gg/XUZnWbTB6S",
+        "URL": "https://store.steampowered.com/app/4567960/",
+        "Site": "https://talesfromdavidstown.com/the-game/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4567960/2fcee12c9f61028184664252c63d8ea01815dbf1/header.jpg?t=1775905607",
+        "Date": "TBA",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775907989.5288422,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4606500": {
+        "Title": "Signalfall",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4606500/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4606500/457e96fc323f775dbf36fdf9c220eee224b80d66/header.jpg?t=1775906258",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775908002.9205706,
+        "MatchedTags": [
+            "base building",
+            "resource management"
         ]
     }
 }
