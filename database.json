@@ -26051,9 +26051,9 @@
         "URL": "https://store.steampowered.com/app/4539630/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4539630/1630bbedcb88a25974a63561d06051f662235fee/header.jpg?t=1775743587",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775744236.197127,
+        "Date": "2026",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775901534.1199853,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -28671,6 +28671,87 @@
         "MatchedTags": [
             "psychological horror",
             "horror"
+        ]
+    },
+    "4278200": {
+        "Title": "\u4e8b\u52d9\u62404649(Office4649)",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4278200/",
+        "Site": "https://kidoneko.com/office4649",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4278200/cb00bb91c1bae5320f834108a795805a78316d8f/header.jpg?t=1775898723",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775901517.4231606,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4582730": {
+        "Title": "THE AEON FALL",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4582730/",
+        "Site": "https://dalla-game.github.io/aeonfall-showcase/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4582730/2470743c426b9e8ff7df8e57750a9e39f8b3fe98/header.jpg?t=1775899213",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775901538.9306366,
+        "MatchedTags": [
+            "tower defense",
+            "survival horror",
+            "strategy",
+            "base building"
+        ]
+    },
+    "4586250": {
+        "Title": "MAKIN-A",
+        "Email": "",
+        "Discord": "https://discord.gg/8XdFDs5v",
+        "URL": "https://store.steampowered.com/app/4586250/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4586250/290cf2b27eef5e709f690a85b4c2a836b9fb27a2/header.jpg?t=1775898810",
+        "Date": "2026",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775901544.6912115,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "tower defense"
+        ]
+    },
+    "4593590": {
+        "Title": "RIFT DIGGER",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4593590/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4593590/b823314b9ff85ec4ea60daab752a6b2182d8a1d9/header.jpg?t=1775898806",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775901550.2157524,
+        "MatchedTags": [
+            "strategy",
+            "base building",
+            "management",
+            "colony sim",
+            "tower defense"
+        ]
+    },
+    "4609250": {
+        "Title": "Click Click Brick",
+        "Email": "info@coresproutgames.net",
+        "Discord": "https://discord.com/invite/hkmEXQDYwm",
+        "URL": "https://store.steampowered.com/app/4609250/",
+        "Site": "https://coresproutgames.net",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4609250/aefa9bad0e5a2557511f0a215706627a13b82bfd/header.jpg?t=1775898888",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775901555.0307724,
+        "MatchedTags": [
+            "city builder"
         ]
     }
 }
