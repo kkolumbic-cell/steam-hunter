@@ -28858,5 +28858,70 @@
             "management",
             "strategy"
         ]
+    },
+    "1337410": {
+        "Title": "Amethyst",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/1337410/",
+        "Site": "http://www.playamethyst.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1337410/424a2a3ecd9403e171c19986230b445d3095d097/header.jpg?t=1775920068",
+        "Date": "TBA",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775922547.055969,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "tactical rpg",
+            "tactical"
+        ]
+    },
+    "4543390": {
+        "Title": "Medieval Castle Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4543390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4543390/0cbb0cfd3091724fae6d8195eb1e53207795b4da/header.jpg?t=1775922157",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775922552.97013,
+        "MatchedTags": [
+            "city builder",
+            "management",
+            "resource management",
+            "economy"
+        ]
+    },
+    "4587210": {
+        "Title": "Mayor Quake",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4587210/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4587210/c096c7da30b96bb6a08a103afc71cdd1bd998d07/header.jpg?t=1775921668",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775922558.2169995,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4598880": {
+        "Title": "Forgotten Depths",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4598880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4598880/8e2581dd6a64e0a7851230d358a7fb9c89d04bfc/header.jpg?t=1775920299",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775922566.4990113,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
     }
 }
