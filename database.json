@@ -7727,9 +7727,9 @@
         "URL": "https://store.steampowered.com/app/4365410/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4365410/07267dab3a0fec868256cc7cb3700cdb7218c06d/header.jpg?t=1773484414",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-14",
-        "AddedTimestamp": 1773485281.1334376,
+        "Date": "To be announced",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775940718.5951202,
         "MatchedTags": [
             "survival horror",
             "horror"
@@ -21021,7 +21021,6 @@
         "AddedDate": "2026-04-02",
         "AddedTimestamp": 1775149961.8630235,
         "MatchedTags": [
-            "strategy",
             "turn-based combat"
         ]
     },
@@ -23094,10 +23093,9 @@
         "AddedDate": "2026-04-05",
         "AddedTimestamp": 1775415920.0948286,
         "MatchedTags": [
-            "real time tactics",
             "tower defense",
-            "strategy",
             "management",
+            "strategy",
             "tactical"
         ]
     },
@@ -26218,9 +26216,9 @@
         "URL": "https://store.steampowered.com/app/4602840/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4602840/7811965a36cc494433183d61eaf3c129fd736fdf/header.jpg?t=1775741702",
-        "Date": "May 4, 2026",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775744338.5505025,
+        "Date": "May 7, 2026",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775940733.611194,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -28982,6 +28980,20 @@
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
+        ]
+    },
+    "4380980": {
+        "Title": "N.I.V.O",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4380980/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4380980/591da49c2716f9f29d63fa97b976bbc00e01cec7/header.jpg?t=1775937610",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775940720.680237,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
