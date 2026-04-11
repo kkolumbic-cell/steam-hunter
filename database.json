@@ -26758,9 +26758,9 @@
         "URL": "https://store.steampowered.com/app/4375040/",
         "Site": "https://www.coldfrontgames.ca/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4375040/d907e5e0ef1627b8832e0028e8e428cf2ada3a5d/header.jpg?t=1775766907",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775768724.173552,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775934394.3971827,
         "MatchedTags": [
             "resource management"
         ]
@@ -28938,6 +28938,50 @@
         "MatchedTags": [
             "horror",
             "survival horror"
+        ]
+    },
+    "4526900": {
+        "Title": "Bar Keeper",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4526900/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526900/04c933e8e9ed467459e89269426ee90adb412fb5/header.jpg?t=1775930951",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775934412.8890147,
+        "MatchedTags": [
+            "tower defense",
+            "tactical"
+        ]
+    },
+    "4586680": {
+        "Title": "Ax RPG II",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4586680/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586680/a7a38f756b888c39d2a9b058a773ec4b9bd7f54b/header.jpg?t=1775933678",
+        "Date": "May 14, 2026",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775934421.5648756,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4586780": {
+        "Title": "Mentiss Werewolf: Human vs AI",
+        "Email": "",
+        "Discord": "https://discord.gg/BRE7EhVA3b",
+        "URL": "https://store.steampowered.com/app/4586780/",
+        "Site": "https://mentiss.ai/play",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586780/c89cd701a08af19a9de5a4496945324c839b7e8a/header.jpg?t=1775932265",
+        "Date": "Apr 24, 2026",
+        "AddedDate": "2026-04-11",
+        "AddedTimestamp": 1775934424.5666077,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
         ]
     }
 }
