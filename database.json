@@ -17540,7 +17540,7 @@
     "4530430": {
         "Title": "SCP-093",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/xrtUxWAd",
         "URL": "https://store.steampowered.com/app/4530430/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4530430/96702b6f0d4e7c22696b74d11b02dee5ea54e0f5/header.jpg?t=1774744331",
@@ -29231,6 +29231,34 @@
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
+        ]
+    },
+    "4339240": {
+        "Title": "Pixelwave Off",
+        "Email": "",
+        "Discord": "https://discord.gg/brmqp7MePF",
+        "URL": "https://store.steampowered.com/app/4339240/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4339240/62d68acd837feed3d69a02b3a2d8b09f91cb4a36/header.jpg?t=1776006787",
+        "Date": "Jul 23, 2026",
+        "AddedDate": "2026-04-12",
+        "AddedTimestamp": 1776009223.4947796,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4414550": {
+        "Title": "Peril in Prymkos",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4414550/",
+        "Site": "https://www.dotkgaming.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4414550/5753cee24f51f15af05294a36708e7e44b058b79/header.jpg?t=1776009131",
+        "Date": "Apr 13, 2026",
+        "AddedDate": "2026-04-12",
+        "AddedTimestamp": 1776009225.7700188,
+        "MatchedTags": [
+            "turn-based combat"
         ]
     }
 }
