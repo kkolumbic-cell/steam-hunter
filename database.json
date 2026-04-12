@@ -6949,9 +6949,9 @@
         "URL": "https://store.steampowered.com/app/4510260/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4510260/9db7172220fa8e8efaad82284891b204b72d72be/header.jpg?t=1773368791",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-13",
-        "AddedTimestamp": 1773371435.1064038,
+        "Date": "Jun 22, 2026",
+        "AddedDate": "2026-04-12",
+        "AddedTimestamp": 1775965672.7759104,
         "MatchedTags": [
             "strategy",
             "real time tactics",
@@ -27827,9 +27827,9 @@
         "URL": "https://store.steampowered.com/app/4601460/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4601460/89533af68d04d8bcf46a69cbce086f830a452dc0/header.jpg?t=1775833304",
-        "Date": "Sep 30, 2026",
-        "AddedDate": "2026-04-10",
-        "AddedTimestamp": 1775833802.4363549,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-12",
+        "AddedTimestamp": 1775965713.753539,
         "MatchedTags": [
             "tactical",
             "resource management",
@@ -29038,6 +29038,78 @@
         "MatchedTags": [
             "strategy",
             "tower defense"
+        ]
+    },
+    "4428950": {
+        "Title": "\u7eb8\u4e0a\u5f81\u670d\u8005",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4428950/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4428950/66bb5a4bce95255f16425b873418575b62144fba/header.jpg?t=1775961186",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-12",
+        "AddedTimestamp": 1775965656.8931806,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy"
+        ]
+    },
+    "4482750": {
+        "Title": "Tower Of Hope",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4482750/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4482750/ef361be20ab3dd75b1703ad1dbb8ab0a23c1876e/header.jpg?t=1775960682",
+        "Date": "2026",
+        "AddedDate": "2026-04-12",
+        "AddedTimestamp": 1775965665.0512369,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4590810": {
+        "Title": "\u6c11\u56fd\u8be1\u4e8b",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4590810/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4590810/c313ebaa371333a28f14d04393d68c0bdd4e264a/header.jpg?t=1775962894",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-12",
+        "AddedTimestamp": 1775965696.5965488,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4591910": {
+        "Title": "Star Junkers",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4591910/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4591910/0a471bf08081a3499918400f795bc68fdfc1b22e/header.jpg?t=1775962939",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-12",
+        "AddedTimestamp": 1775965705.6465335,
+        "MatchedTags": [
+            "colony sim"
+        ]
+    },
+    "4591920": {
+        "Title": "Dead Reckoning: Reborn",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4591920/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4591920/4d0a40fabe607b866d614ea15f836d121e6c8006/header.jpg?t=1775962944",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-12",
+        "AddedTimestamp": 1775965708.6179905,
+        "MatchedTags": [
+            "survival horror"
         ]
     }
 }
