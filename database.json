@@ -11628,9 +11628,9 @@
         "URL": "https://store.steampowered.com/app/4531090/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4531090/fe6e257bd047e430d62bc4621a30fc50dc4e9e68/header.jpg?t=1774027786",
-        "Date": "May 28, 2026",
-        "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775109064.5336206,
+        "Date": "May 14, 2026",
+        "AddedDate": "2026-04-12",
+        "AddedTimestamp": 1775979948.7941267,
         "MatchedTags": [
             "strategy",
             "tactical rpg"
@@ -13344,9 +13344,9 @@
         "URL": "https://store.steampowered.com/app/4534350/",
         "Site": "https://radar-identified.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4534350/5e7ccdda1a67c721aba3bb90573e477a055d47f7/header.jpg?t=1774366747",
-        "Date": "April 2026",
-        "AddedDate": "2026-03-24",
-        "AddedTimestamp": 1774372608.8334405,
+        "Date": "Apr 12, 2026",
+        "AddedDate": "2026-04-12",
+        "AddedTimestamp": 1775979951.4522789,
         "MatchedTags": [
             "strategy",
             "management",
@@ -29140,6 +29140,20 @@
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
+        ]
+    },
+    "4605950": {
+        "Title": "UNSIGHT",
+        "Email": "",
+        "Discord": "https://discord.gg/853WBYEmGe",
+        "URL": "https://store.steampowered.com/app/4605950/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4605950/f22855be16e7e0393fbb253b59f6377bf8dd8e7f/header.jpg?t=1775978501",
+        "Date": "June 2026",
+        "AddedDate": "2026-04-12",
+        "AddedTimestamp": 1775979973.5053992,
+        "MatchedTags": [
+            "tactical"
         ]
     }
 }
