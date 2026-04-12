@@ -1106,8 +1106,8 @@
         "AddedTimestamp": 1772977896.3941035,
         "MatchedTags": [
             "economy",
-            "resource management",
-            "strategy"
+            "strategy",
+            "resource management"
         ]
     },
     "4468350": {
@@ -29110,6 +29110,36 @@
         "AddedTimestamp": 1775965708.6179905,
         "MatchedTags": [
             "survival horror"
+        ]
+    },
+    "4128760": {
+        "Title": "Dwarven Forge",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4128760/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128760/2e453c40af304537bc808a0b7ad2fdb795f3b581/header.jpg?t=1775967806",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-12",
+        "AddedTimestamp": 1775973796.0817847,
+        "MatchedTags": [
+            "economy",
+            "management"
+        ]
+    },
+    "4604090": {
+        "Title": "Double or Nothing",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4604090/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4604090/76ac1e83dea662f76759d4b7f0a175a18a39ba19/header.jpg?t=1775972468",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-12",
+        "AddedTimestamp": 1775973822.3544593,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
         ]
     }
 }
