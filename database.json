@@ -18370,9 +18370,9 @@
         "URL": "https://store.steampowered.com/app/4553840/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4553840/a8a279420ee5e3a69435bfa9f399c4379727acc4/header.jpg?t=1774900651",
-        "Date": "April 2026",
-        "AddedDate": "2026-03-30",
-        "AddedTimestamp": 1774904650.9870243,
+        "Date": "Apr 13, 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776095299.852433,
         "MatchedTags": [
             "strategy",
             "management"
@@ -18787,9 +18787,9 @@
         "URL": "https://store.steampowered.com/app/4555670/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4555670/168f178ede23f33dd27be0a6522d2fcac44aa855/header.jpg?t=1774933823",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-10",
-        "AddedTimestamp": 1775801478.1811633,
+        "Date": "Apr 13, 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776095302.969053,
         "MatchedTags": [
             "strategy",
             "tactical"
@@ -29522,6 +29522,55 @@
         "MatchedTags": [
             "management",
             "resource management"
+        ]
+    },
+    "4395660": {
+        "Title": "Ordinary Defenders",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4395660/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4395660/c454c868b12af14832bb548e433b895f1336e66a/header.jpg?t=1776092192",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776095271.8323805,
+        "MatchedTags": [
+            "tower defense",
+            "economy",
+            "base building",
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4502510": {
+        "Title": "Eerie Dossier:the Haunted House Observation Log",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4502510/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4502510/756067faa2ea9353d217d0b63f713bdffd6e3e8e/header.jpg?t=1776092744",
+        "Date": "2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776095277.6761162,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror",
+            "resource management"
+        ]
+    },
+    "4593180": {
+        "Title": "Mad YU: Rural Idle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4593180/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593180/14a5b1b9c093e369394fc07523660cd38a02b467/header.jpg?t=1776092407",
+        "Date": "May 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776095318.0466192,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
