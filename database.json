@@ -17751,9 +17751,9 @@
         "URL": "https://store.steampowered.com/app/4526380/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4526380/71f0c5c2cd2ead619090fcdb42a95ad3e19ec1a7/header.jpg?t=1774841001",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-30",
-        "AddedTimestamp": 1774842344.2752213,
+        "Date": "Apr 13, 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776071642.6317358,
         "MatchedTags": [
             "strategy",
             "horror"
@@ -17951,9 +17951,9 @@
         "URL": "https://store.steampowered.com/app/4548070/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4548070/0afe89650401fb0d52a8805fe0e25804c5b4edf9/header.jpg?t=1774881563",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-30",
-        "AddedTimestamp": 1774885418.5103385,
+        "Date": "Apr 13, 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776071658.6789505,
         "MatchedTags": [
             "city builder"
         ]
@@ -20384,9 +20384,9 @@
         "URL": "https://store.steampowered.com/app/4569790/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4569790/cbfeb47c5d019de8485992f40273796f83601b3b/header.jpg?t=1775062810",
-        "Date": "2026",
-        "AddedDate": "2026-04-01",
-        "AddedTimestamp": 1775063639.2464793,
+        "Date": "July 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776071679.0361273,
         "MatchedTags": [
             "horror"
         ]
@@ -24453,9 +24453,9 @@
         "URL": "https://store.steampowered.com/app/4583080/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4583080/452cf50e001c8a19805a72ca7723949165617d30/header.jpg?t=1775586921",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775590480.656311,
+        "Date": "May 1, 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776071693.720677,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -27134,9 +27134,9 @@
         "URL": "https://store.steampowered.com/app/4580360/",
         "Site": "https://www.necoplanet.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4580360/b2daeebacc686cc7023f9b540aa27e7ce559e768/header.jpg?t=1775791804",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-10",
-        "AddedTimestamp": 1775792692.3344836,
+        "Date": "April 2027",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776071681.4033484,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -29371,6 +29371,49 @@
             "strategy",
             "base building",
             "resource management"
+        ]
+    },
+    "4520880": {
+        "Title": "\u30a6\u30a9\u30fc\u30ad\u30f3\u30b0 \u30a8\u30a4\u30c8",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4520880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4520880/863a10c66bcb14be9bdc107de2cfade97095b4f2/header.jpg?t=1776067390",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776071640.4783325,
+        "MatchedTags": [
+            "survival horror"
+        ]
+    },
+    "4536600": {
+        "Title": "Thieves and Tasers",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4536600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4536600/68dc801ec105cecb9ace585da8954648ed384db5/header.jpg?t=1776067816",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776071648.3173413,
+        "MatchedTags": [
+            "real time tactics"
+        ]
+    },
+    "4587730": {
+        "Title": "Ghostly Simulator\u2014\u2014 Your Neighboring Ghost Story Collection",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4587730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4587730/ee94936ef065636caf1e96788e5fbf767e9784fb/header.jpg?t=1776065805",
+        "Date": "2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776071695.9562025,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
         ]
     }
 }
