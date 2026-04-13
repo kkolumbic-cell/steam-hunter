@@ -18489,7 +18489,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4544780/",
-        "Site": "",
+        "Site": "https://www.goneidle.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544780/1008c68d2be91410231d35c4af28c6a779386980/header.jpg?t=1774908288",
         "Date": "Apr 13, 2026",
         "AddedDate": "2026-03-30",
@@ -23654,9 +23654,9 @@
         "URL": "https://store.steampowered.com/app/4323010/",
         "Site": "https://k-71.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4323010/e1ca520216c956ac85e5ce24a81c22f71cf00213/header.jpg?t=1775517528",
-        "Date": "Q1 2027",
-        "AddedDate": "2026-04-06",
-        "AddedTimestamp": 1775519574.0303662,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776101558.7480764,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -26474,9 +26474,9 @@
         "URL": "https://store.steampowered.com/app/4594500/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594500/c51638f1f04ea77d5224df6c859a549e4a1dfced/header.jpg?t=1775749239",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775753194.4592187,
+        "Date": "Apr 23, 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776101605.2182453,
         "MatchedTags": [
             "strategy",
             "real time tactics",
@@ -29571,6 +29571,293 @@
         "AddedTimestamp": 1776095318.0466192,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "242570": {
+        "Title": "Space Hulk (Classic)",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/242570/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242570/62cf7d907ee5ed713006866257f290fda9ceed63/header.jpg?t=1776095987",
+        "Date": "Aug 15, 2013",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776101492.328515,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "tactical",
+            "turn-based tactics"
+        ]
+    },
+    "317620": {
+        "Title": "Space Hulk: Ascension (Classic)",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/317620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/317620/5df34112f50eb18583d03e8fd9316eb8c73904d4/header.jpg?t=1776095993",
+        "Date": "Aug 12, 2015",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776101498.0342596,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "tactical",
+            "turn-based strategy"
+        ]
+    },
+    "326670": {
+        "Title": "Warhammer Quest (Classic)",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/326670/",
+        "Site": "http://warhammerquestgame.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/326670/29a57511610593d65e4b38b071e88f54a5aa0713/header.jpg?t=1776098064",
+        "Date": "Jan 7, 2015",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776101499.8129482,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "tactical",
+            "turn-based strategy",
+            "turn-based combat",
+            "psychological horror"
+        ]
+    },
+    "344240": {
+        "Title": "Man O' War: Corsair - Warhammer Naval Battles (Classic)",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/344240/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/344240/9bc68c547d454b4a969b5b1ed17dc12aaed7b3b0/header.jpg?t=1776096000",
+        "Date": "Apr 19, 2017",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776101505.3962283,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "910450": {
+        "Title": "Warhammer Quest 2: The End Times (Classic)",
+        "Email": "info@perchang.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/910450/",
+        "Site": "https://perchang.com/index.html",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/910450/1cee05d51a8f86e3ba96d6c912558cae0d45bebf/header.jpg?t=1776099634",
+        "Date": "Jan 30, 2019",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776101515.9110482,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4101150": {
+        "Title": "Hold the Core",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4101150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4101150/85bfe20a89bde4f56ab3d1bf95d868522d86126b/header.jpg?t=1776097607",
+        "Date": "July 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776101533.630903,
+        "MatchedTags": [
+            "tower defense",
+            "strategy"
+        ]
+    },
+    "4265000": {
+        "Title": "Isekai Parlor Simulator GOLD",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4265000/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4265000/932f369f58ae1e04dec0876df749f749739ad53d/header.jpg?t=1776099658",
+        "Date": "October 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776101537.8106952,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "turn-based tactics"
+        ]
+    },
+    "4280860": {
+        "Title": "Warhammer: Dark Omen (Classic)",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4280860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4280860/59ae138665069c24591f8338b883a59a80812ad0/header.jpg?t=1776099779",
+        "Date": "Apr 13, 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776101539.9334247,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4280870": {
+        "Title": "Warhammer: Shadow of the Horned Rat (Classic)",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4280870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4280870/665d269b4a5f83f3ae62e3050fb0f04d03ab48f9/header.jpg?t=1776097997",
+        "Date": "Apr 13, 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776101542.8497615,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4280890": {
+        "Title": "Warhammer 40,000: Chaos Gate (Classic)",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4280890/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4280890/75ce1b3f9971451244d986bc7afb2959e2b363c0/header.jpg?t=1776098052",
+        "Date": "Apr 13, 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776101545.990786,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4280900": {
+        "Title": "Warhammer 40,000: Rites of War (Classic)",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4280900/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4280900/fc1ac239e443d5db47d5d1f3cc6883707de4a245/header.jpg?t=1776098104",
+        "Date": "Apr 13, 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776101548.104054,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical",
+            "turn-based combat",
+            "tactical rpg"
+        ]
+    },
+    "4280920": {
+        "Title": "Final Liberation: Warhammer Epic 40,000 (Classic)",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4280920/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4280920/4a0102c0adde278b9fcc921ef95580517017691c/header.jpg?t=1776098146",
+        "Date": "Apr 13, 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776101551.21039,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical"
+        ]
+    },
+    "4280940": {
+        "Title": "Warhammer: Mark of Chaos - Gold Edition (Classic)",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4280940/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4280940/e0f726154e19e0292cb91507cf0af7426ac2778f/header.jpg?t=1776098084",
+        "Date": "Apr 13, 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776101555.8903584,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tactical"
+        ]
+    },
+    "4532080": {
+        "Title": "The Crosley Tower Horror",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4532080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4532080/a4bf642c17bf29ffdf512b5f4b051f02568c4f7e/header.jpg?t=1776098290",
+        "Date": "Apr 27, 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776101581.6863296,
+        "MatchedTags": [
+            "strategy",
+            "horror"
+        ]
+    },
+    "4599600": {
+        "Title": "Flip The Coin",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4599600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4599600/ddd97e49ea9270f11e2cddef114ce2ce8fe0128e/header.jpg?t=1776100856",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776101615.5316787,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tactical"
+        ]
+    },
+    "4605570": {
+        "Title": "Probation Protocol",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4605570/",
+        "Site": "https://www.bartygames.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4605570/abffbe9447cd1a0b81ab26a97ad86211466eb1d1/header.jpg?t=1776100778",
+        "Date": "Sep 30, 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776101623.5283303,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4607750": {
+        "Title": "Hookah House",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4607750/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4607750/328def72be27e16d040b76a7d9ccc65804fa68b9/header.jpg?t=1776100989",
+        "Date": "TBA",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776101627.2363546,
+        "MatchedTags": [
+            "resource management",
+            "economy"
+        ]
+    },
+    "4611780": {
+        "Title": "SOLEN",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4611780/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4611780/bb1dc96c964eae22a1ed3c0193ad6822077fcc51/header.jpg?t=1776096566",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776101631.5574164,
+        "MatchedTags": [
+            "psychological horror"
         ]
     }
 }
