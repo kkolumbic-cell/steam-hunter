@@ -6262,9 +6262,9 @@
         "URL": "https://store.steampowered.com/app/4424080/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4424080/261220ad5f0321a797f33efeeff125fffa829eb0/header.jpg?t=1773292386",
-        "Date": "2026",
-        "AddedDate": "2026-03-12",
-        "AddedTimestamp": 1773295628.296841,
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776061677.263468,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -14520,7 +14520,8 @@
         "MatchedTags": [
             "tower defense",
             "strategy",
-            "economy"
+            "economy",
+            "resource management"
         ]
     },
     "4540590": {
@@ -28301,7 +28302,7 @@
     "4608050": {
         "Title": "The Will and Torment of El Brante",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/ksZabceW",
         "URL": "https://store.steampowered.com/app/4608050/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4608050/4e6125ee20184f8b42606e5cc3c3791b886797b0/header.jpg?t=1775854540",
@@ -29336,6 +29337,40 @@
         "AddedTimestamp": 1776052471.5363157,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4451520": {
+        "Title": "Ocean Cleaner Idle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4451520/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4451520/c7c8ccf7446d7b22259b5e4263b682950e035a28/header.jpg?t=1776059494",
+        "Date": "TBA",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776061682.283708,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "management",
+            "base building",
+            "tactical"
+        ]
+    },
+    "4603270": {
+        "Title": "Island God Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4603270/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4603270/ee48f758f8b92f2c7c564cb6c29499eaf66e2951/header.jpg?t=1776052926",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776061725.2592626,
+        "MatchedTags": [
+            "strategy",
+            "base building",
+            "resource management"
         ]
     }
 }
