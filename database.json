@@ -3396,9 +3396,9 @@
         "URL": "https://store.steampowered.com/app/4478420/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4478420/2980f2710494e41ce7a2375582fdd476a42ca8e2/header.jpg?t=1772846772",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-07",
-        "AddedTimestamp": 1772851529.318274,
+        "Date": "Apr 13, 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776089445.3032408,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -9809,6 +9809,7 @@
         "AddedDate": "2026-03-18",
         "AddedTimestamp": 1773828802.7570074,
         "MatchedTags": [
+            "management",
             "strategy"
         ]
     },
@@ -16158,14 +16159,14 @@
     },
     "2703760": {
         "Title": "Colorable",
-        "Email": "career@sanforgestudio.com, legal@sanforgestudio.com, info@sanforgestudio.com",
+        "Email": "info@sanforgestudio.com, legal@sanforgestudio.com, career@sanforgestudio.com",
         "Discord": "https://discord.gg/Z758tWUG",
         "URL": "https://store.steampowered.com/app/2703760/",
         "Site": "https://www.sanforgestudio.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2703760/dc91fa49e1ab7cc674c4732cb2a4580080575760/header.jpg?t=1774608855",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-11",
-        "AddedTimestamp": 1775937054.0891247,
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776089406.5886784,
         "MatchedTags": [
             "strategy"
         ]
@@ -18187,9 +18188,9 @@
         "URL": "https://store.steampowered.com/app/4566970/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4566970/af89a6a2aa7a646237eec160915fdc9ba8c72db1/header.jpg?t=1774891141",
-        "Date": "April 2026",
-        "AddedDate": "2026-03-31",
-        "AddedTimestamp": 1774971519.7090993,
+        "Date": "Apr 13, 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776089476.418351,
         "MatchedTags": [
             "horror"
         ]
@@ -25059,7 +25060,7 @@
     "4461460": {
         "Title": "Fantasy Blacksmith Simulator",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/7tcqZen36v",
         "URL": "https://store.steampowered.com/app/4461460/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4461460/baf98585e8063106b5f0cf68ff17544cbfe9109e/header.jpg?t=1775662648",
@@ -28627,9 +28628,9 @@
         "URL": "https://store.steampowered.com/app/4511480/",
         "Site": "https://phantomproductions.com.tr/corporate-board/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4511480/9213d3535253b89d5b84303fd2a172259185076a/header.jpg?t=1775891279",
-        "Date": "Apr 12, 2026",
-        "AddedDate": "2026-04-11",
-        "AddedTimestamp": 1775891942.6112266,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776089459.9455159,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -29489,6 +29490,38 @@
         "AddedTimestamp": 1776082326.9740007,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4075620": {
+        "Title": "Combolands",
+        "Email": "",
+        "Discord": "https://discord.gg/JRXpcV3gwq",
+        "URL": "https://store.steampowered.com/app/4075620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4075620/45fef0f08092f3b12d2388fbee107f7dbaa4a3ef/header.jpg?t=1776087176",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776089417.2986393,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "turn-based strategy",
+            "management"
+        ]
+    },
+    "4599200": {
+        "Title": "The Terminal God",
+        "Email": "",
+        "Discord": "https://discord.gg/mKqycn5zC7",
+        "URL": "https://store.steampowered.com/app/4599200/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4599200/60517745833708f29648f8c90b7baeb0e9cf5851/header.jpg?t=1776083500",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776089483.915658,
+        "MatchedTags": [
+            "management",
+            "resource management"
         ]
     }
 }
