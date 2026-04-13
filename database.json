@@ -29862,9 +29862,9 @@
         "URL": "https://store.steampowered.com/app/4579810/",
         "Site": "https://afrogamelabs.wixsite.com/afro-game-labs",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4579810/969c39ec1a29db7d554c11213a4e2d56b869cf16/header.jpg?t=1776108913",
-        "Date": "May 2026",
+        "Date": "May 1, 2026",
         "AddedDate": "2026-04-13",
-        "AddedTimestamp": 1776109319.5784218,
+        "AddedTimestamp": 1776114625.2676413,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -29999,6 +29999,68 @@
         "AddedTimestamp": 1776109389.500761,
         "MatchedTags": [
             "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4228450": {
+        "Title": "Corner Arcade",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4228450/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4228450/df6ae3bfe9bb6126c8b6cd726746bd8eb967f57b/header.jpg?t=1776109742",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776114589.1614761,
+        "MatchedTags": [
+            "management",
+            "strategy",
+            "city builder",
+            "resource management",
+            "tactical"
+        ]
+    },
+    "4530600": {
+        "Title": "Ice Moon Odyssey",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4530600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4530600/9c737b36029ab8fe9af5cdc16367983e0d54287a/header.jpg?t=1776114441",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776114610.4368756,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4543950": {
+        "Title": "Escape Plan",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4543950/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4543950/8fc1efc9a2ba7e562d33d821b4b917c48992edea/header.jpg?t=1776113951",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776114618.2854843,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4592400": {
+        "Title": "ABYSS - 9",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4592400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4592400/42b694cf794330db59c953adb638bb7378db4af8/header.jpg?t=1776111623",
+        "Date": "Jun 30, 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776114631.5072353,
+        "MatchedTags": [
+            "survival horror",
             "management",
             "resource management"
         ]
