@@ -20115,9 +20115,9 @@
         "URL": "https://store.steampowered.com/app/4574510/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4574510/3b1d3063508f32d125afd50339c757f7bb6094ea/header.jpg?t=1775046815",
-        "Date": "2027",
-        "AddedDate": "2026-04-01",
-        "AddedTimestamp": 1775052453.0343325,
+        "Date": "Feb 22, 2027",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776117883.3552985,
         "MatchedTags": [
             "strategy",
             "horror"
@@ -22139,8 +22139,7 @@
         "MatchedTags": [
             "economy",
             "strategy",
-            "resource management",
-            "real time tactics"
+            "resource management"
         ]
     },
     "4525340": {
@@ -30063,6 +30062,68 @@
             "survival horror",
             "management",
             "resource management"
+        ]
+    },
+    "3961090": {
+        "Title": "Grommet Chod",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3961090/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3961090/f0412f234faade9c8872c2f3ab9aae7ed4761244/header.jpg?t=1776115859",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776117859.0237517,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "resource management",
+            "turn-based combat"
+        ]
+    },
+    "4569540": {
+        "Title": "bunny tower",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4569540/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4569540/16fdaf50d3e209f6e080a1598560953e0ef93e0f/header.jpg?t=1776114665",
+        "Date": "Apr 27, 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776117878.0291905,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4588370": {
+        "Title": "Seed Defender",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4588370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4588370/140a88b53eecfe8dcaece972d81bdc06c654124b/header.jpg?t=1776114812",
+        "Date": "May 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776117887.857056,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "tactical"
+        ]
+    },
+    "4611770": {
+        "Title": "They Rise",
+        "Email": "press@midnightgamestudios.com, contact@midnightgamestudios.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4611770/",
+        "Site": "https://midnightgamestudios.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4611770/1396ff9ef9096e338cd61615011ab4f7acf06956/header.jpg?t=1776114944",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776117902.3603163,
+        "MatchedTags": [
+            "survival horror",
+            "horror"
         ]
     }
 }
