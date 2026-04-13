@@ -20217,7 +20217,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4467370/",
-        "Site": "",
+        "Site": "https://www.atelier-mimina.com/yokaibattinggame",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4467370/a6e2571efb7f9f30fb80b3f363fac9d5efe1b2d8/header.jpg?t=1775054213",
         "Date": "2027",
         "AddedDate": "2026-04-01",
@@ -27918,9 +27918,9 @@
         "URL": "https://store.steampowered.com/app/4562800/",
         "Site": "https://swarmmo.games",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4562800/8647c8a9579dc90f4bfbc4d3e8092050e0a8f65d/header.jpg?t=1775838251",
-        "Date": "Sep 30, 2026",
-        "AddedDate": "2026-04-10",
-        "AddedTimestamp": 1775840986.566183,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776052485.5065339,
         "MatchedTags": [
             "turn-based tactics",
             "turn-based strategy",
@@ -29307,6 +29307,35 @@
             "strategy",
             "management",
             "economy"
+        ]
+    },
+    "3945720": {
+        "Title": "Tribal Trouble: Resurrected",
+        "Email": "",
+        "Discord": "https://discord.gg/tribaltrouble",
+        "URL": "https://store.steampowered.com/app/3945720/",
+        "Site": "https://tribaltrouble.org",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3945720/d13e029759eaf277af48f11718015198dfd1fca8/header.jpg?t=1776045923",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776052445.6271152,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4528320": {
+        "Title": "\u6478\u91d1\u724c",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4528320/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4528320/c9b09d355ca450d5cfe567cf16c252c12f00516e/header.jpg?t=1776045647",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776052471.5363157,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
