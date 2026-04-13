@@ -8171,7 +8171,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4253020/",
-        "Site": "",
+        "Site": "https://murdermeetcute.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4253020/88f4367c70fa3f99b16579fa0888af7949f9db1a/header.jpg?t=1773662693",
         "Date": "To be announced",
         "AddedDate": "2026-03-16",
@@ -10886,9 +10886,9 @@
         "URL": "https://store.steampowered.com/app/3352910/",
         "Site": "https://roomgames.co/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3352910/f88e10836fe67353088e7cf7249bd6061e2b9318/header.jpg?t=1773930986",
-        "Date": "To be announced",
-        "AddedDate": "2026-03-19",
-        "AddedTimestamp": 1773932871.2926285,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776077851.9932919,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -18536,9 +18536,9 @@
         "URL": "https://store.steampowered.com/app/3728210/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3728210/aafb4bd91e5fcb034b487ec2cd6c901e75fcb78a/header.jpg?t=1774923531",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-05",
-        "AddedTimestamp": 1775400939.9168062,
+        "Date": "Apr 13, 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776077856.3876379,
         "MatchedTags": [
             "strategy"
         ]
@@ -22829,9 +22829,9 @@
         "URL": "https://store.steampowered.com/app/4556220/",
         "Site": "https://sandstrike-lake.vercel.app/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4556220/2986d25b0ba2281f5b60dbd81dc492fb7880c9b9/header.jpg?t=1775324487",
-        "Date": "Apr 30, 2026",
-        "AddedDate": "2026-04-04",
-        "AddedTimestamp": 1775324977.0209212,
+        "Date": "May 14, 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776077916.5456173,
         "MatchedTags": [
             "tactical"
         ]
@@ -29414,6 +29414,52 @@
         "MatchedTags": [
             "psychological horror",
             "horror"
+        ]
+    },
+    "4209040": {
+        "Title": "Void Fragment",
+        "Email": "",
+        "Discord": "https://discord.gg/znKeXgdUFQ",
+        "URL": "https://store.steampowered.com/app/4209040/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4209040/c184bbcb706dfc81553bdaff448b7bc72aa83fb8/header.jpg?t=1776072452",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776077868.0065742,
+        "MatchedTags": [
+            "management",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4600650": {
+        "Title": "[RANDOM]",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4600650/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4600650/dda4cb1f970cf9f45a6a205b66348d3381d57958/header.jpg?t=1776072948",
+        "Date": "Apr 27, 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776077932.6610348,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "economy"
+        ]
+    },
+    "4610110": {
+        "Title": "Cowboy and Zombies",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4610110/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4610110/e9908a8307464bfc26f9148d910ad00eafec9f0a/header.jpg?t=1776075843",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776077938.3921,
+        "MatchedTags": [
+            "survival horror"
         ]
     }
 }
