@@ -15232,9 +15232,9 @@
         "URL": "https://store.steampowered.com/app/4545170/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4545170/65691beef64296250669efb736576d8bac07deed/header.jpg?t=1774533367",
-        "Date": "April 2026",
-        "AddedDate": "2026-03-26",
-        "AddedTimestamp": 1774533705.5094032,
+        "Date": "Apr 13, 2026",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776121500.6743112,
         "MatchedTags": [
             "survival horror",
             "horror",
@@ -30124,6 +30124,37 @@
         "MatchedTags": [
             "survival horror",
             "horror"
+        ]
+    },
+    "3343380": {
+        "Title": "Semantigon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3343380/",
+        "Site": "https://semantigon.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3343380/5e3361746f3da1477933b3b05dc15a2185550ccf/header.jpg?t=1776117930",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776121486.8503454,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "tactical"
+        ]
+    },
+    "4585020": {
+        "Title": "Golgothian",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4585020/",
+        "Site": "https://www.hackastan.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4585020/e05028975284febbf0449e39b8c14628afd27a07/header.jpg?t=1776119947",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-13",
+        "AddedTimestamp": 1776121505.1345263,
+        "MatchedTags": [
+            "turn-based combat",
+            "tactical rpg"
         ]
     }
 }
