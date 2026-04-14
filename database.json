@@ -18953,9 +18953,9 @@
         "URL": "https://store.steampowered.com/app/4522510/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4522510/2bcc7825c4d0524af87a7f52cc2b0333efc25c38/header.jpg?t=1774952957",
-        "Date": "April 2026",
-        "AddedDate": "2026-03-31",
-        "AddedTimestamp": 1774965836.9772747,
+        "Date": "Apr 14, 2026",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776160289.4635959,
         "MatchedTags": [
             "resource management"
         ]
@@ -19252,9 +19252,9 @@
         "URL": "https://store.steampowered.com/app/4548150/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4548150/23b5a315fec9ba8fc01abedf11a00095fd47fb63/header.jpg?t=1774984118",
-        "Date": "Apr 8, 2026",
-        "AddedDate": "2026-03-31",
-        "AddedTimestamp": 1774985462.0651157,
+        "Date": "Apr 14, 2026",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776160295.1900249,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -19329,9 +19329,9 @@
         "URL": "https://store.steampowered.com/app/4544030/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544030/fc5240e0fd09b73569948fc98b5bbd7c5a55f851/header.jpg?t=1774987336",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-04",
-        "AddedTimestamp": 1775296550.6556387,
+        "Date": "Apr 14, 2026",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776160292.5137827,
         "MatchedTags": [
             "strategy",
             "survival horror"
@@ -30402,6 +30402,38 @@
         "MatchedTags": [
             "psychological horror",
             "horror"
+        ]
+    },
+    "4597670": {
+        "Title": "Spud Keeper",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4597670/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4597670/40185ff822e07817596ccd6e99f5aa5c04d64e8e/header.jpg?t=1776159802",
+        "Date": "Jun 25, 2026",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776160307.9236846,
+        "MatchedTags": [
+            "tower defense",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4606900": {
+        "Title": "Piywebler",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4606900/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606900/d00d2324e6f4e95347b7b6001894238629458c88/header.jpg?t=1776158816",
+        "Date": "Apr 21, 2026",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776160309.941424,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
         ]
     }
 }
