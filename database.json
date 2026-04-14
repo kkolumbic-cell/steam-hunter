@@ -5032,9 +5032,10 @@
         "AddedDate": "2026-03-10",
         "AddedTimestamp": 1773155566.07202,
         "MatchedTags": [
+            "tactical",
             "strategy",
-            "turn-based combat",
-            "turn-based tactics"
+            "turn-based tactics",
+            "economy"
         ]
     },
     "4506220": {
@@ -18260,9 +18261,9 @@
         "URL": "https://store.steampowered.com/app/4565710/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4565710/c89defce67026e644f7d8d08c8ef321d88d32c18/header.jpg?t=1774896476",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-03-30",
-        "AddedTimestamp": 1774898525.4824326,
+        "Date": "2026",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776176181.6668496,
         "MatchedTags": [
             "strategy",
             "horror",
@@ -23654,9 +23655,9 @@
         "URL": "https://store.steampowered.com/app/4385540/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4385540/81b947357b5a367531b38e8f99e4cd19e028ea37/header.jpg?t=1775516513",
-        "Date": "TBA",
-        "AddedDate": "2026-04-06",
-        "AddedTimestamp": 1775519580.1211407,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776176123.4156866,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -25607,7 +25608,9 @@
         "AddedDate": "2026-04-09",
         "AddedTimestamp": 1775705465.8554745,
         "MatchedTags": [
-            "strategy"
+            "strategy",
+            "base building",
+            "resource management"
         ]
     },
     "4532400": {
@@ -26769,9 +26772,9 @@
         "URL": "https://store.steampowered.com/app/4554710/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4554710/001c9d19fb163ab8ca40cd337a05251091253c03/header.jpg?t=1775764792",
-        "Date": "May 1, 2026",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775768755.2441645,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776176171.1095283,
         "MatchedTags": [
             "horror"
         ]
@@ -29876,9 +29879,9 @@
         "URL": "https://store.steampowered.com/app/4596590/",
         "Site": "https://www.maison-nourson.fr/games/planeworld",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4596590/436bba1792fef0dbad28f721dcd7fac8ffbbef56/header.jpg?t=1776105360",
-        "Date": "Apr 27, 2026",
-        "AddedDate": "2026-04-13",
-        "AddedTimestamp": 1776109348.3840861,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776176213.6902585,
         "MatchedTags": [
             "resource management"
         ]
@@ -30477,6 +30480,135 @@
         "MatchedTags": [
             "psychological horror",
             "horror"
+        ]
+    },
+    "3379080": {
+        "Title": "Auto Battleships",
+        "Email": "",
+        "Discord": "https://discord.gg/WxVd5QJyr8",
+        "URL": "https://store.steampowered.com/app/3379080/",
+        "Site": "https://umlautgames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3379080/6fdc4986e5aba8f63fddf61991724ffbc3e9c73a/header.jpg?t=1776175469",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776176091.4346693,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "3464150": {
+        "Title": "LiarsRecipe",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3464150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3464150/9c4014d935fd32f33640649dc5eaf924a6b923ec/header.jpg?t=1776176025",
+        "Date": "TBA",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776176094.9820008,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4029570": {
+        "Title": "Metropixia",
+        "Email": "contact@casualpixel.net, favreb70@gmail.com",
+        "Discord": "https://discord.gg/A2KYZ3BsKA",
+        "URL": "https://store.steampowered.com/app/4029570/",
+        "Site": "https://www.casualpixel.net/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4029570/39197f11729efc116c42b7ccb35ddb5b09a7f960/header.jpg?t=1776172610",
+        "Date": "TBA",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776176100.237167,
+        "MatchedTags": [
+            "city builder",
+            "strategy",
+            "management",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4536880": {
+        "Title": "\u4ed9\u9014",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4536880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4536880/c8228dc885b6143588a99d4d1eb57bd9276702d2/header.jpg?t=1776168884",
+        "Date": "Apr 14, 2026",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776176162.3718376,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg",
+            "tactical",
+            "real time tactics"
+        ]
+    },
+    "4546430": {
+        "Title": "Primus",
+        "Email": "",
+        "Discord": "https://discord.com/invite/XDE3xhNm28",
+        "URL": "https://store.steampowered.com/app/4546430/",
+        "Site": "https://stoneandsteelgames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4546430/64d27b426a2bdd4a7bf482b3d24f969e8cda3f62/header.jpg?t=1776173023",
+        "Date": "TBA",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776176165.0097237,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "tactical rpg",
+            "tactical",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4572730": {
+        "Title": "Box Office Mayhem: Theatre Tycoon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4572730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4572730/00c07be67dec325a67aa4118dc4de3b27404be5e/header.jpg?t=1776175098",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776176188.1014235,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4608330": {
+        "Title": "Medieval Shepherd",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4608330/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4608330/8496ea1caf5215eabd1f3d66cad1d7aadbf474f2/header.jpg?t=1776176015",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776176230.5753582,
+        "MatchedTags": [
+            "management",
+            "economy"
+        ]
+    },
+    "4616170": {
+        "Title": "DO NOT FILE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4616170/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4616170/0dc0d8510195820ec01b0a60f4c01a13206c6934/header.jpg?t=1776175546",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776176235.5538461,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
