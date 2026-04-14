@@ -12766,9 +12766,10 @@
         "AddedDate": "2026-03-24",
         "AddedTimestamp": 1774322161.1292062,
         "MatchedTags": [
+            "survival horror",
             "horror",
             "psychological horror",
-            "survival horror"
+            "resource management"
         ]
     },
     "4532140": {
@@ -30341,6 +30342,66 @@
         "MatchedTags": [
             "strategy",
             "resource management"
+        ]
+    },
+    "4397060": {
+        "Title": "Sitting Ducks",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4397060/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4397060/113ec2b380f10fadb9511a6a0402e01d459b2ea5/header.jpg?t=1776153455",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776153984.5350254,
+        "MatchedTags": [
+            "strategy",
+            "base building",
+            "tactical"
+        ]
+    },
+    "4457020": {
+        "Title": "Verse of the Hollow Oath",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4457020/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4457020/064edee8cb3497279d10694e1faeaa5bbc9da93d/header.jpg?t=1776151339",
+        "Date": "Apr 30, 2026",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776153995.8912163,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4478390": {
+        "Title": "DeadOcean",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4478390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4478390/9bb2dcc1bd14c35012400325d0f3024949d49092/header.jpg?t=1776152661",
+        "Date": "TBA",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776154001.9033558,
+        "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "4579890": {
+        "Title": "Disease",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4579890/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4579890/05a8e30002bf069e7557f61ea6f9047c57c34a00/header.jpg?t=1776147227",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776154023.5679407,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
         ]
     }
 }
