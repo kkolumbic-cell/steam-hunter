@@ -805,9 +805,9 @@
         "URL": "https://store.steampowered.com/app/4485520/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4485520/06c2e70b52bbaa917060907da1531b615cb1cd37/header.jpg?t=1772658227",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-03-06",
-        "AddedTimestamp": 1772803849.0573118,
+        "Date": "Apr 30, 2026",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776200965.4324226,
         "MatchedTags": [
             "strategy",
             "tactical",
@@ -18652,9 +18652,9 @@
         "URL": "https://store.steampowered.com/app/4528410/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528410/f7b85b589e71fa29ede31f19b9103b6dfc1796e4/header.jpg?t=1774916406",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-31",
-        "AddedTimestamp": 1774927942.5126789,
+        "Date": "Apr 14, 2026",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776200974.5075433,
         "MatchedTags": [
             "strategy"
         ]
@@ -19927,9 +19927,9 @@
         "URL": "https://store.steampowered.com/app/4572110/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4572110/9f6c83f6cdf9182d64156df0048dba106ae922e7/header.jpg?t=1775028168",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-01",
-        "AddedTimestamp": 1775030175.2689445,
+        "Date": "June 2026",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776200984.3198354,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -31142,6 +31142,84 @@
             "turn-based strategy",
             "turn-based combat",
             "strategy"
+        ]
+    },
+    "4245400": {
+        "Title": "Bubble Cadence",
+        "Email": "",
+        "Discord": "https://discord.gg/jUZnFeAjse",
+        "URL": "https://store.steampowered.com/app/4245400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4245400/6c48dce40d18d9f012481d829cddc565e24c9c20/header.jpg?t=1776198235",
+        "Date": "2026",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776200953.9638739,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4508970": {
+        "Title": "Tartarus - Dice & Blades",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4508970/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4508970/726a1dde0ecc14477dd413d8446231c59db4cf15/header.jpg?t=1776196704",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776200968.2159784,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4582580": {
+        "Title": "Melovar's Tale",
+        "Email": "niaduz@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4582580/",
+        "Site": "https://www.melovarstale.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4582580/50f69db2ca161adacd7c73e7312add5a20dde2c0/header.jpg?t=1776199431",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776200992.5524201,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4601520": {
+        "Title": "THWRT",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4601520/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4601520/3d09bbb04aa6fe72a4ca2f2c8f22101014cc4997/header.jpg?t=1776199572",
+        "Date": "May 7, 2026",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776201011.6017895,
+        "MatchedTags": [
+            "turn-based strategy"
+        ]
+    },
+    "4620130": {
+        "Title": "Mechanocide: Fortress Omega",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4620130/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4620130/c6541a18258ebd073e9e4a9fbbbe4f0cf74544e7/header.jpg?t=1776196017",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776201041.3140705,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "base building",
+            "resource management",
+            "management"
         ]
     }
 }
