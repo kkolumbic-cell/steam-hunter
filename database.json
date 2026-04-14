@@ -9982,9 +9982,9 @@
         "URL": "https://store.steampowered.com/app/4516770/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516770/714254fa61eded26c6da512a4e20c38b0777cc75/header.jpg?t=1773839700",
-        "Date": "Q2 2028",
-        "AddedDate": "2026-03-18",
-        "AddedTimestamp": 1773842193.6194344,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776207962.722494,
         "MatchedTags": [
             "psychological horror",
             "survival horror",
@@ -15357,7 +15357,7 @@
     },
     "2684730": {
         "Title": "Dangidice",
-        "Email": "",
+        "Email": "support@dangidice.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/2684730/",
         "Site": "https://dangidice.com",
@@ -25811,7 +25811,7 @@
     "4590790": {
         "Title": "Defense of Kyrath",
         "Email": "info@frostywren.com",
-        "Discord": "",
+        "Discord": "https://discord.gg/bm4sUAxTJ7",
         "URL": "https://store.steampowered.com/app/4590790/",
         "Site": "https://frostywren.com/kyrath/defense/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4590790/41c375969fdb5a052d68e00dfc236b2eac6551e3/header.jpg?t=1775707689",
@@ -31220,6 +31220,50 @@
             "base building",
             "resource management",
             "management"
+        ]
+    },
+    "4364220": {
+        "Title": "This is not Chess, It's War!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4364220/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4364220/d7a9625fae4643401389251b5718b3c20e3b26b0/header.jpg?t=1776207457",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776207958.087847,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4520400": {
+        "Title": "Periapsis: Gravity Slingshot",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4520400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4520400/812685733fb831bd39b9f59cddd31cbdd3e532cb/header.jpg?t=1776204852",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776207968.7452955,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4554950": {
+        "Title": "Pipfiend: The Demonic Domino Deckbuilder",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4554950/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4554950/9ad49e0d2e677d3322de71122bd8e879c389edb3/header.jpg?t=1776207176",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776207976.342923,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
         ]
     }
 }
