@@ -2127,7 +2127,7 @@
     "4304560": {
         "Title": "The Undermall",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.com/invite/h7ccws2eNW",
         "URL": "https://store.steampowered.com/app/4304560/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4304560/b74d18a79b0f8e05bd489c2d02e9b302d3fbd357/header.jpg?t=1772752401",
@@ -11460,9 +11460,9 @@
         "URL": "https://store.steampowered.com/app/4518320/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4518320/e761f65dd07d9fbdb9c1b4247225189e52825431/header.jpg?t=1774001166",
-        "Date": "2026",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775582250.2380433,
+        "Date": "Apr 30, 2026",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776166303.3004305,
         "MatchedTags": [
             "management",
             "economy",
@@ -19957,9 +19957,9 @@
         "URL": "https://store.steampowered.com/app/4557900/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4557900/c1b0c4f8b375ff4f9a3b4326e91199f8cf2ebc9d/header.jpg?t=1775033736",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-03",
-        "AddedTimestamp": 1775187014.1416996,
+        "Date": "Apr 16, 2026",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776166313.97354,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -30434,6 +30434,49 @@
             "horror",
             "survival horror",
             "psychological horror"
+        ]
+    },
+    "4542800": {
+        "Title": "Kill The Nova",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4542800/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4542800/8376224a3d23950fc2439c53fe0ff48af914f949/header.jpg?t=1776164434",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776166310.9665203,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4561710": {
+        "Title": "Lights Out Vr",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4561710/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4561710/f0c9b58477407bd960ef927bb93beb7ae17e8668/header.jpg?t=1776163950",
+        "Date": "May 2026",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776166315.9174953,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4579640": {
+        "Title": "Whispers from the Dark: Grandma's Helper",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4579640/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4579640/f31c3384f15eabcd0c32e963f5fb23178473acb9/header.jpg?t=1776161194",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-14",
+        "AddedTimestamp": 1776166323.307757,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
         ]
     }
 }
