@@ -5895,9 +5895,9 @@
         "URL": "https://store.steampowered.com/app/4018270/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4018270/1a15c029c131702263696a1c9fbba45092789770/header.jpg?t=1773254734",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-11",
-        "AddedTimestamp": 1773256300.8371727,
+        "Date": "2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776261999.0134997,
         "MatchedTags": [
             "turn-based combat",
             "turn-based tactics",
@@ -28800,7 +28800,7 @@
     "4580790": {
         "Title": "Mine Mage Minion",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/cn2fdbqrtc",
         "URL": "https://store.steampowered.com/app/4580790/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4580790/54d90048c722e5149b9ba30312c4ec81d1fbb830/header.jpg?t=1775908346",
@@ -29638,7 +29638,7 @@
     "4101150": {
         "Title": "Hold the Core",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/hCjdGEF4ay",
         "URL": "https://store.steampowered.com/app/4101150/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4101150/85bfe20a89bde4f56ab3d1bf95d868522d86126b/header.jpg?t=1776097607",
@@ -30572,10 +30572,10 @@
         "AddedDate": "2026-04-14",
         "AddedTimestamp": 1776176188.1014235,
         "MatchedTags": [
-            "management",
             "economy",
             "strategy",
-            "turn-based strategy"
+            "turn-based strategy",
+            "management"
         ]
     },
     "4608330": {
@@ -30679,9 +30679,9 @@
         "URL": "https://store.steampowered.com/app/4547810/",
         "Site": "https://junclitch.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4547810/850bc7fd274d75b3fb0fb04c981f0610f5778481/header.jpg?t=1776178366",
-        "Date": "Sep 30, 2026",
-        "AddedDate": "2026-04-14",
-        "AddedTimestamp": 1776181508.55312,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776262063.578577,
         "MatchedTags": [
             "turn-based tactics",
             "tactical rpg"
@@ -31269,9 +31269,9 @@
         "URL": "https://store.steampowered.com/app/4614040/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4614040/ccb9c43316c6db15bec0f7ed1d51f89fe4fc50de/header.jpg?t=1776209059",
-        "Date": "Q2 2026",
+        "Date": "Coming soon",
         "AddedDate": "2026-04-15",
-        "AddedTimestamp": 1776211309.9723268,
+        "AddedTimestamp": 1776262132.0228746,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -31590,6 +31590,161 @@
             "strategy",
             "tactical",
             "resource management"
+        ]
+    },
+    "3426310": {
+        "Title": "Jailbreak",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3426310/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3426310/001282fc0f5b899e1e0d37dcc911c4a4325d92c4/header.jpg?t=1776254532",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776261980.8947988,
+        "MatchedTags": [
+            "colony sim"
+        ]
+    },
+    "3842490": {
+        "Title": "BREACH: Zero Hour",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3842490/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3842490/3f62b9d8135a5506c5ff0044a3b6bc181cb3284d/header.jpg?t=1776254705",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776261989.329868,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "3925350": {
+        "Title": "Pattern Ring",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3925350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3925350/ee92fc6bd1a255db558a2e9f1ecfbb0e7d569a62/header.jpg?t=1776259412",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776261991.931011,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4218360": {
+        "Title": "Wall World Strategy",
+        "Email": "hr@alawar.com, publishing@alawar.com, pr@alawar.com, bizdev@alawar.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4218360/",
+        "Site": "https://alawar.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4218360/807078c9498c9dd0b4dc151774ad83df8c72db28/header.jpg?t=1776261766",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776262011.7252727,
+        "MatchedTags": [
+            "colony sim",
+            "tower defense",
+            "resource management",
+            "base building",
+            "management",
+            "strategy",
+            "city builder",
+            "economy",
+            "tactical"
+        ]
+    },
+    "4490870": {
+        "Title": "Jewels of Rome: Match-3 Game and City Builder",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4490870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4490870/edfc3800e4500fba28277dd3cb8ae03e5b40f79d/header.jpg?t=1776257609",
+        "Date": "May 14, 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776262027.4705677,
+        "MatchedTags": [
+            "city builder"
+        ]
+    },
+    "4502550": {
+        "Title": "Kingdom of Krawall",
+        "Email": "",
+        "Discord": "https://discord.gg/6TXm7tVeTS",
+        "URL": "https://store.steampowered.com/app/4502550/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4502550/4c128570f075cbc1d514950fb137743b6bdff44c/header.jpg?t=1776259100",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776262029.598565,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4539530": {
+        "Title": "Snap the Cat",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4539530/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4539530/40522794464da691b00912da900f7e0150f6595e/header.jpg?t=1776252249",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776262051.2159154,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4599460": {
+        "Title": "Pacremental",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4599460/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4599460/8923bbdd01ac46322a1997b655f80b46c4d449dc/header.jpg?t=1776255355",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776262111.6002007,
+        "MatchedTags": [
+            "tower defense"
+        ]
+    },
+    "4614010": {
+        "Title": "The Gamble Maze",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4614010/",
+        "Site": "https://www.theinnovativepotential.com/videogames",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4614010/7f1bc30a157d603cb34ac71c7a73c1226cb5f843/header.jpg?t=1776256307",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776262127.3266015,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4620990": {
+        "Title": "Digital Civilization: Evolution",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4620990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4620990/5522539f7d2a4a3f4f8343f172ec1c8c541e537c/header.jpg?t=1776256421",
+        "Date": "2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776262139.727595,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "city builder",
+            "management",
+            "economy"
         ]
     }
 }
