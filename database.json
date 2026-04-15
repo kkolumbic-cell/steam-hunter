@@ -8417,12 +8417,10 @@
         "AddedDate": "2026-03-16",
         "AddedTimestamp": 1773689421.1280508,
         "MatchedTags": [
-            "strategy",
-            "turn-based tactics",
-            "city builder",
             "turn-based strategy",
-            "turn-based combat",
-            "tactical"
+            "turn-based tactics",
+            "strategy",
+            "turn-based combat"
         ]
     },
     "4394090": {
@@ -16677,9 +16675,9 @@
         "URL": "https://store.steampowered.com/app/4556820/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4556820/2d6b73cc65345e5b3259a76736341c26420098d5/header.jpg?t=1774645185",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-27",
-        "AddedTimestamp": 1774648346.055034,
+        "Date": "Apr 15, 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776267631.2838159,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -17316,9 +17314,9 @@
         "URL": "https://store.steampowered.com/app/4387610/",
         "Site": "https://flatfrog.games",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4387610/a6c16d3356d96256c61067cec7863bbd8ba35f48/header.jpg?t=1774702908",
-        "Date": "Jun 30, 2026",
-        "AddedDate": "2026-03-28",
-        "AddedTimestamp": 1774704003.1436803,
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776267579.467747,
         "MatchedTags": [
             "strategy",
             "tower defense"
@@ -18115,9 +18113,9 @@
         "URL": "https://store.steampowered.com/app/4462380/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4462380/88ece4b8a9600b901b9e31486e391d9caa664e14/header.jpg?t=1774893031",
-        "Date": "April 2026",
-        "AddedDate": "2026-03-30",
-        "AddedTimestamp": 1774894172.966974,
+        "Date": "Apr 15, 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776267592.5918078,
         "MatchedTags": [
             "base building"
         ]
@@ -28012,9 +28010,9 @@
         "URL": "https://store.steampowered.com/app/4581040/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4581040/76bddb9a9209b29aa88f817340881fe34bd5c8bc/header.jpg?t=1775842929",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-10",
-        "AddedTimestamp": 1775844168.2634556,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776267635.5519059,
         "MatchedTags": [
             "strategy",
             "survival horror"
@@ -30009,9 +30007,9 @@
         "URL": "https://store.steampowered.com/app/4228450/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4228450/df6ae3bfe9bb6126c8b6cd726746bd8eb967f57b/header.jpg?t=1776109742",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-13",
-        "AddedTimestamp": 1776114589.1614761,
+        "Date": "August 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776267571.0467734,
         "MatchedTags": [
             "management",
             "strategy",
@@ -31745,6 +31743,179 @@
             "city builder",
             "management",
             "economy"
+        ]
+    },
+    "3853410": {
+        "Title": "LazyLegions",
+        "Email": "",
+        "Discord": "https://discord.gg/qm7p72ur",
+        "URL": "https://store.steampowered.com/app/3853410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3853410/02f1df2e9cbb777365e198d10161419ff6f253eb/header.jpg?t=1776263377",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776267562.557272,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "3908470": {
+        "Title": "AEVUM",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3908470/",
+        "Site": "https://www.aevumgame.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3908470/75fee71f57c2b326c12aae2ab467ce94d53d96ac/header.jpg?t=1776265098",
+        "Date": "TBA",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776267564.829238,
+        "MatchedTags": [
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4223630": {
+        "Title": "KingForge",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4223630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4223630/572b9f337029a7de7298299d2668db9a1e508ba5/header.jpg?t=1776265695",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776267568.1597962,
+        "MatchedTags": [
+            "colony sim",
+            "strategy",
+            "resource management",
+            "base building",
+            "economy",
+            "management",
+            "city builder"
+        ]
+    },
+    "4457290": {
+        "Title": "Noire Police Detective: Gangster Drama Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4457290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4457290/f323d82ba8a2cf8d654d9633f3dd806836d8f216/header.jpg?t=1776265527",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776267588.0236723,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4487060": {
+        "Title": "Northgard Battlegrounds",
+        "Email": "",
+        "Discord": "https://discord.gg/northgard",
+        "URL": "https://store.steampowered.com/app/4487060/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4487060/faa637652716f11477109c9c0be3b6cc12faf2cc/header.jpg?t=1776263392",
+        "Date": "2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776267594.9946165,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "base building",
+            "tactical",
+            "resource management",
+            "turn-based combat",
+            "turn-based tactics"
+        ]
+    },
+    "4514850": {
+        "Title": "Wrathmaze",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4514850/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4514850/83302c03e8ceaae5da02737c2a5b897274c77381/header.jpg?t=1776265251",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776267600.773672,
+        "MatchedTags": [
+            "tower defense",
+            "strategy"
+        ]
+    },
+    "4547860": {
+        "Title": "Escape from EloHell",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4547860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4547860/0547be18903d2f10d4dc611e4f994e0b2dd58417/header.jpg?t=1776263168",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776267620.3810377,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4549740": {
+        "Title": "hunted in the darkness.",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4549740/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4549740/975606134f3e6bde5bd4d323781ef975b73a37f0/header.jpg?t=1776264755",
+        "Date": "Apr 16, 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776267622.1646996,
+        "MatchedTags": [
+            "strategy",
+            "survival horror"
+        ]
+    },
+    "4604940": {
+        "Title": "The Dark Realms of Chrysalis",
+        "Email": "",
+        "Discord": "https://discord.gg/UB26GgtJ5b",
+        "URL": "https://store.steampowered.com/app/4604940/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4604940/e946eab3753a019792c78d7cc302bdb245a0f9b4/header.jpg?t=1776266449",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776267645.9350097,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4617230": {
+        "Title": "Retail Rivals",
+        "Email": "contact@dream-studios.net",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4617230/",
+        "Site": "https://dream-studios.net/games/RetailRivals",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4617230/d30c10f51f3b0207eeb91583a6634c6e35c2bc68/header.jpg?t=1776266918",
+        "Date": "2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776267650.4462807,
+        "MatchedTags": [
+            "resource management",
+            "economy",
+            "management",
+            "base building"
+        ]
+    },
+    "4623280": {
+        "Title": "Bonfire Buddies",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4623280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4623280/b09f35af4c94d0e1cb536fb7701bd54f039d80a1/header.jpg?t=1776265605",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776267653.9878862,
+        "MatchedTags": [
+            "resource management"
         ]
     }
 }
