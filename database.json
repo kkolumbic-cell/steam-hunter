@@ -24816,9 +24816,9 @@
         "URL": "https://store.steampowered.com/app/4517570/",
         "Site": "https://www.notacatstudios.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4517570/540ee455e74a356f35775e3b7a8371e43296fcb6/header.jpg?t=1775644228",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-08",
-        "AddedTimestamp": 1775647025.0762968,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776251922.5736368,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -31572,6 +31572,24 @@
             "turn-based tactics",
             "strategy",
             "turn-based strategy"
+        ]
+    },
+    "4604380": {
+        "Title": "Game Dev Clicker Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4604380/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4604380/e218bcd20f671daf8bde135ec32f5d56cd2b9901/header.jpg?t=1776250783",
+        "Date": "July 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776251941.0803723,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "strategy",
+            "tactical",
+            "resource management"
         ]
     }
 }
