@@ -18396,15 +18396,14 @@
     "4558690": {
         "Title": "SkyChart: Airline Executive",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/YMaNr4mzc2",
         "URL": "https://store.steampowered.com/app/4558690/",
-        "Site": "",
+        "Site": "https://caseyjoneslabs.com/#skychart",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4558690/1d59c8ac3b0e57479df91b5b3cd8af5794d6d55f/header.jpg?t=1774899619",
         "Date": "Q3 2026",
         "AddedDate": "2026-04-01",
         "AddedTimestamp": 1775077407.3949711,
         "MatchedTags": [
-            "management",
             "grand strategy",
             "economy",
             "strategy",
@@ -26884,10 +26883,7 @@
         "AddedDate": "2026-04-09",
         "AddedTimestamp": 1775771958.1063879,
         "MatchedTags": [
-            "strategy",
-            "tower defense",
-            "management",
-            "resource management"
+            "strategy"
         ]
     },
     "4593520": {
@@ -27738,9 +27734,9 @@
         "URL": "https://store.steampowered.com/app/4271140/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4271140/178943cce872b7274d5cd62ec5b59d97fe20f4d4/header.jpg?t=1775830387",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-10",
-        "AddedTimestamp": 1775833728.55748,
+        "Date": "2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776211273.1997476,
         "MatchedTags": [
             "strategy",
             "tactical rpg",
@@ -29242,9 +29238,9 @@
         "URL": "https://store.steampowered.com/app/4414550/",
         "Site": "https://www.dotkgaming.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4414550/5753cee24f51f15af05294a36708e7e44b058b79/header.jpg?t=1776009131",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-12",
-        "AddedTimestamp": 1776013084.0979307,
+        "Date": "Jun 5, 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776211278.6195602,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -31264,6 +31260,21 @@
         "MatchedTags": [
             "strategy",
             "turn-based combat"
+        ]
+    },
+    "4614040": {
+        "Title": "Last Call",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4614040/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4614040/ccb9c43316c6db15bec0f7ed1d51f89fe4fc50de/header.jpg?t=1776209059",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776211309.9723268,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
