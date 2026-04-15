@@ -5491,9 +5491,9 @@
         "URL": "https://store.steampowered.com/app/4324060/",
         "Site": "https://nussygame.com/hinn/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4324060/0882d3760c07313f9182d90543627545c9f7563d/header.jpg?t=1773211638",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-11",
-        "AddedTimestamp": 1773213162.5152035,
+        "Date": "Apr 28, 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776233530.982712,
         "MatchedTags": [
             "psychological horror",
             "horror",
@@ -30909,7 +30909,7 @@
     "4587710": {
         "Title": "AstroDig",
         "Email": "contact@only4gamers.net",
-        "Discord": "",
+        "Discord": "https://discord.gg/QervBufjnz",
         "URL": "https://store.steampowered.com/app/4587710/",
         "Site": "https://only4gamers.net",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4587710/bf6020ab4a3f3b6635b8e94b002042192290bb87/header.jpg?t=1776181654",
@@ -31409,6 +31409,54 @@
         "AddedDate": "2026-04-15",
         "AddedTimestamp": 1776224695.8314195,
         "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4554390": {
+        "Title": "The Remnants",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4554390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4554390/0220507815fba5e135c3c5c2ad31c584e8b6d5f1/header.jpg?t=1776227260",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776233572.3490036,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4593710": {
+        "Title": "Demon Princess Retreat",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4593710/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4593710/fd5632e92116d222ad1869f511445f0668813e2e/header.jpg?t=1776224923",
+        "Date": "June 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776233588.5729134,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "real time tactics",
+            "base building",
+            "turn-based tactics"
+        ]
+    },
+    "4612150": {
+        "Title": "Checked In",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4612150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4612150/7d6a8a7db6ea6d326a969d3868bf7d8d8b7f3f5f/header.jpg?t=1776225248",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776233604.0662231,
+        "MatchedTags": [
+            "horror",
             "psychological horror"
         ]
     }
