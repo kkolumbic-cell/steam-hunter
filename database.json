@@ -17626,9 +17626,9 @@
         "URL": "https://store.steampowered.com/app/4529520/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4529520/a0dbfe32728b44ba85fe7ec6a77c580388b11a7b/header.jpg?t=1774768484",
-        "Date": "Apr 7, 2026",
-        "AddedDate": "2026-03-29",
-        "AddedTimestamp": 1774768811.7758977,
+        "Date": "Apr 15, 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776240502.926573,
         "MatchedTags": [
             "tactical rpg"
         ]
@@ -20103,9 +20103,9 @@
         "URL": "https://store.steampowered.com/app/4546080/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4546080/c62490e588c02520d7fac028cb2909e12405fb0a/header.jpg?t=1775046823",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-01",
-        "AddedTimestamp": 1775052430.9968204,
+        "Date": "Apr 15, 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776240510.568654,
         "MatchedTags": [
             "horror"
         ]
@@ -20160,9 +20160,9 @@
         "URL": "https://store.steampowered.com/app/4365890/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4365890/5e70467729861a84ff6809281752df22b4bdcd32/header.jpg?t=1775057852",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-08",
-        "AddedTimestamp": 1775663244.6324015,
+        "Date": "Apr 15, 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776240490.3989272,
         "MatchedTags": [
             "strategy",
             "tactical"
@@ -20710,9 +20710,9 @@
         "URL": "https://store.steampowered.com/app/4555750/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555750/fe9503c0f0b7700032d7863df0153358c7dfc186/header.jpg?t=1775087438",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-01",
-        "AddedTimestamp": 1775087504.4595182,
+        "Date": "Apr 15, 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776240513.090576,
         "MatchedTags": [
             "base building",
             "resource management"
@@ -31458,6 +31458,40 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4360900": {
+        "Title": "Rails & Rivals",
+        "Email": "",
+        "Discord": "https://discord.gg/ahXTZaUyZC",
+        "URL": "https://store.steampowered.com/app/4360900/",
+        "Site": "https://railsandrivals.creahive.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4360900/03f348e29a625d9957d4e2782cfe10cc3f5a0d77/header.jpg?t=1776236197",
+        "Date": "July 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776240487.6773548,
+        "MatchedTags": [
+            "turn-based strategy",
+            "economy",
+            "strategy",
+            "management"
+        ]
+    },
+    "4536290": {
+        "Title": "Last Draft",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4536290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4536290/9759b9c86213e08d5d9003f1d1b603f1daf9d97e/header.jpg?t=1776240295",
+        "Date": "October 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776240505.5731022,
+        "MatchedTags": [
+            "psychological horror",
+            "survival horror",
+            "horror",
+            "strategy"
         ]
     }
 }
