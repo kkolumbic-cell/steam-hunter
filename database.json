@@ -285,14 +285,14 @@
         "URL": "https://store.steampowered.com/app/4381330/",
         "Site": "https://7eagle.net",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4381330/7f0dffc94d85354c059a4dfdd3b034cfba8a143d/header.jpg?t=1772623973",
-        "Date": "Apr 23, 2026",
-        "AddedDate": "2026-03-27",
+        "Date": "May 12, 2026",
+        "AddedDate": "2026-04-15",
         "MatchedTags": [
             "strategy",
             "survival horror",
             "horror"
         ],
-        "AddedTimestamp": 1774655238.959036
+        "AddedTimestamp": 1776274371.301662
     },
     "4413170": {
         "Title": "Deadhead: Autorail",
@@ -10102,7 +10102,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4500800/",
-        "Site": "",
+        "Site": "https://www.youtube.com/@HolyCowVideoGames",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4500800/1defeb51631aef0c25f7de40c4f09dac81864d81/header.jpg?t=1773854253",
         "Date": "Coming soon",
         "AddedDate": "2026-03-18",
@@ -23871,7 +23871,7 @@
         "AddedTimestamp": 1775541488.729182,
         "MatchedTags": [
             "psychological horror",
-            "survival horror"
+            "horror"
         ]
     },
     "4582760": {
@@ -25388,9 +25388,9 @@
         "URL": "https://store.steampowered.com/app/4516210/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4516210/8e20c55e0eb02873f7960569e73a054542945a62/header.jpg?t=1775677501",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-04-08",
-        "AddedTimestamp": 1775685703.2821035,
+        "Date": "October 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776274415.547843,
         "MatchedTags": [
             "management",
             "economy",
@@ -26324,9 +26324,9 @@
         "URL": "https://store.steampowered.com/app/4559320/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559320/ff7583a325ceb87eeea4f4302650e396097c3f35/header.jpg?t=1775747450",
-        "Date": "Apr 13, 2026",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775753126.9305577,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776274443.9498878,
         "MatchedTags": [
             "horror"
         ]
@@ -26437,7 +26437,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4587380/",
-        "Site": "",
+        "Site": "https://v0-cyberzonegames.vercel.app/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4587380/855d18a4ff76062a26c4d31b868b5a06621dcbfc/header.jpg?t=1775753064",
         "Date": "May 3, 2026",
         "AddedDate": "2026-04-09",
@@ -31766,9 +31766,9 @@
         "URL": "https://store.steampowered.com/app/3908470/",
         "Site": "https://www.aevumgame.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3908470/75fee71f57c2b326c12aae2ab467ce94d53d96ac/header.jpg?t=1776265098",
-        "Date": "TBA",
+        "Date": "To be announced",
         "AddedDate": "2026-04-15",
-        "AddedTimestamp": 1776267564.829238,
+        "AddedTimestamp": 1776274354.7938106,
         "MatchedTags": [
             "psychological horror",
             "survival horror"
@@ -31916,6 +31916,152 @@
         "AddedTimestamp": 1776267653.9878862,
         "MatchedTags": [
             "resource management"
+        ]
+    },
+    "668750": {
+        "Title": "Cthulhu Paints the Void",
+        "Email": "",
+        "Discord": "https://discord.gg/WhMaCgtn",
+        "URL": "https://store.steampowered.com/app/668750/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668750/ab4c8b2499a34d528171c3436ed160fb58d9ec9f/header.jpg?t=1776269928",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776274343.8231099,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4428800": {
+        "Title": "The Derailed: Devour the Harvest",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4428800/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4428800/94a82531b8ea843a22590bbdf6654aaf2eaf9cb4/header.jpg?t=1776272597",
+        "Date": "2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776274383.5440652,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4527650": {
+        "Title": "Cardmare: Descent",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4527650/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4527650/7e042f33ffebd14c3ab5d461a2dd3771d0d9ce76/header.jpg?t=1776273682",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776274423.0660121,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4584160": {
+        "Title": "Deck of Potential",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4584160/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4584160/4c5717fe1aab5b18c91c7d4dc6a8f8f75fcafd6b/header.jpg?t=1776272211",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776274452.575967,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4595350": {
+        "Title": "\u9694\u79bb\u8fb9\u7f18 Isolation Edge",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4595350/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4595350/30cbad5126680e8e316b1749d3490cd05202454a/header.jpg?t=1776272377",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776274466.4595773,
+        "MatchedTags": [
+            "base building",
+            "tower defense",
+            "management"
+        ]
+    },
+    "4606660": {
+        "Title": "Saturation",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4606660/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606660/8b9483d1d48e081ad9f15123f715f4cc6dbbf9ae/header.jpg?t=1776269605",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776274484.9740186,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4610720": {
+        "Title": "Thunder Tie",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4610720/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610720/f46f68148fba98eee9224144c2c0da66401fa6f1/header.jpg?t=1776273419",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776274493.2467413,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4613900": {
+        "Title": "Nightmare Hospital",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4613900/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613900/6567e76f7f329b7bddeddb4a8ce6c931e400fa5b/header.jpg?t=1776270870",
+        "Date": "July 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776274498.4629374,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4616590": {
+        "Title": "Settled At Sea",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4616590/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4616590/b33e4d97da8d9d7ea521c0964f5b81bd6eaf6f2c/header.jpg?t=1776272489",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776274501.1750576,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4624460": {
+        "Title": "Puzzle ATLAS",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4624460/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4624460/0749e5087dd4f6763673608c0acd73c72eaa9cc7/header.jpg?t=1776271809",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776274513.9582844,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
