@@ -6324,7 +6324,7 @@
     "4451820": {
         "Title": "Swordless",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/SCMn8DSfa",
         "URL": "https://store.steampowered.com/app/4451820/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4451820/04405893fb5a14ffaa4c385366b1eae323f60ca3/header.jpg?t=1773298492",
@@ -14465,9 +14465,9 @@
         "URL": "https://store.steampowered.com/app/4529380/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4529380/eb5ce741fe2f0ba69f4288720024330798315930/header.jpg?t=1774458496",
-        "Date": "TBA",
-        "AddedDate": "2026-03-25",
-        "AddedTimestamp": 1774459177.869075,
+        "Date": "To be announced",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776246739.3862288,
         "MatchedTags": [
             "strategy",
             "colony sim",
@@ -18143,9 +18143,9 @@
         "URL": "https://store.steampowered.com/app/4556450/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4556450/cd229ad94e2ef8e7ed92f794956f538809b19172/header.jpg?t=1774893878",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-30",
-        "AddedTimestamp": 1774894207.7690768,
+        "Date": "Apr 27, 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776246750.535956,
         "MatchedTags": [
             "economy"
         ]
@@ -20838,9 +20838,9 @@
         "URL": "https://store.steampowered.com/app/4536220/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4536220/2e2193494b82c2329ad43dc148cb9a4f0cf2ddc5/header.jpg?t=1775092658",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775100506.826091,
+        "Date": "Apr 15, 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776246745.1532183,
         "MatchedTags": [
             "strategy"
         ]
@@ -24558,9 +24558,9 @@
         "URL": "https://store.steampowered.com/app/4590200/",
         "Site": "https://soergamestudios.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4590200/760d54189dd6394f9bb9491aad527bdf3158031d/header.jpg?t=1775599784",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775602821.8916214,
+        "Date": "Apr 21, 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776246765.4382262,
         "MatchedTags": [
             "horror"
         ]
@@ -31492,6 +31492,86 @@
             "survival horror",
             "horror",
             "strategy"
+        ]
+    },
+    "4337550": {
+        "Title": "Firearms and Fantasy",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4337550/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4337550/2cb2099a8647faf5111d3ebfde0ac6d0345962a2/header.jpg?t=1776241613",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776246719.0241113,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "colony sim"
+        ]
+    },
+    "4539710": {
+        "Title": "Train 404",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4539710/",
+        "Site": "https://themetropolice.com/home",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4539710/91dcaa68b3fb38fcbd35fcaded858c4fa3870aca/header.jpg?t=1776242942",
+        "Date": "October 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776246747.5895872,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4602240": {
+        "Title": "Seek: Light Through Darkness",
+        "Email": "contact@atticboxgames.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4602240/",
+        "Site": "https://atticboxgames.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4602240/205972c8961ac6833c2fc75d61966fc629342d34/header.jpg?t=1776242290",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776246771.1240563,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4606610": {
+        "Title": "Who is AI",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4606610/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606610/d7d056e20bc6130ec237096cbfbc58be5da34439/header.jpg?t=1776246226",
+        "Date": "Jul 31, 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776246775.768863,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4613180": {
+        "Title": "Dog in the Machine",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4613180/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613180/626474b6a8204f00b115038d3e79609f34c1b83f/header.jpg?t=1776246359",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-15",
+        "AddedTimestamp": 1776246785.536107,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "turn-based strategy"
         ]
     }
 }
