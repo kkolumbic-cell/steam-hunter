@@ -4015,9 +4015,9 @@
         "URL": "https://store.steampowered.com/app/4125760/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4125760/fab7adfcdc6f253da33bcde712ec8ff1f66e6938/header.jpg?t=1773024345",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-09",
-        "AddedTimestamp": 1773026168.1593974,
+        "Date": "2026",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776320072.2409537,
         "MatchedTags": [
             "strategy",
             "tactical"
@@ -19956,9 +19956,9 @@
         "URL": "https://store.steampowered.com/app/4557900/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4557900/c1b0c4f8b375ff4f9a3b4326e91199f8cf2ebc9d/header.jpg?t=1775033736",
-        "Date": "Apr 16, 2026",
-        "AddedDate": "2026-04-14",
-        "AddedTimestamp": 1776166313.97354,
+        "Date": "Apr 15, 2026",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776320118.4133759,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -32714,6 +32714,48 @@
             "turn-based strategy",
             "strategy",
             "turn-based tactics"
+        ]
+    },
+    "3980550": {
+        "Title": "Who Am I",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3980550/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3980550/4f663d0e20fcb4bf03d209a9c45edcf9f399b991/header.jpg?t=1776318173",
+        "Date": "July 2026",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776320070.2983704,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4380380": {
+        "Title": "\u0634\u0627\u063a\u0631",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4380380/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4380380/a40cf7dbafc37b5da3f0214597e135912ae07122/header.jpg?t=1776311901",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776320084.3642817,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4398650": {
+        "Title": "Doom ChessMaster",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4398650/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4398650/da9ee18aabe9537a15785a2fe659d698a7e25ccd/header.jpg?t=1776314118",
+        "Date": "2026",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776320087.5928695,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
