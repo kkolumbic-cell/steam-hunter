@@ -24863,8 +24863,8 @@
         "AddedDate": "2026-04-09",
         "AddedTimestamp": 1775705523.7402186,
         "MatchedTags": [
-            "strategy",
             "turn-based tactics",
+            "strategy",
             "resource management",
             "psychological horror"
         ]
@@ -29975,9 +29975,9 @@
         "URL": "https://store.steampowered.com/app/4613610/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4613610/1f48a09a8b3db0f9271cbcc36065179b60234820/header.jpg?t=1776106529",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-13",
-        "AddedTimestamp": 1776109386.7249775,
+        "Date": "Apr 27, 2026",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776339162.025468,
         "MatchedTags": [
             "horror"
         ]
@@ -32926,6 +32926,98 @@
             "management",
             "economy",
             "resource management"
+        ]
+    },
+    "4320820": {
+        "Title": "The Curse 404",
+        "Email": "apps@yashfuturetech.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4320820/",
+        "Site": "https://www.yashfuturetech.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4320820/ffe9308f11ae29efbe3adf788f74c2ddb2664929/header.jpg?t=1776337386",
+        "Date": "April 2026",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776339093.8463445,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4509940": {
+        "Title": "DOCTOR THUNDER 500000 V OVERCHARGED",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4509940/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4509940/63ad77fff5fcda4ca04777003396f9514c97f74f/header.jpg?t=1776338365",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776339108.7031052,
+        "MatchedTags": [
+            "strategy",
+            "psychological horror"
+        ]
+    },
+    "4591300": {
+        "Title": "KINGDOM RULES",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4591300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4591300/fbac76c769fc2a8e80120616a96c1ee449f62766/header.jpg?t=1776335226",
+        "Date": "Apr 30, 2026",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776339138.609128,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "turn-based strategy",
+            "resource management"
+        ]
+    },
+    "4606180": {
+        "Title": "Eclipse Devour",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4606180/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4606180/5f712e8ad94b50aa98239fdcda420ba020de4d8a/header.jpg?t=1776333788",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776339145.5053582,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "turn-based strategy",
+            "real time tactics",
+            "turn-based tactics"
+        ]
+    },
+    "4613110": {
+        "Title": "High Walk",
+        "Email": "",
+        "Discord": "https://discord.com/invite/awn5asbSTW",
+        "URL": "https://store.steampowered.com/app/4613110/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4613110/fd781fafc0d86a592b7f04d01b95b46aa2ec8a04/header.jpg?t=1776337458",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776339160.1149197,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4619730": {
+        "Title": "Doorcrash!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4619730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4619730/5ad2425ad24cecf1bb0c1c058471999618861803/header.jpg?t=1776337848",
+        "Date": "Apr 26, 2026",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776339169.490854,
+        "MatchedTags": [
+            "economy"
         ]
     }
 }
