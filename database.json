@@ -11842,7 +11842,6 @@
         "AddedDate": "2026-03-21",
         "AddedTimestamp": 1774061379.318172,
         "MatchedTags": [
-            "colony sim",
             "strategy",
             "psychological horror"
         ]
@@ -15845,7 +15844,7 @@
     "4290250": {
         "Title": "Phantacall Realm",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/yyhr5t3P",
         "URL": "https://store.steampowered.com/app/4290250/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4290250/e4fdfbd48306af25a35e0e973ea0aeb5189044dd/header.jpg?t=1774567076",
@@ -32377,6 +32376,111 @@
         "MatchedTags": [
             "management",
             "resource management"
+        ]
+    },
+    "4400030": {
+        "Title": "MEGAPAIN",
+        "Email": "darkdeivel@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4400030/",
+        "Site": "https://barsinteractive.ru/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4400030/d814f22e756b57200446860713e17b7ffdc6102d/header.jpg?t=1776296380",
+        "Date": "2026",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776297653.7605367,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4559890": {
+        "Title": "Blockflow",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4559890/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559890/784ba0d037f3e2f6269ddb2f88ac3dc0493d061c/header.jpg?t=1776297514",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776297671.5615618,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4580720": {
+        "Title": "Rising Moonshade",
+        "Email": "",
+        "Discord": "https://discord.gg/39rgXHUn29",
+        "URL": "https://store.steampowered.com/app/4580720/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4580720/77d0af9b1dfeb936f073e0d29ebabb5095c31f34/header.jpg?t=1776295475",
+        "Date": "Jun 23, 2026",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776297676.5962434,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "tactical",
+            "resource management"
+        ]
+    },
+    "4608180": {
+        "Title": "Scoundrel",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4608180/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4608180/5eeea18826c2d40ede66c9b981cc0f75c3129035/header.jpg?t=1776296753",
+        "Date": "April 2026",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776297686.184506,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4612610": {
+        "Title": "Graphictoria",
+        "Email": "",
+        "Discord": "https://discord.gg/8vgRG3sR3h",
+        "URL": "https://store.steampowered.com/app/4612610/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4612610/382b3bd29fdef44cc0e523e5d5a94c2a37b5a765/header.jpg?t=1776295679",
+        "Date": "Apr 30, 2026",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776297690.9986386,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4613750": {
+        "Title": "Demon Breaker",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4613750/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613750/6b5687c897b5f88c12290bb3d452b9c3175444ef/header.jpg?t=1776294890",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776297695.7890315,
+        "MatchedTags": [
+            "strategy",
+            "horror"
+        ]
+    },
+    "4628110": {
+        "Title": "Sellin' Snake Oil",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4628110/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4628110/e5d5dad29c7add1604f27b30604912f85d7fcc38/header.jpg?t=1776297310",
+        "Date": "May 2026",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776297711.8218813,
+        "MatchedTags": [
+            "strategy",
+            "economy"
         ]
     }
 }
