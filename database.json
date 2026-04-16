@@ -1875,9 +1875,9 @@
         "URL": "https://store.steampowered.com/app/4482880/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4482880/01d0ec3328b08ac1a5fc2192e4ea50ef8f911056/header.jpg?t=1772731385",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-03-18",
-        "AddedTimestamp": 1773861574.7653947,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776348997.6649387,
         "MatchedTags": [
             "strategy"
         ]
@@ -4449,9 +4449,9 @@
         "URL": "https://store.steampowered.com/app/4501170/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501170/8b24790890071819738e1abcfa713076e094d972/header.jpg?t=1773074698",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-09",
-        "AddedTimestamp": 1773079384.0914836,
+        "Date": "To be announced",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776349005.086802,
         "MatchedTags": [
             "resource management",
             "colony sim"
@@ -20985,9 +20985,9 @@
         "URL": "https://store.steampowered.com/app/4537970/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4537970/587f7983cdea58e5d497f514408e88ba5ba8c4b1/header.jpg?t=1775109973",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775115777.849727,
+        "Date": "May 2026",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776349030.4985561,
         "MatchedTags": [
             "strategy",
             "grand strategy",
@@ -31633,7 +31633,7 @@
     },
     "4218360": {
         "Title": "Wall World Strategy",
-        "Email": "hr@alawar.com, publishing@alawar.com, pr@alawar.com, bizdev@alawar.com",
+        "Email": "hr@alawar.com, pr@alawar.com, bizdev@alawar.com, publishing@alawar.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4218360/",
         "Site": "https://alawar.com/",
@@ -33018,6 +33018,82 @@
         "AddedTimestamp": 1776339169.490854,
         "MatchedTags": [
             "economy"
+        ]
+    },
+    "4588440": {
+        "Title": "Snow Brawl Arena",
+        "Email": "",
+        "Discord": "https://discord.gg/tbBUPgq6",
+        "URL": "https://store.steampowered.com/app/4588440/",
+        "Site": "https://sites.google.com/actionway.io/snowbrawlarena",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4588440/9d0db05022931e0b9c7bdc3c7d4616b7d052a5cc/header.jpg?t=1776347336",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776349048.2566187,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4612000": {
+        "Title": "Hit Dodge Release",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4612000/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4612000/95df94479137dc8ba1de7410b1adfb8db52e35c3/header.jpg?t=1776348018",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776349073.6143436,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4614580": {
+        "Title": "Cat Watch",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4614580/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4614580/3fd0faa68b7495ef4fdd359c37e20c3f611c88bc/header.jpg?t=1776347907",
+        "Date": "Apr 27, 2026",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776349079.323572,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4617480": {
+        "Title": "Chrome Fist",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4617480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4617480/4a5137570a90504dd2390d6ee21e121aec715932/header.jpg?t=1776343354",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776349088.9318113,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4619290": {
+        "Title": "Fatimopolis",
+        "Email": "",
+        "Discord": "https://discord.gg/NH7GbMhh8W",
+        "URL": "https://store.steampowered.com/app/4619290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4619290/71b82f4cc7e4047c85fe813b7bfa89d446d73a44/header.jpg?t=1776343538",
+        "Date": "2026",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776349091.891794,
+        "MatchedTags": [
+            "management",
+            "survival horror",
+            "psychological horror"
         ]
     }
 }
