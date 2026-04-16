@@ -22009,9 +22009,9 @@
         "URL": "https://store.steampowered.com/app/4572610/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4572610/4d53226fe5ab05021bd89b4c2f7a320f9984564e/header.jpg?t=1775201873",
-        "Date": "TBA",
-        "AddedDate": "2026-04-03",
-        "AddedTimestamp": 1775201996.857121,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776333105.3484263,
         "MatchedTags": [
             "strategy",
             "tactical rpg"
@@ -23128,12 +23128,10 @@
         "AddedDate": "2026-04-06",
         "AddedTimestamp": 1775462645.666836,
         "MatchedTags": [
-            "strategy",
             "turn-based tactics",
             "turn-based strategy",
-            "base building",
-            "turn-based combat",
-            "economy"
+            "strategy",
+            "turn-based combat"
         ]
     },
     "4529930": {
@@ -31835,9 +31833,9 @@
         "URL": "https://store.steampowered.com/app/4514850/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4514850/83302c03e8ceaae5da02737c2a5b897274c77381/header.jpg?t=1776265251",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-15",
-        "AddedTimestamp": 1776267600.773672,
+        "Date": "December 2026",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776333082.160031,
         "MatchedTags": [
             "tower defense",
             "strategy"
@@ -32589,6 +32587,7 @@
         "AddedDate": "2026-04-16",
         "AddedTimestamp": 1776311420.7539628,
         "MatchedTags": [
+            "tactical",
             "tactical rpg"
         ]
     },
@@ -32791,7 +32790,7 @@
     "4599970": {
         "Title": "Deep Space Survivor: Endless Starfield",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/3cB5enUh",
         "URL": "https://store.steampowered.com/app/4599970/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4599970/edb39fc821802d369df6d927c2db2fbc04b3f0fc/header.jpg?t=1776321672",
@@ -32845,6 +32844,88 @@
             "tower defense",
             "real time tactics",
             "economy"
+        ]
+    },
+    "4139440": {
+        "Title": "Botlings",
+        "Email": "",
+        "Discord": "https://discord.gg/R74wpquBZU",
+        "URL": "https://store.steampowered.com/app/4139440/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4139440/8d0701f1d80e4c47ae213c5e8a2ca58827a71649/header.jpg?t=1776327866",
+        "Date": "2026",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776333047.298395,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "base building",
+            "economy",
+            "management"
+        ]
+    },
+    "4277090": {
+        "Title": "Conjoined",
+        "Email": "",
+        "Discord": "https://discord.gg/6HYBgAKZxM",
+        "URL": "https://store.steampowered.com/app/4277090/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4277090/03a3417d355e2d54435569fae412dc843c5612d4/header.jpg?t=1776331616",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776333052.8575394,
+        "MatchedTags": [
+            "management",
+            "resource management",
+            "base building"
+        ]
+    },
+    "4525060": {
+        "Title": "Block By Block Tycoon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4525060/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525060/957924cd07e5dd30ecc6f210568ae5993d00773b/header.jpg?t=1776331619",
+        "Date": "July 2026",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776333084.096946,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "management",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4600400": {
+        "Title": "HELLXORCIST",
+        "Email": "",
+        "Discord": "https://discord.gg/EwvES5JpJJ",
+        "URL": "https://store.steampowered.com/app/4600400/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4600400/6af79a3cfbd36e57b9d2390fa9bd5b6831853af4/header.jpg?t=1776331288",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776333112.8285556,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4623620": {
+        "Title": "Postin Paradise",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4623620/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4623620/c17711509de5a944f5289a7787f81a75c8411c4f/header.jpg?t=1776330662",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776333124.9215016,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "resource management"
         ]
     }
 }
