@@ -12561,9 +12561,9 @@
         "URL": "https://store.steampowered.com/app/4540510/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4540510/ee9faa18d894fc2e89a9227a68509612fdd35237/header.jpg?t=1774288744",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-04",
-        "AddedTimestamp": 1775293212.1439536,
+        "Date": "Apr 10, 2026",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776373518.4505258,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -31008,9 +31008,9 @@
         "URL": "https://store.steampowered.com/app/4524950/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4524950/7d9f2ee7163c94d30200d1d0032167f352ae5055/header.jpg?t=1776195482",
-        "Date": "July 2026",
-        "AddedDate": "2026-04-15",
-        "AddedTimestamp": 1776282319.466971,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776373506.4384162,
         "MatchedTags": [
             "strategy",
             "tactical rpg",
@@ -33585,6 +33585,87 @@
             "turn-based combat",
             "tactical",
             "resource management"
+        ]
+    },
+    "4061960": {
+        "Title": "Coastal Raids: The Viking Campaign",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4061960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4061960/33118a4ed5ccc8326f9552938d683e56be77aafd/header.jpg?t=1776373248",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776373489.7926915,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "turn-based tactics",
+            "tactical",
+            "turn-based combat"
+        ]
+    },
+    "4571110": {
+        "Title": "Through the Shatter",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4571110/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4571110/20b3009fd51725d5e54800ebf2610b17900d5ee9/header.jpg?t=1776370731",
+        "Date": "TBA",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776373523.341672,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "tactical"
+        ]
+    },
+    "4596660": {
+        "Title": "QuilomboZ: Palmares",
+        "Email": "",
+        "Discord": "https://discord.gg/J4njTmVY6b",
+        "URL": "https://store.steampowered.com/app/4596660/",
+        "Site": "https://www.instagram.com/play.quilomboz/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4596660/378b7f6ac7a5d0c6e33f538fb06e11195b2b029b/header.jpg?t=1776372158",
+        "Date": "November 2026",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776373531.5883555,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tactical"
+        ]
+    },
+    "4622430": {
+        "Title": "Annexation",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4622430/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4622430/ad058db32467035d4cc99680919f08c1c76d085d/header.jpg?t=1776370755",
+        "Date": "2027",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776373544.7443511,
+        "MatchedTags": [
+            "strategy",
+            "base building",
+            "resource management"
+        ]
+    },
+    "4631120": {
+        "Title": "Dead Hand",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4631120/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4631120/23b47d5c5d5919c93cbe1f32923c30f8ac2ab724/header.jpg?t=1776372310",
+        "Date": "October 2026",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776373549.2848482,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
         ]
     }
 }
