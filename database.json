@@ -33682,5 +33682,34 @@
             "strategy",
             "management"
         ]
+    },
+    "4251380": {
+        "Title": "WildBorn",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4251380/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4251380/6db0274ad1b5ddfbb24d408d6327410ead921241/header.jpg?t=1776379820",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776380657.811059,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4570020": {
+        "Title": "FOURSAKEN",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4570020/",
+        "Site": "https://rottengenerationstudios.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4570020/9eb7fcfb8f41d9a6fc69be891426d79af5bb37f0/header.jpg?t=1776378502",
+        "Date": "May 29, 2026",
+        "AddedDate": "2026-04-16",
+        "AddedTimestamp": 1776380675.032276,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
     }
 }
