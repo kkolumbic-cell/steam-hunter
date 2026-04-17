@@ -14184,9 +14184,9 @@
     "4428330": {
         "Title": "GreenMars: Expedition 744",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/GHZ5vpevJm",
         "URL": "https://store.steampowered.com/app/4428330/",
-        "Site": "",
+        "Site": "https://www.744interactive.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4428330/b6dc41e781e088c2e1c76cd2161f7d94faa4eff2/header.jpg?t=1774439739",
         "Date": "To be announced",
         "AddedDate": "2026-03-25",
@@ -14951,7 +14951,7 @@
     "4542210": {
         "Title": "War Room",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/Pa3CJT9y7F",
         "URL": "https://store.steampowered.com/app/4542210/",
         "Site": "https://www.youtube.com/@LadoBdaHistoria",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542210/b1b7ab677dff171fdcd4cb579258551972a641e2/header.jpg?t=1774495989",
@@ -19357,9 +19357,9 @@
         "URL": "https://store.steampowered.com/app/4566950/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4566950/2020e6f8d209d475287bab94acee076dce2ceb40/header.jpg?t=1774990115",
-        "Date": "Apr 17, 2026",
-        "AddedDate": "2026-03-31",
-        "AddedTimestamp": 1774990751.1069849,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776439146.0487397,
         "MatchedTags": [
             "survival horror",
             "horror"
@@ -34242,6 +34242,72 @@
             "strategy",
             "turn-based tactics",
             "turn-based combat"
+        ]
+    },
+    "4560010": {
+        "Title": "Ants Times Infinity",
+        "Email": "",
+        "Discord": "https://discord.com/invite/dyHnugt",
+        "URL": "https://store.steampowered.com/app/4560010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4560010/a254b5d9ca1163dbf4ffe117a63e3dd6797b1c77/header.jpg?t=1776437977",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776439136.741955,
+        "MatchedTags": [
+            "strategy",
+            "colony sim",
+            "management",
+            "tactical",
+            "base building",
+            "resource management",
+            "economy"
+        ]
+    },
+    "4601560": {
+        "Title": "Ember",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4601560/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4601560/b05de0ed8f695f4e521958ad0c95c33ec063c787/header.jpg?t=1776438458",
+        "Date": "May 8, 2026",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776439166.7517493,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4621230": {
+        "Title": "\u95ee\u9f0e\u4ed9\u53f0\uff08Ascend to Immortal Throne\uff09",
+        "Email": "",
+        "Discord": "https://discord.gg/JPuXeXDA",
+        "URL": "https://store.steampowered.com/app/4621230/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4621230/cd3dba45280b312d82037a6eeae4378fbac1006d/header.jpg?t=1776436000",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776439183.9186833,
+        "MatchedTags": [
+            "strategy",
+            "horror"
+        ]
+    },
+    "4626950": {
+        "Title": "Grow/Tend/Reap",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4626950/",
+        "Site": "https://growtendreap.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4626950/667effa8097dd2dbd62db42e0f3528ac6475aead/header.jpg?t=1776438770",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776439186.6163876,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "management",
+            "resource management"
         ]
     }
 }
