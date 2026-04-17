@@ -13269,9 +13269,9 @@
         "URL": "https://store.steampowered.com/app/4407950/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4407950/8948c1593829499d1774d830c99dcb09d8f157cb/header.jpg?t=1774369404",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-24",
-        "AddedTimestamp": 1774372555.3921943,
+        "Date": "May 7, 2026",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776445737.734884,
         "MatchedTags": [
             "horror"
         ]
@@ -19357,9 +19357,9 @@
         "URL": "https://store.steampowered.com/app/4566950/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4566950/2020e6f8d209d475287bab94acee076dce2ceb40/header.jpg?t=1774990115",
-        "Date": "Coming soon",
+        "Date": "Apr 17, 2026",
         "AddedDate": "2026-04-17",
-        "AddedTimestamp": 1776439146.0487397,
+        "AddedTimestamp": 1776445781.225239,
         "MatchedTags": [
             "survival horror",
             "horror"
@@ -31268,9 +31268,7 @@
         "AddedTimestamp": 1776224616.9219716,
         "MatchedTags": [
             "strategy",
-            "tactical",
-            "turn-based tactics",
-            "resource management"
+            "tactical"
         ]
     },
     "4520380": {
@@ -33027,9 +33025,9 @@
         "URL": "https://store.steampowered.com/app/4614580/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4614580/3fd0faa68b7495ef4fdd359c37e20c3f611c88bc/header.jpg?t=1776347907",
-        "Date": "Apr 27, 2026",
-        "AddedDate": "2026-04-16",
-        "AddedTimestamp": 1776349079.323572,
+        "Date": "May 1, 2026",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776445809.7156527,
         "MatchedTags": [
             "tactical"
         ]
@@ -33127,7 +33125,7 @@
     "4372150": {
         "Title": "Thieves Guild Master",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/JzdPgnDEnr",
         "URL": "https://store.steampowered.com/app/4372150/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4372150/defb24d5588abc19532f1f1f752686a5f6fac47e/header.jpg?t=1776350079",
@@ -34296,7 +34294,7 @@
     "4626950": {
         "Title": "Grow/Tend/Reap",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/5bGJWvAvgu",
         "URL": "https://store.steampowered.com/app/4626950/",
         "Site": "https://growtendreap.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4626950/667effa8097dd2dbd62db42e0f3528ac6475aead/header.jpg?t=1776438770",
@@ -34308,6 +34306,133 @@
             "turn-based combat",
             "management",
             "resource management"
+        ]
+    },
+    "1368140": {
+        "Title": "Corsair Cove",
+        "Email": "",
+        "Discord": "https://discord.com/invite/tz5jxS4yt9",
+        "URL": "https://store.steampowered.com/app/1368140/",
+        "Site": "https://www.limbic-entertainment.de",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368140/cafda7c6ff9641cc9ede1823317b835a2b3f38ab/header.jpg?t=1776445589",
+        "Date": "2026",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776445706.159213,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "colony sim",
+            "turn-based strategy",
+            "economy",
+            "management",
+            "tactical",
+            "base building"
+        ]
+    },
+    "4245340": {
+        "Title": "Dominocalypse",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4245340/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245340/907f489971fe0d0d5c4a8d1eb12115fc3267576e/header.jpg?t=1776443760",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776445720.0521843,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4394540": {
+        "Title": "Become A Monarch",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4394540/",
+        "Site": "https://becomeamonarch.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4394540/f5227d1973156a28c9c6239ad68683f1b0d98548/header.jpg?t=1776444638",
+        "Date": "Jul 20, 2026",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776445730.9905374,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy"
+        ]
+    },
+    "4461770": {
+        "Title": "Bag Fight",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4461770/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4461770/441288ec687978a16e139346bbb91ccaee96d341/header.jpg?t=1776439634",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776445742.6637533,
+        "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "4484900": {
+        "Title": "Crazy Test",
+        "Email": "",
+        "Discord": "https://discord.gg/z72U5RnuUM",
+        "URL": "https://store.steampowered.com/app/4484900/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484900/fdec708a4258e7aa8cc49b89fcf364e57aa93dc4/header.jpg?t=1776441879",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776445751.5606298,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4541820": {
+        "Title": "Aditore",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4541820/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541820/d41305d70a6387f377253055cc9cac1e196697b7/header.jpg?t=1776442499",
+        "Date": "TBA",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776445770.8361819,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "tactical rpg",
+            "resource management",
+            "turn-based combat",
+            "turn-based strategy"
+        ]
+    },
+    "4599450": {
+        "Title": "\u8f6e\u56de\u767b\u4ed9\u5f55",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4599450/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4599450/fe638d3dcaac162e473b34a321b8449d21f11ec9/header.jpg?t=1776445427",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776445797.3870964,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4617310": {
+        "Title": "Fractured: Snowpine Strangers",
+        "Email": "",
+        "Discord": "https://discord.gg/TPMKTkN4bA",
+        "URL": "https://store.steampowered.com/app/4617310/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4617310/ff1ead667ae74ebab876926286f0a608fe89c66b/header.jpg?t=1776444354",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776445812.1347723,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
         ]
     }
 }
