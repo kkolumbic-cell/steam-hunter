@@ -13119,7 +13119,7 @@
     },
     "2680770": {
         "Title": "Formind",
-        "Email": "hr@next-genium.com, pr@next-genium.com, info@next-genium.com",
+        "Email": "hr@next-genium.com, info@next-genium.com, pr@next-genium.com",
         "Discord": "https://discord.gg/UhTb5md2",
         "URL": "https://store.steampowered.com/app/2680770/",
         "Site": "https://next-genium.com/en/",
@@ -13864,9 +13864,9 @@
         "URL": "https://store.steampowered.com/app/4549030/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4549030/e7b9972b5df553a6e2fe45ccd4875fedf1eb3b72/header.jpg?t=1774400628",
-        "Date": "Apr 10, 2026",
-        "AddedDate": "2026-03-25",
-        "AddedTimestamp": 1774408905.930133,
+        "Date": "Apr 17, 2026",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776459944.5479405,
         "MatchedTags": [
             "horror"
         ]
@@ -19507,9 +19507,9 @@
         "URL": "https://store.steampowered.com/app/4541000/",
         "Site": "https://www.fifthbattery.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541000/f3fd44549c0534b4925b085b12e1b9a14da3c2f0/header.jpg?t=1775000030",
-        "Date": "Apr 20, 2026",
-        "AddedDate": "2026-04-05",
-        "AddedTimestamp": 1775360408.5940711,
+        "Date": "Apr 17, 2026",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776459938.0470524,
         "MatchedTags": [
             "strategy",
             "tactical"
@@ -34481,6 +34481,116 @@
             "strategy",
             "turn-based tactics",
             "turn-based combat"
+        ]
+    },
+    "4551500": {
+        "Title": "Frame by Frame",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4551500/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4551500/4dec8698b00e164889f2281386681ef550c3600e/header.jpg?t=1776456083",
+        "Date": "2026",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776459946.7819886,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4570300": {
+        "Title": "Reality Stability Office",
+        "Email": "",
+        "Discord": "https://discord.gg/grK3DMgSxq",
+        "URL": "https://store.steampowered.com/app/4570300/",
+        "Site": "https://nyreldesign.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4570300/69718a9321faad7cda89c3739e257b7a363f35ab/header.jpg?t=1776455431",
+        "Date": "April 2026",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776459949.2965548,
+        "MatchedTags": [
+            "horror",
+            "strategy",
+            "psychological horror"
+        ]
+    },
+    "4597530": {
+        "Title": "Evolve: Dead City",
+        "Email": "",
+        "Discord": "https://discord.gg/47vhsGjRZU",
+        "URL": "https://store.steampowered.com/app/4597530/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4597530/5e083ddee88a0243a91b6ae09e1aa91c4e0d342d/header.jpg?t=1776458084",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776459959.380506,
+        "MatchedTags": [
+            "city builder"
+        ]
+    },
+    "4610960": {
+        "Title": "EcoMoguls",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4610960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4610960/037b16daaa3b519af3c5436e3acbc08d2be2fbcd/header.jpg?t=1776456972",
+        "Date": "Apr 27, 2026",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776459978.437225,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "economy"
+        ]
+    },
+    "4617610": {
+        "Title": "Storm Clan",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4617610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4617610/c71bd96a9b7efe7bf961af35c304ca074c328c5a/header.jpg?t=1776454636",
+        "Date": "Jun 24, 2026",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776459981.1168175,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4634140": {
+        "Title": "Centurion's Gambit",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4634140/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4634140/b28d8ac933dd509214a569449dfb13f9a14d011d/header.jpg?t=1776455299",
+        "Date": "May 2026",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776459983.34722,
+        "MatchedTags": [
+            "tactical rpg",
+            "turn-based tactics",
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat",
+            "tactical"
+        ]
+    },
+    "4636260": {
+        "Title": "Caravanserai Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4636260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4636260/817b85672e246605be2b61df418ecd25d1da1a8e/header.jpg?t=1776458562",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776459985.527358,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "resource management",
+            "base building"
         ]
     }
 }
