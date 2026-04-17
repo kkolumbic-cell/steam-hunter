@@ -21447,7 +21447,7 @@
     "4560660": {
         "Title": "Eslabong",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/pMVaUKFJ",
         "URL": "https://store.steampowered.com/app/4560660/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4560660/5688a138cabe17b209eb93fec9cb8206ac52cf44/header.jpg?t=1775152036",
@@ -23924,9 +23924,9 @@
         "URL": "https://store.steampowered.com/app/4403390/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4403390/575973cbca292cf64922739b428fe64d1130ad29/header.jpg?t=1775551701",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775554531.547467,
+        "Date": "2026",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776413260.7805374,
         "MatchedTags": [
             "horror"
         ]
@@ -25930,9 +25930,9 @@
         "URL": "https://store.steampowered.com/app/4598940/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4598940/d79f382c3582859b445e978d89b400d96a4ab619/header.jpg?t=1775733191",
-        "Date": "Jun 30, 2026",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775733542.452469,
+        "Date": "June 2026",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776413320.586089,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -30177,9 +30177,9 @@
         "URL": "https://store.steampowered.com/app/4542750/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4542750/5556726d44a300d9f1b9b3492a6c3985da2c449a/header.jpg?t=1776132206",
-        "Date": "Jun 1, 2026",
-        "AddedDate": "2026-04-14",
-        "AddedTimestamp": 1776138316.0202484,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776413285.9621773,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -30256,9 +30256,9 @@
         "URL": "https://store.steampowered.com/app/4586760/",
         "Site": "https://www.standardissuegames.com/spheretd",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4586760/5b150b199eea78d0bf82f5f76a5d507a7ad45458/header.jpg?t=1776144297",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-14",
-        "AddedTimestamp": 1776147180.1062324,
+        "Date": "To be announced",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776413311.6058366,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -34004,6 +34004,20 @@
             "real time tactics",
             "base building",
             "resource management"
+        ]
+    },
+    "4614050": {
+        "Title": "Up There is Quiet",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4614050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4614050/2bc79c78d78d66817175e7f6fc1e6139b2334758/header.jpg?t=1776407621",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776413334.1632488,
+        "MatchedTags": [
+            "psychological horror"
         ]
     }
 }
