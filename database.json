@@ -22655,9 +22655,9 @@
         "URL": "https://store.steampowered.com/app/4552360/",
         "Site": "https://sinpros.com/galactic-conflict",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4552360/e4abb4da7e198026c84e9d9974d411295bd7469e/header.jpg?t=1775273176",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-05",
-        "AddedTimestamp": 1775418620.77013,
+        "Date": "Apr 17, 2026",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776470259.5274935,
         "MatchedTags": [
             "strategy",
             "real time tactics",
@@ -34623,6 +34623,35 @@
         "AddedTimestamp": 1776467039.9080708,
         "MatchedTags": [
             "base building"
+        ]
+    },
+    "4598120": {
+        "Title": "The Syndicate: Classified Operations",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4598120/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4598120/43830a9435e9bdb803c24948e5e158f01bc97123/header.jpg?t=1776469226",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776470269.0583026,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4636580": {
+        "Title": "Patched Conic",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4636580/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4636580/981891501168f9a1f4a6f0bc7b7945bd17f8040a/header.jpg?t=1776469133",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776470278.2143624,
+        "MatchedTags": [
+            "resource management"
         ]
     }
 }
