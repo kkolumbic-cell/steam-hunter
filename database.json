@@ -22067,7 +22067,7 @@
     "3960380": {
         "Title": "Decksroom",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/8vfz7e3CRT",
         "URL": "https://store.steampowered.com/app/3960380/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960380/64b82d5b9af9477e811ab74bb761d4be231ecdfc/header.jpg?t=1775209395",
@@ -25386,9 +25386,9 @@
         "URL": "https://store.steampowered.com/app/4595120/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4595120/b298cc75e0f968413167edaa78492a945928d0b7/header.jpg?t=1775678139",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-08",
-        "AddedTimestamp": 1775682274.4127774,
+        "Date": "May 4, 2026",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776467036.6977994,
         "MatchedTags": [
             "management",
             "resource management"
@@ -34609,6 +34609,20 @@
             "economy",
             "management",
             "turn-based tactics"
+        ]
+    },
+    "4597300": {
+        "Title": "Operation P.L.U.S.H",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4597300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4597300/7035e7d3108209dec2e6aa865ec36d496b489009/header.jpg?t=1776463383",
+        "Date": "April 2026",
+        "AddedDate": "2026-04-17",
+        "AddedTimestamp": 1776467039.9080708,
+        "MatchedTags": [
+            "base building"
         ]
     }
 }
