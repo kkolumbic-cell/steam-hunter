@@ -9542,7 +9542,7 @@
     "4405090": {
         "Title": "Flocked and Loaded",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/uTfjNHVX",
         "URL": "https://store.steampowered.com/app/4405090/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4405090/79287ba501ba29eb4994fb6b426691928c5a7cd5/header.jpg?t=1773788273",
@@ -13965,7 +13965,7 @@
     "4547250": {
         "Title": "ANIMA : Dark Fairy Tale for Adults",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/nevCDAqZda",
         "URL": "https://store.steampowered.com/app/4547250/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4547250/7971779943bfc266161a30c05e51a2ce41d9a824/header.jpg?t=1774415379",
@@ -21435,9 +21435,9 @@
         "URL": "https://store.steampowered.com/app/4560660/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4560660/5688a138cabe17b209eb93fec9cb8206ac52cf44/header.jpg?t=1775152036",
-        "Date": "2026",
-        "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775153050.641837,
+        "Date": "July 2026",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776483150.9244022,
         "MatchedTags": [
             "strategy",
             "management"
@@ -27296,12 +27296,17 @@
         "URL": "https://store.steampowered.com/app/4603470/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4603470/cc9b6c7a3a67f8ea37fc1d4677d2e0d0e5a3c2a9/header.jpg?t=1775792632",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-10",
-        "AddedTimestamp": 1775801530.2903552,
+        "Date": "September 2026",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776483175.8132498,
         "MatchedTags": [
             "strategy",
-            "psychological horror"
+            "psychological horror",
+            "horror",
+            "resource management",
+            "management",
+            "economy",
+            "survival horror"
         ]
     },
     "4341480": {
@@ -28347,8 +28352,8 @@
         "AddedDate": "2026-04-10",
         "AddedTimestamp": 1775865181.2716389,
         "MatchedTags": [
-            "horror",
-            "survival horror"
+            "survival horror",
+            "horror"
         ]
     },
     "4389810": {
@@ -34652,6 +34657,64 @@
         "AddedTimestamp": 1776470278.2143624,
         "MatchedTags": [
             "resource management"
+        ]
+    },
+    "4536280": {
+        "Title": "Dual Core Sync",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4536280/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4536280/debd80e767426d3f6fd199a54188f742a3f5e1fc/header.jpg?t=1776481459",
+        "Date": "Jun 24, 2026",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776483134.7130013,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4555220": {
+        "Title": "\u30b5\u30c1\u30b3\u306e\u4e03\u4e0d\u601d\u8b70",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4555220/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555220/3ea4bb8840f6d07c17d80be3eb10713a23c5c3fd/header.jpg?t=1776472764",
+        "Date": "May 2026",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776483148.415949,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4607240": {
+        "Title": "Warfront: Three Kingdoms",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4607240/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4607240/4573920a0ed21e860494fe0fa8ccd89c3f1225d6/header.jpg?t=1776477564",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776483181.7602804,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4636010": {
+        "Title": "Zereoton Hauntings 2",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4636010/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4636010/3959d7984e67ea589edb2dd06f7e91b2dedf6734/header.jpg?t=1776476786",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776483216.3546464,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
         ]
     }
 }
