@@ -32397,7 +32397,7 @@
         "Email": "",
         "Discord": "https://discord.gg/8vgRG3sR3h",
         "URL": "https://store.steampowered.com/app/4612610/",
-        "Site": "",
+        "Site": "https://polytoria.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4612610/382b3bd29fdef44cc0e523e5d5a94c2a37b5a765/header.jpg?t=1776295679",
         "Date": "Apr 30, 2026",
         "AddedDate": "2026-04-16",
@@ -34402,9 +34402,9 @@
         "URL": "https://store.steampowered.com/app/4599450/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4599450/fe638d3dcaac162e473b34a321b8449d21f11ec9/header.jpg?t=1776445427",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-17",
-        "AddedTimestamp": 1776445797.3870964,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776534886.7436042,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -35185,6 +35185,26 @@
         "AddedTimestamp": 1776531608.2083142,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4606620": {
+        "Title": "National Transit",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4606620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4606620/525c598f98b98fce4d5b9c260b48c67f63b52030/header.jpg?t=1776532537",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776534889.3042717,
+        "MatchedTags": [
+            "city builder",
+            "real time tactics",
+            "economy",
+            "management",
+            "resource management",
+            "strategy",
+            "grand strategy"
         ]
     }
 }
