@@ -22811,9 +22811,9 @@
         "URL": "https://store.steampowered.com/app/4575680/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4575680/8450e0183b87fd116a2f920e5ce4ef9f901a4bba/header.jpg?t=1775333329",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-04",
-        "AddedTimestamp": 1775335863.5686123,
+        "Date": "Apr 18, 2026",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776510189.6333542,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -35003,6 +35003,23 @@
             "turn-based combat",
             "turn-based strategy",
             "tactical rpg"
+        ]
+    },
+    "4506090": {
+        "Title": "ROGUELIKE CARD GAME:BUSINESS EMPIRE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4506090/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4506090/63ada430c73f9214c461b1e2621402a970a1c394/header.jpg?t=1776510012",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776510186.3897119,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "economy"
         ]
     }
 }
