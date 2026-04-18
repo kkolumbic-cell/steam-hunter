@@ -16666,10 +16666,10 @@
     },
     "4489310": {
         "Title": "Governance",
-        "Email": "",
+        "Email": "education@playgovernance.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4489310/",
-        "Site": "",
+        "Site": "https://playgovernance.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4489310/3145a52e2eb5a8598330397e9af719079c4955af/header.jpg?t=1774649470",
         "Date": "April 2026",
         "AddedDate": "2026-03-27",
@@ -22055,9 +22055,9 @@
         "URL": "https://store.steampowered.com/app/3960380/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960380/64b82d5b9af9477e811ab74bb761d4be231ecdfc/header.jpg?t=1775209395",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-03",
-        "AddedTimestamp": 1775210721.1523364,
+        "Date": "July 2026",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776524420.7825024,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -34607,9 +34607,9 @@
         "URL": "https://store.steampowered.com/app/4597300/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4597300/7035e7d3108209dec2e6aa865ec36d496b489009/header.jpg?t=1776463383",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-17",
-        "AddedTimestamp": 1776467039.9080708,
+        "Date": "May 2026",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776524461.868553,
         "MatchedTags": [
             "base building"
         ]
@@ -35052,6 +35052,20 @@
         "AddedTimestamp": 1776519460.9114728,
         "MatchedTags": [
             "psychological horror"
+        ]
+    },
+    "4624130": {
+        "Title": "Scourge of Eldryngard",
+        "Email": "contact@eldryngard.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4624130/",
+        "Site": "https://eldryngard.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4624130/87dd665f87d2a7ccfe51e537bbf37879974869e7/header.jpg?t=1776520921",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776524475.4884536,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
