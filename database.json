@@ -35237,5 +35237,53 @@
             "horror",
             "tactical"
         ]
+    },
+    "4594480": {
+        "Title": "Cataclysm Escape",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4594480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4594480/d175998a52bef2118d08830d7327df0b57da8160/header.jpg?t=1776541181",
+        "Date": "2026",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776542095.5136108,
+        "MatchedTags": [
+            "tactical rpg",
+            "real time tactics",
+            "psychological horror",
+            "horror",
+            "strategy"
+        ]
+    },
+    "4619160": {
+        "Title": "Dungeons of Delveria",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4619160/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4619160/0a48736330f5c4199ea2f3d7f016b76dbb45d74f/header.jpg?t=1776541670",
+        "Date": "Dec 31, 2027",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776542106.2441542,
+        "MatchedTags": [
+            "turn-based tactics",
+            "turn-based combat",
+            "tactical"
+        ]
+    },
+    "4628310": {
+        "Title": "Epic Idle Quest II",
+        "Email": "",
+        "Discord": "https://discord.gg/eQC68Rv",
+        "URL": "https://store.steampowered.com/app/4628310/",
+        "Site": "https://epicidlequest2.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4628310/381c50e563c1357e5a6b710cc12fada2bf24f056/header.jpg?t=1776541310",
+        "Date": "May 31, 2026",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776542109.356636,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
     }
 }
