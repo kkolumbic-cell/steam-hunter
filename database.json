@@ -16827,9 +16827,9 @@
         "URL": "https://store.steampowered.com/app/4384040/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4384040/2689a9e71d46c7b4fbe31aa9ce688729a7659929/header.jpg?t=1774657524",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-03-28",
-        "AddedTimestamp": 1774667868.5840063,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776491500.4463484,
         "MatchedTags": [
             "resource management"
         ]
@@ -25277,15 +25277,15 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4587690/",
-        "Site": "",
+        "Site": "https://alltheleavesarebrown.itch.io/scrapcrewdemo",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4587690/e85b351efe1f1a4a55d550c3e2de8da0b0a945d5/header.jpg?t=1775670928",
         "Date": "To be announced",
         "AddedDate": "2026-04-08",
         "AddedTimestamp": 1775677366.0183532,
         "MatchedTags": [
             "turn-based tactics",
-            "strategy",
-            "turn-based strategy"
+            "turn-based strategy",
+            "strategy"
         ]
     },
     "4596210": {
@@ -34715,6 +34715,114 @@
         "MatchedTags": [
             "horror",
             "survival horror"
+        ]
+    },
+    "4331050": {
+        "Title": "Totally Normal Ramen",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4331050/",
+        "Site": "https://themetropolice.com/home",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4331050/b947f6128f2ecadd855a826af3cf50c62ac810a8/header.jpg?t=1776484795",
+        "Date": "October 2026",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776491490.9748204,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4362400": {
+        "Title": "SnakeMod",
+        "Email": "",
+        "Discord": "https://discord.gg/VEyuKxQ6YB",
+        "URL": "https://store.steampowered.com/app/4362400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4362400/651c2f655a780d4824a479c708fc0a99deda1f31/header.jpg?t=1776484862",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776491497.1792245,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4598760": {
+        "Title": "BLOCK13",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4598760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4598760/ec68fd98a56ab898e915476ee3e58e86f31e6dbd/header.jpg?t=1776485781",
+        "Date": "2026",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776491536.5220938,
+        "MatchedTags": [
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4603550": {
+        "Title": "W.A.M",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4603550/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4603550/99669de13dc721289902f2a5871aabdbf1dfd33e/header.jpg?t=1776485145",
+        "Date": "October 2026",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776491539.1688206,
+        "MatchedTags": [
+            "real time tactics",
+            "tower defense",
+            "strategy",
+            "resource management",
+            "survival horror"
+        ]
+    },
+    "4609260": {
+        "Title": "Card Pack Dungeon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4609260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4609260/4ddffad8afd9a566716d856706564c9f9783c131/header.jpg?t=1776491358",
+        "Date": "TBA",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776491542.2051823,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4614860": {
+        "Title": "Keep On Hashing!: Idle Mining Sim",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4614860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4614860/69f7a58c1ea648a691a9f942b77e4bb91a9ae751/header.jpg?t=1776489365",
+        "Date": "Apr 30, 2026",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776491547.7265432,
+        "MatchedTags": [
+            "resource management",
+            "economy",
+            "strategy"
+        ]
+    },
+    "4625170": {
+        "Title": "Dice N Grids",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4625170/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4625170/74952ccff532f3ce62a584166e5598398c864488/header.jpg?t=1776486645",
+        "Date": "April 2026",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776491558.1798804,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "tactical"
         ]
     }
 }
