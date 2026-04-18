@@ -1094,22 +1094,6 @@
             "turn-based combat"
         ]
     },
-    "4459720": {
-        "Title": "Cyber Demon Protocol",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4459720/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4459720/290279d4e8ad07756a30b9dca466307102777160/header.jpg?t=1772693868",
-        "Date": "Q1 2027",
-        "AddedDate": "2026-03-08",
-        "AddedTimestamp": 1772977896.3941035,
-        "MatchedTags": [
-            "economy",
-            "strategy",
-            "resource management"
-        ]
-    },
     "4468350": {
         "Title": "Voxelnova",
         "Email": "",
@@ -34823,6 +34807,67 @@
             "strategy",
             "turn-based tactics",
             "tactical"
+        ]
+    },
+    "4614430": {
+        "Title": "Power Up!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4614430/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4614430/c8de46714ef6a00da3559929bb26f01246d22b16/header.jpg?t=1776496068",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776497808.149454,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy"
+        ]
+    },
+    "4624150": {
+        "Title": "Rotten Angel",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4624150/",
+        "Site": "https://red-dxllhouse.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4624150/b914f364fa0558c5e3c11caef633b3a7bb4db72e/header.jpg?t=1776497647",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776497810.5581024,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "4624560": {
+        "Title": "Chest Buster",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4624560/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4624560/c651b3a87de63dd25027a6f3d5a2bc230ab72afb/header.jpg?t=1776492889",
+        "Date": "2026",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776497813.7323222,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4625860": {
+        "Title": "Sneak Kicks: Underground Shop Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4625860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4625860/18cfafbff49361e7ad11200b81aa612458130e54/header.jpg?t=1776494264",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776497815.7330582,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "resource management"
         ]
     }
 }
