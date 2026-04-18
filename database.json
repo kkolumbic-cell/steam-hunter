@@ -12801,9 +12801,9 @@
     "4542270": {
         "Title": "Void Fate",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/c6jUdGvaBk",
         "URL": "https://store.steampowered.com/app/4542270/",
-        "Site": "",
+        "Site": "https://paradise-nisemono.carrd.co/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4542270/f1838c6c145440f942ff4ff58c94edcc7c1ac712/header.jpg?t=1774318677",
         "Date": "To be announced",
         "AddedDate": "2026-03-27",
@@ -18677,9 +18677,9 @@
         "URL": "https://store.steampowered.com/app/4304340/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4304340/befd85fde9f1425d3cfafcb81c34388826d17f8c/header.jpg?t=1774936223",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-31",
-        "AddedTimestamp": 1774943135.1842854,
+        "Date": "Apr 18, 2026",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776503184.132948,
         "MatchedTags": [
             "horror"
         ]
@@ -33435,11 +33435,11 @@
         "AddedDate": "2026-04-16",
         "AddedTimestamp": 1776363641.4004865,
         "MatchedTags": [
-            "strategy",
             "turn-based tactics",
+            "strategy",
             "management",
-            "resource management",
-            "tactical"
+            "tactical",
+            "resource management"
         ]
     },
     "2744160": {
@@ -34650,9 +34650,9 @@
         "URL": "https://store.steampowered.com/app/4536280/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4536280/debd80e767426d3f6fd199a54188f742a3f5e1fc/header.jpg?t=1776481459",
-        "Date": "Jun 24, 2026",
+        "Date": "June 2026",
         "AddedDate": "2026-04-18",
-        "AddedTimestamp": 1776483134.7130013,
+        "AddedTimestamp": 1776503198.798893,
         "MatchedTags": [
             "strategy"
         ]
@@ -34868,6 +34868,79 @@
             "economy",
             "management",
             "resource management"
+        ]
+    },
+    "4578060": {
+        "Title": "\u5de1\u602a\u8b66\u5099 -The Cursed Security-",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4578060/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4578060/5c45cf6e9e7bffa65603a9b5d1320799b4653b7e/header.jpg?t=1776500066",
+        "Date": "2026",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776503215.7837327,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4593860": {
+        "Title": "Defenders of Ten Roads Crossing Tower",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4593860/",
+        "Site": "https://hetocode.fi",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4593860/9b0ed4ead0f386c62ad4fd00e27c074e23d8ca9d/header.jpg?t=1776500830",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776503218.358035,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "4595870": {
+        "Title": "Stack the Spells",
+        "Email": "",
+        "Discord": "https://discord.gg/6pAxCnUrDx",
+        "URL": "https://store.steampowered.com/app/4595870/",
+        "Site": "https://bidi.bid/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4595870/a7b3df38ba4af70b65b68c4b2898bc77512cd962/header.jpg?t=1776502821",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776503222.2441866,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4605200": {
+        "Title": "Hero of the Kingdom IV",
+        "Email": "team@lonelytroops.com, support@lonelytroops.com, press@lonelytroops.com, business@lonelytroops.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4605200/",
+        "Site": "https://www.lonelytroops.com/hotk4/index.htm",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4605200/3939da48fd185bbdf243bf17df7176c76434fe8c/header.jpg?t=1776501880",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776503225.1572094,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4626560": {
+        "Title": "Vienkiemis",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4626560/",
+        "Site": "https://vienkiemis.online/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4626560/db8aebb5b5a5b37ab6ca8a607d8560284cb22c99/header.jpg?t=1776501597",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-18",
+        "AddedTimestamp": 1776503231.1613555,
+        "MatchedTags": [
+            "horror",
+            "base building"
         ]
     }
 }
