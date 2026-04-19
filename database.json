@@ -6130,9 +6130,9 @@
         "URL": "https://store.steampowered.com/app/4463050/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4463050/0d8c5f9d67932251465dac466732812b5fb225c7/header.jpg?t=1773281068",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-12",
-        "AddedTimestamp": 1773285178.1605844,
+        "Date": "May 12, 2026",
+        "AddedDate": "2026-04-19",
+        "AddedTimestamp": 1776570682.5075653,
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
@@ -25836,9 +25836,9 @@
         "URL": "https://store.steampowered.com/app/4600020/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4600020/48002e5557fc498665b5a3987ad531194fbeef30/header.jpg?t=1775724715",
-        "Date": "June 2026",
-        "AddedDate": "2026-04-17",
-        "AddedTimestamp": 1776434462.825623,
+        "Date": "July 2026",
+        "AddedDate": "2026-04-19",
+        "AddedTimestamp": 1776570731.4105482,
         "MatchedTags": [
             "management",
             "horror",
@@ -32163,7 +32163,7 @@
     "4489450": {
         "Title": "Voxelion",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/sZWTcZgd",
         "URL": "https://store.steampowered.com/app/4489450/",
         "Site": "https://voxelion.info/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4489450/e54a52fecd331b23bdad161619a75dce4187179d/header.jpg?t=1776286435",
@@ -34310,12 +34310,12 @@
         "MatchedTags": [
             "strategy",
             "city builder",
-            "colony sim",
-            "turn-based strategy",
-            "economy",
+            "base building",
+            "grand strategy",
             "management",
-            "tactical",
-            "base building"
+            "colony sim",
+            "economy",
+            "resource management"
         ]
     },
     "4245340": {
@@ -35298,6 +35298,49 @@
         "AddedTimestamp": 1776549095.5115373,
         "MatchedTags": [
             "psychological horror"
+        ]
+    },
+    "3700300": {
+        "Title": "StarFear",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3700300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3700300/41e378068120d55c6700f31c38e09e2b362deaac/header.jpg?t=1776566137",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-19",
+        "AddedTimestamp": 1776570664.7892463,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4502890": {
+        "Title": "CheatCheat",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4502890/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4502890/791da7f883280ffff34e2e8f328cc9a69dd73c71/header.jpg?t=1776560613",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-19",
+        "AddedTimestamp": 1776570702.1956298,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4561750": {
+        "Title": "Novagene",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4561750/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4561750/5481a35b8b334bd9e84bacf16b026c3baf6502d6/header.jpg?t=1776569514",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-19",
+        "AddedTimestamp": 1776570721.66645,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
