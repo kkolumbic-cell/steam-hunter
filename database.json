@@ -21952,9 +21952,9 @@
         "URL": "https://store.steampowered.com/app/4558500/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4558500/44623e20cb96ba078007a3c542e58c35defff7ae/header.jpg?t=1775201315",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-03",
-        "AddedTimestamp": 1775201983.1239953,
+        "Date": "Apr 24, 2026",
+        "AddedDate": "2026-04-19",
+        "AddedTimestamp": 1776635573.6486495,
         "MatchedTags": [
             "strategy"
         ]
@@ -35585,7 +35585,7 @@
     "4613720": {
         "Title": "Temperhall 1402",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/YJ32KWm3",
         "URL": "https://store.steampowered.com/app/4613720/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4613720/9956ab3b31aa61b7b2d0c295322373e0c10d7dbf/header.jpg?t=1776627491",
@@ -35594,6 +35594,23 @@
         "AddedTimestamp": 1776628558.970619,
         "MatchedTags": [
             "resource management"
+        ]
+    },
+    "4606860": {
+        "Title": "Zombies Attack My Burger Joint",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4606860/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606860/8bc55235ec461a8bcc7e5382287c7f9c221d1d5f/header.jpg?t=1776634833",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-19",
+        "AddedTimestamp": 1776635577.6542246,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "resource management",
+            "turn-based tactics"
         ]
     }
 }
