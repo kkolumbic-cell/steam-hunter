@@ -1859,9 +1859,9 @@
         "URL": "https://store.steampowered.com/app/4482880/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4482880/01d0ec3328b08ac1a5fc2192e4ea50ef8f911056/header.jpg?t=1772731385",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-16",
-        "AddedTimestamp": 1776348997.6649387,
+        "Date": "May 2027",
+        "AddedDate": "2026-04-19",
+        "AddedTimestamp": 1776605770.8887646,
         "MatchedTags": [
             "strategy"
         ]
@@ -21345,9 +21345,9 @@
         "URL": "https://store.steampowered.com/app/4569900/",
         "Site": "https://immersionforms.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4569900/270c64903efe7dfffdf718dbc1a1bd825ce071b7/header.jpg?t=1775143490",
-        "Date": "Apr 30, 2026",
-        "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775149964.5812416,
+        "Date": "Apr 19, 2026",
+        "AddedDate": "2026-04-19",
+        "AddedTimestamp": 1776605788.7745767,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -35469,6 +35469,36 @@
         "MatchedTags": [
             "psychological horror",
             "horror"
+        ]
+    },
+    "4585250": {
+        "Title": "Cascade",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4585250/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4585250/90ab445b784fe10aeff4f095c11fffbdb6da7b7c/header.jpg?t=1776601392",
+        "Date": "September 2026",
+        "AddedDate": "2026-04-19",
+        "AddedTimestamp": 1776605803.413055,
+        "MatchedTags": [
+            "tactical",
+            "real time tactics"
+        ]
+    },
+    "4599170": {
+        "Title": "Regicide",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4599170/",
+        "Site": "https://regicide.eo.page/signup",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4599170/78d21b90d6230869736afeaa8163796e69d762af/header.jpg?t=1776604643",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-19",
+        "AddedTimestamp": 1776605807.8551495,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
         ]
     }
 }
