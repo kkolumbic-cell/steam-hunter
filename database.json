@@ -14043,7 +14043,7 @@
         "Email": "",
         "Discord": "https://discord.gg/2CmtvmF2HQ",
         "URL": "https://store.steampowered.com/app/4538170/",
-        "Site": "",
+        "Site": "https://agggron.itch.io/yet-another-reality-show",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4538170/1d58b0eabf68b41009112f1ffeea04dcee431b32/header.jpg?t=1774426380",
         "Date": "To be announced",
         "AddedDate": "2026-03-25",
@@ -33677,9 +33677,9 @@
         "URL": "https://store.steampowered.com/app/4570020/",
         "Site": "https://rottengenerationstudios.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4570020/9eb7fcfb8f41d9a6fc69be891426d79af5bb37f0/header.jpg?t=1776378502",
-        "Date": "May 29, 2026",
-        "AddedDate": "2026-04-16",
-        "AddedTimestamp": 1776380675.032276,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-19",
+        "AddedTimestamp": 1776621294.9802482,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -35533,6 +35533,24 @@
         "MatchedTags": [
             "psychological horror",
             "horror"
+        ]
+    },
+    "4559340": {
+        "Title": "By the King's Command",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4559340/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4559340/f9293af999e9c70f9bcc3d512a8d1d7c3ade9071/header.jpg?t=1776620417",
+        "Date": "2026",
+        "AddedDate": "2026-04-19",
+        "AddedTimestamp": 1776621289.2109585,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "city builder",
+            "base building",
+            "real time tactics"
         ]
     }
 }
