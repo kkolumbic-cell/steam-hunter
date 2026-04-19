@@ -8129,9 +8129,9 @@
         "URL": "https://store.steampowered.com/app/3919690/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3919690/4a3e4b1cd084b1a95a6a0a5b490f916b4155e27e/header.jpg?t=1773664364",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775121399.9524286,
+        "Date": "Apr 18, 2026",
+        "AddedDate": "2026-04-19",
+        "AddedTimestamp": 1776578959.8183331,
         "MatchedTags": [
             "management",
             "economy"
@@ -34693,9 +34693,9 @@
         "URL": "https://store.steampowered.com/app/4636010/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4636010/3959d7984e67ea589edb2dd06f7e91b2dedf6734/header.jpg?t=1776476786",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-18",
-        "AddedTimestamp": 1776483216.3546464,
+        "Date": "May 1, 2026",
+        "AddedDate": "2026-04-19",
+        "AddedTimestamp": 1776579013.4292042,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -35341,6 +35341,37 @@
         "AddedTimestamp": 1776570721.66645,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4406280": {
+        "Title": "the cabin game",
+        "Email": "",
+        "Discord": "https://discord.gg/n54VXN5AaJ",
+        "URL": "https://store.steampowered.com/app/4406280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4406280/801f9250834d117dd1ac58d8a3e1da522438480a/header.jpg?t=1776576103",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-19",
+        "AddedTimestamp": 1776578973.1992118,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4628760": {
+        "Title": "Standard Human Pizza",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4628760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4628760/d8cd2a557e8e602db06e3cb57d55d89e3476c0c7/header.jpg?t=1776578905",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-19",
+        "AddedTimestamp": 1776579008.8616626,
+        "MatchedTags": [
+            "horror",
+            "resource management",
+            "management"
         ]
     }
 }
