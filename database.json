@@ -30964,9 +30964,9 @@
         "URL": "https://store.steampowered.com/app/4084160/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4084160/dddf6f89c43e9e21e61e99cdea3d361964be39e0/header.jpg?t=1776189607",
-        "Date": "May 15, 2026",
-        "AddedDate": "2026-04-14",
-        "AddedTimestamp": 1776195767.3825326,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776718985.842782,
         "MatchedTags": [
             "grand strategy",
             "real time tactics",
@@ -35886,7 +35886,7 @@
     },
     "4625850": {
         "Title": "Unknown Horizons",
-        "Email": "",
+        "Email": "admin@ellitopia.com",
         "Discord": "https://discord.gg/RW9xPuP8",
         "URL": "https://store.steampowered.com/app/4625850/",
         "Site": "https://ellitopia.com",
@@ -36218,6 +36218,84 @@
         "AddedTimestamp": 1776713849.3048117,
         "MatchedTags": [
             "real time tactics",
+            "tactical"
+        ]
+    },
+    "3019020": {
+        "Title": "Pest Control",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3019020/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3019020/85b92c208a3a4cd869a6a6e227ed6c9db42efd2a/header.jpg?t=1776718750",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776718977.3289323,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "3778070": {
+        "Title": "The Back of Existence",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3778070/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3778070/313678df83b7384fc03c4f1cc60d7f50706c0d99/header.jpg?t=1776718808",
+        "Date": "2026",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776718980.6142187,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4309190": {
+        "Title": "So I Mine",
+        "Email": "",
+        "Discord": "https://discord.gg/wsSn5k5Mt8",
+        "URL": "https://store.steampowered.com/app/4309190/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4309190/13ce8ad895db896a7cacb4793f3d47f60f0924cd/header.jpg?t=1776716275",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776718991.353383,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4467430": {
+        "Title": "Ashes of Torment",
+        "Email": "entertainmentfrostfire@gmail.com",
+        "Discord": "https://discord.gg/AgmRgF6ywJ",
+        "URL": "https://store.steampowered.com/app/4467430/",
+        "Site": "https://entertainmentfrost.wixsite.com/ashesoftorment",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4467430/c78ef37d6b98cace7f52418359305dff57bf1b3e/header.jpg?t=1776717700",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776718997.9052439,
+        "MatchedTags": [
+            "psychological horror",
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4474070": {
+        "Title": "Stella Nova",
+        "Email": "",
+        "Discord": "https://discord.gg/ZXk554ZH",
+        "URL": "https://store.steampowered.com/app/4474070/",
+        "Site": "https://davesgames.io/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4474070/0cebe398c1e54ebc064454ba6caf5fd493187c3a/header.jpg?t=1776714602",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776719002.5828001,
+        "MatchedTags": [
+            "strategy",
+            "colony sim",
+            "city builder",
+            "base building",
             "tactical"
         ]
     }
