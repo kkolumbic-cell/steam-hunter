@@ -36133,7 +36133,7 @@
     "4610080": {
         "Title": "Bering Tonnage",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/sTJV82RuzU",
         "URL": "https://store.steampowered.com/app/4610080/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610080/5614d88e91d2052712397f50393b6a66a730d6be/header.jpg?t=1776710746",
@@ -36297,6 +36297,66 @@
             "city builder",
             "base building",
             "tactical"
+        ]
+    },
+    "4534190": {
+        "Title": "Dave's House",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4534190/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534190/0fdfc9fa2eafcdecaa9a4661d087cf26564ef2a7/header.jpg?t=1776719780",
+        "Date": "Nov 2, 2026",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776722675.3341029,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror",
+            "management"
+        ]
+    },
+    "4628630": {
+        "Title": "Vertical Momentum Revival",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4628630/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4628630/46a551c5faaf1243b13ef659bce06b4f4b62ec09/header.jpg?t=1776721151",
+        "Date": "2027",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776722700.099849,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4634980": {
+        "Title": "The Maddening Mercy",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4634980/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634980/0865de590491e887d52cc97331a7ccb072bf9e6c/header.jpg?t=1776722150",
+        "Date": "May 8, 2026",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776722705.2808838,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4642350": {
+        "Title": "Pachinko Life",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4642350/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4642350/4d59a34f09e607c3460dc82e043aaeada4f30dfc/header.jpg?t=1776722651",
+        "Date": "June 2026",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776722707.9572456,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
