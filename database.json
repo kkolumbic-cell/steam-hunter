@@ -2678,9 +2678,9 @@
         "URL": "https://store.steampowered.com/app/4480080/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4480080/9130bbcb9491994f7cd68815a1b5285c1d96f87d/header.jpg?t=1772797962",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-06",
-        "AddedTimestamp": 1772803847.2332413,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776694533.9987566,
         "MatchedTags": [
             "management",
             "economy",
@@ -2910,9 +2910,9 @@
         "URL": "https://store.steampowered.com/app/4498110/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4498110/bc2ebde0d7ce2869aa34697c7b14a5638cd03c57/header.jpg?t=1772810840",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-09",
-        "AddedTimestamp": 1773089554.1866107,
+        "Date": "Apr 20, 2026",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776694538.5496182,
         "MatchedTags": [
             "strategy"
         ]
@@ -6230,9 +6230,9 @@
         "URL": "https://store.steampowered.com/app/2553750/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2553750/f47b845c980f37df276a4b9d0567143155dc61a2/header.jpg?t=1773294998",
-        "Date": "April 2027",
-        "AddedDate": "2026-04-19",
-        "AddedTimestamp": 1776625835.3977392,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776694479.3451862,
         "MatchedTags": [
             "turn-based tactics",
             "turn-based strategy",
@@ -14096,9 +14096,9 @@
         "URL": "https://store.steampowered.com/app/1771320/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1771320/7845dded11c8200e2d1d97d08314ac7e98482a44/header.jpg?t=1774435571",
-        "Date": "June 2026",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775560525.0481791,
+        "Date": "Jun 25, 2026",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776694476.7841873,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -23743,9 +23743,9 @@
         "URL": "https://store.steampowered.com/app/4566660/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4566660/f0fe7a52fbac42382cc1c0bcb641870652585f64/header.jpg?t=1775520302",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-08",
-        "AddedTimestamp": 1775619300.3611774,
+        "Date": "Apr 20, 2026",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776694590.0378993,
         "MatchedTags": [
             "strategy",
             "tactical rpg",
@@ -26735,7 +26735,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4579740/",
-        "Site": "",
+        "Site": "https://www.otherpixelgames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4579740/c8b1fb52cd2264763fcbbebc2b3b7c65be3b1bea/header.jpg?t=1775766299",
         "Date": "Q3 2026",
         "AddedDate": "2026-04-09",
@@ -33086,7 +33086,7 @@
     "4268870": {
         "Title": "Fuel Cell",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/xhQstQpSUK",
         "URL": "https://store.steampowered.com/app/4268870/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4268870/c799ac4516f496ae80a3683235622a02e4cf7848/header.jpg?t=1776351970",
@@ -35777,6 +35777,154 @@
         "AddedTimestamp": 1776685511.0104673,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4159760": {
+        "Title": "KING OUT",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4159760/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159760/4a4c5f8abfc55c79de085b8644a66d7fd6a8b129/header.jpg?t=1776694232",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776694495.8115497,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "tactical"
+        ]
+    },
+    "4353640": {
+        "Title": "The Dungeon of Lulu Farea: Rebirth",
+        "Email": "",
+        "Discord": "https://discord.gg/kaguragames",
+        "URL": "https://store.steampowered.com/app/4353640/",
+        "Site": "https://www.kaguragames.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353640/ab2059997a1199b4fee4137efd5ab400b039bada/header.jpg?t=1776687033",
+        "Date": "2026",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776694509.732846,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4504560": {
+        "Title": "One Degree Off",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4504560/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4504560/f8ac775e75d733731f032792b56c4fc466c03198/header.jpg?t=1776690629",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776694544.0723484,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4509640": {
+        "Title": "NANOTINKER",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4509640/",
+        "Site": "https://x.com/Nano_Tinker",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4509640/6001646e0c2efd3e30255a2174c7dcc6dde54999/header.jpg?t=1776694146",
+        "Date": "Dec 31, 2026",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776694547.2729814,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4576490": {
+        "Title": "Casualties: Unknown",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4576490/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576490/64eb821b9f05851574c7d2b40c116a77d4327630/header.jpg?t=1776693160",
+        "Date": "2026",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776694601.607021,
+        "MatchedTags": [
+            "horror",
+            "resource management"
+        ]
+    },
+    "4581030": {
+        "Title": "Creepy Shift: Deer Farm",
+        "Email": "",
+        "Discord": "https://discord.gg/WWVrsEsXhz",
+        "URL": "https://store.steampowered.com/app/4581030/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4581030/5a28c3fce5c53283df5ec494ed45a194100895c0/header.jpg?t=1776693643",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776694608.2589333,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4581060": {
+        "Title": "Creepy Shift Online",
+        "Email": "",
+        "Discord": "https://discord.gg/WWVrsEsXhz",
+        "URL": "https://store.steampowered.com/app/4581060/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4581060/d601418ab57d5485b72fbeb354ea35e5c5164d58/header.jpg?t=1776693720",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776694611.4080575,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4625850": {
+        "Title": "Unknown Horizons",
+        "Email": "",
+        "Discord": "https://discord.gg/RW9xPuP8",
+        "URL": "https://store.steampowered.com/app/4625850/",
+        "Site": "https://ellitopia.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4625850/84a90ebdb2be1e443677417e0da0f231e597482c/header.jpg?t=1776693158",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776694643.6981294,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "4632550": {
+        "Title": "Necromancer's Army",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4632550/",
+        "Site": "https://wanderandwilt.com/games/necromancers-army",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4632550/a2f8fbd90f6d2f8b2ff9ffda6514e5d9404cb6a4/header.jpg?t=1776688922",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776694657.3999887,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4636670": {
+        "Title": "Fleet Manager: Logistics Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4636670/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4636670/b407b2da3c16250f37b778390c5b6e57ad4f0bed/header.jpg?t=1776690879",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776694663.219374,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "resource management"
         ]
     }
 }
