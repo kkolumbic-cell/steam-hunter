@@ -7499,9 +7499,9 @@
         "URL": "https://store.steampowered.com/app/4393650/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4393650/1392b7cacb577f7e2f53620a74de2da75d574d86/header.jpg?t=1773441668",
-        "Date": "TBA",
-        "AddedDate": "2026-03-13",
-        "AddedTimestamp": 1773441973.3755393,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776705615.6930673,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -11259,8 +11259,9 @@
         "AddedDate": "2026-03-20",
         "AddedTimestamp": 1773976358.3040977,
         "MatchedTags": [
+            "tower defense",
             "strategy",
-            "tower defense"
+            "tactical"
         ]
     },
     "4529660": {
@@ -19778,9 +19779,9 @@
         "URL": "https://store.steampowered.com/app/4566900/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4566900/81f42763fdcdab8a6355d3111804cfc24e90147c/header.jpg?t=1775017595",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775721432.7645032,
+        "Date": "2026",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776705652.768731,
         "MatchedTags": [
             "resource management",
             "colony sim",
@@ -36000,6 +36001,53 @@
             "strategy",
             "real time tactics",
             "tactical"
+        ]
+    },
+    "4165940": {
+        "Title": "The Fridge",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4165940/",
+        "Site": "https://larkosstudio.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4165940/90e928d05108e764fbaa39e94e3177f6ffd00c7c/header.jpg?t=1776702177",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776705603.8407636,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4435410": {
+        "Title": "Incremental Stand",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4435410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4435410/9dd62a1514c880eaee133d33062c81fd8002120a/header.jpg?t=1776703606",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776705622.9585788,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "economy",
+            "management"
+        ]
+    },
+    "4440080": {
+        "Title": "It Comes At Night",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4440080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4440080/19dee1327d1a20b02ed9044c489dc7d702b3d8e1/header.jpg?t=1776701574",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776705625.2460353,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
