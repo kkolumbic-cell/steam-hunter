@@ -11344,7 +11344,7 @@
     "4526720": {
         "Title": "Pawn Within: Two Fates",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/NvArsqBH",
         "URL": "https://store.steampowered.com/app/4526720/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4526720/d2819272c21e94f1b7e679e0b24ea25cbd02e604/header.jpg?t=1773979643",
@@ -24956,9 +24956,9 @@
         "URL": "https://store.steampowered.com/app/4595670/",
         "Site": "https://www.playsatori.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4595670/80fbe6203daa00bf349544d9a13ee8e19e4a48f8/header.jpg?t=1775654999",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-08",
-        "AddedTimestamp": 1775657105.112687,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776685489.3035023,
         "MatchedTags": [
             "strategy"
         ]
@@ -33832,8 +33832,8 @@
         "AddedDate": "2026-04-17",
         "AddedTimestamp": 1776397726.3799067,
         "MatchedTags": [
-            "strategy",
             "psychological horror",
+            "strategy",
             "turn-based combat"
         ]
     },
@@ -35218,9 +35218,9 @@
         "URL": "https://store.steampowered.com/app/4619000/",
         "Site": "https://info.shatterhold.gg",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4619000/7f4077d76c4014945267f8e291312881f0eb1ff0/header.jpg?t=1776539161",
-        "Date": "Jun 1, 2026",
-        "AddedDate": "2026-04-18",
-        "AddedTimestamp": 1776539471.2217364,
+        "Date": "2026",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776685505.8833156,
         "MatchedTags": [
             "base building",
             "resource management",
@@ -35688,6 +35688,95 @@
             "strategy",
             "tower defense",
             "base building"
+        ]
+    },
+    "2590240": {
+        "Title": "METRO 2039",
+        "Email": "",
+        "Discord": "https://discord.com/invite/metrovideogame",
+        "URL": "https://store.steampowered.com/app/2590240/",
+        "Site": "https://www.deepsilver.com/games/metro2039#",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2590240/6998fb70f896b0f155061de0b472a8262bd06ef9/header.jpg?t=1776678556",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776685411.631823,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "3628390": {
+        "Title": "33 Days till Extraction",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3628390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3628390/cf03fea9400344713e8d90c94eb309a8d5efec83/header.jpg?t=1776680916",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776685423.8762753,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "4207450": {
+        "Title": "FlockSol",
+        "Email": "cedarstreetgamestudio@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4207450/",
+        "Site": "https://www.cedarstreetgames.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4207450/0875d5a42ba15be8ee9ae54f2e22272ef875ebc9/header.jpg?t=1776678935",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776685433.7801182,
+        "MatchedTags": [
+            "management",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4485970": {
+        "Title": "\u9b3c\u624d\u548c\u4f60\u8c08\u604b\u7231\uff01",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4485970/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4485970/1fa5caaba033e43dd352ff82d4d931353a078da6/header.jpg?t=1776681377",
+        "Date": "June 2026",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776685447.2980385,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4609540": {
+        "Title": "ScaMMO",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4609540/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4609540/f30644d0302bb328518b81643da959b9146ce45f/header.jpg?t=1776679704",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776685500.370475,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4632690": {
+        "Title": "Papers or Death \u23f1\ufe0f",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4632690/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4632690/02e76b7804564562a3edd31f930dba439a64b0b1/header.jpg?t=1776677979",
+        "Date": "2026",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776685511.0104673,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
