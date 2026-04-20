@@ -24317,9 +24317,9 @@
         "URL": "https://store.steampowered.com/app/4592800/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4592800/6087b4d33ca1916af35f1615fcab54f1f2ce6546/header.jpg?t=1775578020",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775582295.6254003,
+        "Date": "April 2026",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776666519.9045577,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -31867,9 +31867,9 @@
         "URL": "https://store.steampowered.com/app/4623280/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4623280/b09f35af4c94d0e1cb536fb7701bd54f039d80a1/header.jpg?t=1776265605",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-15",
-        "AddedTimestamp": 1776267653.9878862,
+        "Date": "May 1, 2026",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776666532.2253368,
         "MatchedTags": [
             "resource management"
         ]
@@ -35625,6 +35625,36 @@
         "AddedTimestamp": 1776657210.2036552,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4560870": {
+        "Title": "\u30ac\u30c3\u30c1\u30e3\uff01\u30b5\u30d0\u30a4\u30d0\u30fc",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4560870/",
+        "Site": "https://www.unite-atsushi.com/gcsurvivor",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560870/a1e34a7495bf0c554ece0462671cabde8679dc98/header.jpg?t=1776664924",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776666507.258341,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4619920": {
+        "Title": "Washed Ashore",
+        "Email": "",
+        "Discord": "https://discord.gg/GBtw7gSpqj",
+        "URL": "https://store.steampowered.com/app/4619920/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4619920/a3ebb090a1b5c353cc03cce847ce125f6e7b6e59/header.jpg?t=1776658189",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-20",
+        "AddedTimestamp": 1776666525.1019123,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
         ]
     }
 }
