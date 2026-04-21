@@ -26139,9 +26139,9 @@
         "URL": "https://store.steampowered.com/app/4599470/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4599470/8d013ea19a2c7f2a3b2f2cb3c41d95b4e3443ec2/header.jpg?t=1775741398",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775744335.6209774,
+        "Date": "Nov 6, 2026",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776771281.4348218,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -34112,7 +34112,7 @@
     "4621370": {
         "Title": "Orderbound",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/6F2wP4hx",
         "URL": "https://store.steampowered.com/app/4621370/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4621370/18eb4e13d16b666e16c14c3b216a772c39ae902b/header.jpg?t=1776422734",
@@ -34121,8 +34121,7 @@
         "AddedTimestamp": 1776424549.3894837,
         "MatchedTags": [
             "strategy",
-            "psychological horror",
-            "management"
+            "psychological horror"
         ]
     },
     "4622160": {
@@ -36871,6 +36870,34 @@
         "MatchedTags": [
             "strategy",
             "resource management"
+        ]
+    },
+    "4572930": {
+        "Title": "Just More Doors : REFRAMED & REDACTED",
+        "Email": "",
+        "Discord": "https://discord.com/invite/NAvSFRRPYJ",
+        "URL": "https://store.steampowered.com/app/4572930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4572930/0d34363ed80b897152f78e6e3a76c070626d8608/header.jpg?t=1776765309",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776771268.304553,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4587350": {
+        "Title": "Multeetris",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4587350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4587350/d50fdd0eda11cc8bbb91c4b8cd0e56ab1f86d2f3/header.jpg?t=1776770548",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776771271.1558206,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
