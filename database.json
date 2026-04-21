@@ -36408,5 +36408,71 @@
         "MatchedTags": [
             "strategy"
         ]
+    },
+    "4494730": {
+        "Title": "DEATH CASINO",
+        "Email": "",
+        "Discord": "https://discord.gg/EsPs7mbWSf",
+        "URL": "https://store.steampowered.com/app/4494730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4494730/58157b8875f010aad651d6c49e808681c94ae529/header.jpg?t=1776728067",
+        "Date": "Dec 31, 2026",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776729629.474152,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat",
+            "resource management"
+        ]
+    },
+    "4590640": {
+        "Title": "Sword & Siege Age of Longbow: Volume I",
+        "Email": "helpdesk@wargameds.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4590640/",
+        "Site": "https://wargameds.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4590640/285bb3e9ec86564d67db0aed3c4dc3c192346671/header.jpg?t=1776728291",
+        "Date": "May 22, 2026",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776729651.588941,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "tactical",
+            "turn-based combat"
+        ]
+    },
+    "4628430": {
+        "Title": "INVARIANT",
+        "Email": "info@gorgonizegames.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4628430/",
+        "Site": "https://www.gorgonizegames.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4628430/b439884d2c5dddbb81a3c603260054ac0703edcb/header.jpg?t=1776727391",
+        "Date": "TBA",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776729663.6305516,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4634840": {
+        "Title": "Justice Project",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4634840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4634840/18e7762cfc129954c883a195b8f79cd19768797f/header.jpg?t=1776727395",
+        "Date": "2027",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776729670.4307997,
+        "MatchedTags": [
+            "management",
+            "colony sim",
+            "base building",
+            "economy"
+        ]
     }
 }
