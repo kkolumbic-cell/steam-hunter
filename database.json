@@ -15059,9 +15059,9 @@
         "URL": "https://store.steampowered.com/app/3823700/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3823700/cc8e8147115ac08d2e5a722ebb5df58101022cf7/header.jpg?t=1774518431",
-        "Date": "To be announced",
-        "AddedDate": "2026-03-26",
-        "AddedTimestamp": 1774520115.7603762,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776765291.3316877,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -23159,9 +23159,9 @@
         "URL": "https://store.steampowered.com/app/4546370/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4546370/ef7ad83f6befc6dd4f52bcf19fcfa331d6da9ff9/header.jpg?t=1775470963",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-06",
-        "AddedTimestamp": 1775474049.9450066,
+        "Date": "2026",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776765325.8971865,
         "MatchedTags": [
             "management",
             "strategy",
@@ -24211,9 +24211,9 @@
         "URL": "https://store.steampowered.com/app/4529960/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4529960/3963218a210e2e69bef0eef499823071c67af0d4/header.jpg?t=1775572094",
-        "Date": "Apr 20, 2026",
-        "AddedDate": "2026-04-11",
-        "AddedTimestamp": 1775891946.9596322,
+        "Date": "Apr 21, 2026",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776765318.2503874,
         "MatchedTags": [
             "strategy",
             "tower defense"
@@ -30120,9 +30120,9 @@
         "URL": "https://store.steampowered.com/app/1765770/",
         "Site": "https://bnxgames.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1765770/d8c26f1b988f954abc7f3bc982d54b2b1fc511d2/header.jpg?t=1776123796",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-14",
-        "AddedTimestamp": 1776138223.602776,
+        "Date": "Apr 30, 2026",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776765285.7880807,
         "MatchedTags": [
             "turn-based combat",
             "strategy",
@@ -36807,6 +36807,70 @@
         "AddedTimestamp": 1776759228.4601178,
         "MatchedTags": [
             "psychological horror"
+        ]
+    },
+    "4575930": {
+        "Title": "Blau",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4575930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4575930/cdbe59fa706db19d938fb49f573dec38611dd405/header.jpg?t=1776761629",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776765343.9303331,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "resource management",
+            "management",
+            "economy"
+        ]
+    },
+    "4576740": {
+        "Title": "Black Flower",
+        "Email": "",
+        "Discord": "https://discord.com/invite/pvMwmJpuWa",
+        "URL": "https://store.steampowered.com/app/4576740/",
+        "Site": "https://triomatica.games",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4576740/446a93d8e032c0dde244f3c6c612ff16953ecc72/header.jpg?t=1776760871",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776765346.1478944,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4607190": {
+        "Title": "Phantom Echoes Chapter I",
+        "Email": "",
+        "Discord": "https://discord.gg/Vpkk984qHs",
+        "URL": "https://store.steampowered.com/app/4607190/",
+        "Site": "https://www.notexstudios.in",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4607190/c2b80d80ff1c36659714c0f431714832566c75a8/header.jpg?t=1776764639",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776765360.380508,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4639230": {
+        "Title": "A Game About AI",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4639230/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4639230/f889cd59b7f5391700b57f1284b1c9b9b6dcf99c/header.jpg?t=1776764457",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776765384.9632754,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
         ]
     }
 }
