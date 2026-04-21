@@ -9528,7 +9528,7 @@
         "Email": "",
         "Discord": "https://discord.gg/uTfjNHVX",
         "URL": "https://store.steampowered.com/app/4405090/",
-        "Site": "",
+        "Site": "https://www.flockedandloaded.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4405090/79287ba501ba29eb4994fb6b426691928c5a7cd5/header.jpg?t=1773788273",
         "Date": "Jul 31, 2026",
         "AddedDate": "2026-04-21",
@@ -24389,9 +24389,9 @@
         "URL": "https://store.steampowered.com/app/4583080/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4583080/452cf50e001c8a19805a72ca7723949165617d30/header.jpg?t=1775586921",
-        "Date": "May 1, 2026",
-        "AddedDate": "2026-04-13",
-        "AddedTimestamp": 1776071693.720677,
+        "Date": "Apr 21, 2026",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776812478.6337428,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -37746,6 +37746,108 @@
         "MatchedTags": [
             "management",
             "strategy"
+        ]
+    },
+    "4187850": {
+        "Title": "The Sculptor",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4187850/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4187850/ff189c189d87cfa3cf8c57b82c99f7a72c95e1f6/header.jpg?t=1776811964",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776812430.4249277,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4527130": {
+        "Title": "Launch Them All",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4527130/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4527130/387f68c9a1b13c435265aa17bed8a43f48413be0/header.jpg?t=1776811453",
+        "Date": "August 2026",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776812449.3431742,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4537010": {
+        "Title": "Belongs To ?",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4537010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4537010/0f86609fb4de0a01ae5346d4ac106f778aa7a9a6/header.jpg?t=1776812303",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776812452.4611058,
+        "MatchedTags": [
+            "management",
+            "economy"
+        ]
+    },
+    "4568380": {
+        "Title": "Sea You Around",
+        "Email": "",
+        "Discord": "https://discord.gg/uHT6hYGZzb",
+        "URL": "https://store.steampowered.com/app/4568380/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4568380/f6dc79748863db9062b6b9a073ecb728767fb7bf/header.jpg?t=1776811014",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776812460.005806,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4590990": {
+        "Title": "Ouroboros Solitaire",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4590990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4590990/9e36ad896f85a576dbb55bd22afc4d0eaa0938b1/header.jpg?t=1776810849",
+        "Date": "Jul 15, 2026",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776812483.4971108,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4600980": {
+        "Title": "Weird Life",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4600980/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4600980/27ed54490c444f9ee465144e3918d9abbe7872ce/header.jpg?t=1776812307",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776812486.3822546,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4609470": {
+        "Title": "Heralds Of Heroism",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4609470/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4609470/93eaff02405f44f5f7511d9c8dbf6b8063a93819/header.jpg?t=1776811079",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776812488.1823277,
+        "MatchedTags": [
+            "management"
         ]
     }
 }
