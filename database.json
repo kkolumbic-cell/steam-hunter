@@ -18752,9 +18752,9 @@
         "URL": "https://store.steampowered.com/app/4555740/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4555740/f8d37d2059707bcef23b9a650da2ef0623335e8f/header.jpg?t=1774928467",
-        "Date": "To be announced",
-        "AddedDate": "2026-03-31",
-        "AddedTimestamp": 1774936591.1291316,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776759192.5306067,
         "MatchedTags": [
             "strategy",
             "tower defense"
@@ -27330,7 +27330,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4573570/",
-        "Site": "",
+        "Site": "https://chillstudio.games/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4573570/12edce67b555690f86ffbe382fea24bdbe0ca607/header.jpg?t=1775807993",
         "Date": "Coming soon",
         "AddedDate": "2026-04-10",
@@ -35849,9 +35849,9 @@
         "AddedDate": "2026-04-20",
         "AddedTimestamp": 1776694601.607021,
         "MatchedTags": [
+            "psychological horror",
             "horror",
-            "resource management",
-            "psychological horror"
+            "resource management"
         ]
     },
     "4581030": {
@@ -36748,6 +36748,65 @@
         "MatchedTags": [
             "turn-based strategy",
             "turn-based tactics"
+        ]
+    },
+    "4052980": {
+        "Title": "Aion - Part 1 : Return to Palace",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4052980/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4052980/f6e069603413720759d4b6e9c7996e593bb569bf/header.jpg?t=1776758863",
+        "Date": "May 14, 2026",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776759155.3083107,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4428850": {
+        "Title": "LABYRISON",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4428850/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4428850/c1384e6258d784de1c2ed396a4fed1d258a4c39f/header.jpg?t=1776756003",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776759172.5129013,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "resource management",
+            "psychological horror"
+        ]
+    },
+    "4623340": {
+        "Title": "Unleash",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4623340/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4623340/898e3372c4c2396c5cb48cd48a0fc670ffbccba6/header.jpg?t=1776758020",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776759206.6512678,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4635660": {
+        "Title": "Echoes of the Mind",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4635660/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4635660/cc25ab6164197c2c7b6405596a71429c538eee2f/header.jpg?t=1776753234",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776759228.4601178,
+        "MatchedTags": [
+            "psychological horror"
         ]
     }
 }
