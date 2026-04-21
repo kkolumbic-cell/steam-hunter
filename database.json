@@ -9530,9 +9530,9 @@
         "URL": "https://store.steampowered.com/app/4405090/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4405090/79287ba501ba29eb4994fb6b426691928c5a7cd5/header.jpg?t=1773788273",
-        "Date": "July 2026",
-        "AddedDate": "2026-03-17",
-        "AddedTimestamp": 1773791297.2048256,
+        "Date": "Jul 31, 2026",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776805662.8194528,
         "MatchedTags": [
             "strategy"
         ]
@@ -13103,7 +13103,7 @@
     },
     "2680770": {
         "Title": "Formind",
-        "Email": "hr@next-genium.com, info@next-genium.com, pr@next-genium.com",
+        "Email": "pr@next-genium.com, hr@next-genium.com, info@next-genium.com",
         "Discord": "https://discord.gg/UhTb5md2",
         "URL": "https://store.steampowered.com/app/2680770/",
         "Site": "https://next-genium.com/en/",
@@ -34049,9 +34049,9 @@
         "URL": "https://store.steampowered.com/app/4170060/",
         "Site": "https://www.youtube.com/@2.5D_Gaming_Studio",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170060/1521341edf227d153751f7283e6b0c6e54d03bcd/header.jpg?t=1776421113",
-        "Date": "TBA",
-        "AddedDate": "2026-04-17",
-        "AddedTimestamp": 1776424483.8503764,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776805654.1722631,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -37608,6 +37608,115 @@
             "base building",
             "strategy",
             "resource management"
+        ]
+    },
+    "1892990": {
+        "Title": "Oppressor of Dreams",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/1892990/",
+        "Site": "https://www.oppressorofdreams.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1892990/9806a3ad56baf73406bc2bb5925a9745f3707268/header.jpg?t=1776803452",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776805634.5462759,
+        "MatchedTags": [
+            "strategy",
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4183980": {
+        "Title": "Caliban",
+        "Email": "",
+        "Discord": "https://discord.gg/e5HRQad5vm",
+        "URL": "https://store.steampowered.com/app/4183980/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4183980/5e2da3855b766043aeee69431113cc460e24fac1/header.jpg?t=1776804450",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776805657.5956826,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4539400": {
+        "Title": "Solo Grinding",
+        "Email": "",
+        "Discord": "https://discord.gg/7wQNZtCDX7",
+        "URL": "https://store.steampowered.com/app/4539400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4539400/1ff63cb6f2350a5221a7dfb15201eb9f24a49d2e/header.jpg?t=1776801423",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776805677.365371,
+        "MatchedTags": [
+            "tactical rpg",
+            "turn-based combat",
+            "turn-based tactics",
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4553010": {
+        "Title": "Another Ark",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4553010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4553010/5119e367fb6034b2e9f0eac288c8318677483213/header.jpg?t=1776804092",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776805685.7221951,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg",
+            "tactical"
+        ]
+    },
+    "4628700": {
+        "Title": "Renegade Run",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4628700/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4628700/1e02a5fd06866b38b44fe209c15864cf1a1013f4/header.jpg?t=1776804214",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776805717.2605765,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "4630710": {
+        "Title": "Backrooms: Impending Doom",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4630710/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4630710/7f1ebe33225aa9558f2f8420888b7b3e0753093a/header.jpg?t=1776800530",
+        "Date": "May 2026",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776805720.33925,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4638840": {
+        "Title": "Constellations",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4638840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4638840/efb41064b4d0009b6823b83d48ec61ef7bf78cd7/header.jpg?t=1776804232",
+        "Date": "Jun 30, 2026",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776805722.2105105,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
