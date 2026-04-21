@@ -20470,9 +20470,9 @@
         "URL": "https://store.steampowered.com/app/3715920/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3715920/32c58c10dba6132ded4c41d4dab1b6cffce98c9c/header.jpg?t=1775068924",
-        "Date": "Apr 21, 2026",
-        "AddedDate": "2026-04-01",
-        "AddedTimestamp": 1775071964.2140243,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776808866.298716,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -21516,9 +21516,9 @@
         "URL": "https://store.steampowered.com/app/4461820/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4461820/c53bf510906d6f51f56e56ac3391e0c326f4b382/header.jpg?t=1775157647",
-        "Date": "Apr 20, 2026",
-        "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775163390.3016233,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776808875.3897965,
         "MatchedTags": [
             "resource management"
         ]
@@ -24430,7 +24430,7 @@
     "4590840": {
         "Title": "Mine Wizard",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/EhHcvqQDwr",
         "URL": "https://store.steampowered.com/app/4590840/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4590840/cbe894184fb8d9fffdfd9720f9059c1c5d109225/header.jpg?t=1775589694",
@@ -36228,9 +36228,9 @@
         "URL": "https://store.steampowered.com/app/3778070/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3778070/313678df83b7384fc03c4f1cc60d7f50706c0d99/header.jpg?t=1776718808",
-        "Date": "2026",
-        "AddedDate": "2026-04-20",
-        "AddedTimestamp": 1776718980.6142187,
+        "Date": "To be announced",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776808868.4570851,
         "MatchedTags": [
             "horror"
         ]
@@ -37716,6 +37716,35 @@
         "AddedDate": "2026-04-21",
         "AddedTimestamp": 1776805722.2105105,
         "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4601390": {
+        "Title": "Twin Stick Checkers",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4601390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4601390/68fb412dea9af664de4bc2e9c30d8d8f62a412e5/header.jpg?t=1776805884",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776808908.8695292,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4607930": {
+        "Title": "DVD Dealer Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4607930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4607930/de810e6c0a866c175a7585280a3d97471c678c0d/header.jpg?t=1776807436",
+        "Date": "2027",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776808922.1878915,
+        "MatchedTags": [
+            "management",
             "strategy"
         ]
     }
