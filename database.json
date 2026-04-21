@@ -20897,9 +20897,9 @@
         "URL": "https://store.steampowered.com/app/4565390/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4565390/72d4cff85955698c4e5c645fcfabb84605806c89/header.jpg?t=1775101570",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775109087.9967563,
+        "Date": "May 2026",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776791923.0981386,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -26876,9 +26876,9 @@
         "URL": "https://store.steampowered.com/app/4565840/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4565840/4e54130ba3909ceeef9dfcf1053017d50f937232/header.jpg?t=1775772515",
-        "Date": "Jun 30, 2026",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775775828.525989,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776791925.4585943,
         "MatchedTags": [
             "horror",
             "strategy"
@@ -37311,6 +37311,163 @@
             "tower defense",
             "turn-based strategy",
             "base building"
+        ]
+    },
+    "3897920": {
+        "Title": "Zavix Tower 2",
+        "Email": "",
+        "Discord": "https://discord.gg/QymG5Ht",
+        "URL": "https://store.steampowered.com/app/3897920/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3897920/e4a7c223ad0939cf7d78b169810b531c61a31b41/header.jpg?t=1776787751",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776791869.2472765,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "4135990": {
+        "Title": "Landover",
+        "Email": "",
+        "Discord": "https://discord.gg/mv4BHpf",
+        "URL": "https://store.steampowered.com/app/4135990/",
+        "Site": "https://landover.io/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4135990/4b3678c563e169b74b50fe6270d64570e48655db/header.jpg?t=1776788131",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776791874.8551068,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "economy",
+            "resource management",
+            "turn-based combat"
+        ]
+    },
+    "4209160": {
+        "Title": "Idyll Isle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4209160/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4209160/b55e1b1bc00df7e2341014a2e2f59ce70e8ba22d/header.jpg?t=1776791641",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776791878.0507412,
+        "MatchedTags": [
+            "management",
+            "base building",
+            "city builder",
+            "resource management"
+        ]
+    },
+    "4498300": {
+        "Title": "Generations: Utopia",
+        "Email": "",
+        "Discord": "https://discord.gg/VtkE5swDpZ",
+        "URL": "https://store.steampowered.com/app/4498300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4498300/28fcdee09961e6d14a65dfb91abeed37a02ef5ef/header.jpg?t=1776791700",
+        "Date": "2026",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776791896.2171056,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "colony sim",
+            "base building"
+        ]
+    },
+    "4516620": {
+        "Title": "Hades Hinderance",
+        "Email": "",
+        "Discord": "https://discord.gg/DfZwEqUU",
+        "URL": "https://store.steampowered.com/app/4516620/",
+        "Site": "https://redemptionforge.studio/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4516620/5158c7a989935d5e7e1d3942dcc61f34a7ed4db3/header.jpg?t=1776787425",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776791901.8062477,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4541430": {
+        "Title": "Sector Scavengers: Signal & Salvage",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4541430/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4541430/8a121abb0268d6ccddd5bd1a656baf8cfb322a77/header.jpg?t=1776788407",
+        "Date": "2026",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776791917.8507144,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "colony sim"
+        ]
+    },
+    "4593540": {
+        "Title": "SANGUINE CYCLE; REDUX",
+        "Email": "",
+        "Discord": "https://discord.gg/ffx2JppsWc",
+        "URL": "https://store.steampowered.com/app/4593540/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4593540/2f39881cf45b8ab677f476dc53c238869d9a6ee7/header.jpg?t=1776789066",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776791944.9173782,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4594300": {
+        "Title": "RACAR - Shooter FPS",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4594300/",
+        "Site": "https://tecnobros.es",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4594300/b4e65c4de59cc51163e84e92b646572d283b5cd5/header.jpg?t=1776789219",
+        "Date": "Apr 30, 2026",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776791947.0118024,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics"
+        ]
+    },
+    "4610530": {
+        "Title": "Spunky's Funhouse",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4610530/",
+        "Site": "https://www.nalycan.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4610530/418948e8b60bad076c1631edecad61724f7770ec/header.jpg?t=1776786852",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776791958.906478,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4644290": {
+        "Title": "\u6625\u306f\u3042\u3051\u307c\u306e\u3001\u6211\u306f\u30d0\u30b1\u30e2\u30ce\u3002 - Spring at Dawn, I Am a Monster.",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4644290/",
+        "Site": "https://enoshima210.work/spring/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4644290/cbcc469f18163d5a5475335e868ff1fe8bc9b497/header.jpg?t=1776786550",
+        "Date": "2026",
+        "AddedDate": "2026-04-21",
+        "AddedTimestamp": 1776791992.5753505,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
