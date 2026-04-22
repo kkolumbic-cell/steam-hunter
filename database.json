@@ -28840,9 +28840,9 @@
         "URL": "https://store.steampowered.com/app/4598880/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4598880/8e2581dd6a64e0a7851230d358a7fb9c89d04bfc/header.jpg?t=1775920299",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-11",
-        "AddedTimestamp": 1775922566.4990113,
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776886855.8294475,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -29861,9 +29861,9 @@
         "URL": "https://store.steampowered.com/app/4605780/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4605780/a52baa59e5b181325498827bc2678985d6697d2a/header.jpg?t=1776106054",
-        "Date": "Dec 31, 2026",
-        "AddedDate": "2026-04-13",
-        "AddedTimestamp": 1776109367.2996671,
+        "Date": "2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776886863.7886481,
         "MatchedTags": [
             "tactical",
             "strategy"
@@ -31647,9 +31647,9 @@
         "URL": "https://store.steampowered.com/app/4614010/",
         "Site": "https://www.theinnovativepotential.com/videogames",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4614010/7f1bc30a157d603cb34ac71c7a73c1226cb5f843/header.jpg?t=1776256307",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-04-15",
-        "AddedTimestamp": 1776282402.3137922,
+        "Date": "Apr 29, 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776886881.3799107,
         "MatchedTags": [
             "strategy"
         ]
@@ -31994,7 +31994,7 @@
     "4499960": {
         "Title": "Echo35",
         "Email": "jeyersdev@gmail.com",
-        "Discord": "",
+        "Discord": "https://discord.gg/SbEvTFHW3a",
         "URL": "https://store.steampowered.com/app/4499960/",
         "Site": "https://jd.pnc3.net/games/echo35",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499960/baf96b73f8fd031c49b15841c19cb3338a2e2b91/header.jpg?t=1776275073",
@@ -34889,7 +34889,7 @@
     },
     "4605200": {
         "Title": "Hero of the Kingdom IV",
-        "Email": "business@lonelytroops.com, press@lonelytroops.com, team@lonelytroops.com, support@lonelytroops.com",
+        "Email": "business@lonelytroops.com, support@lonelytroops.com, team@lonelytroops.com, press@lonelytroops.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4605200/",
         "Site": "https://www.lonelytroops.com/hotk4/index.htm",
@@ -36321,9 +36321,9 @@
         "URL": "https://store.steampowered.com/app/4642350/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4642350/4d59a34f09e607c3460dc82e043aaeada4f30dfc/header.jpg?t=1776722651",
-        "Date": "May 18, 2026",
-        "AddedDate": "2026-04-21",
-        "AddedTimestamp": 1776786336.6303391,
+        "Date": "June 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776886917.2005026,
         "MatchedTags": [
             "strategy"
         ]
@@ -36585,9 +36585,9 @@
         "URL": "https://store.steampowered.com/app/4637330/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4637330/70aa7a272feb9f3cab123b654668efdca4d713a3/header.jpg?t=1776741567",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-21",
-        "AddedTimestamp": 1776743405.7840712,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776886904.0142403,
         "MatchedTags": [
             "strategy",
             "city builder",
@@ -38679,6 +38679,156 @@
             "tactical rpg",
             "turn-based tactics",
             "tactical"
+        ]
+    },
+    "4586670": {
+        "Title": "Cosyland: Island Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4586670/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4586670/1189e3632eb9d31cb8a663f4449f141df32f77f0/header.jpg?t=1776886469",
+        "Date": "May 6, 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776886844.482418,
+        "MatchedTags": [
+            "city builder",
+            "management"
+        ]
+    },
+    "4593220": {
+        "Title": "Adrift",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4593220/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4593220/1948dd33562346c5959f9852f5a97dec4cc35606/header.jpg?t=1776879051",
+        "Date": "July 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776886847.7694106,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4602350": {
+        "Title": "Turning point",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4602350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4602350/f8b05cc97f62f29b489016408c63ec1324bb8ebe/header.jpg?t=1776882040",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776886858.1465738,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4608540": {
+        "Title": "OVERRIDE PROTOCOL",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4608540/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4608540/3df0774998ab2a740c4b756cd87ed12886cccb35/header.jpg?t=1776884526",
+        "Date": "2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776886871.2998557,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4612650": {
+        "Title": "Metro Anomaly",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4612650/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4612650/02f39ad0ff20389e6b3558d194c7903e3a4ab8c1/header.jpg?t=1776885907",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776886879.3699064,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4616910": {
+        "Title": "Vampire's Shire",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4616910/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4616910/a2efeba4ce8f8409c953449955dc4f5f2267d4d7/header.jpg?t=1776883014",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776886886.18466,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4623600": {
+        "Title": "The Wrong Ones",
+        "Email": "",
+        "Discord": "https://discord.gg/yucaNTws5Y",
+        "URL": "https://store.steampowered.com/app/4623600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4623600/9d937ebfe617a5f4ef26506555f450d72ffb62b8/header.jpg?t=1776882503",
+        "Date": "2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776886893.8954225,
+        "MatchedTags": [
+            "strategy",
+            "psychological horror"
+        ]
+    },
+    "4637840": {
+        "Title": "Depthloot",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4637840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4637840/c31348f003423f0168f027ce4ed6c9bbc7118003/header.jpg?t=1776885014",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776886907.0002742,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4653390": {
+        "Title": "Deep Space Miner",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4653390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4653390/3579760bf36dc0cf50e58fedda1f257cd3dd822a/header.jpg?t=1776879451",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776886923.9717574,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "economy"
+        ]
+    },
+    "4653840": {
+        "Title": "Trapped in the Backrooms",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4653840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4653840/76edb5fc1489cb2522af86c6645cdba07952e7be/header.jpg?t=1776879617",
+        "Date": "May 29, 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776886927.222918,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
         ]
     }
 }
