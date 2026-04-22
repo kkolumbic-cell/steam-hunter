@@ -13953,9 +13953,9 @@
         "URL": "https://store.steampowered.com/app/4547250/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4547250/7971779943bfc266161a30c05e51a2ce41d9a824/header.jpg?t=1774415379",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775606124.0676308,
+        "Date": "Apr 21, 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776838357.394278,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -38031,6 +38031,58 @@
         "MatchedTags": [
             "strategy",
             "tactical"
+        ]
+    },
+    "4388150": {
+        "Title": "Blowing Off Steam",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4388150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4388150/0267a28a44712891cff3d774ac566600ed62aac5/header.jpg?t=1776833975",
+        "Date": "2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776838346.6901348,
+        "MatchedTags": [
+            "tower defense",
+            "strategy",
+            "city builder",
+            "base building"
+        ]
+    },
+    "4585580": {
+        "Title": "Game of Warriors",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4585580/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4585580/56aed764151c08a01ecdcd360b54e426962f2b92/header.jpg?t=1776835253",
+        "Date": "TBA",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776838371.3058336,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "real time tactics",
+            "resource management",
+            "tactical",
+            "base building"
+        ]
+    },
+    "4603750": {
+        "Title": "Indomitus: Path of Ordeals",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4603750/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4603750/2414292f332211678bea8b20ce5386051c5a1b8b/header.jpg?t=1776833408",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776838379.409728,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tactical rpg"
         ]
     }
 }
