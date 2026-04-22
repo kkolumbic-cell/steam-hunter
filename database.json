@@ -5146,9 +5146,9 @@
         "URL": "https://store.steampowered.com/app/4501080/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501080/63bb7b525f2818948b50718e0644dadcfbfd9383/header.jpg?t=1773167172",
-        "Date": "2026",
-        "AddedDate": "2026-03-14",
-        "AddedTimestamp": 1773521191.9881296,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776867113.5704134,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -23516,9 +23516,9 @@
         "URL": "https://store.steampowered.com/app/4515500/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4515500/770fdc5c91f201cd5332d53f5b558ccd65f5c62b/header.jpg?t=1775515400",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-19",
-        "AddedTimestamp": 1776610839.1138444,
+        "Date": "Jul 17, 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776867122.1601956,
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
@@ -25149,9 +25149,9 @@
         "URL": "https://store.steampowered.com/app/4574210/",
         "Site": "https://harpernicholson.ca",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4574210/8c33b24aa62363a6df1917a339d92578d248c042/header.jpg?t=1775665332",
-        "Date": "Apr 21, 2026",
-        "AddedDate": "2026-04-08",
-        "AddedTimestamp": 1775677351.95493,
+        "Date": "Apr 22, 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776867149.1599634,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -30585,7 +30585,7 @@
     "4330880": {
         "Title": "Glass Mind",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/pveyuzhUam",
         "URL": "https://store.steampowered.com/app/4330880/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4330880/d28af60a339709e0a2143aa42bf68a0fba3a3577/header.jpg?t=1776181313",
@@ -36139,9 +36139,9 @@
         "URL": "https://store.steampowered.com/app/4625300/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4625300/ab7411c9bfcb5b0499c2f14f62eeb4b9e14efdab/header.jpg?t=1776712509",
-        "Date": "Dec 31, 2026",
-        "AddedDate": "2026-04-20",
-        "AddedTimestamp": 1776713834.6337004,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776867193.0712504,
         "MatchedTags": [
             "resource management",
             "base building"
@@ -38221,6 +38221,155 @@
             "strategy",
             "economy",
             "management"
+        ]
+    },
+    "3720370": {
+        "Title": "Suburbia",
+        "Email": "",
+        "Discord": "https://discord.gg/yK9JWHN7",
+        "URL": "https://store.steampowered.com/app/3720370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3720370/1a078591bd156a31410fec2495667a3a2b38bd46/header.jpg?t=1776863219",
+        "Date": "June 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776867070.4196131,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics"
+        ]
+    },
+    "4449480": {
+        "Title": "Rapid Miner",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4449480/",
+        "Site": "https://game.noligo.co.kr/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4449480/2b7ec4ac49d8298656d6fdf2f0594dc2f92753f9/header.jpg?t=1776859882",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776867097.9675083,
+        "MatchedTags": [
+            "economy",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4465580": {
+        "Title": "Victor's Video Vault",
+        "Email": "info@stingbotgames.com",
+        "Discord": "https://discord.gg/yY7P4DPawz",
+        "URL": "https://store.steampowered.com/app/4465580/",
+        "Site": "https://www.stingbotgames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4465580/8fc1383758f7a1ffa8ab4ba6b761201f1cc302b8/header.jpg?t=1776864574",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776867105.6400268,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4524440": {
+        "Title": "Unforged",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4524440/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4524440/0758dd50499f513c9201a2ee51bf3ee831d4da2d/header.jpg?t=1776864633",
+        "Date": "Jun 30, 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776867127.6161747,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4566010": {
+        "Title": "Red Echoes: Berlin",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4566010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4566010/3917e08b8d95741a337e984f6e488fefdda57932/header.jpg?t=1776866249",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776867147.1678045,
+        "MatchedTags": [
+            "turn-based strategy",
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4585370": {
+        "Title": "Bounty Gunman",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4585370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4585370/79e1f96fe55d15367f584d461f26b9ce4c56ab8b/header.jpg?t=1776859380",
+        "Date": "2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776867152.0407426,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4619930": {
+        "Title": "Reversi2048",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4619930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4619930/d54e0526bfba071b184a2ff1c0b8f713f3812edd/header.jpg?t=1776860131",
+        "Date": "Jun 30, 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776867184.504964,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4622890": {
+        "Title": "Oneiron Expanse",
+        "Email": "info@wondervault.games",
+        "Discord": "https://discord.gg/Njzys4vwb7",
+        "URL": "https://store.steampowered.com/app/4622890/",
+        "Site": "http://wondervault.games/dreamwright.html",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4622890/dfd8c202f00aa18815448fb4a2bfc2c68362df1e/header.jpg?t=1776864398",
+        "Date": "2027",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776867186.5049148,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4642770": {
+        "Title": "Rock Diver",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4642770/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4642770/321f3f3e1af81f82cfaa2e279c9767fb32626765/header.jpg?t=1776863851",
+        "Date": "2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776867206.4217343,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4655810": {
+        "Title": "Decide Your Fate",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4655810/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4655810/6f309e1f8c18e0b80f3b3fe42cffe03cbb17e801/header.jpg?t=1776863715",
+        "Date": "TBA",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776867212.3271816,
+        "MatchedTags": [
+            "psychological horror",
+            "horror",
+            "survival horror"
         ]
     }
 }
