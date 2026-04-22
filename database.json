@@ -5741,9 +5741,9 @@
         "URL": "https://store.steampowered.com/app/4450260/",
         "Site": "https://ssusp24socials.wixsite.com/bearlyastudio",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4450260/84d8e55bb0690c22167d42a8508009b07a225aae/header.jpg?t=1773240384",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-03-11",
-        "AddedTimestamp": 1773241643.44808,
+        "Date": "Apr 22, 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776878213.3689437,
         "MatchedTags": [
             "horror"
         ]
@@ -28505,9 +28505,9 @@
         "URL": "https://store.steampowered.com/app/4589190/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4589190/166678bf1fa9764cde3b5337cfdaae2869313ab5/header.jpg?t=1775884011",
-        "Date": "September 2026",
-        "AddedDate": "2026-04-20",
-        "AddedTimestamp": 1776713809.7275858,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776878267.4861434,
         "MatchedTags": [
             "survival horror",
             "horror"
@@ -29996,9 +29996,9 @@
         "URL": "https://store.steampowered.com/app/4592400/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4592400/42b694cf794330db59c953adb638bb7378db4af8/header.jpg?t=1776111623",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-04-14",
-        "AddedTimestamp": 1776195847.2341862,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776878271.6691387,
         "MatchedTags": [
             "survival horror",
             "management",
@@ -33231,7 +33231,7 @@
     "2662310": {
         "Title": "Crewed",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/N22xgRaXWd",
         "URL": "https://store.steampowered.com/app/2662310/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2662310/9a39a13c09b5395fdd3be34043fcf9807b738c3d/header.jpg?t=1776358741",
@@ -36698,9 +36698,9 @@
         "URL": "https://store.steampowered.com/app/4626470/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4626470/4d9600aa5dc0f53a1c60e10fb5e8118e21bf0876/header.jpg?t=1776749350",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-21",
-        "AddedTimestamp": 1776752157.1384685,
+        "Date": "May 5, 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776878302.2651947,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -38497,6 +38497,188 @@
             "horror",
             "survival horror",
             "psychological horror"
+        ]
+    },
+    "4017500": {
+        "Title": "Battle Architect: Dalasito",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4017500/",
+        "Site": "https://youtube.com/dalasreview",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017500/64c112cf6a73b00606b63e9db9d3293752deef50/header.jpg?t=1776874221",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776878183.4585316,
+        "MatchedTags": [
+            "tower defense",
+            "turn-based tactics"
+        ]
+    },
+    "4185080": {
+        "Title": "System Ascension: Idle Core",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4185080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4185080/4020428f0dad52d15e9512c3eb4f38f52db4bbe7/header.jpg?t=1776872807",
+        "Date": "May 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776878187.541821,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4526510": {
+        "Title": "Chinese Newcomer",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4526510/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4526510/5b17c3a4c94936063baaaeb0c32969da4545b04d/header.jpg?t=1776874762",
+        "Date": "Jun 22, 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776878237.285465,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4530260": {
+        "Title": "Now",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4530260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4530260/2ae1d7a3366866b7dfe9d70aa08df5c6ee9f7052/header.jpg?t=1776875000",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776878240.2040324,
+        "MatchedTags": [
+            "strategy",
+            "survival horror"
+        ]
+    },
+    "4563980": {
+        "Title": "Survivor 53",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4563980/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4563980/7cfb491d37f7cdb8fd2e461782c5bc52c6e5798a/header.jpg?t=1776877324",
+        "Date": "TBA",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776878253.7047908,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4587920": {
+        "Title": "Cast & Conquer",
+        "Email": "",
+        "Discord": "https://discord.gg/fg8UZsCJ",
+        "URL": "https://store.steampowered.com/app/4587920/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4587920/e05146835961d26b0c92331169cf89bc26e6d2fc/header.jpg?t=1776873728",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776878264.8842106,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "tactical",
+            "turn-based tactics"
+        ]
+    },
+    "4593930": {
+        "Title": "FOAMGRAVE",
+        "Email": "distantvisitant@triadpixel.com",
+        "Discord": "https://discord.gg/4nVqvBzJpe",
+        "URL": "https://store.steampowered.com/app/4593930/",
+        "Site": "https://triadpixel.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4593930/760050006b435666a892046ad50bfe69314ce44a/header.jpg?t=1776877763",
+        "Date": "May 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776878274.1957068,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4601850": {
+        "Title": "The Yield",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4601850/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4601850/8bc5eafd97ee095870b53270e4e9447540a22067/header.jpg?t=1776874955",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776878277.782033,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4614070": {
+        "Title": "Gun Massacre",
+        "Email": "",
+        "Discord": "https://discord.gg/cCMrdCJfUr",
+        "URL": "https://store.steampowered.com/app/4614070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4614070/5f1689ed96b167354b734202be06837614b7fbe1/header.jpg?t=1776873558",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776878288.9362547,
+        "MatchedTags": [
+            "survival horror",
+            "strategy",
+            "resource management",
+            "horror"
+        ]
+    },
+    "4631340": {
+        "Title": "Beyond The Gate",
+        "Email": "",
+        "Discord": "https://discord.gg/nMYD6CDZrW",
+        "URL": "https://store.steampowered.com/app/4631340/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4631340/04b1159814c6370bb82dc515f3257946f7c1a052/header.jpg?t=1776877100",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776878307.5860918,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4644850": {
+        "Title": "Last Floor",
+        "Email": "",
+        "Discord": "https://discord.com/invite/DhjQapVerf",
+        "URL": "https://store.steampowered.com/app/4644850/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4644850/9cf107a1f0a0c0c9ed3b2005b31668abe25b8a35/header.jpg?t=1776877440",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776878316.2526574,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4645350": {
+        "Title": "SystemRebellion",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4645350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4645350/13dc911b9df52e21d532cda1252e00e1d965a2ee/header.jpg?t=1776873210",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776878318.8537035,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "tactical rpg",
+            "turn-based tactics",
+            "tactical"
         ]
     }
 }
