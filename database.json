@@ -7074,9 +7074,9 @@
         "URL": "https://store.steampowered.com/app/4418130/",
         "Site": "https://entaltostudios.com/our-games/fear-tall-grass/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4418130/069e9533a7ab19494aacc97e6dd664036e004a62/header.jpg?t=1773390308",
-        "Date": "2026",
-        "AddedDate": "2026-03-13",
-        "AddedTimestamp": 1773392413.876319,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776845384.4015641,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -24087,7 +24087,7 @@
     "3199530": {
         "Title": "Dark Ruins",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/Uy2C36F7",
         "URL": "https://store.steampowered.com/app/3199530/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3199530/f32eb7a88c20892bca1396987390335026af08a2/header.jpg?t=1775568281",
@@ -24645,9 +24645,9 @@
         "URL": "https://store.steampowered.com/app/4593290/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4593290/88503c626103b805afbf575d79326bf6e8ca473a/header.jpg?t=1775622065",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-08",
-        "AddedTimestamp": 1775628025.6484976,
+        "Date": "Apr 27, 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776845399.9949148,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -25680,15 +25680,15 @@
         "URL": "https://store.steampowered.com/app/3517570/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3517570/f84f21432fe2c2c8a79fb04bef1f353b3167aa5c/header.jpg?t=1775713239",
-        "Date": "Apr 21, 2026",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775714320.358414,
+        "Date": "Apr 22, 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776845362.6676397,
         "MatchedTags": [
-            "resource management",
+            "city builder",
+            "colony sim",
             "management",
             "strategy",
-            "city builder",
-            "colony sim"
+            "resource management"
         ]
     },
     "4082870": {
@@ -30368,9 +30368,9 @@
         "URL": "https://store.steampowered.com/app/4606900/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606900/d00d2324e6f4e95347b7b6001894238629458c88/header.jpg?t=1776158816",
-        "Date": "Apr 21, 2026",
-        "AddedDate": "2026-04-14",
-        "AddedTimestamp": 1776160309.941424,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776845406.9246137,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -38083,6 +38083,127 @@
             "strategy",
             "real time tactics",
             "tactical rpg"
+        ]
+    },
+    "4190300": {
+        "Title": "Vastloop",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4190300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4190300/d06bac58a0e3f02aab2516387441cfd6b8ded4a2/header.jpg?t=1776841783",
+        "Date": "TBA",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776845367.291639,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4314870": {
+        "Title": "Infinite Crosswalk",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4314870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4314870/431cd38a8ed3f866fe0615c200d17456f39ff2e1/header.jpg?t=1776842550",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776845374.2671213,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4404480": {
+        "Title": "Appalachian Onslaught",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4404480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4404480/8a7b0018387635da64904fce52b120e5ce2ea311/header.jpg?t=1776842392",
+        "Date": "Jul 31, 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776845382.4562793,
+        "MatchedTags": [
+            "tower defense",
+            "horror",
+            "strategy",
+            "base building"
+        ]
+    },
+    "4629870": {
+        "Title": "Astronine",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4629870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4629870/2fbfb7cfa5cb16ed6abb257795343162e288f76c/header.jpg?t=1776841980",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776845417.805628,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4634560": {
+        "Title": "Carpet Cleaning Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4634560/",
+        "Site": "https://x.com/bi_karu",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4634560/30ce64b008c8a9d0828a372fea2a75d015d5f22d/header.jpg?t=1776841780",
+        "Date": "2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776845422.66027,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4644050": {
+        "Title": "Viking Vending",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4644050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4644050/03ace1ddef61b2dee83422a763b48783cc9aa10b/header.jpg?t=1776841780",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776845428.4269712,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4650280": {
+        "Title": "The Dream Hold",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4650280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4650280/146fca22cea28c63a465ae8aac9f3eb43b0ce227/header.jpg?t=1776840563",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776845432.5837965,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "4651130": {
+        "Title": "Cleaning Simulator: Ultimate Mess",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4651130/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4651130/a1f86cf2286a81952286687982e8db34b3db0fbf/header.jpg?t=1776845119",
+        "Date": "TBA",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776845434.7263103,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "resource management"
         ]
     }
 }
