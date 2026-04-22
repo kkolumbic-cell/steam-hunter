@@ -13103,7 +13103,7 @@
     },
     "2680770": {
         "Title": "Formind",
-        "Email": "pr@next-genium.com, hr@next-genium.com, info@next-genium.com",
+        "Email": "info@next-genium.com, pr@next-genium.com, hr@next-genium.com",
         "Discord": "https://discord.gg/UhTb5md2",
         "URL": "https://store.steampowered.com/app/2680770/",
         "Site": "https://next-genium.com/en/",
@@ -23880,9 +23880,9 @@
         "URL": "https://store.steampowered.com/app/4395630/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4395630/67e627e4ed52b446069c000faa23a547dac97d99/header.jpg?t=1775554204",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775554528.8834395,
+        "Date": "Apr 22, 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776851660.060613,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -38204,6 +38204,23 @@
             "management",
             "economy",
             "resource management"
+        ]
+    },
+    "4631400": {
+        "Title": "Exit Liquidity: Wall Street Trading Sim",
+        "Email": "",
+        "Discord": "https://discord.gg/2UBEzjG3",
+        "URL": "https://store.steampowered.com/app/4631400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4631400/180ba323beea62707675556000fd16bf9c662789/header.jpg?t=1776845825",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776851726.964643,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "economy",
+            "management"
         ]
     }
 }
