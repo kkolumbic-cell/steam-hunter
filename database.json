@@ -20470,9 +20470,9 @@
         "URL": "https://store.steampowered.com/app/3715920/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3715920/32c58c10dba6132ded4c41d4dab1b6cffce98c9c/header.jpg?t=1775068924",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-21",
-        "AddedTimestamp": 1776808866.298716,
+        "Date": "Apr 21, 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776829428.9301145,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -29759,9 +29759,9 @@
         "URL": "https://store.steampowered.com/app/4607750/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4607750/328def72be27e16d040b76a7d9ccc65804fa68b9/header.jpg?t=1776100989",
-        "Date": "TBA",
-        "AddedDate": "2026-04-13",
-        "AddedTimestamp": 1776101627.2363546,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776829546.116543,
         "MatchedTags": [
             "resource management",
             "economy"
@@ -37598,7 +37598,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4642990/",
-        "Site": "",
+        "Site": "https://playdawnhold.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4642990/7fbf9ce9eace2bc3a9e570d70723e7997d7f5296/header.jpg?t=1776799661",
         "Date": "Q3 2026",
         "AddedDate": "2026-04-21",
@@ -37810,7 +37810,7 @@
     "4590990": {
         "Title": "Ouroboros Solitaire",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/NugdTHg9z8",
         "URL": "https://store.steampowered.com/app/4590990/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4590990/9e36ad896f85a576dbb55bd22afc4d0eaa0938b1/header.jpg?t=1776810849",
@@ -37876,6 +37876,161 @@
         "AddedTimestamp": 1776815575.93327,
         "MatchedTags": [
             "resource management"
+        ]
+    },
+    "2193790": {
+        "Title": "Vtopia",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2193790/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2193790/97685efb411a6491e635704ecb3b2dfeafa585bd/header.jpg?t=1776817310",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776829426.9270115,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "4192680": {
+        "Title": "7 Trials",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4192680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4192680/cb8c251fd6b6b299be1b747bc51a9bde1264ec07/header.jpg?t=1776826132",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776829447.0405264,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4490290": {
+        "Title": "Grid Realm",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4490290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4490290/48f04c02538de86e6b759c939304aafaf8bca0f4/header.jpg?t=1776826658",
+        "Date": "Jul 2, 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776829478.3498075,
+        "MatchedTags": [
+            "city builder",
+            "base building"
+        ]
+    },
+    "4596140": {
+        "Title": "\u7f51\u7edc\u7537\u795e\u6a21\u62df\u5668",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4596140/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4596140/f96d76ef8e978f0faf6a8dea179eb466ef52a0a3/header.jpg?t=1776828438",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776829532.9556518,
+        "MatchedTags": [
+            "turn-based strategy"
+        ]
+    },
+    "4603280": {
+        "Title": "Triad of Victory",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4603280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4603280/6e2e323b5a7900f0943df887ff17e0701dfe43f8/header.jpg?t=1776821839",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776829540.6668665,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy"
+        ]
+    },
+    "4603640": {
+        "Title": "Bootlegger's Bar",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4603640/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4603640/fbf21b6565baaec1587423f09ca3b48f503fe471/header.jpg?t=1776828807",
+        "Date": "2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776829543.7600548,
+        "MatchedTags": [
+            "resource management",
+            "strategy",
+            "management",
+            "turn-based tactics",
+            "tactical"
+        ]
+    },
+    "4615950": {
+        "Title": "!CHESS",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4615950/",
+        "Site": "https://rbgamestudio.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4615950/91c1b5bc815a886b6bd1a93e53601af7e1056e38/header.jpg?t=1776820393",
+        "Date": "Jun 1, 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776829559.1847029,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "real time tactics",
+            "turn-based combat",
+            "tactical",
+            "turn-based strategy"
+        ]
+    },
+    "4629500": {
+        "Title": "Starherald",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4629500/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4629500/8976da903723c301a1a04bd6b263132180d89b74/header.jpg?t=1776817630",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776829572.6708581,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "base building"
+        ]
+    },
+    "4631440": {
+        "Title": "Luminara: The Second Dawn",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4631440/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4631440/61cca8f16a391367588b7dba1e2666127174ce68/header.jpg?t=1776818627",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776829578.488558,
+        "MatchedTags": [
+            "resource management",
+            "management"
+        ]
+    },
+    "4638110": {
+        "Title": "Brushwork",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4638110/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4638110/5163edc1b4945a1172f5b722398078557b75fac1/header.jpg?t=1776825053",
+        "Date": "May 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776829590.2219465,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
         ]
     }
 }
