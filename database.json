@@ -26679,9 +26679,9 @@
         "URL": "https://store.steampowered.com/app/4375040/",
         "Site": "https://www.coldfrontgames.ca/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4375040/d907e5e0ef1627b8832e0028e8e428cf2ada3a5d/header.jpg?t=1775766907",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-11",
-        "AddedTimestamp": 1775934394.3971827,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776872570.5228736,
         "MatchedTags": [
             "resource management"
         ]
@@ -27595,7 +27595,7 @@
     "4457590": {
         "Title": "Don't Go Live",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/J2GH9dqpFU",
         "URL": "https://store.steampowered.com/app/4457590/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4457590/7cad837b6c9cdaa6e90b06b17fec1d1b74d304ab/header.jpg?t=1775822976",
@@ -31157,20 +31157,6 @@
             "base building",
             "resource management",
             "management"
-        ]
-    },
-    "4364220": {
-        "Title": "This is not Chess, It's War!",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4364220/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4364220/d7a9625fae4643401389251b5718b3c20e3b26b0/header.jpg?t=1776207457",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-14",
-        "AddedTimestamp": 1776207958.087847,
-        "MatchedTags": [
-            "strategy"
         ]
     },
     "4520400": {
@@ -34808,8 +34794,7 @@
         "AddedDate": "2026-04-18",
         "AddedTimestamp": 1776497808.149454,
         "MatchedTags": [
-            "strategy",
-            "grand strategy"
+            "strategy"
         ]
     },
     "4624150": {
@@ -36197,9 +36182,9 @@
         "URL": "https://store.steampowered.com/app/4641660/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4641660/76a99409f11c8a8308b0913bf3307e00750582fb/header.jpg?t=1776713361",
-        "Date": "TBA",
-        "AddedDate": "2026-04-20",
-        "AddedTimestamp": 1776713849.3048117,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776872643.2525313,
         "MatchedTags": [
             "real time tactics",
             "tactical"
@@ -37287,9 +37272,9 @@
         "URL": "https://store.steampowered.com/app/4644110/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4644110/e440eb8b740ce8c6a7d65ba810375423f665af60/header.jpg?t=1776784089",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-21",
-        "AddedTimestamp": 1776786339.4026632,
+        "Date": "May 8, 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776872647.2358212,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -38370,6 +38355,148 @@
             "psychological horror",
             "horror",
             "survival horror"
+        ]
+    },
+    "4048600": {
+        "Title": "Turnarchist",
+        "Email": "",
+        "Discord": "https://discord.gg/NasQNaKr",
+        "URL": "https://store.steampowered.com/app/4048600/",
+        "Site": "https://turnarchist.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4048600/16c8a7689067c64b56370a681c0977157f796389/header.jpg?t=1776868892",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776872546.754783,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4363230": {
+        "Title": "Rampallians",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4363230/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4363230/546711ccd114fcd1b3f3e3f23322b97c301e0ab8/header.jpg?t=1776870958",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776872563.0199344,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4536960": {
+        "Title": "Brewery Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4536960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4536960/700070c942c2110ae5c55b5c5dc3fd254bd4e8ca/header.jpg?t=1776872071",
+        "Date": "Jun 30, 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776872599.0784347,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4600060": {
+        "Title": "Seal The Breach",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4600060/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4600060/e2d534f513f8517018d48ae78c7ff0736130f4ab/header.jpg?t=1776870729",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776872615.4022238,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4600970": {
+        "Title": "Medium Chronicles: Room 644",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4600970/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4600970/cb4601dcb97878f8c02f5bd67bc54c3848a01de8/header.jpg?t=1776871181",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776872617.7423012,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4605360": {
+        "Title": "Shadow Solitaire",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4605360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4605360/511ecd752b6b9db18219846378fa6a2eb74a0934/header.jpg?t=1776868595",
+        "Date": "April 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776872623.3644552,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4613730": {
+        "Title": "Brooks Investment Simulator",
+        "Email": "brooksinnovationandtechnologyc@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4613730/",
+        "Site": "https://brooksinnovationandtechnologyc-png.github.io/britc-website/index.html",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4613730/99d31e314c429c6257f09362fe4dc62c1d2f34aa/header.jpg?t=1776869267",
+        "Date": "Apr 29, 2026",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776872625.3148625,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management"
+        ]
+    },
+    "4635270": {
+        "Title": "EXITRANCE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4635270/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4635270/2109ac1359c4c9f40cdceb78d8adb5f3b3875139/header.jpg?t=1776867981",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776872638.3648658,
+        "MatchedTags": [
+            "psychological horror",
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4635560": {
+        "Title": "FEED IT",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4635560/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4635560/9e4bceed9998686fc1b04240e241df53dfddfa91/header.jpg?t=1776868139",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-22",
+        "AddedTimestamp": 1776872640.8417065,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
         ]
     }
 }
