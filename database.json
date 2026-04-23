@@ -14573,7 +14573,7 @@
     },
     "4548250": {
         "Title": "Past Due: Midnight",
-        "Email": "info@eboncrowngames.com",
+        "Email": "studio@eboncrowngames.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4548250/",
         "Site": "https://eboncrowngames.com/",
@@ -38200,9 +38200,9 @@
         "URL": "https://store.steampowered.com/app/3720370/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3720370/1a078591bd156a31410fec2495667a3a2b38bd46/header.jpg?t=1776863219",
-        "Date": "June 2026",
-        "AddedDate": "2026-04-22",
-        "AddedTimestamp": 1776867070.4196131,
+        "Date": "July 2026",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776985712.977152,
         "MatchedTags": [
             "strategy",
             "real time tactics"
@@ -40205,9 +40205,9 @@
         "URL": "https://store.steampowered.com/app/4616540/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4616540/2b743792009a0b34816ee782d2e4d5b2a19280ee/header.jpg?t=1776981654",
-        "Date": "Apr 28, 2026",
+        "Date": "Coming soon",
         "AddedDate": "2026-04-23",
-        "AddedTimestamp": 1776981878.1136668,
+        "AddedTimestamp": 1776985779.0878572,
         "MatchedTags": [
             "strategy",
             "real time tactics"
@@ -40244,6 +40244,52 @@
             "turn-based strategy",
             "turn-based combat",
             "tactical"
+        ]
+    },
+    "4581810": {
+        "Title": "Scrap Yard Idle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4581810/",
+        "Site": "https://headarrow.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4581810/316039b587a2b89a135cc295460640dfb2c2d5b4/header.jpg?t=1776985573",
+        "Date": "Sep 1, 2026",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776985760.9068344,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "management",
+            "economy"
+        ]
+    },
+    "4623860": {
+        "Title": "Netfall",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4623860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4623860/337da92142f63f0892ae9a7cc9536ee5f7bffd5a/header.jpg?t=1776982101",
+        "Date": "May 2026",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776985783.7523274,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4628420": {
+        "Title": "South of the March",
+        "Email": "",
+        "Discord": "https://discord.gg/ePSX5vu",
+        "URL": "https://store.steampowered.com/app/4628420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4628420/63a268970fb39a35c3db1a707f849be454a8bd4c/header.jpg?t=1776983926",
+        "Date": "TBA",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776985790.1120803,
+        "MatchedTags": [
+            "turn-based combat"
         ]
     }
 }
