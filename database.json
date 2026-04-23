@@ -25224,9 +25224,9 @@
         "URL": "https://store.steampowered.com/app/4540810/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4540810/edb6cd9d6bf7b9377223b2ec1505fab4fe4d6c2c/header.jpg?t=1775673714",
-        "Date": "November 2026",
-        "AddedDate": "2026-04-08",
-        "AddedTimestamp": 1775677335.373766,
+        "Date": "Apr 23, 2026",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776981864.3767753,
         "MatchedTags": [
             "strategy"
         ]
@@ -33171,13 +33171,13 @@
     "4615330": {
         "Title": "ROBOSCAV",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/QmHhFwm9",
         "URL": "https://store.steampowered.com/app/4615330/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4615330/9686c541ccf09b109b61d77bb89e6bfd7887a627/header.jpg?t=1776356018",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-16",
-        "AddedTimestamp": 1776358328.5300918,
+        "Date": "To be announced",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776981876.044262,
         "MatchedTags": [
             "turn-based combat",
             "strategy"
@@ -40150,6 +40150,100 @@
             "survival horror",
             "horror",
             "resource management"
+        ]
+    },
+    "4510450": {
+        "Title": "Call into the Hollow : [ 2300 ]",
+        "Email": "runground858@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4510450/",
+        "Site": "https://runground.wixsite.com/runground/finallink",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4510450/fbf4dcebd3d2efb4e0bf415e6fd2e971b4ac1036/header.jpg?t=1776981357",
+        "Date": "January 2027",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776981849.7956324,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4520810": {
+        "Title": "Tap Monster: Saga",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4520810/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4520810/40d1aed2c40c276359ea4680df6b32cb03d90e38/header.jpg?t=1776979992",
+        "Date": "June 2026",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776981853.736904,
+        "MatchedTags": [
+            "tactical rpg",
+            "real time tactics",
+            "strategy"
+        ]
+    },
+    "4529210": {
+        "Title": "Iman",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4529210/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4529210/6aa1838038ed1c49977168e729d56af25e2ffc6b/header.jpg?t=1776981241",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776981856.4749858,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4616540": {
+        "Title": "Void Runner",
+        "Email": "",
+        "Discord": "https://discord.gg/univers",
+        "URL": "https://store.steampowered.com/app/4616540/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4616540/2b743792009a0b34816ee782d2e4d5b2a19280ee/header.jpg?t=1776981654",
+        "Date": "Apr 28, 2026",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776981878.1136668,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics"
+        ]
+    },
+    "4652460": {
+        "Title": "SCP-294: The Coffee Machine",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4652460/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4652460/578e18d93f06ecb73b03ebc579f97d22e6f43f43/header.jpg?t=1776981072",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776981890.2148564,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4658040": {
+        "Title": "The Sons of Earth",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4658040/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4658040/4e3518b50be9027dd7c07cb1f44853fda8ed8788/header.jpg?t=1776979114",
+        "Date": "Sep 30, 2026",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776981893.1633117,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat",
+            "tactical"
         ]
     }
 }
