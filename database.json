@@ -25106,9 +25106,9 @@
         "URL": "https://store.steampowered.com/app/4553910/",
         "Site": "https://www.codexsolis.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4553910/d8d9f0d0cc3627ae109bd2a5e2646fb9067f3e7a/header.jpg?t=1775667191",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-08",
-        "AddedTimestamp": 1775669699.6777873,
+        "Date": "Apr 23, 2026",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776973413.2875037,
         "MatchedTags": [
             "strategy"
         ]
@@ -26511,9 +26511,9 @@
         "URL": "https://store.steampowered.com/app/4582030/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4582030/903c0d2db80798f7d728b77b6f3dd03e26e29e1c/header.jpg?t=1775755352",
-        "Date": "Apr 20, 2026",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775758410.5500922,
+        "Date": "Apr 23, 2026",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776973426.2784767,
         "MatchedTags": [
             "management"
         ]
@@ -28474,9 +28474,9 @@
         "URL": "https://store.steampowered.com/app/4584510/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4584510/4788040819096e7599ca43c0d6238abecf81ac44/header.jpg?t=1775882770",
-        "Date": "Apr 16, 2026",
-        "AddedDate": "2026-04-11",
-        "AddedTimestamp": 1775886097.1501427,
+        "Date": "April 2026",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776973431.370218,
         "MatchedTags": [
             "turn-based strategy",
             "turn-based combat"
@@ -31032,7 +31032,8 @@
         "AddedTimestamp": 1776195859.8813484,
         "MatchedTags": [
             "strategy",
-            "tactical"
+            "tactical",
+            "management"
         ]
     },
     "4616730": {
@@ -36613,7 +36614,7 @@
     "4583840": {
         "Title": "Winter Hunts Us",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/nG4sCkjkk8",
         "URL": "https://store.steampowered.com/app/4583840/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4583840/862dbc2b438a3f2c49d46961f0b117be6d44bf94/header.jpg?t=1776750879",
@@ -39710,7 +39711,7 @@
         "MatchedTags": [
             "economy",
             "management",
-            "resource management"
+            "strategy"
         ]
     },
     "3831700": {
@@ -39882,6 +39883,147 @@
         "MatchedTags": [
             "horror",
             "base building"
+        ]
+    },
+    "4098070": {
+        "Title": "SHALTER-03",
+        "Email": "",
+        "Discord": "https://discord.gg/MSHK3sAg2M",
+        "URL": "https://store.steampowered.com/app/4098070/",
+        "Site": "https://lumenariastudios.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4098070/e9a40cd3aa2ee75bc57f08b96a2f7f5c9a7bff50/header.jpg?t=1776972056",
+        "Date": "June 2026",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776973362.5132618,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics"
+        ]
+    },
+    "4449650": {
+        "Title": "Beards Go Underground",
+        "Email": "",
+        "Discord": "https://discord.gg/jDxvjQDtG2",
+        "URL": "https://store.steampowered.com/app/4449650/",
+        "Site": "https://beards.gg",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4449650/8684c94c39bcd05885bbea5f2d9cb539adfa4237/header.jpg?t=1776971021",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776973377.7598786,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4452200": {
+        "Title": "No One Leaves Lindenfield",
+        "Email": "",
+        "Discord": "https://discord.gg/7fXrfeVHxH",
+        "URL": "https://store.steampowered.com/app/4452200/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4452200/8851828ee5bcff855850ee7f4df9e6d02b36596a/header.jpg?t=1776967588",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776973381.360129,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "strategy",
+            "psychological horror"
+        ]
+    },
+    "4620970": {
+        "Title": "\u4ea1\u7075\u90fdWraithGather",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4620970/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4620970/84d236f92c1991e12f41c5f8715d3727671a7564/header.jpg?t=1776967285",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776973454.2987292,
+        "MatchedTags": [
+            "survival horror"
+        ]
+    },
+    "4623010": {
+        "Title": "PARRALYSIS",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4623010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4623010/68cff4e03110b1e2deea35b1423e3371128b3dfc/header.jpg?t=1776972952",
+        "Date": "Jun 30, 2026",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776973456.7159386,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4635840": {
+        "Title": "Play Things",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4635840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4635840/f51436c0a9c019b7f82d792b1f50c6ab220bc91c/header.jpg?t=1776968064",
+        "Date": "May 8, 2026",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776973466.0297742,
+        "MatchedTags": [
+            "psychological horror",
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4638290": {
+        "Title": "Card of Fate",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4638290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4638290/6a2df6eee28cc32b71c6e2be8a95420eff7b05f5/header.jpg?t=1776966908",
+        "Date": "Jul 1, 2026",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776973469.196651,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "turn-based tactics",
+            "tactical",
+            "turn-based strategy"
+        ]
+    },
+    "4642310": {
+        "Title": "Taktari",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4642310/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4642310/c5db6c3371b0d85414b82b370a7be2060c6777ed/header.jpg?t=1776971868",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776973474.4729688,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "tactical"
+        ]
+    },
+    "4650350": {
+        "Title": "BCKSPCE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4650350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4650350/434fa912b4612dcaec298ee65ad82227d17923f1/header.jpg?t=1776971485",
+        "Date": "May 26, 2026",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776973482.0423782,
+        "MatchedTags": [
+            "psychological horror"
         ]
     }
 }
