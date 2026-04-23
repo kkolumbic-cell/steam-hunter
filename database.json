@@ -21416,21 +21416,6 @@
             "strategy"
         ]
     },
-    "4560660": {
-        "Title": "Eslabong",
-        "Email": "",
-        "Discord": "https://discord.gg/pMVaUKFJ",
-        "URL": "https://store.steampowered.com/app/4560660/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4560660/5688a138cabe17b209eb93fec9cb8206ac52cf44/header.jpg?t=1775152036",
-        "Date": "July 2026",
-        "AddedDate": "2026-04-18",
-        "AddedTimestamp": 1776483150.9244022,
-        "MatchedTags": [
-            "strategy",
-            "management"
-        ]
-    },
     "4160590": {
         "Title": "Abyss of Kings",
         "Email": "",
@@ -35237,9 +35222,9 @@
         "URL": "https://store.steampowered.com/app/4619160/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4619160/0a48736330f5c4199ea2f3d7f016b76dbb45d74f/header.jpg?t=1776541670",
-        "Date": "Dec 31, 2027",
-        "AddedDate": "2026-04-18",
-        "AddedTimestamp": 1776542106.2441542,
+        "Date": "2027",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776902660.7247484,
         "MatchedTags": [
             "turn-based tactics",
             "turn-based combat",
@@ -38934,6 +38919,62 @@
         "AddedTimestamp": 1776899292.833011,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4526960": {
+        "Title": "Unfree Freesia",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4526960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4526960/71a705fb8d20f6d26a98806b0ae0020e3540a8da/header.jpg?t=1776900079",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776902650.814886,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4626410": {
+        "Title": "\u5f00\u5c40\u517b\u6210\u6ee1\u7ea7\u4fee\u58eb",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4626410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4626410/68192df1afe3739c581a4a7b15a2c055211b58a1/header.jpg?t=1776900987",
+        "Date": "May 1, 2026",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776902668.1459687,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4632470": {
+        "Title": "Crownseeker",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4632470/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4632470/5499350a713cade7f53ceddc52fa65661d0c3f39/header.jpg?t=1776900530",
+        "Date": "Jul 2, 2026",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776902670.421209,
+        "MatchedTags": [
+            "tactical rpg"
+        ]
+    },
+    "4634570": {
+        "Title": "Widget Idle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4634570/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4634570/6dba8092ce9e89d19573b513effb77327434a4e2/header.jpg?t=1776901386",
+        "Date": "2026",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776902673.3795633,
+        "MatchedTags": [
+            "management"
         ]
     }
 }
