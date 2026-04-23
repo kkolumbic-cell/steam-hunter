@@ -4638,9 +4638,9 @@
         "URL": "https://store.steampowered.com/app/4505030/",
         "Site": "http://yesgamesonline.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4505030/5ba7e55b1f4dd960beaaf7b47b14c55466a6e499/header.jpg?t=1773095521",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-11",
-        "AddedTimestamp": 1773241675.7795053,
+        "Date": "Apr 29, 2026",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776941362.4345045,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -25669,10 +25669,10 @@
         "AddedDate": "2026-04-22",
         "AddedTimestamp": 1776845362.6676397,
         "MatchedTags": [
-            "city builder",
-            "colony sim",
             "management",
             "strategy",
+            "city builder",
+            "colony sim",
             "resource management"
         ]
     },
@@ -30014,9 +30014,9 @@
         "URL": "https://store.steampowered.com/app/4569540/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4569540/16fdaf50d3e209f6e080a1598560953e0ef93e0f/header.jpg?t=1776114665",
-        "Date": "Apr 27, 2026",
-        "AddedDate": "2026-04-13",
-        "AddedTimestamp": 1776117878.0291905,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776941404.4267602,
         "MatchedTags": [
             "strategy"
         ]
@@ -30369,9 +30369,9 @@
         "URL": "https://store.steampowered.com/app/4542800/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4542800/8376224a3d23950fc2439c53fe0ff48af914f949/header.jpg?t=1776164434",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-14",
-        "AddedTimestamp": 1776166310.9665203,
+        "Date": "July 2026",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776941385.5783272,
         "MatchedTags": [
             "strategy"
         ]
@@ -35890,9 +35890,9 @@
         "URL": "https://store.steampowered.com/app/4345840/",
         "Site": "https://www.jptinteractive.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4345840/dd8a51bc99c06bb6e890b0f5c6bb439373cd7741/header.jpg?t=1776698440",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-20",
-        "AddedTimestamp": 1776700074.2514443,
+        "Date": "Jul 14, 2026",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776941348.9538794,
         "MatchedTags": [
             "economy"
         ]
@@ -39276,6 +39276,100 @@
         "AddedTimestamp": 1776935203.6708596,
         "MatchedTags": [
             "resource management"
+        ]
+    },
+    "2152500": {
+        "Title": "Dig In",
+        "Email": "",
+        "Discord": "https://discord.gg/aXaQfNQq",
+        "URL": "https://store.steampowered.com/app/2152500/",
+        "Site": "https://www.vitargames.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2152500/9390557b9d0d886cd913cd6deee68a673b0c986b/header.jpg?t=1776937084",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776941322.186459,
+        "MatchedTags": [
+            "strategy",
+            "colony sim",
+            "management",
+            "base building",
+            "resource management",
+            "real time tactics"
+        ]
+    },
+    "4046370": {
+        "Title": "Ling House: Echoes Within",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4046370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4046370/d8791e85157bac43cc73086e1aba58d63adde31d/header.jpg?t=1776938356",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776941332.185275,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4228630": {
+        "Title": "QUIET",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4228630/",
+        "Site": "https://www.line.games/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4228630/6673f0c5252d0b76b2b86ed0844d58d4b7b028ae/header.jpg?t=1776941190",
+        "Date": "Dec 31, 2026",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776941334.0521069,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4235570": {
+        "Title": "The Case of the Cryosleep Killer",
+        "Email": "silvermedal@silvermedalgames.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4235570/",
+        "Site": "https://www.silvermedalgames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4235570/ec2114276ddef1cb5ffb9dc4cd6acf263a4d3b88/header.jpg?t=1776936142",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776941340.7063472,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4283610": {
+        "Title": "Witherbound",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4283610/",
+        "Site": "https://witherbound.net/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4283610/7b6e9640cae1baa2ec96efa70c9c90fb10fa8826/header.jpg?t=1776936022",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776941345.731673,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4631840": {
+        "Title": "Deckrown",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4631840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4631840/7da78eff72c516b12b2cb9c408c75a1e22854a7e/header.jpg?t=1776939873",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776941422.420434,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
         ]
     }
 }
