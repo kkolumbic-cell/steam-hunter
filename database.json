@@ -20485,9 +20485,9 @@
         "URL": "https://store.steampowered.com/app/4529420/",
         "Site": "https://x.com/dmx_dev",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4529420/12067d4dd59ea0f7d909302a46df58e59564200a/header.jpg?t=1775067605",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-01",
-        "AddedTimestamp": 1775072004.8077612,
+        "Date": "2026",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776946210.7710986,
         "MatchedTags": [
             "base building"
         ]
@@ -39319,9 +39319,9 @@
         "URL": "https://store.steampowered.com/app/4228630/",
         "Site": "https://www.line.games/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4228630/6673f0c5252d0b76b2b86ed0844d58d4b7b028ae/header.jpg?t=1776941190",
-        "Date": "Dec 31, 2026",
+        "Date": "2026",
         "AddedDate": "2026-04-23",
-        "AddedTimestamp": 1776941334.0521069,
+        "AddedTimestamp": 1776946190.1675913,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -39370,6 +39370,49 @@
         "MatchedTags": [
             "strategy",
             "turn-based combat"
+        ]
+    },
+    "3037080": {
+        "Title": "Cubic",
+        "Email": "",
+        "Discord": "https://discord.gg/TDt4GERC",
+        "URL": "https://store.steampowered.com/app/3037080/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037080/453b0dcdb3376aef1c710c8f06e11c000a5138c7/header.jpg?t=1776942488",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776946173.231992,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4149640": {
+        "Title": "On the Rocks",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4149640/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4149640/d231b9eedaedc821271493befe8dd32bc14442f1/header.jpg?t=1776946056",
+        "Date": "TBA",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776946181.2685854,
+        "MatchedTags": [
+            "management",
+            "economy"
+        ]
+    },
+    "4368880": {
+        "Title": "RatSpire",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4368880/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4368880/129ff3d4e3c3ce790c4fc003f6dd15ada0d18b59/header.jpg?t=1776944971",
+        "Date": "November 2026",
+        "AddedDate": "2026-04-23",
+        "AddedTimestamp": 1776946198.6368105,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
