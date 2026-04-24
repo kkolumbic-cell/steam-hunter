@@ -36339,13 +36339,12 @@
         "URL": "https://store.steampowered.com/app/4612870/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4612870/2493c33860e7efcf58591f87f6cea7e8130ec22e/header.jpg?t=1776725233",
-        "Date": "TBA",
-        "AddedDate": "2026-04-20",
-        "AddedTimestamp": 1776726323.351135,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1776989094.335684,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
-            "tactical rpg",
             "turn-based tactics"
         ]
     },
@@ -40289,6 +40288,70 @@
         "AddedDate": "2026-04-23",
         "AddedTimestamp": 1776985790.1120803,
         "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "3750300": {
+        "Title": "Orpheus",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3750300/",
+        "Site": "https://entropygames.carrd.co/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3750300/022d3f010d95504c8385f582dabfd0a7833b5024/header.jpg?t=1776986636",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1776989066.8992717,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4611120": {
+        "Title": "The Observation Exit",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4611120/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4611120/09ae139f0db442996e23e3b5fbb5b0d49bc9a3f8/header.jpg?t=1776985749",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1776989092.4565187,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4620320": {
+        "Title": "Okinawa Soba Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4620320/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4620320/1b75143781e542d62e45b586aad0638eda20d82c/header.jpg?t=1776988138",
+        "Date": "May 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1776989096.9873242,
+        "MatchedTags": [
+            "resource management",
+            "real time tactics",
+            "management",
+            "economy"
+        ]
+    },
+    "4637960": {
+        "Title": "Blessed To Die",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4637960/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4637960/67baea22193e279c1ab122a9f4e6dd419602ac17/header.jpg?t=1776987133",
+        "Date": "May 4, 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1776989101.7629232,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg",
+            "resource management",
             "turn-based combat"
         ]
     }
