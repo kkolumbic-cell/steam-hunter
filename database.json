@@ -13103,7 +13103,7 @@
     },
     "2680770": {
         "Title": "Formind",
-        "Email": "pr@next-genium.com, info@next-genium.com, hr@next-genium.com",
+        "Email": "pr@next-genium.com, hr@next-genium.com, info@next-genium.com",
         "Discord": "https://discord.gg/UhTb5md2",
         "URL": "https://store.steampowered.com/app/2680770/",
         "Site": "https://next-genium.com/en/",
@@ -28147,9 +28147,9 @@
         "URL": "https://store.steampowered.com/app/4546580/",
         "Site": "http://www.hexarmy.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4546580/bf40960fb56e3153fbac9cdfbae0422921ef3777/header.jpg?t=1775853561",
-        "Date": "Apr 20, 2026",
-        "AddedDate": "2026-04-10",
-        "AddedTimestamp": 1775854666.6397214,
+        "Date": "Apr 24, 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777032494.5145154,
         "MatchedTags": [
             "tactical rpg",
             "turn-based tactics",
@@ -35296,6 +35296,7 @@
         "AddedTimestamp": 1776579008.8616626,
         "MatchedTags": [
             "horror",
+            "psychological horror",
             "resource management",
             "management"
         ]
@@ -39787,7 +39788,7 @@
     },
     "4611310": {
         "Title": "Scrapbot Outpost",
-        "Email": "contact@blackboardstudios.net",
+        "Email": "hello@blackboardstudios.net",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4611310/",
         "Site": "https://blackboardstudios.net/products#scrapbot-outpost",
@@ -40065,9 +40066,9 @@
         "URL": "https://store.steampowered.com/app/4617040/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4617040/aacf541af7e6cd6e3bf4d77a932b041073430ec7/header.jpg?t=1776976331",
-        "Date": "May 31, 2026",
-        "AddedDate": "2026-04-23",
-        "AddedTimestamp": 1776978595.2253351,
+        "Date": "May 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777032521.0165036,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -40602,9 +40603,9 @@
         "URL": "https://store.steampowered.com/app/4407370/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4407370/5cb968b58f3bedc5646e7f27dc1d460a2bef7abc/header.jpg?t=1777015435",
-        "Date": "June 2026",
+        "Date": "Q2 2026",
         "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1777021950.6759222,
+        "AddedTimestamp": 1777032472.6326008,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -40767,6 +40768,67 @@
         "AddedTimestamp": 1777027675.7923603,
         "MatchedTags": [
             "resource management"
+        ]
+    },
+    "4528300": {
+        "Title": "Mammon\u2019s Wager",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4528300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4528300/a6f1fe439df35cea0217fc9d33ecf26b4d5c15fb/header.jpg?t=1777029814",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777032481.4178588,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4625290": {
+        "Title": "Incident Archives - Flight 882",
+        "Email": "hello@astronixgames.com, support@astronixgames.com, business@astronixgames.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4625290/",
+        "Site": "https://www.astronixgames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4625290/20bbf2f4bee6f4dc6fb09807f0ed90e7454afefd/header.jpg?t=1777032348",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777032523.9010253,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4631350": {
+        "Title": "Forest Raid",
+        "Email": "",
+        "Discord": "https://discord.com/invite/cvrNYSxavA",
+        "URL": "https://store.steampowered.com/app/4631350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4631350/68b0c6d8868bc365d6d54b326acd98316f5cff4d/header.jpg?t=1777028451",
+        "Date": "September 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777032532.2426162,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4633390": {
+        "Title": "DeadZone Outpost",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4633390/",
+        "Site": "https://t.me/solotosteam",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4633390/1f3ca526155eb1dcc27c945d326ad38f38eeda0a/header.jpg?t=1777027619",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777032536.9287221,
+        "MatchedTags": [
+            "resource management",
+            "tower defense",
+            "strategy",
+            "turn-based tactics",
+            "management"
         ]
     }
 }
