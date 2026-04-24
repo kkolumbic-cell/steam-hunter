@@ -12452,9 +12452,9 @@
         "URL": "https://store.steampowered.com/app/4387810/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4387810/d061bef5f21a53647a0255c314ab201970c166af/header.jpg?t=1774285561",
-        "Date": "To be announced",
-        "AddedDate": "2026-03-23",
-        "AddedTimestamp": 1774285819.4158592,
+        "Date": "Apr 24, 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777075015.5108843,
         "MatchedTags": [
             "tactical"
         ]
@@ -41734,6 +41734,53 @@
             "strategy",
             "resource management",
             "economy"
+        ]
+    },
+    "708660": {
+        "Title": "Anuran Evolution: Frog of War",
+        "Email": "",
+        "Discord": "https://discord.gg/9sWvCWCMqB",
+        "URL": "https://store.steampowered.com/app/708660/",
+        "Site": "https://brokenrockstudios.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/708660/fef0a7549d84b376168d1a47e48abd6cd3920162/header.jpg?t=1777071954",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777075006.0521276,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4595660": {
+        "Title": "TRUST ISSUES?",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4595660/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4595660/50ea1c9a0bc3797533f90146ccace3037b291774/header.jpg?t=1777073418",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777075027.0234203,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4662680": {
+        "Title": "Gaslit Bay",
+        "Email": "",
+        "Discord": "https://discord.gg/Pept9QtMVd",
+        "URL": "https://store.steampowered.com/app/4662680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4662680/2f45c34dfc590f29fb8a00cbf6f90957ce0bab1a/header.jpg?t=1777072282",
+        "Date": "June 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777075052.0801606,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "economy",
+            "management",
+            "psychological horror"
         ]
     }
 }
