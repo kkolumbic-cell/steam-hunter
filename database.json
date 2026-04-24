@@ -13103,7 +13103,7 @@
     },
     "2680770": {
         "Title": "Formind",
-        "Email": "info@next-genium.com, pr@next-genium.com, hr@next-genium.com",
+        "Email": "pr@next-genium.com, info@next-genium.com, hr@next-genium.com",
         "Discord": "https://discord.gg/UhTb5md2",
         "URL": "https://store.steampowered.com/app/2680770/",
         "Site": "https://next-genium.com/en/",
@@ -23722,24 +23722,6 @@
             "turn-based tactics"
         ]
     },
-    "4583230": {
-        "Title": "Harvest Dice Profit",
-        "Email": "",
-        "Discord": "https://discord.gg/K5xnajTsQz",
-        "URL": "https://store.steampowered.com/app/4583230/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4583230/e8194fbd0f4475757af06442593e7773da35de30/header.jpg?t=1775530271",
-        "Date": "2026",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775532824.6636825,
-        "MatchedTags": [
-            "psychological horror",
-            "management",
-            "resource management",
-            "strategy",
-            "economy"
-        ]
-    },
     "4587010": {
         "Title": "Beggar's Road",
         "Email": "",
@@ -27583,9 +27565,9 @@
         "URL": "https://store.steampowered.com/app/4480580/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4480580/f22e236f0c907d1695749aa70b20972f411efd65/header.jpg?t=1775827324",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-10",
-        "AddedTimestamp": 1775829134.6774366,
+        "Date": "Apr 24, 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777027629.7007656,
         "MatchedTags": [
             "strategy"
         ]
@@ -36033,9 +36015,9 @@
         "AddedDate": "2026-04-20",
         "AddedTimestamp": 1776713755.4562023,
         "MatchedTags": [
-            "turn-based tactics",
-            "turn-based strategy",
-            "tactical"
+            "tower defense",
+            "strategy",
+            "turn-based tactics"
         ]
     },
     "4582980": {
@@ -39696,7 +39678,7 @@
         "MatchedTags": [
             "economy",
             "management",
-            "strategy"
+            "resource management"
         ]
     },
     "3831700": {
@@ -40028,7 +40010,7 @@
     "4202270": {
         "Title": "Husk Protocol",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/tw578AuhNH",
         "URL": "https://store.steampowered.com/app/4202270/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4202270/760b2d6e925ef694e1db85d3db3b6b076f3c4c20/header.jpg?t=1776974468",
@@ -40714,13 +40696,77 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4651280/",
-        "Site": "",
+        "Site": "https://patreon.com/GonzaloGarciaDev?utm_medium=unknown&amp;utm_source=join_link&amp;utm_campaign=creatorshare_creator&amp;utm_content=copyLink",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4651280/09f9183863ade6fddbf65974e8d5dedd2b960ee4/header.jpg?t=1777020776",
         "Date": "To be announced",
         "AddedDate": "2026-04-24",
         "AddedTimestamp": 1777022064.1543286,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4396830": {
+        "Title": "Dfiance: Dominance",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4396830/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4396830/0b1413b44c38e0759fbca91654420a75f3b5cdf6/header.jpg?t=1777026365",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777027624.2824926,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "grand strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4581070": {
+        "Title": "Endless Endless Ocean",
+        "Email": "",
+        "Discord": "https://discord.gg/UNvzNJTSu",
+        "URL": "https://store.steampowered.com/app/4581070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4581070/f2bae8c38c66321b2083c180a00f33b2a1207911/header.jpg?t=1777025178",
+        "Date": "Dec 31, 2027",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777027648.150889,
+        "MatchedTags": [
+            "resource management",
+            "base building",
+            "survival horror"
+        ]
+    },
+    "4643160": {
+        "Title": "Mining Grounds",
+        "Email": "",
+        "Discord": "https://discord.gg/Cb9hY8y",
+        "URL": "https://store.steampowered.com/app/4643160/",
+        "Site": "https://jestercraft.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4643160/bde75a5c506826ca4931c287ade389ff59b00f08/header.jpg?t=1777023537",
+        "Date": "May 21, 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777027661.9374604,
+        "MatchedTags": [
+            "resource management",
+            "turn-based strategy",
+            "turn-based tactics",
+            "strategy"
+        ]
+    },
+    "4656460": {
+        "Title": "Idle Aqua Driller",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4656460/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4656460/ced7f4e520849d3fb931a2a2e547ff520e7c4fa1/header.jpg?t=1777027228",
+        "Date": "2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777027675.7923603,
+        "MatchedTags": [
+            "resource management"
         ]
     }
 }
