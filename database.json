@@ -25164,9 +25164,9 @@
         "URL": "https://store.steampowered.com/app/4581490/",
         "Site": "https://aethinion.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4581490/46621e10ac4f9a390a78ec2d004408091ae704e6/header.jpg?t=1775664256",
-        "Date": "Apr 24, 2026",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775768776.4673948,
+        "Date": "Apr 23, 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777002839.8299627,
         "MatchedTags": [
             "turn-based strategy",
             "strategy",
@@ -28508,8 +28508,8 @@
         "AddedDate": "2026-04-11",
         "AddedTimestamp": 1775886114.9197085,
         "MatchedTags": [
-            "strategy",
-            "turn-based tactics"
+            "turn-based tactics",
+            "strategy"
         ]
     },
     "3892850": {
@@ -31151,9 +31151,9 @@
         "URL": "https://store.steampowered.com/app/4520400/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4520400/812685733fb831bd39b9f59cddd31cbdd3e532cb/header.jpg?t=1776204852",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-19",
-        "AddedTimestamp": 1776639448.0506015,
+        "Date": "July 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777002813.1839411,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -36590,8 +36590,9 @@
         "AddedDate": "2026-04-21",
         "AddedTimestamp": 1776743412.1467872,
         "MatchedTags": [
+            "horror",
             "survival horror",
-            "horror"
+            "resource management"
         ]
     },
     "4180000": {
@@ -40252,9 +40253,9 @@
         "URL": "https://store.steampowered.com/app/4581810/",
         "Site": "https://headarrow.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4581810/316039b587a2b89a135cc295460640dfb2c2d5b4/header.jpg?t=1776985573",
-        "Date": "Sep 1, 2026",
-        "AddedDate": "2026-04-23",
-        "AddedTimestamp": 1776985760.9068344,
+        "Date": "2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777002842.2439046,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -40353,6 +40354,173 @@
             "tactical rpg",
             "resource management",
             "turn-based combat"
+        ]
+    },
+    "3767660": {
+        "Title": "Embers of the Uncrowned",
+        "Email": "",
+        "Discord": "https://discord.gg/playeotu",
+        "URL": "https://store.steampowered.com/app/3767660/",
+        "Site": "https://embersoftheuncrowned.nexon.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3767660/d2f0aeacbfe89bc4a33f28b09f380384361c1765/header.jpg?t=1776998808",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777002768.2255936,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4329330": {
+        "Title": "After Dark: Tower 47",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4329330/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4329330/611baead4af153bbed79bf02d224bd6f7b9945e8/header.jpg?t=1777002055",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777002785.7216668,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4340320": {
+        "Title": "World End Dystopia",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4340320/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4340320/ac944916c7954ab69c3044a4eaacf5389c699eba/header.jpg?t=1776992698",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777002788.2988036,
+        "MatchedTags": [
+            "resource management",
+            "base building"
+        ]
+    },
+    "4435810": {
+        "Title": "\u711a\u5929\u70c8\u706b\u4e4b\u5143\u7d20\u9886\u4e3b",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4435810/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4435810/30d20222121d5b84948ad9700325c3a3705b6bd0/header.jpg?t=1776999579",
+        "Date": "May 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777002798.490664,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "city builder",
+            "resource management",
+            "grand strategy"
+        ]
+    },
+    "4519510": {
+        "Title": "Keysaster",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4519510/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4519510/fd665f25d557990bbfa81416c50f3f83e17675be/header.jpg?t=1776990517",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777002810.2363145,
+        "MatchedTags": [
+            "survival horror",
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4567580": {
+        "Title": "Locostation",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4567580/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4567580/da24f95a26e9a129ec261c08ec07cd346700df7a/header.jpg?t=1777000666",
+        "Date": "Sep 30, 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777002834.6085112,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4575530": {
+        "Title": "Sky Abyss",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4575530/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4575530/a4960e0dac97ff16d4d47da55a0489cf5ad3b032/header.jpg?t=1776994838",
+        "Date": "May 7, 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777002836.6152885,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4618340": {
+        "Title": "Clicker Tactics: Memorian",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4618340/",
+        "Site": "https://artesnaut.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4618340/0d9feb6b98ea14b009e52fb8650c3a7359afe4b8/header.jpg?t=1776994467",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777002866.342519,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4619230": {
+        "Title": "Rescue the Hostages: Misaligned Fate",
+        "Email": "rescuethehostages@outlook.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4619230/",
+        "Site": "https://www.rescuethehostages.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4619230/229571876651cbee7645584b3dd979ba99e7b20f/header.jpg?t=1776991709",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777002869.8898637,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4634190": {
+        "Title": "Mimic Escape",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4634190/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4634190/799d36772cba792d171ff26c96ecdba0bd0c7c03/header.jpg?t=1776998849",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777002875.7277205,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4638580": {
+        "Title": "Doll Hero Thirty-Six",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4638580/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4638580/41753a2f8bfb6ac32d6d2b88357460de71cc8ff2/header.jpg?t=1776989739",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777002878.567332,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "city builder",
+            "tower defense",
+            "real time tactics",
+            "tactical rpg"
         ]
     }
 }
