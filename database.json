@@ -29012,9 +29012,9 @@
         "URL": "https://store.steampowered.com/app/4604090/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4604090/76ac1e83dea662f76759d4b7f0a175a18a39ba19/header.jpg?t=1775972468",
-        "Date": "Apr 26, 2026",
-        "AddedDate": "2026-04-12",
-        "AddedTimestamp": 1776016400.9687827,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777068251.8688865,
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
@@ -41495,9 +41495,9 @@
         "URL": "https://store.steampowered.com/app/4523320/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4523320/bb0707518f15283353022b9b5e2367126e8d2615/header.jpg?t=1777064666",
-        "Date": "May 4, 2026",
+        "Date": "May 2026",
         "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1777064888.334124,
+        "AddedTimestamp": 1777068243.59155,
         "MatchedTags": [
             "strategy"
         ]
@@ -41509,9 +41509,9 @@
         "URL": "https://store.steampowered.com/app/4563600/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4563600/7961447db43573389bad7185367015c07865290c/header.jpg?t=1777063466",
-        "Date": "Dec 30, 2026",
+        "Date": "Coming soon",
         "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1777064899.454962,
+        "AddedTimestamp": 1777068245.9444325,
         "MatchedTags": [
             "strategy",
             "horror"
@@ -41544,6 +41544,146 @@
         "MatchedTags": [
             "turn-based combat",
             "tactical rpg"
+        ]
+    },
+    "4342290": {
+        "Title": "Weather The Tide",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4342290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4342290/1e839bdeab6b3c6ebeab48eff086c12edaf69209/header.jpg?t=1777064901",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777068227.682711,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "base building",
+            "resource management",
+            "city builder"
+        ]
+    },
+    "4618750": {
+        "Title": "Roll & Slay : Dice Caster",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4618750/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4618750/3720a5eb7bbf6f113aa7d6e310263098072ca126/header.jpg?t=1777067041",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777068261.2823915,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4624000": {
+        "Title": "Ascend6",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4624000/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4624000/97cd32431d1bd7cfd3f28fc3a98e99c203a3c789/header.jpg?t=1777065161",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777068263.200258,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4634940": {
+        "Title": "Architect of War",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4634940/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4634940/f99e6a8d25dc4bb096d88cca91283645c367b6f6/header.jpg?t=1777065594",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777068266.0279295,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "4642400": {
+        "Title": "PANEMA",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4642400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4642400/e2c364a68fe53de63ef8f9979ff47395a3b524d6/header.jpg?t=1777066724",
+        "Date": "2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777068268.8532736,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4650680": {
+        "Title": "Micro Corp",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4650680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4650680/c1367415865627881a5f953c8dec513deaadb9c1/header.jpg?t=1777067210",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777068271.6653185,
+        "MatchedTags": [
+            "management",
+            "colony sim"
+        ]
+    },
+    "4652730": {
+        "Title": "Lost Vessel",
+        "Email": "",
+        "Discord": "https://discord.gg/4CXZdfttc7",
+        "URL": "https://store.steampowered.com/app/4652730/",
+        "Site": "https://lost-vessel.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4652730/cb684e01667c8077ef5b5efd38bfe722ac62a8fe/header.jpg?t=1777065545",
+        "Date": "Sep 30, 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777068277.2118847,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4656560": {
+        "Title": "Not My Son",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4656560/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4656560/6782f6bcf0a267a7e239864b8e172070f5fbf05d/header.jpg?t=1777067499",
+        "Date": "2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777068279.7576628,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4659730": {
+        "Title": "Blighthold",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4659730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4659730/88ac42dd415412fb057c520c96de84d857010cad/header.jpg?t=1777067137",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777068282.3821242,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "base building",
+            "management",
+            "tactical"
         ]
     }
 }
