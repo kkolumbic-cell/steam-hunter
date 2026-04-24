@@ -23317,9 +23317,9 @@
         "URL": "https://store.steampowered.com/app/4573020/",
         "Site": "https://www.thecreator.top",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4573020/9b3851bbddfdfcf1fdd80aa265679823cab5be8e/header.jpg?t=1775496390",
-        "Date": "Apr 22, 2026",
-        "AddedDate": "2026-04-06",
-        "AddedTimestamp": 1775498803.9293764,
+        "Date": "Apr 24, 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777039867.0238628,
         "MatchedTags": [
             "city builder"
         ]
@@ -28461,7 +28461,9 @@
         "AddedTimestamp": 1776878267.4861434,
         "MatchedTags": [
             "survival horror",
-            "horror"
+            "horror",
+            "resource management",
+            "base building"
         ]
     },
     "4598750": {
@@ -40786,7 +40788,7 @@
     },
     "4625290": {
         "Title": "Incident Archives - Flight 882",
-        "Email": "hello@astronixgames.com, support@astronixgames.com, business@astronixgames.com",
+        "Email": "business@astronixgames.com, hello@astronixgames.com, support@astronixgames.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4625290/",
         "Site": "https://www.astronixgames.com/",
@@ -40829,6 +40831,125 @@
             "strategy",
             "turn-based tactics",
             "management"
+        ]
+    },
+    "4132210": {
+        "Title": "Zombie Hamsters",
+        "Email": "",
+        "Discord": "https://discord.gg/3vxhXHzU",
+        "URL": "https://store.steampowered.com/app/4132210/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132210/1cec11131c85e3732cab90fd40ed9d704355c8c6/header.jpg?t=1777039613",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777039778.8671975,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4439370": {
+        "Title": "Mechs V Kaijus 2",
+        "Email": "",
+        "Discord": "https://discord.gg/4bz77VzS3X",
+        "URL": "https://store.steampowered.com/app/4439370/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4439370/85bc6035c9c8d58c1de9855478e63ffbef20070d/header.jpg?t=1777037604",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777039805.6766107,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "base building",
+            "resource management"
+        ]
+    },
+    "4506620": {
+        "Title": "Black Well Devil",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4506620/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4506620/a6b7243bc34e683ea939bf47b4f8973bdeb2912e/header.jpg?t=1777032927",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777039822.8077688,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4584240": {
+        "Title": "Cheap Car Repair: Welcome to Nowhere",
+        "Email": "",
+        "Discord": "https://discord.gg/59NSgVgzqV",
+        "URL": "https://store.steampowered.com/app/4584240/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4584240/b6ce6b6bc2ddf8878007dd91475cd2f3ada79cd9/header.jpg?t=1777035680",
+        "Date": "May 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777039876.0247755,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4616100": {
+        "Title": "Memory Tide",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4616100/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4616100/025468a9b0d2272f5d339dc05391793226a39264/header.jpg?t=1777034256",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777039900.1549034,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4628680": {
+        "Title": "Outmost Ruminant",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4628680/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4628680/d3dc476e92172d085620cc091f1cc1ead6ef4c0e/header.jpg?t=1777037960",
+        "Date": "TBA",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777039914.7288797,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4645590": {
+        "Title": "Hutong Gambit",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4645590/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4645590/7a99142ce646070eda8ddfee9c46ef218631a97f/header.jpg?t=1777039685",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777039933.95013,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4659660": {
+        "Title": "Graveyard Cabin",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4659660/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4659660/789554d565a5dcd10d5ac40599968262bac8192d/header.jpg?t=1777036469",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777039947.0968878,
+        "MatchedTags": [
+            "survival horror",
+            "horror",
+            "psychological horror"
         ]
     }
 }
