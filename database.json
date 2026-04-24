@@ -9622,9 +9622,9 @@
         "URL": "https://store.steampowered.com/app/4517630/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4517630/97b374b97aaa1bd0efe90a5c146471ebbc37d77f/header.jpg?t=1773802176",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-30",
-        "AddedTimestamp": 1774864206.671344,
+        "Date": "Apr 24, 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777050932.2012377,
         "MatchedTags": [
             "strategy"
         ]
@@ -27948,9 +27948,9 @@
         "URL": "https://store.steampowered.com/app/4585900/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4585900/6ef2ab7433cce47c3e8beb7e8d55ec6b6409526c/header.jpg?t=1775841340",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-10",
-        "AddedTimestamp": 1775844181.1147542,
+        "Date": "Apr 24, 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777050965.22525,
         "MatchedTags": [
             "strategy"
         ]
@@ -30952,9 +30952,9 @@
         "URL": "https://store.steampowered.com/app/4534250/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4534250/e8b379a6b0d008292e796e24e202ac5388c9c4d2/header.jpg?t=1776191180",
-        "Date": "Apr 20, 2026",
-        "AddedDate": "2026-04-14",
-        "AddedTimestamp": 1776195796.321684,
+        "Date": "Apr 29, 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777050948.2652586,
         "MatchedTags": [
             "horror"
         ]
@@ -39443,9 +39443,9 @@
         "URL": "https://store.steampowered.com/app/4562150/",
         "Site": "https://howtogrowablackhole.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4562150/d4246516263f388e53ffcbb896a1500837661173/header.jpg?t=1776951468",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-23",
-        "AddedTimestamp": 1776953721.6136837,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777050958.3232563,
         "MatchedTags": [
             "resource management"
         ]
@@ -41038,6 +41038,104 @@
         "AddedTimestamp": 1777045282.823273,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "3457720": {
+        "Title": "Incremental Orbits",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3457720/",
+        "Site": "https://bytecatch.io/incremental-orbits",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3457720/ef984b442361aca567369da51278faafe9d49011/header.jpg?t=1777047350",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777050891.8881657,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "economy",
+            "management",
+            "base building"
+        ]
+    },
+    "4445900": {
+        "Title": "Warboard",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4445900/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4445900/d0ce780272813a1d5d1b1bab1f21665b000f1039/header.jpg?t=1777049751",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777050922.5933087,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "tactical"
+        ]
+    },
+    "4463900": {
+        "Title": "Casse-Croute Deckbuilder",
+        "Email": "",
+        "Discord": "https://discord.gg/JzQZCm65T6",
+        "URL": "https://store.steampowered.com/app/4463900/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4463900/4ef705d52a79afe90df2d50d36b437895edaf521/header.jpg?t=1777048372",
+        "Date": "Dec 31, 2027",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777050924.5760317,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4549480": {
+        "Title": "BrokenLore: DON'T PLAY",
+        "Email": "info@serafiniproductions.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4549480/",
+        "Site": "https://serafiniproductions.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4549480/b3079d8eebb07e5b76316e2ece55634ce016626f/header.jpg?t=1777048966",
+        "Date": "TBA",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777050955.8280432,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4641620": {
+        "Title": "Space Fleet Logistics",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4641620/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4641620/7cc67915f9af80742c2875fe1969ef8b2b3cd841/header.jpg?t=1777045600",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777050999.6597528,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4656790": {
+        "Title": "The Universe Won't Pause",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4656790/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656790/13f33d9b093ffafd9798e77f00067551410ef67d/header.jpg?t=1777048025",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777051021.3065898,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
         ]
     }
 }
