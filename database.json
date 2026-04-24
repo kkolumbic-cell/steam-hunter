@@ -21516,9 +21516,9 @@
         "URL": "https://store.steampowered.com/app/4558620/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4558620/dc3de8149211cb093eb0c219dcd9c9101370e662/header.jpg?t=1775160120",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775163427.8802996,
+        "Date": "Apr 24, 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777053826.1069388,
         "MatchedTags": [
             "strategy"
         ]
@@ -40788,7 +40788,7 @@
     },
     "4625290": {
         "Title": "Incident Archives - Flight 882",
-        "Email": "hello@astronixgames.com, business@astronixgames.com, support@astronixgames.com",
+        "Email": "business@astronixgames.com, hello@astronixgames.com, support@astronixgames.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4625290/",
         "Site": "https://www.astronixgames.com/",
@@ -41098,9 +41098,9 @@
         "URL": "https://store.steampowered.com/app/4549480/",
         "Site": "https://serafiniproductions.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4549480/b3079d8eebb07e5b76316e2ece55634ce016626f/header.jpg?t=1777048966",
-        "Date": "TBA",
+        "Date": "To be announced",
         "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1777050955.8280432,
+        "AddedTimestamp": 1777053821.8988674,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -41128,7 +41128,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4656790/",
-        "Site": "",
+        "Site": "https://theuniversewontpause.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656790/13f33d9b093ffafd9798e77f00067551410ef67d/header.jpg?t=1777048025",
         "Date": "Coming soon",
         "AddedDate": "2026-04-24",
@@ -41136,6 +41136,69 @@
         "MatchedTags": [
             "strategy",
             "resource management"
+        ]
+    },
+    "4614900": {
+        "Title": "Loot Hoggers",
+        "Email": "",
+        "Discord": "https://discord.gg/jrCDeu7dHJ",
+        "URL": "https://store.steampowered.com/app/4614900/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4614900/42e8d6445c4a7f638234c57256bf95219798df24/header.jpg?t=1777051420",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777053839.9495752,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4629330": {
+        "Title": "Keystones: Foundations",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4629330/",
+        "Site": "https://cartoonrocketgames.com/keystones",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4629330/e05f4759692b8ab51ba34d7c43d18bcce868ec1a/header.jpg?t=1777051935",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777053851.307329,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "turn-based strategy"
+        ]
+    },
+    "4653610": {
+        "Title": "Bar Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4653610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4653610/b369cf912097768a39d2ebc3465549fee7e32b93/header.jpg?t=1777053083",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777053863.796635,
+        "MatchedTags": [
+            "economy",
+            "resource management",
+            "management"
+        ]
+    },
+    "4661620": {
+        "Title": "King's Deck",
+        "Email": "",
+        "Discord": "https://discord.gg/gGSZ6anxvz",
+        "URL": "https://store.steampowered.com/app/4661620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4661620/c8d9ff1760ec8e11f8f5f758deee83ca3bcd2002/header.jpg?t=1777053168",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777053869.0079978,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "base building",
+            "tactical"
         ]
     }
 }
