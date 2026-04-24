@@ -35072,7 +35072,7 @@
     "4426140": {
         "Title": "Gift Stream: Sorting & Delivery Simulator",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/SA66fwsx",
         "URL": "https://store.steampowered.com/app/4426140/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4426140/5d9fd54f0a407802a75741c82c22e5635c98388c/header.jpg?t=1776529648",
@@ -37622,9 +37622,9 @@
         "URL": "https://store.steampowered.com/app/4628700/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4628700/1e02a5fd06866b38b44fe209c15864cf1a1013f4/header.jpg?t=1776804214",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-21",
-        "AddedTimestamp": 1776805717.2605765,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777061081.5734878,
         "MatchedTags": [
             "strategy",
             "turn-based combat"
@@ -41358,6 +41358,102 @@
         "MatchedTags": [
             "strategy",
             "horror"
+        ]
+    },
+    "4484990": {
+        "Title": "Spreadsheets & Dungeons",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4484990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4484990/44041a21037f1eefc6b9620c2b0342452f9c24f7/header.jpg?t=1777060309",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777061043.9132578,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat",
+            "tactical rpg",
+            "management",
+            "resource management"
+        ]
+    },
+    "4607150": {
+        "Title": "Satanic Panic",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4607150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4607150/960f1fde688d37cd125588c12290993cfb4d57f3/header.jpg?t=1777060980",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777061070.5574524,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "4628100": {
+        "Title": "The Murder Of Yesterday",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4628100/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4628100/d146fb72e30da3a7ef1c2f2e49b55e19af7d996a/header.jpg?t=1777060473",
+        "Date": "July 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777061078.5572982,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4646910": {
+        "Title": "Indian Street Food Simulator",
+        "Email": "",
+        "Discord": "https://discord.gg/853WBYEmGe",
+        "URL": "https://store.steampowered.com/app/4646910/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4646910/73832e411a468facde5dcf0fdb4470b44765a7af/header.jpg?t=1777060029",
+        "Date": "June 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777061086.8774874,
+        "MatchedTags": [
+            "management",
+            "horror"
+        ]
+    },
+    "4655770": {
+        "Title": "Rune Tavern",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4655770/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4655770/f4fa72d53790f5962caec1d3e98e8558125cffbd/header.jpg?t=1777060050",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777061089.1359065,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "management"
+        ]
+    },
+    "4660870": {
+        "Title": "DarkCage",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4660870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4660870/5e40f48bb2a91218d94d3c507c1d66e03434d7be/header.jpg?t=1777059268",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777061091.6921284,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
         ]
     }
 }
