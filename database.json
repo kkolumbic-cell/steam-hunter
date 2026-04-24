@@ -19896,9 +19896,9 @@
         "URL": "https://store.steampowered.com/app/4572110/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4572110/9f6c83f6cdf9182d64156df0048dba106ae922e7/header.jpg?t=1775028168",
-        "Date": "June 2026",
-        "AddedDate": "2026-04-14",
-        "AddedTimestamp": 1776200984.3198354,
+        "Date": "Apr 24, 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777045253.230221,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -23577,9 +23577,9 @@
         "URL": "https://store.steampowered.com/app/4385540/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4385540/81b947357b5a367531b38e8f99e4cd19e028ea37/header.jpg?t=1775516513",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-14",
-        "AddedTimestamp": 1776176123.4156866,
+        "Date": "Apr 29, 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777045213.1589794,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -28441,9 +28441,9 @@
         "URL": "https://store.steampowered.com/app/4584510/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4584510/4788040819096e7599ca43c0d6238abecf81ac44/header.jpg?t=1775882770",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-23",
-        "AddedTimestamp": 1776973431.370218,
+        "Date": "Apr 24, 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777045260.6100116,
         "MatchedTags": [
             "turn-based strategy",
             "turn-based combat"
@@ -40788,7 +40788,7 @@
     },
     "4625290": {
         "Title": "Incident Archives - Flight 882",
-        "Email": "business@astronixgames.com, hello@astronixgames.com, support@astronixgames.com",
+        "Email": "hello@astronixgames.com, business@astronixgames.com, support@astronixgames.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4625290/",
         "Site": "https://www.astronixgames.com/",
@@ -40950,6 +40950,94 @@
             "survival horror",
             "horror",
             "psychological horror"
+        ]
+    },
+    "4435100": {
+        "Title": "Incredigble",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4435100/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4435100/0e00d8a78f5e2cbd8e86424ac2b43078d4508bbc/header.jpg?t=1777044334",
+        "Date": "2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777045219.230269,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4443560": {
+        "Title": "The Tape: Origins",
+        "Email": "danglydangostudio@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4443560/",
+        "Site": "https://drive.google.com/drive/folders/1Wwbn2rBEV8nKtKNo1f9SBvEBPnnI8DBb?usp=sharing",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4443560/be4d4f5d8ab051796a3f9498f41066a575a1cc32/header.jpg?t=1777044147",
+        "Date": "Q4 2027",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777045221.1812718,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4545480": {
+        "Title": "SYNDYX",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4545480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4545480/0b4be84155e9f10c869a2f67c8d80b5bf3b54f30/header.jpg?t=1777044041",
+        "Date": "2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777045245.4850304,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4559190": {
+        "Title": "Cosmic Fugue",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4559190/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4559190/06a79275f8867d6427139c57b630e7c5ff9a51b8/header.jpg?t=1777043728",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777045247.9483318,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "4611070": {
+        "Title": "Backrooms Game Creator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4611070/",
+        "Site": "https://pixelsgraphicdesign.com/games/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4611070/ab3fb631af94f575c5a2cf9dd1e91e40bd1f8488/header.jpg?t=1777044923",
+        "Date": "May 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777045267.2782624,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4642090": {
+        "Title": "Urban Feather",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4642090/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4642090/44bb00e450ffd379cba818fe70d46f10acd373ad/header.jpg?t=1777043099",
+        "Date": "Dec 31, 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777045282.823273,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
