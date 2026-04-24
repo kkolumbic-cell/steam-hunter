@@ -13805,9 +13805,9 @@
         "URL": "https://store.steampowered.com/app/4493220/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4493220/c4112f8b868fe43f81e3b005c57b7684d1d9d40c/header.jpg?t=1774401766",
-        "Date": "April 2026",
-        "AddedDate": "2026-03-25",
-        "AddedTimestamp": 1774408868.9101484,
+        "Date": "Apr 30, 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777064884.1585927,
         "MatchedTags": [
             "horror"
         ]
@@ -41454,6 +41454,96 @@
             "horror",
             "psychological horror",
             "survival horror"
+        ]
+    },
+    "3108030": {
+        "Title": "Man in the Mocha",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3108030/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3108030/a8698e72ece7a5c07919cc0de426866bb8eb98df/header.jpg?t=1777064444",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777064862.6080158,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "economy",
+            "resource management"
+        ]
+    },
+    "3656600": {
+        "Title": "Chort",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3656600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3656600/3937f31acb9992892bb957e45103e73cf87ce837/header.jpg?t=1777063253",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777064865.6285279,
+        "MatchedTags": [
+            "survival horror",
+            "horror"
+        ]
+    },
+    "4523320": {
+        "Title": "Scoundrel's Dungeon",
+        "Email": "",
+        "Discord": "https://discord.gg/5krAPfJt",
+        "URL": "https://store.steampowered.com/app/4523320/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4523320/bb0707518f15283353022b9b5e2367126e8d2615/header.jpg?t=1777064666",
+        "Date": "May 4, 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777064888.334124,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4563600": {
+        "Title": "Cungeon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4563600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4563600/7961447db43573389bad7185367015c07865290c/header.jpg?t=1777063466",
+        "Date": "Dec 30, 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777064899.454962,
+        "MatchedTags": [
+            "strategy",
+            "horror"
+        ]
+    },
+    "4597790": {
+        "Title": "PIGGO",
+        "Email": "hello@pampaworks.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4597790/",
+        "Site": "https://pampaworks.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4597790/6d306d75570ce0b8cec08d1a24f65649f4022092/header.jpg?t=1777062385",
+        "Date": "August 2026",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777064905.736539,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4638610": {
+        "Title": "Tell Death We Live",
+        "Email": "",
+        "Discord": "https://discord.gg/SdespFhr",
+        "URL": "https://store.steampowered.com/app/4638610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4638610/588e7e8bfe69abb4d3dbf0b61ffafe2fa36b84be/header.jpg?t=1777064592",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-24",
+        "AddedTimestamp": 1777064930.624388,
+        "MatchedTags": [
+            "turn-based combat",
+            "tactical rpg"
         ]
     }
 }
