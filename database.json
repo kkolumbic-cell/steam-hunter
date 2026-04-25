@@ -18098,7 +18098,8 @@
         "AddedDate": "2026-03-30",
         "AddedTimestamp": 1774894205.7353723,
         "MatchedTags": [
-            "horror"
+            "horror",
+            "psychological horror"
         ]
     },
     "4556450": {
@@ -28114,7 +28115,7 @@
     "4588890": {
         "Title": "Hack Protocol",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.com/invite/KaehsUA2qu",
         "URL": "https://store.steampowered.com/app/4588890/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4588890/74c98a4c45f221ee3d498484712ce9c1362e544a/header.jpg?t=1775850045",
@@ -36556,9 +36557,9 @@
         "URL": "https://store.steampowered.com/app/4640600/",
         "Site": "https://yaneuragames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4640600/d008f2640bc80fda01db17a6792a821fcb390db1/header.jpg?t=1776740847",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-21",
-        "AddedTimestamp": 1776743412.1467872,
+        "Date": "2026",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777129398.0827758,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -39412,9 +39413,9 @@
         "URL": "https://store.steampowered.com/app/4459510/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459510/7db75bf6609dac2c93b83db34e4e50c30ba1b354/header.jpg?t=1776953388",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-23",
-        "AddedTimestamp": 1776953648.2209945,
+        "Date": "2026",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777129360.9707565,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -42061,6 +42062,112 @@
             "base building",
             "strategy",
             "resource management"
+        ]
+    },
+    "2276300": {
+        "Title": "Age of Sail",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2276300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2276300/17b4d9a9eed495cadefdf8ea2cb48f07e174f2c9/header.jpg?t=1777124932",
+        "Date": "August 2026",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777129345.789957,
+        "MatchedTags": [
+            "tactical rpg"
+        ]
+    },
+    "4428460": {
+        "Title": "SINDIKAT",
+        "Email": "",
+        "Discord": "https://discord.gg/ENArvZctBN",
+        "URL": "https://store.steampowered.com/app/4428460/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4428460/24cab5911f46da35a218a2e560a763745199dd81/header.jpg?t=1777128366",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777129357.663153,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management",
+            "tactical"
+        ]
+    },
+    "4561760": {
+        "Title": "Fieldwork",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4561760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4561760/0191a2b6ba2ca2a95b5332f23abf323b049f8ef2/header.jpg?t=1777128200",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777129372.6977968,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4625800": {
+        "Title": "Black Plague: Survival",
+        "Email": "",
+        "Discord": "https://discord.gg/xeRBsMw8jx",
+        "URL": "https://store.steampowered.com/app/4625800/",
+        "Site": "https://linktr.ee/doomerspublishing",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4625800/507dd3846665bb0d0e862efa3ec17fc6c4219e2c/header.jpg?t=1777129019",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777129386.1563864,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4633250": {
+        "Title": "Star Breaker Index",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4633250/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4633250/09d890adfcf9046f674176a3d5a64d00d3c67845/header.jpg?t=1777127816",
+        "Date": "TBA",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777129393.005837,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4634430": {
+        "Title": "DelveCo",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4634430/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4634430/399a01eccfb78175482b81dae6d52d820ad63ba6/header.jpg?t=1777129323",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777129394.923187,
+        "MatchedTags": [
+            "resource management",
+            "strategy",
+            "turn-based combat",
+            "management"
+        ]
+    },
+    "4651590": {
+        "Title": "Agestan",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4651590/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4651590/4efedc346a570a94365b8bc40b80d3666dd4c8d8/header.jpg?t=1777128999",
+        "Date": "2026",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777129411.3870065,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
         ]
     }
 }
