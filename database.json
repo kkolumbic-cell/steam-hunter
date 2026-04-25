@@ -12559,9 +12559,9 @@
         "URL": "https://store.steampowered.com/app/4538910/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4538910/06e02540b34e1f7790554a7aaa325346aa03b3bd/header.jpg?t=1774290234",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-23",
-        "AddedTimestamp": 1774293315.3166392,
+        "Date": "Jun 23, 2026",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777088037.91168,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -25039,7 +25039,7 @@
     "4589400": {
         "Title": "SUBFLOOR",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/tRaqYzTKt4",
         "URL": "https://store.steampowered.com/app/4589400/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4589400/dc7674bce22067ee5bd4bd76bdf4364da2d96f28/header.jpg?t=1775660772",
@@ -35219,7 +35219,7 @@
     "3339560": {
         "Title": "Vertigo Enigma",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/VgxbQ8Tsva",
         "URL": "https://store.steampowered.com/app/3339560/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3339560/f0f147e6ee7bae0f03d8825c4d954894866bcbaf/header.jpg?t=1776548677",
@@ -37590,9 +37590,9 @@
         "URL": "https://store.steampowered.com/app/4539400/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4539400/1ff63cb6f2350a5221a7dfb15201eb9f24a49d2e/header.jpg?t=1776801423",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-21",
-        "AddedTimestamp": 1776805677.365371,
+        "Date": "January 2027",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777088040.1697361,
         "MatchedTags": [
             "tactical rpg",
             "turn-based combat",
@@ -41781,6 +41781,66 @@
             "economy",
             "management",
             "psychological horror"
+        ]
+    },
+    "739330": {
+        "Title": "PROTOCOL: Requiem",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/739330/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/739330/ec4c42710217bb19a4a839d5a8d1862b328b7c68/header.jpg?t=1777081913",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777088001.7246766,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4498560": {
+        "Title": "Green Inferno",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4498560/",
+        "Site": "https://www.fantasticostudio.it/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4498560/b9d65967e80e44a2bc6438e55fcf36deb618fc9f/header.jpg?t=1777077303",
+        "Date": "November 2026",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777088023.479222,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4552650": {
+        "Title": "Human Condition",
+        "Email": "",
+        "Discord": "https://discord.gg/G78JjVMayn",
+        "URL": "https://store.steampowered.com/app/4552650/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4552650/fcdf4090bb13ee7d7629447bcf10917c7afd533a/header.jpg?t=1777084715",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777088044.2271461,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4611230": {
+        "Title": "Secrets Within Us",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4611230/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4611230/def4b1861540374551b5905fb711e5ffb511b45f/header.jpg?t=1777085749",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777088069.80894,
+        "MatchedTags": [
+            "survival horror",
+            "horror"
         ]
     }
 }
