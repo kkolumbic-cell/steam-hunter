@@ -23728,9 +23728,9 @@
         "URL": "https://store.steampowered.com/app/4587010/",
         "Site": "https://beggarsroad.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4587010/3ddffe3ee556c8bc296bae3d31c7b392664d6319/header.jpg?t=1775523818",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775714394.9883475,
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777161342.6493187,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -41849,9 +41849,9 @@
         "URL": "https://store.steampowered.com/app/2099450/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2099450/20b0fdd9eb4f1623332eebc684bc5f94e1909721/header.jpg?t=1777088541",
-        "Date": "Coming soon",
+        "Date": "2026",
         "AddedDate": "2026-04-25",
-        "AddedTimestamp": 1777096777.9596806,
+        "AddedTimestamp": 1777161317.9778965,
         "MatchedTags": [
             "strategy"
         ]
@@ -42277,6 +42277,23 @@
         "AddedTimestamp": 1777144422.3272896,
         "MatchedTags": [
             "turn-based combat"
+        ]
+    },
+    "4513000": {
+        "Title": "Mexican Train",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4513000/",
+        "Site": "https://www.islandfeverstudios.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4513000/d370cef3a08ce79488cf3195f860abb969567b4d/header.jpg?t=1777158214",
+        "Date": "July 2026",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777161330.9923127,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "tactical"
         ]
     }
 }
