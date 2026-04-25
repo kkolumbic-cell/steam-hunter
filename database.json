@@ -39550,12 +39550,12 @@
         "URL": "https://store.steampowered.com/app/4529110/",
         "Site": "https://koval.games/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4529110/70ee2d1f7b066d973be951e063a959a21c85acf4/header.jpg?t=1776958302",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-23",
-        "AddedTimestamp": 1776960791.0598576,
+        "Date": "2026",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777132665.9993372,
         "MatchedTags": [
-            "horror",
-            "psychological horror"
+            "psychological horror",
+            "horror"
         ]
     },
     "4568000": {
@@ -42168,6 +42168,35 @@
         "MatchedTags": [
             "strategy",
             "turn-based combat"
+        ]
+    },
+    "4618080": {
+        "Title": "Prime//Directive",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4618080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4618080/2ff163dd804ee11bf5b37df8e27d5901ec6d55d2/header.jpg?t=1777129657",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777132674.4456356,
+        "MatchedTags": [
+            "city builder"
+        ]
+    },
+    "4621930": {
+        "Title": "Sparkle\u7075\u5149\u4e00\u95ea",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4621930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4621930/f0a56982493924d2b3b085c00e987517c46ed299/header.jpg?t=1777132099",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777132676.2774673,
+        "MatchedTags": [
+            "strategy",
+            "management"
         ]
     }
 }
