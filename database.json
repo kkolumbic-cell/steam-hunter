@@ -29012,9 +29012,9 @@
         "URL": "https://store.steampowered.com/app/4604090/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4604090/76ac1e83dea662f76759d4b7f0a175a18a39ba19/header.jpg?t=1775972468",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1777068251.8688865,
+        "Date": "Apr 25, 2026",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777103226.387727,
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
@@ -41883,6 +41883,66 @@
         "AddedTimestamp": 1777096795.288586,
         "MatchedTags": [
             "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "859020": {
+        "Title": "Crop Dead",
+        "Email": "contact@lionsmanedevelopment.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/859020/",
+        "Site": "https://lionsmanedevelopment.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/859020/b2b119d8e2cd8526238fa37d87589cabffcccc18/header.jpg?t=1777099622",
+        "Date": "May 3, 2018",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777103189.479505,
+        "MatchedTags": [
+            "tower defense",
+            "strategy"
+        ]
+    },
+    "3441010": {
+        "Title": "Columbia Games' EastFront",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3441010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3441010/8d21674bfc123088c212a9dd8a08b8b4718f2c2a/header.jpg?t=1777102293",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777103194.5941582,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4535880": {
+        "Title": "Dice Have No Eyes",
+        "Email": "",
+        "Discord": "https://discord.gg/JadTqtS5Rc",
+        "URL": "https://store.steampowered.com/app/4535880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4535880/d62115f0814d2b12ab6460ceda67de951a32b4fe/header.jpg?t=1777099292",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777103206.4192502,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4555610": {
+        "Title": "LUNAR PULSE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4555610/",
+        "Site": "https://www.fahrenheit213.co.jp/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4555610/629deede3c9756ef110943551e2e8e53fff37def/header.jpg?t=1777103083",
+        "Date": "2027",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777103212.3583632,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
             "turn-based tactics"
         ]
     }
