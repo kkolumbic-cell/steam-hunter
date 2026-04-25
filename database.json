@@ -11990,13 +11990,13 @@
         "URL": "https://store.steampowered.com/app/4524940/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4524940/e22b0f3e5ef011175cafb045ef75ef0eb61eab2f/header.jpg?t=1774118118",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-23",
-        "AddedTimestamp": 1774244930.5629835,
+        "Date": "2026",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777144383.1639278,
         "MatchedTags": [
             "management",
-            "strategy",
             "resource management",
+            "strategy",
             "economy"
         ]
     },
@@ -34518,9 +34518,9 @@
         "URL": "https://store.steampowered.com/app/4603010/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4603010/cf35e930c82c8bd2741b6583d4c25d8c1dc773b7/header.jpg?t=1776460709",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-17",
-        "AddedTimestamp": 1776463392.9701066,
+        "Date": "Apr 30, 2026",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777144399.026984,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -37562,10 +37562,10 @@
         "AddedDate": "2026-04-21",
         "AddedTimestamp": 1776805634.5462759,
         "MatchedTags": [
-            "strategy",
             "horror",
+            "survival horror",
             "psychological horror",
-            "survival horror"
+            "strategy"
         ]
     },
     "4183980": {
@@ -41966,13 +41966,13 @@
     "4624100": {
         "Title": "Smoke Town",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/4tV7E3GPUW",
         "URL": "https://store.steampowered.com/app/4624100/",
-        "Site": "",
+        "Site": "https://www.smoketown.online",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4624100/44fcfe752e7cb189b87ed1f5119e93a3386569b3/header.jpg?t=1777105985",
-        "Date": "Coming soon",
+        "Date": "Q3 2026",
         "AddedDate": "2026-04-25",
-        "AddedTimestamp": 1777108384.3205507,
+        "AddedTimestamp": 1777144403.7145183,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -42215,6 +42215,68 @@
             "turn-based tactics",
             "management",
             "resource management"
+        ]
+    },
+    "4638010": {
+        "Title": "The Sin Of Fabien",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4638010/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4638010/e9b280117ec43cf566ce6437c662683553301b52/header.jpg?t=1777140281",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777144415.3924565,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4638280": {
+        "Title": "Peter the Stash Hunter",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4638280/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4638280/119a97d7e0f89c90308da92a7ac8b6555da89bea/header.jpg?t=1777142010",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777144417.8223066,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4638590": {
+        "Title": "Goaldeck",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4638590/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4638590/2e5e144733bba33380b287326e69ff4581cc4ca6/header.jpg?t=1777143383",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777144420.212157,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "management"
+        ]
+    },
+    "4644100": {
+        "Title": "The Blood Mage 2 by Daniel da Silva",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4644100/",
+        "Site": "https://smokesomefrogs.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4644100/67bb3cd31c398a801c582d10489bf1d1f4551ac3/header.jpg?t=1777141637",
+        "Date": "Jul 15, 2026",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777144422.3272896,
+        "MatchedTags": [
+            "turn-based combat"
         ]
     }
 }
