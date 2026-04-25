@@ -9086,9 +9086,9 @@
         "URL": "https://store.steampowered.com/app/4426700/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4426700/01212b217288a80c4322e8993d9c9271ea20044a/header.jpg?t=1773756757",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-17",
-        "AddedTimestamp": 1773760771.797949,
+        "Date": "To be announced",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777108333.9549568,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -27296,9 +27296,9 @@
         "URL": "https://store.steampowered.com/app/4579700/",
         "Site": "https://ritesofaccord.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4579700/5bac04d44e39910bbeaef9b30f75f8b493b0b5a7/header.jpg?t=1775807602",
-        "Date": "July 2026",
-        "AddedDate": "2026-04-10",
-        "AddedTimestamp": 1775808138.5547476,
+        "Date": "November 2026",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777108363.5866995,
         "MatchedTags": [
             "turn-based strategy",
             "strategy",
@@ -27626,9 +27626,9 @@
         "URL": "https://store.steampowered.com/app/4271140/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4271140/178943cce872b7274d5cd62ec5b59d97fe20f4d4/header.jpg?t=1775830387",
-        "Date": "2026",
-        "AddedDate": "2026-04-15",
-        "AddedTimestamp": 1776211273.1997476,
+        "Date": "Apr 25, 2026",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777108328.8980565,
         "MatchedTags": [
             "strategy",
             "tactical rpg",
@@ -30169,9 +30169,9 @@
         "URL": "https://store.steampowered.com/app/4586760/",
         "Site": "https://www.standardissuegames.com/spheretd",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4586760/5b150b199eea78d0bf82f5f76a5d507a7ad45458/header.jpg?t=1776144297",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-17",
-        "AddedTimestamp": 1776413311.6058366,
+        "Date": "2026",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777108368.6345458,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -30333,7 +30333,7 @@
     "4542800": {
         "Title": "Kill The Nova",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/5Zmw94ucDs",
         "URL": "https://store.steampowered.com/app/4542800/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4542800/8376224a3d23950fc2439c53fe0ff48af914f949/header.jpg?t=1776164434",
@@ -38505,9 +38505,9 @@
         "URL": "https://store.steampowered.com/app/4530260/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4530260/2ae1d7a3366866b7dfe9d70aa08df5c6ee9f7052/header.jpg?t=1776875000",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-22",
-        "AddedTimestamp": 1776878240.2040324,
+        "Date": "2026",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777108346.7356353,
         "MatchedTags": [
             "strategy",
             "survival horror"
@@ -41944,6 +41944,40 @@
             "strategy",
             "turn-based strategy",
             "turn-based tactics"
+        ]
+    },
+    "4559060": {
+        "Title": "Throne of Cards",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4559060/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4559060/5daeaf66f3ba49395076b47ff69515e5eddaf177/header.jpg?t=1777106501",
+        "Date": "2026",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777108361.066018,
+        "MatchedTags": [
+            "management",
+            "strategy",
+            "city builder"
+        ]
+    },
+    "4624100": {
+        "Title": "Smoke Town",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4624100/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4624100/44fcfe752e7cb189b87ed1f5119e93a3386569b3/header.jpg?t=1777105985",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777108384.3205507,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "turn-based strategy",
+            "tactical",
+            "grand strategy"
         ]
     }
 }
