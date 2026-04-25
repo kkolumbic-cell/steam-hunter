@@ -15583,8 +15583,7 @@
         "AddedTimestamp": 1774553715.2916563,
         "MatchedTags": [
             "turn-based tactics",
-            "turn-based combat",
-            "resource management"
+            "turn-based combat"
         ]
     },
     "4537250": {
@@ -18767,11 +18766,10 @@
         "URL": "https://store.steampowered.com/app/4142130/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4142130/96c8ae83c5903cd6d0db18d42aea4cecf675f470/header.jpg?t=1774941524",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775548266.7044275,
+        "Date": "To be announced",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777096780.8362138,
         "MatchedTags": [
-            "strategy",
             "real time tactics"
         ]
     },
@@ -39127,9 +39125,9 @@
         "URL": "https://store.steampowered.com/app/4641240/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4641240/cac5b67d43e55d98214be616f680180eccc55168/header.jpg?t=1776907682",
-        "Date": "May 4, 2026",
-        "AddedDate": "2026-04-23",
-        "AddedTimestamp": 1776916234.968718,
+        "Date": "May 2026",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777096837.441808,
         "MatchedTags": [
             "turn-based tactics"
         ]
@@ -41841,6 +41839,51 @@
         "MatchedTags": [
             "survival horror",
             "horror"
+        ]
+    },
+    "2099450": {
+        "Title": "CUBOID",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2099450/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2099450/20b0fdd9eb4f1623332eebc684bc5f94e1909721/header.jpg?t=1777088541",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777096777.9596806,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4180510": {
+        "Title": "Space Snatcher",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4180510/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180510/b26254999254074d612ec842652f5a8fcef5db79/header.jpg?t=1777092789",
+        "Date": "Oct 1, 2026",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777096783.4489527,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4424310": {
+        "Title": "Make'Em Mayhem",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4424310/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4424310/168f6a395c760273b0558690ddad8593c72e769f/header.jpg?t=1777096713",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-25",
+        "AddedTimestamp": 1777096795.288586,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
         ]
     }
 }
