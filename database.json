@@ -19796,9 +19796,9 @@
         "URL": "https://store.steampowered.com/app/4568640/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568640/5bc0643c6c44ad9e85500a60773ee194baee83c3/header.jpg?t=1775022422",
-        "Date": "2026",
-        "AddedDate": "2026-04-04",
-        "AddedTimestamp": 1775329379.4287584,
+        "Date": "May 2026",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777198118.2177377,
         "MatchedTags": [
             "horror"
         ]
@@ -27284,9 +27284,9 @@
         "URL": "https://store.steampowered.com/app/4579650/",
         "Site": "https://rpgrush.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4579650/26405e13f8d53ce3db82c2f3983daa069bbc1475/header.jpg?t=1775804738",
-        "Date": "TBA",
-        "AddedDate": "2026-04-10",
-        "AddedTimestamp": 1775808136.1270313,
+        "Date": "To be announced",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777198120.6891916,
         "MatchedTags": [
             "turn-based tactics"
         ]
@@ -42403,6 +42403,52 @@
             "survival horror",
             "horror",
             "psychological horror"
+        ]
+    },
+    "4276440": {
+        "Title": "Quiet Bruise",
+        "Email": "",
+        "Discord": "https://discord.gg/2UxuW2NvMT",
+        "URL": "https://store.steampowered.com/app/4276440/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4276440/2e8eb8c94ad4a1a6984574e15f398b230fa5c05d/header.jpg?t=1777194727",
+        "Date": "Aug 12, 2026",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777198091.083045,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "base building"
+        ]
+    },
+    "4550470": {
+        "Title": "Rock Paper Scissors Wizard Knock",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4550470/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4550470/b0c12e41e97ae348cf121f06673b4ff7b6dc4d3f/header.jpg?t=1777195707",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777198113.0672235,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "resource management"
+        ]
+    },
+    "4586750": {
+        "Title": "Nova Fleet",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4586750/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4586750/828aecc9e3418fed18931f224b12d0331e04360f/header.jpg?t=1777196339",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777198123.6903436,
+        "MatchedTags": [
+            "resource management"
         ]
     }
 }
