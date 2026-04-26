@@ -18109,9 +18109,9 @@
         "URL": "https://store.steampowered.com/app/4556450/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4556450/cd229ad94e2ef8e7ed92f794956f538809b19172/header.jpg?t=1774893878",
-        "Date": "Apr 27, 2026",
-        "AddedDate": "2026-04-15",
-        "AddedTimestamp": 1776246750.535956,
+        "Date": "Apr 26, 2026",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777240507.0545375,
         "MatchedTags": [
             "economy"
         ]
@@ -42656,6 +42656,36 @@
         "AddedTimestamp": 1777233579.3913696,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "3673160": {
+        "Title": "Sol Titan: Echno",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3673160/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3673160/e7e075dc170a073a346cb31e700a0d87de16795f/header.jpg?t=1777238627",
+        "Date": "2027",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777240495.300119,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "4626350": {
+        "Title": "Lampyris Moon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4626350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4626350/c1336f6ebe13a7eef238a67048ae6552a815ad18/header.jpg?t=1777237546",
+        "Date": "May 11, 2026",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777240509.814241,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
         ]
     }
 }
