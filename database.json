@@ -11582,9 +11582,9 @@
         "URL": "https://store.steampowered.com/app/4531090/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4531090/fe6e257bd047e430d62bc4621a30fc50dc4e9e68/header.jpg?t=1774027786",
-        "Date": "May 14, 2026",
-        "AddedDate": "2026-04-12",
-        "AddedTimestamp": 1775979948.7941267,
+        "Date": "May 1, 2026",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777201577.4287832,
         "MatchedTags": [
             "strategy",
             "tactical rpg"
@@ -25403,9 +25403,9 @@
         "URL": "https://store.steampowered.com/app/4568800/",
         "Site": "https://studio26f.org",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4568800/ff280e85a6bcf2cceb30c75a87fcff231fab5ee0/header.jpg?t=1775691249",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-08",
-        "AddedTimestamp": 1775692456.9309635,
+        "Date": "Apr 26, 2026",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777201580.3183386,
         "MatchedTags": [
             "strategy"
         ]
@@ -36698,9 +36698,9 @@
         "URL": "https://store.steampowered.com/app/4428850/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4428850/c1384e6258d784de1c2ed396a4fed1d258a4c39f/header.jpg?t=1776756003",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-21",
-        "AddedTimestamp": 1776759172.5129013,
+        "Date": "To be announced",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777201567.6655128,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -42449,6 +42449,20 @@
         "AddedTimestamp": 1777198123.6903436,
         "MatchedTags": [
             "resource management"
+        ]
+    },
+    "4623290": {
+        "Title": "Painland",
+        "Email": "",
+        "Discord": "https://discord.gg/YrXeQW2HKa",
+        "URL": "https://store.steampowered.com/app/4623290/",
+        "Site": "https://painland.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4623290/3c921ab3b4e6e7f4505a751d287ccae2639dc2ca/header.jpg?t=1777198804",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777201591.780331,
+        "MatchedTags": [
+            "base building"
         ]
     }
 }
