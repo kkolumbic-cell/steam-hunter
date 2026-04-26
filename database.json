@@ -13281,9 +13281,9 @@
         "URL": "https://store.steampowered.com/app/4530890/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4530890/1f9c5eed11cea0a88c7329797c37897937dad3b9/header.jpg?t=1774370230",
-        "Date": "Apr 30, 2026",
-        "AddedDate": "2026-03-28",
-        "AddedTimestamp": 1774709584.5561771,
+        "Date": "Apr 25, 2026",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777175892.6803322,
         "MatchedTags": [
             "strategy",
             "real time tactics",
@@ -24773,7 +24773,8 @@
             "turn-based tactics",
             "strategy",
             "resource management",
-            "psychological horror"
+            "psychological horror",
+            "horror"
         ]
     },
     "4594740": {
@@ -42294,6 +42295,69 @@
             "turn-based tactics",
             "turn-based strategy",
             "tactical"
+        ]
+    },
+    "3867280": {
+        "Title": "Heartfall",
+        "Email": "",
+        "Discord": "https://discord.gg/VJN7qdPSx9",
+        "URL": "https://store.steampowered.com/app/3867280/",
+        "Site": "https://playheartfall.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3867280/0aba014c7b563f42dcf256278f41a02d20100a3c/header.jpg?t=1777166381",
+        "Date": "Aug 28, 2026",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777175846.4648368,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "3903640": {
+        "Title": "Archipeo",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3903640/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3903640/aab88b43b36bb0af81924e28fed79ede8028c7df/header.jpg?t=1777164690",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777175849.1338124,
+        "MatchedTags": [
+            "city builder",
+            "strategy",
+            "real time tactics",
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4537180": {
+        "Title": "Abandon West",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4537180/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4537180/dfbb96f4fd3e847435e8ceaa6aa5a2d72181f61d/header.jpg?t=1777162640",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777175897.8746567,
+        "MatchedTags": [
+            "turn-based strategy"
+        ]
+    },
+    "4596990": {
+        "Title": "Good Job",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4596990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4596990/4443ae4765566642063ad8ea3f0a80389282607c/header.jpg?t=1777173532",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777175928.6354487,
+        "MatchedTags": [
+            "management",
+            "economy"
         ]
     }
 }
