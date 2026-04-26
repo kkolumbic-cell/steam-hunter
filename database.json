@@ -11096,9 +11096,9 @@
         "URL": "https://store.steampowered.com/app/4505460/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4505460/afe7bc2610e3be0b733c5ca34c5ee7c1335ae134/header.jpg?t=1773953502",
-        "Date": "January 2027",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775563575.2522788,
+        "Date": "Apr 25, 2026",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777184423.5197423,
         "MatchedTags": [
             "horror"
         ]
@@ -18399,9 +18399,9 @@
         "URL": "https://store.steampowered.com/app/4500620/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4500620/5f81a941181c29c0278ccb349092839b2b611f62/header.jpg?t=1774909134",
-        "Date": "2026",
-        "AddedDate": "2026-03-30",
-        "AddedTimestamp": 1774911467.4934464,
+        "Date": "November 2026",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777184418.831225,
         "MatchedTags": [
             "strategy"
         ]
@@ -21907,9 +21907,9 @@
         "URL": "https://store.steampowered.com/app/4518020/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4518020/0fef1dc95bff10842c127424409194119b510b79/header.jpg?t=1775198225",
-        "Date": "June 2026",
-        "AddedDate": "2026-04-16",
-        "AddedTimestamp": 1776376840.9341173,
+        "Date": "Jun 1, 2026",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777184429.4696844,
         "MatchedTags": [
             "horror"
         ]
@@ -30334,10 +30334,10 @@
     },
     "4542800": {
         "Title": "Kill The Nova",
-        "Email": "",
+        "Email": "problemedge@gmail.com",
         "Discord": "https://discord.gg/5Zmw94ucDs",
         "URL": "https://store.steampowered.com/app/4542800/",
-        "Site": "",
+        "Site": "https://problemedge.vercel.app/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4542800/8376224a3d23950fc2439c53fe0ff48af914f949/header.jpg?t=1776164434",
         "Date": "July 2026",
         "AddedDate": "2026-04-23",
@@ -42358,6 +42358,20 @@
         "MatchedTags": [
             "management",
             "economy"
+        ]
+    },
+    "4658900": {
+        "Title": "Bunny:Protect Her",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4658900/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4658900/af15adedb0dbf5c4cd2616e89575ca67ecf9fa0f/header.jpg?t=1777176946",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777184446.6406121,
+        "MatchedTags": [
+            "tower defense"
         ]
     }
 }
