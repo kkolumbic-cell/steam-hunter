@@ -26005,9 +26005,9 @@
         "URL": "https://store.steampowered.com/app/4585360/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4585360/30924aab5fb254fed4e902f55986b458b39d099c/header.jpg?t=1775736934",
-        "Date": "2026",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775744314.5134676,
+        "Date": "April 2026",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777219150.447773,
         "MatchedTags": [
             "strategy",
             "tower defense"
@@ -42596,6 +42596,21 @@
         "AddedTimestamp": 1777215907.058237,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4650570": {
+        "Title": "Wake the Beacon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4650570/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4650570/3637d29cb0ceb8af83dcc0318c90a3953c103f36/header.jpg?t=1777217174",
+        "Date": "July 2026",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777219167.077954,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
         ]
     }
 }
