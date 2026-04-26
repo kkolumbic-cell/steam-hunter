@@ -23680,9 +23680,9 @@
         "URL": "https://store.steampowered.com/app/4526140/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4526140/5316c2343ede218b887c36fe483a6db0fbd0f770/header.jpg?t=1775531496",
-        "Date": "Q1 2027",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775532781.9534442,
+        "Date": "2027",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777192770.5466952,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -32498,9 +32498,9 @@
         "URL": "https://store.steampowered.com/app/4605560/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4605560/066ef4c689a0c058db480d3f191cf3e1986fb0a8/header.jpg?t=1776305046",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-16",
-        "AddedTimestamp": 1776311425.998626,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777192779.3873296,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -35777,8 +35777,8 @@
         "AddedTimestamp": 1776694601.607021,
         "MatchedTags": [
             "psychological horror",
-            "horror",
-            "resource management"
+            "resource management",
+            "horror"
         ]
     },
     "4581030": {
@@ -37014,9 +37014,9 @@
         "URL": "https://store.steampowered.com/app/4621900/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4621900/b4a5c581c620b32a68dd6f5d4506be75a75ed33a/header.jpg?t=1776777458",
-        "Date": "Jul 13, 2026",
-        "AddedDate": "2026-04-21",
-        "AddedTimestamp": 1776780778.0092406,
+        "Date": "Jul 28, 2026",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777192782.3986971,
         "MatchedTags": [
             "economy",
             "management",
@@ -42372,6 +42372,37 @@
         "AddedTimestamp": 1777184446.6406121,
         "MatchedTags": [
             "tower defense"
+        ]
+    },
+    "4631470": {
+        "Title": "Where It Happened",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4631470/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631470/ae7bdcf0b4df051d2f56a1a2c94c21e5c66ec48c/header.jpg?t=1777187571",
+        "Date": "July 2026",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777192787.6699636,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4635890": {
+        "Title": "Night Guard - The Last Shift",
+        "Email": "support@cubytegames.com, contact@cubytegames.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4635890/",
+        "Site": "https://www.cubytegames.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4635890/a38107f6faa7011fa446f50a4f888a6f028ca313/header.jpg?t=1777192417",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777192790.2462347,
+        "MatchedTags": [
+            "survival horror",
+            "horror",
+            "psychological horror"
         ]
     }
 }
