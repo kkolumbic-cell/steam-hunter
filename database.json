@@ -23962,7 +23962,7 @@
     "4546470": {
         "Title": "Remain At Your Desk",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/gmDTRgdcF",
         "URL": "https://store.steampowered.com/app/4546470/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4546470/1cfdce2077973a417554dba072a3502901009e6f/header.jpg?t=1775560052",
@@ -28504,9 +28504,9 @@
         "URL": "https://store.steampowered.com/app/4511480/",
         "Site": "https://phantomproductions.com.tr/corporate-board/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4511480/9213d3535253b89d5b84303fd2a172259185076a/header.jpg?t=1775891279",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-13",
-        "AddedTimestamp": 1776089459.9455159,
+        "Date": "Apr 26, 2026",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777210937.6430497,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -42493,6 +42493,81 @@
             "horror",
             "survival horror",
             "psychological horror"
+        ]
+    },
+    "4206100": {
+        "Title": "SlotsNStocks",
+        "Email": "",
+        "Discord": "https://discord.gg/BS2UNgeteJ",
+        "URL": "https://store.steampowered.com/app/4206100/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4206100/d84fa463759e6e621216b484e8bd1cd03381aa33/header.jpg?t=1777208405",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777210925.6125147,
+        "MatchedTags": [
+            "economy",
+            "strategy",
+            "turn-based tactics",
+            "management"
+        ]
+    },
+    "4444510": {
+        "Title": "Seeding The Wasteland",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4444510/",
+        "Site": "https://www.instagram.com/orchindie/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4444510/de327cf146db47c9ae611a46b7cf4d722225ba52/header.jpg?t=1777210907",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777210935.0769506,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4601260": {
+        "Title": "The House Always Wins",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4601260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4601260/1a34a1658c06fcb209689a439cd19e19d2e49fef/header.jpg?t=1777210105",
+        "Date": "2026",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777210955.3668158,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "4627590": {
+        "Title": "Too Many Balls",
+        "Email": "",
+        "Discord": "https://discord.gg/hm9yKF6Mf6",
+        "URL": "https://store.steampowered.com/app/4627590/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4627590/bc5bd77224bef3f0c3f9d7822f8711f4769d1715/header.jpg?t=1777209925",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777210963.1631534,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4659250": {
+        "Title": "IdleJack",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4659250/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4659250/20d9365bbbefab5903200159a863bd2f304a018d/header.jpg?t=1777208014",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-26",
+        "AddedTimestamp": 1777210974.165306,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
