@@ -15156,9 +15156,9 @@
         "URL": "https://store.steampowered.com/app/4485760/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4485760/d362bd90132ff093e0e86b8e0f4abc9b587d8be2/header.jpg?t=1774525762",
-        "Date": "April 2026",
-        "AddedDate": "2026-03-26",
-        "AddedTimestamp": 1774526645.9972177,
+        "Date": "Apr 27, 2026",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777309069.2364805,
         "MatchedTags": [
             "horror"
         ]
@@ -15578,9 +15578,9 @@
         "URL": "https://store.steampowered.com/app/4531670/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4531670/9b3d941484c1a7024343f1f64ad5f6dd2da60057/header.jpg?t=1774553488",
-        "Date": "To be announced",
-        "AddedDate": "2026-03-26",
-        "AddedTimestamp": 1774553715.2916563,
+        "Date": "May 5, 2026",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777309087.6759913,
         "MatchedTags": [
             "turn-based tactics",
             "turn-based combat"
@@ -20833,9 +20833,9 @@
         "URL": "https://store.steampowered.com/app/4563450/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4563450/5a5dd522599f7f58dd794e1571a5ea00bc7c037d/header.jpg?t=1775094974",
-        "Date": "2026",
+        "Date": "Coming soon",
         "AddedDate": "2026-04-27",
-        "AddedTimestamp": 1777300170.7143571,
+        "AddedTimestamp": 1777309104.351744,
         "MatchedTags": [
             "turn-based strategy",
             "strategy",
@@ -25113,7 +25113,7 @@
     "4581490": {
         "Title": "Aethinion",
         "Email": "lunarpenguinstudios@gmail.com",
-        "Discord": "",
+        "Discord": "https://discord.gg/YQAAxgsMY8",
         "URL": "https://store.steampowered.com/app/4581490/",
         "Site": "https://aethinion.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4581490/46621e10ac4f9a390a78ec2d004408091ae704e6/header.jpg?t=1775664256",
@@ -29669,9 +29669,9 @@
         "URL": "https://store.steampowered.com/app/4599600/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4599600/ddd97e49ea9270f11e2cddef114ce2ce8fe0128e/header.jpg?t=1776100856",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-13",
-        "AddedTimestamp": 1776101615.5316787,
+        "Date": "Apr 27, 2026",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777309132.0935056,
         "MatchedTags": [
             "strategy",
             "real time tactics",
@@ -32283,12 +32283,12 @@
         "URL": "https://store.steampowered.com/app/4580720/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4580720/77d0af9b1dfeb936f073e0d29ebabb5095c31f34/header.jpg?t=1776295475",
-        "Date": "Jun 23, 2026",
-        "AddedDate": "2026-04-16",
-        "AddedTimestamp": 1776297676.5962434,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777309106.3232546,
         "MatchedTags": [
-            "strategy",
             "turn-based tactics",
+            "strategy",
             "turn-based strategy",
             "tactical",
             "resource management"
@@ -43016,6 +43016,161 @@
         "MatchedTags": [
             "base building",
             "resource management"
+        ]
+    },
+    "2727830": {
+        "Title": "Cosmic Cult",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2727830/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2727830/e65ab6dc46774cd87fc10460f0cbfaa5b83aaab6/header.jpg?t=1777303882",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777309019.051703,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "3335490": {
+        "Title": "SkyFab",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3335490/",
+        "Site": "https://www.youtube.com/@SkyFabGame",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3335490/bb58405ddce01d649a7e7282e94e7e12499fa62b/header.jpg?t=1777307532",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777309024.4925427,
+        "MatchedTags": [
+            "base building",
+            "resource management",
+            "strategy",
+            "economy"
+        ]
+    },
+    "4609630": {
+        "Title": "Yokai Crossing",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4609630/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4609630/651f06bde551adfdd47aa5bbb3e2108440bc4230/header.jpg?t=1777302247",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777309140.4545221,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4622860": {
+        "Title": "Ovenborn",
+        "Email": "hp.land.ent@gmail.com",
+        "Discord": "https://discord.com/invite/happylandgames",
+        "URL": "https://store.steampowered.com/app/4622860/",
+        "Site": "https://happyland.games/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4622860/a8c7e094a1cffac5221070bc4250d0e4fdacaae8/header.jpg?t=1777304327",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777309145.8715804,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "turn-based tactics"
+        ]
+    },
+    "4628440": {
+        "Title": "gunman",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4628440/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4628440/d495bc2109052a9caec9ac917628d17c71d4f9a4/header.jpg?t=1777306531",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777309150.4682803,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics"
+        ]
+    },
+    "4647160": {
+        "Title": "Raze The Realm",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4647160/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4647160/bfc038fec1437d29d15afd14d398f60922a616db/header.jpg?t=1777300595",
+        "Date": "2026",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777309175.1713886,
+        "MatchedTags": [
+            "real time tactics",
+            "grand strategy",
+            "strategy",
+            "turn-based strategy",
+            "tactical"
+        ]
+    },
+    "4653100": {
+        "Title": "Train Set Code",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4653100/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4653100/60f47382e74a5ecd26db10c85add3690815043e4/header.jpg?t=1777307046",
+        "Date": "2026",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777309183.2956734,
+        "MatchedTags": [
+            "strategy",
+            "city builder"
+        ]
+    },
+    "4663060": {
+        "Title": "The Haunted Spot 2",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4663060/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4663060/45f60c270e0275c6204f0b2dfa92140fb67fafa0/header.jpg?t=1777302602",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777309192.6116543,
+        "MatchedTags": [
+            "survival horror",
+            "horror"
+        ]
+    },
+    "4665590": {
+        "Title": "Apotheosis Engine",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4665590/",
+        "Site": "https://genkaku-soft.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4665590/141a0f31e82bb9e56336bd7c89e26a10c3c5a64f/header.jpg?t=1777302267",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777309195.6827152,
+        "MatchedTags": [
+            "strategy",
+            "colony sim"
+        ]
+    },
+    "4666310": {
+        "Title": "Feed the King",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4666310/",
+        "Site": "https://www.nightskydogs.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4666310/811972ba2dc160334a26e7ad0980ecdcb5857c20/header.jpg?t=1777300786",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777309198.2177014,
+        "MatchedTags": [
+            "management"
         ]
     }
 }
