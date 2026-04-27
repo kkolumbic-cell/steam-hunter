@@ -5331,9 +5331,9 @@
         "AddedTimestamp": 1773186250.5141215,
         "MatchedTags": [
             "strategy",
-            "economy",
+            "turn-based strategy",
             "management",
-            "turn-based strategy"
+            "economy"
         ]
     },
     "4506940": {
@@ -32482,11 +32482,11 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4605560/",
-        "Site": "",
+        "Site": "https://occupancygame.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4605560/066ef4c689a0c058db480d3f191cf3e1986fb0a8/header.jpg?t=1776305046",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-04-26",
-        "AddedTimestamp": 1777192779.3873296,
+        "Date": "2027",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777327746.1874678,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -42915,9 +42915,9 @@
         "URL": "https://store.steampowered.com/app/4590380/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4590380/fd38c97c06dfe8c14430fd310cd118764516c4e1/header.jpg?t=1777298448",
-        "Date": "May 20, 2026",
+        "Date": "Coming soon",
         "AddedDate": "2026-04-27",
-        "AddedTimestamp": 1777300182.1274338,
+        "AddedTimestamp": 1777327738.0390377,
         "MatchedTags": [
             "strategy",
             "base building"
@@ -43088,9 +43088,9 @@
         "URL": "https://store.steampowered.com/app/4628440/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4628440/d495bc2109052a9caec9ac917628d17c71d4f9a4/header.jpg?t=1777306531",
-        "Date": "To be announced",
+        "Date": "May 11, 2026",
         "AddedDate": "2026-04-27",
-        "AddedTimestamp": 1777309150.4682803,
+        "AddedTimestamp": 1777327762.0939782,
         "MatchedTags": [
             "strategy",
             "real time tactics"
@@ -43658,6 +43658,110 @@
         "AddedTimestamp": 1777321296.8807194,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "2827070": {
+        "Title": "S.E.R.T",
+        "Email": "",
+        "Discord": "https://discord.com/invite/eAZF6m9C73",
+        "URL": "https://store.steampowered.com/app/2827070/",
+        "Site": "https://subsurface.dev",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2827070/d8680bd8174bc900055c36d54a255db0750f534e/header.jpg?t=1777326485",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777327684.205037,
+        "MatchedTags": [
+            "tactical",
+            "horror"
+        ]
+    },
+    "3808400": {
+        "Title": "Cursed Path",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3808400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3808400/0bc0f6eaa4492b4723b2a28e1d2ba834c5ef63d9/header.jpg?t=1777321530",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777327686.7829118,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4589210": {
+        "Title": "IT HEARS YOU",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4589210/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4589210/c8575f6bf064f8e912c8bc33d30d33536a5cdfac/header.jpg?t=1777323075",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777327732.5624146,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4612620": {
+        "Title": "Pion's Theorem",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4612620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4612620/7776223cd59b5162396489bb100bccf64725da5f/header.jpg?t=1777327076",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777327751.646881,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4651880": {
+        "Title": "6600\uff1aThe Park",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4651880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4651880/2647715d0073b7dac26698e71f92de481d2f27ae/header.jpg?t=1777323813",
+        "Date": "May 2026",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777327768.0563319,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4653490": {
+        "Title": "IVON",
+        "Email": "info@nr7games.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4653490/",
+        "Site": "https://www.nr7games.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4653490/dd3d24e518af701d190963166bb1ec1cde9f7bd9/header.jpg?t=1777327257",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777327770.0780082,
+        "MatchedTags": [
+            "economy",
+            "management"
+        ]
+    },
+    "4655610": {
+        "Title": "Robo Rig",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4655610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4655610/af103b6840335aa759d085ce32d75e66130dda97/header.jpg?t=1777327080",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777327773.236098,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics"
         ]
     }
 }
