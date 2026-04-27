@@ -23599,20 +23599,6 @@
             "turn-based combat"
         ]
     },
-    "3879680": {
-        "Title": "Cells of Division",
-        "Email": "",
-        "Discord": "https://discord.gg/erteYuwc",
-        "URL": "https://store.steampowered.com/app/3879680/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3879680/26ed4d3aa6381815a15049b351274d6927980b5b/header.jpg?t=1775529801",
-        "Date": "Jun 28, 2026",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775532727.0907032,
-        "MatchedTags": [
-            "tactical rpg"
-        ]
-    },
     "4255610": {
         "Title": "Interregnum",
         "Email": "",
@@ -28532,9 +28518,9 @@
         "URL": "https://store.steampowered.com/app/4487050/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487050/20b6ee5561b5907ea2cb31ba95b50a975114781f/header.jpg?t=1775896525",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-11",
-        "AddedTimestamp": 1775898206.2821615,
+        "Date": "2026",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777272165.5942156,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -42391,7 +42377,7 @@
     },
     "4635890": {
         "Title": "Night Guard - The Last Shift",
-        "Email": "support@cubytegames.com, contact@cubytegames.com",
+        "Email": "contact@cubytegames.com, support@cubytegames.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4635890/",
         "Site": "https://www.cubytegames.com/",
@@ -42746,6 +42732,20 @@
             "resource management",
             "economy",
             "management",
+            "base building"
+        ]
+    },
+    "4607390": {
+        "Title": "Aetherwell",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4607390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4607390/108b174adec6f80898dba619a53c01ad88aadbfe/header.jpg?t=1777271455",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777272177.9208486,
+        "MatchedTags": [
             "base building"
         ]
     }
