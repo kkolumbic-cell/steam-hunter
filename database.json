@@ -30128,9 +30128,9 @@
         "URL": "https://store.steampowered.com/app/4519560/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4519560/d2d95533577ead15eda17f002694e1d29716f24f/header.jpg?t=1776139768",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-14",
-        "AddedTimestamp": 1776147158.7619624,
+        "Date": "Apr 27, 2026",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777291283.4705105,
         "MatchedTags": [
             "horror"
         ]
@@ -40056,9 +40056,9 @@
         "URL": "https://store.steampowered.com/app/4617040/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4617040/aacf541af7e6cd6e3bf4d77a932b041073430ec7/header.jpg?t=1776976331",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1777032521.0165036,
+        "Date": "To be announced",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777291305.9062598,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -41070,9 +41070,9 @@
         "URL": "https://store.steampowered.com/app/4463900/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4463900/4ef705d52a79afe90df2d50d36b437895edaf521/header.jpg?t=1777048372",
-        "Date": "Dec 31, 2027",
-        "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1777050924.5760317,
+        "Date": "2027",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777291266.2612054,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -42810,6 +42810,70 @@
         "MatchedTags": [
             "strategy",
             "turn-based combat"
+        ]
+    },
+    "3840100": {
+        "Title": "Miraclawns",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3840100/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3840100/b4de8e066d2edacc6b88685a65a64a5cbaab2959/header.jpg?t=1777289803",
+        "Date": "Aug 13, 2026",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777291231.7815413,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tower defense",
+            "resource management",
+            "tactical",
+            "management"
+        ]
+    },
+    "4586230": {
+        "Title": "Last Inspection",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4586230/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586230/db0403de7e8ed70dcd6df2859e7e3d0d70ccf0aa/header.jpg?t=1777290657",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777291296.5528507,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4619130": {
+        "Title": "Chimaera Evolution",
+        "Email": "",
+        "Discord": "https://discord.gg/JSdtVy4Gvp",
+        "URL": "https://store.steampowered.com/app/4619130/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4619130/7f11b35c394f828b082a082ba5b65c496548ca8e/header.jpg?t=1777288314",
+        "Date": "Nov 30, 2026",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777291307.7138824,
+        "MatchedTags": [
+            "turn-based combat",
+            "turn-based tactics"
+        ]
+    },
+    "4659340": {
+        "Title": "Nullvein: Incremental Mining Evolution",
+        "Email": "",
+        "Discord": "https://discord.gg/UFWcXtnWvC",
+        "URL": "https://store.steampowered.com/app/4659340/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4659340/8be97d94fb4f048895fa27d5ef461296d07863b1/header.jpg?t=1777290628",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777291327.6986697,
+        "MatchedTags": [
+            "strategy",
+            "economy"
         ]
     }
 }
