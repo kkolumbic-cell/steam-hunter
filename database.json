@@ -2931,10 +2931,10 @@
             "turn-based tactics",
             "turn-based strategy",
             "turn-based combat",
-            "base building",
-            "strategy",
             "tactical",
-            "resource management"
+            "strategy",
+            "resource management",
+            "base building"
         ]
     },
     "4233430": {
@@ -8159,9 +8159,9 @@
         "URL": "https://store.steampowered.com/app/4253020/",
         "Site": "https://murdermeetcute.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4253020/88f4367c70fa3f99b16579fa0888af7949f9db1a/header.jpg?t=1773662693",
-        "Date": "To be announced",
-        "AddedDate": "2026-03-16",
-        "AddedTimestamp": 1773669378.290111,
+        "Date": "2026",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777300109.4054518,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -10671,7 +10671,7 @@
     "4475430": {
         "Title": "\u56db\u53f7\u5bf9\u8c61 Object 4",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/mrsDjmPx",
         "URL": "https://store.steampowered.com/app/4475430/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4475430/6861f75daca764e9604c9d8126950d678d909a34/header.jpg?t=1773905705",
@@ -10679,8 +10679,8 @@
         "AddedDate": "2026-03-19",
         "AddedTimestamp": 1773911029.9648674,
         "MatchedTags": [
-            "horror",
-            "survival horror"
+            "survival horror",
+            "horror"
         ]
     },
     "4503530": {
@@ -20833,9 +20833,9 @@
         "URL": "https://store.steampowered.com/app/4563450/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4563450/5a5dd522599f7f58dd794e1571a5ea00bc7c037d/header.jpg?t=1775094974",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775100552.1498024,
+        "Date": "2026",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777300170.7143571,
         "MatchedTags": [
             "turn-based strategy",
             "strategy",
@@ -36981,7 +36981,7 @@
     "4610810": {
         "Title": "Nightmare Before BlackGate",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/UZkfwDhXrr",
         "URL": "https://store.steampowered.com/app/4610810/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610810/1f94a79dcabbce6c8187df8f9be576a7dce67f48/header.jpg?t=1776774580",
@@ -40935,7 +40935,6 @@
         "AddedDate": "2026-04-24",
         "AddedTimestamp": 1777039947.0968878,
         "MatchedTags": [
-            "survival horror",
             "horror",
             "psychological horror"
         ]
@@ -41894,7 +41893,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/3441010/",
-        "Site": "",
+        "Site": "https://blocks-games.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3441010/8d21674bfc123088c212a9dd8a08b8b4718f2c2a/header.jpg?t=1777102293",
         "Date": "Q2 2026",
         "AddedDate": "2026-04-25",
@@ -42874,6 +42873,149 @@
         "MatchedTags": [
             "strategy",
             "economy"
+        ]
+    },
+    "4428900": {
+        "Title": "Factorwave",
+        "Email": "",
+        "Discord": "https://discord.gg/gmHraE9cJn",
+        "URL": "https://store.steampowered.com/app/4428900/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4428900/799d8233826dff6e54f12b62ca7460512dea56f6/header.jpg?t=1777300037",
+        "Date": "Dec 31, 2026",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777300122.3009121,
+        "MatchedTags": [
+            "tower defense",
+            "resource management",
+            "management",
+            "base building",
+            "strategy"
+        ]
+    },
+    "4529130": {
+        "Title": "KEROGEN",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4529130/",
+        "Site": "https://zartbittergames.carrd.co/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4529130/01e419d643cfbebc1f65002a8bd1353172ae64d1/header.jpg?t=1777296472",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777300158.8463476,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4590380": {
+        "Title": "Warfront Vanguard",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4590380/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4590380/fd38c97c06dfe8c14430fd310cd118764516c4e1/header.jpg?t=1777298448",
+        "Date": "May 20, 2026",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777300182.1274338,
+        "MatchedTags": [
+            "strategy",
+            "base building"
+        ]
+    },
+    "4635600": {
+        "Title": "Scoundrel: Deck Crawler",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4635600/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4635600/4f8f6bc17c63dfe7749631f4950749cce3d7d99d/header.jpg?t=1777291333",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777300205.6400034,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4637580": {
+        "Title": "Sky Runway",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4637580/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4637580/9d04801908ef96aa3ff8e1f6b176a1df40062ccc/header.jpg?t=1777298013",
+        "Date": "2026",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777300213.5200684,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4642650": {
+        "Title": "Souls Inferno",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4642650/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4642650/d9efad8ed1d0d959de53c7ce0896d80344d66d51/header.jpg?t=1777295725",
+        "Date": "2026",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777300216.2092338,
+        "MatchedTags": [
+            "turn-based combat",
+            "horror"
+        ]
+    },
+    "4656780": {
+        "Title": "Grid Guardian",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4656780/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656780/fa6a46fe0f288886558be52eb782bd953e62dd04/header.jpg?t=1777297163",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777300221.4606519,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "turn-based tactics",
+            "turn-based strategy",
+            "management",
+            "tactical"
+        ]
+    },
+    "4660730": {
+        "Title": "\u897f\u6e38\u91ca\u5384\u4f20",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4660730/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4660730/086affce92aa03a8366053847f470eda60dd4eef/header.jpg?t=1777298573",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777300231.2603567,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat",
+            "turn-based tactics"
+        ]
+    },
+    "4664840": {
+        "Title": "In the Van",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4664840/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4664840/3c4741e4c26f7f6b441f3bf6342fe49ebaf2ffd9/header.jpg?t=1777299625",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-27",
+        "AddedTimestamp": 1777300238.6193182,
+        "MatchedTags": [
+            "base building",
+            "resource management"
         ]
     }
 }
