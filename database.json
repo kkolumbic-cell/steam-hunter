@@ -8638,9 +8638,9 @@
         "URL": "https://store.steampowered.com/app/4465990/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4465990/71146582eff84f79de40288940afbc08616b3156/header.jpg?t=1773695513",
-        "Date": "TBA",
-        "AddedDate": "2026-03-16",
-        "AddedTimestamp": 1773698167.7811515,
+        "Date": "To be announced",
+        "AddedDate": "2026-04-28",
+        "AddedTimestamp": 1777418015.2950659,
         "MatchedTags": [
             "strategy",
             "grand strategy",
@@ -10750,7 +10750,7 @@
     "4309620": {
         "Title": "Strife of Stars",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/y6kBSMJttj",
         "URL": "https://store.steampowered.com/app/4309620/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4309620/ab06d8bd158ed32e81539cefda0e9043a6791194/header.jpg?t=1773917338",
@@ -32599,6 +32599,7 @@
         "AddedDate": "2026-04-16",
         "AddedTimestamp": 1776320070.2983704,
         "MatchedTags": [
+            "psychological horror",
             "horror"
         ]
     },
@@ -42686,7 +42687,8 @@
         "AddedDate": "2026-04-27",
         "AddedTimestamp": 1777262480.38587,
         "MatchedTags": [
-            "management"
+            "management",
+            "strategy"
         ]
     },
     "4214700": {
@@ -44002,9 +44004,9 @@
         "URL": "https://store.steampowered.com/app/4482350/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4482350/573dfd71a611a746afb2929dc14946ec05580330/header.jpg?t=1777337872",
-        "Date": "Coming soon",
+        "Date": "2026",
         "AddedDate": "2026-04-28",
-        "AddedTimestamp": 1777349343.59307,
+        "AddedTimestamp": 1777418017.921743,
         "MatchedTags": [
             "turn-based strategy",
             "strategy",
@@ -45131,6 +45133,21 @@
         "AddedTimestamp": 1777409102.6273472,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4119820": {
+        "Title": "Mutiny's Wake",
+        "Email": "",
+        "Discord": "https://discord.gg/YfGsQ5FV6Q",
+        "URL": "https://store.steampowered.com/app/4119820/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4119820/fbe2355277021f017dd8e430fbeb0a9c9b4f916f/header.jpg?t=1777410135",
+        "Date": "May 14, 2026",
+        "AddedDate": "2026-04-28",
+        "AddedTimestamp": 1777417979.0278535,
+        "MatchedTags": [
+            "base building",
+            "resource management"
         ]
     }
 }
