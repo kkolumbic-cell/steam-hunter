@@ -13867,9 +13867,9 @@
         "AddedTimestamp": 1774417184.695777,
         "MatchedTags": [
             "tactical rpg",
-            "strategy",
             "turn-based tactics",
             "turn-based strategy",
+            "strategy",
             "turn-based combat",
             "tactical"
         ]
@@ -18937,9 +18937,9 @@
         "AddedDate": "2026-03-31",
         "AddedTimestamp": 1774965783.7369242,
         "MatchedTags": [
-            "turn-based combat",
+            "psychological horror",
             "horror",
-            "psychological horror"
+            "turn-based combat"
         ]
     },
     "4383440": {
@@ -21786,12 +21786,13 @@
         "URL": "https://store.steampowered.com/app/4539310/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4539310/0d6d3b270162f9f08f8fdcc8b93bc601c72ce30d/header.jpg?t=1775186529",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-03",
-        "AddedTimestamp": 1775187002.4899125,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-28",
+        "AddedTimestamp": 1777402484.6637156,
         "MatchedTags": [
             "strategy",
-            "turn-based combat"
+            "turn-based combat",
+            "turn-based strategy"
         ]
     },
     "4547610": {
@@ -29899,8 +29900,8 @@
         "MatchedTags": [
             "management",
             "strategy",
+            "economy",
             "city builder",
-            "resource management",
             "tactical"
         ]
     },
@@ -30159,13 +30160,12 @@
         "URL": "https://store.steampowered.com/app/4586760/",
         "Site": "https://www.standardissuegames.com/spheretd",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4586760/5b150b199eea78d0bf82f5f76a5d507a7ad45458/header.jpg?t=1776144297",
-        "Date": "2026",
-        "AddedDate": "2026-04-25",
-        "AddedTimestamp": 1777108368.6345458,
+        "Date": "June 2026",
+        "AddedDate": "2026-04-28",
+        "AddedTimestamp": 1777402495.066736,
         "MatchedTags": [
             "strategy",
-            "tower defense",
-            "management"
+            "tower defense"
         ]
     },
     "4587820": {
@@ -41699,9 +41699,9 @@
         "URL": "https://store.steampowered.com/app/4650990/",
         "Site": "https://kornuxindustries.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4650990/14d2f3edb1d20d237718d501db92a9e27bb67b9f/header.jpg?t=1777068764",
-        "Date": "May 3, 2026",
-        "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1777071644.2425954,
+        "Date": "May 2026",
+        "AddedDate": "2026-04-28",
+        "AddedTimestamp": 1777402523.6456368,
         "MatchedTags": [
             "economy",
             "resource management"
@@ -44653,9 +44653,9 @@
         "URL": "https://store.steampowered.com/app/4451950/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4451950/d61ed01fdb0c8df083bdc41f423c224152d039c8/header.jpg?t=1777393581",
-        "Date": "Jun 8, 2026",
+        "Date": "Jun 7, 2026",
         "AddedDate": "2026-04-28",
-        "AddedTimestamp": 1777395903.848158,
+        "AddedTimestamp": 1777402457.4996634,
         "MatchedTags": [
             "strategy"
         ]
@@ -44904,6 +44904,128 @@
             "strategy",
             "management",
             "resource management"
+        ]
+    },
+    "4281870": {
+        "Title": "Pizzeria: The Pizza Restaurant Sim",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4281870/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4281870/6d5e65f2e7d1d209442370dc87db3ff51eb3e457/header.jpg?t=1777401673",
+        "Date": "June 2026",
+        "AddedDate": "2026-04-28",
+        "AddedTimestamp": 1777402435.359965,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4441090": {
+        "Title": "Cheffed",
+        "Email": "",
+        "Discord": "https://discord.gg/eT5WKe6Saj",
+        "URL": "https://store.steampowered.com/app/4441090/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4441090/1d76fa206f969d399985eae63dcdd4b87074ce66/header.jpg?t=1777402168",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-28",
+        "AddedTimestamp": 1777402448.2527754,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "resource management"
+        ]
+    },
+    "4464430": {
+        "Title": "Basement Server Simulator",
+        "Email": "",
+        "Discord": "https://discord.com/invite/ZpZaPcP23v",
+        "URL": "https://store.steampowered.com/app/4464430/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4464430/9f836bb12e5b9d618685a5cbf456678cb48910f8/header.jpg?t=1777396012",
+        "Date": "2026",
+        "AddedDate": "2026-04-28",
+        "AddedTimestamp": 1777402462.391892,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4631100": {
+        "Title": "Arcany",
+        "Email": "polypoode@gmail.com",
+        "Discord": "https://discord.gg/CrhFfh5caE",
+        "URL": "https://store.steampowered.com/app/4631100/",
+        "Site": "https://arcanygame.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631100/9087411e6b8c2fbd241b1804a42d8b619b076545/header.jpg?t=1777397145",
+        "Date": "July 2026",
+        "AddedDate": "2026-04-28",
+        "AddedTimestamp": 1777402515.5451965,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "4652340": {
+        "Title": "Cloudrooms",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4652340/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4652340/6ce9ca7755ecbd8a2f970d13389ccf8587d28d7d/header.jpg?t=1777398445",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-28",
+        "AddedTimestamp": 1777402530.3661528,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4660370": {
+        "Title": "Astromental Incremental",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4660370/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4660370/d577049bd143f7f0f0409245e94f1844a84fd424/header.jpg?t=1777398674",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-28",
+        "AddedTimestamp": 1777402542.5260427,
+        "MatchedTags": [
+            "management",
+            "resource management"
+        ]
+    },
+    "4670120": {
+        "Title": "He's Always Hungry",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4670120/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4670120/ef2b3d0a979b3e2dbfa7b4bf7c7c0b56f78bf0d6/header.jpg?t=1777402055",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-28",
+        "AddedTimestamp": 1777402546.9631755,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4673140": {
+        "Title": "67 Minutes in Heaven",
+        "Email": "",
+        "Discord": "https://discord.gg/z69D7Rsz",
+        "URL": "https://store.steampowered.com/app/4673140/",
+        "Site": "https://oneflowman.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4673140/20e63ad7dcb0b81c6b99ce27484c7e7420a502ca/header.jpg?t=1777400291",
+        "Date": "TBA",
+        "AddedDate": "2026-04-28",
+        "AddedTimestamp": 1777402549.8350272,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
