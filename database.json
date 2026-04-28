@@ -1966,9 +1966,9 @@
         "URL": "https://store.steampowered.com/app/4465600/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4465600/6059134d665574b616124a69ee620fc5206f7376/header.jpg?t=1772743291",
-        "Date": "May 2026",
-        "AddedDate": "2026-03-05",
-        "AddedTimestamp": 1772744054.0388107,
+        "Date": "June 2026",
+        "AddedDate": "2026-04-28",
+        "AddedTimestamp": 1777409007.689971,
         "MatchedTags": [
             "management",
             "resource management"
@@ -4478,9 +4478,9 @@
         "URL": "https://store.steampowered.com/app/4500280/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4500280/25e1721fbbd62b05d6658de7961ce0832a946a99/header.jpg?t=1773080070",
-        "Date": "Jun 30, 2026",
-        "AddedDate": "2026-03-09",
-        "AddedTimestamp": 1773083539.4050498,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-28",
+        "AddedTimestamp": 1777409012.3964605,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -18546,9 +18546,9 @@
         "URL": "https://store.steampowered.com/app/4416840/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4416840/036056b656bc7673d40ca46430fd20c2e04cfe87/header.jpg?t=1774919129",
-        "Date": "Apr 22, 2026",
-        "AddedDate": "2026-03-31",
-        "AddedTimestamp": 1774927892.5180771,
+        "Date": "Apr 28, 2026",
+        "AddedDate": "2026-04-28",
+        "AddedTimestamp": 1777408998.835206,
         "MatchedTags": [
             "tactical"
         ]
@@ -45024,6 +45024,111 @@
         "Date": "TBA",
         "AddedDate": "2026-04-28",
         "AddedTimestamp": 1777402549.8350272,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4228580": {
+        "Title": "Hexcavation",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4228580/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4228580/93e8cc826a87f95e8f7a73492e8f3c26921bce8d/header.jpg?t=1777404610",
+        "Date": "2026",
+        "AddedDate": "2026-04-28",
+        "AddedTimestamp": 1777408991.4285276,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4303680": {
+        "Title": "Car Factory Tycoon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4303680/",
+        "Site": "https://carfactorytycoon.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4303680/66911d087c19f06221ae0f5fa32f1df6694f4b28/header.jpg?t=1777405403",
+        "Date": "Sep 29, 2026",
+        "AddedDate": "2026-04-28",
+        "AddedTimestamp": 1777408995.905353,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "economy"
+        ]
+    },
+    "4495510": {
+        "Title": "Plantation Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4495510/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4495510/abadcf9dd52e7aceacb8243139822a931bae2118/header.jpg?t=1777402592",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-28",
+        "AddedTimestamp": 1777409009.7815542,
+        "MatchedTags": [
+            "economy",
+            "resource management"
+        ]
+    },
+    "4619600": {
+        "Title": "Funny Rummy",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4619600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4619600/25a6ed95103a3d11af520b0ff658e8ce7ce4b298/header.jpg?t=1777404005",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-28",
+        "AddedTimestamp": 1777409062.7993937,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4636540": {
+        "Title": "Cards n Zombies",
+        "Email": "",
+        "Discord": "https://discord.gg/xAMHbGMCAn",
+        "URL": "https://store.steampowered.com/app/4636540/",
+        "Site": "https://16bitnights.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4636540/f1fae4f1bd579f6e18c2d9eef9d3da4f04390b39/header.jpg?t=1777402649",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-28",
+        "AddedTimestamp": 1777409073.6054764,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4653360": {
+        "Title": "Egress: Gravity & Escape",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4653360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4653360/a9b059a1a400368ccd1afa82e36fd9769fc84093/header.jpg?t=1777408599",
+        "Date": "TBA",
+        "AddedDate": "2026-04-28",
+        "AddedTimestamp": 1777409090.426051,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4661630": {
+        "Title": "Collective Corp",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4661630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4661630/ce8ba47bbf0c1fe0f3b7576e3f4596309595f53c/header.jpg?t=1777405936",
+        "Date": "June 2026",
+        "AddedDate": "2026-04-28",
+        "AddedTimestamp": 1777409102.6273472,
         "MatchedTags": [
             "horror"
         ]
