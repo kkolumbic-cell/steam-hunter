@@ -33169,7 +33169,7 @@
         "AddedDate": "2026-04-16",
         "AddedTimestamp": 1776358337.3585014,
         "MatchedTags": [
-            "resource management"
+            "economy"
         ]
     },
     "2662310": {
@@ -42804,9 +42804,9 @@
     "4660470": {
         "Title": "Near Mint",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.com/invite/Mt2FWYve",
         "URL": "https://store.steampowered.com/app/4660470/",
-        "Site": "",
+        "Site": "https://dupergames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4660470/ebf0ec2f2498bfd67cdd0f9356189b1a5ad4e154/header.jpg?t=1777279045",
         "Date": "To be announced",
         "AddedDate": "2026-04-27",
@@ -45940,6 +45940,50 @@
             "tactical rpg",
             "tactical",
             "turn-based combat"
+        ]
+    },
+    "3936610": {
+        "Title": "Monopoly: Star Wars\u2122 Heroes vs. Villains",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3936610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3936610/4c994dffe6840c2ee0e653afe281685ae85db64c/header.jpg?t=1777478855",
+        "Date": "Jun 11, 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777481674.6220276,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4584860": {
+        "Title": "ICU - Intensive Care Unit 8",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4584860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4584860/c83d59cadaa0a87a469e6cb019f099bf94bea67e/header.jpg?t=1777475784",
+        "Date": "2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777481728.1131744,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4652300": {
+        "Title": "Matching Misrolls",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4652300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4652300/6ac00f129ed2492cfabc0323d1030276c8f69728/header.jpg?t=1777480997",
+        "Date": "2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777481773.0238466,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
         ]
     }
 }
