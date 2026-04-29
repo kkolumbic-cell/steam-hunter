@@ -16283,9 +16283,9 @@
         "URL": "https://store.steampowered.com/app/4388620/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4388620/63f3a5c8a6dcf2fed745f70b5d718e5f7f63586a/header.jpg?t=1774625354",
-        "Date": "To be announced",
-        "AddedDate": "2026-03-27",
-        "AddedTimestamp": 1774627643.0424817,
+        "Date": "Apr 29, 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777463750.0501745,
         "MatchedTags": [
             "management",
             "strategy"
@@ -16793,9 +16793,9 @@
         "URL": "https://store.steampowered.com/app/4330840/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4330840/d9a39eb8bc02a5cee5234ec203867bbf6cc717e6/header.jpg?t=1774664415",
-        "Date": "2026",
-        "AddedDate": "2026-03-28",
-        "AddedTimestamp": 1774667863.387012,
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777463745.7886217,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -23832,9 +23832,9 @@
         "URL": "https://store.steampowered.com/app/4403390/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4403390/575973cbca292cf64922739b428fe64d1130ad29/header.jpg?t=1775551701",
-        "Date": "2026",
-        "AddedDate": "2026-04-17",
-        "AddedTimestamp": 1776413260.7805374,
+        "Date": "May 1, 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777463754.529187,
         "MatchedTags": [
             "horror"
         ]
@@ -25434,9 +25434,9 @@
         "URL": "https://store.steampowered.com/app/4375670/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4375670/ff09655ceda6cecdfde60a8e43f9a5a950b75160/header.jpg?t=1775701741",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775705427.6549308,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777463747.638964,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -27337,9 +27337,9 @@
         "AddedDate": "2026-04-10",
         "AddedTimestamp": 1775814028.1604776,
         "MatchedTags": [
-            "strategy",
-            "turn-based strategy",
             "turn-based tactics",
+            "turn-based strategy",
+            "strategy",
             "tactical"
         ]
     },
@@ -31735,9 +31735,9 @@
         "URL": "https://store.steampowered.com/app/4549740/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4549740/975606134f3e6bde5bd4d323781ef975b73a37f0/header.jpg?t=1776264755",
-        "Date": "Apr 16, 2026",
-        "AddedDate": "2026-04-15",
-        "AddedTimestamp": 1776267622.1646996,
+        "Date": "Apr 29, 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777463770.3791914,
         "MatchedTags": [
             "strategy",
             "survival horror"
@@ -33640,9 +33640,9 @@
         "URL": "https://store.steampowered.com/app/4617750/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4617750/dcce09b03a8e0cf4302cfb33dd15259b32be61d7/header.jpg?t=1776381448",
-        "Date": "May 31, 2026",
-        "AddedDate": "2026-04-16",
-        "AddedTimestamp": 1776384008.3149242,
+        "Date": "May 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777463802.7772207,
         "MatchedTags": [
             "strategy"
         ]
@@ -35169,9 +35169,10 @@
         "MatchedTags": [
             "tactical rpg",
             "real time tactics",
-            "psychological horror",
             "horror",
-            "strategy"
+            "psychological horror",
+            "survival horror",
+            "tactical"
         ]
     },
     "4619160": {
@@ -38903,9 +38904,9 @@
         "URL": "https://store.steampowered.com/app/4626410/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4626410/68192df1afe3739c581a4a7b15a2c055211b58a1/header.jpg?t=1776900987",
-        "Date": "May 1, 2026",
-        "AddedDate": "2026-04-23",
-        "AddedTimestamp": 1776902668.1459687,
+        "Date": "May 16, 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777463807.1903353,
         "MatchedTags": [
             "strategy"
         ]
@@ -45215,7 +45216,7 @@
     "4550370": {
         "Title": "\u9b54\u5854\u56fd\u5ea6 -Tower Realm-",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/ra7RaDt6jY",
         "URL": "https://store.steampowered.com/app/4550370/",
         "Site": "https://www.wdmota.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4550370/0976c5e6113139c4714ed3c17c9c3d5cc43152dd/header.jpg?t=1777427882",
@@ -45715,6 +45716,88 @@
             "strategy",
             "base building",
             "resource management"
+        ]
+    },
+    "4139160": {
+        "Title": "Roll 'em Out",
+        "Email": "",
+        "Discord": "https://discord.gg/aWBTVMYAcZ",
+        "URL": "https://store.steampowered.com/app/4139160/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4139160/746771f985b491e116f3009f704cdfa54c7e0132/header.jpg?t=1777462916",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777463737.4640255,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4638930": {
+        "Title": "Ember Legion",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4638930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4638930/c0a47780b8d6b371b9a61c8bcdb9f7c92e06d00c/header.jpg?t=1777460882",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777463809.8370142,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tactical",
+            "base building",
+            "resource management"
+        ]
+    },
+    "4648300": {
+        "Title": "PaletCard\u6d82\u6d82\u5361\u724c",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4648300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4648300/f7330a0e3940c168c27fa59e7129ffd29dea64aa/header.jpg?t=1777461089",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777463820.7695959,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4660180": {
+        "Title": "Minim",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4660180/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4660180/5aad9964fe57c8f604548390cee0a6b79b9582ee/header.jpg?t=1777458118",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777463826.1179247,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4672980": {
+        "Title": "Coremine Corp",
+        "Email": "",
+        "Discord": "https://discord.gg/SW4pMZCV6w",
+        "URL": "https://store.steampowered.com/app/4672980/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4672980/58db8727e8796c6d0f3a8694c3810fa0ef7363e8/header.jpg?t=1777461052",
+        "Date": "TBA",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777463834.270217,
+        "MatchedTags": [
+            "resource management",
+            "strategy",
+            "management",
+            "base building",
+            "economy"
         ]
     }
 }
