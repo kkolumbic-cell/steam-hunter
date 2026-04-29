@@ -7444,9 +7444,9 @@
         "URL": "https://store.steampowered.com/app/4500270/",
         "Site": "https://www.globalprotocolgame.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4500270/640783e903a50b6273350274be1f7044a86e093c/header.jpg?t=1773429680",
-        "Date": "May 19, 2026",
-        "AddedDate": "2026-04-18",
-        "AddedTimestamp": 1776519419.6023254,
+        "Date": "Jun 1, 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777473183.7014453,
         "MatchedTags": [
             "strategy",
             "grand strategy",
@@ -25960,9 +25960,9 @@
         "URL": "https://store.steampowered.com/app/4580120/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4580120/67acf60a1960677c62ebc7872ff145fa0fcac08e/header.jpg?t=1775737346",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775744301.1442828,
+        "Date": "Jun 23, 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777473218.4670537,
         "MatchedTags": [
             "horror"
         ]
@@ -28550,9 +28550,9 @@
         "URL": "https://store.steampowered.com/app/4278200/",
         "Site": "https://kidoneko.com/office4649",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4278200/cb00bb91c1bae5320f834108a795805a78316d8f/header.jpg?t=1775898723",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-11",
-        "AddedTimestamp": 1775901517.4231606,
+        "Date": "May 19, 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777473146.1466744,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -32330,9 +32330,9 @@
         "URL": "https://store.steampowered.com/app/4613750/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613750/6b5687c897b5f88c12290bb3d452b9c3175444ef/header.jpg?t=1776294890",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-16",
-        "AddedTimestamp": 1776297695.7890315,
+        "Date": "Apr 29, 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777473236.5684261,
         "MatchedTags": [
             "strategy",
             "horror"
@@ -37788,9 +37788,9 @@
         "URL": "https://store.steampowered.com/app/4522620/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4522620/4a13ba22659a5f75d4104a5c6901d438b3071591/header.jpg?t=1776813408",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1777058072.6062722,
+        "Date": "Apr 29, 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777473198.8646886,
         "MatchedTags": [
             "resource management"
         ]
@@ -38321,7 +38321,7 @@
     "4363230": {
         "Title": "Rampallians",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/pXXD5bN4",
         "URL": "https://store.steampowered.com/app/4363230/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4363230/546711ccd114fcd1b3f3e3f23322b97c301e0ab8/header.jpg?t=1776870958",
@@ -45798,6 +45798,148 @@
             "management",
             "base building",
             "economy"
+        ]
+    },
+    "2097940": {
+        "Title": "Theatre of War: Rearmed",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2097940/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2097940/b885b2dbdb7aada73403ed3700ebd5ba97d171f9/header.jpg?t=1777471586",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777473122.9058132,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tactical"
+        ]
+    },
+    "2669810": {
+        "Title": "Moonlight Motel",
+        "Email": "",
+        "Discord": "https://discord.gg/a46G4S9J59",
+        "URL": "https://store.steampowered.com/app/2669810/",
+        "Site": "https://hired2die.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2669810/ea93d779292735fd2434efeb8c2fa24ef874d314/header.jpg?t=1777469163",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777473124.9989278,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4169590": {
+        "Title": "Casino Casualty",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4169590/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4169590/b5d9a8c413bb30695c716573efa53dd63a7fd93b/header.jpg?t=1777472578",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777473141.0476172,
+        "MatchedTags": [
+            "strategy",
+            "horror",
+            "survival horror",
+            "resource management"
+        ]
+    },
+    "4332930": {
+        "Title": "CheeseMoney",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4332930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4332930/0affa2b31c713e9dc42c1a1e54bbb43253820fd8/header.jpg?t=1777467169",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777473153.2030168,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy"
+        ]
+    },
+    "4598640": {
+        "Title": "Soul Proprietor",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4598640/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4598640/c0ee0712b21a2649b3df078c313ef0fae9f2a6a9/header.jpg?t=1777466697",
+        "Date": "Apr 29, 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777473225.9360812,
+        "MatchedTags": [
+            "strategy",
+            "horror",
+            "management"
+        ]
+    },
+    "4615430": {
+        "Title": "Chrono Mailbox",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4615430/",
+        "Site": "https://www.joylong-ai.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4615430/ae9e0d6bc7903b83bf7781a41d0ad94c02ee8769/header.jpg?t=1777470242",
+        "Date": "August 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777473238.9671493,
+        "MatchedTags": [
+            "tactical rpg"
+        ]
+    },
+    "4618640": {
+        "Title": "Misfit Warbands",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4618640/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4618640/842980f456c0e0066f2b56350d67a0dbab11c103/header.jpg?t=1777464958",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777473246.40531,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "tactical rpg",
+            "tactical"
+        ]
+    },
+    "4620790": {
+        "Title": "Cargo Lines",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4620790/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4620790/653d525f6abe9c2a1ac20101221edba10e9cf4a4/header.jpg?t=1777471333",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777473248.1540456,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4637280": {
+        "Title": "Weapon Skills",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4637280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4637280/b4d5d3b74ffeee59631af63dffdb24a2896937b8/header.jpg?t=1777471445",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777473255.547512,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg",
+            "tactical",
+            "turn-based combat"
         ]
     }
 }
