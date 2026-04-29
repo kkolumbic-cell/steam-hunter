@@ -8670,9 +8670,9 @@
         "URL": "https://store.steampowered.com/app/4516890/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4516890/4b845c0982f57b197d8450b6af4cdaf3b8c2dc0d/header.jpg?t=1773697163",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-03-16",
-        "AddedTimestamp": 1773701558.4963903,
+        "Date": "May 1, 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777444777.7934465,
         "MatchedTags": [
             "strategy"
         ]
@@ -35766,8 +35766,8 @@
         "AddedTimestamp": 1776694601.607021,
         "MatchedTags": [
             "psychological horror",
-            "resource management",
-            "horror"
+            "horror",
+            "resource management"
         ]
     },
     "4581030": {
@@ -45398,6 +45398,115 @@
         "MatchedTags": [
             "strategy",
             "grand strategy"
+        ]
+    },
+    "3757780": {
+        "Title": "Tomb Guard",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3757780/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3757780/5db9413700eb028c816f03408e488e02a5402cc9/header.jpg?t=1777441470",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777444739.5520053,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "3835080": {
+        "Title": "Terrafarmer",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3835080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3835080/60b72e85d81d752209d5fdca359d85e0ac64f959/header.jpg?t=1777438276",
+        "Date": "2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777444742.7825415,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "turn-based tactics"
+        ]
+    },
+    "4536770": {
+        "Title": "AGE OF ALIENS",
+        "Email": "",
+        "Discord": "https://discord.gg/SdhDumkkg6",
+        "URL": "https://store.steampowered.com/app/4536770/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4536770/d572057f3379d771992694fccd717be4f521c510/header.jpg?t=1777442977",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777444796.4220583,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "base building",
+            "resource management",
+            "real time tactics"
+        ]
+    },
+    "4548030": {
+        "Title": "Don\u2019t Trust",
+        "Email": "",
+        "Discord": "https://discord.gg/KnJdRPS88m",
+        "URL": "https://store.steampowered.com/app/4548030/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4548030/e3858fa2a0ef573b7a340205b607adc9fc7f1249/header.jpg?t=1777442260",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777444807.8675,
+        "MatchedTags": [
+            "psychological horror",
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4629750": {
+        "Title": "Moksha",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4629750/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4629750/c9f8b8b47efbfa5ccc44c0cae07da8483c9f6b04/header.jpg?t=1777443662",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777444840.4024048,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4663840": {
+        "Title": "S4NCTU4RY",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4663840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4663840/55e76ef14b4dfd44e6cfc26023714316ef1884f9/header.jpg?t=1777441935",
+        "Date": "2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777444853.5917053,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4669270": {
+        "Title": "RESTLOS",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4669270/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4669270/86380b80442ff3e9d43449d87edc82e01806cd18/header.jpg?t=1777440752",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777444861.3168633,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
         ]
     }
 }
