@@ -8393,13 +8393,13 @@
     "4329290": {
         "Title": "The Grimwood Hex",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/SA5Afms4q9",
         "URL": "https://store.steampowered.com/app/4329290/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329290/418871b9e7d5588853da456c246bc771d50c6848/header.jpg?t=1773688362",
-        "Date": "To be announced",
-        "AddedDate": "2026-03-16",
-        "AddedTimestamp": 1773689421.1280508,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777488609.680725,
         "MatchedTags": [
             "turn-based strategy",
             "turn-based tactics",
@@ -15577,9 +15577,9 @@
         "URL": "https://store.steampowered.com/app/4531670/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4531670/9b3d941484c1a7024343f1f64ad5f6dd2da60057/header.jpg?t=1774553488",
-        "Date": "May 5, 2026",
-        "AddedDate": "2026-04-27",
-        "AddedTimestamp": 1777309087.6759913,
+        "Date": "Apr 29, 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777488640.232009,
         "MatchedTags": [
             "turn-based tactics",
             "turn-based combat"
@@ -36988,9 +36988,9 @@
         "URL": "https://store.steampowered.com/app/4610810/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610810/1f94a79dcabbce6c8187df8f9be576a7dce67f48/header.jpg?t=1776774580",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-21",
-        "AddedTimestamp": 1776780770.8289132,
+        "Date": "May 5, 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777488672.050669,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -41949,8 +41949,8 @@
         "AddedTimestamp": 1777108361.066018,
         "MatchedTags": [
             "management",
-            "strategy",
-            "city builder"
+            "city builder",
+            "strategy"
         ]
     },
     "4624100": {
@@ -45984,6 +45984,136 @@
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
+        ]
+    },
+    "2536720": {
+        "Title": "U.V.S. Nirmana",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2536720/",
+        "Site": "https://coincidence.games/uvs-nirmana/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536720/c7e5cf80d61e96bcc308f529dc87b9f3d52b9fd6/header.jpg?t=1777482015",
+        "Date": "May 4, 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777488595.0574887,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4533700": {
+        "Title": "Barista Life",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4533700/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4533700/28ebf1f85dcae89ac399cb221adfbb886b0a2eff/header.jpg?t=1777484152",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777488642.8016407,
+        "MatchedTags": [
+            "management",
+            "resource management",
+            "economy",
+            "strategy"
+        ]
+    },
+    "4622560": {
+        "Title": "The Roach Hotel - Chapter 2",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4622560/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4622560/654dff34a2f78895ca60e5e7fc9b13c12eeaf29f/header.jpg?t=1777481698",
+        "Date": "October 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777488685.1515675,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "4631570": {
+        "Title": "Drawn into Darkness",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4631570/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631570/e58fcb1c24b5cec3ff96fdbd55185399e12c890e/header.jpg?t=1777487143",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777488690.4677112,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat",
+            "tactical"
+        ]
+    },
+    "4650780": {
+        "Title": "Solo Defending",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4650780/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4650780/8089e4d691422b853367ce8bd61d591a03af174b/header.jpg?t=1777481685",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777488707.968597,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "tactical"
+        ]
+    },
+    "4658560": {
+        "Title": "Against the Dark Moon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4658560/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4658560/9fc4caef237d9e7ec1f575a7a5def62a0af8620a/header.jpg?t=1777487744",
+        "Date": "TBA",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777488712.7706442,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4664170": {
+        "Title": "Coinqueror",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4664170/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4664170/d931e9fa851f6502f3d10da0cc7cf46a7eebb214/header.jpg?t=1777485394",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777488716.870132,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "real time tactics",
+            "tactical",
+            "turn-based combat"
+        ]
+    },
+    "4666250": {
+        "Title": "Stone to Stove",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4666250/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4666250/0e1e7a3eb5b3980d3f750193d44295fea221da99/header.jpg?t=1777482040",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777488719.6709461,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "economy",
+            "resource management",
+            "base building"
         ]
     }
 }
