@@ -5755,9 +5755,9 @@
         "URL": "https://store.steampowered.com/app/4492100/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492100/a5a28ce7723f8938411c230d30650789bcebdcb9/header.jpg?t=1773239151",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-25",
-        "AddedTimestamp": 1774436979.8324559,
+        "Date": "2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777435482.281421,
         "MatchedTags": [
             "strategy"
         ]
@@ -30817,9 +30817,9 @@
         "URL": "https://store.steampowered.com/app/4591380/",
         "Site": "https://www.gardeniatale.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4591380/a422f35b0b7f0ee168a91ced067d636b8a07c830/header.jpg?t=1776187091",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-21",
-        "AddedTimestamp": 1776752130.442125,
+        "Date": "Apr 28, 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777435537.632299,
         "MatchedTags": [
             "turn-based combat",
             "turn-based tactics"
@@ -32394,9 +32394,9 @@
         "URL": "https://store.steampowered.com/app/4153750/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4153750/4b80dde7e0c62fc06904dc65ec0b99849d8bc957/header.jpg?t=1776309649",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-16",
-        "AddedTimestamp": 1776311303.5590525,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777435452.8844707,
         "MatchedTags": [
             "city builder",
             "economy",
@@ -39469,8 +39469,8 @@
         "AddedTimestamp": 1776953762.5414948,
         "MatchedTags": [
             "strategy",
-            "horror",
-            "survival horror"
+            "survival horror",
+            "horror"
         ]
     },
     "4624140": {
@@ -45179,6 +45179,225 @@
             "strategy",
             "grand strategy",
             "management"
+        ]
+    },
+    "4297460": {
+        "Title": "Fairwind",
+        "Email": "info@wylderzone.com",
+        "Discord": "https://discord.gg/ggRbTRA5Qj",
+        "URL": "https://store.steampowered.com/app/4297460/",
+        "Site": "https://wylderzone.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4297460/2183db6d2ee0289a7e356bdcf6cee68200befc35/header.jpg?t=1777428911",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777435465.0921993,
+        "MatchedTags": [
+            "economy",
+            "resource management"
+        ]
+    },
+    "4515560": {
+        "Title": "Make It a Million",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4515560/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4515560/5bfc48f54df33f1ed1aab2937c796355ac5c95c3/header.jpg?t=1777427976",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777435488.2277827,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4550370": {
+        "Title": "\u9b54\u5854\u56fd\u5ea6 -Tower Realm-",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4550370/",
+        "Site": "https://www.wdmota.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4550370/0976c5e6113139c4714ed3c17c9c3d5cc43152dd/header.jpg?t=1777427882",
+        "Date": "2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777435505.8021526,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "resource management"
+        ]
+    },
+    "4587980": {
+        "Title": "Veil",
+        "Email": "",
+        "Discord": "https://discord.gg/C2NPyX5PMt",
+        "URL": "https://store.steampowered.com/app/4587980/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4587980/ab0090bba6991ad386e9982e31627a9f5baa92b6/header.jpg?t=1777430365",
+        "Date": "May 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777435529.056252,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4600530": {
+        "Title": "Terminal Control",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4600530/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4600530/d46b4b7e5e739f5c7bcd1c56c1d8e8863330f46a/header.jpg?t=1777433183",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777435542.1833272,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4622330": {
+        "Title": "CD Market - Music Label Sim",
+        "Email": "",
+        "Discord": "https://discord.gg/ZvukVZePDt",
+        "URL": "https://store.steampowered.com/app/4622330/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4622330/98e8399a39e32f64caf5e9ccd8ff1edf44e615a4/header.jpg?t=1777421771",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777435552.2780604,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4626050": {
+        "Title": "Apawcalypse: Gang War",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4626050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4626050/8b5f907282b4c0be02dd24bb3316532dbc4bb2be/header.jpg?t=1777434656",
+        "Date": "June 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777435554.6039035,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "tower defense"
+        ]
+    },
+    "4637810": {
+        "Title": "Orbit's Grocery",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4637810/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4637810/57e13995cd4e5f83ff0a9f19f9a42fb1f3198494/header.jpg?t=1777431556",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777435562.4044578,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4638860": {
+        "Title": "PROMulti-TableTournament",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4638860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4638860/bb419ec81dbc5af07047e3b1ac2ae299101ea100/header.jpg?t=1777432674",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777435565.0027282,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4644600": {
+        "Title": "Bitroca",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4644600/",
+        "Site": "https://bitroca.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4644600/30ea9a48f373a66d54bc20f84813a7e1eb005026/header.jpg?t=1777432690",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777435569.4771466,
+        "MatchedTags": [
+            "economy",
+            "base building"
+        ]
+    },
+    "4646090": {
+        "Title": "Akonite Fall",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4646090/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4646090/4b1893d8623c5aa65059c17af12711bb98d62dcc/header.jpg?t=1777434401",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777435574.4359126,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "real time tactics",
+            "base building"
+        ]
+    },
+    "4658520": {
+        "Title": "Cards of Bellum",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4658520/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4658520/f6cff669e56867377b8c976299b4f7e78eb8470d/header.jpg?t=1777431833",
+        "Date": "2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777435577.3389883,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4658980": {
+        "Title": "Wuxia Life",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4658980/",
+        "Site": "https://taiwanding.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4658980/5822188ea45da40b0966a983a3648bb5687d55aa/header.jpg?t=1777429753",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777435580.3973894,
+        "MatchedTags": [
+            "turn-based combat",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical rpg",
+            "strategy"
+        ]
+    },
+    "4666130": {
+        "Title": "Echo of Me",
+        "Email": "business@molodtsov.games, support@molodtsov.games",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4666130/",
+        "Site": "https://molodtsov.games/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4666130/4aa849b192e4e6a17f4b4def38200d31798eb090/header.jpg?t=1777434227",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777435600.843235,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy"
         ]
     }
 }
