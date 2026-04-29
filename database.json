@@ -37945,8 +37945,8 @@
         "AddedDate": "2026-04-22",
         "AddedTimestamp": 1776829578.488558,
         "MatchedTags": [
-            "resource management",
-            "management"
+            "turn-based combat",
+            "resource management"
         ]
     },
     "4638110": {
@@ -38650,9 +38650,9 @@
         "URL": "https://store.steampowered.com/app/4593220/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4593220/1948dd33562346c5959f9852f5a97dec4cc35606/header.jpg?t=1776879051",
-        "Date": "July 2026",
-        "AddedDate": "2026-04-22",
-        "AddedTimestamp": 1776886847.7694106,
+        "Date": "May 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777495019.2246666,
         "MatchedTags": [
             "strategy"
         ]
@@ -42508,9 +42508,9 @@
         "URL": "https://store.steampowered.com/app/4444510/",
         "Site": "https://www.instagram.com/orchindie/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4444510/de327cf146db47c9ae611a46b7cf4d722225ba52/header.jpg?t=1777210907",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-04-26",
-        "AddedTimestamp": 1777210935.0769506,
+        "Date": "June 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777494968.7375412,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -46114,6 +46114,112 @@
             "economy",
             "resource management",
             "base building"
+        ]
+    },
+    "4297420": {
+        "Title": "Sovereign's End",
+        "Email": "",
+        "Discord": "https://discord.gg/uB8bzDRe9q",
+        "URL": "https://store.steampowered.com/app/4297420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4297420/89d66fc2f9843cb44ee86b94b22a14849dee34e3/header.jpg?t=1777490306",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777494958.2574544,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4315720": {
+        "Title": "Overclock",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4315720/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4315720/c0061902db19e9970f1b3737ba5b49b821fdca51/header.jpg?t=1777493469",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777494961.4134316,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "4402540": {
+        "Title": "Behind The Counter",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4402540/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4402540/b0905bfb50a99cbafd2c33e7e2fc266dc147b26e/header.jpg?t=1777494288",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777494966.4563692,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4466120": {
+        "Title": "Min5 Min - Party Edition",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4466120/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4466120/e913ebbcb51e1f802befa3a2a8ea753184a72afe/header.jpg?t=1777489991",
+        "Date": "2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777494974.4561515,
+        "MatchedTags": [
+            "real time tactics",
+            "tactical"
+        ]
+    },
+    "4514630": {
+        "Title": "Lava Survival",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4514630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4514630/221b4eb691a5b9095436baba75b3c1588731fc4b/header.jpg?t=1777493021",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777494983.8196244,
+        "MatchedTags": [
+            "strategy",
+            "base building"
+        ]
+    },
+    "4549190": {
+        "Title": "Aether Oblivion",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4549190/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4549190/518de7a777a91850992e2abfef3280e123379ade/header.jpg?t=1777494629",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777494992.1794996,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat",
+            "tactical"
+        ]
+    },
+    "4656300": {
+        "Title": "Hollow Rock",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4656300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4656300/06ac06ead5e92a47e59de216790000f024d4cf56/header.jpg?t=1777489308",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777495051.0512223,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
         ]
     }
 }
