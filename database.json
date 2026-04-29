@@ -29987,9 +29987,9 @@
         "URL": "https://store.steampowered.com/app/4588370/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4588370/140a88b53eecfe8dcaece972d81bdc06c654124b/header.jpg?t=1776114812",
-        "Date": "May 15, 2026",
-        "AddedDate": "2026-04-15",
-        "AddedTimestamp": 1776224680.04017,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777421439.447309,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -40196,9 +40196,9 @@
         "URL": "https://store.steampowered.com/app/4658040/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4658040/4e3518b50be9027dd7c07cb1f44853fda8ed8788/header.jpg?t=1776979114",
-        "Date": "Sep 30, 2026",
-        "AddedDate": "2026-04-23",
-        "AddedTimestamp": 1776981893.1633117,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777421460.2114558,
         "MatchedTags": [
             "turn-based tactics",
             "strategy",
@@ -45148,6 +45148,37 @@
         "MatchedTags": [
             "base building",
             "resource management"
+        ]
+    },
+    "4643870": {
+        "Title": "Death Line: Don\u2019t Stop \u65a9\u6740\u7ebf\uff1a\u6781\u9650\u751f\u673a",
+        "Email": "",
+        "Discord": "https://discord.gg/TPaK7V2qqx",
+        "URL": "https://store.steampowered.com/app/4643870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4643870/f81cd3a6db2655a2f72c63b32e1b91d62efded07/header.jpg?t=1777421253",
+        "Date": "2026",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777421454.5880637,
+        "MatchedTags": [
+            "economy",
+            "resource management"
+        ]
+    },
+    "4660240": {
+        "Title": "Tempest of Nations",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4660240/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4660240/8e3cdda815abbbcd3cf5ce1fb077982075958511/header.jpg?t=1777418482",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-29",
+        "AddedTimestamp": 1777421462.4444299,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "management"
         ]
     }
 }
