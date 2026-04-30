@@ -26770,9 +26770,9 @@
         "URL": "https://store.steampowered.com/app/4593520/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593520/bc08bc402ae4f44738ccb3b41da5513decbdc49e/header.jpg?t=1775770400",
-        "Date": "May 1, 2026",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775771962.220289,
+        "Date": "Apr 30, 2026",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777590740.5358655,
         "MatchedTags": [
             "tactical"
         ]
@@ -47672,6 +47672,22 @@
         "AddedTimestamp": 1777587161.9376125,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "3883650": {
+        "Title": "Lexomancer",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3883650/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3883650/6318c3fcf9e606a589d03b23c364edd4b1ce6c7f/header.jpg?t=1777587469",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777590729.1252935,
+        "MatchedTags": [
+            "turn-based tactics",
+            "resource management",
+            "turn-based strategy"
         ]
     }
 }
