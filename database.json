@@ -18647,9 +18647,9 @@
         "URL": "https://store.steampowered.com/app/3935520/",
         "Site": "https://mikeengler.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3935520/1b16723ab24d6ad1b21e7c04c10fcda6049dad9e/header.jpg?t=1774930538",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-03-31",
-        "AddedTimestamp": 1774936514.1979833,
+        "Date": "To be announced",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777531401.5144064,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -46505,6 +46505,127 @@
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
+        ]
+    },
+    "3277820": {
+        "Title": "Lagos Invasion",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3277820/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3277820/8ce4a754c5d97b8f4899a92830f201a687634420/header.jpg?t=1777528814",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777531390.9829926,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "3999180": {
+        "Title": "Sketch Clash",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3999180/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3999180/4b8230e6ae0b334746bc42cbc017579f4b8088fe/header.jpg?t=1777523032",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777531404.9213097,
+        "MatchedTags": [
+            "turn-based strategy"
+        ]
+    },
+    "4597800": {
+        "Title": "Gutsy Grid",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4597800/",
+        "Site": "https://www.gutsygrid.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4597800/b7e2139e93eff763560808b7c0454cef76b6fb6d/header.jpg?t=1777527152",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777531439.6256595,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4618160": {
+        "Title": "Lobotomy",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4618160/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618160/d9e7bea4d1572e9e4325de110391481e602d440f/header.jpg?t=1777531302",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777531451.5434823,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4632590": {
+        "Title": "Data Abyss",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4632590/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4632590/399b092acea94ed8935e67ab590de45a82c9cc59/header.jpg?t=1777530777",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777531456.3896394,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4641550": {
+        "Title": "Kegs of Eternity",
+        "Email": "hello@lonepiggy.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4641550/",
+        "Site": "https://www.lonepiggy.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4641550/797bdf8362335181cfae8531754723b7a162de85/header.jpg?t=1777527967",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777531458.9063241,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "base building"
+        ]
+    },
+    "4673970": {
+        "Title": "Janggi",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4673970/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4673970/c5ca1202a595e5d17c5f97ad1c64e0b47446abef/header.jpg?t=1777523274",
+        "Date": "May 2026",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777531480.8171809,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4675410": {
+        "Title": "Volcano Watch",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4675410/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4675410/79a4fd469b280f3ffba02311e43dce796acae99b/header.jpg?t=1777526752",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777531485.3077283,
+        "MatchedTags": [
+            "strategy",
+            "colony sim",
+            "base building",
+            "resource management",
+            "economy"
         ]
     }
 }
