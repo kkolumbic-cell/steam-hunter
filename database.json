@@ -37565,9 +37565,9 @@
         "URL": "https://store.steampowered.com/app/4183980/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4183980/5e2da3855b766043aeee69431113cc460e24fac1/header.jpg?t=1776804450",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-21",
-        "AddedTimestamp": 1776805657.5956826,
+        "Date": "June 2026",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777507821.5986698,
         "MatchedTags": [
             "strategy"
         ]
@@ -40391,8 +40391,7 @@
         "AddedTimestamp": 1777002810.2363145,
         "MatchedTags": [
             "survival horror",
-            "horror",
-            "psychological horror"
+            "horror"
         ]
     },
     "4567580": {
@@ -46374,6 +46373,34 @@
             "strategy",
             "real time tactics",
             "resource management"
+        ]
+    },
+    "1635880": {
+        "Title": "All Eyes Above",
+        "Email": "",
+        "Discord": "https://discord.gg/ZuVMATPY",
+        "URL": "https://store.steampowered.com/app/1635880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1635880/967b6c8a3a909c7e44b20a4bb3d8a9346167882d/header.jpg?t=1777507510",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777507807.8461423,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4545030": {
+        "Title": "Beyond The Mist",
+        "Email": "",
+        "Discord": "https://discord.gg/nNhYVhzTqC",
+        "URL": "https://store.steampowered.com/app/4545030/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4545030/e07846142f13f45879ccceb294e0fcf91abf3993/header.jpg?t=1777505873",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777507837.1147923,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
