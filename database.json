@@ -14689,12 +14689,11 @@
         "AddedDate": "2026-03-26",
         "AddedTimestamp": 1774533650.5779667,
         "MatchedTags": [
-            "turn-based tactics",
             "strategy",
+            "turn-based tactics",
             "tactical",
             "turn-based strategy",
-            "turn-based combat",
-            "tactical rpg"
+            "turn-based combat"
         ]
     },
     "4521110": {
@@ -40242,9 +40241,9 @@
         "URL": "https://store.steampowered.com/app/4628420/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4628420/63a268970fb39a35c3db1a707f849be454a8bd4c/header.jpg?t=1776983926",
-        "Date": "TBA",
-        "AddedDate": "2026-04-23",
-        "AddedTimestamp": 1776985790.1120803,
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777587133.3218803,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -47406,9 +47405,9 @@
         "URL": "https://store.steampowered.com/app/4526530/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4526530/6f33ebe7b9d8a6c26b1cd4271db28dbd146c67ff/header.jpg?t=1777579269",
-        "Date": "Dec 31, 2026",
+        "Date": "2026",
         "AddedDate": "2026-04-30",
-        "AddedTimestamp": 1777580429.2491157,
+        "AddedTimestamp": 1777587092.7732162,
         "MatchedTags": [
             "horror"
         ]
@@ -47580,6 +47579,97 @@
         "Date": "Coming soon",
         "AddedDate": "2026-04-30",
         "AddedTimestamp": 1777580522.474654,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "2591850": {
+        "Title": "Tribots",
+        "Email": "",
+        "Discord": "https://discord.gg/xHyDD83vME",
+        "URL": "https://store.steampowered.com/app/2591850/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2591850/363e3ab7f1822b767dc9a0b19a181b2594b1d68b/header.jpg?t=1777584710",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777587060.4587624,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4155880": {
+        "Title": "Lucky Break",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4155880/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4155880/e82b4a9a52467b5b8c0d225a189e698eba8621f2/header.jpg?t=1777582247",
+        "Date": "Aug 13, 2026",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777587074.4045324,
+        "MatchedTags": [
+            "strategy",
+            "horror",
+            "resource management",
+            "psychological horror"
+        ]
+    },
+    "4582220": {
+        "Title": "Patient 0",
+        "Email": "",
+        "Discord": "https://discord.gg/mwyaPmEQtG",
+        "URL": "https://store.steampowered.com/app/4582220/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4582220/7d0c3ce09dad60ac4e5a51ec5f6c2fd37b7d622b/header.jpg?t=1777581735",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777587114.9866652,
+        "MatchedTags": [
+            "survival horror",
+            "horror"
+        ]
+    },
+    "4658590": {
+        "Title": "Gridholm",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4658590/",
+        "Site": "https://www.gridholm.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4658590/005cee8360f97f249883ce13368979490f62d86e/header.jpg?t=1777584789",
+        "Date": "Jun 1, 2026",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777587140.494437,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "tactical"
+        ]
+    },
+    "4676900": {
+        "Title": "OuroborosSnake",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4676900/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4676900/63123da0d7723e909a4a6c1cdf508a13d9f5a2ec/header.jpg?t=1777583581",
+        "Date": "May 2026",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777587154.1941357,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4681670": {
+        "Title": "Orbit One",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4681670/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4681670/24154fc9c03a570f6c7c34efe763fea3f786e311/header.jpg?t=1777583915",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777587161.9376125,
         "MatchedTags": [
             "strategy"
         ]
