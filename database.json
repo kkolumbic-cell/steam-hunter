@@ -6650,8 +6650,8 @@
         "AddedDate": "2026-03-12",
         "AddedTimestamp": 1773342826.1641872,
         "MatchedTags": [
-            "horror",
             "psychological horror",
+            "horror",
             "survival horror"
         ]
     },
@@ -33834,9 +33834,9 @@
         "URL": "https://store.steampowered.com/app/4608400/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4608400/66c9ec839fda078ec0fa887e269f2132f4dc6fe5/header.jpg?t=1776404348",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-17",
-        "AddedTimestamp": 1776406557.6220996,
+        "Date": "May 4, 2026",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777567862.4489691,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -46831,9 +46831,9 @@
         "URL": "https://store.steampowered.com/app/4384310/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4384310/a4052b8e56e8e003a9abe6248ff79cf77cd988e4/header.jpg?t=1777555624",
-        "Date": "May 2026",
+        "Date": "May 14, 2026",
         "AddedDate": "2026-04-30",
-        "AddedTimestamp": 1777559152.143723,
+        "AddedTimestamp": 1777567797.2429717,
         "MatchedTags": [
             "strategy"
         ]
@@ -46862,9 +46862,9 @@
         "URL": "https://store.steampowered.com/app/4642060/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4642060/c6d418004c3fddeabcef3d92fd9094d294658113/header.jpg?t=1777559023",
-        "Date": "May 12, 2026",
+        "Date": "May 14, 2026",
         "AddedDate": "2026-04-30",
-        "AddedTimestamp": 1777559245.543842,
+        "AddedTimestamp": 1777567887.805535,
         "MatchedTags": [
             "survival horror",
             "psychological horror",
@@ -46893,9 +46893,9 @@
         "URL": "https://store.steampowered.com/app/4653330/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4653330/c9cc13b0ce25b546edf4273417cb22512c050677/header.jpg?t=1777558373",
-        "Date": "May 2026",
+        "Date": "May 10, 2026",
         "AddedDate": "2026-04-30",
-        "AddedTimestamp": 1777559253.4026036,
+        "AddedTimestamp": 1777567894.9607425,
         "MatchedTags": [
             "management",
             "strategy"
@@ -46961,6 +46961,189 @@
             "economy",
             "management",
             "resource management"
+        ]
+    },
+    "3908100": {
+        "Title": "Steam To Electric",
+        "Email": "joost@galaxy-grove.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3908100/",
+        "Site": "https://www.galaxy-grove.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3908100/1fe91beb076fe9ff5250af302f9b856db51daa99/header.jpg?t=1777564362",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777567774.6517758,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "management",
+            "economy",
+            "city builder",
+            "grand strategy"
+        ]
+    },
+    "4210060": {
+        "Title": "ZERO Sievert 2",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4210060/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210060/29513774a11dce37cd7e3144d73fea15505e05df/header.jpg?t=1777565736",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777567789.0173995,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4371830": {
+        "Title": "Run & Dungeon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4371830/",
+        "Site": "https://ratshackgames.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4371830/eed5c40fecf4d2ff57b3252a91386d26a7ecbb5f/header.jpg?t=1777565444",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777567793.668965,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4485070": {
+        "Title": "Cloudsphere",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4485070/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4485070/af513743694e5d867c3e81afddba732631c9e0a5/header.jpg?t=1777561072",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777567819.470204,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical"
+        ]
+    },
+    "4568320": {
+        "Title": "Flesh Grinding",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4568320/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568320/78d10d9c3d0f666971fd90997d634779c261e2ea/header.jpg?t=1777565327",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777567852.142168,
+        "MatchedTags": [
+            "resource management",
+            "psychological horror",
+            "horror",
+            "strategy"
+        ]
+    },
+    "4636500": {
+        "Title": "Growth Function",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4636500/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4636500/8e38d2850bd8368d4a89bf7598bda748ccf38a91/header.jpg?t=1777565600",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777567883.207279,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4655370": {
+        "Title": "Wardens of Inysgar",
+        "Email": "",
+        "Discord": "https://discord.gg/6EdQrkze",
+        "URL": "https://store.steampowered.com/app/4655370/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4655370/706aaba8314d8ed02d22daae836414fbf58a18e9/header.jpg?t=1777566842",
+        "Date": "To be announced",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777567904.0375686,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4656380": {
+        "Title": "Minesweeper: Unlimited Expansion",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4656380/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656380/76ed3a5c5729d2d73f4fc3ca5c8bb387c285b914/header.jpg?t=1777565862",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777567906.1704338,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4657510": {
+        "Title": "The Butler's Mansion",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4657510/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4657510/979b34ab45dc993573925583bd8a1bf1facbd29b/header.jpg?t=1777562445",
+        "Date": "Jun 1, 2026",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777567912.4955573,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "4658490": {
+        "Title": "Insert Disc",
+        "Email": "",
+        "Discord": "https://discord.gg/FzbXP9we42",
+        "URL": "https://store.steampowered.com/app/4658490/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4658490/b272c2395e6d941d254b09298dc463eee7a42c1b/header.jpg?t=1777563001",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777567918.091818,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4663320": {
+        "Title": "Dance of Y",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4663320/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4663320/8d49289f19957829693098bca838e23450a6f80c/header.jpg?t=1777562827",
+        "Date": "May 5, 2026",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777567928.895437,
+        "MatchedTags": [
+            "turn-based tactics"
+        ]
+    },
+    "4683000": {
+        "Title": "Mei Paranormies 2",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4683000/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4683000/87048f1234e9711034fd99d7f7a62dca624bbb5f/header.jpg?t=1777563723",
+        "Date": "Coming soon",
+        "AddedDate": "2026-04-30",
+        "AddedTimestamp": 1777567942.0370982,
+        "MatchedTags": [
+            "survival horror",
+            "horror"
         ]
     }
 }
