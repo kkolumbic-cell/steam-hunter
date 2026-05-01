@@ -26171,9 +26171,9 @@
         "URL": "https://store.steampowered.com/app/4540970/",
         "Site": "https://www.remanomgames.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4540970/e47d09f00145661c810509739f89f4929bfda433/header.jpg?t=1775750523",
-        "Date": "Q3 2027",
-        "AddedDate": "2026-04-14",
-        "AddedTimestamp": 1776195799.418536,
+        "Date": "2027",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777594145.87837,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -47688,6 +47688,52 @@
             "turn-based tactics",
             "resource management",
             "turn-based strategy"
+        ]
+    },
+    "4355180": {
+        "Title": "MonsTile",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4355180/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4355180/596e3c838d756cff7f0aae1c20c00be60c203a01/header.jpg?t=1777592716",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777594131.5392544,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4499570": {
+        "Title": "The Lazarus Game",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4499570/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4499570/46161ce06b9a1098b365e5899fd3c1d64a3d4d38/header.jpg?t=1777593969",
+        "Date": "May 14, 2026",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777594139.6375604,
+        "MatchedTags": [
+            "horror",
+            "resource management",
+            "survival horror"
+        ]
+    },
+    "4500840": {
+        "Title": "Plinfinity",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4500840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4500840/f2807bb6c196c0515d63d13e50a5f854a668ff09/header.jpg?t=1777592019",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777594141.566862,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
