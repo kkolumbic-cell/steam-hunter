@@ -6046,9 +6046,9 @@
         "URL": "https://store.steampowered.com/app/4385020/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4385020/386bab4389105d25a8243577e3bd6df50ccaaca6/header.jpg?t=1773264195",
-        "Date": "May 2026",
-        "AddedDate": "2026-03-11",
-        "AddedTimestamp": 1773265754.1930807,
+        "Date": "May 1, 2026",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777664712.5169947,
         "MatchedTags": [
             "strategy"
         ]
@@ -26007,9 +26007,9 @@
         "URL": "https://store.steampowered.com/app/4586090/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4586090/adaa8fff4dd720842e481b05a16ab5fb921c89e7/header.jpg?t=1775741926",
-        "Date": "Dec 31, 2026",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775744319.2752705,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777664744.5295956,
         "MatchedTags": [
             "strategy",
             "real time tactics",
@@ -35972,9 +35972,7 @@
         "AddedDate": "2026-04-20",
         "AddedTimestamp": 1776713722.5802848,
         "MatchedTags": [
-            "psychological horror",
-            "strategy",
-            "real time tactics"
+            "psychological horror"
         ]
     },
     "4333460": {
@@ -44891,7 +44889,7 @@
         "Email": "",
         "Discord": "https://discord.gg/M6aUHeGW",
         "URL": "https://store.steampowered.com/app/4660350/",
-        "Site": "",
+        "Site": "https://www.agrotycoon.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4660350/d9f41e3853aff622efcad15ab2b25fa16423c35c/header.jpg?t=1777382388",
         "Date": "2027",
         "AddedDate": "2026-04-28",
@@ -46628,7 +46626,7 @@
     "4298440": {
         "Title": "Draw the Hands",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/N9EjEAzn",
         "URL": "https://store.steampowered.com/app/4298440/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4298440/fa5a8e7ecaed115a94ee1a4e4450398f0ebaa53d/header.jpg?t=1777536039",
@@ -48564,6 +48562,97 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4203080": {
+        "Title": "Presence Of The Dead",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4203080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4203080/702a48cd77022a49ba7aeea30d6d0de758170ac8/header.jpg?t=1777661748",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777664699.52411,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4246730": {
+        "Title": "Idle: Shuguang's Alchemy Store",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4246730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4246730/a58aab8384b01394b5116785ccaf8032af34482c/header.jpg?t=1777663306",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777664701.8600736,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4549550": {
+        "Title": "LeapDrive Tactics",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4549550/",
+        "Site": "https://sqrdog.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4549550/29ea2e46f8c622a77c964d879c07540e5827cfc8/header.jpg?t=1777659842",
+        "Date": "2026",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777664730.8183322,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat",
+            "tactical rpg",
+            "tactical"
+        ]
+    },
+    "4578650": {
+        "Title": "Ten Rings 1",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4578650/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4578650/a87dbb53d565dd30afb4c0a820f86352ed247204/header.jpg?t=1777662094",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777664740.1487358,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4623720": {
+        "Title": "HAUL",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4623720/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4623720/9d4ec5444f70c29f16be0c296d81201e0721cc96/header.jpg?t=1777663530",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777664755.2750428,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4686990": {
+        "Title": "Dead Spell",
+        "Email": "",
+        "Discord": "https://discord.gg/yWKUUNUV",
+        "URL": "https://store.steampowered.com/app/4686990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4686990/25e1aaaa80a712ab0958c4f8a0d6cab46b6c9062/header.jpg?t=1777663137",
+        "Date": "May 14, 2026",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777664786.7796075,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
