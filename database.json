@@ -26740,9 +26740,9 @@
         "URL": "https://store.steampowered.com/app/4588960/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4588960/8ba407405f9723d29d3222c6f1d51fb7bbdda984/header.jpg?t=1775770579",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775771952.8821983,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777643823.9011059,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -34345,9 +34345,9 @@
         "URL": "https://store.steampowered.com/app/4394290/",
         "Site": "https://echorithm.com/labyrinthrpg/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4394290/fb7048f1655e55672bf31a68abc9cac2f193a6c4/header.jpg?t=1776446301",
-        "Date": "Apr 27, 2026",
-        "AddedDate": "2026-04-17",
-        "AddedTimestamp": 1776449244.1147022,
+        "Date": "May 1, 2026",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777643778.8991926,
         "MatchedTags": [
             "turn-based strategy",
             "turn-based combat"
@@ -34437,9 +34437,9 @@
         "URL": "https://store.steampowered.com/app/4610960/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4610960/037b16daaa3b519af3c5436e3acbc08d2be2fbcd/header.jpg?t=1776456972",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-30",
-        "AddedTimestamp": 1777522079.8378518,
+        "Date": "May 1, 2026",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777643836.2319558,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -45852,8 +45852,10 @@
         "AddedDate": "2026-04-29",
         "AddedTimestamp": 1777473153.2030168,
         "MatchedTags": [
+            "grand strategy",
             "strategy",
-            "grand strategy"
+            "management",
+            "economy"
         ]
     },
     "4598640": {
@@ -47079,9 +47081,9 @@
         "URL": "https://store.steampowered.com/app/4656380/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656380/76ed3a5c5729d2d73f4fc3ca5c8bb387c285b914/header.jpg?t=1777565862",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-30",
-        "AddedTimestamp": 1777567906.1704338,
+        "Date": "May 13, 2026",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777643867.9606922,
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
@@ -48083,6 +48085,130 @@
         "AddedTimestamp": 1777635318.7725585,
         "MatchedTags": [
             "management"
+        ]
+    },
+    "2756680": {
+        "Title": "Torp",
+        "Email": "",
+        "Discord": "https://discord.gg/kr48FMWJ",
+        "URL": "https://store.steampowered.com/app/2756680/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2756680/b12d97cb26da83fdaca60908b450e8dc60c070a6/header.jpg?t=1777637168",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777643739.9344919,
+        "MatchedTags": [
+            "city builder",
+            "colony sim",
+            "base building",
+            "resource management"
+        ]
+    },
+    "3240110": {
+        "Title": "The Subminer",
+        "Email": "",
+        "Discord": "https://discord.gg/bKXJmyarsr",
+        "URL": "https://store.steampowered.com/app/3240110/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240110/6ec8921b670406f2d9e43a4d819185023c452e31/header.jpg?t=1777641951",
+        "Date": "2026",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777643742.645444,
+        "MatchedTags": [
+            "psychological horror",
+            "base building",
+            "management"
+        ]
+    },
+    "4176190": {
+        "Title": "VoidStep",
+        "Email": "",
+        "Discord": "https://discord.com/invite/tHBmypkqvZ",
+        "URL": "https://store.steampowered.com/app/4176190/",
+        "Site": "https://2508.games/game/voidstep",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176190/a3d489d12cf4fda115c63162b3055d491eaff1ae/header.jpg?t=1777643584",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777643756.5809162,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4380000": {
+        "Title": "Cafe Revolution",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4380000/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380000/43a55cde07f80eeca545e72dc4ef5bf8cccecab1/header.jpg?t=1777637692",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777643774.233364,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4551310": {
+        "Title": "Katabis",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4551310/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4551310/2b7ccb5a6fd787cd021b752aaf61905a7eed7eba/header.jpg?t=1777642052",
+        "Date": "September 2026",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777643801.2182226,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4635380": {
+        "Title": "Tianji: Reforging Tang / \u5929\u673a\uff1a\u5927\u5510\u91cd\u6784",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4635380/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4635380/fbfdc3382c72796733e346b460c19ebf52696148/header.jpg?t=1777637498",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777643855.5174243,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4640160": {
+        "Title": "SOKOL",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4640160/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4640160/86ed6d4e79212a540bd4b8d428c4304d11928bec/header.jpg?t=1777641151",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777643861.3069043,
+        "MatchedTags": [
+            "turn-based strategy",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4687910": {
+        "Title": "Visual novel: Shadows of Ravenhall Castle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4687910/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4687910/3ac829548236c31927e03c55d2cd1567724b1aa9/header.jpg?t=1777642107",
+        "Date": "May 2026",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777643896.9013114,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
