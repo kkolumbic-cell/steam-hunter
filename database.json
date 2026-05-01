@@ -9749,9 +9749,9 @@
         "URL": "https://store.steampowered.com/app/4488780/",
         "Site": "https://nerdneststudio.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4488780/15fe9fd05aa927119e71c0a762cfaf8fccb68dbb/header.jpg?t=1773816098",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-25",
-        "AddedTimestamp": 1777147049.084485,
+        "Date": "May 1, 2026",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777655756.8230512,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -17411,9 +17411,9 @@
         "URL": "https://store.steampowered.com/app/4454860/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4454860/54cc4809e02821e4b49bac4b3879aed1e11e2a82/header.jpg?t=1774716397",
-        "Date": "May 2026",
-        "AddedDate": "2026-03-28",
-        "AddedTimestamp": 1774716733.4177544,
+        "Date": "May 1, 2026",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777655751.7555907,
         "MatchedTags": [
             "management"
         ]
@@ -20973,9 +20973,9 @@
         "URL": "https://store.steampowered.com/app/4573590/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4573590/e328d818d886a5875208c755ca5fa67ab5f34acc/header.jpg?t=1775109750",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775115808.6879704,
+        "Date": "May 1, 2026",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777655801.1173515,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -29838,9 +29838,9 @@
         "AddedDate": "2026-04-13",
         "AddedTimestamp": 1776109377.4218876,
         "MatchedTags": [
+            "economy",
             "strategy",
-            "resource management",
-            "economy"
+            "resource management"
         ]
     },
     "4610590": {
@@ -40100,9 +40100,9 @@
         "URL": "https://store.steampowered.com/app/4641880/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4641880/4213a7db59e03ee422e43520544509dfc0567486/header.jpg?t=1776976236",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-23",
-        "AddedTimestamp": 1776978609.7537138,
+        "Date": "To be announced",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777655849.108983,
         "MatchedTags": [
             "psychological horror",
             "survival horror",
@@ -48379,6 +48379,176 @@
             "economy",
             "strategy",
             "management"
+        ]
+    },
+    "3070950": {
+        "Title": "The Rivergrove Files",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3070950/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3070950/54da606efd15e074699a7bc7c66c0aa6b6bcb36b/header.jpg?t=1777652759",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777655702.1021178,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "3916260": {
+        "Title": "Psalm 2",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3916260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3916260/292b5119d56af4d329d7062f5d58798dd153b96d/header.jpg?t=1777650886",
+        "Date": "June 2026",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777655714.1152558,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4508350": {
+        "Title": "Spirit Cleansers",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4508350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4508350/75ac56facc62908bb9873c19aa5df03600b91b3f/header.jpg?t=1777650171",
+        "Date": "2026",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777655762.903068,
+        "MatchedTags": [
+            "turn-based strategy",
+            "strategy",
+            "turn-based combat",
+            "tactical rpg"
+        ]
+    },
+    "4553920": {
+        "Title": "PENOUT",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4553920/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4553920/0e297adf7902bd4d501ebbef58253fcf1f175169/header.jpg?t=1777648652",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777655795.460478,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical"
+        ]
+    },
+    "4660840": {
+        "Title": "Rusty Flagon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4660840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4660840/f2c5b287871cf66370b8794272045df35082b468/header.jpg?t=1777652804",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777655859.1005862,
+        "MatchedTags": [
+            "city builder"
+        ]
+    },
+    "4665920": {
+        "Title": "Mad Merchant",
+        "Email": "ravenholm.int@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4665920/",
+        "Site": "https://ravenholminteractive.net",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4665920/809191589f98875a5bf80b8bc8e4faa058554538/header.jpg?t=1777654558",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777655872.6480525,
+        "MatchedTags": [
+            "management",
+            "strategy"
+        ]
+    },
+    "4666430": {
+        "Title": "The old house",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4666430/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4666430/8f630a6dcf23bf67b7702403d7910e8e0a290f78/header.jpg?t=1777654516",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777655876.3533642,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4674370": {
+        "Title": "Starving Shadows",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4674370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4674370/b91f132bf7b14d165e7363f8771dafa5ee44f6eb/header.jpg?t=1777653058",
+        "Date": "2026",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777655887.0148826,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4681710": {
+        "Title": "Now With More Plunk",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4681710/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4681710/22e177b4e5b6b0d4d4d7f369fad3c586ab8f51a1/header.jpg?t=1777654789",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777655893.821884,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4688240": {
+        "Title": "SHULERO \u2013 Dice Roguelike",
+        "Email": "info@airem.pl",
+        "Discord": "https://discord.gg/Airem",
+        "URL": "https://store.steampowered.com/app/4688240/",
+        "Site": "http://airem.pl",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4688240/dd4e0265204f9d14bf0a69a25b9457263937dc4e/header.jpg?t=1777652327",
+        "Date": "May 29, 2026",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777655904.3240693,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "turn-based tactics"
+        ]
+    },
+    "4689360": {
+        "Title": "We Pretend",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4689360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4689360/40a230c5c59fa246f63ce1f58be78eeafb434140/header.jpg?t=1777651105",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777655907.787866,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
