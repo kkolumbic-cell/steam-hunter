@@ -13897,12 +13897,13 @@
         "URL": "https://store.steampowered.com/app/4379390/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4379390/70e4c477293ab39335d065535df353b5fdcabb9f/header.jpg?t=1774410989",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-26",
-        "AddedTimestamp": 1774504260.3233154,
+        "Date": "May 1, 2026",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777673251.2561505,
         "MatchedTags": [
             "strategy",
-            "tactical rpg"
+            "tactical rpg",
+            "tactical"
         ]
     },
     "4516010": {
@@ -35194,9 +35195,9 @@
         "URL": "https://store.steampowered.com/app/4628310/",
         "Site": "https://epicidlequest2.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4628310/381c50e563c1357e5a6b710cc12fada2bf24f056/header.jpg?t=1776541310",
-        "Date": "May 31, 2026",
-        "AddedDate": "2026-04-18",
-        "AddedTimestamp": 1776542109.356636,
+        "Date": "May 2026",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777673292.809125,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -48369,9 +48370,9 @@
         "URL": "https://store.steampowered.com/app/4689930/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4689930/8832a5ea632e379f3115ec9ce25ed3187be48d15/header.jpg?t=1777648233",
-        "Date": "To be announced",
+        "Date": "December 2026",
         "AddedDate": "2026-05-01",
-        "AddedTimestamp": 1777648773.746323,
+        "AddedTimestamp": 1777673301.0726016,
         "MatchedTags": [
             "resource management",
             "economy",
@@ -48746,6 +48747,40 @@
             "turn-based strategy",
             "tactical",
             "turn-based combat"
+        ]
+    },
+    "4351070": {
+        "Title": "Imperialist",
+        "Email": "",
+        "Discord": "https://discord.gg/8VpQPuCRKZ",
+        "URL": "https://store.steampowered.com/app/4351070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4351070/81da0ccfce372b39bfd6d50e1f55285db97118df/header.jpg?t=1777670914",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777673249.1925762,
+        "MatchedTags": [
+            "grand strategy",
+            "strategy",
+            "economy",
+            "turn-based strategy",
+            "turn-based combat",
+            "tactical"
+        ]
+    },
+    "4657320": {
+        "Title": "The Lifeline",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4657320/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4657320/df540ef0bf6fb6fcda579536e5ff54524a877d16/header.jpg?t=1777671947",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-01",
+        "AddedTimestamp": 1777673298.974288,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
         ]
     }
 }
