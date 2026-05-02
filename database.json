@@ -2800,9 +2800,9 @@
         "URL": "https://store.steampowered.com/app/4490710/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4490710/56428d57c098ccfdd5eb085cb0d713dfbd508ae1/header.jpg?t=1772806013",
-        "Date": "2026",
-        "AddedDate": "2026-03-06",
-        "AddedTimestamp": 1772809175.0204687,
+        "Date": "May 18, 2026",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777749581.98672,
         "MatchedTags": [
             "strategy",
             "economy",
@@ -9103,9 +9103,9 @@
         "URL": "https://store.steampowered.com/app/4471030/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4471030/c9ff920e925d4ca241bc5248d06233dd815248be/header.jpg?t=1773759890",
-        "Date": "May 2026",
-        "AddedDate": "2026-03-18",
-        "AddedTimestamp": 1773804136.1883154,
+        "Date": "June 2026",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777749577.4505413,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -27493,9 +27493,9 @@
         "URL": "https://store.steampowered.com/app/4603130/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4603130/fd065cfb9309c986bf5298dffab334c8153d04b4/header.jpg?t=1775820872",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-10",
-        "AddedTimestamp": 1775822612.6280315,
+        "Date": "May 2, 2026",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777749622.9244585,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -27896,9 +27896,9 @@
         "URL": "https://store.steampowered.com/app/4581040/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4581040/76bddb9a9209b29aa88f817340881fe34bd5c8bc/header.jpg?t=1775842929",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-15",
-        "AddedTimestamp": 1776267635.5519059,
+        "Date": "July 2026",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777749606.3908854,
         "MatchedTags": [
             "strategy",
             "survival horror"
@@ -42330,10 +42330,10 @@
     },
     "4596990": {
         "Title": "Good Job",
-        "Email": "",
+        "Email": "tayguncaliskan@gmail.com, gigglefartstudio@gmail.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4596990/",
-        "Site": "",
+        "Site": "http://www.goodjobsimulator.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4596990/4443ae4765566642063ad8ea3f0a80389282607c/header.jpg?t=1777173532",
         "Date": "June 2026",
         "AddedDate": "2026-05-02",
@@ -49176,6 +49176,35 @@
         "MatchedTags": [
             "management",
             "economy",
+            "resource management"
+        ]
+    },
+    "4611140": {
+        "Title": "Neofeud 2",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4611140/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4611140/e6a3d70a963fcbd84b4f8aff9d8b9edf462c1ae9/header.jpg?t=1777745395",
+        "Date": "2026",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777749624.9752746,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4671380": {
+        "Title": "Scapewatch: Idle MMO",
+        "Email": "",
+        "Discord": "https://discord.gg/qnYnGMDSa7",
+        "URL": "https://store.steampowered.com/app/4671380/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4671380/c3195a5ab8b2d8d36b9bf166f6db8c5bd26d0439/header.jpg?t=1777747133",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777749642.5326953,
+        "MatchedTags": [
+            "management",
             "resource management"
         ]
     }
