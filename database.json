@@ -4388,9 +4388,9 @@
         "URL": "https://store.steampowered.com/app/4474010/",
         "Site": "https://www.youtube.com/@LukWhiteStudios-v6m",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4474010/d47ab6d1dfb0395ff941561d5d33e5ffbb331741/header.jpg?t=1773076499",
-        "Date": "To be announced",
-        "AddedDate": "2026-03-09",
-        "AddedTimestamp": 1773079356.3558772,
+        "Date": "May 5, 2026",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777680462.1196365,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -31239,7 +31239,7 @@
     "4601440": {
         "Title": "Twilight of Bronze",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/Xdf5qSTc7V",
         "URL": "https://store.steampowered.com/app/4601440/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4601440/cca96059ad88cf068ad4b358a3f48624bccdbec7/header.jpg?t=1776215674",
@@ -48781,6 +48781,66 @@
         "MatchedTags": [
             "horror",
             "survival horror"
+        ]
+    },
+    "4317400": {
+        "Title": "Shardgrave",
+        "Email": "",
+        "Discord": "https://discord.gg/paEGQM5XRq",
+        "URL": "https://store.steampowered.com/app/4317400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4317400/8ceb5a442823a4a1579b61265a09c82e63bbfde9/header.jpg?t=1777677272",
+        "Date": "2026",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777680456.5607393,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4579170": {
+        "Title": "Dungeons of Freeport",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4579170/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4579170/e433bb2144692639b943570417b38a2ad3652f1e/header.jpg?t=1777680050",
+        "Date": "TBA",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777680468.981235,
+        "MatchedTags": [
+            "turn-based combat",
+            "tactical"
+        ]
+    },
+    "4624790": {
+        "Title": "Lost Totem Trajipon!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4624790/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4624790/4aa79cdbef3b90a8194952d1099b761487deb919/header.jpg?t=1777679207",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777680479.2054799,
+        "MatchedTags": [
+            "horror",
+            "turn-based combat"
+        ]
+    },
+    "4659400": {
+        "Title": "The Frontrooms",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4659400/",
+        "Site": "https://space.bilibili.com/3546591023597616?spm_id_from=333.1007.0.0",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4659400/3fb7643cc2080c1bd60df02a50d7ca6aeb77554c/header.jpg?t=1777679372",
+        "Date": "TBA",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777680491.029459,
+        "MatchedTags": [
+            "psychological horror"
         ]
     }
 }
