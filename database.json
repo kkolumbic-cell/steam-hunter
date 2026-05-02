@@ -20438,9 +20438,9 @@
         "URL": "https://store.steampowered.com/app/4568170/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4568170/7312fcd4accfef03e2dcf427731dcc2b6ceff1ac/header.jpg?t=1775066478",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-01",
-        "AddedTimestamp": 1775066822.7102795,
+        "Date": "May 1, 2026",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777694023.5865736,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -42058,7 +42058,8 @@
         "AddedDate": "2026-04-25",
         "AddedTimestamp": 1777129345.789957,
         "MatchedTags": [
-            "tactical rpg"
+            "tactical rpg",
+            "strategy"
         ]
     },
     "4428460": {
@@ -48060,7 +48061,7 @@
     },
     "4660450": {
         "Title": "Caravana 2000",
-        "Email": "contact@2wedges.com, pitch@2wedges.com",
+        "Email": "pitch@2wedges.com, contact@2wedges.com",
         "Discord": "https://discord.gg/NnGYzTcGDX",
         "URL": "https://store.steampowered.com/app/4660450/",
         "Site": "https://www.2wedges.com/2weird",
@@ -48337,9 +48338,9 @@
         "URL": "https://store.steampowered.com/app/4670860/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4670860/7b27dcce3075d6a833f7c0bd2ffa6b0763c0be97/header.jpg?t=1777648308",
-        "Date": "To be announced",
-        "AddedDate": "2026-05-01",
-        "AddedTimestamp": 1777648749.5674539,
+        "Date": "2026",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777694062.8954127,
         "MatchedTags": [
             "strategy",
             "base building",
@@ -48841,6 +48842,65 @@
         "AddedTimestamp": 1777680491.029459,
         "MatchedTags": [
             "psychological horror"
+        ]
+    },
+    "3810590": {
+        "Title": "Celestial Decks",
+        "Email": "",
+        "Discord": "https://discord.gg/UXWswspB8S",
+        "URL": "https://store.steampowered.com/app/3810590/",
+        "Site": "https://celestialdecks.gg/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810590/628bd60f827d74e6ecbfeb6d53f9d67042fb24fc/header.jpg?t=1777693743",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777693966.957781,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4394900": {
+        "Title": "Monster Storm",
+        "Email": "",
+        "Discord": "https://discord.gg/kevBepfHMy",
+        "URL": "https://store.steampowered.com/app/4394900/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4394900/3b6a797920de3489f09a9624d623561a3524cf4d/header.jpg?t=1777692281",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777693992.3633285,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4671770": {
+        "Title": "Multiverse Escape",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4671770/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4671770/984fadbf359595ab831d7ac1123f1a18d6bee9bf/header.jpg?t=1777685311",
+        "Date": "Q2 2027",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777694065.9371805,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "turn-based strategy"
+        ]
+    },
+    "4688580": {
+        "Title": "Fun Park Simulator: Prologue",
+        "Email": "",
+        "Discord": "https://discord.gg/wBqKzHPkaD",
+        "URL": "https://store.steampowered.com/app/4688580/",
+        "Site": "https://flugames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4688580/6b919430029a0b6844eb7a4b61f40c6978f2c196/header.jpg?t=1777693741",
+        "Date": "May 15, 2026",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777694082.5365148,
+        "MatchedTags": [
+            "city builder",
+            "economy"
         ]
     }
 }
