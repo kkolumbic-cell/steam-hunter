@@ -15451,9 +15451,9 @@
         "URL": "https://store.steampowered.com/app/2400080/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2400080/7004dd0e1a5b32e338456bf36afa16fb22b86119/header.jpg?t=1774547806",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-26",
-        "AddedTimestamp": 1774553610.1355278,
+        "Date": "May 2, 2026",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777755681.6434982,
         "MatchedTags": [
             "strategy"
         ]
@@ -23005,9 +23005,8 @@
         "AddedTimestamp": 1775415920.0948286,
         "MatchedTags": [
             "tower defense",
-            "management",
-            "strategy",
-            "tactical"
+            "base building",
+            "strategy"
         ]
     },
     "4480290": {
@@ -27590,9 +27589,9 @@
         "URL": "https://store.steampowered.com/app/4595100/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4595100/4a83cda563d718875a37ebf15c2e8bc6b7efa200/header.jpg?t=1775823870",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-10",
-        "AddedTimestamp": 1775829221.7012715,
+        "Date": "May 2, 2026",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777755730.1040747,
         "MatchedTags": [
             "strategy"
         ]
@@ -28309,9 +28308,9 @@
         "URL": "https://store.steampowered.com/app/4565940/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4565940/5ed2d0a80b8007b66565db6c2cda6e20c81ad839/header.jpg?t=1775867189",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-04-11",
-        "AddedTimestamp": 1775877742.9048827,
+        "Date": "May 2, 2026",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777755712.703155,
         "MatchedTags": [
             "resource management",
             "city builder",
@@ -49206,6 +49205,37 @@
         "MatchedTags": [
             "management",
             "resource management"
+        ]
+    },
+    "4428430": {
+        "Title": "Fantasy Miner: Idle Depths",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4428430/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4428430/7c216a888ca6010a491df48f7500c01432022518/header.jpg?t=1777751626",
+        "Date": "2026",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777755699.7781067,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management"
+        ]
+    },
+    "4591130": {
+        "Title": "Empty Heaven: Liminal Dream",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4591130/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4591130/2d29a1709bcc215199e2ee42780bf2058300d105/header.jpg?t=1777751746",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777755727.3189797,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
         ]
     }
 }
