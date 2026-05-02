@@ -15955,9 +15955,9 @@
         "URL": "https://store.steampowered.com/app/4543670/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4543670/d77bb1cc1a539d9fa7a2acbd556cfa3690ec6f25/header.jpg?t=1774569983",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-27",
-        "AddedTimestamp": 1774582380.6504688,
+        "Date": "May 2, 2026",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777729839.29113,
         "MatchedTags": [
             "strategy"
         ]
@@ -30206,9 +30206,9 @@
         "URL": "https://store.steampowered.com/app/4599480/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4599480/4da66318cbfc6605fc50ff88738059dd793ad7f6/header.jpg?t=1776139751",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-04-14",
-        "AddedTimestamp": 1776147199.1591458,
+        "Date": "Nov 5, 2026",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777729856.305204,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -34504,9 +34504,9 @@
         "URL": "https://store.steampowered.com/app/4603010/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4603010/cf35e930c82c8bd2741b6583d4c25d8c1dc773b7/header.jpg?t=1776460709",
-        "Date": "Apr 30, 2026",
-        "AddedDate": "2026-04-25",
-        "AddedTimestamp": 1777144399.026984,
+        "Date": "May 2, 2026",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777729858.9012344,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -35252,9 +35252,9 @@
         "URL": "https://store.steampowered.com/app/4561750/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4561750/5481a35b8b334bd9e84bacf16b026c3baf6502d6/header.jpg?t=1776569514",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-19",
-        "AddedTimestamp": 1776570721.66645,
+        "Date": "May 2, 2026",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777729843.781645,
         "MatchedTags": [
             "strategy"
         ]
@@ -49146,6 +49146,36 @@
         "AddedTimestamp": 1777720123.805328,
         "MatchedTags": [
             "colony sim"
+        ]
+    },
+    "4554020": {
+        "Title": "Mind Mirror",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4554020/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4554020/dfcf0686eb416e500be41f4b19cb4dc5e196cd61/header.jpg?t=1777726965",
+        "Date": "2027",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777729841.9683769,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4565750": {
+        "Title": "Mr. President We Have A Situation!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4565750/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4565750/1b27693fac6ae5b8243af1fd473d342698142a28/header.jpg?t=1777724745",
+        "Date": "May 2026",
+        "AddedDate": "2026-05-02",
+        "AddedTimestamp": 1777729846.9249313,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "resource management"
         ]
     }
 }
