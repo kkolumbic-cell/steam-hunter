@@ -2174,9 +2174,9 @@
         "URL": "https://store.steampowered.com/app/4459090/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459090/a132574dcc7630878b62c6eed9de15626a8380e8/header.jpg?t=1772760324",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-06",
-        "AddedTimestamp": 1772766556.22291,
+        "Date": "May 2, 2026",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777781584.5513318,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -11996,9 +11996,9 @@
         "AddedTimestamp": 1777144383.1639278,
         "MatchedTags": [
             "management",
-            "resource management",
+            "economy",
             "strategy",
-            "economy"
+            "resource management"
         ]
     },
     "4401950": {
@@ -25030,9 +25030,9 @@
         "URL": "https://store.steampowered.com/app/4589400/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4589400/dc7674bce22067ee5bd4bd76bdf4364da2d96f28/header.jpg?t=1775660772",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775771956.1745214,
+        "Date": "May 2, 2026",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777781600.6834018,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -48664,9 +48664,9 @@
         "URL": "https://store.steampowered.com/app/3665870/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3665870/dc3abfd28f94b13584c2048e7c9fa63b85005b9a/header.jpg?t=1777668249",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-05-01",
-        "AddedTimestamp": 1777676984.9008853,
+        "Date": "Q2 2027",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777781564.8059084,
         "MatchedTags": [
             "management",
             "resource management",
@@ -49262,6 +49262,34 @@
         "Date": "Coming soon",
         "AddedDate": "2026-05-03",
         "AddedTimestamp": 1777766561.4400978,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4318390": {
+        "Title": "Echoes of Aethelgard",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4318390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4318390/506ac5a9f8a8278a0a855705b0e3c0472fe3961e/header.jpg?t=1777781394",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777781573.011447,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4430640": {
+        "Title": "Ripple Runners",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4430640/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4430640/8100df39851f82d1e3f4ea4589317f04ba3f1077/header.jpg?t=1777778635",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777781580.4167428,
         "MatchedTags": [
             "horror"
         ]
