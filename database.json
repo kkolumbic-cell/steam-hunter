@@ -11705,9 +11705,9 @@
         "URL": "https://store.steampowered.com/app/4358910/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4358910/1bfa6dea00544eea50af80c704cdf61957dcbf3b/header.jpg?t=1774040620",
-        "Date": "April 2026",
-        "AddedDate": "2026-03-20",
-        "AddedTimestamp": 1774043179.8749015,
+        "Date": "Q2 2026",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777798713.6712132,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -31096,7 +31096,12 @@
         "AddedDate": "2026-04-14",
         "AddedTimestamp": 1776201041.3140705,
         "MatchedTags": [
-            "strategy"
+            "base building",
+            "tower defense",
+            "strategy",
+            "resource management",
+            "management",
+            "real time tactics"
         ]
     },
     "4520400": {
@@ -41846,9 +41851,9 @@
         "URL": "https://store.steampowered.com/app/4180510/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180510/b26254999254074d612ec842652f5a8fcef5db79/header.jpg?t=1777092789",
-        "Date": "August 2026",
-        "AddedDate": "2026-04-27",
-        "AddedTimestamp": 1777321191.7750437,
+        "Date": "Oct 1, 2026",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777798704.38182,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -49301,14 +49306,44 @@
         "URL": "https://store.steampowered.com/app/3857100/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3857100/d4447592cdc8f6a048437cafafbf4295b69708f9/header.jpg?t=1777788512",
-        "Date": "2026",
+        "Date": "Coming soon",
         "AddedDate": "2026-05-03",
-        "AddedTimestamp": 1777790585.262221,
+        "AddedTimestamp": 1777798698.963003,
         "MatchedTags": [
             "turn-based combat",
             "strategy",
             "turn-based strategy",
             "resource management"
+        ]
+    },
+    "3848250": {
+        "Title": "Her Crown of Blood",
+        "Email": "jackastralcontact@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3848250/",
+        "Site": "https://www.jackastral.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3848250/8413761c04485f7374ab3701e28fd027fcc3c164/header.jpg?t=1777797434",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777798696.2279825,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4637040": {
+        "Title": "Unwritten Saga: The Circle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4637040/",
+        "Site": "https://project-silence.github.io/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4637040/59e05af7a59e2907a48dbbc36394fef9b3fbc9fc/header.jpg?t=1777791222",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777798752.548234,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
         ]
     }
 }
