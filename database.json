@@ -22555,9 +22555,9 @@
         "URL": "https://store.steampowered.com/app/4578840/",
         "Site": "https://finthy.netlify.app/#games",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4578840/279d84e689cf052d5de58f159b3c1e50c505f555/header.jpg?t=1775259227",
-        "Date": "May 4, 2026",
-        "AddedDate": "2026-04-03",
-        "AddedTimestamp": 1775260216.8879735,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777790607.6699457,
         "MatchedTags": [
             "strategy"
         ]
@@ -47804,14 +47804,14 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4246790/",
-        "Site": "",
+        "Site": "https://glorgogame.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4246790/bd51796630c7bcc862e94a810fc7d782abc7879b/header.jpg?t=1777604375",
         "Date": "May 2026",
         "AddedDate": "2026-05-01",
         "AddedTimestamp": 1777609211.395216,
         "MatchedTags": [
-            "colony sim",
-            "resource management"
+            "resource management",
+            "colony sim"
         ]
     },
     "4385650": {
@@ -49292,6 +49292,23 @@
         "AddedTimestamp": 1777781580.4167428,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "3857100": {
+        "Title": "Perish Parade",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3857100/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3857100/d4447592cdc8f6a048437cafafbf4295b69708f9/header.jpg?t=1777788512",
+        "Date": "2026",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777790585.262221,
+        "MatchedTags": [
+            "turn-based combat",
+            "strategy",
+            "turn-based strategy",
+            "resource management"
         ]
     }
 }
