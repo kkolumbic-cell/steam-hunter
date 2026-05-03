@@ -11762,9 +11762,9 @@
         "URL": "https://store.steampowered.com/app/4537820/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4537820/17643df779cf9818f8aafbce5b35d1b6aca285c3/header.jpg?t=1774050282",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-27",
-        "AddedTimestamp": 1774597001.193217,
+        "Date": "2026",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777766539.8436928,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -48822,9 +48822,9 @@
         "URL": "https://store.steampowered.com/app/4624790/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4624790/4aa79cdbef3b90a8194952d1099b761487deb919/header.jpg?t=1777679207",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-05-02",
-        "AddedTimestamp": 1777680479.2054799,
+        "Date": "May 15, 2026",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777766558.869873,
         "MatchedTags": [
             "horror",
             "turn-based combat"
@@ -49250,6 +49250,20 @@
         "AddedTimestamp": 1777759253.3893607,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4650270": {
+        "Title": "Happy Lane: The Threshold",
+        "Email": "",
+        "Discord": "https://discord.gg/hyYpdmHm3q",
+        "URL": "https://store.steampowered.com/app/4650270/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4650270/ef7377e054a3806c1fc1953f5db852004ae90772/header.jpg?t=1777764290",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777766561.4400978,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
