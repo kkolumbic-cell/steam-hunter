@@ -30039,7 +30039,8 @@
         "AddedTimestamp": 1776121505.1345263,
         "MatchedTags": [
             "turn-based combat",
-            "tactical rpg"
+            "turn-based tactics",
+            "strategy"
         ]
     },
     "1765770": {
@@ -48087,9 +48088,9 @@
         "URL": "https://store.steampowered.com/app/4674900/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4674900/6f23c6ffa0fb4160bd889993ffec4d98e9998270/header.jpg?t=1777632521",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-05-01",
-        "AddedTimestamp": 1777635318.7725585,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777849524.520702,
         "MatchedTags": [
             "management"
         ]
@@ -49511,6 +49512,20 @@
         "AddedTimestamp": 1777836040.7785218,
         "MatchedTags": [
             "management"
+        ]
+    },
+    "4466550": {
+        "Title": "SCP: Minor Case -FLP-",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4466550/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4466550/7cae9bab6283bb0915a263046291e3c81eb47e51/header.jpg?t=1777847094",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777849511.371777,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
