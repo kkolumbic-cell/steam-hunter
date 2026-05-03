@@ -20927,9 +20927,9 @@
         "URL": "https://store.steampowered.com/app/4537970/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4537970/587f7983cdea58e5d497f514408e88ba5ba8c4b1/header.jpg?t=1775109973",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-16",
-        "AddedTimestamp": 1776349030.4985561,
+        "Date": "May 7, 2026",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777816262.4411995,
         "MatchedTags": [
             "strategy",
             "grand strategy",
@@ -31235,8 +31235,9 @@
         "AddedTimestamp": 1776224685.7219112,
         "MatchedTags": [
             "turn-based tactics",
+            "turn-based strategy",
             "strategy",
-            "tactical",
+            "turn-based combat",
             "economy"
         ]
     },
@@ -49388,6 +49389,53 @@
         "MatchedTags": [
             "psychological horror",
             "horror"
+        ]
+    },
+    "4416760": {
+        "Title": "Red or Black",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4416760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4416760/837990aea33714a5f127a7e3ba13034e95cf7120/header.jpg?t=1777811568",
+        "Date": "June 2026",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777816246.1715124,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4487380": {
+        "Title": "The Breaking Room",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4487380/",
+        "Site": "https://go.designabstract.io/ByK3nTC",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4487380/fda7ae453772bfd3bfbe690cfe5cc67d66b28a6a/header.jpg?t=1777809539",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777816253.7827213,
+        "MatchedTags": [
+            "strategy",
+            "psychological horror"
+        ]
+    },
+    "4543610": {
+        "Title": "Priority One",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4543610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4543610/f40d0a4eab19564c6c209993dd78f5d4ce947baa/header.jpg?t=1777811860",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777816265.0161974,
+        "MatchedTags": [
+            "real time tactics",
+            "strategy",
+            "tactical"
         ]
     }
 }
