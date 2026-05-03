@@ -31020,9 +31020,9 @@
         "AddedDate": "2026-04-14",
         "AddedTimestamp": 1776195875.0208218,
         "MatchedTags": [
+            "strategy",
             "turn-based strategy",
-            "turn-based combat",
-            "strategy"
+            "turn-based combat"
         ]
     },
     "4245400": {
@@ -40738,9 +40738,9 @@
         "URL": "https://store.steampowered.com/app/4643160/",
         "Site": "https://jestercraft.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4643160/bde75a5c506826ca4931c287ade389ff59b00f08/header.jpg?t=1777023537",
-        "Date": "May 21, 2026",
-        "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1777027661.9374604,
+        "Date": "May 28, 2026",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777803459.967749,
         "MatchedTags": [
             "resource management",
             "turn-based strategy",
@@ -49344,6 +49344,21 @@
         "MatchedTags": [
             "strategy",
             "turn-based combat"
+        ]
+    },
+    "4669120": {
+        "Title": "Divine Revenant",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4669120/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4669120/8fc471551b38d48cfa7e0cc0b01f2efd270efe9b/header.jpg?t=1777803194",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777803466.2278743,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
         ]
     }
 }
