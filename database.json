@@ -35896,9 +35896,9 @@
         "URL": "https://store.steampowered.com/app/4622180/",
         "Site": "https://www.maison-nourson.fr/games/hyphosphere",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4622180/be086d5fc163b4dfe6ed1c18d38c5d5e6b019816/header.jpg?t=1776694840",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-20",
-        "AddedTimestamp": 1776700179.0781083,
+        "Date": "May 4, 2026",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777836047.1141765,
         "MatchedTags": [
             "colony sim",
             "management"
@@ -42335,7 +42335,7 @@
     },
     "4596990": {
         "Title": "Good Job",
-        "Email": "gigglefartstudio@gmail.com, tayguncaliskan@gmail.com, info@goodjobsimulator.com",
+        "Email": "info@goodjobsimulator.com, tayguncaliskan@gmail.com, gigglefartstudio@gmail.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4596990/",
         "Site": "http://www.goodjobsimulator.com/",
@@ -46136,7 +46136,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4315720/",
-        "Site": "",
+        "Site": "https://kantingames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4315720/c0061902db19e9970f1b3737ba5b49b821fdca51/header.jpg?t=1777493469",
         "Date": "Coming soon",
         "AddedDate": "2026-04-29",
@@ -49496,6 +49496,20 @@
             "economy",
             "management",
             "city builder"
+        ]
+    },
+    "4554700": {
+        "Title": "BroCode",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4554700/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4554700/7da779e70f549c9eaf4ca58c2fd313885c0ac29c/header.jpg?t=1777835582",
+        "Date": "Nov 26, 2026",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777836040.7785218,
+        "MatchedTags": [
+            "management"
         ]
     }
 }
