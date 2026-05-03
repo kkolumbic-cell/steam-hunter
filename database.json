@@ -16156,10 +16156,10 @@
     },
     "4526300": {
         "Title": "BAENANA",
-        "Email": "",
+        "Email": "support.smilecoastgames@gmail.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4526300/",
-        "Site": "",
+        "Site": "https://www.smilecoastgames.com/baenana",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526300/8edb3f48fae9be398b1849a34fab33296418f14c/header.jpg?t=1774611239",
         "Date": "May 1, 2026",
         "AddedDate": "2026-03-27",
@@ -38752,9 +38752,9 @@
         "URL": "https://store.steampowered.com/app/4653390/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4653390/3579760bf36dc0cf50e58fedda1f257cd3dd822a/header.jpg?t=1776879451",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-22",
-        "AddedTimestamp": 1776886923.9717574,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777809589.7407572,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -41912,9 +41912,9 @@
         "URL": "https://store.steampowered.com/app/4535880/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4535880/d62115f0814d2b12ab6460ceda67de951a32b4fe/header.jpg?t=1777099292",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-25",
-        "AddedTimestamp": 1777103206.4192502,
+        "Date": "May 2026",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777809568.191552,
         "MatchedTags": [
             "strategy"
         ]
@@ -49359,6 +49359,35 @@
         "MatchedTags": [
             "horror",
             "survival horror"
+        ]
+    },
+    "3716330": {
+        "Title": "JerkTown",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3716330/",
+        "Site": "https://www.jerktowngame.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3716330/a395e85e5d4fcf66dbe3113708f1f6814f68ebda/header.jpg?t=1777804796",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777809546.1136234,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4669680": {
+        "Title": "The Ultra Realistic Accurate Farmer Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4669680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4669680/00c7fe7063eda4b2f3bf83f86774afc6b9be14f4/header.jpg?t=1777808407",
+        "Date": "May 2026",
+        "AddedDate": "2026-05-03",
+        "AddedTimestamp": 1777809596.8835065,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
         ]
     }
 }
