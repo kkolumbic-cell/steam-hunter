@@ -10958,9 +10958,9 @@
         "URL": "https://store.steampowered.com/app/4404190/",
         "Site": "https://coldcoffeestudio.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4404190/a03fed7f68b138dccd298c7e3ca04f8c916bf353/header.jpg?t=1773937683",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-03-19",
-        "AddedTimestamp": 1773940624.5683844,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777890419.7196088,
         "MatchedTags": [
             "base building",
             "colony sim",
@@ -12202,7 +12202,7 @@
     "4525210": {
         "Title": "Zodiac Echoes",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/acvbcSVmHt",
         "URL": "https://store.steampowered.com/app/4525210/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4525210/5e37c8a7200353aa77dbbdd16ff180c27e5ac6f6/header.jpg?t=1774209679",
@@ -33164,7 +33164,7 @@
     "4621810": {
         "Title": "Livin' the Cream: Ice Cream Simulator",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/aBKPygmuwJ",
         "URL": "https://store.steampowered.com/app/4621810/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4621810/9ef036f9cb15779fed1270f4361fc0ebc8f9b8c8/header.jpg?t=1776353638",
@@ -34855,9 +34855,9 @@
         "URL": "https://store.steampowered.com/app/4626560/",
         "Site": "https://vienkiemis.online/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4626560/db8aebb5b5a5b37ab6ca8a607d8560284cb22c99/header.jpg?t=1776501597",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-18",
-        "AddedTimestamp": 1776503231.1613555,
+        "Date": "May 4, 2026",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777890506.5799434,
         "MatchedTags": [
             "horror",
             "base building"
@@ -36645,9 +36645,9 @@
         "URL": "https://store.steampowered.com/app/4626470/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4626470/4d9600aa5dc0f53a1c60e10fb5e8118e21bf0876/header.jpg?t=1776749350",
-        "Date": "May 5, 2026",
-        "AddedDate": "2026-04-22",
-        "AddedTimestamp": 1776878302.2651947,
+        "Date": "May 4, 2026",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777890503.3558402,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -42336,7 +42336,7 @@
     },
     "4596990": {
         "Title": "Good Job",
-        "Email": "info@goodjobsimulator.com, tayguncaliskan@gmail.com, gigglefartstudio@gmail.com",
+        "Email": "info@goodjobsimulator.com, gigglefartstudio@gmail.com, tayguncaliskan@gmail.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4596990/",
         "Site": "http://www.goodjobsimulator.com/",
@@ -45724,13 +45724,12 @@
         "Email": "",
         "Discord": "https://discord.gg/aWBTVMYAcZ",
         "URL": "https://store.steampowered.com/app/4139160/",
-        "Site": "",
+        "Site": "https://www.shortgun.in/games/roll-em-out",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4139160/746771f985b491e116f3009f704cdfa54c7e0132/header.jpg?t=1777462916",
         "Date": "Q2 2026",
         "AddedDate": "2026-04-29",
         "AddedTimestamp": 1777463737.4640255,
         "MatchedTags": [
-            "strategy",
             "resource management"
         ]
     },
@@ -49604,6 +49603,69 @@
         "MatchedTags": [
             "survival horror",
             "horror"
+        ]
+    },
+    "4449190": {
+        "Title": "7 Years at Sea",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4449190/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4449190/7458de0ac25f247e265cc3755a8ca75809f7c98c/header.jpg?t=1777881512",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777890429.2169397,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "management",
+            "turn-based strategy"
+        ]
+    },
+    "4511540": {
+        "Title": "Mittelland AD Origins",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4511540/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4511540/affdf147f573a55142d0f9c4a8a5471b10bc5d62/header.jpg?t=1777885755",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777890445.1944873,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "tactical",
+            "economy"
+        ]
+    },
+    "4522250": {
+        "Title": "TV Show: Home MakeOver",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4522250/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4522250/c2a680ae03c7d939cf73ced499206aef288b75e6/header.jpg?t=1777887206",
+        "Date": "Dec 31, 2026",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777890447.696382,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4533690": {
+        "Title": "The Wizard of Gloss",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4533690/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4533690/f22e978d90af6d98efee6bb76d9572c0f3024a65/header.jpg?t=1777883600",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777890453.3358548,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
