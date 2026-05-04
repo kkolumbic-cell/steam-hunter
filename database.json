@@ -48328,9 +48328,9 @@
         "URL": "https://store.steampowered.com/app/4670860/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4670860/7b27dcce3075d6a833f7c0bd2ffa6b0763c0be97/header.jpg?t=1777648308",
-        "Date": "2026",
-        "AddedDate": "2026-05-02",
-        "AddedTimestamp": 1777694062.8954127,
+        "Date": "May 2026",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777930391.7522109,
         "MatchedTags": [
             "strategy",
             "base building",
@@ -49889,7 +49889,7 @@
     "4642080": {
         "Title": "Varren's Expanse",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/cDMHEuQUWC",
         "URL": "https://store.steampowered.com/app/4642080/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4642080/ab823f3c128b40aae98db498a2967726e808a2de/header.jpg?t=1777907333",
@@ -50323,6 +50323,78 @@
             "turn-based strategy",
             "turn-based tactics",
             "tactical"
+        ]
+    },
+    "4275930": {
+        "Title": "KGT: Kevin Got Teleported",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4275930/",
+        "Site": "https://wuotanstudios.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275930/9a24c405bb02b4c8e9d21dfc0742f4d5b0f84c77/header.jpg?t=1777929412",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777930324.6844087,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4574620": {
+        "Title": "Epic Balls Smashing",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4574620/",
+        "Site": "https://nightsteed.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4574620/2109e7ace28aad6d78800d4c67079366a53a1690/header.jpg?t=1777927231",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777930351.3950229,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4594920": {
+        "Title": "Triangles",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4594920/",
+        "Site": "https://www.detune.co.jp/Triangles.html",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594920/ec8a8adc822690dd1aa240acead6c9542cfee0d4/header.jpg?t=1777928806",
+        "Date": "TBA",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777930356.607306,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4637070": {
+        "Title": "Skin Lure",
+        "Email": "",
+        "Discord": "https://discord.gg/CZKGVG6Xz5",
+        "URL": "https://store.steampowered.com/app/4637070/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4637070/a54a1d0d5567880777f73f168037dc614ede0ff2/header.jpg?t=1777925587",
+        "Date": "May 15, 2026",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777930364.8056211,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4670660": {
+        "Title": "CorpOS 2000",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4670660/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4670660/5b56c98edc6351ac3099dc61323d5eb87f6fa3a7/header.jpg?t=1777929849",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777930389.969968,
+        "MatchedTags": [
+            "strategy",
+            "management"
         ]
     }
 }
