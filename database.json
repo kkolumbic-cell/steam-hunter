@@ -42004,7 +42004,7 @@
     "4662350": {
         "Title": "Chess 2",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/sMjgh7rnD",
         "URL": "https://store.steampowered.com/app/4662350/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4662350/fc9ac7b99d627019246c55993997c51ef5a57e78/header.jpg?t=1777111342",
@@ -49526,6 +49526,36 @@
         "AddedTimestamp": 1777849511.371777,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4566450": {
+        "Title": "Kim's Farm",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4566450/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4566450/5ac244e2b919af15cc2bd27c2192428ba4dfcfce/header.jpg?t=1777851930",
+        "Date": "May 10, 2026",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777853105.1669345,
+        "MatchedTags": [
+            "psychological horror",
+            "resource management"
+        ]
+    },
+    "4662340": {
+        "Title": "Project ROSS",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4662340/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4662340/3c56bdee887e1a952f02218cce350fac295c1379/header.jpg?t=1777850769",
+        "Date": "2027",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777853114.2427788,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
