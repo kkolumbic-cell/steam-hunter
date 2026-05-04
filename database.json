@@ -15530,9 +15530,9 @@
         "URL": "https://store.steampowered.com/app/4513150/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4513150/b80528a73bed94a88c96e452099183e381f18d6e/header.jpg?t=1774549703",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-03-26",
-        "AddedTimestamp": 1774553698.1337025,
+        "Date": "May 4, 2026",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777936311.7004516,
         "MatchedTags": [
             "tower defense",
             "strategy",
@@ -32233,8 +32233,8 @@
         "AddedTimestamp": 1776290808.2038696,
         "MatchedTags": [
             "turn-based tactics",
-            "strategy",
-            "tactical"
+            "tactical",
+            "strategy"
         ]
     },
     "4605380": {
@@ -42318,7 +42318,7 @@
     },
     "4596990": {
         "Title": "Good Job",
-        "Email": "info@goodjobsimulator.com, gigglefartstudio@gmail.com, tayguncaliskan@gmail.com",
+        "Email": "info@goodjobsimulator.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4596990/",
         "Site": "http://www.goodjobsimulator.com/",
@@ -49121,7 +49121,8 @@
         "AddedDate": "2026-05-02",
         "AddedTimestamp": 1777716725.6025136,
         "MatchedTags": [
-            "horror"
+            "horror",
+            "tactical"
         ]
     },
     "4630890": {
@@ -50395,6 +50396,102 @@
         "MatchedTags": [
             "strategy",
             "management"
+        ]
+    },
+    "3865640": {
+        "Title": "Alt Tab Tactics",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3865640/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3865640/2cc217cdb1d8096b3eb5a307d9c9353614944565/header.jpg?t=1777933411",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777936288.6618373,
+        "MatchedTags": [
+            "management",
+            "strategy",
+            "resource management",
+            "turn-based tactics"
+        ]
+    },
+    "4580920": {
+        "Title": "Rankbreaker",
+        "Email": "",
+        "Discord": "https://discord.gg/6u8yvTkyNh",
+        "URL": "https://store.steampowered.com/app/4580920/",
+        "Site": "https://rankbreakr.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4580920/f37f4d50888faa7e9cfe09d0a056b8c270783465/header.jpg?t=1777931819",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777936325.1833947,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4628510": {
+        "Title": "Storm The Field",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4628510/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4628510/decb1fccfd17042a0b297b2ea9b51313313e3c19/header.jpg?t=1777932777",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777936341.7232037,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "turn-based tactics"
+        ]
+    },
+    "4644400": {
+        "Title": "Unstable Nuclear Reactor",
+        "Email": "",
+        "Discord": "https://discord.gg/57jmmu3JTb",
+        "URL": "https://store.steampowered.com/app/4644400/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4644400/afcec6ab08fe62924d4a48de9a972186485b0a31/header.jpg?t=1777934255",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777936345.7243438,
+        "MatchedTags": [
+            "resource management",
+            "tactical",
+            "strategy",
+            "economy",
+            "management"
+        ]
+    },
+    "4684790": {
+        "Title": "Vossarium",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4684790/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4684790/5c856fc4e2474face641f6098ca831938e8acb31/header.jpg?t=1777934015",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777936359.736512,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4697320": {
+        "Title": "Veilbreak",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4697320/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4697320/b7ff8299188d03d0f50109fc19cfba541eb5c432/header.jpg?t=1777932489",
+        "Date": "Jun 4, 2026",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777936363.9429495,
+        "MatchedTags": [
+            "turn-based strategy",
+            "turn-based combat"
         ]
     }
 }
