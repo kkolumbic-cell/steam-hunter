@@ -2563,7 +2563,7 @@
     },
     "3664020": {
         "Title": "Dungeon Dominator",
-        "Email": "pr@next-genium.com, info@next-genium.com, hr@next-genium.com",
+        "Email": "pr@next-genium.com, hr@next-genium.com, info@next-genium.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/3664020/",
         "Site": "https://next-genium.com",
@@ -17577,9 +17577,9 @@
         "URL": "https://store.steampowered.com/app/2434660/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2434660/666132e0398904ee04254614f2e13fa878967906/header.jpg?t=1774768135",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-29",
-        "AddedTimestamp": 1774768791.9600935,
+        "Date": "May 8, 2026",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777899436.7559192,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -49666,6 +49666,114 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4256670": {
+        "Title": "Picker Magnate Simulator",
+        "Email": "sgradegames@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4256670/",
+        "Site": "https://sgradegames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4256670/c1be1a76a033e0d4a030ad737de06ebf30c194b2/header.jpg?t=1777896750",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777899467.7078736,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4385820": {
+        "Title": "Station Nexus",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4385820/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4385820/5d16756f5a15f4450731e1c639617d5d8da4b56f/header.jpg?t=1777898591",
+        "Date": "Jun 24, 2026",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777899483.8594713,
+        "MatchedTags": [
+            "colony sim",
+            "psychological horror",
+            "resource management"
+        ]
+    },
+    "4421480": {
+        "Title": "Best Streamer",
+        "Email": "",
+        "Discord": "https://discord.gg/VcnQSTDE",
+        "URL": "https://store.steampowered.com/app/4421480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4421480/e445feca1df1971bf22e825f5d0c4915d30b87e0/header.jpg?t=1777891165",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777899488.911097,
+        "MatchedTags": [
+            "real time tactics",
+            "tactical"
+        ]
+    },
+    "4655010": {
+        "Title": "Digidice",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4655010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4655010/b0579a43ddf969c73176fe639b50818d76228aaf/header.jpg?t=1777898316",
+        "Date": "TBA",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777899538.0817137,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4677750": {
+        "Title": "Grid Lands",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4677750/",
+        "Site": "https://gridlands.io/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4677750/6cc3171f616266e6ab0f2eb7d6eb1c340c5154aa/header.jpg?t=1777898427",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777899547.348621,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "management"
+        ]
+    },
+    "4685100": {
+        "Title": "Compulse",
+        "Email": "squeak@futurats.com, jobs@futurats.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4685100/",
+        "Site": "https://futurats.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4685100/3756155aad8948fda2bc014b16c6574f2224ec65/header.jpg?t=1777891509",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777899550.1322255,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4685870": {
+        "Title": "MAGOSTOP",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4685870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4685870/770d21dec2f2de5e77c92b604c4398306b0e3b0a/header.jpg?t=1777896180",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777899554.02939,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
         ]
     }
 }
