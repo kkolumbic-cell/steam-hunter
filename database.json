@@ -19640,9 +19640,9 @@
         "URL": "https://store.steampowered.com/app/4531590/",
         "Site": "https://www.fencepostgames.com/cat_and_mouse",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4531590/20cfa086bfafc6f731d95dd25fcd2ff4a9b5b722/header.jpg?t=1775011153",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-01",
-        "AddedTimestamp": 1775015275.439507,
+        "Date": "May 4, 2026",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777924662.5645084,
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
@@ -24639,7 +24639,7 @@
     "4545200": {
         "Title": "Broken Crown",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/9DU52JeP",
         "URL": "https://store.steampowered.com/app/4545200/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4545200/8126cb877675ca171e1adb39cac6d55a33dc1a5c/header.jpg?t=1775636217",
@@ -34388,9 +34388,9 @@
         "AddedDate": "2026-04-17",
         "AddedTimestamp": 1776449289.0929973,
         "MatchedTags": [
-            "strategy",
             "turn-based tactics",
-            "turn-based combat"
+            "strategy",
+            "turn-based strategy"
         ]
     },
     "4551500": {
@@ -49749,9 +49749,9 @@
         "URL": "https://store.steampowered.com/app/4685870/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4685870/770d21dec2f2de5e77c92b604c4398306b0e3b0a/header.jpg?t=1777896180",
-        "Date": "To be announced",
+        "Date": "Coming soon",
         "AddedDate": "2026-05-04",
-        "AddedTimestamp": 1777899554.02939,
+        "AddedTimestamp": 1777924747.8656507,
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
@@ -50183,6 +50183,146 @@
         "AddedTimestamp": 1777917372.8001757,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "1346070": {
+        "Title": "Sign of Silence",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/1346070/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1346070/header.jpg?t=1777921927",
+        "Date": "Oct 1, 2020",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777924613.6552038,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4450620": {
+        "Title": "Grain Rot",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4450620/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4450620/0ae4b281a1268f72387b2a833c556148268d8ecc/header.jpg?t=1777917844",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777924645.5316586,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "base building"
+        ]
+    },
+    "4509630": {
+        "Title": "The Eternal Woods",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4509630/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4509630/2d4549e0a9b434b0c9966cc9966588c0608cb027/header.jpg?t=1777918201",
+        "Date": "July 2026",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777924653.3449838,
+        "MatchedTags": [
+            "economy",
+            "resource management"
+        ]
+    },
+    "4541920": {
+        "Title": "GRIDLANDS",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4541920/",
+        "Site": "https://gridlands.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541920/72ce72e581a3d6b8a785f6691b7f8fb5b8456eca/header.jpg?t=1777917460",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777924668.4906418,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4609310": {
+        "Title": "Terachain",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4609310/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4609310/a65717e9f3ef1b0956ff05e8a61d7b1582f42420/header.jpg?t=1777918478",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777924694.546866,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4640510": {
+        "Title": "Evil is near",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4640510/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4640510/a57c5d6f93a28cfce5ee961e868eefe2ce78a5bc/header.jpg?t=1777922017",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777924713.8115697,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4657440": {
+        "Title": "Dungeon Vacation Planner",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4657440/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4657440/db5817f64a2da19e324a42769a791393f324318c/header.jpg?t=1777921473",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777924727.7961009,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4686290": {
+        "Title": "Encoria!: A Circus Game",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4686290/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4686290/f6df2e9bd1cc09db660b654061db73e934045d85/header.jpg?t=1777917181",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777924750.965066,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4687070": {
+        "Title": "SafeHaven",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4687070/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4687070/344b472815d697fafc362dfd22629f0943881409/header.jpg?t=1777924447",
+        "Date": "May 2026",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777924754.195098,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical"
         ]
     }
 }
