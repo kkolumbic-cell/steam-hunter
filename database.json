@@ -4929,9 +4929,9 @@
         "URL": "https://store.steampowered.com/app/4404050/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4404050/5efdf89d108cb7c05ac6d756070da2d9dde1de51/header.jpg?t=1773149267",
-        "Date": "May 24, 2026",
-        "AddedDate": "2026-04-23",
-        "AddedTimestamp": 1776916128.4640236,
+        "Date": "May 31, 2026",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777879614.6876087,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -15060,9 +15060,9 @@
         "URL": "https://store.steampowered.com/app/3823700/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3823700/cc8e8147115ac08d2e5a722ebb5df58101022cf7/header.jpg?t=1774518431",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-04-21",
-        "AddedTimestamp": 1776765291.3316877,
+        "Date": "To be announced",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777879596.7710462,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -25030,9 +25030,9 @@
         "URL": "https://store.steampowered.com/app/4589400/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4589400/dc7674bce22067ee5bd4bd76bdf4364da2d96f28/header.jpg?t=1775660772",
-        "Date": "May 2, 2026",
-        "AddedDate": "2026-05-03",
-        "AddedTimestamp": 1777781600.6834018,
+        "Date": "May 3, 2026",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777879648.3296223,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -47769,9 +47769,9 @@
         "URL": "https://store.steampowered.com/app/3118860/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3118860/1b377212bd442b3b724a72a3692b640324bac4ba/header.jpg?t=1777595568",
-        "Date": "May 21, 2026",
-        "AddedDate": "2026-05-01",
-        "AddedTimestamp": 1777609180.3421838,
+        "Date": "May 28, 2026",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777879593.4623296,
         "MatchedTags": [
             "resource management",
             "horror",
@@ -47941,7 +47941,9 @@
         "AddedDate": "2026-05-01",
         "AddedTimestamp": 1777609377.6518724,
         "MatchedTags": [
-            "survival horror"
+            "survival horror",
+            "horror",
+            "psychological horror"
         ]
     },
     "4686520": {
@@ -48815,9 +48817,9 @@
         "URL": "https://store.steampowered.com/app/4579170/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4579170/e433bb2144692639b943570417b38a2ad3652f1e/header.jpg?t=1777680050",
-        "Date": "TBA",
-        "AddedDate": "2026-05-02",
-        "AddedTimestamp": 1777680468.981235,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777879643.2419722,
         "MatchedTags": [
             "turn-based combat",
             "tactical"
@@ -49587,6 +49589,21 @@
             "strategy",
             "grand strategy",
             "turn-based strategy"
+        ]
+    },
+    "4679730": {
+        "Title": "Estancia Protocol Zero",
+        "Email": "",
+        "Discord": "https://discord.gg/vWvXJFpUd",
+        "URL": "https://store.steampowered.com/app/4679730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4679730/852bee7f670358fc89335855d89132f50b76fd33/header.jpg?t=1777870224",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-04",
+        "AddedTimestamp": 1777879672.141446,
+        "MatchedTags": [
+            "survival horror",
+            "horror"
         ]
     }
 }
