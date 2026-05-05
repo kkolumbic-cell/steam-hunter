@@ -11128,9 +11128,9 @@
         "URL": "https://store.steampowered.com/app/4519280/",
         "Site": "https://deepinthefieldsgame.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4519280/87d8b74d5d9b8c373547bcb482e38cf682ad735e/header.jpg?t=1773958969",
-        "Date": "May 2026",
-        "AddedDate": "2026-03-19",
-        "AddedTimestamp": 1773960599.731377,
+        "Date": "May 15, 2026",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1777939810.0357893,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -46404,7 +46404,7 @@
     },
     "4089670": {
         "Title": "Idle Starfleet",
-        "Email": "u003efunsterz.main@gmail.com, u003efunsterz.dev@gmail.com",
+        "Email": "u003efunsterz.dev@gmail.com, u003efunsterz.main@gmail.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4089670/",
         "Site": "https://zampia.net",
@@ -50492,6 +50492,83 @@
         "MatchedTags": [
             "turn-based strategy",
             "turn-based combat"
+        ]
+    },
+    "4579360": {
+        "Title": "TOSS",
+        "Email": "",
+        "Discord": "https://discord.gg/ASyQcspV",
+        "URL": "https://store.steampowered.com/app/4579360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4579360/fcd50e316b702e54e32d09dcbd694fec29438398/header.jpg?t=1777936551",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1777939814.8874755,
+        "MatchedTags": [
+            "real time tactics",
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4643060": {
+        "Title": "Keeper of The Strait",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4643060/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4643060/3240f17b5d07d097fc32b1a4d33ecc34ed658f86/header.jpg?t=1777937062",
+        "Date": "2026",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1777939824.9580016,
+        "MatchedTags": [
+            "tower defense"
+        ]
+    },
+    "4693010": {
+        "Title": "CRYPTSHOOTER",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4693010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4693010/5a8b6414d6d0476c3b3243ebfe692525d713601e/header.jpg?t=1777936925",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1777939836.442662,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4695500": {
+        "Title": "Hello Mayor",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4695500/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4695500/c1585027c617cf9123c197b7b54c2ec1fc6ecf78/header.jpg?t=1777938036",
+        "Date": "2026",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1777939838.8535788,
+        "MatchedTags": [
+            "city builder",
+            "strategy",
+            "base building",
+            "resource management"
+        ]
+    },
+    "4697150": {
+        "Title": "Medieval vs Machines",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4697150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4697150/127847cbd3c465d8022c94d8239f16d77948f277/header.jpg?t=1777936919",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1777939841.3624215,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "base building"
         ]
     }
 }
