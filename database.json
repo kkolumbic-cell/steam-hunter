@@ -26281,20 +26281,6 @@
             "turn-based tactics"
         ]
     },
-    "4582780": {
-        "Title": "\u63bc\u86cb Guandan",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4582780/",
-        "Site": "",
-        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4582780/55c229d5c013600bcf38c9ebc80a43e30d30399a/header.jpg?t=1775748454",
-        "Date": "Apr 29, 2026",
-        "AddedDate": "2026-04-30",
-        "AddedTimestamp": 1777522070.2053425,
-        "MatchedTags": [
-            "strategy"
-        ]
-    },
     "4585880": {
         "Title": "Symptoms of Infection",
         "Email": "",
@@ -48031,7 +48017,7 @@
     "4642050": {
         "Title": "Infogrind",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/XPCw4rK6ee",
         "URL": "https://store.steampowered.com/app/4642050/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4642050/1b572877933d682ed5c05173334be577c9122af4/header.jpg?t=1777630603",
@@ -51445,7 +51431,7 @@
     "4700520": {
         "Title": "Days Of Reckoning: Last Battle",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/cBM4eNFA",
         "URL": "https://store.steampowered.com/app/4700520/",
         "Site": "https://www.nice-to-have.cz/en/days-of-reckoning/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4700520/36e0691f63e5ffd25fcecea128cd6a5e74bfd997/header.jpg?t=1777991412",
@@ -51734,6 +51720,118 @@
             "turn-based combat",
             "turn-based strategy",
             "strategy"
+        ]
+    },
+    "4512580": {
+        "Title": "The Fire Must Be Fed",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4512580/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4512580/9147f48881c0e19c57ab22f7d16590307d36f774/header.jpg?t=1778013567",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1778019265.4137185,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "management"
+        ]
+    },
+    "4553970": {
+        "Title": "Hashiko",
+        "Email": "chaotickrafterz@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4553970/",
+        "Site": "https://www.chaotickrafterz.com/hashiko/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4553970/e47eaa7960ee371518861bff5b83279e5a4e1118/header.jpg?t=1778015091",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1778019269.4749446,
+        "MatchedTags": [
+            "survival horror"
+        ]
+    },
+    "4634300": {
+        "Title": "Shape Together",
+        "Email": "",
+        "Discord": "https://discord.gg/TF4P5VXNkY",
+        "URL": "https://store.steampowered.com/app/4634300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4634300/e5e8e1d7b7ae4877745cd9ee4fb5fdae79c56e85/header.jpg?t=1778017338",
+        "Date": "May 2026",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1778019290.5560758,
+        "MatchedTags": [
+            "strategy",
+            "base building",
+            "resource management"
+        ]
+    },
+    "4665400": {
+        "Title": "Bustle Beacon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4665400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4665400/d268514f445556f9a043057c3bce7c0953a1b5c3/header.jpg?t=1778013390",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1778019304.2032754,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "base building",
+            "colony sim",
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4675180": {
+        "Title": "Mid Evil Nights",
+        "Email": "",
+        "Discord": "https://discord.com/invite/rEDznbuQ3r",
+        "URL": "https://store.steampowered.com/app/4675180/",
+        "Site": "https://midnightforgestudios.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4675180/4c396aeabc8bb2e8aa6bb01aff8c3de983e07350/header.jpg?t=1778014141",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1778019321.1940155,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "4677370": {
+        "Title": "Just Keep Defending And Mining",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4677370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4677370/d7391219b882fa4059cf4e49d92cc99a7871c9cf/header.jpg?t=1778015335",
+        "Date": "July 2026",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1778019324.298877,
+        "MatchedTags": [
+            "tower defense"
+        ]
+    },
+    "4698870": {
+        "Title": "King's Skirmish",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4698870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4698870/6209b95fdff14be5b971c812b33e56d1923b5e6d/header.jpg?t=1778016776",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1778019343.1824408,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat",
+            "turn-based tactics",
+            "tactical"
         ]
     }
 }
