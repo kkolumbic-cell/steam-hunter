@@ -42500,7 +42500,7 @@
     "4601260": {
         "Title": "The House Always Wins",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/WFCxgV3wDy",
         "URL": "https://store.steampowered.com/app/4601260/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4601260/1a34a1658c06fcb209689a439cd19e19d2e49fef/header.jpg?t=1777210105",
@@ -45487,8 +45487,7 @@
         "AddedTimestamp": 1777444861.3168633,
         "MatchedTags": [
             "tower defense",
-            "base building",
-            "management"
+            "strategy"
         ]
     },
     "3937180": {
@@ -49727,7 +49726,7 @@
     },
     "4685100": {
         "Title": "Compulse",
-        "Email": "squeak@futurats.com, jobs@futurats.com",
+        "Email": "jobs@futurats.com, squeak@futurats.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4685100/",
         "Site": "https://futurats.com/",
@@ -50864,6 +50863,82 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "3638860": {
+        "Title": "CELESTIAL: FIRE & FORGE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3638860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3638860/f3805db925cbf8034b2237c195c22b086169a110/header.jpg?t=1777974915",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1777981207.6664104,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4151370": {
+        "Title": "Battlecorp",
+        "Email": "",
+        "Discord": "https://discord.com/invite/SXSFC5pm59",
+        "URL": "https://store.steampowered.com/app/4151370/",
+        "Site": "https://battlecorp.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4151370/7da58bf683060ca6adbfa195ec0f4017cc04102e/header.jpg?t=1777973821",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1777981215.8433845,
+        "MatchedTags": [
+            "turn-based strategy",
+            "strategy",
+            "resource management",
+            "management"
+        ]
+    },
+    "4169630": {
+        "Title": "20th Century Warfare",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4169630/",
+        "Site": "https://20thCenturyWarfare.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4169630/1e65fe20ee3af49297e6832fd9d95099cc627f06/header.jpg?t=1777977969",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1777981221.3127341,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy"
+        ]
+    },
+    "4560300": {
+        "Title": "WOYO!! 2",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4560300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4560300/ca7b4fbd028132419a7c519e0c4163ed78dedd13/header.jpg?t=1777979255",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1777981264.1115625,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4651490": {
+        "Title": "Loot Gobblin' Together",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4651490/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4651490/4422f28383d3ee81ea1658428322a46bd4e7307b/header.jpg?t=1777973320",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1777981294.0070512,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
         ]
     }
 }
