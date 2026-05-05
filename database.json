@@ -10094,9 +10094,9 @@
         "AddedDate": "2026-03-18",
         "AddedTimestamp": 1773854367.6923194,
         "MatchedTags": [
+            "strategy",
             "base building",
-            "management",
-            "strategy"
+            "management"
         ]
     },
     "4508840": {
@@ -36505,9 +36505,9 @@
         "URL": "https://store.steampowered.com/app/4634910/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4634910/6a3595d14665cdd18c8999dd41a0d6056926a98a/header.jpg?t=1776742770",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-21",
-        "AddedTimestamp": 1776743397.905946,
+        "Date": "May 19, 2026",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1778012423.7917879,
         "MatchedTags": [
             "resource management",
             "management",
@@ -40952,7 +40952,7 @@
     "4545480": {
         "Title": "SYNDYX",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/GdRNF3yva5",
         "URL": "https://store.steampowered.com/app/4545480/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4545480/0b4be84155e9f10c869a2f67c8d80b5bf3b54f30/header.jpg?t=1777044041",
@@ -43726,8 +43726,9 @@
         "AddedDate": "2026-05-05",
         "AddedTimestamp": 1778000454.2490256,
         "MatchedTags": [
+            "horror",
             "survival horror",
-            "horror"
+            "psychological horror"
         ]
     },
     "4655610": {
@@ -51561,6 +51562,178 @@
             "strategy",
             "turn-based strategy",
             "tactical rpg"
+        ]
+    },
+    "4265840": {
+        "Title": "Payback Protocol",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4265840/",
+        "Site": "https://chickchirp.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4265840/61129e537583d959668db2e4ad49ea3857e193c8/header.jpg?t=1778011974",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1778012374.4509315,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4565790": {
+        "Title": "SALVO",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4565790/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4565790/4604e583e79f02326f7ac886e27649cdf3736d7f/header.jpg?t=1778011973",
+        "Date": "May 2026",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1778012412.710184,
+        "MatchedTags": [
+            "tactical rpg",
+            "strategy",
+            "real time tactics",
+            "resource management"
+        ]
+    },
+    "4653650": {
+        "Title": "Grill Girl",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4653650/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4653650/202c877a14ad407bb3f649910e2dba4c91b8ae7f/header.jpg?t=1778011702",
+        "Date": "May 20, 2026",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1778012437.128355,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "real time tactics"
+        ]
+    },
+    "4655950": {
+        "Title": "tinymancer",
+        "Email": "",
+        "Discord": "https://discord.gg/314isme",
+        "URL": "https://store.steampowered.com/app/4655950/",
+        "Site": "https://grayowl.studio/tinymancer",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4655950/752d60322ef18b92015e5a63e77dde1c09ad2db9/header.jpg?t=1778009115",
+        "Date": "Oct 23, 2026",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1778012440.2837882,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "4665270": {
+        "Title": "Cosmic Crumbs: Bakery Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4665270/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4665270/4f1673c219b18d216644660746c7f6abffde4a05/header.jpg?t=1778009123",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1778012445.8673108,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4671900": {
+        "Title": "Eyes Wide Open",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4671900/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4671900/36a5bff1a59036a207a91b6cd121ae2680a23105/header.jpg?t=1778007222",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1778012452.031213,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4678520": {
+        "Title": "Hearty Haven",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4678520/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4678520/9434f32152a96b10b86f000bf7603b5af112b29c/header.jpg?t=1778010649",
+        "Date": "Jun 1, 2026",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1778012455.84479,
+        "MatchedTags": [
+            "strategy",
+            "horror"
+        ]
+    },
+    "4685110": {
+        "Title": "Dies Irae:  tactical puzzle",
+        "Email": "gamecontrollstudio@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4685110/",
+        "Site": "https://gamecontrollstudio.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4685110/ebc9a379ff51c5a72a417d11a1bf2f963e66e9c7/header.jpg?t=1778011260",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1778012461.3267086,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "tactical"
+        ]
+    },
+    "4687990": {
+        "Title": "VOID PROFIT",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4687990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4687990/51de9e3be75e28bf7b94a006f177fdc5c20a1aba/header.jpg?t=1778011906",
+        "Date": "2026",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1778012463.949286,
+        "MatchedTags": [
+            "economy",
+            "strategy",
+            "resource management",
+            "management"
+        ]
+    },
+    "4693190": {
+        "Title": "Revenge & Defend",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4693190/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4693190/dfec069cf16466a24da911a20016cea4365834e7/header.jpg?t=1778008222",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1778012466.7459495,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "real time tactics",
+            "base building",
+            "resource management"
+        ]
+    },
+    "4701360": {
+        "Title": "World of Qreatures",
+        "Email": "worldofqreatures@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4701360/",
+        "Site": "https://www.worldofqreatures.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4701360/1c6a7e0f9d44a41734ea52e4485dd4507a575bb6/header.jpg?t=1778007137",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-05",
+        "AddedTimestamp": 1778012474.3968184,
+        "MatchedTags": [
+            "turn-based combat",
+            "turn-based strategy",
+            "strategy"
         ]
     }
 }
