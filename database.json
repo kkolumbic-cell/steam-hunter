@@ -39081,9 +39081,9 @@
         "URL": "https://store.steampowered.com/app/4641240/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4641240/cac5b67d43e55d98214be616f680180eccc55168/header.jpg?t=1776907682",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-25",
-        "AddedTimestamp": 1777096837.441808,
+        "Date": "May 6, 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778105423.0637474,
         "MatchedTags": [
             "turn-based tactics"
         ]
@@ -43907,9 +43907,9 @@
         "URL": "https://store.steampowered.com/app/4662130/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4662130/7452b2d4a7c7c53e598335d85a6b92e38733e775/header.jpg?t=1777334959",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-28",
-        "AddedTimestamp": 1777334989.0827196,
+        "Date": "May 26, 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778105436.5709734,
         "MatchedTags": [
             "horror"
         ]
@@ -47743,7 +47743,7 @@
     "4192470": {
         "Title": "CRIMPO QUEST",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/5kQf2u6Axf",
         "URL": "https://store.steampowered.com/app/4192470/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4192470/16f68bfaee51b2d9ae2475465cc1065de3bb9994/header.jpg?t=1777600002",
@@ -50343,9 +50343,9 @@
         "URL": "https://store.steampowered.com/app/4594920/",
         "Site": "https://www.detune.co.jp/Triangles.html",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594920/ec8a8adc822690dd1aa240acead6c9542cfee0d4/header.jpg?t=1777928806",
-        "Date": "TBA",
-        "AddedDate": "2026-05-04",
-        "AddedTimestamp": 1777930356.607306,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778105412.0466223,
         "MatchedTags": [
             "management"
         ]
@@ -52875,6 +52875,49 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4200570": {
+        "Title": "Chrono Law",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4200570/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4200570/367f87afb643ec720b39a868eabf7317b3302297/header.jpg?t=1778102973",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778105382.0079565,
+        "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "4653910": {
+        "Title": "Bone Stuff",
+        "Email": "press@kaznos.com, support@kaznos.com, business@kaznos.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4653910/",
+        "Site": "https://www.kaznos.com/tr",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4653910/d4ff981645f249ef50db18f58abc60b730adfff0/header.jpg?t=1778103852",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778105426.1870236,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4694690": {
+        "Title": "Haunted Lakes of Austin",
+        "Email": "support@bluevoltagegames.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4694690/",
+        "Site": "http://www.BlueVoltageGames.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4694690/beda9d754093969c087ac8a8145212c63845f9de/header.jpg?t=1778104843",
+        "Date": "Dec 31, 2027",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778105448.49714,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
