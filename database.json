@@ -19208,8 +19208,8 @@
         "AddedTimestamp": 1774985422.430813,
         "MatchedTags": [
             "management",
-            "real time tactics",
-            "strategy"
+            "strategy",
+            "real time tactics"
         ]
     },
     "4548150": {
@@ -38415,9 +38415,9 @@
         "URL": "https://store.steampowered.com/app/4017500/",
         "Site": "https://youtube.com/dalasreview",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017500/64c112cf6a73b00606b63e9db9d3293752deef50/header.jpg?t=1776874221",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-22",
-        "AddedTimestamp": 1776878183.4585316,
+        "Date": "May 6, 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778078957.618845,
         "MatchedTags": [
             "tower defense",
             "turn-based tactics"
@@ -39093,9 +39093,9 @@
         "URL": "https://store.steampowered.com/app/4591400/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4591400/eb92717e4d24b092985453cf80f2eef4b2d68b66/header.jpg?t=1776919059",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-23",
-        "AddedTimestamp": 1776925107.1506035,
+        "Date": "May 6, 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778079056.4533598,
         "MatchedTags": [
             "strategy"
         ]
@@ -43707,9 +43707,9 @@
         "URL": "https://store.steampowered.com/app/4653490/",
         "Site": "https://www.nr7games.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4653490/dd3d24e518af701d190963166bb1ec1cde9f7bd9/header.jpg?t=1777327257",
-        "Date": "Aug 20, 2026",
-        "AddedDate": "2026-05-05",
-        "AddedTimestamp": 1778000454.2490256,
+        "Date": "Sep 1, 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778079099.6774092,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -48527,9 +48527,9 @@
         "URL": "https://store.steampowered.com/app/4627630/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4627630/673a95cafc17ace8e90858b7fccb36aa0422c057/header.jpg?t=1777657053",
-        "Date": "Dec 31, 2026",
-        "AddedDate": "2026-05-01",
-        "AddedTimestamp": 1777659371.4079258,
+        "Date": "2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778079085.966069,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -52278,7 +52278,7 @@
     "4420660": {
         "Title": "ZONE L.O.S.T.",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/vGYWMWP5",
         "URL": "https://store.steampowered.com/app/4420660/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4420660/2620ce09327c2f05ed4d754738e54bf1452b9c12/header.jpg?t=1778069265",
@@ -52286,7 +52286,8 @@
         "AddedDate": "2026-05-06",
         "AddedTimestamp": 1778069507.3366432,
         "MatchedTags": [
-            "horror"
+            "horror",
+            "survival horror"
         ]
     },
     "4652030": {
@@ -52335,6 +52336,174 @@
             "resource management",
             "colony sim",
             "management"
+        ]
+    },
+    "4303650": {
+        "Title": "Project Sakura",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4303650/",
+        "Site": "https://www.rtrgames.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4303650/d257a7aed8851c771371900ba594f644ccb71872/header.jpg?t=1778075134",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778078979.9017847,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4622760": {
+        "Title": "The Dead After",
+        "Email": "",
+        "Discord": "https://discord.gg/R7ebrZU4G",
+        "URL": "https://store.steampowered.com/app/4622760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4622760/4e31384ac30b48362c83de1fd6efb79c077dcf8d/header.jpg?t=1778073791",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778079082.7016473,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4654890": {
+        "Title": "\u751f\u7269\u5b9e\u9a8c\u5ba4\uff1a\u7578\u53d8\u5b9e\u9a8c\u8bb0\u5f55",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4654890/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4654890/9eb0cabf5cc75ea4995d6152049437316eb036dc/header.jpg?t=1778077846",
+        "Date": "May 19, 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778079103.5996282,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4667450": {
+        "Title": "Backrooms: Savior",
+        "Email": "",
+        "Discord": "https://discord.gg/wPYH4GmwhE",
+        "URL": "https://store.steampowered.com/app/4667450/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4667450/7070efb20b1a6a1c3e577d654c34d8a1499b4262/header.jpg?t=1778070218",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778079114.5130012,
+        "MatchedTags": [
+            "horror",
+            "real time tactics",
+            "psychological horror"
+        ]
+    },
+    "4668350": {
+        "Title": "The Prime Minister's Crest: Path to Power",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4668350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4668350/382042c22e395d0d413f671bdc315bb10c904ba8/header.jpg?t=1778075547",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778079117.2587028,
+        "MatchedTags": [
+            "resource management",
+            "strategy",
+            "management",
+            "economy"
+        ]
+    },
+    "4673960": {
+        "Title": "Grim Dice",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4673960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4673960/d0f3d8bf1dc5362f3517c4218cd28e1f0828a11e/header.jpg?t=1778072101",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778079126.9167244,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "4689630": {
+        "Title": "Once Upon The Universe",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4689630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4689630/bb6c71e2923cb4086df6b305079d1d298c38f7ad/header.jpg?t=1778073868",
+        "Date": "May 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778079139.6336346,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4692920": {
+        "Title": "The Mouth must Eat",
+        "Email": "",
+        "Discord": "https://discord.gg/GE3b3cyrNm",
+        "URL": "https://store.steampowered.com/app/4692920/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4692920/31098f6e6d5ed3882ed28bf14961e84ba51ea769/header.jpg?t=1778075196",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778079147.8796108,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4701990": {
+        "Title": "UnoDos",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4701990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4701990/2b8f92c1c99a9ce7d31bf9efde7e971c15e8c8f8/header.jpg?t=1778077526",
+        "Date": "TBA",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778079176.132769,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4704740": {
+        "Title": "World Order: Global Power",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4704740/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4704740/bc4a88344dc2ff2cc8e11c0a817a0364cad1f375/header.jpg?t=1778074436",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778079186.4086215,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "real time tactics",
+            "economy",
+            "management"
+        ]
+    },
+    "4704850": {
+        "Title": "Necrotel: No Checkout",
+        "Email": "career@cgilabgames.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4704850/",
+        "Site": "https://cgilabgames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4704850/f7f2b52817048c307c0d0e701c200622d9ec8234/header.jpg?t=1778071076",
+        "Date": "2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778079188.4675992,
+        "MatchedTags": [
+            "management",
+            "economy"
         ]
     }
 }
