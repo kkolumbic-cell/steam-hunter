@@ -34700,13 +34700,13 @@
     "4625170": {
         "Title": "Dice N Grids",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/FktWNp4w",
         "URL": "https://store.steampowered.com/app/4625170/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4625170/74952ccff532f3ce62a584166e5598398c864488/header.jpg?t=1776486645",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-18",
-        "AddedTimestamp": 1776491558.1798804,
+        "Date": "May 6, 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778108917.00005,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -52918,6 +52918,35 @@
         "AddedTimestamp": 1778105448.49714,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4274440": {
+        "Title": "Nevada",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4274440/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4274440/3ed50693c9aaeb4e8bc47a455c6ba283f0f541ae/header.jpg?t=1778108157",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778108893.9790375,
+        "MatchedTags": [
+            "turn-based combat",
+            "tactical rpg"
+        ]
+    },
+    "4554420": {
+        "Title": "Last Crown Gambit",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4554420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4554420/44407daf82bb514dabc6dd60aed454412df67285/header.jpg?t=1778108226",
+        "Date": "Dec 31, 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778108906.4354842,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
