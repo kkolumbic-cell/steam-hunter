@@ -20052,9 +20052,9 @@
         "URL": "https://store.steampowered.com/app/4534620/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4534620/f8f4fc91c174badc9ba52ce5c320243af32bf39b/header.jpg?t=1775051587",
-        "Date": "2027",
-        "AddedDate": "2026-04-01",
-        "AddedTimestamp": 1775052423.258559,
+        "Date": "May 6, 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778069518.0600007,
         "MatchedTags": [
             "strategy",
             "grand strategy",
@@ -20062,8 +20062,7 @@
             "economy",
             "management",
             "tactical",
-            "turn-based tactics",
-            "resource management"
+            "turn-based tactics"
         ]
     },
     "4546080": {
@@ -24386,9 +24385,9 @@
         "URL": "https://store.steampowered.com/app/4589320/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4589320/2b6b6670137defd98fac8c0bba5a1891c6cca6a8/header.jpg?t=1775595514",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775595964.3680706,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778069533.7516155,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -50781,10 +50780,10 @@
         "AddedDate": "2026-05-05",
         "AddedTimestamp": 1777973001.0278468,
         "MatchedTags": [
-            "strategy",
-            "city builder",
             "real time tactics",
-            "management"
+            "city builder",
+            "management",
+            "strategy"
         ]
     },
     "4683460": {
@@ -52274,6 +52273,68 @@
         "MatchedTags": [
             "strategy",
             "resource management"
+        ]
+    },
+    "4420660": {
+        "Title": "ZONE L.O.S.T.",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4420660/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4420660/2620ce09327c2f05ed4d754738e54bf1452b9c12/header.jpg?t=1778069265",
+        "Date": "2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778069507.3366432,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4652030": {
+        "Title": "AI Apocalypse",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4652030/",
+        "Site": "https://www.aiapocgame.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4652030/c8d5cc2a73e63b223a5eb847cf0db893a681b914/header.jpg?t=1778066224",
+        "Date": "Jun 16, 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778069555.025665,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "turn-based strategy"
+        ]
+    },
+    "4688810": {
+        "Title": "The Long Way Round",
+        "Email": "",
+        "Discord": "https://discord.gg/XSwShkmNRB",
+        "URL": "https://store.steampowered.com/app/4688810/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4688810/57e0be7675c5c7f01bebbe3b9e3beb04bd9adda3/header.jpg?t=1778060828",
+        "Date": "2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778069593.046496,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4692870": {
+        "Title": "ZArmory",
+        "Email": "",
+        "Discord": "https://discord.gg/z8CFbRzX3",
+        "URL": "https://store.steampowered.com/app/4692870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4692870/967266fc86a9e085f1f01bce7be76d1e5a8f68d4/header.jpg?t=1778061650",
+        "Date": "2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778069596.2197604,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "colony sim",
+            "management"
         ]
     }
 }
