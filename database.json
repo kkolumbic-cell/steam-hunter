@@ -22004,7 +22004,8 @@
         "AddedDate": "2026-04-03",
         "AddedTimestamp": 1775207552.482485,
         "MatchedTags": [
-            "strategy"
+            "strategy",
+            "turn-based strategy"
         ]
     },
     "3622950": {
@@ -34047,9 +34048,9 @@
         "URL": "https://store.steampowered.com/app/4269700/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4269700/0c85804f8f1412650d7864b7796360786af01cef/header.jpg?t=1776427468",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-04-23",
-        "AddedTimestamp": 1776953623.367239,
+        "Date": "To be announced",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778060247.47482,
         "MatchedTags": [
             "management",
             "resource management"
@@ -37873,12 +37874,11 @@
         "AddedDate": "2026-05-01",
         "AddedTimestamp": 1777648706.015102,
         "MatchedTags": [
-            "strategy",
             "turn-based tactics",
-            "real time tactics",
-            "turn-based combat",
+            "strategy",
+            "turn-based strategy",
             "tactical",
-            "turn-based strategy"
+            "turn-based combat"
         ]
     },
     "4629500": {
@@ -39784,9 +39784,9 @@
         "URL": "https://store.steampowered.com/app/4657550/",
         "Site": "https://cartoonrocketgames.com/100forjustice",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4657550/8e9962d7fb353cb5e8506f8b17a7154914a1bd5b/header.jpg?t=1776963546",
-        "Date": "To be announced",
-        "AddedDate": "2026-05-01",
-        "AddedTimestamp": 1777648728.5270152,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778060315.2452974,
         "MatchedTags": [
             "management",
             "resource management",
@@ -43118,9 +43118,9 @@
         "URL": "https://store.steampowered.com/app/4665590/",
         "Site": "https://genkaku-soft.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4665590/141a0f31e82bb9e56336bd7c89e26a10c3c5a64f/header.jpg?t=1777302267",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-27",
-        "AddedTimestamp": 1777309195.6827152,
+        "Date": "2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778060325.2870777,
         "MatchedTags": [
             "strategy",
             "colony sim"
@@ -44129,7 +44129,7 @@
     "4643890": {
         "Title": "Hantu & Hunted",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/2KG92GjCYb",
         "URL": "https://store.steampowered.com/app/4643890/",
         "Site": "https://playhah.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4643890/0a456d420f5a75076d209ed6cf2935bb32e7f972/header.jpg?t=1777348186",
@@ -52195,6 +52195,85 @@
         "MatchedTags": [
             "strategy",
             "tactical"
+        ]
+    },
+    "4661890": {
+        "Title": "Hexstride",
+        "Email": "",
+        "Discord": "https://discord.gg/t2BBFGwj5U",
+        "URL": "https://store.steampowered.com/app/4661890/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661890/839b438126fec0f884283d38f9fbc446e4b1eb86/header.jpg?t=1778053602",
+        "Date": "Jan 8, 2027",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778060320.0004604,
+        "MatchedTags": [
+            "tactical rpg",
+            "turn-based strategy",
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4661910": {
+        "Title": "Nexus Legacy",
+        "Email": "",
+        "Discord": "https://discord.gg/78mnJC8UfN",
+        "URL": "https://store.steampowered.com/app/4661910/",
+        "Site": "https://nexuslegacy.space/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661910/9299971603385b22eac37064c9e60d585bb800ec/header.jpg?t=1778058064",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778060322.7402296,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "management"
+        ]
+    },
+    "4693070": {
+        "Title": "DELETERS",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4693070/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4693070/229a387d42ffbd0a039235bd43aa72f1339d19c6/header.jpg?t=1778051914",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778060338.6650064,
+        "MatchedTags": [
+            "tower defense",
+            "strategy"
+        ]
+    },
+    "4697170": {
+        "Title": "Memo R.I.P.",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4697170/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4697170/61c7db5e948740489b59d6f59da9b8d23180746d/header.jpg?t=1778059392",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778060340.7532046,
+        "MatchedTags": [
+            "psychological horror",
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4699200": {
+        "Title": "Server Farm Idle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4699200/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699200/c4add0deb9b2b3110e0a32d52048bd117733fa63/header.jpg?t=1778052317",
+        "Date": "May 25, 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778060346.442616,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
         ]
     }
 }
