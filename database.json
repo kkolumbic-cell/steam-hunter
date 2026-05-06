@@ -4125,9 +4125,9 @@
         "URL": "https://store.steampowered.com/app/1184860/",
         "Site": "https://rymdfall.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184860/3c3570bba1acbf109f27e338859f55a2a17e5734/header.jpg?t=1773045938",
-        "Date": "2026",
-        "AddedDate": "2026-03-09",
-        "AddedTimestamp": 1773047003.1932411,
+        "Date": "July 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778094122.6621435,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -11705,9 +11705,9 @@
         "URL": "https://store.steampowered.com/app/4358910/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4358910/1bfa6dea00544eea50af80c704cdf61957dcbf3b/header.jpg?t=1774040620",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-05-03",
-        "AddedTimestamp": 1777798713.6712132,
+        "Date": "May 29, 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778094159.5847166,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -30149,7 +30149,9 @@
         "AddedTimestamp": 1777402495.066736,
         "MatchedTags": [
             "tower defense",
-            "strategy"
+            "strategy",
+            "management",
+            "real time tactics"
         ]
     },
     "4587820": {
@@ -35951,9 +35953,9 @@
         "URL": "https://store.steampowered.com/app/1512630/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512630/46c697fc9aa6747592b919691ec471da65918603/header.jpg?t=1776710675",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-20",
-        "AddedTimestamp": 1776713722.5802848,
+        "Date": "May 6, 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778094125.6598034,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -40453,9 +40455,9 @@
         "URL": "https://store.steampowered.com/app/3281370/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3281370/0fc0275cf9459ea822f1063c80dd4e90d1c91490/header.jpg?t=1777006685",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1777011677.16504,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778094134.5809863,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -50215,7 +50217,7 @@
     "4541920": {
         "Title": "GRIDLANDS",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/bvAeQ9bMdM",
         "URL": "https://store.steampowered.com/app/4541920/",
         "Site": "https://gridlands.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541920/72ce72e581a3d6b8a785f6691b7f8fb5b8456eca/header.jpg?t=1777917460",
@@ -50223,6 +50225,7 @@
         "AddedDate": "2026-05-04",
         "AddedTimestamp": 1777924668.4906418,
         "MatchedTags": [
+            "base building",
             "tactical"
         ]
     },
@@ -50312,9 +50315,9 @@
         "URL": "https://store.steampowered.com/app/4275930/",
         "Site": "https://wuotanstudios.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275930/9a24c405bb02b4c8e9d21dfc0742f4d5b0f84c77/header.jpg?t=1777929412",
-        "Date": "To be announced",
-        "AddedDate": "2026-05-04",
-        "AddedTimestamp": 1777930324.6844087,
+        "Date": "Jun 5, 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778094148.4180543,
         "MatchedTags": [
             "horror"
         ]
@@ -52552,7 +52555,7 @@
     },
     "4678810": {
         "Title": "Coloring",
-        "Email": "promotion@garantystudios.net, garanty.studios@gmail.com",
+        "Email": "garanty.studios@gmail.com, promotion@garantystudios.net",
         "Discord": "https://discord.gg/37HGpjm3kx",
         "URL": "https://store.steampowered.com/app/4678810/",
         "Site": "https://www.garantystudios.net",
@@ -52624,6 +52627,151 @@
             "strategy",
             "grand strategy",
             "turn-based tactics"
+        ]
+    },
+    "4533670": {
+        "Title": "66",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4533670/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4533670/733a8989ee2506511112ce6a6fecf19a9e560801/header.jpg?t=1778092430",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778094189.938052,
+        "MatchedTags": [
+            "survival horror"
+        ]
+    },
+    "4584550": {
+        "Title": "Nightmaze",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4584550/",
+        "Site": "https://nightmaze.co.uk",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4584550/c11caa235de291439737d28464f55f65708d0633/header.jpg?t=1778091323",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778094218.6789227,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4627790": {
+        "Title": "Don't Step Wrong 2",
+        "Email": "",
+        "Discord": "https://discord.gg/KX8mzVuqzm",
+        "URL": "https://store.steampowered.com/app/4627790/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4627790/059ad686401f3af439ef58403f0773d67b87c0ba/header.jpg?t=1778093945",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778094236.199757,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4668700": {
+        "Title": "Y: Solo Mod Simulator",
+        "Email": "",
+        "Discord": "https://discord.gg/Er8rn4r4ea",
+        "URL": "https://store.steampowered.com/app/4668700/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668700/f2daf68c47d10c789c546954e0e33d6b2779b4a6/header.jpg?t=1778088697",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778094257.9343114,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4674740": {
+        "Title": "MP Crafter",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4674740/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4674740/6cae3802d707d1db05682d4b655830d6dda99803/header.jpg?t=1778094002",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778094267.602312,
+        "MatchedTags": [
+            "resource management",
+            "management"
+        ]
+    },
+    "4681580": {
+        "Title": "Nobody's Erde",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4681580/",
+        "Site": "https://nobodyserde.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4681580/f960a3b7267d97bb910a91d12df6ee2ad105aa18/header.jpg?t=1778086847",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778094273.2451384,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4693790": {
+        "Title": "Survive The Apocalypse",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4693790/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4693790/b1d2086c9a23c02565c230a192b990f67239894a/header.jpg?t=1778086750",
+        "Date": "Nov 2, 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778094286.8023212,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4700420": {
+        "Title": "SKEW",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4700420/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4700420/696b0864ef8a7757e2e3f978d833bf2fb6aaec43/header.jpg?t=1778088924",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778094290.906454,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4703560": {
+        "Title": "Soviet Backrooms",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4703560/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703560/0695c8502b93599ed5ec7a9962ab4bdc57bca5ae/header.jpg?t=1778090365",
+        "Date": "May 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778094298.6695862,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4703570": {
+        "Title": "Blood Park",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4703570/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703570/4a1a3677acefa242ece18efbb6962cf908fbbe9e/header.jpg?t=1778090372",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778094300.575374,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
