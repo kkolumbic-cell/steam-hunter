@@ -4557,8 +4557,8 @@
         "AddedDate": "2026-03-09",
         "AddedTimestamp": 1773089532.3857355,
         "MatchedTags": [
-            "strategy",
-            "tower defense"
+            "tower defense",
+            "strategy"
         ]
     },
     "4488740": {
@@ -25763,9 +25763,9 @@
         "URL": "https://store.steampowered.com/app/4467640/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4467640/034c73bfc4c9eded926c80711cc0b2dcaa61051f/header.jpg?t=1775723850",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775727733.035853,
+        "Date": "May 5, 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778040475.0477107,
         "MatchedTags": [
             "tower defense",
             "strategy"
@@ -38353,9 +38353,9 @@
         "URL": "https://store.steampowered.com/app/4605360/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4605360/511ecd752b6b9db18219846378fa6a2eb74a0934/header.jpg?t=1776868595",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-22",
-        "AddedTimestamp": 1776872623.3644552,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778040504.0439644,
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
@@ -41117,8 +41117,7 @@
         "AddedTimestamp": 1777053851.307329,
         "MatchedTags": [
             "strategy",
-            "tactical",
-            "turn-based strategy"
+            "tactical"
         ]
     },
     "4653610": {
@@ -41646,14 +41645,15 @@
         "URL": "https://store.steampowered.com/app/4627290/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4627290/2e59db8e4c37ffbc0f00277f528cc80c9a44b10d/header.jpg?t=1777069962",
-        "Date": "TBA",
-        "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1777071640.716533,
+        "Date": "To be announced",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778040530.9190776,
         "MatchedTags": [
-            "strategy",
             "turn-based tactics",
             "turn-based strategy",
-            "turn-based combat"
+            "turn-based combat",
+            "tactical",
+            "strategy"
         ]
     },
     "4650990": {
@@ -51891,6 +51891,248 @@
         "MatchedTags": [
             "base building",
             "survival horror"
+        ]
+    },
+    "3535360": {
+        "Title": "Echo's Cry",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3535360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3535360/91e7ef6583fdbde8905d3f267cca2788e145845d/header.jpg?t=1778033561",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778040452.21313,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4025980": {
+        "Title": "APART\u2122",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4025980/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4025980/5ee158ef609e5a1916cac0127fa6099087e1819d/header.jpg?t=1778038335",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778040460.2849925,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4212750": {
+        "Title": "\u77f3\u5668\u65b0\u5927\u9678",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4212750/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4212750/d4d3282ea0b4660db896692ac84803e60cefaf61/header.jpg?t=1778033017",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778040462.541699,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "real time tactics",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4246520": {
+        "Title": "Galaxy Hunter",
+        "Email": "kiyosiai@starbooomgames.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4246520/",
+        "Site": "https://www.starbooomgames.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4246520/c0ad397b676c0ec5b94f0097ca9b18918fe66742/header.jpg?t=1778037459",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778040464.6271808,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "tactical"
+        ]
+    },
+    "4610010": {
+        "Title": "Fleshwalk: An Experience",
+        "Email": "lichenlabsgames@gmail.com",
+        "Discord": "https://discord.gg/DEerxHQ5aA",
+        "URL": "https://store.steampowered.com/app/4610010/",
+        "Site": "https://fleshwalk.lichenlabs.xyz/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4610010/92f0f02b24ceb9340718313c70df469db07308b5/header.jpg?t=1778035541",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778040512.34278,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4627680": {
+        "Title": "KardPal",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4627680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4627680/da19b15d5f47ee72ab5d0dfe4a39c781ffbc0071/header.jpg?t=1778037477",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778040533.6465302,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tactical"
+        ]
+    },
+    "4646080": {
+        "Title": "The Cleaner's Contract",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4646080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4646080/17648cd274f3663bcfcdd1138b0846d79f44aaa0/header.jpg?t=1778033613",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778040543.7793744,
+        "MatchedTags": [
+            "psychological horror",
+            "resource management",
+            "economy",
+            "management"
+        ]
+    },
+    "4676460": {
+        "Title": "Omnicore",
+        "Email": "",
+        "Discord": "https://discord.gg/FgVea5TVnc",
+        "URL": "https://store.steampowered.com/app/4676460/",
+        "Site": "https://www.swabbiegames.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4676460/24a8e8e486e2ef378f72d2b64e2330c10d660906/header.jpg?t=1778026669",
+        "Date": "2027",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778040573.3858998,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4682840": {
+        "Title": "RETRIEVAL",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4682840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4682840/936567a50f8f5229e0f2b996dd3f968d34a37319/header.jpg?t=1778033006",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778040578.3434396,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4692510": {
+        "Title": "\u706b\u9f99\u4f20\u5947",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4692510/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4692510/ffc259b8825468dcf9eb9726a1e814546427b7e1/header.jpg?t=1778031091",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778040582.8948376,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "4699250": {
+        "Title": "Blood Being 2",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4699250/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4699250/ffebe0d4dad8748f58dd8e6c1bd048b9afaac193/header.jpg?t=1778036941",
+        "Date": "2027",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778040590.5840461,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4699890": {
+        "Title": "7 DEADLY DEMONS",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4699890/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4699890/298d98aa23d978c63da19df8265db38e58ab21b0/header.jpg?t=1778031699",
+        "Date": "June 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778040593.593681,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4700720": {
+        "Title": "Cammand&Counter",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4700720/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4700720/9b0fff3a97d75a36fe1dd67aed22f409f2b7ede9/header.jpg?t=1778026698",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778040596.4973967,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "management",
+            "tactical"
+        ]
+    },
+    "4701350": {
+        "Title": "StarWay",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4701350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4701350/0f33ab9e233181d48ab6a7209a06104249e7a0cf/header.jpg?t=1778030074",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778040599.7415805,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics"
+        ]
+    },
+    "4703200": {
+        "Title": "Orphic: Facility",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4703200/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4703200/1b24ddea7e168c0416dc53b7b50acc8851ef0448/header.jpg?t=1778040193",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778040602.6177833,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4703350": {
+        "Title": "Shackle of Y",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4703350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4703350/6bf74a22dcb8bae8c8d0e44602187bd476c4be10/header.jpg?t=1778035139",
+        "Date": "May 17, 2026",
+        "AddedDate": "2026-05-06",
+        "AddedTimestamp": 1778040605.1430655,
+        "MatchedTags": [
+            "tactical"
         ]
     }
 }
