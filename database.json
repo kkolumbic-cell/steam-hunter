@@ -2435,7 +2435,7 @@
     "4429290": {
         "Title": "The Incentive Program",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.com/invite/YhAUE6xs",
         "URL": "https://store.steampowered.com/app/4429290/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4429290/34e76ceacd33b9a1718747ec2860a8d09b93a4c9/header.jpg?t=1772784578",
@@ -2443,7 +2443,8 @@
         "AddedDate": "2026-03-06",
         "AddedTimestamp": 1772819624.8270116,
         "MatchedTags": [
-            "strategy"
+            "strategy",
+            "resource management"
         ]
     },
     "4450840": {
@@ -19065,9 +19066,9 @@
         "URL": "https://store.steampowered.com/app/3946950/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3946950/dd28df7ab23cfcc16999828363cce2338f832b3c/header.jpg?t=1774978959",
-        "Date": "TBA",
-        "AddedDate": "2026-03-31",
-        "AddedTimestamp": 1774980649.7274873,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778188547.8739347,
         "MatchedTags": [
             "resource management"
         ]
@@ -44974,9 +44975,9 @@
         "URL": "https://store.steampowered.com/app/4673140/",
         "Site": "https://oneflowman.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4673140/20e63ad7dcb0b81c6b99ce27484c7e7420a502ca/header.jpg?t=1777400291",
-        "Date": "Coming soon",
+        "Date": "Jun 3, 2026",
         "AddedDate": "2026-05-07",
-        "AddedTimestamp": 1778183852.9832242,
+        "AddedTimestamp": 1778188618.8957443,
         "MatchedTags": [
             "horror"
         ]
@@ -48593,9 +48594,9 @@
         "URL": "https://store.steampowered.com/app/4623720/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4623720/9d4ec5444f70c29f16be0c296d81201e0721cc96/header.jpg?t=1777663530",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-05-05",
-        "AddedTimestamp": 1777953185.255826,
+        "Date": "2026",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778188597.672674,
         "MatchedTags": [
             "economy"
         ]
@@ -53923,13 +53924,93 @@
         "URL": "https://store.steampowered.com/app/4688730/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4688730/70f9bbdcc2dc5867ed5b83797c43467f91dbf01b/header.jpg?t=1778182699",
-        "Date": "To be announced",
+        "Date": "Coming soon",
         "AddedDate": "2026-05-07",
-        "AddedTimestamp": 1778183869.3034718,
+        "AddedTimestamp": 1778188629.6916902,
         "MatchedTags": [
             "survival horror",
             "strategy",
             "horror",
+            "resource management"
+        ]
+    },
+    "4607290": {
+        "Title": "Digline",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4607290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4607290/bd77e9f454dd1df6fecc78544d95badc81e0c5b4/header.jpg?t=1778186766",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778188594.2986233,
+        "MatchedTags": [
+            "management",
+            "resource management",
+            "base building"
+        ]
+    },
+    "4664860": {
+        "Title": "Sail On",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4664860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4664860/fdf8f0f6a4bbb524c01d715cdf4cee2077152b43/header.jpg?t=1778186705",
+        "Date": "September 2026",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778188608.0181377,
+        "MatchedTags": [
+            "real time tactics",
+            "strategy",
+            "management"
+        ]
+    },
+    "4667510": {
+        "Title": "ManaBorne",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4667510/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4667510/7cfb3c7b000a079d523b2a64fbf4eab46b08318f/header.jpg?t=1778185000",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778188613.0205605,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4673440": {
+        "Title": "CityPunk",
+        "Email": "",
+        "Discord": "https://discord.gg/ahazEZT",
+        "URL": "https://store.steampowered.com/app/4673440/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4673440/63aa6bdd1e6f7a44f76d95802e1974ecd4a05e05/header.jpg?t=1778186272",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778188622.2765324,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "colony sim",
+            "base building"
+        ]
+    },
+    "4690580": {
+        "Title": "Astral Industrial Complex",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4690580/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4690580/a89abcfbdf4eabf0f009b386fc711162edced77c/header.jpg?t=1778187962",
+        "Date": "TBA",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778188632.5455756,
+        "MatchedTags": [
+            "strategy",
+            "base building",
+            "tower defense",
             "resource management"
         ]
     }
