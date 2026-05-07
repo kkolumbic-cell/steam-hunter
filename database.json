@@ -38720,9 +38720,9 @@
         "URL": "https://store.steampowered.com/app/4653840/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4653840/76edb5fc1489cb2522af86c6645cdba07952e7be/header.jpg?t=1776879617",
-        "Date": "May 29, 2026",
-        "AddedDate": "2026-04-22",
-        "AddedTimestamp": 1776886927.222918,
+        "Date": "May 7, 2026",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778183830.4180737,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -39213,7 +39213,7 @@
     "4046370": {
         "Title": "Ling House: Echoes Within",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/EuKyvj3SqJ",
         "URL": "https://store.steampowered.com/app/4046370/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4046370/d8791e85157bac43cc73086e1aba58d63adde31d/header.jpg?t=1776938356",
@@ -44974,9 +44974,9 @@
         "URL": "https://store.steampowered.com/app/4673140/",
         "Site": "https://oneflowman.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4673140/20e63ad7dcb0b81c6b99ce27484c7e7420a502ca/header.jpg?t=1777400291",
-        "Date": "TBA",
-        "AddedDate": "2026-04-28",
-        "AddedTimestamp": 1777402549.8350272,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778183852.9832242,
         "MatchedTags": [
             "horror"
         ]
@@ -45234,9 +45234,9 @@
         "URL": "https://store.steampowered.com/app/4626050/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4626050/8b5f907282b4c0be02dd24bb3316532dbc4bb2be/header.jpg?t=1777434656",
-        "Date": "June 2026",
-        "AddedDate": "2026-04-29",
-        "AddedTimestamp": 1777435554.6039035,
+        "Date": "July 2026",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778183813.1804183,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -48265,9 +48265,9 @@
         "URL": "https://store.steampowered.com/app/4661010/",
         "Site": "https://subroutinegaming.com/corporate-entropy.html",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4661010/3253d3484cf8c61ebb3f469a2ded802138ef403b/header.jpg?t=1777648487",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-05-01",
-        "AddedTimestamp": 1777648736.434739,
+        "Date": "July 2026",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778183840.9630394,
         "MatchedTags": [
             "management",
             "strategy",
@@ -53822,6 +53822,115 @@
             "horror",
             "survival horror",
             "psychological horror"
+        ]
+    },
+    "4597650": {
+        "Title": "M\u0130TOS VERSA",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4597650/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4597650/becc6d61425cb8c9d4250e213f772ad03fb39504/header.jpg?t=1778181209",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778183800.1855557,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4605350": {
+        "Title": "Cornered Cadavers",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4605350/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4605350/b77e088cb5b15cfa0fb5b2e00168e2b7f212e95a/header.jpg?t=1778180758",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778183808.105249,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "4640590": {
+        "Title": "Fool's Pub",
+        "Email": "marketing@nostra.games",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4640590/",
+        "Site": "https://nostra.games/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4640590/130ee5fac1361931838aa8e7422d6491eb513f75/header.jpg?t=1778177902",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778183821.5165074,
+        "MatchedTags": [
+            "strategy",
+            "horror"
+        ]
+    },
+    "4652680": {
+        "Title": "Fifrelin",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4652680/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4652680/5ecdb111dc40757ec25d8f08bb40ea1a1e67c5bd/header.jpg?t=1778180038",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778183824.9554563,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4657830": {
+        "Title": "Witch You!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4657830/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4657830/9c934d9987ab6f7ed11ba1ed6c4e4270e5ce8a65/header.jpg?t=1778180014",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778183838.41255,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management"
+        ]
+    },
+    "4682440": {
+        "Title": "Aquasim",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4682440/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4682440/8393895ab0bb45196aa248505d007782f3c0938f/header.jpg?t=1778180773",
+        "Date": "Jul 28, 2026",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778183861.1148698,
+        "MatchedTags": [
+            "economy",
+            "management"
+        ]
+    },
+    "4688730": {
+        "Title": "8 Hours Till Dawn",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4688730/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4688730/70f9bbdcc2dc5867ed5b83797c43467f91dbf01b/header.jpg?t=1778182699",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778183869.3034718,
+        "MatchedTags": [
+            "survival horror",
+            "strategy",
+            "horror",
+            "resource management"
         ]
     }
 }
