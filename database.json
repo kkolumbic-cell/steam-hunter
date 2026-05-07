@@ -22311,8 +22311,8 @@
         "MatchedTags": [
             "turn-based tactics",
             "strategy",
-            "turn-based combat",
             "turn-based strategy",
+            "turn-based combat",
             "tactical"
         ]
     },
@@ -30217,7 +30217,7 @@
     "4397060": {
         "Title": "Sitting Ducks",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/4TVWTbzSMz",
         "URL": "https://store.steampowered.com/app/4397060/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4397060/113ec2b380f10fadb9511a6a0402e01d459b2ea5/header.jpg?t=1776153455",
@@ -38025,20 +38025,6 @@
             "horror",
             "strategy",
             "base building"
-        ]
-    },
-    "4629870": {
-        "Title": "Astronine",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4629870/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4629870/2fbfb7cfa5cb16ed6abb257795343162e288f76c/header.jpg?t=1776841980",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-22",
-        "AddedTimestamp": 1776845417.805628,
-        "MatchedTags": [
-            "strategy"
         ]
     },
     "4634560": {
@@ -52758,7 +52744,9 @@
         "AddedDate": "2026-05-06",
         "AddedTimestamp": 1778094298.6695862,
         "MatchedTags": [
-            "horror"
+            "psychological horror",
+            "horror",
+            "survival horror"
         ]
     },
     "4703570": {
@@ -53474,6 +53462,170 @@
             "strategy",
             "real time tactics",
             "base building"
+        ]
+    },
+    "4268970": {
+        "Title": "Drill Deep",
+        "Email": "",
+        "Discord": "https://discord.gg/udTDY5aw9j",
+        "URL": "https://store.steampowered.com/app/4268970/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4268970/97fdf543b889d8a6f67f507b2c97bc74cf0a9f71/header.jpg?t=1778167097",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778168325.0087152,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "psychological horror",
+            "resource management",
+            "base building",
+            "city builder",
+            "colony sim"
+        ]
+    },
+    "4588330": {
+        "Title": "Dynastic Era",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4588330/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4588330/b65a0f0486765ee6625258060b13d2ef6805919e/header.jpg?t=1778165765",
+        "Date": "May 22, 2026",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778168375.5799549,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "grand strategy",
+            "turn-based tactics",
+            "tactical rpg",
+            "tactical",
+            "turn-based combat"
+        ]
+    },
+    "4589700": {
+        "Title": "The Sworn",
+        "Email": "info@thesworngame.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4589700/",
+        "Site": "https://www.thesworngame.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4589700/d9ff7b81550e0053b164516509ed0c7aa575d752/header.jpg?t=1778162873",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778168377.8010988,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "tactical",
+            "resource management"
+        ]
+    },
+    "4661400": {
+        "Title": "FRACTURE - Loot or die",
+        "Email": "",
+        "Discord": "https://discord.gg/xjMbGaHNgW",
+        "URL": "https://store.steampowered.com/app/4661400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4661400/0731858d80366d934476d6081a068300981fa8cb/header.jpg?t=1778167575",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778168425.7240767,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4674550": {
+        "Title": "Mine Empire",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4674550/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4674550/fd972891234b06e614062d9f770215146740866f/header.jpg?t=1778162360",
+        "Date": "Jun 26, 2026",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778168435.633564,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4680960": {
+        "Title": "Fire Lookout: Abandoned Post",
+        "Email": "",
+        "Discord": "https://discord.gg/wjqpRnrNYR",
+        "URL": "https://store.steampowered.com/app/4680960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4680960/23b3b2481a08605b5cd62b9c29ec93ec06abb7ee/header.jpg?t=1778166728",
+        "Date": "Jun 12, 2026",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778168440.669377,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4690740": {
+        "Title": "The Flowership",
+        "Email": "",
+        "Discord": "https://discord.gg/8APtunJVW7",
+        "URL": "https://store.steampowered.com/app/4690740/",
+        "Site": "https://juiceboxfactory.neocities.org",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4690740/052fa5ddc6700945391bd4fbaeee59b18c3d0941/header.jpg?t=1778166008",
+        "Date": "2027",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778168449.5216196,
+        "MatchedTags": [
+            "strategy",
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4691990": {
+        "Title": "a weird game about sausage",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4691990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4691990/8e396f1223b8a9e8f144e4b4401f5315f05bf500/header.jpg?t=1778165692",
+        "Date": "May 28, 2026",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778168455.8622022,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4708160": {
+        "Title": "Card Traveler",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4708160/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4708160/a21020a446e5f984def41012ca6175900652bdd9/header.jpg?t=1778160965",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778168487.6188557,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4708740": {
+        "Title": "CGCards",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4708740/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4708740/96e8bb1e982a0e79dac7b3e6a37ea25f8f56a7aa/header.jpg?t=1778161876",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778168492.9201987,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
         ]
     }
 }
