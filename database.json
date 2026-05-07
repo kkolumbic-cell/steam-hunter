@@ -45654,9 +45654,9 @@
         "URL": "https://store.steampowered.com/app/4659610/",
         "Site": "https://blueprintev.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4659610/20a366aff135235a27b245fc5464fa5b5384d5e7/header.jpg?t=1777445140",
-        "Date": "Jun 25, 2026",
-        "AddedDate": "2026-04-29",
-        "AddedTimestamp": 1777454938.2252502,
+        "Date": "July 2026",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778138444.9256537,
         "MatchedTags": [
             "strategy",
             "grand strategy",
@@ -52497,14 +52497,14 @@
     },
     "4704850": {
         "Title": "Necrotel: No Checkout",
-        "Email": "career@cgilabgames.com",
+        "Email": "career@cgilabgames.com, luta.vladimir@cgilabgames.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4704850/",
         "Site": "https://cgilabgames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4704850/f7f2b52817048c307c0d0e701c200622d9ec8234/header.jpg?t=1778071076",
-        "Date": "2026",
-        "AddedDate": "2026-05-06",
-        "AddedTimestamp": 1778079188.4675992,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778138474.7646608,
         "MatchedTags": [
             "management",
             "economy"
@@ -52772,7 +52772,9 @@
         "AddedDate": "2026-05-06",
         "AddedTimestamp": 1778094300.575374,
         "MatchedTags": [
-            "horror"
+            "horror",
+            "psychological horror",
+            "survival horror"
         ]
     },
     "4596900": {
@@ -53158,6 +53160,49 @@
         "AddedTimestamp": 1778126973.9537024,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4629560": {
+        "Title": "Crypt Capers and Dungeon Dabblers",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4629560/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4629560/ecefce3534420c797f3f09964579f159028f2a53/header.jpg?t=1778129602",
+        "Date": "August 2026",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778138429.9741354,
+        "MatchedTags": [
+            "turn-based tactics"
+        ]
+    },
+    "4696040": {
+        "Title": "Always Summer Out Here",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4696040/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4696040/66aadcb4c84fe1626ffc886c2f944f6e14c00dfd/header.jpg?t=1778127277",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778138462.2553759,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4699110": {
+        "Title": "Crococo",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4699110/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4699110/6cea43b576a5b60b3b5c882ece0a45a44774c0d3/header.jpg?t=1778132870",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-07",
+        "AddedTimestamp": 1778138464.370691,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
