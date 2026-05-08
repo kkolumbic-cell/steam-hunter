@@ -41436,9 +41436,9 @@
         "URL": "https://store.steampowered.com/app/4523320/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4523320/bb0707518f15283353022b9b5e2367126e8d2615/header.jpg?t=1777064666",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1777068243.59155,
+        "Date": "May 8, 2026",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778271471.194991,
         "MatchedTags": [
             "strategy"
         ]
@@ -44764,9 +44764,9 @@
         "AddedDate": "2026-04-28",
         "AddedTimestamp": 1777396068.7844946,
         "MatchedTags": [
+            "strategy",
             "resource management",
-            "management",
-            "strategy"
+            "management"
         ]
     },
     "4638050": {
@@ -54601,6 +54601,80 @@
         "AddedTimestamp": 1778266099.119209,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "3997970": {
+        "Title": "Camelot Unchained",
+        "Email": "",
+        "Discord": "https://discord.gg/camelotunchained",
+        "URL": "https://store.steampowered.com/app/3997970/",
+        "Site": "https://www.camelotunchained.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3997970/3ca5aec02472b5dafea52527f8ced609f5175513/header.jpg?t=1778268826",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778271438.8927968,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4640620": {
+        "Title": "Flux Ascendant",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4640620/",
+        "Site": "https://www.instagram.com/flux_ascendant/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4640620/dd371e3f286c2f38725c828518d0098d74c84c7b/header.jpg?t=1778268925",
+        "Date": "2026",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778271509.978083,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4645450": {
+        "Title": "Exipath",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4645450/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4645450/c28b99710c3d826ea16ead4aba2dd7ecc42ca1fb/header.jpg?t=1778270602",
+        "Date": "2026",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778271513.916627,
+        "MatchedTags": [
+            "survival horror",
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4682130": {
+        "Title": "Arcane Rooms",
+        "Email": "info@ikusaotome.ch",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4682130/",
+        "Site": "https://www.ikusaotome.ch/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4682130/cf55fef44103f9e55bd5c7e9b8be470468821526/header.jpg?t=1778266957",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778271536.0735996,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4707290": {
+        "Title": "Master Fall",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4707290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4707290/bd1e1e2dceccbe7820acad406917f0e86106ec20/header.jpg?t=1778269919",
+        "Date": "Jun 30, 2026",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778271546.660645,
+        "MatchedTags": [
+            "strategy",
+            "horror",
+            "psychological horror"
         ]
     }
 }
