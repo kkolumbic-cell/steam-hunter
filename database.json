@@ -3737,9 +3737,9 @@
         "URL": "https://store.steampowered.com/app/4426740/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4426740/a377faf8f52ed2c77e1e40cb825313bb2dec1a45/header.jpg?t=1772920493",
-        "Date": "Apr 30, 2026",
-        "AddedDate": "2026-03-07",
-        "AddedTimestamp": 1772923349.4885623,
+        "Date": "Q2 2026",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778265986.0938034,
         "MatchedTags": [
             "real time tactics",
             "strategy",
@@ -19008,9 +19008,9 @@
         "URL": "https://store.steampowered.com/app/4554050/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4554050/3ad4e09e409715e39f95ea0b91656f61866fa711/header.jpg?t=1774967759",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-04-26",
-        "AddedTimestamp": 1777233573.5385706,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778266007.0216923,
         "MatchedTags": [
             "economy",
             "management"
@@ -24999,9 +24999,9 @@
         "URL": "https://store.steampowered.com/app/4582300/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4582300/5e20b0136d011b34885d54061b1e09d3135042af/header.jpg?t=1775662423",
-        "Date": "November 2026",
-        "AddedDate": "2026-05-06",
-        "AddedTimestamp": 1778086595.4392447,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778266014.9325888,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -38014,7 +38014,7 @@
     "4404480": {
         "Title": "Appalachian Onslaught",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/sZCGFRwm3r",
         "URL": "https://store.steampowered.com/app/4404480/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4404480/8a7b0018387635da64904fce52b120e5ce2ea311/header.jpg?t=1776842392",
@@ -53784,9 +53784,9 @@
         "URL": "https://store.steampowered.com/app/4707690/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4707690/9cc8d2d947998930683b7513bdfadf2bb660a5d7/header.jpg?t=1778176101",
-        "Date": "TBA",
-        "AddedDate": "2026-05-07",
-        "AddedTimestamp": 1778176943.6698053,
+        "Date": "To be announced",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778266094.079564,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -54428,9 +54428,9 @@
         "URL": "https://store.steampowered.com/app/4516830/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4516830/8b7f3341c81ebfed2de1d7ae1b0daee60ea536c6/header.jpg?t=1778252189",
-        "Date": "May 25, 2026",
+        "Date": "May 2026",
         "AddedDate": "2026-05-08",
-        "AddedTimestamp": 1778258856.08229,
+        "AddedTimestamp": 1778265998.8951964,
         "MatchedTags": [
             "horror"
         ]
@@ -54466,6 +54466,141 @@
             "economy",
             "management",
             "resource management"
+        ]
+    },
+    "4000460": {
+        "Title": "Dwarf Things",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4000460/",
+        "Site": "https://dwarfthings.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000460/13cc0aa9a5122864a45fc35cb3d2ad47a7d17d14/header.jpg?t=1778264337",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778265969.2327309,
+        "MatchedTags": [
+            "strategy",
+            "colony sim",
+            "base building",
+            "resource management"
+        ]
+    },
+    "4195890": {
+        "Title": "Heather's Haunted House Party",
+        "Email": "",
+        "Discord": "https://discord.gg/cJbcpzeuFW",
+        "URL": "https://store.steampowered.com/app/4195890/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4195890/2ed55f088162288e3c4a0d5965f1ccac339b20bf/header.jpg?t=1778260079",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778265971.3494892,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4623300": {
+        "Title": "Open Waters",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4623300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4623300/00567a32897cb2da0162fef88a61deadd1177991/header.jpg?t=1778265547",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778266030.3729324,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "4647040": {
+        "Title": "Geppetto's Nightmare",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4647040/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4647040/15351295f90713f034c617e92e2fd88dfe1d5c17/header.jpg?t=1778264739",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778266044.1264107,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4705310": {
+        "Title": "She Was King",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4705310/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4705310/b110424a6022f6f104bff2a8733846039807246b/header.jpg?t=1778265884",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778266077.6148393,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4706020": {
+        "Title": "PRO: Push React Outgun",
+        "Email": "",
+        "Discord": "https://discord.gg/QHHtdmjmhy",
+        "URL": "https://store.steampowered.com/app/4706020/",
+        "Site": "https://www.evagast.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4706020/7d2d019a13c2dcb53edce306f7a209b636c4c460/header.jpg?t=1778260612",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778266079.534176,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4707410": {
+        "Title": "Drunk Parking",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4707410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4707410/5a73f10aece03a44017e9b288d7f33dd73eb06d2/header.jpg?t=1778259668",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778266091.9648502,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4708230": {
+        "Title": "Tunnel Rot",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4708230/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4708230/464b39342d5154420782bb3860a748bb16d5e63e/header.jpg?t=1778260550",
+        "Date": "2026",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778266096.2546766,
+        "MatchedTags": [
+            "psychological horror",
+            "survival horror",
+            "horror"
+        ]
+    },
+    "4710290": {
+        "Title": "Pour Boy and the Nitro Necromancer",
+        "Email": "business@pourboycoffee.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4710290/",
+        "Site": "https://www.pourboycoffee.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4710290/ae0337b57f54e2fc8771669e5ffdedd2e423d64e/header.jpg?t=1778264685",
+        "Date": "Jun 1, 2026",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778266099.119209,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
