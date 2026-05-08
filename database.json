@@ -34570,9 +34570,9 @@
         "URL": "https://store.steampowered.com/app/4555220/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555220/3ea4bb8840f6d07c17d80be3eb10713a23c5c3fd/header.jpg?t=1776472764",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-18",
-        "AddedTimestamp": 1776483148.415949,
+        "Date": "May 10, 2026",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778220668.6487784,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -49156,9 +49156,9 @@
         "URL": "https://store.steampowered.com/app/4671380/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4671380/c3195a5ab8b2d8d36b9bf166f6db8c5bd26d0439/header.jpg?t=1777747133",
-        "Date": "To be announced",
-        "AddedDate": "2026-05-02",
-        "AddedTimestamp": 1777749642.5326953,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778220692.9002037,
         "MatchedTags": [
             "management",
             "resource management"
@@ -54221,6 +54221,51 @@
         "MatchedTags": [
             "management",
             "resource management"
+        ]
+    },
+    "4675590": {
+        "Title": "BOBA",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4675590/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4675590/9f1e47249c32ad824c5ef7454b9f1170b39bb2bb/header.jpg?t=1778212975",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778220695.4694934,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4700000": {
+        "Title": "Pichhal Peri",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4700000/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4700000/a6570f0148e3a50759841b744b3501eb248b2421/header.jpg?t=1778213630",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778220709.0350475,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4701930": {
+        "Title": "Caracol - Wars of Religion in the 17th Century",
+        "Email": "",
+        "Discord": "https://discord.gg/8gjGGCRtvt",
+        "URL": "https://store.steampowered.com/app/4701930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4701930/e083a16068b1d1db2fb14c3baf3220adbf955a5e/header.jpg?t=1778218830",
+        "Date": "2026",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778220711.7474995,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
         ]
     }
 }
