@@ -15001,12 +15001,13 @@
         "URL": "https://store.steampowered.com/app/4513510/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4513510/126add1bf4376d97a3456a701b99fa72f8557075/header.jpg?t=1774511140",
-        "Date": "June 2026",
-        "AddedDate": "2026-04-20",
-        "AddedTimestamp": 1776657232.1652627,
+        "Date": "July 2026",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778278351.0847168,
         "MatchedTags": [
             "psychological horror",
-            "horror"
+            "horror",
+            "management"
         ]
     },
     "4535860": {
@@ -40184,9 +40185,9 @@
         "URL": "https://store.steampowered.com/app/4623860/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4623860/337da92142f63f0892ae9a7cc9536ee5f7bffd5a/header.jpg?t=1776982101",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-23",
-        "AddedTimestamp": 1776985783.7523274,
+        "Date": "May 8, 2026",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778278393.2034585,
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
@@ -54675,6 +54676,39 @@
             "strategy",
             "horror",
             "psychological horror"
+        ]
+    },
+    "4414230": {
+        "Title": "Peace by Piece",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4414230/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4414230/7a2aadb95befa0029010a2d9be3b4e2c03a8fbd7/header.jpg?t=1778274050",
+        "Date": "2026",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778278342.357641,
+        "MatchedTags": [
+            "turn-based strategy",
+            "strategy",
+            "turn-based tactics",
+            "tactical",
+            "turn-based combat"
+        ]
+    },
+    "4694380": {
+        "Title": "Today Tomorrow and the Next",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4694380/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4694380/12b90282a00f6904ed5ff82871209bd9dc9991b9/header.jpg?t=1778275561",
+        "Date": "June 2026",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778278422.7898273,
+        "MatchedTags": [
+            "economy",
+            "resource management"
         ]
     }
 }
