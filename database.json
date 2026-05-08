@@ -12365,9 +12365,9 @@
         "URL": "https://store.steampowered.com/app/4523960/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4523960/e4f8a3e3c5587356affd294eb55e4e3da9b5122c/header.jpg?t=1774271462",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-21",
-        "AddedTimestamp": 1776815562.8174548,
+        "Date": "May 8, 2026",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778240822.2419267,
         "MatchedTags": [
             "strategy"
         ]
@@ -36481,9 +36481,9 @@
         "URL": "https://store.steampowered.com/app/4629980/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4629980/c2397e07760cbab7143f8a018507f75c8f789292/header.jpg?t=1776733197",
-        "Date": "May 6, 2026",
-        "AddedDate": "2026-04-21",
-        "AddedTimestamp": 1776743392.37245,
+        "Date": "May 8, 2026",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778240851.6065183,
         "MatchedTags": [
             "horror"
         ]
@@ -41652,9 +41652,9 @@
         "URL": "https://store.steampowered.com/app/4650990/",
         "Site": "https://kornuxindustries.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4650990/14d2f3edb1d20d237718d501db92a9e27bb67b9f/header.jpg?t=1777068764",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-28",
-        "AddedTimestamp": 1777402523.6456368,
+        "Date": "May 8, 2026",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778240859.2190118,
         "MatchedTags": [
             "economy",
             "resource management"
@@ -54284,6 +54284,52 @@
             "management",
             "base building",
             "economy"
+        ]
+    },
+    "4434050": {
+        "Title": "Corporate Climb",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4434050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4434050/d08f51f441eaa72287553b6dae8abfe463cc050b/header.jpg?t=1778237078",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778240814.0402837,
+        "MatchedTags": [
+            "strategy",
+            "horror"
+        ]
+    },
+    "4693140": {
+        "Title": "Rebirth: Denied Protocol",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4693140/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4693140/a5618a256c2c4d7d3efc19f7f113bef42dd9464c/header.jpg?t=1778234572",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778240871.990917,
+        "MatchedTags": [
+            "survival horror",
+            "horror",
+            "resource management",
+            "strategy"
+        ]
+    },
+    "4708680": {
+        "Title": "Otpisani: Nightingale",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4708680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4708680/5017fa70d0ee1af05b95ed48d992b6fb85e4da9d/header.jpg?t=1778234801",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778240879.9358447,
+        "MatchedTags": [
+            "psychological horror"
         ]
     }
 }
