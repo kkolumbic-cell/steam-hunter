@@ -45457,8 +45457,7 @@
         "AddedDate": "2026-04-29",
         "AddedTimestamp": 1777444861.3168633,
         "MatchedTags": [
-            "tower defense",
-            "strategy"
+            "tower defense"
         ]
     },
     "3937180": {
@@ -48067,7 +48066,7 @@
         "Email": "",
         "Discord": "https://discord.gg/bKXJmyarsr",
         "URL": "https://store.steampowered.com/app/3240110/",
-        "Site": "",
+        "Site": "https://www.techturtlesgames.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240110/6ec8921b670406f2d9e43a4d819185023c452e31/header.jpg?t=1777641951",
         "Date": "2026",
         "AddedDate": "2026-05-01",
@@ -49057,9 +49056,8 @@
         "AddedDate": "2026-05-02",
         "AddedTimestamp": 1777711557.7551923,
         "MatchedTags": [
-            "strategy",
             "horror",
-            "turn-based combat",
+            "strategy",
             "psychological horror"
         ]
     },
@@ -50075,9 +50073,9 @@
         "URL": "https://store.steampowered.com/app/4662140/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4662140/da32e215153aabb5616544b34234c5adb92e795d/header.jpg?t=1777915072",
-        "Date": "July 2026",
-        "AddedDate": "2026-05-04",
-        "AddedTimestamp": 1777917333.4984334,
+        "Date": "December 2026",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778198946.8204315,
         "MatchedTags": [
             "strategy"
         ]
@@ -54055,6 +54053,36 @@
         "AddedTimestamp": 1778193159.7850792,
         "MatchedTags": [
             "psychological horror"
+        ]
+    },
+    "4699480": {
+        "Title": "Tenebrix",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4699480/",
+        "Site": "https://tenebrix.store",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4699480/19ecdd9bd053176af64a95677aa8700f56b8ebfd/header.jpg?t=1778194666",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778198957.0715427,
+        "MatchedTags": [
+            "tactical",
+            "strategy"
+        ]
+    },
+    "4699620": {
+        "Title": "The Cypress Family : Surprise Gift",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4699620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4699620/180d96242a7d20cb4cde6a07d970761708eb5141/header.jpg?t=1778194070",
+        "Date": "May 21, 2026",
+        "AddedDate": "2026-05-08",
+        "AddedTimestamp": 1778198959.8068838,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
         ]
     }
 }
