@@ -10862,7 +10862,7 @@
         "AddedDate": "2026-04-13",
         "AddedTimestamp": 1776077851.9932919,
         "MatchedTags": [
-            "strategy",
+            "management",
             "resource management"
         ]
     },
@@ -15269,12 +15269,7 @@
         "AddedDate": "2026-03-26",
         "AddedTimestamp": 1774539798.8757355,
         "MatchedTags": [
-            "strategy",
-            "turn-based tactics",
-            "turn-based strategy",
-            "turn-based combat",
-            "management",
-            "tactical"
+            "strategy"
         ]
     },
     "4530640": {
@@ -38279,9 +38274,9 @@
         "URL": "https://store.steampowered.com/app/4363230/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4363230/546711ccd114fcd1b3f3e3f23322b97c301e0ab8/header.jpg?t=1776870958",
-        "Date": "Aug 31, 2026",
-        "AddedDate": "2026-04-29",
-        "AddedTimestamp": 1777454820.1500247,
+        "Date": "August 2026",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778328148.209255,
         "MatchedTags": [
             "turn-based strategy",
             "strategy",
@@ -39009,9 +39004,9 @@
         "URL": "https://store.steampowered.com/app/4615810/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4615810/077b320b23c221af149c2de13654104de3f959f6/header.jpg?t=1776903298",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-23",
-        "AddedTimestamp": 1776916201.8172736,
+        "Date": "May 9, 2026",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778328171.6498237,
         "MatchedTags": [
             "strategy"
         ]
@@ -55038,6 +55033,80 @@
             "survival horror",
             "horror",
             "psychological horror"
+        ]
+    },
+    "4443400": {
+        "Title": "This Flash Contains Horrors",
+        "Email": "",
+        "Discord": "https://discord.gg/jg3NAHmkc5",
+        "URL": "https://store.steampowered.com/app/4443400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4443400/acb4c3fd56c5d523d3563de0a5116d5b3180dc3e/header.jpg?t=1778326208",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778328155.9408934,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4653310": {
+        "Title": "\u77f3\u4e2d\u5251",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4653310/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4653310/fceeaa160d69ab80caceee0496258a8c57c1e5dc/header.jpg?t=1778322037",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778328187.6397123,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4660360": {
+        "Title": "Pass the Mask!",
+        "Email": "contact@immetastudios.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4660360/",
+        "Site": "https://immetastudios.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4660360/71f23e6c1cf8046d0277c069ca0a5e037baadb98/header.jpg?t=1778324313",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778328190.6983075,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4705870": {
+        "Title": "Single Note",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4705870/",
+        "Site": "https://www.fanjoystudio.online",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4705870/afa8e0a2bf302a6589076faee10f53acc99b144c/header.jpg?t=1778323783",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778328207.6506424,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4711990": {
+        "Title": "Atlas Zone",
+        "Email": "",
+        "Discord": "https://discord.gg/UnZJ66Ty",
+        "URL": "https://store.steampowered.com/app/4711990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4711990/316673321d9f86363f2c6745bb768f8240552dd2/header.jpg?t=1778325447",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778328212.9108145,
+        "MatchedTags": [
+            "resource management",
+            "tactical",
+            "management",
+            "strategy"
         ]
     }
 }
