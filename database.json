@@ -13777,9 +13777,9 @@
         "URL": "https://store.steampowered.com/app/4432910/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4432910/9a46eb599e436028099b32580009494dfd6f3323/header.jpg?t=1774405350",
-        "Date": "Dec 31, 2026",
-        "AddedDate": "2026-03-25",
-        "AddedTimestamp": 1774408845.0127125,
+        "Date": "2026",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778346928.1774561,
         "MatchedTags": [
             "resource management"
         ]
@@ -54349,9 +54349,9 @@
         "URL": "https://store.steampowered.com/app/4523780/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4523780/9da6672a0ed994b19395283950a0022251d8b78d/header.jpg?t=1778245677",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-08",
-        "AddedTimestamp": 1778249929.766976,
+        "Date": "September 2026",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778346933.5964437,
         "MatchedTags": [
             "horror"
         ]
@@ -55222,6 +55222,21 @@
             "strategy",
             "management",
             "resource management"
+        ]
+    },
+    "4616950": {
+        "Title": "Haunt & Hide",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4616950/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4616950/ebf761e9fe2fa5979362444d5104cb14238052b4/header.jpg?t=1778345005",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778346947.720268,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
