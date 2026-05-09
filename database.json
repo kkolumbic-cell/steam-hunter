@@ -16682,9 +16682,9 @@
         "URL": "https://store.steampowered.com/app/4538660/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4538660/1804f70504d8d4dd75a0bc8769f77062a054fbe2/header.jpg?t=1774649348",
-        "Date": "2026",
-        "AddedDate": "2026-05-03",
-        "AddedTimestamp": 1777820831.239107,
+        "Date": "August 2026",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778355331.5379536,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -32214,8 +32214,8 @@
         "AddedTimestamp": 1776290808.2038696,
         "MatchedTags": [
             "turn-based tactics",
-            "tactical",
-            "strategy"
+            "strategy",
+            "tactical"
         ]
     },
     "4605380": {
@@ -52882,7 +52882,7 @@
     },
     "4653910": {
         "Title": "Bone Stuff",
-        "Email": "support@kaznos.com, press@kaznos.com, business@kaznos.com",
+        "Email": "business@kaznos.com, press@kaznos.com, support@kaznos.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4653910/",
         "Site": "https://www.kaznos.com/tr",
@@ -55252,6 +55252,34 @@
         "MatchedTags": [
             "strategy",
             "real time tactics"
+        ]
+    },
+    "3906280": {
+        "Title": "Anubria",
+        "Email": "",
+        "Discord": "https://discord.gg/PeTGc9NhTN",
+        "URL": "https://store.steampowered.com/app/3906280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3906280/ea1cfb029abc5a9fdf288e78d2fabed7b00ad4d0/header.jpg?t=1778350551",
+        "Date": "2026",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778355315.7172744,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4705520": {
+        "Title": "Escape This",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4705520/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4705520/b44bc02988b84e90848fcc475530c6b6ee4ac228/header.jpg?t=1778352677",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778355369.0863423,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
