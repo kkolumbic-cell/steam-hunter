@@ -8637,7 +8637,7 @@
     "4465990": {
         "Title": "State of Command",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/CvqWhgYpvx",
         "URL": "https://store.steampowered.com/app/4465990/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4465990/71146582eff84f79de40288940afbc08616b3156/header.jpg?t=1773695513",
@@ -55237,6 +55237,21 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4195160": {
+        "Title": "Iron & Ivory",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4195160/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4195160/fb10ead2d7f3fa90359f891525069f2e863c79c8/header.jpg?t=1778349581",
+        "Date": "May 18, 2026",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778350155.0651195,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics"
         ]
     }
 }
