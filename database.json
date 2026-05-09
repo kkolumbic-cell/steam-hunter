@@ -11992,9 +11992,9 @@
         "URL": "https://store.steampowered.com/app/4524940/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4524940/e22b0f3e5ef011175cafb045ef75ef0eb61eab2f/header.jpg?t=1774118118",
-        "Date": "2026",
-        "AddedDate": "2026-04-25",
-        "AddedTimestamp": 1777144383.1639278,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778316826.640375,
         "MatchedTags": [
             "management",
             "strategy",
@@ -24486,7 +24486,7 @@
     },
     "4536610": {
         "Title": "City Masterplan",
-        "Email": "recruit@citymasterplan.com, contact@citymasterplan.com",
+        "Email": "contact@citymasterplan.com, recruit@citymasterplan.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4536610/",
         "Site": "https://citymasterplan.com/",
@@ -27164,7 +27164,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4572290/",
-        "Site": "",
+        "Site": "https://devofone.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4572290/dbdf3086afea1f4911e8efaac32470c4aa8f2258/header.jpg?t=1775793984",
         "Date": "Jul 10, 2026",
         "AddedDate": "2026-04-10",
@@ -31139,7 +31139,7 @@
     "4368640": {
         "Title": "DIG Raiders: Anomaly Extraction",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/BEwAdXWPDj",
         "URL": "https://store.steampowered.com/app/4368640/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4368640/071e2de117da740e84e2ff594b964be232d7e929/header.jpg?t=1776219386",
@@ -31838,7 +31838,7 @@
     "4595350": {
         "Title": "\u9694\u79bb\u8fb9\u7f18 Isolation Edge",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/W4KQ9WBzzU",
         "URL": "https://store.steampowered.com/app/4595350/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4595350/30cbad5126680e8e316b1749d3490cd05202454a/header.jpg?t=1776272377",
@@ -40733,7 +40733,7 @@
     },
     "4625290": {
         "Title": "Incident Archives - Flight 882",
-        "Email": "business@astronixgames.com, hello@astronixgames.com, support@astronixgames.com",
+        "Email": "business@astronixgames.com, support@astronixgames.com, hello@astronixgames.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4625290/",
         "Site": "https://www.astronixgames.com/",
@@ -54975,6 +54975,69 @@
         "MatchedTags": [
             "survival horror",
             "horror"
+        ]
+    },
+    "4461020": {
+        "Title": "Factory on a Train",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4461020/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4461020/fe7d57407c115499112c7f8c2b59656683e3fde2/header.jpg?t=1778308925",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778316816.3979585,
+        "MatchedTags": [
+            "base building",
+            "resource management",
+            "strategy",
+            "management",
+            "city builder"
+        ]
+    },
+    "4550430": {
+        "Title": "The Manaworks",
+        "Email": "",
+        "Discord": "https://discord.gg/vt5jP5DH",
+        "URL": "https://store.steampowered.com/app/4550430/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4550430/30b345d83403eef42c93c2395b3e0e2a630c2f64/header.jpg?t=1778314491",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778316835.8691623,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4674130": {
+        "Title": "The Lakeview Orb 2: Consequences",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4674130/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4674130/ccc7de95c7cba8d3f5295f72de253091b5dcd018/header.jpg?t=1778314232",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778316861.075273,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4701900": {
+        "Title": "Encroaching Shadows",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4701900/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4701900/d2f37057f80e3407956e3bc55d2053ca68dc8aa6/header.jpg?t=1778310823",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778316871.1935852,
+        "MatchedTags": [
+            "survival horror",
+            "horror",
+            "psychological horror"
         ]
     }
 }
