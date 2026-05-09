@@ -6251,9 +6251,9 @@
         "URL": "https://store.steampowered.com/app/4424080/",
         "Site": "https://www.youtube.com/@KorkaiGames",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4424080/261220ad5f0321a797f33efeeff125fffa829eb0/header.jpg?t=1773292386",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-04-13",
-        "AddedTimestamp": 1776061677.263468,
+        "Date": "Jul 5, 2026",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778308102.9659362,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -32404,7 +32404,8 @@
         "AddedDate": "2026-05-03",
         "AddedTimestamp": 1777842273.388041,
         "MatchedTags": [
-            "strategy"
+            "strategy",
+            "management"
         ]
     },
     "4462560": {
@@ -35891,11 +35892,11 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4628600/",
-        "Site": "",
+        "Site": "https://github.com/ssknaoya/autonomous-warfare",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4628600/aec2eec8ffe546386384ba2e2bb134ef126d3146/header.jpg?t=1776699859",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-20",
-        "AddedTimestamp": 1776700188.4797719,
+        "Date": "May 8, 2026",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778308143.7630188,
         "MatchedTags": [
             "strategy",
             "real time tactics",
@@ -50180,9 +50181,9 @@
         "AddedDate": "2026-05-04",
         "AddedTimestamp": 1777924645.5316586,
         "MatchedTags": [
-            "horror",
             "survival horror",
-            "base building"
+            "base building",
+            "horror"
         ]
     },
     "4509630": {
@@ -52886,7 +52887,7 @@
     },
     "4653910": {
         "Title": "Bone Stuff",
-        "Email": "support@kaznos.com, business@kaznos.com, press@kaznos.com",
+        "Email": "support@kaznos.com, press@kaznos.com, business@kaznos.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4653910/",
         "Site": "https://www.kaznos.com/tr",
@@ -54864,6 +54865,115 @@
         "AddedTimestamp": 1778299244.7841003,
         "MatchedTags": [
             "tactical",
+            "horror"
+        ]
+    },
+    "4500460": {
+        "Title": "What The Dog Remembers",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4500460/",
+        "Site": "https://nullcomma.com/project/what-the-dog-remembers",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4500460/0ed4a1a2a5a4506ba5a8a5c9ee9bf0ec859755c8/header.jpg?t=1778300148",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778308110.2015696,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4532330": {
+        "Title": "Into the deep end",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4532330/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4532330/82d2f137b05f88ee293bdb8b10f2f2b3f607ee88/header.jpg?t=1778299837",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778308118.5717347,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4535650": {
+        "Title": "Dacan Express: Logistic manager",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4535650/",
+        "Site": "https://dacan-express-web.vercel.app",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4535650/330d38e875b7b4b5b322978b4843f62c72ecd1d5/header.jpg?t=1778301813",
+        "Date": "Aug 2, 2026",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778308121.0392394,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "strategy",
+            "grand strategy",
+            "real time tactics",
+            "base building"
+        ]
+    },
+    "4595160": {
+        "Title": "Hold the Keep",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4595160/",
+        "Site": "https://bemigamestudios.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4595160/8d266ed03dca3c8eedbea886247be5e6944ecf47/header.jpg?t=1778307084",
+        "Date": "Jun 2, 2026",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778308129.6419437,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tower defense"
+        ]
+    },
+    "4609210": {
+        "Title": "Portens: Chapter 1",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4609210/",
+        "Site": "https://www.portensgame.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4609210/939bfcba3d55109d3d9cdcf2b7877738fc24c7c1/header.jpg?t=1778303662",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778308135.2783446,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4695640": {
+        "Title": "STATION 07",
+        "Email": "",
+        "Discord": "https://discord.gg/EdNjVcSdbP",
+        "URL": "https://store.steampowered.com/app/4695640/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4695640/a263c35c90de76f423a54617818bdb2926625997/header.jpg?t=1778304915",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778308164.894936,
+        "MatchedTags": [
+            "tower defense"
+        ]
+    },
+    "4710730": {
+        "Title": "ClockOut",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4710730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4710730/a8465cdf33cbaa9195e4eb2586e4a8ffe8a3223b/header.jpg?t=1778303099",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-09",
+        "AddedTimestamp": 1778308177.2929304,
+        "MatchedTags": [
+            "survival horror",
             "horror"
         ]
     }
