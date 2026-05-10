@@ -31098,7 +31098,9 @@
         "AddedTimestamp": 1777002813.1839411,
         "MatchedTags": [
             "strategy",
-            "resource management"
+            "resource management",
+            "management",
+            "colony sim"
         ]
     },
     "4554950": {
@@ -55280,6 +55282,22 @@
         "AddedTimestamp": 1778355369.0863423,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4568060": {
+        "Title": "Click Build Repeat",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4568060/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4568060/20457c5c862b69b6320069d1cb13e0063c44eb8c/header.jpg?t=1778370364",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-10",
+        "AddedTimestamp": 1778371594.9152517,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "resource management"
         ]
     }
 }
