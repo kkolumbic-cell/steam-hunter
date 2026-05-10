@@ -24461,7 +24461,8 @@
         "AddedDate": "2026-04-07",
         "AddedTimestamp": 1775606120.8781424,
         "MatchedTags": [
-            "survival horror"
+            "survival horror",
+            "psychological horror"
         ]
     },
     "4405800": {
@@ -34966,9 +34967,9 @@
         "URL": "https://store.steampowered.com/app/4624130/",
         "Site": "https://eldryngard.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4624130/87dd665f87d2a7ccfe51e537bbf37879974869e7/header.jpg?t=1776520921",
-        "Date": "2026",
-        "AddedDate": "2026-04-20",
-        "AddedTimestamp": 1776657311.514675,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-10",
+        "AddedTimestamp": 1778406577.2004967,
         "MatchedTags": [
             "strategy"
         ]
@@ -38021,10 +38022,10 @@
         "AddedDate": "2026-04-22",
         "AddedTimestamp": 1776845382.4562793,
         "MatchedTags": [
-            "tower defense",
-            "horror",
             "strategy",
-            "base building"
+            "tower defense",
+            "base building",
+            "horror"
         ]
     },
     "4634560": {
@@ -42330,7 +42331,7 @@
     },
     "4635890": {
         "Title": "Night Guard - The Last Shift",
-        "Email": "contact@cubytegames.com, support@cubytegames.com",
+        "Email": "support@cubytegames.com, contact@cubytegames.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4635890/",
         "Site": "https://www.cubytegames.com/",
@@ -55347,6 +55348,54 @@
             "tactical rpg",
             "base building",
             "tactical"
+        ]
+    },
+    "4524550": {
+        "Title": "Stoneborn",
+        "Email": "",
+        "Discord": "https://discord.gg/6UVmERJ83r",
+        "URL": "https://store.steampowered.com/app/4524550/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4524550/3987479fa9eebfb51392b997ac1867ef0a2e9fa8/header.jpg?t=1778404277",
+        "Date": "TBA",
+        "AddedDate": "2026-05-10",
+        "AddedTimestamp": 1778406563.072298,
+        "MatchedTags": [
+            "colony sim",
+            "strategy",
+            "base building"
+        ]
+    },
+    "4638450": {
+        "Title": "Civilize",
+        "Email": "",
+        "Discord": "https://discord.gg/tP6uQy438k",
+        "URL": "https://store.steampowered.com/app/4638450/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4638450/5d6c3c29c7a86631c89507e3b0bc35ab524795ea/header.jpg?t=1778401690",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-10",
+        "AddedTimestamp": 1778406583.184632,
+        "MatchedTags": [
+            "city builder",
+            "resource management",
+            "strategy",
+            "economy",
+            "management"
+        ]
+    },
+    "4646050": {
+        "Title": "No.13813",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4646050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4646050/b4abc275e3a694dfe7a7bc863f5f0f7534c71de2/header.jpg?t=1778402394",
+        "Date": "May 24, 2026",
+        "AddedDate": "2026-05-10",
+        "AddedTimestamp": 1778406586.3547835,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
