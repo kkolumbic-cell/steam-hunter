@@ -4001,9 +4001,9 @@
         "URL": "https://store.steampowered.com/app/4125760/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4125760/fab7adfcdc6f253da33bcde712ec8ff1f66e6938/header.jpg?t=1773024345",
-        "Date": "2027",
-        "AddedDate": "2026-05-07",
-        "AddedTimestamp": 1778150122.1907504,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-10",
+        "AddedTimestamp": 1778386645.443645,
         "MatchedTags": [
             "strategy",
             "tactical"
@@ -46371,7 +46371,7 @@
     },
     "4089670": {
         "Title": "Idle Starfleet",
-        "Email": "u003efunsterz.dev@gmail.com, u003efunsterz.main@gmail.com",
+        "Email": "u003efunsterz.main@gmail.com, u003efunsterz.dev@gmail.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4089670/",
         "Site": "https://zampia.net",
@@ -52591,9 +52591,9 @@
         "URL": "https://store.steampowered.com/app/4698340/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4698340/c98f62a155b7595c7418021dba8a5c49c7f8d2fb/header.jpg?t=1778086411",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-06",
-        "AddedTimestamp": 1778086695.439735,
+        "Date": "June 2026",
+        "AddedDate": "2026-05-10",
+        "AddedTimestamp": 1778386695.5280726,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -55298,6 +55298,55 @@
             "management",
             "economy",
             "resource management"
+        ]
+    },
+    "4374530": {
+        "Title": "Keep It Up!",
+        "Email": "",
+        "Discord": "https://discord.gg/CQtetCrGpA",
+        "URL": "https://store.steampowered.com/app/4374530/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4374530/4dbca015680720b823f3c037d7c9abf9e282cecd/header.jpg?t=1778385988",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-10",
+        "AddedTimestamp": 1778386647.8494837,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4535380": {
+        "Title": "War of the Damned",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4535380/",
+        "Site": "https://warofthedamned.com/inicio",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4535380/669d1fdea16570b70e709a0a40a0bf978cd8216e/header.jpg?t=1778384967",
+        "Date": "May 11, 2026",
+        "AddedDate": "2026-05-10",
+        "AddedTimestamp": 1778386662.2481575,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based combat",
+            "tactical rpg",
+            "tactical"
+        ]
+    },
+    "4572280": {
+        "Title": "Survival Mission",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4572280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4572280/50971ecb97d119afd75d7d6fef5feb4573f24c88/header.jpg?t=1778382793",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-10",
+        "AddedTimestamp": 1778386670.0184035,
+        "MatchedTags": [
+            "real time tactics",
+            "tactical rpg",
+            "base building",
+            "tactical"
         ]
     }
 }
