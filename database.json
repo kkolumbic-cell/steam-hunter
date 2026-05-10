@@ -10517,9 +10517,9 @@
         "URL": "https://store.steampowered.com/app/4213880/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4213880/5275b35d075331f0b9b9e0f5540432f01484797f/header.jpg?t=1773898600",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-16",
-        "AddedTimestamp": 1776358202.1486135,
+        "Date": "May 15, 2026",
+        "AddedDate": "2026-05-10",
+        "AddedTimestamp": 1778433297.6847887,
         "MatchedTags": [
             "psychological horror",
             "horror",
@@ -36509,16 +36509,16 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4637330/",
-        "Site": "",
+        "Site": "http://gsjq.appultra.cn/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4637330/70aa7a272feb9f3cab123b654668efdca4d713a3/header.jpg?t=1776741567",
         "Date": "Coming soon",
         "AddedDate": "2026-04-22",
         "AddedTimestamp": 1776886904.0142403,
         "MatchedTags": [
+            "economy",
             "strategy",
             "city builder",
-            "management",
-            "economy"
+            "management"
         ]
     },
     "4640600": {
@@ -48328,9 +48328,9 @@
         "URL": "https://store.steampowered.com/app/4689930/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4689930/8832a5ea632e379f3115ec9ce25ed3187be48d15/header.jpg?t=1777648233",
-        "Date": "June 2026",
-        "AddedDate": "2026-05-02",
-        "AddedTimestamp": 1777711568.0559976,
+        "Date": "December 2026",
+        "AddedDate": "2026-05-10",
+        "AddedTimestamp": 1778433342.9030197,
         "MatchedTags": [
             "resource management",
             "strategy",
@@ -50105,8 +50105,7 @@
         "AddedDate": "2026-05-04",
         "AddedTimestamp": 1777917347.2623563,
         "MatchedTags": [
-            "tactical",
-            "strategy"
+            "tactical"
         ]
     },
     "4689640": {
@@ -55459,6 +55458,21 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4686660": {
+        "Title": "Call of Toys: Tower Defense",
+        "Email": "support@bakartgames.com",
+        "Discord": "https://discord.gg/9DqewsyA",
+        "URL": "https://store.steampowered.com/app/4686660/",
+        "Site": "http://www.bakartgames.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4686660/52f29e3d18bb98821ef65b9c747d548bcf2c62f2/header.jpg?t=1778433175",
+        "Date": "May 15, 2026",
+        "AddedDate": "2026-05-10",
+        "AddedTimestamp": 1778433335.9738636,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
         ]
     }
 }
