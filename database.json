@@ -34458,9 +34458,9 @@
         "URL": "https://store.steampowered.com/app/4634140/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4634140/b28d8ac933dd509214a569449dfb13f9a14d011d/header.jpg?t=1776455299",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-17",
-        "AddedTimestamp": 1776459983.34722,
+        "Date": "May 11, 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778523103.930747,
         "MatchedTags": [
             "tactical rpg",
             "turn-based tactics",
@@ -38870,9 +38870,9 @@
         "URL": "https://store.steampowered.com/app/4632470/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4632470/5499350a713cade7f53ceddc52fa65661d0c3f39/header.jpg?t=1776900530",
-        "Date": "Jul 2, 2026",
-        "AddedDate": "2026-04-23",
-        "AddedTimestamp": 1776902670.421209,
+        "Date": "Jun 15, 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778523098.67904,
         "MatchedTags": [
             "tactical rpg"
         ]
@@ -41007,9 +41007,9 @@
         "URL": "https://store.steampowered.com/app/4445900/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4445900/d0ce780272813a1d5d1b1bab1f21665b000f1039/header.jpg?t=1777049751",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1777050922.5933087,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778523060.789173,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -44196,9 +44196,9 @@
         "URL": "https://store.steampowered.com/app/4614800/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4614800/0994729b107a04dbad588b196b2a53d535b54b1c/header.jpg?t=1777350312",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-28",
-        "AddedTimestamp": 1777358841.1854227,
+        "Date": "May 11, 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778523092.9249237,
         "MatchedTags": [
             "management",
             "strategy",
@@ -55735,6 +55735,37 @@
             "management",
             "economy",
             "base building"
+        ]
+    },
+    "4449030": {
+        "Title": "File Tower Defence",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4449030/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4449030/e7dd162fb3a46879e2e887025af59e84e013fa65/header.jpg?t=1778521125",
+        "Date": "Jul 1, 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778523063.7663028,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "4704580": {
+        "Title": "The Hunter's Inn",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4704580/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4704580/a1a010b1586f78c971eb035baa63e02ea6f3bb74/header.jpg?t=1778518917",
+        "Date": "2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778523138.5780516,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
         ]
     }
 }
