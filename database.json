@@ -20909,9 +20909,9 @@
         "URL": "https://store.steampowered.com/app/3920990/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3920990/cf662739fb4cc70595990a8b195ddfb7cb30e15a/header.jpg?t=1775113604",
-        "Date": "June 2026",
-        "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775115735.8959816,
+        "Date": "Jun 24, 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778474297.1926787,
         "MatchedTags": [
             "horror"
         ]
@@ -23647,9 +23647,9 @@
         "URL": "https://store.steampowered.com/app/4510990/",
         "Site": "https://www.acedstudios.com.au",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4510990/eb59a0242332f2bf3a7041a1daf8b42ca0bbfcc8/header.jpg?t=1775519586",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775532768.740662,
+        "Date": "2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778474312.312792,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -26705,9 +26705,9 @@
         "URL": "https://store.steampowered.com/app/4140440/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4140440/603f990e96c51a852a2195380b5034caefa0b17a/header.jpg?t=1775770890",
-        "Date": "May 2026",
-        "AddedDate": "2026-05-01",
-        "AddedTimestamp": 1777669766.3290315,
+        "Date": "May 10, 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778474299.6125877,
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
@@ -34571,8 +34571,8 @@
         "AddedDate": "2026-05-08",
         "AddedTimestamp": 1778220668.6487784,
         "MatchedTags": [
-            "horror",
-            "psychological horror"
+            "psychological horror",
+            "horror"
         ]
     },
     "4607240": {
@@ -40916,8 +40916,8 @@
         "AddedDate": "2026-04-24",
         "AddedTimestamp": 1777045221.1812718,
         "MatchedTags": [
-            "horror",
             "psychological horror",
+            "horror",
             "survival horror"
         ]
     },
@@ -49382,7 +49382,7 @@
         "AddedDate": "2026-05-03",
         "AddedTimestamp": 1777824167.0065517,
         "MatchedTags": [
-            "turn-based combat"
+            "strategy"
         ]
     },
     "4559680": {
@@ -50323,9 +50323,9 @@
         "URL": "https://store.steampowered.com/app/4637070/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4637070/a54a1d0d5567880777f73f168037dc614ede0ff2/header.jpg?t=1777925587",
-        "Date": "May 15, 2026",
-        "AddedDate": "2026-05-04",
-        "AddedTimestamp": 1777930364.8056211,
+        "Date": "May 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778474370.9890816,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -54022,7 +54022,7 @@
     },
     "4699480": {
         "Title": "Tenebrix",
-        "Email": "",
+        "Email": "press@tenebrix.store",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4699480/",
         "Site": "https://tenebrix.store",
@@ -55481,6 +55481,79 @@
         "AddedDate": "2026-05-10",
         "AddedTimestamp": 1778441751.7092116,
         "MatchedTags": [
+            "turn-based tactics"
+        ]
+    },
+    "4434670": {
+        "Title": "Chattini Jetpack Project: A Hololive Fan Game",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4434670/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4434670/6ea50463403e720a752b030e0d13bb7cd2b59d5f/header.jpg?t=1778468208",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778474304.131736,
+        "MatchedTags": [
+            "colony sim",
+            "resource management"
+        ]
+    },
+    "4562750": {
+        "Title": "Dungeon Sweeper Plus",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4562750/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4562750/4f579afbc817f5e427a20d14670a301e44e0ccb7/header.jpg?t=1778462949",
+        "Date": "2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778474340.2836156,
+        "MatchedTags": [
+            "city builder"
+        ]
+    },
+    "4638990": {
+        "Title": "FRAIL",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4638990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4638990/84cc01cf40ae3e3604da407e5b38807299a1b9b5/header.jpg?t=1778462871",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778474374.3408759,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4648360": {
+        "Title": "Savior Method",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4648360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4648360/c1fe6ace70586e7eb06c858888b79424f130e7a4/header.jpg?t=1778467168",
+        "Date": "May 24, 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778474390.6066318,
+        "MatchedTags": [
+            "real time tactics"
+        ]
+    },
+    "4667260": {
+        "Title": "Prison Queen",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4667260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4667260/10375fe881a561636e0de621e2d7213898fb21b0/header.jpg?t=1778464527",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778474400.3742547,
+        "MatchedTags": [
+            "turn-based strategy",
             "turn-based tactics"
         ]
     }
