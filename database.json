@@ -8798,9 +8798,9 @@
         "URL": "https://store.steampowered.com/app/4321640/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4321640/14d4e04f2c50ad71fb51115cebc623281d5a29fe/header.jpg?t=1773725819",
-        "Date": "August 2026",
-        "AddedDate": "2026-03-17",
-        "AddedTimestamp": 1773728076.0784855,
+        "Date": "2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778488695.591246,
         "MatchedTags": [
             "strategy"
         ]
@@ -42931,9 +42931,9 @@
         "URL": "https://store.steampowered.com/app/4660730/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4660730/086affce92aa03a8366053847f470eda60dd4eef/header.jpg?t=1777298573",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-27",
-        "AddedTimestamp": 1777300231.2603567,
+        "Date": "May 11, 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778488772.38772,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -43861,9 +43861,9 @@
         "URL": "https://store.steampowered.com/app/4655050/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4655050/510a0ba3eeddf02ea37a1c39c4efac7f49643f30/header.jpg?t=1777331772",
-        "Date": "May 10, 2026",
-        "AddedDate": "2026-04-28",
-        "AddedTimestamp": 1777334984.3816326,
+        "Date": "May 11, 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778488770.041964,
         "MatchedTags": [
             "strategy",
             "grand strategy",
@@ -43891,9 +43891,9 @@
         "URL": "https://store.steampowered.com/app/2558850/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2558850/98b079d901ba5a9700018041c5bd43de24f60519/header.jpg?t=1777339362",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-05",
-        "AddedTimestamp": 1777953090.081342,
+        "Date": "May 11, 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778488680.296363,
         "MatchedTags": [
             "strategy",
             "economy"
@@ -44060,9 +44060,9 @@
         "URL": "https://store.steampowered.com/app/4612480/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4612480/737165bb0f1bcd05490c439f2df521b3f40e79f4/header.jpg?t=1777342527",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-28",
-        "AddedTimestamp": 1777369043.5187793,
+        "Date": "May 11, 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778488759.013229,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -44651,9 +44651,10 @@
         "AddedDate": "2026-04-28",
         "AddedTimestamp": 1777395984.6315007,
         "MatchedTags": [
-            "strategy",
             "resource management",
+            "strategy",
             "management",
+            "economy",
             "city builder",
             "tower defense"
         ]
@@ -55555,6 +55556,56 @@
         "MatchedTags": [
             "turn-based strategy",
             "turn-based tactics"
+        ]
+    },
+    "4481420": {
+        "Title": "Vambina",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4481420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4481420/5be66e39bddd5fc84499f3120e0978d5ef6e71bc/header.jpg?t=1778476097",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778488712.352273,
+        "MatchedTags": [
+            "survival horror"
+        ]
+    },
+    "4631420": {
+        "Title": "blackMarket",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4631420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4631420/649e12dc1fbbba44a7e5b46c23bf657dbcea50ac/header.jpg?t=1778484797",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778488763.4418728,
+        "MatchedTags": [
+            "strategy",
+            "base building",
+            "economy",
+            "management",
+            "tactical"
+        ]
+    },
+    "4708370": {
+        "Title": "Warrior Maiden",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4708370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4708370/43e63838d1a353e7e75d0dc15584129c46df01c9/header.jpg?t=1778482500",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778488787.323946,
+        "MatchedTags": [
+            "tactical rpg",
+            "strategy",
+            "turn-based combat",
+            "turn-based tactics",
+            "turn-based strategy"
         ]
     }
 }
