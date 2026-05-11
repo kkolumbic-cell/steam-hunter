@@ -11158,7 +11158,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4029240/",
-        "Site": "",
+        "Site": "https://brobotgames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4029240/d14bf1624b534b30effe7791fe9c3cb422ac0fdf/header.jpg?t=1773968958",
         "Date": "Coming soon",
         "AddedDate": "2026-03-20",
@@ -15970,9 +15970,7 @@
         "AddedDate": "2026-03-27",
         "AddedTimestamp": 1774590702.7943237,
         "MatchedTags": [
-            "base building",
-            "strategy",
-            "tower defense"
+            "base building"
         ]
     },
     "4537850": {
@@ -37642,8 +37640,8 @@
         "AddedDate": "2026-04-30",
         "AddedTimestamp": 1777550129.193088,
         "MatchedTags": [
-            "management",
-            "strategy"
+            "strategy",
+            "management"
         ]
     },
     "4187850": {
@@ -50353,7 +50351,7 @@
     "3865640": {
         "Title": "Alt Tab Tactics",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/zuSBrrz7xE",
         "URL": "https://store.steampowered.com/app/3865640/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3865640/2cc217cdb1d8096b3eb5a307d9c9353614944565/header.jpg?t=1777933411",
@@ -55961,6 +55959,52 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "3830970": {
+        "Title": "Starshard Brigands",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3830970/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3830970/7419b0b827a3255e9c86893dd2daf754623ebbbf/header.jpg?t=1778537098",
+        "Date": "2027",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778541180.656647,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4681870": {
+        "Title": "Heliodawn",
+        "Email": "",
+        "Discord": "https://discord.com/invite/jjRyPEZgGy",
+        "URL": "https://store.steampowered.com/app/4681870/",
+        "Site": "https://heliodawn.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4681870/d80666737bafe5a35ed4d01e584beca8eb06a179/header.jpg?t=1778539935",
+        "Date": "Dec 31, 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778541228.172538,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "colony sim",
+            "grand strategy",
+            "resource management"
+        ]
+    },
+    "4705060": {
+        "Title": "\u30a8\u30b9\u30b1\u30fc\u30d7\u30fb\u30b6\u30fb\u30db\u30e9\u30fc\u30b9\u30af\u30fc\u30eb",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4705060/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4705060/e6107081e2864ebc175a2331f57d5b29c3c62f8c/header.jpg?t=1778539376",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778541234.1418738,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
