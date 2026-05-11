@@ -4930,9 +4930,9 @@
         "URL": "https://store.steampowered.com/app/4404050/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4404050/5efdf89d108cb7c05ac6d756070da2d9dde1de51/header.jpg?t=1773149267",
-        "Date": "May 31, 2026",
-        "AddedDate": "2026-05-04",
-        "AddedTimestamp": 1777879614.6876087,
+        "Date": "Jun 30, 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778502297.1402004,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -9700,9 +9700,9 @@
         "URL": "https://store.steampowered.com/app/4513590/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4513590/e111d67156586a3e9fe455fd8d74b968148b7749/header.jpg?t=1773805178",
-        "Date": "June 2026",
-        "AddedDate": "2026-03-18",
-        "AddedTimestamp": 1773812560.4832718,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778502327.548774,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -28008,9 +28008,9 @@
         "URL": "https://store.steampowered.com/app/4596860/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4596860/37c2f2cbacade39e29204808fd3a86d656699ac5/header.jpg?t=1775846446",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-10",
-        "AddedTimestamp": 1775848502.3924992,
+        "Date": "Jun 11, 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778502357.9367318,
         "MatchedTags": [
             "strategy",
             "tower defense"
@@ -28273,9 +28273,9 @@
         "URL": "https://store.steampowered.com/app/4507460/",
         "Site": "http://valkyrieraid.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4507460/d23a1d7b095522eb2a37b048c84f9063f449ac72/header.jpg?t=1775869232",
-        "Date": "Jun 23, 2026",
-        "AddedDate": "2026-04-11",
-        "AddedTimestamp": 1775877704.174849,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778502315.310258,
         "MatchedTags": [
             "real time tactics",
             "strategy"
@@ -36276,7 +36276,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4612870/",
-        "Site": "",
+        "Site": "https://sunsoft.games/hardedge-warzone/en/top",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4612870/2493c33860e7efcf58591f87f6cea7e8130ec22e/header.jpg?t=1776725233",
         "Date": "Coming soon",
         "AddedDate": "2026-04-24",
@@ -43222,9 +43222,9 @@
         "URL": "https://store.steampowered.com/app/4640320/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4640320/d47846ac7245ac9423e0f1ee59cd27418ad3f20f/header.jpg?t=1777310019",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-27",
-        "AddedTimestamp": 1777315404.0585024,
+        "Date": "May 11, 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778502387.4469543,
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
@@ -43754,9 +43754,9 @@
         "URL": "https://store.steampowered.com/app/4610000/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610000/3d1655f69b533ec5f1996531bee45f6389d4e5dd/header.jpg?t=1777330587",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-27",
-        "AddedTimestamp": 1777331560.5478876,
+        "Date": "May 11, 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778502360.881397,
         "MatchedTags": [
             "strategy",
             "turn-based combat"
@@ -44237,9 +44237,9 @@
         "URL": "https://store.steampowered.com/app/4639130/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4639130/883ccc1b4d860b25189701d43fb8c6b325f6b1ef/header.jpg?t=1777354138",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-28",
-        "AddedTimestamp": 1777358864.9919097,
+        "Date": "May 11, 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778502384.6686723,
         "MatchedTags": [
             "strategy",
             "real time tactics",
@@ -51127,7 +51127,8 @@
         "AddedTimestamp": 1778000469.0231028,
         "MatchedTags": [
             "management",
-            "strategy"
+            "strategy",
+            "economy"
         ]
     },
     "4668030": {
@@ -55606,6 +55607,36 @@
             "turn-based combat",
             "turn-based tactics",
             "turn-based strategy"
+        ]
+    },
+    "4008170": {
+        "Title": "Underground Business",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4008170/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4008170/8207cbb259dbda2391baf119629bca5c7ab645a7/header.jpg?t=1778491713",
+        "Date": "2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778502281.538627,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "management"
+        ]
+    },
+    "4401460": {
+        "Title": "Ping&Pong",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4401460/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4401460/93fe6d0ac0b9246a1b2ff4b5bdbc9dc0f881e91c/header.jpg?t=1778495174",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778502294.173354,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
