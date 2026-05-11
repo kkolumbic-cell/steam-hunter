@@ -21506,7 +21506,7 @@
     "4558620": {
         "Title": "The Apostle's Ascent",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/j8rmNAb54C",
         "URL": "https://store.steampowered.com/app/4558620/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4558620/dc3de8149211cb093eb0c219dcd9c9101370e662/header.jpg?t=1775160120",
@@ -23220,9 +23220,9 @@
         "URL": "https://store.steampowered.com/app/4575270/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4575270/20dc65581d66784c7b30db6c30e140abbbcb625b/header.jpg?t=1775485634",
-        "Date": "Sep 30, 2026",
-        "AddedDate": "2026-04-06",
-        "AddedTimestamp": 1775488077.3438985,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778529954.9605358,
         "MatchedTags": [
             "economy"
         ]
@@ -30624,9 +30624,9 @@
         "URL": "https://store.steampowered.com/app/4614870/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4614870/ea1368308aa7a83b219a036e995d7d8209f62c9e/header.jpg?t=1776180087",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-16",
-        "AddedTimestamp": 1776363628.714202,
+        "Date": "2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778529973.0258713,
         "MatchedTags": [
             "resource management",
             "strategy",
@@ -38828,9 +38828,9 @@
         "URL": "https://store.steampowered.com/app/4633010/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4633010/66141347ebf2167f439c1944999076c318a6490c/header.jpg?t=1776896583",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-22",
-        "AddedTimestamp": 1776899292.833011,
+        "Date": "May 11, 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778529976.2507648,
         "MatchedTags": [
             "horror"
         ]
@@ -51266,7 +51266,7 @@
     "4684510": {
         "Title": "ARB: Alien Races Battle",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/u43WJjRQ",
         "URL": "https://store.steampowered.com/app/4684510/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4684510/b3adfccab227f98cd4dd120054f22da31a06dbbe/header.jpg?t=1777986809",
@@ -55766,6 +55766,108 @@
             "strategy",
             "turn-based strategy",
             "turn-based combat"
+        ]
+    },
+    "4393450": {
+        "Title": "LOOK UP AND GO",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4393450/",
+        "Site": "https://www.lookupandgo.run/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4393450/2939ef6ffe725754c2331e1fd0b7052f9c163912/header.jpg?t=1778527470",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778529916.8276513,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4541290": {
+        "Title": "FISH KISSER",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4541290/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541290/55d830906946b984651099177de09b06f2a84fd6/header.jpg?t=1778528384",
+        "Date": "June 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778529938.962082,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4561300": {
+        "Title": "Drunk Pedestrians: Prelude",
+        "Email": "",
+        "Discord": "https://discord.gg/mdPDWpDp",
+        "URL": "https://store.steampowered.com/app/4561300/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4561300/55c4468da0f724de9fe03a2a2a8acdae503850a9/header.jpg?t=1778526718",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778529949.9788153,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4568220": {
+        "Title": "Panchofobia",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4568220/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568220/24f34f25934de47f6563409793d71ebb9ccbd34e/header.jpg?t=1778526610",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778529952.6253073,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4637700": {
+        "Title": "Nordic Homestead: A Quiet Restoration Game",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4637700/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4637700/198dd8573f26eb5c4e3901feb9164c5bf0d91076/header.jpg?t=1778527933",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778529978.527877,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4669610": {
+        "Title": "Rogue Quest",
+        "Email": "",
+        "Discord": "https://discord.gg/jKEC9VgE9w",
+        "URL": "https://store.steampowered.com/app/4669610/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4669610/a5dbdd32c1d36765859909e7161dde02aa47434c/header.jpg?t=1778528355",
+        "Date": "May 19, 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778529989.5744538,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "4685210": {
+        "Title": "ROCKS.EXE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4685210/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685210/3eeba0e8fd1e15e5ba14c3b2317f34af7f003933/header.jpg?t=1778525968",
+        "Date": "June 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778530004.7862077,
+        "MatchedTags": [
+            "strategy",
+            "management"
         ]
     }
 }
