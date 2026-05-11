@@ -55307,9 +55307,9 @@
         "URL": "https://store.steampowered.com/app/4535380/",
         "Site": "https://warofthedamned.com/inicio",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4535380/669d1fdea16570b70e709a0a40a0bf978cd8216e/header.jpg?t=1778384967",
-        "Date": "Coming soon",
+        "Date": "May 22, 2026",
         "AddedDate": "2026-05-11",
-        "AddedTimestamp": 1778515966.8162963,
+        "AddedTimestamp": 1778535796.5258787,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -55868,6 +55868,99 @@
         "MatchedTags": [
             "strategy",
             "management"
+        ]
+    },
+    "2596900": {
+        "Title": "Disarray",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2596900/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2596900/bdf942fd021a9be097afba6715d12f068d940b2b/header.jpg?t=1778531106",
+        "Date": "May 28, 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778535761.9137654,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror",
+            "strategy",
+            "resource management",
+            "tactical"
+        ]
+    },
+    "4517340": {
+        "Title": "PATCHED",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4517340/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4517340/87c2621da7bd55cc12e8cef185f26218d0c49d2f/header.jpg?t=1778533346",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778535790.9466546,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4656240": {
+        "Title": "Math Warudo: Grassland & Beyond",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4656240/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656240/3e59565a392e6a8a687861475db4b5b5046b9b1c/header.jpg?t=1778533549",
+        "Date": "May 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778535831.127456,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4675840": {
+        "Title": "Deep Frost",
+        "Email": "info@aeongames.ca",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4675840/",
+        "Site": "https://aeongames.ca",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4675840/851f4cb7ebc6c03e3aa3bcef6e985a090773429b/header.jpg?t=1778530196",
+        "Date": "Oct 23, 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778535842.6618564,
+        "MatchedTags": [
+            "survival horror",
+            "horror",
+            "strategy",
+            "psychological horror"
+        ]
+    },
+    "4699010": {
+        "Title": "Anatolian Horror Stories : Curse In Bayramdere",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4699010/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699010/d751b89cb37f6134293a25e7f93bb94c6580d48a/header.jpg?t=1778535175",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778535855.9136903,
+        "MatchedTags": [
+            "survival horror"
+        ]
+    },
+    "4713700": {
+        "Title": "The Circle Move",
+        "Email": "support@oonyteam.com",
+        "Discord": "https://discord.com/invite/MXbwADJ56f",
+        "URL": "https://store.steampowered.com/app/4713700/",
+        "Site": "https://oonyteam.com/thecirclemove",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4713700/594268dc1622854b3542ee6136484280a67716cd/header.jpg?t=1778535108",
+        "Date": "May 2026",
+        "AddedDate": "2026-05-11",
+        "AddedTimestamp": 1778535863.003399,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
