@@ -7765,9 +7765,9 @@
         "URL": "https://store.steampowered.com/app/4509200/",
         "Site": "https://deepcrypt.games/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4509200/ce6e2b12ed4b81fa6261f1c7f5ec59fc3705afd5/header.jpg?t=1773482174",
-        "Date": "2026",
-        "AddedDate": "2026-03-14",
-        "AddedTimestamp": 1773485291.4361382,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778582645.5011885,
         "MatchedTags": [
             "horror"
         ]
@@ -15856,7 +15856,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4242200/",
-        "Site": "",
+        "Site": "https://haunt.works",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4242200/16077d8aee3e2a83cdf14829424f733a3db055a6/header.jpg?t=1774580716",
         "Date": "October 2026",
         "AddedDate": "2026-03-27",
@@ -35389,7 +35389,7 @@
     "4599170": {
         "Title": "Regicide",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/5nBWtqJrHx",
         "URL": "https://store.steampowered.com/app/4599170/",
         "Site": "https://regicide.eo.page/signup",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4599170/78d21b90d6230869736afeaa8163796e69d762af/header.jpg?t=1776604643",
@@ -36231,9 +36231,9 @@
         "URL": "https://store.steampowered.com/app/4634980/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634980/0865de590491e887d52cc97331a7ccb072bf9e6c/header.jpg?t=1776722150",
-        "Date": "May 8, 2026",
-        "AddedDate": "2026-04-20",
-        "AddedTimestamp": 1776722705.2808838,
+        "Date": "May 12, 2026",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778582695.8640294,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -40652,9 +40652,9 @@
     "4396830": {
         "Title": "Dfiance: Dominance",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/pvJCqK2gbu",
         "URL": "https://store.steampowered.com/app/4396830/",
-        "Site": "",
+        "Site": "https://dfiance.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4396830/0b1413b44c38e0759fbca91654420a75f3b5cdf6/header.jpg?t=1777026365",
         "Date": "To be announced",
         "AddedDate": "2026-04-24",
@@ -45249,9 +45249,9 @@
         "URL": "https://store.steampowered.com/app/4638860/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4638860/bb419ec81dbc5af07047e3b1ac2ae299101ea100/header.jpg?t=1777432674",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-29",
-        "AddedTimestamp": 1777435565.0027282,
+        "Date": "May 12, 2026",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778582700.4100347,
         "MatchedTags": [
             "strategy"
         ]
@@ -48666,9 +48666,9 @@
         "URL": "https://store.steampowered.com/app/4673710/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4673710/2bf3d6355349c23c175b444c2c856bcc2871a130/header.jpg?t=1777666461",
-        "Date": "May 29, 2026",
-        "AddedDate": "2026-05-01",
-        "AddedTimestamp": 1777669828.3275092,
+        "Date": "2026",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778582727.0455832,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -56213,6 +56213,84 @@
         "MatchedTags": [
             "strategy",
             "real time tactics"
+        ]
+    },
+    "4414590": {
+        "Title": "Car Sales Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4414590/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4414590/13636d5c41d0dda4e7fc88a4994e6f0b7fec7f78/header.jpg?t=1778579820",
+        "Date": "July 2026",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778582625.3457248,
+        "MatchedTags": [
+            "resource management",
+            "management",
+            "economy"
+        ]
+    },
+    "4691130": {
+        "Title": "Sultan's Decree",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4691130/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4691130/91898d0568c03e9df33f7e455e8dd06effc9d4b0/header.jpg?t=1778570384",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778582736.901938,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4704000": {
+        "Title": "Shark Mart",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4704000/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704000/df451cd0eb747cd5cefe6e84c9ad1b98d1ef02ac/header.jpg?t=1778579995",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778582739.7456052,
+        "MatchedTags": [
+            "management",
+            "resource management",
+            "economy"
+        ]
+    },
+    "4710460": {
+        "Title": "\u56db\u65b9\u884c",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4710460/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4710460/7440000ee9c94468e592e0f3b97f819888261f65/header.jpg?t=1778574956",
+        "Date": "May 29, 2026",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778582751.4616506,
+        "MatchedTags": [
+            "economy",
+            "resource management",
+            "strategy",
+            "city builder"
+        ]
+    },
+    "4714510": {
+        "Title": "INOCULATE",
+        "Email": "",
+        "Discord": "https://discord.gg/fctDCArga3",
+        "URL": "https://store.steampowered.com/app/4714510/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4714510/cbd2b72e455e2ecbc77e183712ded008c2747f79/header.jpg?t=1778579287",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778582758.8323593,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
