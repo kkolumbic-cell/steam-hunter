@@ -30414,9 +30414,9 @@
         "URL": "https://store.steampowered.com/app/4546430/",
         "Site": "https://stoneandsteelgames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4546430/64d27b426a2bdd4a7bf482b3d24f969e8cda3f62/header.jpg?t=1776173023",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-19",
-        "AddedTimestamp": 1776589683.401316,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778591822.1727464,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -31490,7 +31490,7 @@
     },
     "4218360": {
         "Title": "Wall World Strategy",
-        "Email": "hr@alawar.com, pr@alawar.com, publishing@alawar.com, bizdev@alawar.com",
+        "Email": "pr@alawar.com, publishing@alawar.com, hr@alawar.com, bizdev@alawar.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4218360/",
         "Site": "https://alawar.com/",
@@ -35178,9 +35178,9 @@
         "URL": "https://store.steampowered.com/app/4628310/",
         "Site": "https://epicidlequest2.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4628310/381c50e563c1357e5a6b710cc12fada2bf24f056/header.jpg?t=1776541310",
-        "Date": "May 2026",
-        "AddedDate": "2026-05-01",
-        "AddedTimestamp": 1777673292.809125,
+        "Date": "May 12, 2026",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778591846.2157214,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -38340,9 +38340,9 @@
         "URL": "https://store.steampowered.com/app/4605360/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4605360/511ecd752b6b9db18219846378fa6a2eb74a0934/header.jpg?t=1776868595",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-06",
-        "AddedTimestamp": 1778040504.0439644,
+        "Date": "May 12, 2026",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778591838.4774833,
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
@@ -48056,9 +48056,10 @@
         "AddedDate": "2026-05-01",
         "AddedTimestamp": 1777643742.645444,
         "MatchedTags": [
-            "psychological horror",
+            "horror",
+            "survival horror",
             "base building",
-            "management"
+            "psychological horror"
         ]
     },
     "4176190": {
@@ -55953,9 +55954,9 @@
         "URL": "https://store.steampowered.com/app/4713700/",
         "Site": "https://oonyteam.com/thecirclemove",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4713700/594268dc1622854b3542ee6136484280a67716cd/header.jpg?t=1778535108",
-        "Date": "May 2026",
-        "AddedDate": "2026-05-11",
-        "AddedTimestamp": 1778535863.003399,
+        "Date": "May 25, 2026",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778591885.3389094,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -56290,6 +56291,54 @@
         "AddedDate": "2026-05-12",
         "AddedTimestamp": 1778582758.8323593,
         "MatchedTags": [
+            "horror"
+        ]
+    },
+    "3280240": {
+        "Title": "Nailcrown",
+        "Email": "",
+        "Discord": "https://discord.gg/NbpFerjE4V",
+        "URL": "https://store.steampowered.com/app/3280240/",
+        "Site": "https://destructivecreations.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280240/b5a2cc4f8d3f9244b31c32906697d7c28f3d8174/header.jpg?t=1778590278",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778591796.3212993,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "3942260": {
+        "Title": "KingFish",
+        "Email": "",
+        "Discord": "https://discord.gg/kingfishgame",
+        "URL": "https://store.steampowered.com/app/3942260/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3942260/13e615a1bbe0baecb6e9a84bf5e10a8c91449d8c/header.jpg?t=1778590277",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778591803.408435,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "tower defense",
+            "management",
+            "base building",
+            "resource management"
+        ]
+    },
+    "4609950": {
+        "Title": "Rock, Paper, Severed",
+        "Email": "",
+        "Discord": "https://discord.gg/ZHxQU9xwug",
+        "URL": "https://store.steampowered.com/app/4609950/",
+        "Site": "https://rockpapersevered.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4609950/054b83868027aae86cfcb84125d6d3643f1ef161/header.jpg?t=1778585533",
+        "Date": "2026",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778591843.0693703,
+        "MatchedTags": [
+            "strategy",
             "horror"
         ]
     }
