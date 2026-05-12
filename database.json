@@ -31220,7 +31220,7 @@
             "turn-based strategy",
             "strategy",
             "turn-based combat",
-            "economy"
+            "tactical"
         ]
     },
     "4601440": {
@@ -44271,9 +44271,9 @@
         "URL": "https://store.steampowered.com/app/4650900/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4650900/3afb5c112bea3978825f36f90fd703989fddc7d9/header.jpg?t=1777349480",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-28",
-        "AddedTimestamp": 1777358887.8978648,
+        "Date": "May 11, 2026",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778559022.7167647,
         "MatchedTags": [
             "turn-based tactics"
         ]
@@ -54950,9 +54950,9 @@
         "URL": "https://store.steampowered.com/app/4710730/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4710730/a8465cdf33cbaa9195e4eb2586e4a8ffe8a3223b/header.jpg?t=1778303099",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-05-10",
-        "AddedTimestamp": 1778426191.7492013,
+        "Date": "June 2026",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778559072.490749,
         "MatchedTags": [
             "survival horror",
             "horror"
@@ -56033,6 +56033,106 @@
         "AddedTimestamp": 1778544795.7252245,
         "MatchedTags": [
             "turn-based combat"
+        ]
+    },
+    "3742920": {
+        "Title": "Overdrive Breakout",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3742920/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3742920/0213f1275381498fd5635d53ec3247fe7c6d6766/header.jpg?t=1778549462",
+        "Date": "May 29, 2026",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778558927.0952985,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4461400": {
+        "Title": "Hollow Remains",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4461400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4461400/4989f86f5d4bee77f07569a72538bf09fd81fb27/header.jpg?t=1778547229",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778558976.2251937,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4540580": {
+        "Title": "Nerd Shop Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4540580/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4540580/6fd7b46a4415fb0c7984bf61bdd28b047a737908/header.jpg?t=1778549674",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778558990.7512136,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4682910": {
+        "Title": "Hide or Seek: Container Island",
+        "Email": "",
+        "Discord": "https://discord.gg/aPyadPCQ",
+        "URL": "https://store.steampowered.com/app/4682910/",
+        "Site": "https://playhideorseek.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4682910/c5cfe05b73fe100d3faf048e19f91897ae57f9c4/header.jpg?t=1778556566",
+        "Date": "September 2026",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778559049.456869,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4687900": {
+        "Title": "My New Car",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4687900/",
+        "Site": "http://ithrstudio.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4687900/d7dd27c2f3b130060aad1cdfbeb0d463192f3b7d/header.jpg?t=1778553741",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778559053.0254514,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4703140": {
+        "Title": "Orbit Crisis",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4703140/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4703140/dab26170e67182d0a9287d3ce2646cd93206c5cd/header.jpg?t=1778557715",
+        "Date": "2026",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778559060.8883078,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4704870": {
+        "Title": "Pegote",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4704870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4704870/215ebe05e9793ff8aec217e510b5ac95e31a17e3/header.jpg?t=1778550548",
+        "Date": "2027",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778559062.9112086,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
