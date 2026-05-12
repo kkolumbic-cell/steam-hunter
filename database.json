@@ -42854,9 +42854,9 @@
         "URL": "https://store.steampowered.com/app/4590380/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4590380/fd38c97c06dfe8c14430fd310cd118764516c4e1/header.jpg?t=1777298448",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-27",
-        "AddedTimestamp": 1777327738.0390377,
+        "Date": "May 12, 2026",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778625415.4848225,
         "MatchedTags": [
             "strategy",
             "base building"
@@ -56316,7 +56316,7 @@
         "Email": "",
         "Discord": "https://discord.gg/kingfishgame",
         "URL": "https://store.steampowered.com/app/3942260/",
-        "Site": "",
+        "Site": "https://playkingfish.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3942260/13e615a1bbe0baecb6e9a84bf5e10a8c91449d8c/header.jpg?t=1778590277",
         "Date": "To be announced",
         "AddedDate": "2026-05-12",
@@ -56867,6 +56867,99 @@
             "strategy",
             "resource management",
             "economy"
+        ]
+    },
+    "4581620": {
+        "Title": "Jinx It",
+        "Email": "",
+        "Discord": "https://discord.gg/cYPJhNfH3d",
+        "URL": "https://store.steampowered.com/app/4581620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4581620/ca67482a1aceb9c47f8cabaa66b344086dbeef2a/header.jpg?t=1778619818",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778625409.4277596,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4669260": {
+        "Title": "Cold Engine",
+        "Email": "",
+        "Discord": "https://discord.gg/STP9wEJmW5",
+        "URL": "https://store.steampowered.com/app/4669260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4669260/56b2f274c291ba141887f213439b3604e9baf2ae/header.jpg?t=1778619552",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778625425.3378005,
+        "MatchedTags": [
+            "management",
+            "resource management"
+        ]
+    },
+    "4705650": {
+        "Title": "Silent Shark",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4705650/",
+        "Site": "https://silentshark.app",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4705650/0ea4f81a351509d099b1f11d15d56afb308ba724/header.jpg?t=1778620548",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778625434.1519458,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tactical"
+        ]
+    },
+    "4711570": {
+        "Title": "Sectron",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4711570/",
+        "Site": "https://taurilabs.io/sectron/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4711570/952c75871ea420e58fc4359465e28c421e945510/header.jpg?t=1778625050",
+        "Date": "2026",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778625443.2684648,
+        "MatchedTags": [
+            "turn-based strategy",
+            "strategy",
+            "tactical",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4718330": {
+        "Title": "Video Mahjong Tutorial",
+        "Email": "",
+        "Discord": "https://discord.com/invite/mfS3C2yeZe",
+        "URL": "https://store.steampowered.com/app/4718330/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4718330/3157a95947b835042c626aa1c9a35032b6a2cb8e/header.jpg?t=1778621211",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778625446.3536596,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4719930": {
+        "Title": "Aethelgard: Galactic Guardian",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4719930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4719930/975f902c50907f03cf4efd421ff59e8820c7dbeb/header.jpg?t=1778622435",
+        "Date": "May 28, 2026",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778625448.564603,
+        "MatchedTags": [
+            "tactical rpg"
         ]
     }
 }
