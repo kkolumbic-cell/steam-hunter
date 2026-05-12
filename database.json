@@ -13351,9 +13351,9 @@
         "MatchedTags": [
             "strategy",
             "grand strategy",
-            "tactical rpg",
+            "management",
             "tactical",
-            "management"
+            "resource management"
         ]
     },
     "3226380": {
@@ -55943,9 +55943,9 @@
         "URL": "https://store.steampowered.com/app/4699010/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699010/d751b89cb37f6134293a25e7f93bb94c6580d48a/header.jpg?t=1778535175",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-11",
-        "AddedTimestamp": 1778535855.9136903,
+        "Date": "June 2026",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778619246.9749656,
         "MatchedTags": [
             "survival horror"
         ]
@@ -56806,6 +56806,67 @@
         "AddedTimestamp": 1778613379.788243,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4683940": {
+        "Title": "Cafe Connect",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4683940/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4683940/52a9305c68ad1f20ce5732dd0c64ffe6bbe6713a/header.jpg?t=1778616375",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778619236.096455,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4700930": {
+        "Title": "BLASFEMY",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4700930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4700930/f7099f896b1aa414d8b895ee0dc1197060f6045c/header.jpg?t=1778613219",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778619251.6370397,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4720370": {
+        "Title": "Die Die",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4720370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4720370/77fd77af97eeb4a6886fe1ca5c318a266a9ee6e6/header.jpg?t=1778614730",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778619265.80514,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4724180": {
+        "Title": "Reel Greed",
+        "Email": "",
+        "Discord": "https://discord.gg/kqkqhkr8c2",
+        "URL": "https://store.steampowered.com/app/4724180/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4724180/779112f018f6c6b217e150bffbf8e85ef406575f/header.jpg?t=1778618259",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778619268.262526,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "economy"
         ]
     }
 }
