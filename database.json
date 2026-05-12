@@ -21901,9 +21901,9 @@
         "URL": "https://store.steampowered.com/app/4518020/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4518020/0fef1dc95bff10842c127424409194119b510b79/header.jpg?t=1775198225",
-        "Date": "Jun 1, 2026",
-        "AddedDate": "2026-04-26",
-        "AddedTimestamp": 1777184429.4696844,
+        "Date": "Jun 2, 2026",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778570248.0627847,
         "MatchedTags": [
             "horror"
         ]
@@ -28971,8 +28971,8 @@
         "AddedDate": "2026-04-12",
         "AddedTimestamp": 1775973796.0817847,
         "MatchedTags": [
-            "economy",
-            "management"
+            "management",
+            "resource management"
         ]
     },
     "4604090": {
@@ -30140,9 +30140,9 @@
         "URL": "https://store.steampowered.com/app/4586760/",
         "Site": "https://www.standardissuegames.com/spheretd",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4586760/5b150b199eea78d0bf82f5f76a5d507a7ad45458/header.jpg?t=1776144297",
-        "Date": "June 2026",
-        "AddedDate": "2026-04-28",
-        "AddedTimestamp": 1777402495.066736,
+        "Date": "Jun 23, 2026",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778570265.781916,
         "MatchedTags": [
             "tower defense",
             "strategy",
@@ -38432,9 +38432,9 @@
         "URL": "https://store.steampowered.com/app/4526510/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4526510/5b17c3a4c94936063baaaeb0c32969da4545b04d/header.jpg?t=1776874762",
-        "Date": "Jun 22, 2026",
-        "AddedDate": "2026-04-22",
-        "AddedTimestamp": 1776878237.285465,
+        "Date": "Jul 14, 2026",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778570251.413956,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -41291,9 +41291,9 @@
         "URL": "https://store.steampowered.com/app/4650720/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4650720/502209c49ad8834332d2b8a554b3a6cd636c6c41/header.jpg?t=1777056519",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1777058127.5211954,
+        "Date": "To be announced",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778570280.4459505,
         "MatchedTags": [
             "strategy",
             "horror"
@@ -42694,9 +42694,9 @@
         "URL": "https://store.steampowered.com/app/4358380/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4358380/8bf1b09b9c1f45be15663ae45ba217e9c6560716/header.jpg?t=1777280010",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-27",
-        "AddedTimestamp": 1777282255.1912057,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778570236.792651,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -56133,6 +56133,86 @@
         "AddedTimestamp": 1778559062.9112086,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "3651840": {
+        "Title": "Socialiskigrad",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3651840/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651840/7f5afb31542bed12b2829c05c2b347db9298dc16/header.jpg?t=1778567910",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778570210.812675,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "colony sim",
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4138960": {
+        "Title": "Po10tions: Silver Path",
+        "Email": "",
+        "Discord": "https://discord.gg/sDyd9r5C5",
+        "URL": "https://store.steampowered.com/app/4138960/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4138960/f3adc950db1462b418ecbd2c892ca897c9c21a08/header.jpg?t=1778567595",
+        "Date": "September 2026",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778570224.9536228,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4260610": {
+        "Title": "Null Recall",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4260610/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260610/a92df86e5c2d88d6a9553746326b009d3dbb7065/header.jpg?t=1778565956",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778570230.9376206,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4483120": {
+        "Title": "Tales Beyond The Tomb - No Witnesses",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4483120/",
+        "Site": "https://www.616games.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4483120/8dbf04b45a44a6c8a0ae45bbabaafd94d6db0646/header.jpg?t=1778567857",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778570244.856125,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4682990": {
+        "Title": "Rune Caves: Eternal Echo",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4682990/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4682990/9c3757f573ceaee391cdae57d7afaa9ef85c89ac/header.jpg?t=1778562139",
+        "Date": "Jun 4, 2026",
+        "AddedDate": "2026-05-12",
+        "AddedTimestamp": 1778570298.9231737,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics"
         ]
     }
 }
