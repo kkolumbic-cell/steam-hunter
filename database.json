@@ -12227,11 +12227,11 @@
         "AddedDate": "2026-03-22",
         "AddedTimestamp": 1774219584.720855,
         "MatchedTags": [
-            "strategy",
-            "turn-based strategy",
             "turn-based tactics",
-            "tactical",
-            "turn-based combat"
+            "turn-based strategy",
+            "strategy",
+            "turn-based combat",
+            "tactical"
         ]
     },
     "4519250": {
@@ -23126,9 +23126,9 @@
         "AddedDate": "2026-04-21",
         "AddedTimestamp": 1776765325.8971865,
         "MatchedTags": [
-            "strategy",
-            "management",
             "economy",
+            "management",
+            "strategy",
             "turn-based strategy"
         ]
     },
@@ -43193,9 +43193,9 @@
         "URL": "https://store.steampowered.com/app/4614290/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4614290/6fb3003c7884457ac0aebe27b1d8217de60c1b17/header.jpg?t=1777312143",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-27",
-        "AddedTimestamp": 1777315381.8289096,
+        "Date": "May 13, 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778669188.805732,
         "MatchedTags": [
             "strategy"
         ]
@@ -50819,8 +50819,8 @@
         "AddedDate": "2026-05-05",
         "AddedTimestamp": 1777973087.8054225,
         "MatchedTags": [
-            "horror",
-            "psychological horror"
+            "psychological horror",
+            "horror"
         ]
     },
     "3638860": {
@@ -52430,9 +52430,9 @@
         "URL": "https://store.steampowered.com/app/4692920/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4692920/31098f6e6d5ed3882ed28bf14961e84ba51ea769/header.jpg?t=1778075196",
-        "Date": "To be announced",
-        "AddedDate": "2026-05-06",
-        "AddedTimestamp": 1778079147.8796108,
+        "Date": "2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778669219.8727565,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -57469,6 +57469,84 @@
         "MatchedTags": [
             "economy",
             "resource management"
+        ]
+    },
+    "4679180": {
+        "Title": "The Abyss Below",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4679180/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4679180/66b2437786c2cb07fc64785e7f146183551fdb23/header.jpg?t=1778662678",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778669215.254255,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4699320": {
+        "Title": "Secret Base",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4699320/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699320/aec27a6c83a98b40d5c2c80ae5b46bc1e94bebbc/header.jpg?t=1778668779",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778669225.7963433,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4702700": {
+        "Title": "Heathen",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4702700/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4702700/c8f10c9732c859f0be8e41e8a29f2e1cfa2233f4/header.jpg?t=1778664865",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778669235.7867339,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4706510": {
+        "Title": "The Pharhad Road",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4706510/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4706510/d1f26e3cd4a00e179ae7c1a7d40a6ec49d6db0ef/header.jpg?t=1778660554",
+        "Date": "May 19, 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778669241.2725196,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4707270": {
+        "Title": "Hold The Gates",
+        "Email": "",
+        "Discord": "https://discord.gg/GZ73WeTYNU",
+        "URL": "https://store.steampowered.com/app/4707270/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707270/1ba58f5d95e807b1d4de4786098b2c655e344d31/header.jpg?t=1778660430",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778669243.584235,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "tactical",
+            "turn-based tactics",
+            "base building",
+            "tower defense"
         ]
     }
 }
