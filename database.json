@@ -3158,8 +3158,8 @@
         "AddedDate": "2026-03-06",
         "AddedTimestamp": 1772830146.0707383,
         "MatchedTags": [
-            "strategy",
-            "turn-based strategy"
+            "turn-based strategy",
+            "strategy"
         ]
     },
     "4422650": {
@@ -25416,9 +25416,9 @@
         "URL": "https://store.steampowered.com/app/3958660/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3958660/99948195d2e9d3b76a36b38b50b6e93d01354638/header.jpg?t=1775699174",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775705404.0703654,
+        "Date": "To be announced",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778631268.786047,
         "MatchedTags": [
             "management",
             "resource management"
@@ -38383,7 +38383,7 @@
     "4635560": {
         "Title": "FEED IT",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/uUTVzSWB",
         "URL": "https://store.steampowered.com/app/4635560/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4635560/9e4bceed9998686fc1b04240e241df53dfddfa91/header.jpg?t=1776868139",
@@ -45235,9 +45235,9 @@
         "URL": "https://store.steampowered.com/app/4637810/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4637810/57e13995cd4e5f83ff0a9f19f9a42fb1f3198494/header.jpg?t=1777431556",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-29",
-        "AddedTimestamp": 1777435562.4044578,
+        "Date": "May 12, 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778631297.0800757,
         "MatchedTags": [
             "horror"
         ]
@@ -56960,6 +56960,85 @@
         "AddedTimestamp": 1778625448.564603,
         "MatchedTags": [
             "tactical rpg"
+        ]
+    },
+    "4550880": {
+        "Title": "Court Wizard",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4550880/",
+        "Site": "https://courtwizard.blackhearthgames.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4550880/e2d1b6d7365108e67a3764d526166a6d3defcda6/header.jpg?t=1778628897",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778631287.2815614,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "tactical"
+        ]
+    },
+    "4639030": {
+        "Title": "free as fish",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4639030/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4639030/4e2024348627a7f7bb77c36934906e99ed447f15/header.jpg?t=1778627564",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778631299.5350573,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4669800": {
+        "Title": "miniquest",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4669800/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4669800/ba7d2a3ccc0fdfa153cf5996dce6202dcfc383a7/header.jpg?t=1778627539",
+        "Date": "Aug 3, 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778631312.6715052,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4709430": {
+        "Title": "Dark Web",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4709430/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4709430/1af69a931e94c20a84b10a86ccb152ef37ae89cc/header.jpg?t=1778625514",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778631325.658537,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4710800": {
+        "Title": "Endless Void: Idle Tower Defense",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4710800/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4710800/e1523c7bcd6c03ce63e9653fcbc694ad86c4bfe1/header.jpg?t=1778631148",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778631327.9787216,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "base building",
+            "resource management",
+            "economy"
         ]
     }
 }
