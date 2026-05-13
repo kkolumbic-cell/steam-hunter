@@ -14405,9 +14405,9 @@
         "URL": "https://store.steampowered.com/app/4513360/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513360/008b43ecfc32cd58d6699e37f18dadbf21f975b1/header.jpg?t=1774457532",
-        "Date": "Jun 4, 2026",
-        "AddedDate": "2026-05-09",
-        "AddedTimestamp": 1778368018.207032,
+        "Date": "Jun 14, 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778712044.2887318,
         "MatchedTags": [
             "strategy"
         ]
@@ -22996,9 +22996,10 @@
         "AddedDate": "2026-04-05",
         "AddedTimestamp": 1775415920.0948286,
         "MatchedTags": [
-            "tower defense",
+            "strategy",
             "base building",
-            "strategy"
+            "tower defense",
+            "management"
         ]
     },
     "4480290": {
@@ -40889,7 +40890,8 @@
         "AddedTimestamp": 1777039947.0968878,
         "MatchedTags": [
             "psychological horror",
-            "horror"
+            "horror",
+            "survival horror"
         ]
     },
     "4435100": {
@@ -46540,9 +46542,9 @@
         "URL": "https://store.steampowered.com/app/4673970/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4673970/c5ca1202a595e5d17c5f97ad1c64e0b47446abef/header.jpg?t=1777523274",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-30",
-        "AddedTimestamp": 1777531480.8171809,
+        "Date": "May 13, 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778712069.1187403,
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
@@ -57827,7 +57829,7 @@
     },
     "4618250": {
         "Title": "Agricola - The King's Farmer",
-        "Email": "u003ekannzaubernstudio@gmail.com, info@kannzaubern.de, kannzaubernstudio@gmail.com, u003einfo@kannzaubern.de",
+        "Email": "info@kannzaubern.de, u003einfo@kannzaubern.de, kannzaubernstudio@gmail.com, u003ekannzaubernstudio@gmail.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4618250/",
         "Site": "https://kannzaubern.de",
@@ -57976,6 +57978,130 @@
         "AddedTimestamp": 1778705928.83967,
         "MatchedTags": [
             "psychological horror",
+            "horror"
+        ]
+    },
+    "2353000": {
+        "Title": "R.O.V.E.R.",
+        "Email": "",
+        "Discord": "https://discord.gg/adsBZQHXKt",
+        "URL": "https://store.steampowered.com/app/2353000/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2353000/0573a5749618b1f41b3f215092e731416477f354/header.jpg?t=1778711493",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778711990.4658582,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "resource management"
+        ]
+    },
+    "3798940": {
+        "Title": "Sigil Arena",
+        "Email": "",
+        "Discord": "https://discord.gg/bcDzkqCBZ8",
+        "URL": "https://store.steampowered.com/app/3798940/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3798940/396742a02fca3a606271d15c1e9cb416aad8bd4c/header.jpg?t=1778709151",
+        "Date": "June 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778712001.3341222,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4184360": {
+        "Title": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4184360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4184360/10e02aa27ee50aadd8be3e0fbd45badf17ce5234/header.jpg?t=1778709357",
+        "Date": "Aug 27, 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778712011.9323163,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4184400": {
+        "Title": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4184400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4184400/458033bb7aad4e6b8a61af0f7798d23db2683864/header.jpg?t=1778709555",
+        "Date": "Aug 27, 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778712014.7791336,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4337400": {
+        "Title": "Please The Orb",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4337400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4337400/681fec2afa1a4860d0d2c0bbd9f8d92256388b0f/header.jpg?t=1778709884",
+        "Date": "2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778712024.0977387,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "management"
+        ]
+    },
+    "4701410": {
+        "Title": "Alchemist Chronicles",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4701410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4701410/6dc85a68cece43c813cc28622664671a1cb52dd1/header.jpg?t=1778706898",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778712073.4717283,
+        "MatchedTags": [
+            "economy",
+            "strategy"
+        ]
+    },
+    "4714600": {
+        "Title": "Organism Detected",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4714600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4714600/5ee64f7b5f1b2fc62ac6b182dc7bb66e848429de/header.jpg?t=1778708735",
+        "Date": "May 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778712082.0633006,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "real time tactics",
+            "turn-based strategy",
+            "tactical"
+        ]
+    },
+    "4723300": {
+        "Title": "The Castle of Dr. Hoot",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4723300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4723300/bc1e51efe372a228cb98b4de5e12ef9a87d67ce7/header.jpg?t=1778707331",
+        "Date": "2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778712084.1463907,
+        "MatchedTags": [
             "horror"
         ]
     }
