@@ -47364,9 +47364,9 @@
         "URL": "https://store.steampowered.com/app/4551040/",
         "Site": "https://www.animalcompanyvr.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4551040/3f61eba20c341b7025a57acc4d73d554c50032ec/header.jpg?t=1777576445",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-30",
-        "AddedTimestamp": 1777580441.2614815,
+        "Date": "May 21, 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778699388.0158143,
         "MatchedTags": [
             "survival horror",
             "psychological horror",
@@ -49667,7 +49667,7 @@
     "4677750": {
         "Title": "Grid Lands",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/WnBMDR752t",
         "URL": "https://store.steampowered.com/app/4677750/",
         "Site": "https://gridlands.io/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4677750/6cc3171f616266e6ab0f2eb7d6eb1c340c5154aa/header.jpg?t=1777898427",
@@ -57746,6 +57746,158 @@
         "AddedTimestamp": 1778690337.6733856,
         "MatchedTags": [
             "management"
+        ]
+    },
+    "2481240": {
+        "Title": "HavenCraft",
+        "Email": "",
+        "Discord": "https://discord.gg/xVy8Y4P",
+        "URL": "https://store.steampowered.com/app/2481240/",
+        "Site": "https://havencraft.dionicsoftware.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2481240/2023335bb4b98b06cb62f1ec702f98278a02a717/header.jpg?t=1778697975",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778699340.5590622,
+        "MatchedTags": [
+            "colony sim",
+            "management",
+            "base building",
+            "economy",
+            "resource management"
+        ]
+    },
+    "3531650": {
+        "Title": "Anubis",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3531650/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3531650/3bdf2b1f5de8319b76f8b4d61107d00853e17c87/header.jpg?t=1778698081",
+        "Date": "Aug 17, 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778699346.3269124,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4370990": {
+        "Title": "FEED IT",
+        "Email": "info@gamesonachair.dev",
+        "Discord": "https://discord.gg/MrsHUr63wT",
+        "URL": "https://store.steampowered.com/app/4370990/",
+        "Site": "https://gamesonachair.dev/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4370990/f620b384ba83e2e1d8bf6516a3cb110bd244dfbf/header.jpg?t=1778690558",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778699367.7589495,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4437080": {
+        "Title": "Eldritch Tactics: Apocalypse Rising",
+        "Email": "",
+        "Discord": "https://discord.gg/q2V97BMU",
+        "URL": "https://store.steampowered.com/app/4437080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4437080/8117b6d30be3c1853a2b771af8802399f4313b58/header.jpg?t=1778694733",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778699375.6723402,
+        "MatchedTags": [
+            "tactical rpg",
+            "strategy"
+        ]
+    },
+    "4588590": {
+        "Title": "2032 - The Cold Silence",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4588590/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4588590/4ca19ebefe150ed5be49d4d1b08b128fffba9b70/header.jpg?t=1778698721",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778699398.5344095,
+        "MatchedTags": [
+            "strategy",
+            "base building",
+            "resource management"
+        ]
+    },
+    "4618250": {
+        "Title": "Agricola - The King's Farmer",
+        "Email": "u003ekannzaubernstudio@gmail.com, info@kannzaubern.de, kannzaubernstudio@gmail.com, u003einfo@kannzaubern.de",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4618250/",
+        "Site": "https://kannzaubern.de",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4618250/1b1f53a14b52d9130c320b498ef4e7f941720fc4/header.jpg?t=1778697986",
+        "Date": "June 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778699408.340879,
+        "MatchedTags": [
+            "strategy",
+            "economy"
+        ]
+    },
+    "4666750": {
+        "Title": "Lang Ops: Corrupted Files",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4666750/",
+        "Site": "https://strangevolumeproject.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4666750/b2e914862b815646437f798668dbf02df3809c09/header.jpg?t=1778697962",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778699431.2978604,
+        "MatchedTags": [
+            "tactical rpg",
+            "turn-based combat"
+        ]
+    },
+    "4703040": {
+        "Title": "ANCHOR-13",
+        "Email": "",
+        "Discord": "https://discord.gg/dSM62pS9v8",
+        "URL": "https://store.steampowered.com/app/4703040/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4703040/591baf5af7b9bb5dd1d75cfa947541564b40f261/header.jpg?t=1778690163",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778699467.5366814,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4720530": {
+        "Title": "Number Naughties",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4720530/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4720530/a3323535754d2c58ff585a77077e76b24bec91cb/header.jpg?t=1778690413",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778699485.9828022,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4721680": {
+        "Title": "The Last Braincell: Escape",
+        "Email": "jan.radtke11@gmail.com, catsinspace.game@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4721680/",
+        "Site": "https://www.catsinspace.online/the-last-braincell-escape-prototype",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4721680/313148107a4d7b59bc15b9f9de404d825da8b2fb/header.jpg?t=1778694315",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778699491.811731,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
