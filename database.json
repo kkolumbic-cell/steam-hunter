@@ -33058,9 +33058,9 @@
         "URL": "https://store.steampowered.com/app/4502770/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4502770/9c1d5f360299b2c4374d48807ff683796a8546a9/header.jpg?t=1776353125",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-16",
-        "AddedTimestamp": 1776358249.2224886,
+        "Date": "May 22, 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778659999.3897154,
         "MatchedTags": [
             "tactical"
         ]
@@ -38494,9 +38494,9 @@
         "URL": "https://store.steampowered.com/app/4593930/",
         "Site": "https://triadpixel.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4593930/760050006b435666a892046ad50bfe69314ce44a/header.jpg?t=1776877763",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-22",
-        "AddedTimestamp": 1776878274.1957068,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778660019.6874008,
         "MatchedTags": [
             "tactical"
         ]
@@ -41815,7 +41815,7 @@
     "4424310": {
         "Title": "Make'Em Mayhem",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/kVtqTV6nmP",
         "URL": "https://store.steampowered.com/app/4424310/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4424310/168f6a395c760273b0558690ddad8593c72e769f/header.jpg?t=1777096713",
@@ -42483,7 +42483,7 @@
     "4659250": {
         "Title": "IdleJack",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/FTXNAfWrHX",
         "URL": "https://store.steampowered.com/app/4659250/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4659250/20d9365bbbefab5903200159a863bd2f304a018d/header.jpg?t=1777208014",
@@ -57219,6 +57219,256 @@
         "AddedTimestamp": 1778645977.1214814,
         "MatchedTags": [
             "psychological horror"
+        ]
+    },
+    "3754970": {
+        "Title": "Mysticore: Towers & Timber",
+        "Email": "",
+        "Discord": "https://discord.gg/6B8gw7tVRs",
+        "URL": "https://store.steampowered.com/app/3754970/",
+        "Site": "https://www.mysticore.net",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3754970/05b7e7fdaea763e2e5c923ef6f1c07b520fb954f/header.jpg?t=1778649690",
+        "Date": "2027",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778659960.017031,
+        "MatchedTags": [
+            "strategy",
+            "base building",
+            "colony sim",
+            "city builder",
+            "tower defense",
+            "resource management",
+            "management"
+        ]
+    },
+    "4030150": {
+        "Title": "The Legend of Fancy Realm Remake",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4030150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4030150/d0cf2fdb5f7be154aef2a6c5cdacb32d3dc9538a/header.jpg?t=1778651001",
+        "Date": "2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778659975.792839,
+        "MatchedTags": [
+            "turn-based tactics",
+            "tactical rpg",
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4154830": {
+        "Title": "Immortal Wayfarer",
+        "Email": "",
+        "Discord": "https://discord.gg/2p-games-539635951513632768",
+        "URL": "https://store.steampowered.com/app/4154830/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4154830/76df7a67e76de2219e3a9f2531d91814b46dfaf4/header.jpg?t=1778658240",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778659984.1779375,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "tactical rpg",
+            "turn-based combat",
+            "tactical"
+        ]
+    },
+    "4601470": {
+        "Title": "Going my way?",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4601470/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4601470/3ff592523c5aa8c8dc91b83e552a51b72bc5ffc7/header.jpg?t=1778654242",
+        "Date": "2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778660039.1613107,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4652950": {
+        "Title": "Airlock",
+        "Email": "",
+        "Discord": "https://discord.com/invite/D6E86yjExd",
+        "URL": "https://store.steampowered.com/app/4652950/",
+        "Site": "https://www.theairlock.co.uk/media.html",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4652950/99d3b148d3ee7b06d67f6ae924c771474a5d6da3/header.jpg?t=1778653732",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778660062.3174121,
+        "MatchedTags": [
+            "base building",
+            "resource management",
+            "colony sim",
+            "city builder"
+        ]
+    },
+    "4653460": {
+        "Title": "Gravora",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4653460/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4653460/4b7774a83b5ff1bb2dcf0dc55dc9787bccbb2b1e/header.jpg?t=1778658086",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778660065.545735,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4669030": {
+        "Title": "Rusted Hills: Welcome to the Wilderness",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4669030/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4669030/9a95f17d0cca77550edfcdcf5fa42062500b94b8/header.jpg?t=1778655185",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778660094.2176807,
+        "MatchedTags": [
+            "survival horror"
+        ]
+    },
+    "4676750": {
+        "Title": "Tap Dungeon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4676750/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4676750/4be104a94f374b6a80cf8f56647f00efdd7b06a3/header.jpg?t=1778657825",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778660103.9072218,
+        "MatchedTags": [
+            "turn-based combat",
+            "strategy",
+            "real time tactics"
+        ]
+    },
+    "4691650": {
+        "Title": "Hell Girl",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4691650/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4691650/aeee026d0260784973827bd9af2fdf617836e8c7/header.jpg?t=1778649803",
+        "Date": "May 13, 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778660108.7047822,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4697420": {
+        "Title": "SwordRequiem Crack",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4697420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4697420/0beb2d0eb95be0342790b456084378aa3ce78d74/header.jpg?t=1778651752",
+        "Date": "May 20, 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778660113.0709252,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4698410": {
+        "Title": "Heirs of the Moon",
+        "Email": "",
+        "Discord": "https://discord.gg/E3ue8TF3Sf",
+        "URL": "https://store.steampowered.com/app/4698410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4698410/cbefe3c0d54b5b7e3cc44cf5ec1e61cc9fbdae69/header.jpg?t=1778651040",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778660114.8596814,
+        "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "4700260": {
+        "Title": "Judgment: Ankara 01",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4700260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4700260/aa0fc09df9ba70d421a92cee7637ddb1dce9ee3d/header.jpg?t=1778652252",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778660117.4704995,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4704920": {
+        "Title": "Prison Pocket Patrol",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4704920/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4704920/fc0bd411f49d39b8cc8254113bea5328c15d8ae9/header.jpg?t=1778654885",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778660131.6493094,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4708080": {
+        "Title": "The Echoes",
+        "Email": "",
+        "Discord": "https://discord.gg/sejCTu64X",
+        "URL": "https://store.steampowered.com/app/4708080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4708080/3fd7ee35746e4343391d56ea7110239ccf6b44f9/header.jpg?t=1778651632",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778660141.4864142,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4724240": {
+        "Title": "Vector Storm",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4724240/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4724240/2cbf798decc8531b5cf8a050c6343ae93ae1d435/header.jpg?t=1778646123",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778660153.6613123,
+        "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "4726140": {
+        "Title": "I Need To Pay Rent",
+        "Email": "",
+        "Discord": "https://discord.gg/VhU8f2bZPt",
+        "URL": "https://store.steampowered.com/app/4726140/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4726140/08f401b679f231b9c80812b479f5393b6bc43c20/header.jpg?t=1778648476",
+        "Date": "May 25, 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778660161.2850492,
+        "MatchedTags": [
+            "economy",
+            "resource management"
         ]
     }
 }
