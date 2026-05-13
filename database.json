@@ -19203,7 +19203,6 @@
         "AddedTimestamp": 1774985422.430813,
         "MatchedTags": [
             "management",
-            "strategy",
             "real time tactics"
         ]
     },
@@ -25806,9 +25805,9 @@
         "URL": "https://store.steampowered.com/app/4560710/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4560710/dae4e29fcdc5a0211bb8b47375f4d01b69c8e7fa/header.jpg?t=1775730937",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775733519.601161,
+        "Date": "July 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778705856.5258183,
         "MatchedTags": [
             "strategy",
             "real time tactics"
@@ -47702,9 +47701,9 @@
         "URL": "https://store.steampowered.com/app/3118860/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3118860/1b377212bd442b3b724a72a3692b640324bac4ba/header.jpg?t=1777595568",
-        "Date": "May 28, 2026",
-        "AddedDate": "2026-05-04",
-        "AddedTimestamp": 1777879593.4623296,
+        "Date": "June 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778705801.9291258,
         "MatchedTags": [
             "resource management",
             "horror",
@@ -57898,6 +57897,86 @@
         "AddedTimestamp": 1778699491.811731,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4365050": {
+        "Title": "EXPOSED",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4365050/",
+        "Site": "https://www.belocalization.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4365050/834279fed0bfa6ffddfc9d691f108593e4ea6e9f/header.jpg?t=1778703321",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778705814.4896042,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg",
+            "tactical"
+        ]
+    },
+    "4528070": {
+        "Title": "Before Darkness Falls\u2122",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4528070/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528070/3436c0087ab2eb7db27936da30eef90380ee65db/header.jpg?t=1778701147",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778705845.920552,
+        "MatchedTags": [
+            "real time tactics",
+            "strategy",
+            "survival horror",
+            "base building",
+            "management",
+            "tactical"
+        ]
+    },
+    "4671560": {
+        "Title": "PicoBellum",
+        "Email": "",
+        "Discord": "https://discord.gg/64EtZbfvpt",
+        "URL": "https://store.steampowered.com/app/4671560/",
+        "Site": "https://picobellum.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4671560/6558c2eab333d67da724eea2cb2a06616f23cf57/header.jpg?t=1778701050",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778705880.8238301,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy"
+        ]
+    },
+    "4683530": {
+        "Title": "BRAVO",
+        "Email": "",
+        "Discord": "https://discord.gg/uYvyQjgZ5",
+        "URL": "https://store.steampowered.com/app/4683530/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4683530/e8d7130eda628fca81b4ea14220c5425d9950d88/header.jpg?t=1778699742",
+        "Date": "May 18, 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778705914.7399795,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4727960": {
+        "Title": "The Deepest Shift",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4727960/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727960/f71fa78ef2702da134e498573487b04d96072fd6/header.jpg?t=1778703101",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778705928.83967,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
         ]
     }
 }
