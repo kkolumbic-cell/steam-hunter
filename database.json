@@ -3438,7 +3438,7 @@
     "4459630": {
         "Title": "Radical Tower Defense",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/TgQNH4n4cU",
         "URL": "https://store.steampowered.com/app/4459630/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459630/5c0ab84a7104e577eed239458d04cfbbda62a475/header.jpg?t=1772855813",
@@ -22023,9 +22023,9 @@
         "URL": "https://store.steampowered.com/app/3960380/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960380/64b82d5b9af9477e811ab74bb761d4be231ecdfc/header.jpg?t=1775209395",
-        "Date": "July 2026",
-        "AddedDate": "2026-04-18",
-        "AddedTimestamp": 1776524420.7825024,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778645796.1526392,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -28794,9 +28794,9 @@
         "URL": "https://store.steampowered.com/app/4526900/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526900/04c933e8e9ed467459e89269426ee90adb412fb5/header.jpg?t=1775930951",
-        "Date": "May 2026",
-        "AddedDate": "2026-05-12",
-        "AddedTimestamp": 1778613239.8360994,
+        "Date": "May 22, 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778645847.2456822,
         "MatchedTags": [
             "tower defense",
             "tactical"
@@ -33450,12 +33450,13 @@
         "AddedDate": "2026-04-16",
         "AddedTimestamp": 1776370204.5952442,
         "MatchedTags": [
-            "turn-based tactics",
-            "tactical rpg",
             "turn-based strategy",
             "strategy",
-            "turn-based combat",
+            "grand strategy",
+            "tactical rpg",
+            "turn-based tactics",
             "tactical",
+            "turn-based combat",
             "resource management"
         ]
     },
@@ -40241,9 +40242,9 @@
         "URL": "https://store.steampowered.com/app/4620320/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4620320/1b75143781e542d62e45b586aad0638eda20d82c/header.jpg?t=1776988138",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1776989096.9873242,
+        "Date": "May 13, 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778645883.5563948,
         "MatchedTags": [
             "resource management",
             "real time tactics",
@@ -45004,9 +45005,9 @@
         "URL": "https://store.steampowered.com/app/4495510/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4495510/abadcf9dd52e7aceacb8243139822a931bae2118/header.jpg?t=1777402592",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-28",
-        "AddedTimestamp": 1777409009.7815542,
+        "Date": "May 12, 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778645841.76659,
         "MatchedTags": [
             "economy",
             "resource management"
@@ -57039,6 +57040,185 @@
             "base building",
             "resource management",
             "economy"
+        ]
+    },
+    "4049670": {
+        "Title": "Boxed In",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4049670/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4049670/cb1581dfd95bd272183db2b626ec575c7602ec1b/header.jpg?t=1778643245",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778645802.1159568,
+        "MatchedTags": [
+            "strategy",
+            "horror"
+        ]
+    },
+    "4350960": {
+        "Title": "Defense Of Village",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4350960/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4350960/d044c7ffd90a4b583434e295e9ad85f2b04ad040/header.jpg?t=1778643291",
+        "Date": "Aug 18, 2027",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778645827.9331088,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "4491130": {
+        "Title": "Kings Call 2",
+        "Email": "",
+        "Discord": "https://discord.gg/RVKMdCHam6",
+        "URL": "https://store.steampowered.com/app/4491130/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4491130/15aea01e1afcdd23f8cddda7fd21edd595f12e48/header.jpg?t=1778633218",
+        "Date": "Jun 29, 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778645839.8424437,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "real time tactics",
+            "turn-based tactics"
+        ]
+    },
+    "4615760": {
+        "Title": "Poker King",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4615760/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4615760/7da496402049491bd989e6b5644fe1f600fa217f/header.jpg?t=1778633217",
+        "Date": "2027",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778645881.5447416,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4654510": {
+        "Title": "Erareset: Rogue Forum",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4654510/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4654510/e53385c3737a11a2041b73e29f773964faa24b9a/header.jpg?t=1778645274",
+        "Date": "Jun 12, 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778645903.4713528,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4672140": {
+        "Title": "WinBolo",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4672140/",
+        "Site": "https://www.winbolo.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4672140/d47380fec0013ce7372fc6d5332fa37c148b7e58/header.jpg?t=1778638050",
+        "Date": "June 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778645914.4339895,
+        "MatchedTags": [
+            "strategy",
+            "base building",
+            "resource management"
+        ]
+    },
+    "4672630": {
+        "Title": "Pygmalion and the Kingdom of Rot",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4672630/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4672630/9a2f0da2446b2b8f3fcf5c4f8568f495f796470c/header.jpg?t=1778631576",
+        "Date": "2027",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778645918.127465,
+        "MatchedTags": [
+            "tower defense",
+            "strategy"
+        ]
+    },
+    "4685070": {
+        "Title": "Far Mining",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4685070/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685070/ff96816f3244f912f81403e668dca39ddd578611/header.jpg?t=1778636695",
+        "Date": "Jun 4, 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778645927.2355087,
+        "MatchedTags": [
+            "resource management",
+            "management"
+        ]
+    },
+    "4712460": {
+        "Title": "Grinny\u2019s Playhouse",
+        "Email": "",
+        "Discord": "https://discord.com/invite/jEsTMEj2f3",
+        "URL": "https://store.steampowered.com/app/4712460/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4712460/70d50f62835487ca0f4499c63d7de81d90f2b5a7/header.jpg?t=1778642801",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778645964.2207403,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4718600": {
+        "Title": "\u5973\u7687\u7684\u7edd\u8272\u7537\u5ba0",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4718600/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4718600/cc48f38b359ae78d2425493e4b23e673d4042908/header.jpg?t=1778639599",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778645967.1775532,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4720380": {
+        "Title": "\u5728\u7ebf\u5730\u7403\uff1aEarth Online",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4720380/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4720380/9fedf47c827b515cd8d9905c343151b3893955f8/header.jpg?t=1778631524",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778645974.2387698,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4720830": {
+        "Title": "Backrooms: The Incident",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4720830/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4720830/e2aae44c6209d421d16c5889565f90f13d9db2ef/header.jpg?t=1778644356",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-13",
+        "AddedTimestamp": 1778645977.1214814,
+        "MatchedTags": [
+            "psychological horror"
         ]
     }
 }
