@@ -685,9 +685,9 @@
         "URL": "https://store.steampowered.com/app/4486300/",
         "Site": "https://funkmunki.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4486300/799ebf0139230c40ce1856e4179f695e1c12cf4c/header.jpg?t=1772650682",
-        "Date": "July 2026",
-        "AddedDate": "2026-03-11",
-        "AddedTimestamp": 1773245101.7744827,
+        "Date": "To be announced",
+        "AddedDate": "2026-05-14",
+        "AddedTimestamp": 1778772948.3544586,
         "MatchedTags": [
             "management",
             "resource management"
@@ -45143,9 +45143,9 @@
         "URL": "https://store.steampowered.com/app/4515560/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4515560/5bfc48f54df33f1ed1aab2937c796355ac5c95c3/header.jpg?t=1777427976",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-07",
-        "AddedTimestamp": 1778150168.5325143,
+        "Date": "May 28, 2026",
+        "AddedDate": "2026-05-14",
+        "AddedTimestamp": 1778772957.2262194,
         "MatchedTags": [
             "strategy",
             "management",
@@ -52925,10 +52925,11 @@
         "URL": "https://store.steampowered.com/app/4554420/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4554420/44407daf82bb514dabc6dd60aed454412df67285/header.jpg?t=1778108226",
-        "Date": "May 14, 2026",
-        "AddedDate": "2026-05-07",
-        "AddedTimestamp": 1778126870.4798882,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-14",
+        "AddedTimestamp": 1778772969.9651947,
         "MatchedTags": [
+            "turn-based strategy",
             "strategy"
         ]
     },
@@ -58577,6 +58578,122 @@
         "MatchedTags": [
             "strategy",
             "resource management"
+        ]
+    },
+    "4450300": {
+        "Title": "Solderia - Fall of Kings",
+        "Email": "",
+        "Discord": "https://discord.gg/solderia",
+        "URL": "https://store.steampowered.com/app/4450300/",
+        "Site": "https://solderia.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4450300/d27326a063ccb6344cb2218040fe8a2751b83a0c/header.jpg?t=1778770566",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-05-14",
+        "AddedTimestamp": 1778772941.4149938,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4515420": {
+        "Title": "Curtain Call",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4515420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4515420/a012d5cfdd8b9a0857182bc24e8479ee6cb9ee5d/header.jpg?t=1778764270",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-14",
+        "AddedTimestamp": 1778772954.1214945,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4577070": {
+        "Title": "Falling Apart",
+        "Email": "",
+        "Discord": "https://discord.gg/YUQqmDhnVG",
+        "URL": "https://store.steampowered.com/app/4577070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4577070/db6b0d90e79d6d22c237a236b53d8a434c7dac4e/header.jpg?t=1778771989",
+        "Date": "2027",
+        "AddedDate": "2026-05-14",
+        "AddedTimestamp": 1778772975.6899955,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4583570": {
+        "Title": "Stravaeger",
+        "Email": "",
+        "Discord": "https://discord.gg/SV5rS8Xs6B",
+        "URL": "https://store.steampowered.com/app/4583570/",
+        "Site": "https://stravaeger.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4583570/bc18da8bcf24b442366656cc41d2fa46cc8613d7/header.jpg?t=1778767730",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-14",
+        "AddedTimestamp": 1778772978.5558655,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "4700970": {
+        "Title": "Fortuna",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4700970/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4700970/17357c7133e4cacb17dd6091af5df27c9bb181ca/header.jpg?t=1778764451",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-14",
+        "AddedTimestamp": 1778773018.4004374,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4706110": {
+        "Title": "Naughty Factory",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4706110/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4706110/16a9ec8a7659048aa4ab07602c179e478aa0cbcd/header.jpg?t=1778772053",
+        "Date": "Dec 31, 2027",
+        "AddedDate": "2026-05-14",
+        "AddedTimestamp": 1778773020.1822252,
+        "MatchedTags": [
+            "economy",
+            "resource management"
+        ]
+    },
+    "4711390": {
+        "Title": "Bunker 14",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4711390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4711390/53a488bab1d339c99d97be0416dff44e5220d5e3/header.jpg?t=1778771556",
+        "Date": "May 29, 2026",
+        "AddedDate": "2026-05-14",
+        "AddedTimestamp": 1778773023.2501678,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4729230": {
+        "Title": "Petals and Pots: Plant Shop Simulator",
+        "Email": "",
+        "Discord": "https://discord.gg/kEPdsy2BHn",
+        "URL": "https://store.steampowered.com/app/4729230/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4729230/b49169a82b7b9293d2284f8a8a00332945a00a59/header.jpg?t=1778771939",
+        "Date": "2027",
+        "AddedDate": "2026-05-14",
+        "AddedTimestamp": 1778773032.7643847,
+        "MatchedTags": [
+            "management",
+            "economy"
         ]
     }
 }
