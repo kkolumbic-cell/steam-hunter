@@ -4865,7 +4865,7 @@
     "4461140": {
         "Title": "Squadika",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/mJfD6tXbc",
         "URL": "https://store.steampowered.com/app/4461140/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4461140/c8a5c5bfca8664cf138cac84a6af31e4e9ebf8ab/header.jpg?t=1773141977",
@@ -53328,7 +53328,8 @@
         "MatchedTags": [
             "horror",
             "psychological horror",
-            "survival horror"
+            "survival horror",
+            "strategy"
         ]
     },
     "4705200": {
@@ -58945,6 +58946,95 @@
         "AddedTimestamp": 1778789110.5920537,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4106470": {
+        "Title": "The Essence of Thievery",
+        "Email": "",
+        "Discord": "https://discord.gg/vwjTu7R",
+        "URL": "https://store.steampowered.com/app/4106470/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4106470/32831098b196d8ac2aa4490142e94a68e38334eb/header.jpg?t=1778793757",
+        "Date": "TBA",
+        "AddedDate": "2026-05-14",
+        "AddedTimestamp": 1778794660.9905775,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4290130": {
+        "Title": "Road of a Survivor",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4290130/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4290130/035a71c9c692a40897edd28a2696124b1192ae75/header.jpg?t=1778790264",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-14",
+        "AddedTimestamp": 1778794670.1414964,
+        "MatchedTags": [
+            "colony sim",
+            "management",
+            "base building"
+        ]
+    },
+    "4546480": {
+        "Title": "Along the Lonely Shadows",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4546480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4546480/68f7b0fa92397a5004b7528872ae4e7fd1311018/header.jpg?t=1778791202",
+        "Date": "2027",
+        "AddedDate": "2026-05-14",
+        "AddedTimestamp": 1778794692.642091,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4609640": {
+        "Title": "Wayward Crown",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4609640/",
+        "Site": "https://adventureguild.waywardcrown.workers.dev/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4609640/2c57fb38226b4b6a1e403f1453bf50fd22f39bb7/header.jpg?t=1778792569",
+        "Date": "2026",
+        "AddedDate": "2026-05-14",
+        "AddedTimestamp": 1778794703.4590912,
+        "MatchedTags": [
+            "city builder",
+            "strategy",
+            "base building",
+            "real time tactics"
+        ]
+    },
+    "4709420": {
+        "Title": "HACKING INTO EREBUS",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4709420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4709420/9c02f682e73ae9b04712af9f51da04f19db8ad7a/header.jpg?t=1778792642",
+        "Date": "December 2026",
+        "AddedDate": "2026-05-14",
+        "AddedTimestamp": 1778794734.0503948,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4717260": {
+        "Title": "Are You A Pilot",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4717260/",
+        "Site": "https://areyouapilot.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4717260/8042cda2c675c4fd6bf4dbc9fdf72ef35800f06d/header.jpg?t=1778792084",
+        "Date": "May 28, 2026",
+        "AddedDate": "2026-05-14",
+        "AddedTimestamp": 1778794736.3387043,
+        "MatchedTags": [
+            "turn-based tactics"
         ]
     }
 }
