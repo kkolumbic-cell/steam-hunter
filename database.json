@@ -14828,6 +14828,7 @@
         "AddedTimestamp": 1775509037.898539,
         "MatchedTags": [
             "management",
+            "economy",
             "base building"
         ]
     },
@@ -21497,7 +21498,9 @@
         "AddedDate": "2026-04-02",
         "AddedTimestamp": 1775170347.225789,
         "MatchedTags": [
-            "psychological horror"
+            "base building",
+            "psychological horror",
+            "resource management"
         ]
     },
     "4558620": {
@@ -47068,9 +47071,9 @@
         "URL": "https://store.steampowered.com/app/4663320/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4663320/8d49289f19957829693098bca838e23450a6f80c/header.jpg?t=1777562827",
-        "Date": "May 5, 2026",
-        "AddedDate": "2026-04-30",
-        "AddedTimestamp": 1777567928.895437,
+        "Date": "May 14, 2026",
+        "AddedDate": "2026-05-14",
+        "AddedTimestamp": 1778764088.760427,
         "MatchedTags": [
             "turn-based tactics"
         ]
@@ -53958,9 +53961,9 @@
         "URL": "https://store.steampowered.com/app/4673440/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4673440/63aa6bdd1e6f7a44f76d95802e1974ecd4a05e05/header.jpg?t=1778186272",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-05-07",
-        "AddedTimestamp": 1778188622.2765324,
+        "Date": "To be announced",
+        "AddedDate": "2026-05-14",
+        "AddedTimestamp": 1778764093.342123,
         "MatchedTags": [
             "strategy",
             "city builder",
@@ -58514,6 +58517,66 @@
             "economy",
             "resource management",
             "management"
+        ]
+    },
+    "3524440": {
+        "Title": "SeizeTheMap",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3524440/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3524440/2a2d2996445d5266318e92dae273a20b72a9204f/header.jpg?t=1778760029",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-14",
+        "AddedTimestamp": 1778763988.513963,
+        "MatchedTags": [
+            "strategy",
+            "base building",
+            "tactical rpg"
+        ]
+    },
+    "4670050": {
+        "Title": "Going All In",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4670050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4670050/61db62b780a1588e8dbfa7972d1fc325688dfc97/header.jpg?t=1778763022",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-14",
+        "AddedTimestamp": 1778764091.264914,
+        "MatchedTags": [
+            "resource management",
+            "economy"
+        ]
+    },
+    "4706030": {
+        "Title": "Spaceman's Luck",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4706030/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4706030/5188a634b72791bf00ef04f97a9bd3eda6dc3150/header.jpg?t=1778755334",
+        "Date": "Jun 23, 2026",
+        "AddedDate": "2026-05-14",
+        "AddedTimestamp": 1778764115.0541966,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4724190": {
+        "Title": "Into the Planet's Flesh",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4724190/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4724190/93babf914c97a8d20fd85f87601b46563299c41d/header.jpg?t=1778762664",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-14",
+        "AddedTimestamp": 1778764124.993604,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
         ]
     }
 }
