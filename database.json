@@ -20306,9 +20306,9 @@
         "URL": "https://store.steampowered.com/app/4362760/",
         "Site": "https://theforgottennightmare.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4362760/cd203a54405984d2f4ebe430cfb8e53562e8c8b7/header.jpg?t=1775060729",
-        "Date": "May 2026",
-        "AddedDate": "2026-05-07",
-        "AddedTimestamp": 1778126834.4669938,
+        "Date": "May 15, 2026",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778864518.596311,
         "MatchedTags": [
             "horror"
         ]
@@ -27028,9 +27028,9 @@
         "URL": "https://store.steampowered.com/app/4591720/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4591720/346da6e40db8331f5e978bb54cfa6b5b2b66aaa9/header.jpg?t=1775782820",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-07",
-        "AddedTimestamp": 1778150203.6578867,
+        "Date": "May 15, 2026",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778864579.9201643,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -35223,7 +35223,7 @@
     "4502890": {
         "Title": "CheatCheat",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/c75wG8Bg7U",
         "URL": "https://store.steampowered.com/app/4502890/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4502890/791da7f883280ffff34e2e8f328cc9a69dd73c71/header.jpg?t=1776560613",
@@ -43692,7 +43692,8 @@
         "AddedTimestamp": 1778079099.6774092,
         "MatchedTags": [
             "horror",
-            "survival horror"
+            "survival horror",
+            "psychological horror"
         ]
     },
     "4655610": {
@@ -46354,9 +46355,9 @@
         "URL": "https://store.steampowered.com/app/3554150/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3554150/413475f6828ac550a1dba1f06bf89910495a8237/header.jpg?t=1777520501",
-        "Date": "May 11, 2026",
-        "AddedDate": "2026-04-30",
-        "AddedTimestamp": 1777521971.9885135,
+        "Date": "May 15, 2026",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778864503.4755526,
         "MatchedTags": [
             "horror"
         ]
@@ -48570,9 +48571,9 @@
         "URL": "https://store.steampowered.com/app/4578650/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4578650/a87dbb53d565dd30afb4c0a820f86352ed247204/header.jpg?t=1777662094",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-02",
-        "AddedTimestamp": 1777745000.7606893,
+        "Date": "May 15, 2026",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778864574.712328,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -48690,9 +48691,9 @@
         "URL": "https://store.steampowered.com/app/4686320/",
         "Site": "https://valtrion-digital.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4686320/d8bb51aab78257f3a20df80f89f45a938f677e67/header.jpg?t=1777668070",
-        "Date": "May 11, 2026",
-        "AddedDate": "2026-05-01",
-        "AddedTimestamp": 1777669833.892518,
+        "Date": "May 15, 2026",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778864616.549872,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -59530,11 +59531,105 @@
         "URL": "https://store.steampowered.com/app/4718860/",
         "Site": "https://www.dexsolutions-games.eu",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4718860/b9bf62da34d4b96ed5d0c2316a76ce7e3cd8d787/header.jpg?t=1778855366",
-        "Date": "TBA",
+        "Date": "To be announced",
         "AddedDate": "2026-05-15",
-        "AddedTimestamp": 1778856013.0245404,
+        "AddedTimestamp": 1778864649.8062053,
         "MatchedTags": [
             "management"
+        ]
+    },
+    "4504440": {
+        "Title": "Star Raker",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4504440/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4504440/517879ba52e96fca832f26b51e5a87b3b07ae163/header.jpg?t=1778860922",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778864545.190677,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4616160": {
+        "Title": "Vellar",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4616160/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4616160/9d5289b1a2175556b30279952dc0348ccb74eb21/header.jpg?t=1778857042",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778864585.0056086,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4632410": {
+        "Title": "Mountains From Mole Hills",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4632410/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4632410/e6ca1fb7d619c81e6a4963462cb510ee605b7717/header.jpg?t=1778860217",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778864592.6006413,
+        "MatchedTags": [
+            "economy",
+            "management"
+        ]
+    },
+    "4660280": {
+        "Title": "DUAL PROTOCOL: The Case of Eva & Miles",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4660280/",
+        "Site": "https://aegeancrafters.co",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4660280/dfb1dd63fc0e98e00e7bdc9cb16bfa800256abe3/header.jpg?t=1778864221",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778864608.3706784,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4667170": {
+        "Title": "Heart Duels",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4667170/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4667170/1ec6d7aced8f5d08c8ee29e9b5ee9eff99eef9ba/header.jpg?t=1778863538",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778864610.46211,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "turn-based combat",
+            "turn-based strategy",
+            "tactical"
+        ]
+    },
+    "4710190": {
+        "Title": "NULL DUN",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4710190/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4710190/3aab8ae33f08c1333cacd3302c9eccd51ec010c1/header.jpg?t=1778857589",
+        "Date": "Jun 18, 2026",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778864640.9525118,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "turn-based strategy",
+            "tactical"
         ]
     }
 }
