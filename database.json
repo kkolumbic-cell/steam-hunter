@@ -15006,9 +15006,10 @@
         "AddedDate": "2026-05-08",
         "AddedTimestamp": 1778278351.0847168,
         "MatchedTags": [
-            "psychological horror",
             "horror",
-            "management"
+            "psychological horror",
+            "management",
+            "survival horror"
         ]
     },
     "4535860": {
@@ -48660,9 +48661,9 @@
         "URL": "https://store.steampowered.com/app/4673130/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4673130/13ba2af44d54b915455be6ccb891a747779e5cb9/header.jpg?t=1777667181",
-        "Date": "May 18, 2026",
-        "AddedDate": "2026-05-02",
-        "AddedTimestamp": 1777711563.1586947,
+        "Date": "May 15, 2026",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778883159.4963968,
         "MatchedTags": [
             "turn-based tactics",
             "turn-based strategy",
@@ -59722,6 +59723,38 @@
             "survival horror",
             "horror",
             "resource management"
+        ]
+    },
+    "4630180": {
+        "Title": "0KEY!",
+        "Email": "info@devop.games",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4630180/",
+        "Site": "https://www.devop.games/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4630180/33ada0ecd6aee42487ab6f7262e95fc0f59973f6/header.jpg?t=1778878213",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778883156.9769473,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4731590": {
+        "Title": "ChargeDrop",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4731590/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731590/67625dd02e902cbab13d55dfa0a814229f486b42/header.jpg?t=1778880396",
+        "Date": "TBA",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778883176.9664285,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "real time tactics",
+            "tactical"
         ]
     }
 }
