@@ -48154,9 +48154,9 @@
         "URL": "https://store.steampowered.com/app/4687910/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4687910/3ac829548236c31927e03c55d2cd1567724b1aa9/header.jpg?t=1777642107",
-        "Date": "May 2026",
-        "AddedDate": "2026-05-01",
-        "AddedTimestamp": 1777643896.9013114,
+        "Date": "May 15, 2026",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778833166.3158734,
         "MatchedTags": [
             "horror"
         ]
@@ -48846,9 +48846,9 @@
         "URL": "https://store.steampowered.com/app/4688580/",
         "Site": "https://flugames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4688580/6b919430029a0b6844eb7a4b61f40c6978f2c196/header.jpg?t=1777693741",
-        "Date": "May 15, 2026",
-        "AddedDate": "2026-05-02",
-        "AddedTimestamp": 1777694082.5365148,
+        "Date": "May 2026",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778833168.7158303,
         "MatchedTags": [
             "city builder",
             "economy"
@@ -52928,9 +52928,9 @@
         "URL": "https://store.steampowered.com/app/4554420/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4554420/44407daf82bb514dabc6dd60aed454412df67285/header.jpg?t=1778108226",
-        "Date": "May 2026",
-        "AddedDate": "2026-05-14",
-        "AddedTimestamp": 1778782263.4153774,
+        "Date": "May 20, 2026",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778833090.4389384,
         "MatchedTags": [
             "turn-based strategy",
             "strategy"
@@ -55303,7 +55303,7 @@
         "Email": "",
         "Discord": "https://discord.gg/CQtetCrGpA",
         "URL": "https://store.steampowered.com/app/4374530/",
-        "Site": "",
+        "Site": "https://www.hitboxentertainment.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4374530/4dbca015680720b823f3c037d7c9abf9e282cecd/header.jpg?t=1778385988",
         "Date": "Coming soon",
         "AddedDate": "2026-05-10",
@@ -55543,20 +55543,6 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
-        ]
-    },
-    "4648360": {
-        "Title": "Savior Method",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4648360/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4648360/c1fe6ace70586e7eb06c858888b79424f130e7a4/header.jpg?t=1778467168",
-        "Date": "May 24, 2026",
-        "AddedDate": "2026-05-11",
-        "AddedTimestamp": 1778474390.6066318,
-        "MatchedTags": [
-            "real time tactics"
         ]
     },
     "4667260": {
@@ -58924,9 +58910,9 @@
         "URL": "https://store.steampowered.com/app/4699060/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699060/113b512532da21b8e9d32d88b9e0bb788638b188/header.jpg?t=1778782959",
-        "Date": "To be announced",
-        "AddedDate": "2026-05-14",
-        "AddedTimestamp": 1778789095.4260173,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778833179.1016755,
         "MatchedTags": [
             "turn-based tactics",
             "strategy",
@@ -59172,9 +59158,9 @@
         "URL": "https://store.steampowered.com/app/3448740/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3448740/5d4f407d43a9ef1705ed73f82087ba336483273e/header.jpg?t=1778818510",
-        "Date": "Dec 31, 2026",
+        "Date": "2026",
         "AddedDate": "2026-05-15",
-        "AddedTimestamp": 1778819450.6159935,
+        "AddedTimestamp": 1778833055.8762324,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -59314,6 +59300,63 @@
             "turn-based tactics",
             "economy",
             "resource management"
+        ]
+    },
+    "4682760": {
+        "Title": "Silk Home: echoes of the forbidden",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4682760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4682760/83233052690063e2d01475a3b91c62612639750d/header.jpg?t=1778827424",
+        "Date": "May 31, 2026",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778833156.430274,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4684040": {
+        "Title": "Space Fetus Attack Idle Clicker",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4684040/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4684040/e8547a9f5e1992a6154fe5eb1bd51798fb09fc9a/header.jpg?t=1778826468",
+        "Date": "Jun 19, 2026",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778833163.0802743,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4693700": {
+        "Title": "The Infinite Library",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4693700/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4693700/a2bdc31d293dc2e389af17fc996444799ff414d0/header.jpg?t=1778824376",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778833176.3511045,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4705020": {
+        "Title": "The Magician's son \u0648\u0644\u062f \u0627\u0644\u0633\u0627\u062d\u0631",
+        "Email": "",
+        "Discord": "https://discord.gg/2SctXWzU8C",
+        "URL": "https://store.steampowered.com/app/4705020/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4705020/eaf4813cf2e5a93542a5441967a7a6ff601c1fbb/header.jpg?t=1778827425",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778833188.235543,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
