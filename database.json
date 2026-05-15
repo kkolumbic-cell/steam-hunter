@@ -4855,9 +4855,9 @@
         "URL": "https://store.steampowered.com/app/4296030/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4296030/04decabec0f30029959ad5febad6352db07aa918/header.jpg?t=1773141959",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-03-15",
-        "AddedTimestamp": 1773574908.8799808,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778844664.224434,
         "MatchedTags": [
             "survival horror"
         ]
@@ -19621,9 +19621,9 @@
         "URL": "https://store.steampowered.com/app/4528230/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4528230/2d8cf0cc3adc2aefcee7bdeeabff9a3d645059fe/header.jpg?t=1775007519",
-        "Date": "Jul 13, 2026",
-        "AddedDate": "2026-04-01",
-        "AddedTimestamp": 1775015272.7456453,
+        "Date": "Nov 3, 2026",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778844716.679059,
         "MatchedTags": [
             "strategy"
         ]
@@ -23936,9 +23936,9 @@
         "URL": "https://store.steampowered.com/app/4506500/",
         "Site": "https://motiyagames.sakura.ne.jp/MotiyaGameDepSite/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4506500/f9952b0c20aead6cc60b3296a31d890b472a575a/header.jpg?t=1775556279",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775560542.362016,
+        "Date": "May 15, 2026",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778844697.4533343,
         "MatchedTags": [
             "turn-based tactics"
         ]
@@ -43692,7 +43692,6 @@
         "AddedTimestamp": 1778079099.6774092,
         "MatchedTags": [
             "horror",
-            "psychological horror",
             "survival horror"
         ]
     },
@@ -59357,6 +59356,97 @@
         "AddedTimestamp": 1778833188.235543,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "3452300": {
+        "Title": "Bloody Hype",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3452300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3452300/2ea12d9f009faa7d310e7f8d2ff53e63106758e9/header.jpg?t=1778840230",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778844644.1740057,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4007910": {
+        "Title": "ORE x TRACTOR",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4007910/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4007910/873985518f922e3ef7e839f9f558c13c657bb368/header.jpg?t=1778836780",
+        "Date": "July 2026",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778844652.1509473,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "economy",
+            "management"
+        ]
+    },
+    "4054050": {
+        "Title": "O.B.O.L",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4054050/",
+        "Site": "https://mreliptik.notion.site/O-B-O-L-presskit-361fcdc36ab880f8b7c8f5f54011847d?source=copy_link",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4054050/9c47ad10d60ee984f7ad4291e04d21ffcdc5fb33/header.jpg?t=1778840097",
+        "Date": "2026",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778844654.2915986,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4533150": {
+        "Title": "Toodle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4533150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4533150/c0e35a4de1996df87173dee0221a0c23d28dc20e/header.jpg?t=1778835478",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778844718.9495206,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4596680": {
+        "Title": "Pocket Paradise Restaurant",
+        "Email": "",
+        "Discord": "https://discord.gg/Fd4SNaHmR9",
+        "URL": "https://store.steampowered.com/app/4596680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4596680/5b809d068184e396e10423f4ade62b6ba5f8a034/header.jpg?t=1778838985",
+        "Date": "2026",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778844748.6213646,
+        "MatchedTags": [
+            "management",
+            "economy"
+        ]
+    },
+    "4686110": {
+        "Title": "Agents 404",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4686110/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4686110/5499ba7c535c6bfe3382dd7eafcf3f27aa2a5c2d/header.jpg?t=1778843010",
+        "Date": "TBA",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778844814.9475172,
+        "MatchedTags": [
+            "tactical"
         ]
     }
 }
