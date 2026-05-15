@@ -36350,9 +36350,9 @@
         "URL": "https://store.steampowered.com/app/4628430/",
         "Site": "https://www.gorgonizegames.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4628430/b439884d2c5dddbb81a3c603260054ac0703edcb/header.jpg?t=1776727391",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-04",
-        "AddedTimestamp": 1777867947.6527393,
+        "Date": "October 2026",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778877401.2891123,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -52841,9 +52841,9 @@
         "URL": "https://store.steampowered.com/app/4695200/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4695200/8c117e7fc4d391b19cbfc16209100dfe6eae574e/header.jpg?t=1778095373",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-06",
-        "AddedTimestamp": 1778100594.6485238,
+        "Date": "Jun 8, 2026",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778877425.0355725,
         "MatchedTags": [
             "strategy"
         ]
@@ -59690,6 +59690,37 @@
         "MatchedTags": [
             "base building",
             "survival horror",
+            "resource management"
+        ]
+    },
+    "4637990": {
+        "Title": "Baaad Trip",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4637990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4637990/ba3d733ad55dd0ca57dab30a3885358597f253ed/header.jpg?t=1778875392",
+        "Date": "2026",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778877404.3664212,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4736910": {
+        "Title": "Stigmata",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4736910/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4736910/8222ef5524a9be3a816f27d6fea767c287634bc7/header.jpg?t=1778875581",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-15",
+        "AddedTimestamp": 1778877444.1777606,
+        "MatchedTags": [
+            "psychological horror",
+            "survival horror",
+            "horror",
             "resource management"
         ]
     }
