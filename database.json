@@ -49870,9 +49870,9 @@
         "URL": "https://store.steampowered.com/app/4669230/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4669230/b24c4b5d32e16cf7d967a12d841fe47c7510c5be/header.jpg?t=1777903151",
-        "Date": "May 15, 2026",
-        "AddedDate": "2026-05-12",
-        "AddedTimestamp": 1778603798.2330668,
+        "Date": "May 16, 2026",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778965571.310997,
         "MatchedTags": [
             "economy",
             "management",
@@ -59607,9 +59607,9 @@
         "URL": "https://store.steampowered.com/app/4667170/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4667170/1ec6d7aced8f5d08c8ee29e9b5ee9eff99eef9ba/header.jpg?t=1778863538",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-15",
-        "AddedTimestamp": 1778864610.46211,
+        "Date": "Aug 7, 2026",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778965569.0662687,
         "MatchedTags": [
             "turn-based tactics",
             "turn-based strategy",
@@ -60082,6 +60082,24 @@
         "AddedTimestamp": 1778960163.236656,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4661850": {
+        "Title": "EQUILIBRIUM",
+        "Email": "",
+        "Discord": "https://discord.gg/wVqG5FNZMJ",
+        "URL": "https://store.steampowered.com/app/4661850/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661850/d3870e59ed293b72490c6beb676dba5f7c1ba7ab/header.jpg?t=1778965035",
+        "Date": "Sep 10, 2026",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778965566.316656,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "turn-based strategy",
+            "grand strategy",
+            "resource management"
         ]
     }
 }
