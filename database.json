@@ -10515,9 +10515,9 @@
         "URL": "https://store.steampowered.com/app/4213880/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4213880/5275b35d075331f0b9b9e0f5540432f01484797f/header.jpg?t=1773898600",
-        "Date": "May 2026",
+        "Date": "May 17, 2026",
         "AddedDate": "2026-05-16",
-        "AddedTimestamp": 1778927967.882945,
+        "AddedTimestamp": 1778960093.734414,
         "MatchedTags": [
             "psychological horror",
             "horror",
@@ -17277,9 +17277,9 @@
         "URL": "https://store.steampowered.com/app/4387610/",
         "Site": "https://flatfrog.games",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4387610/a6c16d3356d96256c61067cec7863bbd8ba35f48/header.jpg?t=1774702908",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-04-15",
-        "AddedTimestamp": 1776267579.467747,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778960102.3225105,
         "MatchedTags": [
             "strategy",
             "tower defense"
@@ -18165,9 +18165,9 @@
         "URL": "https://store.steampowered.com/app/3276100/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3276100/230aaa7032b5b4e0441123c7b32b59d77bc010d2/header.jpg?t=1774897007",
-        "Date": "TBA",
-        "AddedDate": "2026-03-30",
-        "AddedTimestamp": 1774898453.6187756,
+        "Date": "To be announced",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778960082.9049866,
         "MatchedTags": [
             "management"
         ]
@@ -19296,7 +19296,8 @@
         "AddedTimestamp": 1776160292.5137827,
         "MatchedTags": [
             "strategy",
-            "survival horror"
+            "survival horror",
+            "horror"
         ]
     },
     "4551420": {
@@ -33029,8 +33030,8 @@
         "AddedTimestamp": 1776358228.4388797,
         "MatchedTags": [
             "strategy",
-            "management",
             "turn-based strategy",
+            "management",
             "resource management"
         ]
     },
@@ -33157,7 +33158,9 @@
         "AddedDate": "2026-04-16",
         "AddedTimestamp": 1776358337.3585014,
         "MatchedTags": [
-            "economy"
+            "economy",
+            "management",
+            "resource management"
         ]
     },
     "2662310": {
@@ -58074,9 +58077,9 @@
         "URL": "https://store.steampowered.com/app/4714600/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4714600/5ee64f7b5f1b2fc62ac6b182dc7bb66e848429de/header.jpg?t=1778708735",
-        "Date": "May 2026",
-        "AddedDate": "2026-05-13",
-        "AddedTimestamp": 1778712082.0633006,
+        "Date": "May 26, 2026",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778960176.7519643,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -60018,6 +60021,67 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "3937090": {
+        "Title": "BugFixer",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3937090/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3937090/5738dee5e74d823192ec9b05d60b065cd4cdb833/header.jpg?t=1778959372",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778960085.0114872,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "3944900": {
+        "Title": "SUBSELF: Lies Deep",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3944900/",
+        "Site": "https://games.salient.pl/projects/subself-lies-deep/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3944900/4bcc5361b291808562cd180236744086e59f3749/header.jpg?t=1778952273",
+        "Date": "2026",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778960087.623586,
+        "MatchedTags": [
+            "psychological horror",
+            "survival horror",
+            "horror"
+        ]
+    },
+    "4224980": {
+        "Title": "Nullogram Blind with horns",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4224980/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224980/1bc1ff57451dedcb223aea2baaa3bf4ff95e6a1b/header.jpg?t=1778954123",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778960096.7786312,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4690030": {
+        "Title": "Weaper",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4690030/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4690030/28726a9dc3c3e1a8aa2bf79bca5af987cc8c6a59/header.jpg?t=1778957928",
+        "Date": "October 2026",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778960163.236656,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
