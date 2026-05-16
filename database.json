@@ -58916,11 +58916,11 @@
         "AddedDate": "2026-05-15",
         "AddedTimestamp": 1778833179.1016755,
         "MatchedTags": [
+            "turn-based strategy",
             "turn-based tactics",
             "strategy",
-            "turn-based strategy",
-            "turn-based combat",
             "management",
+            "turn-based combat",
             "tactical"
         ]
     },
@@ -59943,6 +59943,38 @@
         "MatchedTags": [
             "strategy",
             "tower defense"
+        ]
+    },
+    "4666290": {
+        "Title": "Cursed Soulless Vagabonds",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4666290/",
+        "Site": "https://www.ensorium.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4666290/9f1c656480244857ca27cd28c5051d0f4964be9d/header.jpg?t=1778919507",
+        "Date": "TBA",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778922159.4200318,
+        "MatchedTags": [
+            "tower defense"
+        ]
+    },
+    "4733420": {
+        "Title": "Metro Architect",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4733420/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4733420/a973d7782ce559842cfdc19463289035a6086b71/header.jpg?t=1778913759",
+        "Date": "June 2026",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778922188.1633284,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "economy",
+            "management",
+            "base building"
         ]
     }
 }
