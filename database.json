@@ -30574,7 +30574,7 @@
     "4569140": {
         "Title": "Slay the Party",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/7n592xzX7X",
         "URL": "https://store.steampowered.com/app/4569140/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4569140/7f1342f47ab897e0297b8720645a545587d12fee/header.jpg?t=1776179450",
@@ -60100,6 +60100,22 @@
             "turn-based strategy",
             "grand strategy",
             "resource management"
+        ]
+    },
+    "4706460": {
+        "Title": "Meoware",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4706460/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4706460/83a310883391d54451ae8fd32dda2f71fa5ab5d5/header.jpg?t=1778970856",
+        "Date": "June 2026",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778973040.1186037,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "turn-based tactics"
         ]
     }
 }
