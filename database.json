@@ -22844,9 +22844,9 @@
         "URL": "https://store.steampowered.com/app/4330710/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4330710/64a43ad765c293364215bf8b55c71f50b26dcf91/header.jpg?t=1775375164",
-        "Date": "2026",
-        "AddedDate": "2026-04-05",
-        "AddedTimestamp": 1775379710.8346095,
+        "Date": "Jun 23, 2026",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778904273.0885646,
         "MatchedTags": [
             "tactical"
         ]
@@ -38863,9 +38863,9 @@
         "URL": "https://store.steampowered.com/app/4626410/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4626410/68192df1afe3739c581a4a7b15a2c055211b58a1/header.jpg?t=1776900987",
-        "Date": "May 16, 2026",
-        "AddedDate": "2026-04-29",
-        "AddedTimestamp": 1777463807.1903353,
+        "Date": "May 15, 2026",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778904305.8108308,
         "MatchedTags": [
             "strategy"
         ]
@@ -57370,9 +57370,9 @@
         "URL": "https://store.steampowered.com/app/4697420/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4697420/0beb2d0eb95be0342790b456084378aa3ce78d74/header.jpg?t=1778651752",
-        "Date": "May 20, 2026",
-        "AddedDate": "2026-05-13",
-        "AddedTimestamp": 1778660113.0709252,
+        "Date": "May 2026",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778904323.7545197,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -57459,9 +57459,9 @@
         "URL": "https://store.steampowered.com/app/4726140/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4726140/08f401b679f231b9c80812b479f5393b6bc43c20/header.jpg?t=1778648476",
-        "Date": "May 2026",
-        "AddedDate": "2026-05-13",
-        "AddedTimestamp": 1778679201.2903888,
+        "Date": "May 26, 2026",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778904356.8709497,
         "MatchedTags": [
             "economy",
             "resource management"
@@ -59075,14 +59075,14 @@
     },
     "4568350": {
         "Title": "Beavertale",
-        "Email": "denisseantunezlopez@gmail.com, beavertale.game@gmail.com, miguelsn243@gmail.com, gustavogtznav@gmail.com",
+        "Email": "beavertale.game@gmail.com, gustavogtznav@gmail.com, denisseantunezlopez@gmail.com, miguelsn243@gmail.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4568350/",
         "Site": "https://gustavogtz.github.io/beavertale-html-page/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4568350/0f715b2912b9194089731e0af4b36b499e48cf14/header.jpg?t=1778794802",
-        "Date": "2026",
-        "AddedDate": "2026-05-14",
-        "AddedTimestamp": 1778800425.8462183,
+        "Date": "May 28, 2026",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778904295.644773,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -59801,6 +59801,117 @@
         "AddedTimestamp": 1778890269.7435434,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "2996550": {
+        "Title": "Auto-Astra",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2996550/",
+        "Site": "https://auto-astra.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2996550/529f71c9ae709f59ec23edf8aea83a2ce159d882/header.jpg?t=1778902802",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778904263.2518167,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "base building",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4410730": {
+        "Title": "The Rule of Adult",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4410730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4410730/8e287d820fd5e7104141485d82bac536e45c831f/header.jpg?t=1778903896",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778904277.8498406,
+        "MatchedTags": [
+            "psychological horror",
+            "turn-based combat",
+            "resource management",
+            "strategy"
+        ]
+    },
+    "4626730": {
+        "Title": "HEXED DELTA",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4626730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4626730/6aa0073226e9813e1e551c9fd21b808e0c58a280/header.jpg?t=1778898344",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778904308.389114,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4706340": {
+        "Title": "Bubbly",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4706340/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4706340/56d44415ecab0e1d3c99271a1a00f8dc646e5c03/header.jpg?t=1778900806",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778904328.1022768,
+        "MatchedTags": [
+            "strategy",
+            "economy"
+        ]
+    },
+    "4706790": {
+        "Title": "Dig You Fools",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4706790/",
+        "Site": "https://pixelshuffle.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4706790/09ca0d587d52177801fe2c18880537175b46b1a1/header.jpg?t=1778898622",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778904330.0134463,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4712270": {
+        "Title": "Beyond the Fracture",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4712270/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4712270/1967a638645c18d70466dd84f5445f3f2b970743/header.jpg?t=1778890610",
+        "Date": "September 2026",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778904335.673068,
+        "MatchedTags": [
+            "turn-based strategy",
+            "turn-based tactics",
+            "strategy",
+            "turn-based combat",
+            "tactical"
+        ]
+    },
+    "4718150": {
+        "Title": "The Floral Princes",
+        "Email": "",
+        "Discord": "https://discord.gg/H4t9s6Db",
+        "URL": "https://store.steampowered.com/app/4718150/",
+        "Site": "https://www.official-floral-princes.eu",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4718150/77d7c158bf4f098a3e8484bd38782be2ad3356e8/header.jpg?t=1778902246",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778904341.297688,
+        "MatchedTags": [
+            "turn-based strategy",
+            "turn-based combat"
         ]
     }
 }
