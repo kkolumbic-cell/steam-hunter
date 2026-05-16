@@ -4582,9 +4582,9 @@
         "URL": "https://store.steampowered.com/app/4503170/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4503170/7461b016c667591795280bd9f23de3350803f0ca/header.jpg?t=1773088516",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-05-08",
-        "AddedTimestamp": 1778234190.4073958,
+        "Date": "May 16, 2026",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778944694.4325871,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -52536,7 +52536,7 @@
     },
     "4678810": {
         "Title": "Coloring",
-        "Email": "garanty.studios@gmail.com, promotion@garantystudios.net",
+        "Email": "promotion@garantystudios.net, garanty.studios@gmail.com",
         "Discord": "https://discord.gg/37HGpjm3kx",
         "URL": "https://store.steampowered.com/app/4678810/",
         "Site": "https://www.garantystudios.net",
@@ -59844,9 +59844,9 @@
         "URL": "https://store.steampowered.com/app/4626730/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4626730/6aa0073226e9813e1e551c9fd21b808e0c58a280/header.jpg?t=1778898344",
-        "Date": "Coming soon",
+        "Date": "May 2026",
         "AddedDate": "2026-05-16",
-        "AddedTimestamp": 1778904308.389114,
+        "AddedTimestamp": 1778944719.3735461,
         "MatchedTags": [
             "strategy"
         ]
@@ -59973,6 +59973,22 @@
             "economy",
             "management",
             "base building"
+        ]
+    },
+    "4709990": {
+        "Title": "Crowned",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4709990/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4709990/f3cdf39f0b826893d48c0dbb85e5c7d4feb0b8d8/header.jpg?t=1778943144",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778944736.6184542,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg",
+            "turn-based tactics"
         ]
     }
 }
