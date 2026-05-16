@@ -23370,7 +23370,7 @@
     "4047270": {
         "Title": "Orc Incremental",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/e5KuHX7TqC",
         "URL": "https://store.steampowered.com/app/4047270/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4047270/34b07c4c30965e75316bec78ea8463cad306d4b6/header.jpg?t=1775507762",
@@ -32334,9 +32334,9 @@
         "URL": "https://store.steampowered.com/app/4628110/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4628110/e5d5dad29c7add1604f27b30604912f85d7fcc38/header.jpg?t=1776297310",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-16",
-        "AddedTimestamp": 1776297711.8218813,
+        "Date": "May 16, 2026",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778951861.7258255,
         "MatchedTags": [
             "strategy",
             "economy"
@@ -40358,9 +40358,9 @@
         "URL": "https://store.steampowered.com/app/4567580/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4567580/da24f95a26e9a129ec261c08ec07cd346700df7a/header.jpg?t=1777000666",
-        "Date": "Sep 30, 2026",
-        "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1777002834.6085112,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778951840.2866344,
         "MatchedTags": [
             "strategy"
         ]
@@ -59989,6 +59989,35 @@
             "strategy",
             "tactical rpg",
             "turn-based tactics"
+        ]
+    },
+    "4438840": {
+        "Title": "Upmadillo",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4438840/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4438840/4eb00cfc25669815ca041f4ccb8b9b777fd560d8/header.jpg?t=1778946039",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778951818.5680757,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4661450": {
+        "Title": "MAREGROSSO",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4661450/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661450/2b338d3ad8b8c5939c7f1210d373d7d9e9ec5e2a/header.jpg?t=1778951599",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-16",
+        "AddedTimestamp": 1778951872.933681,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
