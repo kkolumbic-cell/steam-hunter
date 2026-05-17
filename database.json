@@ -31874,9 +31874,9 @@
         "URL": "https://store.steampowered.com/app/4610720/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610720/f46f68148fba98eee9224144c2c0da66401fa6f1/header.jpg?t=1776273419",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-15",
-        "AddedTimestamp": 1776274493.2467413,
+        "Date": "Oct 31, 2026",
+        "AddedDate": "2026-05-17",
+        "AddedTimestamp": 1779026401.8107374,
         "MatchedTags": [
             "horror"
         ]
@@ -59155,10 +59155,10 @@
     },
     "3739440": {
         "Title": "ROAR",
-        "Email": "",
+        "Email": "hello@cupcodestudio.com",
         "Discord": "https://discord.gg/Twrbf3bGrA",
         "URL": "https://store.steampowered.com/app/3739440/",
-        "Site": "",
+        "Site": "https://cupcodestudio.com/roar.php?lang=en",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3739440/a763814cbc6d95ec638271282b684f1feaec901b/header.jpg?t=1778805172",
         "Date": "Sep 24, 2026",
         "AddedDate": "2026-05-15",
@@ -59398,7 +59398,7 @@
     "4533150": {
         "Title": "Toodle",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/cHPNhJH2",
         "URL": "https://store.steampowered.com/app/4533150/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4533150/c0e35a4de1996df87173dee0221a0c23d28dc20e/header.jpg?t=1778835478",
@@ -59406,6 +59406,8 @@
         "AddedDate": "2026-05-15",
         "AddedTimestamp": 1778844718.9495206,
         "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
             "tactical"
         ]
     },
@@ -59600,23 +59602,6 @@
             "turn-based strategy",
             "turn-based combat",
             "strategy"
-        ]
-    },
-    "4710190": {
-        "Title": "NULL DUN",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4710190/",
-        "Site": "",
-        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4710190/3aab8ae33f08c1333cacd3302c9eccd51ec010c1/header.jpg?t=1778857589",
-        "Date": "Jun 18, 2026",
-        "AddedDate": "2026-05-15",
-        "AddedTimestamp": 1778864640.9525118,
-        "MatchedTags": [
-            "turn-based tactics",
-            "strategy",
-            "turn-based strategy",
-            "tactical"
         ]
     },
     "4528250": {
@@ -60193,6 +60178,39 @@
         "MatchedTags": [
             "horror",
             "survival horror",
+            "psychological horror"
+        ]
+    },
+    "4410280": {
+        "Title": "A Psychopomp Besieged",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4410280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4410280/2e6be625ee2c67c403d65b1eb8e22158a2e2df90/header.jpg?t=1779018391",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-17",
+        "AddedTimestamp": 1779026370.004139,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "base building",
+            "turn-based strategy",
+            "tactical"
+        ]
+    },
+    "4727820": {
+        "Title": "content moderator.",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4727820/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4727820/19781b5e7239d7a328b8a02a38d8d5393a85411d/header.jpg?t=1779024131",
+        "Date": "Jun 30, 2026",
+        "AddedDate": "2026-05-17",
+        "AddedTimestamp": 1779026440.5988636,
+        "MatchedTags": [
+            "horror",
             "psychological horror"
         ]
     }
