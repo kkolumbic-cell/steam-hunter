@@ -16628,7 +16628,8 @@
         "AddedDate": "2026-05-05",
         "AddedTimestamp": 1778022866.511006,
         "MatchedTags": [
-            "resource management"
+            "resource management",
+            "strategy"
         ]
     },
     "4556820": {
@@ -43660,9 +43661,9 @@
         "URL": "https://store.steampowered.com/app/4651880/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4651880/2647715d0073b7dac26698e71f92de481d2f27ae/header.jpg?t=1777323813",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-27",
-        "AddedTimestamp": 1777327768.0563319,
+        "Date": "May 17, 2026",
+        "AddedDate": "2026-05-17",
+        "AddedTimestamp": 1779038239.792059,
         "MatchedTags": [
             "horror"
         ]
@@ -49107,9 +49108,9 @@
         "URL": "https://store.steampowered.com/app/4565750/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4565750/1b27693fac6ae5b8243af1fd473d342698142a28/header.jpg?t=1777724745",
-        "Date": "May 2026",
-        "AddedDate": "2026-05-02",
-        "AddedTimestamp": 1777729846.9249313,
+        "Date": "May 17, 2026",
+        "AddedDate": "2026-05-17",
+        "AddedTimestamp": 1779038226.0375547,
         "MatchedTags": [
             "management",
             "economy",
@@ -56352,9 +56353,9 @@
         "URL": "https://store.steampowered.com/app/3515560/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3515560/500bc063fb20014f9ea05ca8a5f66ecfabae243b/header.jpg?t=1778594153",
-        "Date": "Jul 3, 2026",
-        "AddedDate": "2026-05-12",
-        "AddedTimestamp": 1778603624.0282276,
+        "Date": "Jun 26, 2026",
+        "AddedDate": "2026-05-17",
+        "AddedTimestamp": 1779038201.3354483,
         "MatchedTags": [
             "horror"
         ]
@@ -56709,7 +56710,7 @@
         "Email": "",
         "Discord": "https://discord.gg/JfxXwcD2Ku",
         "URL": "https://store.steampowered.com/app/4707130/",
-        "Site": "",
+        "Site": "https://www.lonebadwolfstudios.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4707130/60751c2af11956b5a0e7668cb41f536c0e18d08b/header.jpg?t=1778604372",
         "Date": "Coming soon",
         "AddedDate": "2026-05-12",
@@ -59113,9 +59114,9 @@
         "URL": "https://store.steampowered.com/app/4676420/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4676420/d021e4bae509e3f8470cd662147d1a5f4e0bb861/header.jpg?t=1778798841",
-        "Date": "Dec 31, 2027",
-        "AddedDate": "2026-05-14",
-        "AddedTimestamp": 1778800451.9413161,
+        "Date": "2027",
+        "AddedDate": "2026-05-17",
+        "AddedTimestamp": 1779038247.4491563,
         "MatchedTags": [
             "strategy",
             "base building",
@@ -60211,6 +60212,34 @@
         "AddedTimestamp": 1779026440.5988636,
         "MatchedTags": [
             "horror",
+            "psychological horror"
+        ]
+    },
+    "4167980": {
+        "Title": "The Chair!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4167980/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4167980/454c138af46c1919428abd63f4c32fdf3addd4f5/header.jpg?t=1779038052",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-17",
+        "AddedTimestamp": 1779038210.0454936,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4662910": {
+        "Title": "Drive To Meet",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4662910/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4662910/5c0c73c967abc7283ac97cbc0cf02e54cb18d7d5/header.jpg?t=1779036685",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-17",
+        "AddedTimestamp": 1779038242.5253627,
+        "MatchedTags": [
             "psychological horror"
         ]
     }
