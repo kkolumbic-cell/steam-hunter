@@ -42181,21 +42181,6 @@
             "horror"
         ]
     },
-    "4638280": {
-        "Title": "Peter the Stash Hunter",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4638280/",
-        "Site": "",
-        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4638280/119a97d7e0f89c90308da92a7ac8b6555da89bea/header.jpg?t=1777142010",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-25",
-        "AddedTimestamp": 1777144417.8223066,
-        "MatchedTags": [
-            "economy",
-            "management"
-        ]
-    },
     "4638590": {
         "Title": "Goaldeck",
         "Email": "",
@@ -57826,7 +57811,7 @@
     },
     "4618250": {
         "Title": "Agricola - The King's Farmer",
-        "Email": "info@kannzaubern.de, kannzaubernstudio@gmail.com, u003ekannzaubernstudio@gmail.com, u003einfo@kannzaubern.de",
+        "Email": "u003einfo@kannzaubern.de, u003ekannzaubernstudio@gmail.com, kannzaubernstudio@gmail.com, info@kannzaubern.de",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4618250/",
         "Site": "https://kannzaubern.de",
@@ -60193,6 +60178,22 @@
             "resource management",
             "economy",
             "management"
+        ]
+    },
+    "4699600": {
+        "Title": "Catawanna Mine Tours",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4699600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4699600/5eccb115182f83e77a19f10a64118ce32d56ace6/header.jpg?t=1779017339",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-17",
+        "AddedTimestamp": 1779017694.0106506,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
         ]
     }
 }
