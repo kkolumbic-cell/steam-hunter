@@ -12069,9 +12069,9 @@
         "URL": "https://store.steampowered.com/app/4452480/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4452480/e409f23e10b01d70b607e68a12228d8b373ebb2e/header.jpg?t=1774147950",
-        "Date": "May 2026",
-        "AddedDate": "2026-03-22",
-        "AddedTimestamp": 1774149743.1748657,
+        "Date": "May 29, 2026",
+        "AddedDate": "2026-05-17",
+        "AddedTimestamp": 1779003926.3864505,
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
@@ -56512,14 +56512,14 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4646350/",
-        "Site": "",
+        "Site": "https://www.rorokaii.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4646350/5fc5b17f80dcbe13a8db58019dddd0820aaaa531/header.jpg?t=1778598610",
         "Date": "Coming soon",
         "AddedDate": "2026-05-12",
         "AddedTimestamp": 1778603780.637904,
         "MatchedTags": [
-            "strategy",
             "city builder",
+            "strategy",
             "base building"
         ]
     },
@@ -60146,6 +60146,36 @@
             "base building",
             "resource management",
             "psychological horror"
+        ]
+    },
+    "4505480": {
+        "Title": "Typecraft",
+        "Email": "",
+        "Discord": "https://discord.gg/jzmubqRXY3",
+        "URL": "https://store.steampowered.com/app/4505480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4505480/9737329cfff92ccda262152bef8ae3478bbe40f4/header.jpg?t=1779001817",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-17",
+        "AddedTimestamp": 1779003928.461675,
+        "MatchedTags": [
+            "tower defense"
+        ]
+    },
+    "4622260": {
+        "Title": "\u653e\u7f6e\u65a9\u9b54\u5f55",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4622260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4622260/1d8eb2e603bd52dd7c76b592dea42d6d3d45cbc3/header.jpg?t=1779003055",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-17",
+        "AddedTimestamp": 1779003950.6828778,
+        "MatchedTags": [
+            "turn-based strategy",
+            "strategy",
+            "turn-based combat"
         ]
     }
 }
