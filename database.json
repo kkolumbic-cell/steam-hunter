@@ -41950,7 +41950,7 @@
     "4621970": {
         "Title": "Loop Dungeon - Incremental",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/U9ZAm9SV",
         "URL": "https://store.steampowered.com/app/4621970/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4621970/2fa7a320722e42a519505ae96f6dc56c99854fd2/header.jpg?t=1777108747",
@@ -60256,6 +60256,37 @@
         "MatchedTags": [
             "management",
             "resource management"
+        ]
+    },
+    "4227010": {
+        "Title": "Cave Of Treats",
+        "Email": "",
+        "Discord": "https://discord.gg/Xq83H9gPtd",
+        "URL": "https://store.steampowered.com/app/4227010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4227010/ae59f6bcb751555f995ae4e330a9987472645a46/header.jpg?t=1779058576",
+        "Date": "Jun 18, 2026",
+        "AddedDate": "2026-05-17",
+        "AddedTimestamp": 1779059599.5135489,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "tactical"
+        ]
+    },
+    "4647110": {
+        "Title": "Bravely Doomed",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4647110/",
+        "Site": "https://bravelydoomed.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4647110/3d0a8fde9f6cf25c446f6060c3476a1f1999bec9/header.jpg?t=1779056923",
+        "Date": "2028",
+        "AddedDate": "2026-05-17",
+        "AddedTimestamp": 1779059622.4588363,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
         ]
     }
 }
