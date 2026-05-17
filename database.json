@@ -28770,9 +28770,9 @@
         "URL": "https://store.steampowered.com/app/4598880/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4598880/8e2581dd6a64e0a7851230d358a7fb9c89d04bfc/header.jpg?t=1775920299",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-04-22",
-        "AddedTimestamp": 1776886855.8294475,
+        "Date": "May 17, 2026",
+        "AddedDate": "2026-05-17",
+        "AddedTimestamp": 1779046701.2600203,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -43657,7 +43657,7 @@
     "4651880": {
         "Title": "6600\uff1aThe Park",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/B5qmphJcf",
         "URL": "https://store.steampowered.com/app/4651880/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4651880/2647715d0073b7dac26698e71f92de481d2f27ae/header.jpg?t=1777323813",
@@ -48634,9 +48634,9 @@
         "URL": "https://store.steampowered.com/app/4660050/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4660050/a1bb2e52bf767b0137174a4b092b4a31a34fc841/header.jpg?t=1777665659",
-        "Date": "May 20, 2026",
-        "AddedDate": "2026-05-01",
-        "AddedTimestamp": 1777669818.340436,
+        "Date": "May 2026",
+        "AddedDate": "2026-05-17",
+        "AddedTimestamp": 1779046712.7940643,
         "MatchedTags": [
             "strategy"
         ]
@@ -58993,9 +58993,9 @@
         "URL": "https://store.steampowered.com/app/4709420/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4709420/9c02f682e73ae9b04712af9f51da04f19db8ad7a/header.jpg?t=1778792642",
-        "Date": "December 2026",
-        "AddedDate": "2026-05-14",
-        "AddedTimestamp": 1778794734.0503948,
+        "Date": "March 2027",
+        "AddedDate": "2026-05-17",
+        "AddedTimestamp": 1779046732.6505184,
         "MatchedTags": [
             "strategy"
         ]
@@ -59612,9 +59612,9 @@
         "URL": "https://store.steampowered.com/app/4528250/",
         "Site": "https://persideraindustries.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4528250/8f18cc6d9c92e6d7a72d361232a4274540812b45/header.jpg?t=1778865680",
-        "Date": "July 2026",
-        "AddedDate": "2026-05-15",
-        "AddedTimestamp": 1778871425.8721871,
+        "Date": "June 2026",
+        "AddedDate": "2026-05-17",
+        "AddedTimestamp": 1779046687.9429007,
         "MatchedTags": [
             "strategy"
         ]
@@ -60241,6 +60241,21 @@
         "AddedTimestamp": 1779038242.5253627,
         "MatchedTags": [
             "psychological horror"
+        ]
+    },
+    "4599110": {
+        "Title": "Hotel Simulator",
+        "Email": "",
+        "Discord": "https://discord.gg/8ftsEnqj75",
+        "URL": "https://store.steampowered.com/app/4599110/",
+        "Site": "https://www.twohorizons.pl/#/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4599110/2d27cb76b37b21d512b6cf0e44d6da8849039b37/header.jpg?t=1779044357",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-05-17",
+        "AddedTimestamp": 1779046704.284342,
+        "MatchedTags": [
+            "management",
+            "resource management"
         ]
     }
 }
