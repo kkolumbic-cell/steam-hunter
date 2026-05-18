@@ -2437,7 +2437,7 @@
         "Email": "",
         "Discord": "https://discord.com/invite/YhAUE6xs",
         "URL": "https://store.steampowered.com/app/4429290/",
-        "Site": "",
+        "Site": "https://TheIncentiveProgram.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4429290/34e76ceacd33b9a1718747ec2860a8d09b93a4c9/header.jpg?t=1772784578",
         "Date": "2026",
         "AddedDate": "2026-03-06",
@@ -21021,9 +21021,9 @@
         "URL": "https://store.steampowered.com/app/4563360/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4563360/0d6ae2bb8f1b537e77250dca95e2cdc7e63ac3f8/header.jpg?t=1775119274",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-14",
-        "AddedTimestamp": 1778782266.0193777,
+        "Date": "2026",
+        "AddedDate": "2026-05-18",
+        "AddedTimestamp": 1779131070.5257602,
         "MatchedTags": [
             "city builder",
             "management",
@@ -27493,9 +27493,9 @@
         "URL": "https://store.steampowered.com/app/4218780/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4218780/8d14a4681d4bf4bc7ba70c0f3fc450d4a0666cd2/header.jpg?t=1775828821",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-10",
-        "AddedTimestamp": 1775829100.5756812,
+        "Date": "May 18, 2026",
+        "AddedDate": "2026-05-18",
+        "AddedTimestamp": 1779131042.4513474,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -59049,7 +59049,7 @@
     },
     "4568350": {
         "Title": "Beavertale",
-        "Email": "beavertale.game@gmail.com, gustavogtznav@gmail.com, denisseantunezlopez@gmail.com, miguelsn243@gmail.com",
+        "Email": "beavertale.game@gmail.com, miguelsn243@gmail.com, denisseantunezlopez@gmail.com, gustavogtznav@gmail.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4568350/",
         "Site": "https://gustavogtz.github.io/beavertale-html-page/",
@@ -60362,6 +60362,52 @@
         "AddedTimestamp": 1779122221.109167,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4544910": {
+        "Title": "Block Crime",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4544910/",
+        "Site": "https://www.blockcrimegame.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4544910/f80ae636d3cf66e5ecfa4d61f8a62b7b264c957d/header.jpg?t=1779126354",
+        "Date": "2027",
+        "AddedDate": "2026-05-18",
+        "AddedTimestamp": 1779131066.2980518,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4637870": {
+        "Title": "Smashing Bottles",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4637870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4637870/5a2a3c46823e7109c09b5c4850620f60652f2d37/header.jpg?t=1779126196",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-18",
+        "AddedTimestamp": 1779131090.0157123,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4710720": {
+        "Title": "Lost/Secret A",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4710720/",
+        "Site": "https://sites.google.com/view/ueharacreate/%E3%83%9B%E3%83%BC%E3%83%A0",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4710720/ff948e20fe9c3f6bc36cb5da8f84128689712b42/header.jpg?t=1779126419",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-18",
+        "AddedTimestamp": 1779131107.9595249,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
         ]
     }
 }
