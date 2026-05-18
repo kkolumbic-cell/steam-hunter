@@ -24846,9 +24846,9 @@
         "URL": "https://store.steampowered.com/app/4547330/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4547330/f1f6de36f1b1b747a2c402cf91a892d16005b3c2/header.jpg?t=1775651502",
-        "Date": "Nov 20, 2026",
-        "AddedDate": "2026-04-08",
-        "AddedTimestamp": 1775657057.4018645,
+        "Date": "Apr 16, 2027",
+        "AddedDate": "2026-05-18",
+        "AddedTimestamp": 1779108575.1327162,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -30065,7 +30065,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4542750/",
-        "Site": "",
+        "Site": "https://velato.click/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4542750/5556726d44a300d9f1b9b3492a6c3985da2c449a/header.jpg?t=1776132206",
         "Date": "Coming soon",
         "AddedDate": "2026-04-17",
@@ -39165,9 +39165,9 @@
         "URL": "https://store.steampowered.com/app/4579480/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579480/f2018027ab657d8daacc6a67bdd878cec5f1d684/header.jpg?t=1776928991",
-        "Date": "2027",
-        "AddedDate": "2026-04-23",
-        "AddedTimestamp": 1776935171.3603134,
+        "Date": "April 2027",
+        "AddedDate": "2026-05-18",
+        "AddedTimestamp": 1779108585.6686273,
         "MatchedTags": [
             "survival horror",
             "psychological horror"
@@ -48342,9 +48342,9 @@
         "URL": "https://store.steampowered.com/app/4508350/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4508350/75ac56facc62908bb9873c19aa5df03600b91b3f/header.jpg?t=1777650171",
-        "Date": "2026",
-        "AddedDate": "2026-05-01",
-        "AddedTimestamp": 1777655762.903068,
+        "Date": "May 2026",
+        "AddedDate": "2026-05-18",
+        "AddedTimestamp": 1779108563.1746528,
         "MatchedTags": [
             "turn-based strategy",
             "strategy",
@@ -49667,9 +49667,9 @@
         "URL": "https://store.steampowered.com/app/4685100/",
         "Site": "https://futurats.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4685100/3756155aad8948fda2bc014b16c6574f2224ec65/header.jpg?t=1777891509",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-04",
-        "AddedTimestamp": 1777899550.1322255,
+        "Date": "To be announced",
+        "AddedDate": "2026-05-18",
+        "AddedTimestamp": 1779108641.3085465,
         "MatchedTags": [
             "strategy",
             "tactical",
@@ -50435,9 +50435,9 @@
         "URL": "https://store.steampowered.com/app/4579360/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4579360/fcd50e316b702e54e32d09dcbd694fec29438398/header.jpg?t=1777936551",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-05",
-        "AddedTimestamp": 1777939814.8874755,
+        "Date": "May 18, 2026",
+        "AddedDate": "2026-05-18",
+        "AddedTimestamp": 1779108582.8452106,
         "MatchedTags": [
             "real time tactics",
             "horror",
@@ -55820,9 +55820,9 @@
         "URL": "https://store.steampowered.com/app/4669610/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4669610/a5dbdd32c1d36765859909e7161dde02aa47434c/header.jpg?t=1778528355",
-        "Date": "May 19, 2026",
-        "AddedDate": "2026-05-11",
-        "AddedTimestamp": 1778529989.5744538,
+        "Date": "May 2026",
+        "AddedDate": "2026-05-18",
+        "AddedTimestamp": 1779108629.2497904,
         "MatchedTags": [
             "strategy",
             "turn-based combat"
@@ -60286,6 +60286,52 @@
         "AddedDate": "2026-05-18",
         "AddedTimestamp": 1779094508.2969713,
         "MatchedTags": [
+            "horror"
+        ]
+    },
+    "2938800": {
+        "Title": "SEED",
+        "Email": "",
+        "Discord": "https://discord.com/invite/seedmmo",
+        "URL": "https://store.steampowered.com/app/2938800/",
+        "Site": "https://seed.game",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2938800/7a841c7126d7e63344f5348e3a9072550f147f10/header.jpg?t=1779095524",
+        "Date": "2026",
+        "AddedDate": "2026-05-18",
+        "AddedTimestamp": 1779108510.431087,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "strategy"
+        ]
+    },
+    "4413130": {
+        "Title": "Battlespace Command",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4413130/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4413130/22ff62f2bba29f1ba056af4918e2e55ca9605b76/header.jpg?t=1779097970",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-18",
+        "AddedTimestamp": 1779108539.7734056,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy"
+        ]
+    },
+    "4627740": {
+        "Title": "Death Standing",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4627740/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4627740/14687bb46004787be62072801da9c0d69f87af51/header.jpg?t=1779094928",
+        "Date": "Jun 5, 2026",
+        "AddedDate": "2026-05-18",
+        "AddedTimestamp": 1779108616.7810726,
+        "MatchedTags": [
+            "psychological horror",
             "horror"
         ]
     }
