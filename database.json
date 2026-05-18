@@ -52856,7 +52856,7 @@
     },
     "4653910": {
         "Title": "Bone Stuff",
-        "Email": "support@kaznos.com, business@kaznos.com, hello@kaznos.com, press@kaznos.com",
+        "Email": "press@kaznos.com, business@kaznos.com, hello@kaznos.com, support@kaznos.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4653910/",
         "Site": "https://www.kaznos.com/tr",
@@ -60423,6 +60423,23 @@
         "AddedTimestamp": 1779137285.0827887,
         "MatchedTags": [
             "management",
+            "resource management"
+        ]
+    },
+    "4374670": {
+        "Title": "Timberworks",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4374670/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4374670/f2f3f9b4d1fbd3ec96622a5b0b003f2e335c941a/header.jpg?t=1779140715",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-18",
+        "AddedTimestamp": 1779142513.465975,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "base building",
             "resource management"
         ]
     }
