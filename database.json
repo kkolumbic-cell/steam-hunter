@@ -18804,7 +18804,7 @@
     "4508220": {
         "Title": "Face the Puzzle: Masked Journey",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/T7vKmbkKn3",
         "URL": "https://store.steampowered.com/app/4508220/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4508220/171ff5d0e2426d47b89ca19bec86658ed65fd291/header.jpg?t=1774940167",
@@ -44333,20 +44333,6 @@
             "resource management"
         ]
     },
-    "4459420": {
-        "Title": "Moonlight Cornelia",
-        "Email": "",
-        "Discord": "https://discord.gg/yW54Vr6Q8Q",
-        "URL": "https://store.steampowered.com/app/4459420/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4459420/38bbd12365cc82ea49b7773df640103b88273722/header.jpg?t=1777364430",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-28",
-        "AddedTimestamp": 1777368965.8513756,
-        "MatchedTags": [
-            "turn-based combat"
-        ]
-    },
     "4508110": {
         "Title": "CYBERLIFE",
         "Email": "",
@@ -50309,9 +50295,9 @@
         "URL": "https://store.steampowered.com/app/4594920/",
         "Site": "https://www.detune.co.jp/Triangles.html",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594920/ec8a8adc822690dd1aa240acead6c9542cfee0d4/header.jpg?t=1777928806",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-06",
-        "AddedTimestamp": 1778105412.0466223,
+        "Date": "May 18, 2026",
+        "AddedDate": "2026-05-18",
+        "AddedTimestamp": 1779094459.4502137,
         "MatchedTags": [
             "management"
         ]
@@ -56887,7 +56873,7 @@
     "4705650": {
         "Title": "Silent Shark",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/4FKsGtn2h",
         "URL": "https://store.steampowered.com/app/4705650/",
         "Site": "https://silentshark.app",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4705650/0ea4f81a351509d099b1f11d15d56afb308ba724/header.jpg?t=1778620548",
@@ -57941,9 +57927,9 @@
         "URL": "https://store.steampowered.com/app/4683530/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4683530/e8d7130eda628fca81b4ea14220c5425d9950d88/header.jpg?t=1778699742",
-        "Date": "May 18, 2026",
-        "AddedDate": "2026-05-13",
-        "AddedTimestamp": 1778705914.7399795,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-18",
+        "AddedTimestamp": 1779094494.8413467,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -60287,6 +60273,20 @@
         "MatchedTags": [
             "strategy",
             "turn-based combat"
+        ]
+    },
+    "4700560": {
+        "Title": "The Girl in the Window",
+        "Email": "info@darkdome.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4700560/",
+        "Site": "https://darkdome.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4700560/4c4d303d288a51aefc79522c7418c5816e669fc4/header.jpg?t=1779084050",
+        "Date": "Jun 30, 2026",
+        "AddedDate": "2026-05-18",
+        "AddedTimestamp": 1779094508.2969713,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
