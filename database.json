@@ -2822,7 +2822,6 @@
         "AddedDate": "2026-03-07",
         "AddedTimestamp": 1772916171.4650826,
         "MatchedTags": [
-            "psychological horror",
             "horror"
         ]
     },
@@ -13987,7 +13986,9 @@
         "AddedDate": "2026-03-25",
         "AddedTimestamp": 1774423200.0405085,
         "MatchedTags": [
-            "horror"
+            "horror",
+            "psychological horror",
+            "survival horror"
         ]
     },
     "4535470": {
@@ -32586,9 +32587,9 @@
         "URL": "https://store.steampowered.com/app/3980550/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3980550/4f663d0e20fcb4bf03d209a9c45edcf9f399b991/header.jpg?t=1776318173",
-        "Date": "July 2026",
-        "AddedDate": "2026-04-16",
-        "AddedTimestamp": 1776320070.2983704,
+        "Date": "November 2026",
+        "AddedDate": "2026-05-18",
+        "AddedTimestamp": 1779122049.7817638,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -38563,9 +38564,9 @@
         "URL": "https://store.steampowered.com/app/4644850/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4644850/9cf107a1f0a0c0c9ed3b2005b31668abe25b8a35/header.jpg?t=1776877440",
-        "Date": "August 2026",
-        "AddedDate": "2026-04-22",
-        "AddedTimestamp": 1776892352.504266,
+        "Date": "Aug 26, 2026",
+        "AddedDate": "2026-05-18",
+        "AddedTimestamp": 1779122179.2288847,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -50309,9 +50310,9 @@
         "URL": "https://store.steampowered.com/app/4637070/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4637070/a54a1d0d5567880777f73f168037dc614ede0ff2/header.jpg?t=1777925587",
-        "Date": "May 2026",
-        "AddedDate": "2026-05-11",
-        "AddedTimestamp": 1778474370.9890816,
+        "Date": "May 18, 2026",
+        "AddedDate": "2026-05-18",
+        "AddedTimestamp": 1779122170.5152583,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -58687,8 +58688,7 @@
         "AddedDate": "2026-05-14",
         "AddedTimestamp": 1778782211.241677,
         "MatchedTags": [
-            "strategy",
-            "tactical"
+            "strategy"
         ]
     },
     "4578590": {
@@ -59420,9 +59420,9 @@
         "URL": "https://store.steampowered.com/app/4686110/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4686110/5499ba7c535c6bfe3382dd7eafcf3f27aa2a5c2d/header.jpg?t=1778843010",
-        "Date": "TBA",
-        "AddedDate": "2026-05-15",
-        "AddedTimestamp": 1778844814.9475172,
+        "Date": "To be announced",
+        "AddedDate": "2026-05-18",
+        "AddedTimestamp": 1779122208.1891804,
         "MatchedTags": [
             "tactical"
         ]
@@ -59562,7 +59562,7 @@
     },
     "4660280": {
         "Title": "DUAL PROTOCOL: The Case of Eva & Miles",
-        "Email": "",
+        "Email": "craftersaegean@gmail.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4660280/",
         "Site": "https://aegeancrafters.co",
@@ -60333,6 +60333,35 @@
         "MatchedTags": [
             "psychological horror",
             "horror"
+        ]
+    },
+    "4653700": {
+        "Title": "StarDune",
+        "Email": "",
+        "Discord": "https://discord.com/invite/eEdj2QJcAf",
+        "URL": "https://store.steampowered.com/app/4653700/",
+        "Site": "https://stardunegame.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4653700/b3f1f329ffed67d7271861b2bac56a47c0d3c5ac/header.jpg?t=1779120920",
+        "Date": "TBA",
+        "AddedDate": "2026-05-18",
+        "AddedTimestamp": 1779122183.8413763,
+        "MatchedTags": [
+            "base building",
+            "resource management"
+        ]
+    },
+    "4712350": {
+        "Title": "HypnoTiles",
+        "Email": "",
+        "Discord": "https://discord.gg/EzyzhHcBjj",
+        "URL": "https://store.steampowered.com/app/4712350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4712350/8473bf5b5fbb72fa34495adde962965baebe9a8b/header.jpg?t=1779113707",
+        "Date": "Jun 17, 2026",
+        "AddedDate": "2026-05-18",
+        "AddedTimestamp": 1779122221.109167,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
