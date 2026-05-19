@@ -5918,8 +5918,7 @@
         "AddedTimestamp": 1773431354.702439,
         "MatchedTags": [
             "survival horror",
-            "horror",
-            "psychological horror"
+            "horror"
         ]
     },
     "4492420": {
@@ -9921,8 +9920,8 @@
         "AddedTimestamp": 1779193310.6935863,
         "MatchedTags": [
             "strategy",
-            "resource management",
             "management",
+            "resource management",
             "economy"
         ]
     },
@@ -22324,9 +22323,9 @@
         "URL": "https://store.steampowered.com/app/4532370/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4532370/daeca5e299d35496fe2149811a2d717bbf31a3a8/header.jpg?t=1775231581",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-03",
-        "AddedTimestamp": 1775231785.6139941,
+        "Date": "May 19, 2026",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779218416.5934951,
         "MatchedTags": [
             "strategy",
             "grand strategy",
@@ -42259,10 +42258,9 @@
         "MatchedTags": [
             "city builder",
             "strategy",
-            "real time tactics",
+            "resource management",
             "economy",
-            "management",
-            "resource management"
+            "real time tactics"
         ]
     },
     "4537180": {
@@ -45450,9 +45448,9 @@
         "URL": "https://store.steampowered.com/app/4009170/",
         "Site": "https://www.obrum.io/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4009170/782d324baf511d87d74cf5de8db5a5e7fc8c283a/header.jpg?t=1777450396",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-04-29",
-        "AddedTimestamp": 1777454796.2659082,
+        "Date": "Jun 30, 2026",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779218346.2873354,
         "MatchedTags": [
             "strategy",
             "tactical"
@@ -48050,9 +48048,9 @@
         "URL": "https://store.steampowered.com/app/4176190/",
         "Site": "https://2508.games/game/voidstep",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176190/a3d489d12cf4fda115c63162b3055d491eaff1ae/header.jpg?t=1777643584",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-05-01",
-        "AddedTimestamp": 1777643756.5809162,
+        "Date": "Jun 1, 2026",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779218352.5948129,
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
@@ -52331,9 +52329,9 @@
         "URL": "https://store.steampowered.com/app/4654890/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4654890/9eb0cabf5cc75ea4995d6152049437316eb036dc/header.jpg?t=1778077846",
-        "Date": "May 19, 2026",
-        "AddedDate": "2026-05-06",
-        "AddedTimestamp": 1778079103.5996282,
+        "Date": "To be announced",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779218458.3211422,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -60790,9 +60788,9 @@
         "URL": "https://store.steampowered.com/app/4712290/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4712290/d98cc081a381c85bf57d198136e35a0dfaaea6f8/header.jpg?t=1779207778",
-        "Date": "Sep 30, 2026",
+        "Date": "Q3 2026",
         "AddedDate": "2026-05-19",
-        "AddedTimestamp": 1779208527.362679,
+        "AddedTimestamp": 1779218504.497158,
         "MatchedTags": [
             "tactical rpg",
             "turn-based tactics",
@@ -60877,6 +60875,129 @@
             "strategy",
             "turn-based strategy",
             "turn-based combat"
+        ]
+    },
+    "4627310": {
+        "Title": "KONBOYS",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4627310/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4627310/c6d7237246245bc88b375c15f8f64fb39e97d358/header.jpg?t=1779216403",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779218445.0157125,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4666440": {
+        "Title": "Crounds",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4666440/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4666440/e143d2e20032ead66a6d9a75ee107f6ad1726ffc/header.jpg?t=1779215006",
+        "Date": "Nov 30, 2026",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779218464.8423269,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "tactical",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4699780": {
+        "Title": "The Vlog",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4699780/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699780/68fc603df24b2d5ad3536a07f4fd8180367debc9/header.jpg?t=1779209475",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779218491.4690468,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4702220": {
+        "Title": "The Cursed Land",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4702220/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4702220/e2796d5f3883750afa4dc1e2d0c3ba50830ab16a/header.jpg?t=1779214348",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779218494.7107968,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4712740": {
+        "Title": "Cold Transit",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4712740/",
+        "Site": "https://cold-transit.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4712740/751006cc6261d9c1a4f5ac1bc4202dec25e5268d/header.jpg?t=1779213057",
+        "Date": "June 2026",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779218509.8625834,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4726380": {
+        "Title": "Ruin Adventurer",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4726380/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4726380/b360081d7ca309b1d872cee21e332642e90262f5/header.jpg?t=1779212864",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779218528.9730234,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4729480": {
+        "Title": "Last Ember",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4729480/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729480/ba3ba6ac49cab00e067fcced0619151e8396c027/header.jpg?t=1779217883",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779218533.3796508,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical rpg"
+        ]
+    },
+    "4730290": {
+        "Title": "Dark Workshop Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4730290/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4730290/4d631806096d298395930be576cb3606deb38b5c/header.jpg?t=1779218275",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779218538.4168499,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
