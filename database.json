@@ -45991,9 +45991,9 @@
         "URL": "https://store.steampowered.com/app/4658560/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4658560/9fc4caef237d9e7ec1f575a7a5def62a0af8620a/header.jpg?t=1777487744",
-        "Date": "TBA",
-        "AddedDate": "2026-04-29",
-        "AddedTimestamp": 1777488712.7706442,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779208485.047531,
         "MatchedTags": [
             "strategy"
         ]
@@ -48341,9 +48341,9 @@
         "URL": "https://store.steampowered.com/app/4508350/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4508350/75ac56facc62908bb9873c19aa5df03600b91b3f/header.jpg?t=1777650171",
-        "Date": "May 2026",
-        "AddedDate": "2026-05-18",
-        "AddedTimestamp": 1779108563.1746528,
+        "Date": "May 19, 2026",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779208421.7130377,
         "MatchedTags": [
             "turn-based strategy",
             "strategy",
@@ -49311,7 +49311,7 @@
     "4416760": {
         "Title": "Red or Black",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/7pmcSgK7e",
         "URL": "https://store.steampowered.com/app/4416760/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4416760/837990aea33714a5f127a7e3ba13034e95cf7120/header.jpg?t=1777811568",
@@ -49543,9 +49543,9 @@
         "URL": "https://store.steampowered.com/app/4511540/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4511540/affdf147f573a55142d0f9c4a8a5471b10bc5d62/header.jpg?t=1777885755",
-        "Date": "May 18, 2026",
-        "AddedDate": "2026-05-10",
-        "AddedTimestamp": 1778421448.4513946,
+        "Date": "May 19, 2026",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779208424.5516632,
         "MatchedTags": [
             "strategy",
             "management",
@@ -50110,9 +50110,9 @@
         "URL": "https://store.steampowered.com/app/4696740/",
         "Site": "https://BodyKounts.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4696740/a7186e46a6067ac0df1244d7621110fc36288069/header.jpg?t=1777915324",
-        "Date": "September 2026",
-        "AddedDate": "2026-05-04",
-        "AddedTimestamp": 1777917372.8001757,
+        "Date": "August 2026",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779208514.343235,
         "MatchedTags": [
             "strategy"
         ]
@@ -52548,8 +52548,9 @@
         "AddedDate": "2026-05-06",
         "AddedTimestamp": 1778086683.5831335,
         "MatchedTags": [
-            "psychological horror",
-            "horror"
+            "horror",
+            "survival horror",
+            "psychological horror"
         ]
     },
     "4698340": {
@@ -57770,12 +57771,13 @@
         "URL": "https://store.steampowered.com/app/4437080/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4437080/8117b6d30be3c1853a2b771af8802399f4313b58/header.jpg?t=1778694733",
-        "Date": "To be announced",
-        "AddedDate": "2026-05-13",
-        "AddedTimestamp": 1778699375.6723402,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779208396.8130257,
         "MatchedTags": [
             "tactical rpg",
-            "strategy"
+            "strategy",
+            "tactical"
         ]
     },
     "4588590": {
@@ -60674,6 +60676,207 @@
         "MatchedTags": [
             "resource management",
             "management"
+        ]
+    },
+    "2245600": {
+        "Title": "Case 0 - The Witch",
+        "Email": "",
+        "Discord": "https://discord.gg/9gvvzdsmev",
+        "URL": "https://store.steampowered.com/app/2245600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2245600/143ae911b34148580cb14608c9cc8599d07c98d7/header.jpg?t=1779194561",
+        "Date": "August 2026",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779208330.4581013,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "3199870": {
+        "Title": "Road Diner Simulator: Prologue",
+        "Email": "",
+        "Discord": "https://discord.gg/dragoent",
+        "URL": "https://store.steampowered.com/app/3199870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3199870/df9676e7c661f6966954ee5a95431ccae270f5dd/header.jpg?t=1779202532",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779208335.039021,
+        "MatchedTags": [
+            "economy",
+            "management"
+        ]
+    },
+    "3966430": {
+        "Title": "Where The Road Fades",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3966430/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3966430/f704b9d14bfc13f2abdd849c70fcff195b6d2b86/header.jpg?t=1779207326",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779208344.1455832,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4069760": {
+        "Title": "VR AIM",
+        "Email": "",
+        "Discord": "https://discord.gg/vraim",
+        "URL": "https://store.steampowered.com/app/4069760/",
+        "Site": "https://vraim.com/steam",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4069760/e013acd471657780c2219de92a952275f1eae71b/header.jpg?t=1779195883",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779208350.1270304,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4359740": {
+        "Title": "Ascended Snake",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4359740/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4359740/4a2124ac4301ffa69743b9b50c4a3341f71b544d/header.jpg?t=1779197272",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779208377.6124556,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4677890": {
+        "Title": "Billionaire MAX",
+        "Email": "",
+        "Discord": "https://discord.gg/azw5TyGC",
+        "URL": "https://store.steampowered.com/app/4677890/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4677890/943ad9e99b9d8e9dba584914c9203023e31ef007/header.jpg?t=1779205552",
+        "Date": "Jun 10, 2026",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779208497.1024187,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4681560": {
+        "Title": "Leadville",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4681560/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4681560/b612f56d87e71d3f85c041bd2b50aeb74fe553ef/header.jpg?t=1779193284",
+        "Date": "June 2026",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779208498.96726,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4712290": {
+        "Title": "Chest & Compass: Isles of Vaultara",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4712290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4712290/d98cc081a381c85bf57d198136e35a0dfaaea6f8/header.jpg?t=1779207778",
+        "Date": "Sep 30, 2026",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779208527.362679,
+        "MatchedTags": [
+            "tactical rpg",
+            "turn-based tactics",
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat",
+            "tactical"
+        ]
+    },
+    "4719340": {
+        "Title": "Blackout Protocol",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4719340/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4719340/f35abee7ab80d3cfecce352d182ad3aa0178232d/header.jpg?t=1779204461",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779208539.0967305,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4726330": {
+        "Title": "DEAD UNIT",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4726330/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4726330/0f0c9fcb1bf1440b1ba8667fe9d3496355e42343/header.jpg?t=1779200153",
+        "Date": "October 2026",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779208550.977923,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4736470": {
+        "Title": "Dead Sector",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4736470/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4736470/b225922ac905c6ef335b320013daed27975bd655/header.jpg?t=1779195690",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779208567.1526523,
+        "MatchedTags": [
+            "strategy",
+            "base building"
+        ]
+    },
+    "4738060": {
+        "Title": "Pour Decisions",
+        "Email": "hello@wayshegoesstudios.ca",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4738060/",
+        "Site": "https://wayshegoesstudios.ca/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4738060/999f4a2a8b206b2d5739b200cc36d8974401bb76/header.jpg?t=1779207121",
+        "Date": "June 2026",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779208570.26862,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "base building",
+            "resource management"
+        ]
+    },
+    "4739510": {
+        "Title": "Becoming None",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4739510/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4739510/1619aabb455dd79417d1a38f2c3a70f0c569e2fd/header.jpg?t=1779204737",
+        "Date": "September 2026",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779208585.9255393,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
         ]
     }
 }
