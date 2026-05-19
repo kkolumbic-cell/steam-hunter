@@ -9916,9 +9916,9 @@
         "URL": "https://store.steampowered.com/app/4446010/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446010/ec8e9f97b463f68513796c48e3a283474fd93fc9/header.jpg?t=1773840796",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-03-18",
-        "AddedTimestamp": 1773848788.2650115,
+        "Date": "Q2 2026",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779193310.6935863,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -11562,7 +11562,7 @@
     "4406930": {
         "Title": "Oh Apollo!",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/39vtSg2Cf2",
         "URL": "https://store.steampowered.com/app/4406930/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4406930/134c3c2c0b5abb8dfb9f72409a450cfc0275c1f2/header.jpg?t=1774026775",
@@ -11910,14 +11910,14 @@
         "URL": "https://store.steampowered.com/app/4451570/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4451570/0f670bc89c23d399ffec6c62b6310c3ed1a9317e/header.jpg?t=1774097501",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-21",
-        "AddedTimestamp": 1774098766.2799213,
+        "Date": "2026",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779193313.110564,
         "MatchedTags": [
             "turn-based tactics",
+            "turn-based combat",
             "strategy",
-            "tactical rpg",
-            "turn-based combat"
+            "tactical rpg"
         ]
     },
     "4537500": {
@@ -19137,9 +19137,9 @@
         "URL": "https://store.steampowered.com/app/4570360/",
         "Site": "https://www.catsoulstudios.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4570360/f5da7182ed7204cba44fc3fb8be29fe9d3d1b83b/header.jpg?t=1774978511",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-04-03",
-        "AddedTimestamp": 1775217328.9733682,
+        "Date": "To be announced",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779193339.7685158,
         "MatchedTags": [
             "economy",
             "resource management"
@@ -19369,7 +19369,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4560650/",
-        "Site": "",
+        "Site": "https://revolution-raceway.neocities.org/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4560650/ddaf5c9c7d096ce7c12574dc8ef9cc2a13e48fbd/header.jpg?t=1774993518",
         "Date": "To be announced",
         "AddedDate": "2026-03-31",
@@ -45840,7 +45840,7 @@
         "AddedTimestamp": 1777473248.1540456,
         "MatchedTags": [
             "strategy",
-            "resource management"
+            "management"
         ]
     },
     "4637280": {
@@ -51651,9 +51651,9 @@
         "URL": "https://store.steampowered.com/app/4693190/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4693190/dfec069cf16466a24da911a20016cea4365834e7/header.jpg?t=1778008222",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-05",
-        "AddedTimestamp": 1778012466.7459495,
+        "Date": "May 19, 2026",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779193414.6261857,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -54340,9 +54340,9 @@
         "AddedDate": "2026-05-08",
         "AddedTimestamp": 1778250009.6811013,
         "MatchedTags": [
-            "survival horror",
+            "psychological horror",
             "horror",
-            "psychological horror"
+            "survival horror"
         ]
     },
     "4693800": {
@@ -57242,8 +57242,7 @@
             "turn-based tactics",
             "strategy",
             "tactical rpg",
-            "turn-based combat",
-            "tactical"
+            "turn-based combat"
         ]
     },
     "4601470": {
@@ -59532,7 +59531,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4616160/",
-        "Site": "",
+        "Site": "https://www.indiedb.com/games/httpswwwindiedbcomgamesvellar",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4616160/9d5289b1a2175556b30279952dc0348ccb74eb21/header.jpg?t=1778857042",
         "Date": "Coming soon",
         "AddedDate": "2026-05-15",
@@ -60130,7 +60129,8 @@
         "MatchedTags": [
             "turn-based strategy",
             "strategy",
-            "turn-based combat"
+            "turn-based combat",
+            "turn-based tactics"
         ]
     },
     "4465820": {
@@ -60435,8 +60435,8 @@
         "AddedTimestamp": 1779142513.465975,
         "MatchedTags": [
             "management",
-            "economy",
             "base building",
+            "economy",
             "resource management"
         ]
     },
@@ -60613,6 +60613,67 @@
             "strategy",
             "horror",
             "survival horror"
+        ]
+    },
+    "4606410": {
+        "Title": "Waste No Space",
+        "Email": "",
+        "Discord": "https://discord.gg/aZAxRpf3WU",
+        "URL": "https://store.steampowered.com/app/4606410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4606410/b906938fb3426eac09e2a4a06a84a42f2f951ef4/header.jpg?t=1779180356",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779193364.2417717,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4652780": {
+        "Title": "Black Ledger: The Antique Mafia",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4652780/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4652780/3fa33464500d37f77fa1fe7d6c9de547f7b657a1/header.jpg?t=1779189789",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779193390.5365791,
+        "MatchedTags": [
+            "economy",
+            "management"
+        ]
+    },
+    "4725330": {
+        "Title": "BloodVeil",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4725330/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4725330/699be6cfa24e41f895df24a304db51301d72198c/header.jpg?t=1779191788",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779193432.725664,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "tactical rpg",
+            "turn-based tactics"
+        ]
+    },
+    "4738020": {
+        "Title": "Drink Factory Simulator - Prologue",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4738020/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4738020/4adaf9ba7073795c8eb7e737e7286805eb8f309e/header.jpg?t=1779190057",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779193436.7684774,
+        "MatchedTags": [
+            "resource management",
+            "management"
         ]
     }
 }
