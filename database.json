@@ -37270,7 +37270,7 @@
     "4209160": {
         "Title": "Idyll Isle",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/QTefCHRBxD",
         "URL": "https://store.steampowered.com/app/4209160/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4209160/b55e1b1bc00df7e2341014a2e2f59ce70e8ba22d/header.jpg?t=1776791641",
@@ -48456,8 +48456,8 @@
         "AddedTimestamp": 1777655904.3240693,
         "MatchedTags": [
             "strategy",
-            "turn-based combat",
-            "turn-based tactics"
+            "turn-based tactics",
+            "turn-based combat"
         ]
     },
     "4689360": {
@@ -51154,9 +51154,9 @@
         "URL": "https://store.steampowered.com/app/4671490/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4671490/5ea4ccb616a91037b715d66ef71cffc35dd6d8c6/header.jpg?t=1777986161",
-        "Date": "May 2026",
-        "AddedDate": "2026-05-12",
-        "AddedTimestamp": 1778603801.0516222,
+        "Date": "May 19, 2026",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779180065.0599377,
         "MatchedTags": [
             "strategy"
         ]
@@ -52727,9 +52727,9 @@
         "AddedDate": "2026-05-06",
         "AddedTimestamp": 1778094300.575374,
         "MatchedTags": [
+            "survival horror",
             "horror",
-            "psychological horror",
-            "survival horror"
+            "psychological horror"
         ]
     },
     "4596900": {
@@ -59985,9 +59985,9 @@
         "URL": "https://store.steampowered.com/app/3937090/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3937090/5738dee5e74d823192ec9b05d60b065cd4cdb833/header.jpg?t=1778959372",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-16",
-        "AddedTimestamp": 1778960085.0114872,
+        "Date": "Jul 9, 2026",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779179968.7922122,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -60519,6 +60519,100 @@
         "MatchedTags": [
             "colony sim",
             "strategy"
+        ]
+    },
+    "3412590": {
+        "Title": "Mystic 6",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3412590/",
+        "Site": "https://dryduckgames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3412590/5a73caf67918ec4c56ed4102b0cacb286555e65a/header.jpg?t=1779166858",
+        "Date": "2026",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779179960.0067918,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg",
+            "turn-based combat",
+            "turn-based tactics"
+        ]
+    },
+    "4174720": {
+        "Title": "Line",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4174720/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4174720/411af48058fcc66fd397328dc33e46a63db11d33/header.jpg?t=1779168022",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779179976.2401888,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4550950": {
+        "Title": "JUNK CONNECT",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4550950/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4550950/dd7e9f7d6977d5f6482f72d86facba7b4130734f/header.jpg?t=1779178042",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779180018.0461917,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4629660": {
+        "Title": "HellFactory Inc.",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4629660/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4629660/cdbb18eebea550ae98ec4da954a85d2dba99835e/header.jpg?t=1779167520",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779180051.1236534,
+        "MatchedTags": [
+            "management",
+            "strategy",
+            "resource management",
+            "economy"
+        ]
+    },
+    "4698530": {
+        "Title": "Mortumn Quest - Homecoming",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4698530/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4698530/f92c043dcd6414feea334957ac63978c057310bb/header.jpg?t=1779178424",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779180085.934893,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4710690": {
+        "Title": "Zombie Crawlers",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4710690/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4710690/fb5be7216bc3fd213f7e4dd1f9f979ed47202165/header.jpg?t=1779175534",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-05-19",
+        "AddedTimestamp": 1779180098.8976336,
+        "MatchedTags": [
+            "strategy",
+            "horror",
+            "survival horror"
         ]
     }
 }
