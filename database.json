@@ -6782,7 +6782,7 @@
     "3910750": {
         "Title": "DONUT PANIC",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/W8FzwsTcfW ",
         "URL": "https://store.steampowered.com/app/3910750/",
         "Site": "https://donutpanicgame.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3910750/e629d9af043772bde51aaff57ab976ed86db3e42/header.jpg?t=1773352220",
@@ -8996,8 +8996,7 @@
         "AddedDate": "2026-03-17",
         "AddedTimestamp": 1773748638.4923735,
         "MatchedTags": [
-            "management",
-            "strategy"
+            "management"
         ]
     },
     "4148530": {
@@ -23141,7 +23140,7 @@
     },
     "972450": {
         "Title": "The Zibbo Show",
-        "Email": "",
+        "Email": "info@tesserastudios.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/972450/",
         "Site": "https://www.tesserastudios.com/",
@@ -31424,7 +31423,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4613180/",
-        "Site": "",
+        "Site": "https://goblinzstudio.com/game/dog-in-the-machine/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613180/626474b6a8204f00b115038d3e79609f34c1b83f/header.jpg?t=1776246359",
         "Date": "Q3 2026",
         "AddedDate": "2026-04-15",
@@ -48604,9 +48603,9 @@
         "URL": "https://store.steampowered.com/app/4660050/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4660050/a1bb2e52bf767b0137174a4b092b4a31a34fc841/header.jpg?t=1777665659",
-        "Date": "May 2026",
-        "AddedDate": "2026-05-17",
-        "AddedTimestamp": 1779046712.7940643,
+        "Date": "Q2 2026",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779278753.9317863,
         "MatchedTags": [
             "strategy"
         ]
@@ -52318,9 +52317,9 @@
         "URL": "https://store.steampowered.com/app/4654890/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4654890/9eb0cabf5cc75ea4995d6152049437316eb036dc/header.jpg?t=1778077846",
-        "Date": "To be announced",
-        "AddedDate": "2026-05-19",
-        "AddedTimestamp": 1779218458.3211422,
+        "Date": "May 20, 2026",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779278749.1290596,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -54018,9 +54017,9 @@
         "URL": "https://store.steampowered.com/app/4699620/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4699620/180d96242a7d20cb4cde6a07d970761708eb5141/header.jpg?t=1778194070",
-        "Date": "May 21, 2026",
-        "AddedDate": "2026-05-08",
-        "AddedTimestamp": 1778198959.8068838,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779278777.740104,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -55438,7 +55437,7 @@
     "4386890": {
         "Title": "Dusklander",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/v8cT2EuU",
         "URL": "https://store.steampowered.com/app/4386890/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4386890/79112554cab338adcc671aae4e5fa43a1b3e4cdb/header.jpg?t=1778435920",
@@ -61394,6 +61393,155 @@
             "economy",
             "turn-based strategy",
             "grand strategy"
+        ]
+    },
+    "4194250": {
+        "Title": "\u8214\u72d7\u53cd\u6d3e\u53ea\u60f3\u82df\uff0c\u5973\u4e3b\u4e0d\u6309\u5957\u8def\u8d70\uff01",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4194250/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194250/42c545e753066c2e59a3fa54a2acdc65e1e24e6d/header.jpg?t=1779277507",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779278679.32712,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4483720": {
+        "Title": "\u30ec\u30a4\u30c9\u30aa\u30d6\u30bf\u30a4\u30bf\u30f3",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4483720/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4483720/71b2eafdb5147718e303df5dcbf6ffc642cc2a32/header.jpg?t=1779276186",
+        "Date": "TBA",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779278703.9144454,
+        "MatchedTags": [
+            "tower defense",
+            "tactical rpg",
+            "tactical",
+            "strategy"
+        ]
+    },
+    "4639270": {
+        "Title": "Plant & Profit",
+        "Email": "",
+        "Discord": "https://discord.gg/MRFM2rcjwz",
+        "URL": "https://store.steampowered.com/app/4639270/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4639270/b2b67a053c8d3270ca4a892d01362dbe3140aaf6/header.jpg?t=1779267525",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779278737.0234807,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4645340": {
+        "Title": "Midnight Gas Station",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4645340/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4645340/fd9101b77b292abff9bc1c9c7889cbe54baad461/header.jpg?t=1779271232",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779278746.1693015,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4682450": {
+        "Title": "Dungeons of Desolation Remastered",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4682450/",
+        "Site": "https://www.dungeonsofdesolation.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4682450/c96461ff9b56910a25f25527dff4a23ffd369575/header.jpg?t=1779278617",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779278764.1847475,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4692500": {
+        "Title": "No One Returns",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4692500/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4692500/b7d6c02db0a576ed757aaa90ad68e24883ffa5cb/header.jpg?t=1779275185",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779278767.8147357,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4701370": {
+        "Title": "Come in",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4701370/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4701370/56c48e32db2e2f169f747800b5af3925b8f3c483/header.jpg?t=1779273507",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779278782.0956426,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4703930": {
+        "Title": "Grilluminati",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4703930/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703930/5325aefa04971f8b04fa9f3065bb0964878b4871/header.jpg?t=1779274107",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779278785.14272,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4725290": {
+        "Title": "Escape Line",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4725290/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4725290/6bb9e4accb965f632237f0f35eaee2643bbb82ee/header.jpg?t=1779274994",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779278808.116932,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4747480": {
+        "Title": "CatDemn",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4747480/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4747480/e7b27a3bf22dc75d7d242f241b7edc87eb0cf474/header.jpg?t=1779271950",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779278821.4369314,
+        "MatchedTags": [
+            "real time tactics"
         ]
     }
 }
