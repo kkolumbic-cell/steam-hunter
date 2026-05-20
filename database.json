@@ -34989,21 +34989,6 @@
             "horror"
         ]
     },
-    "4259930": {
-        "Title": "Harpooner",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4259930/",
-        "Site": "",
-        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259930/fba5c95efc7c4d01cafa50f7ab7527134bf20299/header.jpg?t=1776529158",
-        "Date": "2026",
-        "AddedDate": "2026-04-18",
-        "AddedTimestamp": 1776531565.5480227,
-        "MatchedTags": [
-            "resource management",
-            "strategy"
-        ]
-    },
     "4372240": {
         "Title": "MONOPHOBIA",
         "Email": "",
@@ -39586,8 +39571,7 @@
         "AddedTimestamp": 1777154068.8096745,
         "MatchedTags": [
             "economy",
-            "management",
-            "resource management"
+            "management"
         ]
     },
     "3831700": {
@@ -61868,6 +61852,66 @@
             "management",
             "tactical",
             "base building"
+        ]
+    },
+    "3530730": {
+        "Title": "All My Neighbors Are Dead",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3530730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3530730/8c84ab1afd49878706a6103dce35038aefb7f2bb/header.jpg?t=1779315657",
+        "Date": "TBA",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779317217.2593153,
+        "MatchedTags": [
+            "survival horror"
+        ]
+    },
+    "4694530": {
+        "Title": "Under Tower Idle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4694530/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4694530/fe793ba3c005d5f4d28402dc70d51b667d721783/header.jpg?t=1779311800",
+        "Date": "July 2026",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779317245.641604,
+        "MatchedTags": [
+            "strategy",
+            "base building"
+        ]
+    },
+    "4709120": {
+        "Title": "METAXIA",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4709120/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4709120/118abfd807aec5bff89d1f05e67726aff8012ecf/header.jpg?t=1779315949",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779317250.8917375,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4737920": {
+        "Title": "Crisis Commander: Strait Of Hormuz",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4737920/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4737920/49814b32a0c9a5c58d8a162ff057fe02a924df3a/header.jpg?t=1779315692",
+        "Date": "TBA",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779317261.7313838,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tower defense",
+            "economy"
         ]
     }
 }
