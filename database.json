@@ -7141,9 +7141,8 @@
         "AddedDate": "2026-05-11",
         "AddedTimestamp": 1778515949.0008252,
         "MatchedTags": [
-            "base building",
             "management",
-            "strategy"
+            "base building"
         ]
     },
     "4424140": {
@@ -10776,12 +10775,13 @@
         "AddedDate": "2026-03-19",
         "AddedTimestamp": 1773918225.9963756,
         "MatchedTags": [
-            "strategy",
+            "tower defense",
             "city builder",
             "colony sim",
-            "tower defense",
             "economy",
-            "management"
+            "management",
+            "base building",
+            "strategy"
         ]
     },
     "4356900": {
@@ -28222,8 +28222,8 @@
         "AddedDate": "2026-04-10",
         "AddedTimestamp": 1775865181.2716389,
         "MatchedTags": [
-            "survival horror",
-            "horror"
+            "horror",
+            "survival horror"
         ]
     },
     "4389810": {
@@ -35961,9 +35961,9 @@
         "URL": "https://store.steampowered.com/app/4582980/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4582980/660983fe3326f199916324136107a91ab7dd062e/header.jpg?t=1776706210",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-20",
-        "AddedTimestamp": 1776713803.5674393,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779311791.3729985,
         "MatchedTags": [
             "management"
         ]
@@ -42131,8 +42131,8 @@
         "AddedDate": "2026-04-25",
         "AddedTimestamp": 1777144415.3924565,
         "MatchedTags": [
-            "psychological horror",
-            "horror"
+            "horror",
+            "psychological horror"
         ]
     },
     "4638590": {
@@ -43627,9 +43627,9 @@
         "URL": "https://store.steampowered.com/app/4653490/",
         "Site": "https://www.nr7games.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4653490/dd3d24e518af701d190963166bb1ec1cde9f7bd9/header.jpg?t=1777327257",
-        "Date": "Sep 1, 2026",
-        "AddedDate": "2026-05-06",
-        "AddedTimestamp": 1778079099.6774092,
+        "Date": "Oct 1, 2026",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779311821.614814,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -47834,9 +47834,9 @@
         "URL": "https://store.steampowered.com/app/4681820/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4681820/b92f43feccc5ffd5c057770510770d6d3c237a99/header.jpg?t=1777619557",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-01",
-        "AddedTimestamp": 1777621192.0719993,
+        "Date": "2026",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779311834.7161574,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -49763,9 +49763,9 @@
         "AddedDate": "2026-05-04",
         "AddedTimestamp": 1777908340.8011532,
         "MatchedTags": [
-            "strategy",
             "turn-based tactics",
             "turn-based strategy",
+            "strategy",
             "turn-based combat",
             "tactical"
         ]
@@ -50462,9 +50462,9 @@
         "URL": "https://store.steampowered.com/app/3047800/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047800/f86a525f1c2c9e97d0a7092827de334245365f65/header.jpg?t=1777952481",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-18",
-        "AddedTimestamp": 1779137247.9791946,
+        "Date": "May 20, 2026",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779311725.9289176,
         "MatchedTags": [
             "strategy",
             "turn-based combat",
@@ -61786,6 +61786,88 @@
         "AddedTimestamp": 1779302152.2066083,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4534930": {
+        "Title": "What's Inside the Rock?",
+        "Email": "",
+        "Discord": "https://discord.gg/ycyCeqJnfa",
+        "URL": "https://store.steampowered.com/app/4534930/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534930/40f48218ffd9c1a9fdd01d9b142b2001cf9705a0/header.jpg?t=1779304835",
+        "Date": "2026",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779311782.2367053,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4644500": {
+        "Title": "Fearless Crew",
+        "Email": "",
+        "Discord": "https://discord.gg/rpn9gPrt",
+        "URL": "https://store.steampowered.com/app/4644500/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4644500/97a14bc8598c9f41688baf646ef8a6b0ce56c7e4/header.jpg?t=1779310016",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779311817.159927,
+        "MatchedTags": [
+            "survival horror",
+            "horror"
+        ]
+    },
+    "4703820": {
+        "Title": "Space.iZ",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4703820/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703820/db64bbea5e8210371e1cba0f94c5a1e700cb7da2/header.jpg?t=1779304346",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779311848.1851473,
+        "MatchedTags": [
+            "colony sim",
+            "management",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4705760": {
+        "Title": "Combat Arena Tactics",
+        "Email": "",
+        "Discord": "https://discord.com/invite/jnN5T2KXx5",
+        "URL": "https://store.steampowered.com/app/4705760/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705760/23d11c9d9eda163718e87511a30af3c81e4859aa/header.jpg?t=1779302796",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779311851.444281,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical",
+            "turn-based combat"
+        ]
+    },
+    "4735640": {
+        "Title": "Alarm112: Fire Unit",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4735640/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4735640/7b7e8b1368e057eded54832eb95bd7600c810be1/header.jpg?t=1779305884",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779311881.6392756,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "management",
+            "tactical",
+            "base building"
         ]
     }
 }
