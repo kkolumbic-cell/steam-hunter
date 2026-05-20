@@ -3692,9 +3692,9 @@
         "URL": "https://store.steampowered.com/app/4188750/",
         "Site": "https://secupgrade.com/survivingday",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4188750/f2848c8aecaa8168981d626b8bcbb6b7850b029c/header.jpg?t=1772905229",
-        "Date": "To be announced",
-        "AddedDate": "2026-03-19",
-        "AddedTimestamp": 1773956952.9447103,
+        "Date": "Jul 31, 2026",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779302003.397587,
         "MatchedTags": [
             "city builder",
             "colony sim"
@@ -9078,21 +9078,6 @@
             "psychological horror"
         ]
     },
-    "4471030": {
-        "Title": "An Odd Walk: Shinjuku Alley",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4471030/",
-        "Site": "",
-        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4471030/c9ff920e925d4ca241bc5248d06233dd815248be/header.jpg?t=1773759890",
-        "Date": "June 2026",
-        "AddedDate": "2026-05-02",
-        "AddedTimestamp": 1777749577.4505413,
-        "MatchedTags": [
-            "horror",
-            "psychological horror"
-        ]
-    },
     "4515440": {
         "Title": "The Final Chamber",
         "Email": "",
@@ -11237,9 +11222,9 @@
         "URL": "https://store.steampowered.com/app/4526260/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4526260/b78f7426cd3c5544787495173cf094fe61940ec7/header.jpg?t=1773967936",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-20",
-        "AddedTimestamp": 1773976358.3040977,
+        "Date": "May 25, 2026",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779302062.1224558,
         "MatchedTags": [
             "tower defense",
             "strategy",
@@ -33282,10 +33267,7 @@
         "AddedDate": "2026-04-28",
         "AddedTimestamp": 1777396006.4438148,
         "MatchedTags": [
-            "resource management",
-            "management",
-            "economy",
-            "strategy"
+            "management"
         ]
     },
     "4626430": {
@@ -37834,9 +37816,9 @@
         "URL": "https://store.steampowered.com/app/4603640/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4603640/fbf21b6565baaec1587423f09ca3b48f503fe471/header.jpg?t=1776828807",
-        "Date": "2026",
-        "AddedDate": "2026-04-22",
-        "AddedTimestamp": 1776829543.7600548,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779302090.4816833,
         "MatchedTags": [
             "resource management",
             "strategy",
@@ -44054,9 +44036,9 @@
         "URL": "https://store.steampowered.com/app/4638130/",
         "Site": "https://corporealityentertainment.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4638130/6e615e6520d9ca39249dd51204d161587d50818e/header.jpg?t=1777338076",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-28",
-        "AddedTimestamp": 1777349450.5766706,
+        "Date": "May 29, 2026",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779302105.8078685,
         "MatchedTags": [
             "economy",
             "management",
@@ -53051,9 +53033,9 @@
         "URL": "https://store.steampowered.com/app/4696440/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4696440/c020dd11e6dae4c9ff58cca0b57f78789caa8f27/header.jpg?t=1778118665",
-        "Date": "May 2026",
-        "AddedDate": "2026-05-07",
-        "AddedTimestamp": 1778126961.7751882,
+        "Date": "May 20, 2026",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779302128.753019,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -60638,7 +60620,7 @@
     "4738020": {
         "Title": "Drink Factory Simulator - Prologue",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/CXJcbAvggY",
         "URL": "https://store.steampowered.com/app/4738020/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4738020/4adaf9ba7073795c8eb7e737e7286805eb8f309e/header.jpg?t=1779190057",
@@ -61711,6 +61693,99 @@
             "horror",
             "survival horror",
             "psychological horror"
+        ]
+    },
+    "837520": {
+        "Title": "The Night Janitor",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/837520/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/837520/36e3027cdd81ce2a2e0a754be43597e21d1b6352/header.jpg?t=1779298724",
+        "Date": "Oct 26, 2026",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779301990.7555137,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4290150": {
+        "Title": "Unabandoned: Haunted Hallways",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4290150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4290150/d3c52df2a544d5fe422c0bed8d66d9a32bec5098/header.jpg?t=1779293552",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779302018.5334802,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4357680": {
+        "Title": "Lilifel",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4357680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4357680/54b856c42c67cd2696a2f7fe94b484afad84abb6/header.jpg?t=1779295154",
+        "Date": "2026",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779302023.0185194,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "psychological horror"
+        ]
+    },
+    "4385740": {
+        "Title": "SCP: Antimemetics Division",
+        "Email": "",
+        "Discord": "https://discord.gg/5ztNXvTSPA",
+        "URL": "https://store.steampowered.com/app/4385740/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4385740/100e0e1dd7c1b2d11bcbd87402e865fe01bc46ba/header.jpg?t=1779296244",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779302030.297166,
+        "MatchedTags": [
+            "psychological horror",
+            "survival horror",
+            "resource management",
+            "horror"
+        ]
+    },
+    "4632030": {
+        "Title": "Defi's Devotion",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4632030/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4632030/e4d0c5dc301bdf02d45e7375d75e0f06236caa58/header.jpg?t=1779292668",
+        "Date": "Jun 4, 2026",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779302098.1159248,
+        "MatchedTags": [
+            "real time tactics",
+            "strategy"
+        ]
+    },
+    "4730320": {
+        "Title": "Shortcut Hero: Grid City",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4730320/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4730320/403ed1654608bd829de2d9bd8f59749113be76f7/header.jpg?t=1779296122",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-20",
+        "AddedTimestamp": 1779302152.2066083,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
