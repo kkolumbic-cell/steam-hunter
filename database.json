@@ -24327,9 +24327,9 @@
         "URL": "https://store.steampowered.com/app/4585260/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4585260/177ff178518bea414849fd9817b4f309e26aea60/header.jpg?t=1775588327",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-20",
-        "AddedTimestamp": 1779292793.241378,
+        "Date": "May 20, 2026",
+        "AddedDate": "2026-05-21",
+        "AddedTimestamp": 1779322772.1575353,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -54876,9 +54876,9 @@
         "URL": "https://store.steampowered.com/app/4710730/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4710730/a8465cdf33cbaa9195e4eb2586e4a8ffe8a3223b/header.jpg?t=1778303099",
-        "Date": "June 2026",
-        "AddedDate": "2026-05-12",
-        "AddedTimestamp": 1778559072.490749,
+        "Date": "Jun 1, 2026",
+        "AddedDate": "2026-05-21",
+        "AddedTimestamp": 1779322800.2251737,
         "MatchedTags": [
             "survival horror",
             "horror"
@@ -61912,6 +61912,67 @@
             "real time tactics",
             "tower defense",
             "economy"
+        ]
+    },
+    "4309310": {
+        "Title": "Voidshift",
+        "Email": "",
+        "Discord": "https://discord.gg/tDjTEST",
+        "URL": "https://store.steampowered.com/app/4309310/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4309310/c85de814a07be38db093ab5581ca285bbdca900e/header.jpg?t=1779318389",
+        "Date": "2027",
+        "AddedDate": "2026-05-21",
+        "AddedTimestamp": 1779322749.9824162,
+        "MatchedTags": [
+            "psychological horror",
+            "survival horror",
+            "horror"
+        ]
+    },
+    "4482620": {
+        "Title": "Unvoided",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4482620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4482620/5d01e569207a72da701f76737d396e48d0bc9982/header.jpg?t=1779320793",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-21",
+        "AddedTimestamp": 1779322754.74176,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "4730960": {
+        "Title": "The Radio Tower",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4730960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4730960/86d5c1d68efc843b7f89b4e2adc2e4904ea4f832/header.jpg?t=1779319053",
+        "Date": "2027",
+        "AddedDate": "2026-05-21",
+        "AddedTimestamp": 1779322809.6958635,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4732810": {
+        "Title": "Gunk",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4732810/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4732810/71382907647b479ad0d2fb2980cd494658a44c70/header.jpg?t=1779320041",
+        "Date": "TBA",
+        "AddedDate": "2026-05-21",
+        "AddedTimestamp": 1779322812.9935038,
+        "MatchedTags": [
+            "horror",
+            "strategy"
         ]
     }
 }
