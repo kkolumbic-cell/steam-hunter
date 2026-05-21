@@ -9761,7 +9761,6 @@
         "AddedDate": "2026-03-18",
         "AddedTimestamp": 1773828802.7570074,
         "MatchedTags": [
-            "management",
             "strategy"
         ]
     },
@@ -21726,9 +21725,9 @@
         "URL": "https://store.steampowered.com/app/4513300/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4513300/d6d8ea290cd1ba3cea8f240759d0fbd1966da15b/header.jpg?t=1775184581",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775532772.0093865,
+        "Date": "2026",
+        "AddedDate": "2026-05-21",
+        "AddedTimestamp": 1779370448.4870741,
         "MatchedTags": [
             "management"
         ]
@@ -41687,7 +41686,7 @@
     },
     "4498560": {
         "Title": "Green Inferno",
-        "Email": "",
+        "Email": "info@fantasticostudio.it",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4498560/",
         "Site": "https://www.fantasticostudio.it/",
@@ -45487,8 +45486,7 @@
         "AddedDate": "2026-04-29",
         "AddedTimestamp": 1777454901.6786149,
         "MatchedTags": [
-            "strategy",
-            "real time tactics"
+            "strategy"
         ]
     },
     "4638120": {
@@ -46676,9 +46674,9 @@
         "URL": "https://store.steampowered.com/app/4338480/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4338480/7b6bac972c7b0e5b44c8d3f7cafedb5544e4020d/header.jpg?t=1777552939",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-30",
-        "AddedTimestamp": 1777559143.2647688,
+        "Date": "May 27, 2026",
+        "AddedDate": "2026-05-21",
+        "AddedTimestamp": 1779370414.6858428,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -48261,9 +48259,9 @@
         "URL": "https://store.steampowered.com/app/3916260/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3916260/292b5119d56af4d329d7062f5d58798dd153b96d/header.jpg?t=1777650886",
-        "Date": "May 19, 2026",
-        "AddedDate": "2026-05-08",
-        "AddedTimestamp": 1778281933.4962509,
+        "Date": "May 21, 2026",
+        "AddedDate": "2026-05-21",
+        "AddedTimestamp": 1779370396.916506,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -53556,9 +53554,9 @@
         "URL": "https://store.steampowered.com/app/3980800/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3980800/c055152538575292e8854ff7d81e3aabe719ca7b/header.jpg?t=1778176463",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-07",
-        "AddedTimestamp": 1778176775.7583833,
+        "Date": "May 21, 2026",
+        "AddedDate": "2026-05-21",
+        "AddedTimestamp": 1779370401.0975816,
         "MatchedTags": [
             "tower defense"
         ]
@@ -62300,6 +62298,142 @@
         "MatchedTags": [
             "strategy",
             "real time tactics"
+        ]
+    },
+    "3375990": {
+        "Title": "PC Cafe Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3375990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3375990/24781a0d04f823aed89b705bde96b72595dd04c2/header.jpg?t=1779367694",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-21",
+        "AddedTimestamp": 1779370391.5824394,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4198260": {
+        "Title": "Not A Bot",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4198260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4198260/5ab13734a5565d77917fdc566f94f37b2d88205d/header.jpg?t=1779361083",
+        "Date": "Jun 9, 2026",
+        "AddedDate": "2026-05-21",
+        "AddedTimestamp": 1779370409.6624298,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4397370": {
+        "Title": "miMIR",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4397370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4397370/f8dc4fcca88585bed1a511a41825d4802d695b38/header.jpg?t=1779369823",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-21",
+        "AddedTimestamp": 1779370425.3124588,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "4641280": {
+        "Title": "Automatons",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4641280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4641280/9091a8d49355307fb17944565b61a2923c398baa/header.jpg?t=1779366425",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-21",
+        "AddedTimestamp": 1779370472.59133,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "management",
+            "base building",
+            "turn-based strategy"
+        ]
+    },
+    "4694320": {
+        "Title": "Yummy Yummy Honey",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4694320/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4694320/b21b9a59b56f4b2e6bf2f6fdb408007e6a5d9564/header.jpg?t=1779369161",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-21",
+        "AddedTimestamp": 1779370500.0523467,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4699280": {
+        "Title": "Urbex Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4699280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4699280/dc797bd44fee375a3db648f88414dcbb7a544d5b/header.jpg?t=1779364654",
+        "Date": "May 24, 2026",
+        "AddedDate": "2026-05-21",
+        "AddedTimestamp": 1779370509.6989777,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4720800": {
+        "Title": "Backrooms: The Endless Halls",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4720800/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4720800/b2acb005489d245a55b56e2cfe0c8f6eb8902861/header.jpg?t=1779358760",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-21",
+        "AddedTimestamp": 1779370518.2168412,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4732420": {
+        "Title": "Lovecraft Survivors",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4732420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4732420/a7a5f4cf76c99f26838866d68cfc75f069afe63b/header.jpg?t=1779367367",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-21",
+        "AddedTimestamp": 1779370531.197956,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4745330": {
+        "Title": "Backrooms Complex",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4745330/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4745330/168e30a95db158ad5eac3e7878172cbd8310a773/header.jpg?t=1779368296",
+        "Date": "TBA",
+        "AddedDate": "2026-05-21",
+        "AddedTimestamp": 1779370538.5598695,
+        "MatchedTags": [
+            "strategy",
+            "horror"
         ]
     }
 }
