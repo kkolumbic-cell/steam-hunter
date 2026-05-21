@@ -3246,9 +3246,9 @@
         "URL": "https://store.steampowered.com/app/4437600/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4437600/84be64282f76a6246a41503ee88213050839feb4/header.jpg?t=1772830195",
-        "Date": "Q1 2027",
-        "AddedDate": "2026-03-24",
-        "AddedTimestamp": 1774353517.609361,
+        "Date": "May 2026",
+        "AddedDate": "2026-05-21",
+        "AddedTimestamp": 1779400238.519288,
         "MatchedTags": [
             "resource management"
         ]
@@ -16436,9 +16436,9 @@
         "URL": "https://store.steampowered.com/app/4540860/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4540860/a59a1ef7e51dfe624cd25ee72e986f51dfeb297b/header.jpg?t=1774637025",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-03-29",
-        "AddedTimestamp": 1774811043.0933118,
+        "Date": "July 2026",
+        "AddedDate": "2026-05-21",
+        "AddedTimestamp": 1779400259.999257,
         "MatchedTags": [
             "strategy",
             "economy",
@@ -27559,9 +27559,9 @@
         "URL": "https://store.steampowered.com/app/4595650/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4595650/0f6518ed55597b425506913d01f70b88e487ed68/header.jpg?t=1775826683",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-10",
-        "AddedTimestamp": 1775829223.6173906,
+        "Date": "May 21, 2026",
+        "AddedDate": "2026-05-21",
+        "AddedTimestamp": 1779400287.5183399,
         "MatchedTags": [
             "horror"
         ]
@@ -38363,9 +38363,9 @@
     "4185080": {
         "Title": "System Ascension: Idle Core",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/W2nj95FeME",
         "URL": "https://store.steampowered.com/app/4185080/",
-        "Site": "",
+        "Site": "https://www.studio-rouleau.com/games.html",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4185080/4020428f0dad52d15e9512c3eb4f38f52db4bbe7/header.jpg?t=1776872807",
         "Date": "May 29, 2026",
         "AddedDate": "2026-05-11",
@@ -51441,7 +51441,7 @@
     },
     "4565790": {
         "Title": "SALVO",
-        "Email": "social@doomedinteractive.com, business@doomedinteractive.com, support@doomedinteractive.com, partners@doomedinteractive.com",
+        "Email": "social@doomedinteractive.com, business@doomedinteractive.com, partners@doomedinteractive.com, support@doomedinteractive.com",
         "Discord": "https://discord.gg/Uvt56rFAH7",
         "URL": "https://store.steampowered.com/app/4565790/",
         "Site": "https://www.doomedinteractive.com/",
@@ -61098,7 +61098,8 @@
         "AddedDate": "2026-05-19",
         "AddedTimestamp": 1779233703.499228,
         "MatchedTags": [
-            "resource management"
+            "resource management",
+            "management"
         ]
     },
     "4691430": {
@@ -62900,6 +62901,38 @@
         "MatchedTags": [
             "turn-based tactics",
             "strategy"
+        ]
+    },
+    "4567080": {
+        "Title": "Cluster - Roguelike Tower Defense",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4567080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4567080/9f26d3d53ce02e644e089ae291888c4c2e622d97/header.jpg?t=1779391369",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-21",
+        "AddedTimestamp": 1779400273.5163665,
+        "MatchedTags": [
+            "turn-based strategy",
+            "tower defense",
+            "turn-based tactics"
+        ]
+    },
+    "4747900": {
+        "Title": "Tower & Invasion",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4747900/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4747900/583fa29739c2b75ab570d130fdd9bb531d4cee66/header.jpg?t=1779396833",
+        "Date": "Jun 22, 2026",
+        "AddedDate": "2026-05-21",
+        "AddedTimestamp": 1779400367.464349,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "real time tactics"
         ]
     }
 }
