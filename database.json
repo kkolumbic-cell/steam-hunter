@@ -4882,9 +4882,9 @@
         "URL": "https://store.steampowered.com/app/4483650/",
         "Site": "https://axlplay.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4483650/5739f32a0b901f26a8e4e55e70c2de9f7575a998/header.jpg?t=1773142025",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-12",
-        "AddedTimestamp": 1778603693.159711,
+        "Date": "2026",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779463542.2981763,
         "MatchedTags": [
             "horror",
             "resource management"
@@ -19765,9 +19765,9 @@
         "URL": "https://store.steampowered.com/app/4568640/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568640/5bc0643c6c44ad9e85500a60773ee194baee83c3/header.jpg?t=1775022422",
-        "Date": "May 21, 2026",
-        "AddedDate": "2026-05-20",
-        "AddedTimestamp": 1779292784.0509775,
+        "Date": "May 22, 2026",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779463570.9664898,
         "MatchedTags": [
             "horror"
         ]
@@ -21722,7 +21722,7 @@
     "4513300": {
         "Title": "Dinerz",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/3Zqb3HvCa",
         "URL": "https://store.steampowered.com/app/4513300/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4513300/d6d8ea290cd1ba3cea8f240759d0fbd1966da15b/header.jpg?t=1775184581",
@@ -22435,8 +22435,8 @@
         "AddedDate": "2026-04-03",
         "AddedTimestamp": 1775253025.2214363,
         "MatchedTags": [
-            "strategy",
-            "horror"
+            "horror",
+            "strategy"
         ]
     },
     "3134820": {
@@ -27851,9 +27851,9 @@
         "URL": "https://store.steampowered.com/app/4581040/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4581040/76bddb9a9209b29aa88f817340881fe34bd5c8bc/header.jpg?t=1775842929",
-        "Date": "To be announced",
-        "AddedDate": "2026-05-17",
-        "AddedTimestamp": 1778992443.3819218,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779463584.6206067,
         "MatchedTags": [
             "strategy",
             "survival horror"
@@ -32171,9 +32171,9 @@
         "URL": "https://store.steampowered.com/app/4614210/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4614210/0365029b13679b00450fd65f4ea382fed818d25d/header.jpg?t=1776289320",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-04-15",
-        "AddedTimestamp": 1776290805.2446978,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779463598.4830017,
         "MatchedTags": [
             "management",
             "economy"
@@ -39323,8 +39323,8 @@
         "AddedDate": "2026-04-23",
         "AddedTimestamp": 1776953697.887781,
         "MatchedTags": [
-            "strategy",
-            "resource management"
+            "resource management",
+            "strategy"
         ]
     },
     "4562150": {
@@ -54289,9 +54289,9 @@
         "URL": "https://store.steampowered.com/app/4699180/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4699180/96f1c200e6c35dd5c2822234a0cfbd70c484907e/header.jpg?t=1778244600",
-        "Date": "May 18, 2026",
-        "AddedDate": "2026-05-08",
-        "AddedTimestamp": 1778250019.492398,
+        "Date": "May 22, 2026",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779463630.2329986,
         "MatchedTags": [
             "tactical"
         ]
@@ -54317,9 +54317,9 @@
         "URL": "https://store.steampowered.com/app/4696880/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4696880/a34c80406a053967af2ac27ba75213a6fa1e7fb0/header.jpg?t=1778252469",
-        "Date": "May 2026",
-        "AddedDate": "2026-05-08",
-        "AddedTimestamp": 1778258934.3281195,
+        "Date": "May 22, 2026",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779463628.109169,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -63218,6 +63218,108 @@
             "turn-based tactics",
             "turn-based strategy",
             "turn-based combat"
+        ]
+    },
+    "3601600": {
+        "Title": "Sudoku Bactron",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3601600/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3601600/259c091ec39ddbe33dd860cdcee2577bddb66793/header.jpg?t=1779460716",
+        "Date": "Jun 5, 2026",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779463497.155398,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4576460": {
+        "Title": "Kingdom and Taxes",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4576460/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576460/0a29e27bed5d19033519a63233ef8bf89d40b8e2/header.jpg?t=1779459510",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779463573.5857577,
+        "MatchedTags": [
+            "strategy",
+            "city builder"
+        ]
+    },
+    "4669470": {
+        "Title": "Idle Keep",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4669470/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4669470/75923e51ea1c02e213821804ca63cb116fbca261/header.jpg?t=1779457304",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779463616.2992008,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4685710": {
+        "Title": "Trebishe",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4685710/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685710/1bf75c4bf0fc7e679911f395b14363fc03707181/header.jpg?t=1779458838",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779463625.7921534,
+        "MatchedTags": [
+            "survival horror",
+            "horror"
+        ]
+    },
+    "4702540": {
+        "Title": "Satawn",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4702540/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4702540/3cdd42e7795c30630f2bff55f4293f91fd8aebe9/header.jpg?t=1779463146",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779463635.5292141,
+        "MatchedTags": [
+            "colony sim"
+        ]
+    },
+    "4743320": {
+        "Title": "Busy Bar - World Tour",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4743320/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4743320/db22f88dbc408ceadb62d0f7425ab78eebf52bfa/header.jpg?t=1779459623",
+        "Date": "2026",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779463667.1824763,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4751660": {
+        "Title": "Screamcorp",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4751660/",
+        "Site": "https://www.tbjbu2.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4751660/1b45b37e7ea0d678b71354b8f71f51d11190c7d8/header.jpg?t=1779459871",
+        "Date": "2026",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779463677.6299005,
+        "MatchedTags": [
+            "psychological horror",
+            "survival horror",
+            "horror"
         ]
     }
 }
