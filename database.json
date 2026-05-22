@@ -7308,6 +7308,7 @@
         "AddedDate": "2026-03-13",
         "AddedTimestamp": 1773421173.3069355,
         "MatchedTags": [
+            "real time tactics",
             "strategy"
         ]
     },
@@ -16591,7 +16592,7 @@
     "4553140": {
         "Title": "Scratch Off!",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/2BrCUgUzkH",
         "URL": "https://store.steampowered.com/app/4553140/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4553140/186b3bef50cc579be4dc8fe8fd4392a37c2074e9/header.jpg?t=1774647440",
@@ -33033,9 +33034,9 @@
         "URL": "https://store.steampowered.com/app/4502770/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4502770/9c1d5f360299b2c4374d48807ff683796a8546a9/header.jpg?t=1776353125",
-        "Date": "May 22, 2026",
-        "AddedDate": "2026-05-13",
-        "AddedTimestamp": 1778659999.3897154,
+        "Date": "May 21, 2026",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779424861.1043453,
         "MatchedTags": [
             "tactical"
         ]
@@ -52358,9 +52359,9 @@
         "URL": "https://store.steampowered.com/app/4704740/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4704740/bc4a88344dc2ff2cc8e11c0a817a0364cad1f375/header.jpg?t=1778074436",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-06",
-        "AddedTimestamp": 1778079186.4086215,
+        "Date": "May 25, 2026",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779424937.5436296,
         "MatchedTags": [
             "strategy",
             "grand strategy",
@@ -57477,9 +57478,9 @@
         "URL": "https://store.steampowered.com/app/4718270/",
         "Site": "https://blosharper.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4718270/c653dde5a53b9d8dc23966af0d5a6b59ba9f15e6/header.jpg?t=1778677705",
-        "Date": "Jun 16, 2026",
-        "AddedDate": "2026-05-21",
-        "AddedTimestamp": 1779357999.535862,
+        "Date": "June 2026",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779424953.8915596,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -61354,9 +61355,9 @@
         "URL": "https://store.steampowered.com/app/4483720/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4483720/71b2eafdb5147718e303df5dcbf6ffc642cc2a32/header.jpg?t=1779276186",
-        "Date": "TBA",
-        "AddedDate": "2026-05-20",
-        "AddedTimestamp": 1779278703.9144454,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779424849.1199665,
         "MatchedTags": [
             "tower defense",
             "tactical rpg",
@@ -62962,6 +62963,126 @@
         "AddedTimestamp": 1779405524.1059546,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "3834650": {
+        "Title": "\u602a\u68cb\u7269\u8bed",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3834650/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3834650/f03cd611177307b88310d9aefbf8bc589ac79cd7/header.jpg?t=1779406504",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779424816.4898794,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4456460": {
+        "Title": "Kopernicus: Extraction",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4456460/",
+        "Site": "https://www.lukasik.art/kopernicus",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4456460/99a486fb14853e5f254f68e6ef775e9d6ec69855/header.jpg?t=1779407417",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779424839.6188147,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "base building"
+        ]
+    },
+    "4458290": {
+        "Title": "Sovereign Strike: Submarine Supremacy",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4458290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4458290/e95feb328fc67117e445da8da06bf8139f85e47c/header.jpg?t=1779422335",
+        "Date": "2026",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779424842.5020356,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4587030": {
+        "Title": "Founders Save The World",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4587030/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4587030/267d8497ce370a32213e9e646c6ea5bbf554cac4/header.jpg?t=1779413592",
+        "Date": "Jun 4, 2026",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779424884.203052,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4731330": {
+        "Title": "Abjure",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4731330/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4731330/4d2796f9ada2b34c14cc23047706597ff6fe71ed/header.jpg?t=1779412092",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779424962.2697618,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4732330": {
+        "Title": "Skelemancer TD",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4732330/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4732330/8e040053285763ed9c0cf710260e54426385361f/header.jpg?t=1779406219",
+        "Date": "July 2026",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779424965.5020757,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "tactical"
+        ]
+    },
+    "4750520": {
+        "Title": "ISO/2004",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4750520/",
+        "Site": "http://koniipinka.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4750520/f590c9e4b8c296e3e0bed53c13408f03bebc8d3d/header.jpg?t=1779411286",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779424984.7138073,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4750540": {
+        "Title": "Hapunan",
+        "Email": "",
+        "Discord": "https://discord.gg/wnmA4vvXQ8",
+        "URL": "https://store.steampowered.com/app/4750540/",
+        "Site": "https://yikongames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4750540/99ef60f27155c2f1261378a5d0df2068cedb73d0/header.jpg?t=1779408424",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779424988.553604,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
