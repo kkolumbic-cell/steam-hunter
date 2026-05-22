@@ -21998,9 +21998,9 @@
         "URL": "https://store.steampowered.com/app/3960380/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960380/64b82d5b9af9477e811ab74bb761d4be231ecdfc/header.jpg?t=1775209395",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-13",
-        "AddedTimestamp": 1778645796.1526392,
+        "Date": "2027",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779492805.154173,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -42193,8 +42193,8 @@
         "AddedDate": "2026-04-26",
         "AddedTimestamp": 1777175849.1338124,
         "MatchedTags": [
-            "city builder",
             "strategy",
+            "city builder",
             "resource management",
             "economy",
             "real time tactics"
@@ -61097,8 +61097,8 @@
         "AddedDate": "2026-05-19",
         "AddedTimestamp": 1779233703.499228,
         "MatchedTags": [
-            "resource management",
-            "management"
+            "management",
+            "resource management"
         ]
     },
     "4691430": {
@@ -63610,9 +63610,9 @@
         "URL": "https://store.steampowered.com/app/3447010/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3447010/c8d54bf0c52f9ba06148b8dfc54ffa7b6daffe5b/header.jpg?t=1779482287",
-        "Date": "To be announced",
+        "Date": "2026",
         "AddedDate": "2026-05-22",
-        "AddedTimestamp": 1779485852.2517476,
+        "AddedTimestamp": 1779492799.330649,
         "MatchedTags": [
             "tactical rpg",
             "real time tactics"
@@ -63704,6 +63704,22 @@
         "MatchedTags": [
             "survival horror",
             "horror"
+        ]
+    },
+    "4704970": {
+        "Title": "Tides of Destiny",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4704970/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4704970/5e3322e47ff2fece9d4dc643dabb7ed0aace440a/header.jpg?t=1779486199",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779492837.2128127,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "turn-based tactics"
         ]
     }
 }
