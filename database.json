@@ -45484,7 +45484,9 @@
         "AddedDate": "2026-04-29",
         "AddedTimestamp": 1777454910.169728,
         "MatchedTags": [
-            "management"
+            "management",
+            "strategy",
+            "resource management"
         ]
     },
     "4639170": {
@@ -51265,8 +51267,8 @@
         "AddedTimestamp": 1778000562.7258751,
         "MatchedTags": [
             "strategy",
-            "psychological horror",
-            "horror"
+            "horror",
+            "psychological horror"
         ]
     },
     "4700280": {
@@ -52892,9 +52894,9 @@
         "URL": "https://store.steampowered.com/app/4567490/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4567490/c275d8718a4d287777bd9caa9382ca1bbaccd4e3/header.jpg?t=1778114269",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-07",
-        "AddedTimestamp": 1778126878.6161194,
+        "Date": "May 22, 2026",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779480763.9017742,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -62687,9 +62689,9 @@
         "URL": "https://store.steampowered.com/app/4748970/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4748970/6437cd1330c9e8b30d847e68012fb3b5cd550507/header.jpg?t=1779378904",
-        "Date": "June 2026",
-        "AddedDate": "2026-05-21",
-        "AddedTimestamp": 1779382461.979058,
+        "Date": "Jun 5, 2026",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779480815.7000687,
         "MatchedTags": [
             "economy",
             "management",
@@ -63457,6 +63459,148 @@
             "strategy",
             "turn-based combat",
             "base building"
+        ]
+    },
+    "3850470": {
+        "Title": "Blight Brigade",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3850470/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3850470/c1fa432a3bc413b51f13e24f214b00be6e00ef57/header.jpg?t=1779476286",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779480725.0862916,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4007000": {
+        "Title": "Derby Creek",
+        "Email": "",
+        "Discord": "https://discord.gg/J3UfTawPJb",
+        "URL": "https://store.steampowered.com/app/4007000/",
+        "Site": "https://www.derbycreekgame.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4007000/611b76bff697690b665c99a18bb7a1aa7a579250/header.jpg?t=1779477573",
+        "Date": "TBA",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779480727.4303367,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4095440": {
+        "Title": "Bit Mine Clicker",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4095440/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4095440/59b7c6b69f362a4923d85d98d5432aac451066b3/header.jpg?t=1779476153",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779480730.9319663,
+        "MatchedTags": [
+            "base building",
+            "management",
+            "city builder",
+            "resource management"
+        ]
+    },
+    "4132330": {
+        "Title": "Pizza House Simulator\ud83c\udf55",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4132330/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132330/71733c34e244ee9ce2a41aea7b064e2afee4d6f3/header.jpg?t=1779478668",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779480735.7386487,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4512810": {
+        "Title": "Ares Inception",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4512810/",
+        "Site": "https://aresinception.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512810/c3375305ecbdcd63f7afc96ed5934c0bb4e38ec2/header.jpg?t=1779479503",
+        "Date": "Dec 31, 2027",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779480753.658692,
+        "MatchedTags": [
+            "colony sim",
+            "management",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4600630": {
+        "Title": "Spectrakin",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4600630/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4600630/7f880fcf656baa71bdd83360dea1ea21ec37c1da/header.jpg?t=1779480662",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779480766.2482498,
+        "MatchedTags": [
+            "turn-based combat",
+            "turn-based tactics"
+        ]
+    },
+    "4727930": {
+        "Title": "Deadlight Maze",
+        "Email": "parlistudios@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4727930/",
+        "Site": "https://www.parlistudios.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727930/073efa3da3341d34ffd848919763cf14714d2e85/header.jpg?t=1779478681",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779480807.2723536,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4730130": {
+        "Title": "AITA: The Dark Domain",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4730130/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4730130/51f05154b6ab129fc0ca5a5a2ca9824e7a20c7d6/header.jpg?t=1779478847",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779480811.0565712,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "tactical",
+            "resource management",
+            "turn-based combat"
+        ]
+    },
+    "4754740": {
+        "Title": "Market Chain 98",
+        "Email": "",
+        "Discord": "https://discord.gg/N9NHNKAxQr",
+        "URL": "https://store.steampowered.com/app/4754740/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4754740/d0d3ae8f58456aac03c11b4b6e86c6d9773ae90d/header.jpg?t=1779475492",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-22",
+        "AddedTimestamp": 1779480826.9231124,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "strategy",
+            "resource management"
         ]
     }
 }
