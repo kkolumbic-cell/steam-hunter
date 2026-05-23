@@ -55198,9 +55198,9 @@
         "URL": "https://store.steampowered.com/app/4535380/",
         "Site": "https://warofthedamned.com/inicio",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4535380/669d1fdea16570b70e709a0a40a0bf978cd8216e/header.jpg?t=1778384967",
-        "Date": "May 22, 2026",
-        "AddedDate": "2026-05-11",
-        "AddedTimestamp": 1778535796.5258787,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-23",
+        "AddedTimestamp": 1779518853.4492838,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -58288,9 +58288,9 @@
         "URL": "https://store.steampowered.com/app/4726910/",
         "Site": "https://www.asvtuber.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4726910/a4e68206f65ceb6399457da9b615ed4fe5625efe/header.jpg?t=1778736398",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-14",
-        "AddedTimestamp": 1778746026.7320058,
+        "Date": "Oct 13, 2026",
+        "AddedDate": "2026-05-23",
+        "AddedTimestamp": 1779518890.9959471,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -63763,6 +63763,36 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4662800": {
+        "Title": "The Pharm Sim",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4662800/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4662800/f177f364629eabefec0d15c567752e8d0cfa7c16/header.jpg?t=1779510317",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-23",
+        "AddedTimestamp": 1779518873.5680988,
+        "MatchedTags": [
+            "base building",
+            "strategy"
+        ]
+    },
+    "4753450": {
+        "Title": "Bluff Card Game",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4753450/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4753450/9259943c3d09166d1b9bb1325292be76332b1a95/header.jpg?t=1779512711",
+        "Date": "Jun 4, 2026",
+        "AddedDate": "2026-05-23",
+        "AddedTimestamp": 1779518899.78511,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
         ]
     }
 }
