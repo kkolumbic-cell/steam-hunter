@@ -29159,7 +29159,6 @@
             "strategy",
             "resource management",
             "management",
-            "base building",
             "tactical"
         ]
     },
@@ -63852,6 +63851,35 @@
         "AddedTimestamp": 1779538189.4156175,
         "MatchedTags": [
             "resource management"
+        ]
+    },
+    "4597410": {
+        "Title": "Midnight Hotel",
+        "Email": "",
+        "Discord": "https://discord.gg/RKee24KfmK",
+        "URL": "https://store.steampowered.com/app/4597410/",
+        "Site": "https://lousy-developers.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4597410/4973746dacd96b1c61f75a8891d0a223149f6bba/header.jpg?t=1779546973",
+        "Date": "2027",
+        "AddedDate": "2026-05-23",
+        "AddedTimestamp": 1779550410.1763766,
+        "MatchedTags": [
+            "resource management",
+            "horror"
+        ]
+    },
+    "4662390": {
+        "Title": "RogueBlocks",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4662390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4662390/62c99fdc1b4b104c50bcfb6614fac22f9073ba07/header.jpg?t=1779548690",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-23",
+        "AddedTimestamp": 1779550426.3303895,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
