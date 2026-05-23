@@ -52757,7 +52757,7 @@
     },
     "4653910": {
         "Title": "Bone Stuff",
-        "Email": "press@kaznos.com, business@kaznos.com, hello@kaznos.com, support@kaznos.com",
+        "Email": "support@kaznos.com, hello@kaznos.com, press@kaznos.com, business@kaznos.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4653910/",
         "Site": "https://www.kaznos.com/tr",
@@ -61289,9 +61289,9 @@
         "URL": "https://store.steampowered.com/app/4725700/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4725700/feeafd726486e16f93bc45e2a57527770bb4ee03/header.jpg?t=1779257231",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-05-20",
-        "AddedTimestamp": 1779266336.6003633,
+        "Date": "October 2026",
+        "AddedDate": "2026-05-23",
+        "AddedTimestamp": 1779538186.5965722,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -63839,6 +63839,20 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4734320": {
+        "Title": "Drone Arena",
+        "Email": "",
+        "Discord": "https://discord.gg/fjwbr7Ef",
+        "URL": "https://store.steampowered.com/app/4734320/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4734320/3a8032bdef7e4d878870a0fbfa60ed3ed4414e52/header.jpg?t=1779537115",
+        "Date": "2026",
+        "AddedDate": "2026-05-23",
+        "AddedTimestamp": 1779538189.4156175,
+        "MatchedTags": [
+            "resource management"
         ]
     }
 }
