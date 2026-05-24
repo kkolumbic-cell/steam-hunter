@@ -14970,9 +14970,9 @@
         "URL": "https://store.steampowered.com/app/4513510/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4513510/126add1bf4376d97a3456a701b99fa72f8557075/header.jpg?t=1774511140",
-        "Date": "July 2026",
-        "AddedDate": "2026-05-08",
-        "AddedTimestamp": 1778278351.0847168,
+        "Date": "2026",
+        "AddedDate": "2026-05-24",
+        "AddedTimestamp": 1779597815.8718638,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -23732,7 +23732,8 @@
         "AddedTimestamp": 1775541488.729182,
         "MatchedTags": [
             "psychological horror",
-            "horror"
+            "horror",
+            "survival horror"
         ]
     },
     "4582760": {
@@ -48661,9 +48662,9 @@
         "URL": "https://store.steampowered.com/app/4659400/",
         "Site": "https://space.bilibili.com/3546591023597616?spm_id_from=333.1007.0.0",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4659400/3fb7643cc2080c1bd60df02a50d7ca6aeb77554c/header.jpg?t=1777679372",
-        "Date": "TBA",
-        "AddedDate": "2026-05-02",
-        "AddedTimestamp": 1777680491.029459,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-05-24",
+        "AddedTimestamp": 1779597851.854682,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -51421,7 +51422,7 @@
     },
     "4565790": {
         "Title": "SALVO",
-        "Email": "partners@doomedinteractive.com, business@doomedinteractive.com, social@doomedinteractive.com, support@doomedinteractive.com",
+        "Email": "business@doomedinteractive.com, social@doomedinteractive.com, partners@doomedinteractive.com, support@doomedinteractive.com",
         "Discord": "https://discord.gg/Uvt56rFAH7",
         "URL": "https://store.steampowered.com/app/4565790/",
         "Site": "https://www.doomedinteractive.com/",
@@ -52338,9 +52339,9 @@
         "URL": "https://store.steampowered.com/app/4704740/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4704740/bc4a88344dc2ff2cc8e11c0a817a0364cad1f375/header.jpg?t=1778074436",
-        "Date": "May 25, 2026",
-        "AddedDate": "2026-05-22",
-        "AddedTimestamp": 1779424937.5436296,
+        "Date": "May 23, 2026",
+        "AddedDate": "2026-05-24",
+        "AddedTimestamp": 1779597877.677638,
         "MatchedTags": [
             "strategy",
             "grand strategy",
@@ -54900,7 +54901,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4701900/",
-        "Site": "",
+        "Site": "https://www.youtube.com/@AzureScorpionGames",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4701900/d2f37057f80e3407956e3bc55d2053ca68dc8aa6/header.jpg?t=1778310823",
         "Date": "2026",
         "AddedDate": "2026-05-22",
@@ -57374,7 +57375,7 @@
     "4702700": {
         "Title": "Heathen",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/kkuvFAY3DB",
         "URL": "https://store.steampowered.com/app/4702700/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4702700/c8f10c9732c859f0be8e41e8a29f2e1cfa2233f4/header.jpg?t=1778664865",
@@ -59498,9 +59499,9 @@
         "URL": "https://store.steampowered.com/app/4528250/",
         "Site": "https://persideraindustries.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4528250/8f18cc6d9c92e6d7a72d361232a4274540812b45/header.jpg?t=1778865680",
-        "Date": "June 2026",
-        "AddedDate": "2026-05-17",
-        "AddedTimestamp": 1779046687.9429007,
+        "Date": "Jun 23, 2026",
+        "AddedDate": "2026-05-24",
+        "AddedTimestamp": 1779597818.252586,
         "MatchedTags": [
             "strategy"
         ]
@@ -63992,6 +63993,37 @@
         "AddedTimestamp": 1779574190.169437,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "2977950": {
+        "Title": "Drink, Drink, Drink!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2977950/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2977950/7b23bf14ab3641fb78ac29ddfcb445d2a351e1bf/header.jpg?t=1779597496",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-24",
+        "AddedTimestamp": 1779597783.844733,
+        "MatchedTags": [
+            "turn-based tactics",
+            "turn-based strategy",
+            "tactical"
+        ]
+    },
+    "4696570": {
+        "Title": "Anomalous zone",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4696570/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4696570/e4d133a45bea6267a3be17c4f6293f66dc997986/header.jpg?t=1779587231",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-24",
+        "AddedTimestamp": 1779597865.4737527,
+        "MatchedTags": [
+            "survival horror",
+            "horror"
         ]
     }
 }
