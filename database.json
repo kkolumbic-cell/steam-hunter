@@ -6771,9 +6771,9 @@
         "URL": "https://store.steampowered.com/app/4492570/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4492570/98648f9e9d1c5c0e6f220dc6f16d517046002c28/header.jpg?t=1773350245",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-12",
-        "AddedTimestamp": 1773352186.5717063,
+        "Date": "Jul 10, 2026",
+        "AddedDate": "2026-05-24",
+        "AddedTimestamp": 1779623062.3394265,
         "MatchedTags": [
             "horror"
         ]
@@ -35108,8 +35108,8 @@
         "AddedDate": "2026-04-23",
         "AddedTimestamp": 1776902660.7247484,
         "MatchedTags": [
-            "turn-based tactics",
             "turn-based combat",
+            "turn-based tactics",
             "tactical"
         ]
     },
@@ -64100,6 +64100,22 @@
             "psychological horror",
             "survival horror",
             "horror"
+        ]
+    },
+    "4667610": {
+        "Title": "Fortune Flipper",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4667610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4667610/906fb71eaa556a103df89ef10305f32945f50aad/header.jpg?t=1779619083",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-24",
+        "AddedTimestamp": 1779623085.8240504,
+        "MatchedTags": [
+            "turn-based strategy",
+            "strategy",
+            "turn-based combat"
         ]
     }
 }
