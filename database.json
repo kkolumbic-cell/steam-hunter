@@ -14475,8 +14475,7 @@
             "strategy",
             "turn-based strategy",
             "turn-based tactics",
-            "tactical",
-            "turn-based combat"
+            "tactical"
         ]
     },
     "4469470": {
@@ -44723,7 +44722,8 @@
         "MatchedTags": [
             "strategy",
             "management",
-            "resource management"
+            "resource management",
+            "economy"
         ]
     },
     "4281870": {
@@ -62444,9 +62444,9 @@
         "URL": "https://store.steampowered.com/app/3359680/",
         "Site": "https://seikinonai.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3359680/187476d6fd8699ca069c76d2be5bccdb2aa85dd5/header.jpg?t=1779373690",
-        "Date": "To be announced",
-        "AddedDate": "2026-05-21",
-        "AddedTimestamp": 1779382212.3868804,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-24",
+        "AddedTimestamp": 1779581686.9858513,
         "MatchedTags": [
             "psychological horror",
             "horror"
