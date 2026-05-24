@@ -37950,11 +37950,10 @@
         "AddedDate": "2026-04-22",
         "AddedTimestamp": 1776845382.4562793,
         "MatchedTags": [
-            "strategy",
             "tower defense",
+            "strategy",
             "base building",
-            "horror",
-            "tactical"
+            "horror"
         ]
     },
     "4634560": {
@@ -48720,9 +48719,9 @@
         "URL": "https://store.steampowered.com/app/4688580/",
         "Site": "https://flugames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4688580/6b919430029a0b6844eb7a4b61f40c6978f2c196/header.jpg?t=1777693741",
-        "Date": "May 2026",
-        "AddedDate": "2026-05-15",
-        "AddedTimestamp": 1778833168.7158303,
+        "Date": "May 23, 2026",
+        "AddedDate": "2026-05-24",
+        "AddedTimestamp": 1779609725.8787959,
         "MatchedTags": [
             "city builder",
             "economy"
@@ -53082,7 +53081,7 @@
     "4331130": {
         "Title": "Abyss Horde",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/Byr3ATV9",
         "URL": "https://store.steampowered.com/app/4331130/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4331130/2659a39491985875470b92ffad1b3359abf19f97/header.jpg?t=1778143449",
@@ -64024,6 +64023,52 @@
         "MatchedTags": [
             "survival horror",
             "horror"
+        ]
+    },
+    "4665180": {
+        "Title": "Dark Breaker",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4665180/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4665180/de1787646092126709584a0816f5fc275f1eef7a/header.jpg?t=1779603719",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-24",
+        "AddedTimestamp": 1779609718.6068692,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4689370": {
+        "Title": "Beast Bastion",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4689370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4689370/ea4d7629e0f71f143c03fe9757eda4a7e3a6a511/header.jpg?t=1779601874",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-24",
+        "AddedTimestamp": 1779609728.5908425,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "turn-based combat"
+        ]
+    },
+    "4708050": {
+        "Title": "Order 13 VR",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4708050/",
+        "Site": "https://www.jandusoft.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4708050/0ea1d73754a4b16b3bac300a920f8b458ebaaae1/header.jpg?t=1779601940",
+        "Date": "2026",
+        "AddedDate": "2026-05-24",
+        "AddedTimestamp": 1779609733.8649175,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
