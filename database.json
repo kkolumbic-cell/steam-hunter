@@ -4962,9 +4962,9 @@
         "URL": "https://store.steampowered.com/app/4421960/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4421960/30c977c7e346957dcdce3a3cfa18eeba525882d5/header.jpg?t=1773154884",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-10",
-        "AddedTimestamp": 1773155531.6986406,
+        "Date": "To be announced",
+        "AddedDate": "2026-05-24",
+        "AddedTimestamp": 1779651715.9353733,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -21541,9 +21541,9 @@
         "URL": "https://store.steampowered.com/app/4569950/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4569950/db8b5e93e7e384b61f0006bb2d51e10f8ef6baa1/header.jpg?t=1775159492",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775163447.527527,
+        "Date": "2026",
+        "AddedDate": "2026-05-24",
+        "AddedTimestamp": 1779651736.2664025,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -36673,9 +36673,9 @@
         "URL": "https://store.steampowered.com/app/4607190/",
         "Site": "https://www.notexstudios.in",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4607190/c2b80d80ff1c36659714c0f431714832566c75a8/header.jpg?t=1776764639",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-21",
-        "AddedTimestamp": 1776765360.380508,
+        "Date": "May 24, 2026",
+        "AddedDate": "2026-05-24",
+        "AddedTimestamp": 1779651746.5073144,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -58949,7 +58949,7 @@
     },
     "4568350": {
         "Title": "Beavertale",
-        "Email": "beavertale.game@gmail.com, miguelsn243@gmail.com, denisseantunezlopez@gmail.com, gustavogtznav@gmail.com",
+        "Email": "beavertale.game@gmail.com, denisseantunezlopez@gmail.com, gustavogtznav@gmail.com, miguelsn243@gmail.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4568350/",
         "Site": "https://gustavogtz.github.io/beavertale-html-page/",
@@ -60688,7 +60688,7 @@
     "4712290": {
         "Title": "Chest & Compass: Isles of Vaultara",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/FcrUWSuy",
         "URL": "https://store.steampowered.com/app/4712290/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4712290/d98cc081a381c85bf57d198136e35a0dfaaea6f8/header.jpg?t=1779207778",
@@ -64177,6 +64177,35 @@
             "horror",
             "psychological horror",
             "survival horror"
+        ]
+    },
+    "4643260": {
+        "Title": "Trader Ascent",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4643260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4643260/3e257ee1738b9211e7f3f5acc19fcd4df25bdbb6/header.jpg?t=1779651176",
+        "Date": "Jun 1, 2026",
+        "AddedDate": "2026-05-24",
+        "AddedTimestamp": 1779651750.0722008,
+        "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "4719630": {
+        "Title": "Dream's frog",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4719630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4719630/29247bf83aa5c9881cc6130637eede94c932e050/header.jpg?t=1779650412",
+        "Date": "July 2026",
+        "AddedDate": "2026-05-24",
+        "AddedTimestamp": 1779651772.38413,
+        "MatchedTags": [
+            "real time tactics"
         ]
     }
 }
