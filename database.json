@@ -33766,9 +33766,9 @@
         "URL": "https://store.steampowered.com/app/4547570/",
         "Site": "https://www.recallrogue.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4547570/22ada8df2bdf4114c588070a95d0ac86133d2b5f/header.jpg?t=1776406272",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-17",
-        "AddedTimestamp": 1776406530.7322161,
+        "Date": "May 24, 2026",
+        "AddedDate": "2026-05-24",
+        "AddedTimestamp": 1779617611.651783,
         "MatchedTags": [
             "turn-based combat",
             "strategy"
@@ -64069,6 +64069,37 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "3375140": {
+        "Title": "PROBABILITY KING",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3375140/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3375140/0dfc4dedfdf38746a84e2d04e01ee9d836fcc1fc/header.jpg?t=1779611355",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-24",
+        "AddedTimestamp": 1779617579.2039483,
+        "MatchedTags": [
+            "horror",
+            "strategy"
+        ]
+    },
+    "4716050": {
+        "Title": "\u7f8e\u5076\u4eba Puppet",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4716050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4716050/be7ccda8ee7584cabfc2a4704d6cc48345fd17ca/header.jpg?t=1779611328",
+        "Date": "2026",
+        "AddedDate": "2026-05-24",
+        "AddedTimestamp": 1779617629.6238499,
+        "MatchedTags": [
+            "psychological horror",
+            "survival horror",
+            "horror"
         ]
     }
 }
