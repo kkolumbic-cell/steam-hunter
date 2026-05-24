@@ -40545,8 +40545,8 @@
         "AddedDate": "2026-04-24",
         "AddedTimestamp": 1777022037.0912745,
         "MatchedTags": [
-            "psychological horror",
-            "horror"
+            "horror",
+            "psychological horror"
         ]
     },
     "4635030": {
@@ -58273,9 +58273,9 @@
         "AddedDate": "2026-05-14",
         "AddedTimestamp": 1778746024.7687914,
         "MatchedTags": [
-            "strategy",
+            "turn-based combat",
             "turn-based strategy",
-            "turn-based combat"
+            "strategy"
         ]
     },
     "4726910": {
@@ -64116,6 +64116,21 @@
             "turn-based strategy",
             "strategy",
             "turn-based combat"
+        ]
+    },
+    "4554610": {
+        "Title": "Kaishain",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4554610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4554610/778c556c28a50f85cbf975dba3d5ad53001cd3c8/header.jpg?t=1779629879",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-24",
+        "AddedTimestamp": 1779631381.036704,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
