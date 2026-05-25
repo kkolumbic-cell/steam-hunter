@@ -426,9 +426,9 @@
         "AddedDate": "2026-03-05",
         "AddedTimestamp": 1772723308.0467205,
         "MatchedTags": [
-            "resource management",
-            "strategy",
             "base building",
+            "resource management",
+            "management",
             "city builder"
         ]
     },
@@ -3703,7 +3703,7 @@
     "3979370": {
         "Title": "Shit-Stealing Gnomes",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/Hmu6U86ZcK",
         "URL": "https://store.steampowered.com/app/3979370/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3979370/0ca76a2cf8ae4fc1144716fe8d36c2f68b6b0815/header.jpg?t=1772915964",
@@ -41411,10 +41411,10 @@
         "AddedTimestamp": 1777068227.682711,
         "MatchedTags": [
             "strategy",
-            "turn-based strategy",
-            "base building",
+            "city builder",
             "resource management",
-            "city builder"
+            "turn-based strategy",
+            "base building"
         ]
     },
     "4618750": {
@@ -64617,6 +64617,69 @@
         "MatchedTags": [
             "strategy",
             "tower defense"
+        ]
+    },
+    "4419130": {
+        "Title": "Fifty Miles Out",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4419130/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4419130/1878dab7a9362e6861088b5828eefb5c1e3d1154/header.jpg?t=1779739585",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779744959.1462157,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4674010": {
+        "Title": "TORR",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4674010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4674010/1421ae9335437449052836777f19f8b14980ec15/header.jpg?t=1779743215",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779744996.563154,
+        "MatchedTags": [
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4761460": {
+        "Title": "Super Monsterdoom",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4761460/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4761460/cd79516df26dd13f9aa86c43f464ccc8878d0edd/header.jpg?t=1779741969",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779745022.596195,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "management",
+            "economy",
+            "resource management",
+            "turn-based combat"
+        ]
+    },
+    "4761480": {
+        "Title": "Grid Wars: Last Stand",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4761480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4761480/4b90526797e0bfc5235e0da755e0f8f282c85264/header.jpg?t=1779741587",
+        "Date": "2026",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779745025.052944,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
