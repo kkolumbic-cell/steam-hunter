@@ -33643,7 +33643,8 @@
         "AddedTimestamp": 1776397698.9813635,
         "MatchedTags": [
             "horror",
-            "psychological horror"
+            "psychological horror",
+            "strategy"
         ]
     },
     "4598620": {
@@ -34136,7 +34137,6 @@
         "AddedDate": "2026-04-17",
         "AddedTimestamp": 1776439183.9186833,
         "MatchedTags": [
-            "horror",
             "tactical rpg"
         ]
     },
@@ -37029,7 +37029,7 @@
         "Email": "",
         "Discord": "https://discord.gg/XfkTkcGVkD",
         "URL": "https://store.steampowered.com/app/4525800/",
-        "Site": "",
+        "Site": "https://avaria.grapeocean.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525800/ff5f3124041738f4636ba47c692dbaf65cce4b7a/header.jpg?t=1776783903",
         "Date": "To be announced",
         "AddedDate": "2026-04-26",
@@ -44671,9 +44671,9 @@
         "URL": "https://store.steampowered.com/app/4653670/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4653670/0e7293d04825ab9706969333cd52e74abdfb14a6/header.jpg?t=1777381447",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-28",
-        "AddedTimestamp": 1777396094.030772,
+        "Date": "2027",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779684930.7508924,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -47173,6 +47173,7 @@
         "AddedDate": "2026-04-30",
         "AddedTimestamp": 1777580413.5576484,
         "MatchedTags": [
+            "turn-based combat",
             "strategy"
         ]
     },
@@ -50290,8 +50291,8 @@
         "AddedTimestamp": 1777936345.7243438,
         "MatchedTags": [
             "resource management",
-            "tactical",
             "strategy",
+            "tactical",
             "economy",
             "management"
         ]
@@ -50517,9 +50518,9 @@
         "URL": "https://store.steampowered.com/app/4667250/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4667250/2abf89d0fa8498341bedb3a8f44b69e2e8e41288/header.jpg?t=1777950767",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-05",
-        "AddedTimestamp": 1777953203.2031612,
+        "Date": "May 24, 2026",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779684937.9143746,
         "MatchedTags": [
             "strategy",
             "city builder",
@@ -62686,9 +62687,9 @@
         "URL": "https://store.steampowered.com/app/4750290/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4750290/d56123a86e4ed42c9760abf79aa15c9d40f97933/header.jpg?t=1779374635",
-        "Date": "June 2026",
-        "AddedDate": "2026-05-21",
-        "AddedTimestamp": 1779382467.3776944,
+        "Date": "Jun 12, 2026",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779684969.6167016,
         "MatchedTags": [
             "horror"
         ]
@@ -64221,6 +64222,36 @@
             "horror",
             "psychological horror",
             "survival horror"
+        ]
+    },
+    "1755840": {
+        "Title": "\u5927\u822a\u6d77\u5f81\u9014",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/1755840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1755840/06e093fd7e38980342ded6b9182a5e8db22fd16e/header.jpg?t=1779673302",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779684808.3356001,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "1960280": {
+        "Title": "Persona Non Combata",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/1960280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1960280/92be1ad87d2b6980fba99ae0872a96735971c749/header.jpg?t=1779680198",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779684811.6776934,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
