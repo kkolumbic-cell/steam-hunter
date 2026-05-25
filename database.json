@@ -20601,9 +20601,9 @@
         "URL": "https://store.steampowered.com/app/4574820/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4574820/1158f038ca024af322246a5e37d16bc7de0aae10/header.jpg?t=1775081626",
-        "Date": "July 2026",
-        "AddedDate": "2026-05-01",
-        "AddedTimestamp": 1777629569.5539162,
+        "Date": "Aug 28, 2026",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779752008.3228538,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -32718,9 +32718,9 @@
         "URL": "https://store.steampowered.com/app/4623620/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4623620/c17711509de5a944f5289a7787f81a75c8411c4f/header.jpg?t=1776330662",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-04-16",
-        "AddedTimestamp": 1776333124.9215016,
+        "Date": "Jun 23, 2026",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779752014.7435725,
         "MatchedTags": [
             "management",
             "economy",
@@ -33489,9 +33489,9 @@
         "URL": "https://store.steampowered.com/app/4581930/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4581930/352c18ad81b7d7b3d8a15b3c5fa41f76f0a23c16/header.jpg?t=1776375224",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-16",
-        "AddedTimestamp": 1776376863.324918,
+        "Date": "May 25, 2026",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779752010.2785707,
         "MatchedTags": [
             "strategy",
             "management"
@@ -64680,6 +64680,65 @@
         "AddedTimestamp": 1779745025.052944,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4541910": {
+        "Title": "Agari \u2014 Riichi Mahjong",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4541910/",
+        "Site": "https://agari.app/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541910/21d8eafd0a8befdfe3a817bcc05c546531ec185b/header.jpg?t=1779748164",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779752004.9103365,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4660410": {
+        "Title": "It Never Leaves You - Chapter 1",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4660410/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4660410/8e8f0f741adcdf6fa11e0285ac4a351f677876ea/header.jpg?t=1779750208",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779752022.0339632,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4681270": {
+        "Title": "Pitch & Pixel",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4681270/",
+        "Site": "https://pitchpixel-game.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4681270/61a34a3c105277b5143e4d313ea5b31266f27797/header.jpg?t=1779747345",
+        "Date": "Jun 24, 2026",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779752033.368742,
+        "MatchedTags": [
+            "management",
+            "economy"
+        ]
+    },
+    "4754260": {
+        "Title": "Beach Defense: Zombie Invasion",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4754260/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4754260/5cfb321da4b6ca920398e36c2295e76b0a8d9747/header.jpg?t=1779751736",
+        "Date": "Jun 11, 2026",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779752042.3592625,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
         ]
     }
 }
