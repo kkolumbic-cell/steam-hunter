@@ -2279,20 +2279,6 @@
             "turn-based combat"
         ]
     },
-    "4489660": {
-        "Title": "Silicon Path",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4489660/",
-        "Site": "",
-        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4489660/6255000c441bcf06f55e62840695171534fdb5d0/header.jpg?t=1772768170",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-06",
-        "AddedTimestamp": 1772772790.980924,
-        "MatchedTags": [
-            "psychological horror"
-        ]
-    },
     "4498870": {
         "Title": "DON'T OPEN",
         "Email": "",
@@ -3321,9 +3307,9 @@
         "URL": "https://store.steampowered.com/app/4347270/",
         "Site": "https://blacklanternentertainment.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4347270/1cfbc59287ce69413fff5cb2e7bb212ab9896748/header.jpg?t=1772837932",
-        "Date": "June 2026",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775532742.0812676,
+        "Date": "Jun 30, 2026",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779713147.2799942,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -21997,9 +21983,9 @@
         "URL": "https://store.steampowered.com/app/3960380/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960380/64b82d5b9af9477e811ab74bb761d4be231ecdfc/header.jpg?t=1775209395",
-        "Date": "2027",
-        "AddedDate": "2026-05-22",
-        "AddedTimestamp": 1779492805.154173,
+        "Date": "To be announced",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779713129.3749135,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -47281,9 +47267,9 @@
         "URL": "https://store.steampowered.com/app/4600900/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4600900/71556f81c5f7d271200765b63131ed3be3dcefd2/header.jpg?t=1777575452",
-        "Date": "May 2026",
-        "AddedDate": "2026-05-06",
-        "AddedTimestamp": 1778050017.6872725,
+        "Date": "To be announced",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779713181.8771863,
         "MatchedTags": [
             "economy",
             "management",
@@ -54577,7 +54563,8 @@
         "AddedDate": "2026-05-09",
         "AddedTimestamp": 1778285529.941752,
         "MatchedTags": [
-            "base building"
+            "base building",
+            "tower defense"
         ]
     },
     "4700250": {
@@ -55770,9 +55757,9 @@
         "URL": "https://store.steampowered.com/app/4517340/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4517340/87c2621da7bd55cc12e8cef185f26218d0c49d2f/header.jpg?t=1778533346",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-11",
-        "AddedTimestamp": 1778535790.9466546,
+        "Date": "May 25, 2026",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779713165.145734,
         "MatchedTags": [
             "horror"
         ]
@@ -55876,9 +55863,9 @@
         "URL": "https://store.steampowered.com/app/4705060/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4705060/e6107081e2864ebc175a2331f57d5b29c3c62f8c/header.jpg?t=1778539376",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-11",
-        "AddedTimestamp": 1778541234.1418738,
+        "Date": "May 25, 2026",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779713226.4219096,
         "MatchedTags": [
             "horror"
         ]
@@ -64269,6 +64256,38 @@
             "resource management",
             "economy",
             "base building"
+        ]
+    },
+    "3299510": {
+        "Title": "Soul Walker",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3299510/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3299510/30470b644d3be08b57e1ca0d473a13386766b92e/header.jpg?t=1779707549",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779713121.3939922,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4450400": {
+        "Title": "Kingblade: Medieval TCG Card Shop",
+        "Email": "",
+        "Discord": "https://discord.com/invite/MqV6R8FZsk",
+        "URL": "https://store.steampowered.com/app/4450400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4450400/af5bdea026658189efc2bcacd20d4c8e6dc81fa8/header.jpg?t=1779706223",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779713153.2198539,
+        "MatchedTags": [
+            "management",
+            "strategy",
+            "economy"
         ]
     }
 }
