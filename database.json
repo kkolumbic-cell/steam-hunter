@@ -27448,7 +27448,7 @@
         "Email": "",
         "Discord": "https://discord.gg/mMjwGJswte",
         "URL": "https://store.steampowered.com/app/4339260/",
-        "Site": "",
+        "Site": "https://drive.google.com/drive/folders/1R03W_dRENlxWIp0xthWB_EMwQqJXzO4g?usp=sharing",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4339260/628e339915b19af3bfaee4c7f393b6a9cddec532/header.jpg?t=1775824405",
         "Date": "Jul 2, 2026",
         "AddedDate": "2026-04-10",
@@ -28499,9 +28499,8 @@
         "AddedTimestamp": 1775901538.9306366,
         "MatchedTags": [
             "tower defense",
-            "survival horror",
-            "strategy",
-            "base building"
+            "base building",
+            "strategy"
         ]
     },
     "4586250": {
@@ -56905,7 +56904,7 @@
     "4049670": {
         "Title": "Boxed In",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/UYHUVGdUUd",
         "URL": "https://store.steampowered.com/app/4049670/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4049670/cb1581dfd95bd272183db2b626ec575c7602ec1b/header.jpg?t=1778643245",
@@ -60272,7 +60271,7 @@
     "4637870": {
         "Title": "Smashing Bottles",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/398bBkse6",
         "URL": "https://store.steampowered.com/app/4637870/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4637870/5a2a3c46823e7109c09b5c4850620f60652f2d37/header.jpg?t=1779126196",
@@ -64504,6 +64503,120 @@
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
+        ]
+    },
+    "2499960": {
+        "Title": "Path of Darkness",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2499960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2499960/373f8e62fcbe7efce00d8562187e2452c779c36a/header.jpg?t=1779733839",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779739224.7314775,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "tactical",
+            "management"
+        ]
+    },
+    "4342700": {
+        "Title": "These Roads are Terminal",
+        "Email": "contact@kickflipwizardstudio.com",
+        "Discord": "https://discord.gg/t5k2rcCjuH",
+        "URL": "https://store.steampowered.com/app/4342700/",
+        "Site": "https://www.kickflipwizardstudio.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4342700/2c6f9ef0bd45d90666661de2722c91ad07e0d87e/header.jpg?t=1779733423",
+        "Date": "September 2026",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779739241.8684928,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4423390": {
+        "Title": "Fantasy Dashers",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4423390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4423390/f046592e11c455fcd76290ca3ba4092cdfe6d9cd/header.jpg?t=1779734672",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779739249.7381482,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4671050": {
+        "Title": "American Revolutionary War",
+        "Email": "helpdesk@wargameds.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4671050/",
+        "Site": "https://wargameds.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4671050/b85799323dfcc3d880b07f458eb10711f9b58b7a/header.jpg?t=1779735915",
+        "Date": "Jul 3, 2026",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779739297.7601795,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "tactical",
+            "turn-based combat"
+        ]
+    },
+    "4676560": {
+        "Title": "From Ashes To Glory",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4676560/",
+        "Site": "https://fromashtoglory.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4676560/c237d3cb396179b14a9230d9482123c5b17c6b59/header.jpg?t=1779734055",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779739300.5783715,
+        "MatchedTags": [
+            "tactical rpg",
+            "turn-based tactics",
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4734560": {
+        "Title": "Lost Carcossa",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4734560/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4734560/843a3286745df0fdbcaa3036a034e7c42e0cf22e/header.jpg?t=1779735884",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779739314.7663264,
+        "MatchedTags": [
+            "turn-based combat",
+            "strategy"
+        ]
+    },
+    "4762280": {
+        "Title": "MINESTRIKE SURVIVORS",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4762280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4762280/a0c2d28298ba6bf831bd8e6e063a5183fd61a74c/header.jpg?t=1779733707",
+        "Date": "Jun 7, 2026",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779739322.0212727,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
         ]
     }
 }
