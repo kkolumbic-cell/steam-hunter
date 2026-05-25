@@ -8808,9 +8808,9 @@
         "URL": "https://store.steampowered.com/app/4474330/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4474330/d26a0c20a324615bbe84c64f9df69a203832a5d6/header.jpg?t=1773724154",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-06",
-        "AddedTimestamp": 1775455792.554595,
+        "Date": "Jun 25, 2026",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779700082.8785577,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -25799,10 +25799,10 @@
         "AddedDate": "2026-04-09",
         "AddedTimestamp": 1775733537.5442278,
         "MatchedTags": [
-            "strategy",
             "tower defense",
             "management",
-            "base building"
+            "base building",
+            "strategy"
         ]
     },
     "4598940": {
@@ -54702,9 +54702,9 @@
         "URL": "https://store.steampowered.com/app/4687470/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4687470/973206e8bb7db01e2190527d99bc90de380469b4/header.jpg?t=1778292766",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-09",
-        "AddedTimestamp": 1778299227.7206461,
+        "Date": "May 28, 2026",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779700142.8992426,
         "MatchedTags": [
             "resource management"
         ]
@@ -59436,9 +59436,9 @@
         "URL": "https://store.steampowered.com/app/4616160/",
         "Site": "https://www.indiedb.com/games/httpswwwindiedbcomgamesvellar",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4616160/9d5289b1a2175556b30279952dc0348ccb74eb21/header.jpg?t=1778857042",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-15",
-        "AddedTimestamp": 1778864585.0056086,
+        "Date": "Jul 14, 2026",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779700125.0809383,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -64252,6 +64252,23 @@
         "AddedTimestamp": 1779684811.6776934,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4637420": {
+        "Title": "Oil Island Hustle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4637420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4637420/626826222bf2327cc7fad0acc4dd3efc8317b6e0/header.jpg?t=1779699506",
+        "Date": "Aug 11, 2026",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779700129.7849967,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "economy",
+            "base building"
         ]
     }
 }
