@@ -7668,9 +7668,9 @@
         "URL": "https://store.steampowered.com/app/4465120/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4465120/eeba893b42008ded7df191ce80a44f36b3e47608/header.jpg?t=1773480062",
-        "Date": "May 2026",
-        "AddedDate": "2026-04-19",
-        "AddedTimestamp": 1776599528.1918137,
+        "Date": "2027",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779732011.8700361,
         "MatchedTags": [
             "strategy"
         ]
@@ -44501,9 +44501,9 @@
         "URL": "https://store.steampowered.com/app/4555900/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4555900/8b1efab928220e2c372bb47eb90681773a62ec6b/header.jpg?t=1777395501",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-28",
-        "AddedTimestamp": 1777395954.409638,
+        "Date": "May 25, 2026",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779732031.8120048,
         "MatchedTags": [
             "resource management"
         ]
@@ -64425,6 +64425,85 @@
         "MatchedTags": [
             "management",
             "economy"
+        ]
+    },
+    "4427580": {
+        "Title": "Thuggin It Further",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4427580/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4427580/ec83c97f1285537f239a76d2409abcf09b1afb1a/header.jpg?t=1779725650",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779732005.6989725,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4650230": {
+        "Title": "Faze: Sin",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4650230/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4650230/7aa65054e19f42c2f28244c56bae56560d50cce3/header.jpg?t=1779728707",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779732059.1818032,
+        "MatchedTags": [
+            "psychological horror",
+            "horror",
+            "turn-based combat",
+            "survival horror"
+        ]
+    },
+    "4652790": {
+        "Title": "Dice Sorcerer",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4652790/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4652790/9c06723f5b14145b9a507e6ef17c06e973cf9f16/header.jpg?t=1779726421",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779732061.2972744,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "tactical rpg",
+            "turn-based tactics",
+            "turn-based strategy"
+        ]
+    },
+    "4728140": {
+        "Title": "Observation Protocol",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4728140/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4728140/127d02835764bc53735618a8be5e02a7dacdef43/header.jpg?t=1779728828",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779732082.3880177,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4732840": {
+        "Title": "\u90aa\u6076\u53a8\u5e08\u5927\u6218",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4732840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4732840/ba2f5597bd467692799f69e064bf876796eecf9e/header.jpg?t=1779725934",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-25",
+        "AddedTimestamp": 1779732084.345947,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
         ]
     }
 }
