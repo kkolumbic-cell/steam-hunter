@@ -142,20 +142,6 @@
             "horror"
         ]
     },
-    "3508260": {
-        "Title": "Hex Town",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/3508260/",
-        "Site": "https://www.hextown.com",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3508260/7d50d327738dd5acc35a090cb39c7ee54522f43e/header.jpg?t=1772606110",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-31",
-        "MatchedTags": [
-            "city builder"
-        ],
-        "AddedTimestamp": 1774965780.0326815
-    },
     "4455090": {
         "Title": "Travellers Inbetween",
         "Email": "",
@@ -14357,9 +14343,9 @@
         "URL": "https://store.steampowered.com/app/4513360/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513360/008b43ecfc32cd58d6699e37f18dadbf21f975b1/header.jpg?t=1774457532",
-        "Date": "Jun 14, 2026",
-        "AddedDate": "2026-05-13",
-        "AddedTimestamp": 1778712044.2887318,
+        "Date": "June 2026",
+        "AddedDate": "2026-05-26",
+        "AddedTimestamp": 1779838529.291514,
         "MatchedTags": [
             "strategy"
         ]
@@ -30583,9 +30569,9 @@
         "URL": "https://store.steampowered.com/app/4614890/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4614890/2bec153114150fa551b361d2aece449f79e39424/header.jpg?t=1776179245",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-14",
-        "AddedTimestamp": 1776181558.3626835,
+        "Date": "May 26, 2026",
+        "AddedDate": "2026-05-26",
+        "AddedTimestamp": 1779838552.1111193,
         "MatchedTags": [
             "tactical"
         ]
@@ -35882,10 +35868,9 @@
         "AddedDate": "2026-04-20",
         "AddedTimestamp": 1776713739.6217825,
         "MatchedTags": [
-            "strategy",
             "management",
-            "economy",
-            "resource management"
+            "resource management",
+            "economy"
         ]
     },
     "4488300": {
@@ -66005,6 +65990,49 @@
         "AddedTimestamp": 1779832825.3709817,
         "MatchedTags": [
             "management"
+        ]
+    },
+    "4475640": {
+        "Title": "Veil of Despair - Episode 1",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4475640/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475640/b6e1142043aff7c843285c24d650fbafe688a204/header.jpg?t=1779837627",
+        "Date": "2026",
+        "AddedDate": "2026-05-26",
+        "AddedTimestamp": 1779838523.9148502,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4665550": {
+        "Title": "Dev Life: Tap & Code",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4665550/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4665550/d56d38c37470a6a8235d184e90f0dc1b81602d57/header.jpg?t=1779836761",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-26",
+        "AddedTimestamp": 1779838569.8335414,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4705890": {
+        "Title": "Baccarat Strada: Ultimate Baccarat Punto Banco Simulator & Trainer",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4705890/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705890/1b205125d0035606ad8e8cc3f7fdf605b590ce12/header.jpg?t=1779834128",
+        "Date": "May 29, 2026",
+        "AddedDate": "2026-05-26",
+        "AddedTimestamp": 1779838580.0588298,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
