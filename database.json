@@ -4115,11 +4115,7 @@
         "AddedDate": "2026-05-06",
         "AddedTimestamp": 1778094122.6621435,
         "MatchedTags": [
-            "strategy",
-            "turn-based strategy",
-            "turn-based combat",
-            "turn-based tactics",
-            "tactical rpg"
+            "strategy"
         ]
     },
     "4264680": {
@@ -4810,8 +4806,9 @@
         "AddedDate": "2026-03-26",
         "AddedTimestamp": 1774533671.6701775,
         "MatchedTags": [
-            "management",
             "resource management",
+            "management",
+            "strategy",
             "tactical"
         ]
     },
@@ -7668,9 +7665,9 @@
         "URL": "https://store.steampowered.com/app/4465120/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4465120/eeba893b42008ded7df191ce80a44f36b3e47608/header.jpg?t=1773480062",
-        "Date": "2027",
-        "AddedDate": "2026-05-25",
-        "AddedTimestamp": 1779732011.8700361,
+        "Date": "2026",
+        "AddedDate": "2026-05-26",
+        "AddedTimestamp": 1779785060.948334,
         "MatchedTags": [
             "strategy"
         ]
@@ -50554,6 +50551,7 @@
         "AddedDate": "2026-05-05",
         "AddedTimestamp": 1777962653.6706395,
         "MatchedTags": [
+            "strategy",
             "turn-based combat"
         ]
     },
@@ -52334,7 +52332,7 @@
     },
     "4704850": {
         "Title": "Necrotel: No Checkout",
-        "Email": "career@cgilabgames.com, luta.vladimir@cgilabgames.com",
+        "Email": "luta.vladimir@cgilabgames.com, career@cgilabgames.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4704850/",
         "Site": "https://cgilabgames.com/",
@@ -56614,9 +56612,9 @@
         "URL": "https://store.steampowered.com/app/4708960/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4708960/ab8886fed4f14c1d9b579acf0e05d69865a00b5e/header.jpg?t=1778605229",
-        "Date": "Coming soon",
+        "Date": "May 26, 2026",
         "AddedDate": "2026-05-26",
-        "AddedTimestamp": 1779770281.257433,
+        "AddedTimestamp": 1779785145.5854282,
         "MatchedTags": [
             "strategy",
             "horror"
@@ -59472,10 +59470,12 @@
         "AddedDate": "2026-05-16",
         "AddedTimestamp": 1778965569.0662687,
         "MatchedTags": [
+            "tactical rpg",
             "turn-based tactics",
             "turn-based strategy",
+            "strategy",
             "turn-based combat",
-            "strategy"
+            "tactical"
         ]
     },
     "4528250": {
@@ -64500,8 +64500,8 @@
         "AddedDate": "2026-05-25",
         "AddedTimestamp": 1779732084.345947,
         "MatchedTags": [
-            "strategy",
-            "turn-based strategy"
+            "turn-based strategy",
+            "strategy"
         ]
     },
     "2499960": {
@@ -65006,6 +65006,168 @@
         "MatchedTags": [
             "economy",
             "strategy"
+        ]
+    },
+    "4503540": {
+        "Title": "Fomo-trading",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4503540/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4503540/d75e34258a3909aa12165cf01d98ea926e06c063/header.jpg?t=1779779314",
+        "Date": "Jun 15, 2026",
+        "AddedDate": "2026-05-26",
+        "AddedTimestamp": 1779785067.8869662,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "real time tactics"
+        ]
+    },
+    "4533320": {
+        "Title": "Car Crime Simulator: Prologue - Early Days",
+        "Email": "",
+        "Discord": "https://discord.gg/KVMHmsZNs6",
+        "URL": "https://store.steampowered.com/app/4533320/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4533320/32b5c85db0e752773a9ed99be107233f468c54cf/header.jpg?t=1779784707",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-26",
+        "AddedTimestamp": 1779785083.5694733,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4644620": {
+        "Title": "Streamchat: Horror Live",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4644620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4644620/81e2c49469af4932ee59936ff1b69c2b447e4a04/header.jpg?t=1779775494",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-26",
+        "AddedTimestamp": 1779785109.7976766,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4736640": {
+        "Title": "Sinheritance",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4736640/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4736640/37719b340864477b7f698e82888da3b779049f65/header.jpg?t=1779778618",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-26",
+        "AddedTimestamp": 1779785184.2052917,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4738130": {
+        "Title": "\u51b7\u6cc9-\u9608\u9650\u7a7a\u95f4",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4738130/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4738130/5386b6fdd7c7417c42a0e26664ad2fa6b8c02ed6/header.jpg?t=1779776631",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-26",
+        "AddedTimestamp": 1779785189.789496,
+        "MatchedTags": [
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4740410": {
+        "Title": "A Game About Clicking A Rock",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4740410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4740410/87027dfc07b812e2c01e049518beab6a32aafdec/header.jpg?t=1779779585",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-26",
+        "AddedTimestamp": 1779785192.9672713,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4741450": {
+        "Title": "Skyfire Stronghold",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4741450/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4741450/d14a29916e9e3a3c088e06d9e59dc1ce53c3d2e4/header.jpg?t=1779776620",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-26",
+        "AddedTimestamp": 1779785195.6302576,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "base building"
+        ]
+    },
+    "4742190": {
+        "Title": "THE ASHEN HEIR",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4742190/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4742190/7a748e076331bd2df8838c1cddfcd33b907a73a1/header.jpg?t=1779779130",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-26",
+        "AddedTimestamp": 1779785197.5737948,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4756070": {
+        "Title": "SCROLLBOUND",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4756070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4756070/f9785356c112bd4783c0b4d64b78dcca5537a70d/header.jpg?t=1779779813",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-26",
+        "AddedTimestamp": 1779785212.9165123,
+        "MatchedTags": [
+            "tower defense"
+        ]
+    },
+    "4758240": {
+        "Title": "Dead Relay",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4758240/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4758240/1e3c7c1a9487b5b8bb4c9b5e12cad900f92c51ec/header.jpg?t=1779778841",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-26",
+        "AddedTimestamp": 1779785217.9555352,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4759010": {
+        "Title": "All In Fresh",
+        "Email": "",
+        "Discord": "https://discord.gg/wp3rMMEmZ",
+        "URL": "https://store.steampowered.com/app/4759010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4759010/42909335cf2c45dfe9394434098af7414939d9a5/header.jpg?t=1779783758",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-26",
+        "AddedTimestamp": 1779785220.730721,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
         ]
     }
 }
