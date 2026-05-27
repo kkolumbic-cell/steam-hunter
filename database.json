@@ -44096,9 +44096,9 @@
         "URL": "https://store.steampowered.com/app/4618470/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4618470/50c29090292820c5f347ee89c6928ceb1626614d/header.jpg?t=1777356975",
-        "Date": "2026",
-        "AddedDate": "2026-04-28",
-        "AddedTimestamp": 1777358846.771227,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-05-27",
+        "AddedTimestamp": 1779925212.228568,
         "MatchedTags": [
             "tactical"
         ]
@@ -54054,7 +54054,7 @@
     "4675590": {
         "Title": "BOBA",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/FRzJVUbfuB",
         "URL": "https://store.steampowered.com/app/4675590/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4675590/9f1e47249c32ad824c5ef7454b9f1170b39bb2bb/header.jpg?t=1778212975",
@@ -62932,9 +62932,9 @@
         "URL": "https://store.steampowered.com/app/3834650/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3834650/f03cd611177307b88310d9aefbf8bc589ac79cd7/header.jpg?t=1779406504",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-05-22",
-        "AddedTimestamp": 1779424816.4898794,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-27",
+        "AddedTimestamp": 1779925177.3456848,
         "MatchedTags": [
             "strategy"
         ]
@@ -66655,6 +66655,55 @@
             "horror",
             "psychological horror",
             "survival horror"
+        ]
+    },
+    "4728970": {
+        "Title": "Escape, Chef Danegade!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4728970/",
+        "Site": "https://danegade.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4728970/423948b091a3d748ed8fa2412466edc429e888c9/header.jpg?t=1779924435",
+        "Date": "Jun 7, 2026",
+        "AddedDate": "2026-05-27",
+        "AddedTimestamp": 1779925233.435632,
+        "MatchedTags": [
+            "psychological horror",
+            "survival horror",
+            "horror"
+        ]
+    },
+    "4752330": {
+        "Title": "Hall Pass",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4752330/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4752330/6636cf25758ac40ae981c7c022d9190db14dc516/header.jpg?t=1779921627",
+        "Date": "Jun 12, 2026",
+        "AddedDate": "2026-05-27",
+        "AddedTimestamp": 1779925254.0659034,
+        "MatchedTags": [
+            "survival horror",
+            "horror"
+        ]
+    },
+    "4768690": {
+        "Title": "Excava",
+        "Email": "",
+        "Discord": "https://discord.com/invite/w2BNAzBzAj",
+        "URL": "https://store.steampowered.com/app/4768690/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4768690/fdb557fa593df5b77cc6d0bf81d07495e6ac47d4/header.jpg?t=1779921276",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-27",
+        "AddedTimestamp": 1779925263.0931346,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical",
+            "turn-based combat"
         ]
     }
 }
