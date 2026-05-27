@@ -6216,9 +6216,9 @@
         "URL": "https://store.steampowered.com/app/4424080/",
         "Site": "https://www.youtube.com/@KorkaiGames",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4424080/261220ad5f0321a797f33efeeff125fffa829eb0/header.jpg?t=1773292386",
-        "Date": "July 2026",
-        "AddedDate": "2026-05-10",
-        "AddedTimestamp": 1778411710.6337998,
+        "Date": "Jul 5, 2026",
+        "AddedDate": "2026-05-27",
+        "AddedTimestamp": 1779885209.4893155,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -13058,7 +13058,7 @@
     "4218620": {
         "Title": "Double Dealers",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/sndEk35waw",
         "URL": "https://store.steampowered.com/app/4218620/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218620/d1e68e0c056f5d9903367f18c6f019edd75aa777/header.jpg?t=1774365521",
@@ -58250,7 +58250,6 @@
         "AddedTimestamp": 1778746024.7687914,
         "MatchedTags": [
             "turn-based combat",
-            "turn-based strategy",
             "strategy"
         ]
     },
@@ -63140,9 +63139,9 @@
         "URL": "https://store.steampowered.com/app/4719820/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4719820/2ef55aaeabef97335f47098fc81ca339eafc0eaa/header.jpg?t=1779439523",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-22",
-        "AddedTimestamp": 1779451457.1499748,
+        "Date": "Jun 18, 2026",
+        "AddedDate": "2026-05-27",
+        "AddedTimestamp": 1779885311.8903258,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -66200,6 +66199,102 @@
         "Date": "Coming soon",
         "AddedDate": "2026-05-27",
         "AddedTimestamp": 1779871938.225201,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "3877830": {
+        "Title": "Beachside Cafe Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3877830/",
+        "Site": "https://grumpyduckgames.carrd.co/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3877830/da16c304272a0a23a0892c971cb5870d28da0127/header.jpg?t=1779880396",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-27",
+        "AddedTimestamp": 1779885187.6141012,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4233840": {
+        "Title": "FOQUES",
+        "Email": "",
+        "Discord": "https://discord.gg/fw9ZDFCXmh",
+        "URL": "https://store.steampowered.com/app/4233840/",
+        "Site": "https://infothevampiresman.wixsite.com/home/games",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4233840/53c7807beabe9c0edeb317b12051e0f95eac3090/header.jpg?t=1779874381",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-27",
+        "AddedTimestamp": 1779885202.3875868,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4568770": {
+        "Title": "Dream Ocean",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4568770/",
+        "Site": "https://dreamoceangame.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4568770/f783ac6da5a5d287ca9c191ffb5b13b62c94a1fe/header.jpg?t=1779876557",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-27",
+        "AddedTimestamp": 1779885248.5130303,
+        "MatchedTags": [
+            "tactical rpg",
+            "turn-based tactics",
+            "strategy"
+        ]
+    },
+    "4626940": {
+        "Title": "Scratch the Ticket",
+        "Email": "",
+        "Discord": "https://discord.gg/xUBGkbn665",
+        "URL": "https://store.steampowered.com/app/4626940/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4626940/59af226f2c7629b14fbe25c8d6a5f9d91b1f6e1d/header.jpg?t=1779879910",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-27",
+        "AddedTimestamp": 1779885268.3820028,
+        "MatchedTags": [
+            "economy",
+            "resource management"
+        ]
+    },
+    "4671660": {
+        "Title": "\u6218\u5730\u98ce\u66b4\u4e4b\u7b2c\u4e09\u6b21\u4e16\u754c\u5927\u6218",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4671660/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4671660/a7e8f1f526fd588ddd3375e4647a518520a78822/header.jpg?t=1779877554",
+        "Date": "July 2026",
+        "AddedDate": "2026-05-27",
+        "AddedTimestamp": 1779885286.267613,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "city builder",
+            "grand strategy",
+            "colony sim",
+            "real time tactics",
+            "base building",
+            "tactical rpg"
+        ]
+    },
+    "4735230": {
+        "Title": "Pile 'Em High Episode 3: Convalescence",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4735230/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4735230/9c2064436051113048d916d63a26991681be6fd6/header.jpg?t=1779881027",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-27",
+        "AddedTimestamp": 1779885322.236427,
         "MatchedTags": [
             "horror"
         ]
