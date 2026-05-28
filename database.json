@@ -40073,9 +40073,9 @@
         "URL": "https://store.steampowered.com/app/4581810/",
         "Site": "https://headarrow.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4581810/316039b587a2b89a135cc295460640dfb2c2d5b4/header.jpg?t=1776985573",
-        "Date": "2026",
-        "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1777002842.2439046,
+        "Date": "Jul 27, 2026",
+        "AddedDate": "2026-05-28",
+        "AddedTimestamp": 1780011923.8162587,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -58675,9 +58675,9 @@
         "URL": "https://store.steampowered.com/app/4730360/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4730360/c4bc657c26fe33864d0fad50ffc88791daac06ff/header.jpg?t=1778777633",
-        "Date": "To be announced",
-        "AddedDate": "2026-05-14",
-        "AddedTimestamp": 1778782381.6687648,
+        "Date": "Jun 7, 2026",
+        "AddedDate": "2026-05-28",
+        "AddedTimestamp": 1780011976.8584476,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -68110,6 +68110,167 @@
         "MatchedTags": [
             "colony sim",
             "base building",
+            "management",
+            "resource management"
+        ]
+    },
+    "4530390": {
+        "Title": "TCG World",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4530390/",
+        "Site": "https://tcg.world",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4530390/c41fbae9f4604b766ff6864d88aa1cdea254d031/header.jpg?t=1780009117",
+        "Date": "TBA",
+        "AddedDate": "2026-05-28",
+        "AddedTimestamp": 1780011913.1594596,
+        "MatchedTags": [
+            "base building",
+            "economy"
+        ]
+    },
+    "4593870": {
+        "Title": "Roughhousing",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4593870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4593870/e3df0595cb2bd370a1210babb524d79cb2c3cde4/header.jpg?t=1780009961",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-28",
+        "AddedTimestamp": 1780011926.5051267,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "strategy",
+            "survival horror"
+        ]
+    },
+    "4601480": {
+        "Title": "Spin To Breathe",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4601480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4601480/f36d705b8e2045e94d9b0f599eef2046ade50bf9/header.jpg?t=1780009937",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-05-28",
+        "AddedTimestamp": 1780011935.4139655,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4608640": {
+        "Title": "Harvest of Names",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4608640/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4608640/6f5e1d7ce7b6fa6dbb695e08088770a7c2a9712c/header.jpg?t=1780008754",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-28",
+        "AddedTimestamp": 1780011938.1444845,
+        "MatchedTags": [
+            "turn-based combat",
+            "turn-based tactics"
+        ]
+    },
+    "4704490": {
+        "Title": "Fortune Pact",
+        "Email": "nousgamesdev@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4704490/",
+        "Site": "https://www.nousgamesdev.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4704490/126699771f59f620b3c382670e1271dcd83423bc/header.jpg?t=1780007979",
+        "Date": "Jun 10, 2026",
+        "AddedDate": "2026-05-28",
+        "AddedTimestamp": 1780011956.3020222,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "4705440": {
+        "Title": "Coloniam",
+        "Email": "",
+        "Discord": "https://discord.gg/AEYgrsJhJP",
+        "URL": "https://store.steampowered.com/app/4705440/",
+        "Site": "https://coloniam.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4705440/f1f1b725c1e4d5d3745531f521388fc403b4518e/header.jpg?t=1780007795",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-28",
+        "AddedTimestamp": 1780011959.677323,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "real time tactics",
+            "economy",
+            "tactical",
+            "base building"
+        ]
+    },
+    "4707460": {
+        "Title": "Dimension Defenders",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4707460/",
+        "Site": "https://www.chromatikgames.com/dimension-defenders",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4707460/32a249f363fd00ae9ce73582c978b1cc17291a07/header.jpg?t=1780011636",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-28",
+        "AddedTimestamp": 1780011962.7968616,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "real time tactics",
+            "tactical",
+            "resource management"
+        ]
+    },
+    "4719980": {
+        "Title": "Man of Y",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4719980/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4719980/058db3413b6566fea3b4f89422a4f14c0587d5ef/header.jpg?t=1780009149",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-28",
+        "AddedTimestamp": 1780011968.4639065,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4741630": {
+        "Title": "Submechanic",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4741630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4741630/fba32b39ff7a8f57a7314309f45b9aac71a21f03/header.jpg?t=1780011435",
+        "Date": "Jun 14, 2026",
+        "AddedDate": "2026-05-28",
+        "AddedTimestamp": 1780011983.050751,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4778050": {
+        "Title": "10000 BC",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4778050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4778050/e8aac11ce00f0a84654a635913143cdb50646c25/header.jpg?t=1780011212",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-28",
+        "AddedTimestamp": 1780011997.4227238,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "tower defense",
+            "turn-based strategy",
             "management",
             "resource management"
         ]
