@@ -8949,9 +8949,9 @@
         "URL": "https://store.steampowered.com/app/4438460/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4438460/af7fe8bcf3546f61d47ab7df407637e5a1032e2a/header.jpg?t=1773747291",
-        "Date": "May 29, 2026",
-        "AddedDate": "2026-04-03",
-        "AddedTimestamp": 1775207515.680196,
+        "Date": "May 28, 2026",
+        "AddedDate": "2026-05-28",
+        "AddedTimestamp": 1780006346.423803,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -23689,9 +23689,9 @@
         "URL": "https://store.steampowered.com/app/4567020/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4567020/b9bc2df35d41b958624392f79cc0b304dde9b407/header.jpg?t=1775533276",
-        "Date": "July 2026",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775541483.005015,
+        "Date": "2026",
+        "AddedDate": "2026-05-28",
+        "AddedTimestamp": 1780006371.0057101,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -50250,9 +50250,9 @@
         "URL": "https://store.steampowered.com/app/4628510/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4628510/decb1fccfd17042a0b297b2ea9b51313313e3c19/header.jpg?t=1777932777",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-05-04",
-        "AddedTimestamp": 1777936341.7232037,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-28",
+        "AddedTimestamp": 1780006396.120505,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -58740,8 +58740,8 @@
         "AddedDate": "2026-05-14",
         "AddedTimestamp": 1778789084.1863925,
         "MatchedTags": [
-            "survival horror",
             "horror",
+            "survival horror",
             "psychological horror"
         ]
     },
@@ -58916,7 +58916,7 @@
     },
     "4568350": {
         "Title": "Beavertale",
-        "Email": "beavertale.game@gmail.com, miguelsn243@gmail.com, denisseantunezlopez@gmail.com, gustavogtznav@gmail.com",
+        "Email": "miguelsn243@gmail.com, beavertale.game@gmail.com, denisseantunezlopez@gmail.com, gustavogtznav@gmail.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4568350/",
         "Site": "https://gustavogtz.github.io/beavertale-html-page/",
@@ -60538,9 +60538,9 @@
         "URL": "https://store.steampowered.com/app/2245600/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2245600/143ae911b34148580cb14608c9cc8599d07c98d7/header.jpg?t=1779194561",
-        "Date": "August 2026",
-        "AddedDate": "2026-05-19",
-        "AddedTimestamp": 1779208330.4581013,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-28",
+        "AddedTimestamp": 1780006308.9818313,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -67954,6 +67954,164 @@
             "resource management",
             "economy",
             "base building"
+        ]
+    },
+    "4592050": {
+        "Title": "Watch and Whisper",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4592050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4592050/7c6be20758df1eae0b77273f5afe230e02467f30/header.jpg?t=1779999110",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-05-28",
+        "AddedTimestamp": 1780006384.4696038,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4632320": {
+        "Title": "Ball Wizard",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4632320/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4632320/2b3f5a340063270605fc1134a408feedee843c26/header.jpg?t=1780001644",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-28",
+        "AddedTimestamp": 1780006398.0023856,
+        "MatchedTags": [
+            "tower defense",
+            "resource management"
+        ]
+    },
+    "4687550": {
+        "Title": "The Audition",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4687550/",
+        "Site": "https://theauditiongame.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4687550/7c5c83a8742a4840802bb6ce92e1e44a8be2f86e/header.jpg?t=1780002492",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-28",
+        "AddedTimestamp": 1780006412.2523992,
+        "MatchedTags": [
+            "psychological horror",
+            "horror",
+            "turn-based tactics",
+            "survival horror",
+            "turn-based combat"
+        ]
+    },
+    "4706360": {
+        "Title": "PLAYBACK",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4706360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4706360/18026e36a5ce87d996de4b4f0b2b3bbd29aa3208/header.jpg?t=1780000065",
+        "Date": "2026",
+        "AddedDate": "2026-05-28",
+        "AddedTimestamp": 1780006422.7741373,
+        "MatchedTags": [
+            "strategy",
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4734310": {
+        "Title": "Needle Guardian \u301c\u91dd\u306e\u756a\u4eba\u301c",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4734310/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4734310/83b3285a359819f5a58f4a85aa9579cee1569929/header.jpg?t=1780001516",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-28",
+        "AddedTimestamp": 1780006435.9993646,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "4764550": {
+        "Title": "Alter Animus",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4764550/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4764550/b7bf8d7c8c67c5894c19b1531ab19ca45d1df607/header.jpg?t=1780001430",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-28",
+        "AddedTimestamp": 1780006461.1416125,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "turn-based combat"
+        ]
+    },
+    "4768400": {
+        "Title": "Idle Crown",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4768400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4768400/fb4c9ac10b539ff1a8bbd573ec7f14b562662878/header.jpg?t=1780001156",
+        "Date": "Jun 19, 2026",
+        "AddedDate": "2026-05-28",
+        "AddedTimestamp": 1780006463.378741,
+        "MatchedTags": [
+            "tactical",
+            "resource management"
+        ]
+    },
+    "4769580": {
+        "Title": "The Ferryman's Trial",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4769580/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4769580/0ef9ee449e2296fb8a0157d4f3beac99535a789c/header.jpg?t=1780005509",
+        "Date": "Jun 25, 2026",
+        "AddedDate": "2026-05-28",
+        "AddedTimestamp": 1780006465.551527,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4777330": {
+        "Title": "Link Cameras",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4777330/",
+        "Site": "https://headarrow.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4777330/4c3e4a38e98748fd32abffbb9a44a744a3ae5456/header.jpg?t=1780005803",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-28",
+        "AddedTimestamp": 1780006472.1664097,
+        "MatchedTags": [
+            "management",
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4778610": {
+        "Title": "Terra Crafter",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4778610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4778610/8b504e38099a023577135c1bf8656a2c121755c0/header.jpg?t=1780001622",
+        "Date": "2026",
+        "AddedDate": "2026-05-28",
+        "AddedTimestamp": 1780006474.784923,
+        "MatchedTags": [
+            "colony sim",
+            "base building",
+            "management",
+            "resource management"
         ]
     }
 }
