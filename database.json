@@ -9047,8 +9047,7 @@
         "AddedDate": "2026-04-25",
         "AddedTimestamp": 1777108333.9549568,
         "MatchedTags": [
-            "horror",
-            "psychological horror"
+            "strategy"
         ]
     },
     "4515440": {
@@ -32111,7 +32110,7 @@
     "4611210": {
         "Title": "Crimson Solstice",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/5xpWF8v6Q",
         "URL": "https://store.steampowered.com/app/4611210/",
         "Site": "https://www.lunarfrostgames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4611210/5d40c029650399bad5fd57a205cfbba3e5e3244d/header.jpg?t=1776290418",
@@ -51904,9 +51903,9 @@
         "URL": "https://store.steampowered.com/app/4699890/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4699890/298d98aa23d978c63da19df8265db38e58ab21b0/header.jpg?t=1778031699",
-        "Date": "June 2026",
-        "AddedDate": "2026-05-06",
-        "AddedTimestamp": 1778040593.593681,
+        "Date": "Jun 4, 2026",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780092600.1695366,
         "MatchedTags": [
             "strategy"
         ]
@@ -51994,9 +51993,9 @@
         "URL": "https://store.steampowered.com/app/4638220/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4638220/2cbad8743b7a48d1823764f6f1db8af0ca81b4db/header.jpg?t=1778044347",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-06",
-        "AddedTimestamp": 1778050041.6144905,
+        "Date": "May 29, 2026",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780092572.8531618,
         "MatchedTags": [
             "tactical rpg",
             "strategy"
@@ -54866,9 +54865,9 @@
         "URL": "https://store.steampowered.com/app/4674130/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4674130/ccc7de95c7cba8d3f5295f72de253091b5dcd018/header.jpg?t=1778314232",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-09",
-        "AddedTimestamp": 1778316861.075273,
+        "Date": "May 29, 2026",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780092585.244392,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -61030,8 +61029,10 @@
         "AddedDate": "2026-05-19",
         "AddedTimestamp": 1779233703.499228,
         "MatchedTags": [
+            "strategy",
             "management",
-            "resource management"
+            "resource management",
+            "economy"
         ]
     },
     "4691430": {
@@ -69355,6 +69356,209 @@
             "tower defense",
             "real time tactics",
             "management"
+        ]
+    },
+    "416500": {
+        "Title": "Killing Horizon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/416500/",
+        "Site": "http://www.KillingHorizon.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/416500/14683bd94b06830a300703b0eade724cada0f4d1/header.jpg?t=1780090614",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780092481.0602052,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "real time tactics",
+            "tactical"
+        ]
+    },
+    "1888760": {
+        "Title": "Tower Defense Monster",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/1888760/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888760/3c6f86af19582081de1e69e699b63edda0c070e9/header.jpg?t=1780085816",
+        "Date": "2026",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780092483.6924975,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "tactical"
+        ]
+    },
+    "4136010": {
+        "Title": "Wizard Balls",
+        "Email": "",
+        "Discord": "https://discord.gg/FRs4ygWkRb",
+        "URL": "https://store.steampowered.com/app/4136010/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4136010/f05c5bb982b1e44fae9fd318da9f0b8991708135/header.jpg?t=1780089646",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780092507.1389356,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4535370": {
+        "Title": "Throughput",
+        "Email": "contact@throughput.gg",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4535370/",
+        "Site": "https://www.throughput.gg/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4535370/6f5a0b8ddcb93474ed3db64450c9dad025d3762d/header.jpg?t=1780088776",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780092530.5508947,
+        "MatchedTags": [
+            "city builder",
+            "economy",
+            "management",
+            "strategy"
+        ]
+    },
+    "4622380": {
+        "Title": "Idle Mining Manager",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4622380/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4622380/76716a62bd1ea736b931c7cdbc83c59858fdd746/header.jpg?t=1780086169",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780092564.5171597,
+        "MatchedTags": [
+            "management",
+            "resource management"
+        ]
+    },
+    "4674040": {
+        "Title": "Eternal Exorcism",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4674040/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4674040/d021a65cc958a4326cfe9847dcc1018d98c1c8d1/header.jpg?t=1780084163",
+        "Date": "Jun 4, 2026",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780092583.2317934,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "horror",
+            "psychological horror",
+            "turn-based combat"
+        ]
+    },
+    "4738940": {
+        "Title": "Authorisation Engine",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4738940/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4738940/6e8daafe1fc52553b7039a1920804feb1b442a89/header.jpg?t=1780087063",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780092612.0185866,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4757070": {
+        "Title": "Colony of the Forsaken",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4757070/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4757070/6a419ce075bbd72d1b65b96309238768f9642e4c/header.jpg?t=1780085741",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780092624.716769,
+        "MatchedTags": [
+            "colony sim",
+            "base building",
+            "resource management"
+        ]
+    },
+    "4761270": {
+        "Title": "Card Night at Gigi's",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4761270/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4761270/9a3312e3b4025619c9bfdf4c0a30b27e4e148f2f/header.jpg?t=1780088448",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780092626.5236163,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4765950": {
+        "Title": "Waiting for Heaven",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4765950/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4765950/481c2597a79700248ecb5eb0f575d1746e839c1f/header.jpg?t=1780087474",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780092629.7516615,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4781440": {
+        "Title": "The Last Prayer",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4781440/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4781440/fa570345d83579c13d97576b999e5eb004a609e4/header.jpg?t=1780086173",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780092641.159439,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4782160": {
+        "Title": "Lawnmower Game Horrorland",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4782160/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4782160/4528795441024031f0165a182669e29b6be88170/header.jpg?t=1780086499",
+        "Date": "Jun 12, 2026",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780092643.650301,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4783070": {
+        "Title": "Whispers of the Requiem",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4783070/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783070/2082dc5f926fdedc4e09f65855e639d937d12685/header.jpg?t=1780089568",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780092645.8612888,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
