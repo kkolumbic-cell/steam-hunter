@@ -3464,9 +3464,9 @@
         "URL": "https://store.steampowered.com/app/4290690/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4290690/9d35683d3e5fde321f03eb3521d7ba24a41ef0b9/header.jpg?t=1772865793",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-03-07",
-        "AddedTimestamp": 1772866776.7876432,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780057729.5813444,
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
@@ -27301,9 +27301,9 @@
         "URL": "https://store.steampowered.com/app/4601360/",
         "Site": "https://magic-quest.ru",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4601360/a7ba83723337df86edb4de06ed2a90cce9c9ccfa/header.jpg?t=1775809021",
-        "Date": "May 2026",
-        "AddedDate": "2026-05-01",
-        "AddedTimestamp": 1777621154.1574907,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780057808.0755947,
         "MatchedTags": [
             "tactical rpg",
             "turn-based tactics",
@@ -39541,9 +39541,9 @@
         "URL": "https://store.steampowered.com/app/3831700/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3831700/4003d0f518283ef81e83032f233d612044bfd6a1/header.jpg?t=1776964687",
-        "Date": "2026",
-        "AddedDate": "2026-04-30",
-        "AddedTimestamp": 1777574797.2294457,
+        "Date": "May 29, 2026",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780057710.7600784,
         "MatchedTags": [
             "tower defense"
         ]
@@ -43421,7 +43421,7 @@
     "4663800": {
         "Title": "One More Core",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/TD72ExM2XQ",
         "URL": "https://store.steampowered.com/app/4663800/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4663800/66115b7352f91c1b6ade48f09b539d6c339641f7/header.jpg?t=1777320334",
@@ -54613,9 +54613,9 @@
         "URL": "https://store.steampowered.com/app/4598520/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4598520/2e93e943ced90f8587973e2ec1e0afbacb2dc753/header.jpg?t=1778291696",
-        "Date": "May 31, 2026",
-        "AddedDate": "2026-05-09",
-        "AddedTimestamp": 1778299185.9523315,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780057805.8210404,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -56509,7 +56509,7 @@
         "Email": "",
         "Discord": "https://discord.com/invite/6A2mnym9nn",
         "URL": "https://store.steampowered.com/app/4396620/",
-        "Site": "",
+        "Site": "https://impress.games/press-kit/karaclan/unlucky-mummy",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4396620/580c1f7ebcc4dfe3564c54722ba14e6f709122cc/header.jpg?t=1778604793",
         "Date": "Jun 2, 2026",
         "AddedDate": "2026-05-12",
@@ -58860,9 +58860,9 @@
         "URL": "https://store.steampowered.com/app/4717260/",
         "Site": "https://areyouapilot.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4717260/8042cda2c675c4fd6bf4dbc9fdf72ef35800f06d/header.jpg?t=1778792084",
-        "Date": "May 28, 2026",
-        "AddedDate": "2026-05-14",
-        "AddedTimestamp": 1778794736.3387043,
+        "Date": "May 29, 2026",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780057867.496876,
         "MatchedTags": [
             "turn-based tactics"
         ]
@@ -59558,9 +59558,9 @@
         "URL": "https://store.steampowered.com/app/4630180/",
         "Site": "https://www.devop.games/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4630180/33ada0ecd6aee42487ab6f7262e95fc0f59973f6/header.jpg?t=1778878213",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-15",
-        "AddedTimestamp": 1778883156.9769473,
+        "Date": "May 29, 2026",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780057827.2212186,
         "MatchedTags": [
             "strategy",
             "tactical"
@@ -68735,7 +68735,7 @@
     "4778670": {
         "Title": "Concrete & Credit: Developer Tycoon",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.com/invite/UDf3QKNUZA",
         "URL": "https://store.steampowered.com/app/4778670/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4778670/37f0a3d0d2771fce92ad0424ff9663c8c3cb9514/header.jpg?t=1780042912",
@@ -68747,6 +68747,93 @@
             "strategy",
             "management",
             "resource management"
+        ]
+    },
+    "4438340": {
+        "Title": "Heng Rover Mission",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4438340/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4438340/bbb7eaad798d8f94325352214e5cb093c4e653cd/header.jpg?t=1780055203",
+        "Date": "Aug 26, 2027",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780057758.584201,
+        "MatchedTags": [
+            "base building",
+            "strategy"
+        ]
+    },
+    "4533740": {
+        "Title": "Project Doll: My Only Wish",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4533740/",
+        "Site": "https://www.littleemperorstudios.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4533740/28a1b74e705751a93807591dcf8b3438d8020022/header.jpg?t=1780056994",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780057778.5724084,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4574460": {
+        "Title": "Rabbit On The Rails",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4574460/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4574460/a82e4511dcd1abb5ba9e15399637ab486aa62809/header.jpg?t=1780048507",
+        "Date": "2026",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780057793.8429346,
+        "MatchedTags": [
+            "horror",
+            "strategy"
+        ]
+    },
+    "4604660": {
+        "Title": "Project HN",
+        "Email": "",
+        "Discord": "https://discord.gg/3kdDXKkP",
+        "URL": "https://store.steampowered.com/app/4604660/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4604660/7a989a52631cada405c9722d0ae84b92f3c33648/header.jpg?t=1780055508",
+        "Date": "Dec 29, 2026",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780057814.5092666,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4656840": {
+        "Title": "Gamba God",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4656840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4656840/2df0267ba62f2a196054c78d0731e0952d7aea9e/header.jpg?t=1780050805",
+        "Date": "2026",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780057837.6146777,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4669550": {
+        "Title": "Orbital Drift",
+        "Email": "contact@orbitaldriftgame.com",
+        "Discord": "https://discord.gg/rJrzkeGB6R",
+        "URL": "https://store.steampowered.com/app/4669550/",
+        "Site": "http://orbitaldriftgame.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4669550/bfcb4b4c482d681e22fb68d930d4e550b41790c9/header.jpg?t=1780050232",
+        "Date": "2027",
+        "AddedDate": "2026-05-29",
+        "AddedTimestamp": 1780057844.9996068,
+        "MatchedTags": [
+            "strategy",
+            "psychological horror"
         ]
     }
 }
