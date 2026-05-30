@@ -20965,9 +20965,9 @@
         "URL": "https://store.steampowered.com/app/4563360/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4563360/0d6ae2bb8f1b537e77250dca95e2cdc7e63ac3f8/header.jpg?t=1775119274",
-        "Date": "2026",
-        "AddedDate": "2026-05-18",
-        "AddedTimestamp": 1779131070.5257602,
+        "Date": "May 30, 2026",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780127952.0266194,
         "MatchedTags": [
             "city builder",
             "management",
@@ -64684,9 +64684,9 @@
         "URL": "https://store.steampowered.com/app/4681270/",
         "Site": "https://pitchpixel-game.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4681270/61a34a3c105277b5143e4d313ea5b31266f27797/header.jpg?t=1779747345",
-        "Date": "June 2026",
-        "AddedDate": "2026-05-26",
-        "AddedTimestamp": 1779814797.822013,
+        "Date": "Jun 21, 2026",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780127981.1482337,
         "MatchedTags": [
             "management",
             "economy"
@@ -66861,9 +66861,9 @@
         "URL": "https://store.steampowered.com/app/4771190/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4771190/e9f6d31c27fe5438088ce068b54ae186931b7dd8/header.jpg?t=1779935125",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-28",
-        "AddedTimestamp": 1779943555.3904305,
+        "Date": "Jun 12, 2026",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780128021.4258027,
         "MatchedTags": [
             "horror"
         ]
@@ -69219,9 +69219,9 @@
         "URL": "https://store.steampowered.com/app/3626210/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3626210/bc06634c2cefcc338458933271a4cf37af65c458/header.jpg?t=1780082155",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-05-29",
-        "AddedTimestamp": 1780083714.7700286,
+        "Date": "To be announced",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780127907.4810848,
         "MatchedTags": [
             "strategy"
         ]
@@ -69813,6 +69813,156 @@
             "strategy",
             "grand strategy",
             "economy",
+            "resource management"
+        ]
+    },
+    "2272020": {
+        "Title": "SALUS",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2272020/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272020/256649d7d2cc82d694657ffab79721e28bb8e8f6/header.jpg?t=1780123456",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780127896.4026704,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "management"
+        ]
+    },
+    "3065330": {
+        "Title": "Star Stitcher",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3065330/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065330/f0973e56e5512bb75d399216071d0a6872f41667/header.jpg?t=1780118679",
+        "Date": "December 2027",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780127898.4841905,
+        "MatchedTags": [
+            "tactical rpg"
+        ]
+    },
+    "3775850": {
+        "Title": "Pawn City",
+        "Email": "",
+        "Discord": "https://discord.gg/6Tx2VpB8ys",
+        "URL": "https://store.steampowered.com/app/3775850/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3775850/7a87f652c90b51da4c35f17aed8acabbc2839787/header.jpg?t=1780115754",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780127909.8655589,
+        "MatchedTags": [
+            "economy",
+            "management"
+        ]
+    },
+    "4502670": {
+        "Title": "ShardWars",
+        "Email": "",
+        "Discord": "https://discord.gg/2ykhPaDd ",
+        "URL": "https://store.steampowered.com/app/4502670/",
+        "Site": "https://www.shardwars.com ",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4502670/5b2737934da6cbd916c7d7b48c164bbe4f34c2cb/header.jpg?t=1780123992",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780127934.0388877,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "grand strategy"
+        ]
+    },
+    "4570650": {
+        "Title": "Backrooms: Infinite",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4570650/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570650/2be486966acb0d1f07c7886d45439e4f63e9ecc5/header.jpg?t=1780126364",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780127956.8440366,
+        "MatchedTags": [
+            "survival horror"
+        ]
+    },
+    "4655650": {
+        "Title": "Pixel Imperium",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4655650/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4655650/0d397338ad27f0724e1fef06a25e74dff45d9f3f/header.jpg?t=1780116480",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780127970.2857409,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "resource management"
+        ]
+    },
+    "4701420": {
+        "Title": "Trust Me",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4701420/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4701420/1cd94fb15b6da582ade2b29dcb1c8836268c07dc/header.jpg?t=1780116780",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780127992.1477013,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4767840": {
+        "Title": "Escape the Marine Lab",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4767840/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4767840/c615575cec4a5543fd70e3e5e441f059e3a48ae6/header.jpg?t=1780125060",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780128018.3462417,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4771360": {
+        "Title": "Trail of Gods: The Cursed Island",
+        "Email": "",
+        "Discord": "https://discord.gg/up4uPfZAjQ",
+        "URL": "https://store.steampowered.com/app/4771360/",
+        "Site": "https://www.menchiari.net",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771360/2175a5618cf1b0a45b54b5e8edc33d199dcc1f2d/header.jpg?t=1780127850",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780128024.1059241,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4772360": {
+        "Title": "Goldclicking",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4772360/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4772360/0df4fefeb69c06e05db7754a2d164cddc2771ce9/header.jpg?t=1780123689",
+        "Date": "July 2026",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780128026.4691157,
+        "MatchedTags": [
             "resource management"
         ]
     }
