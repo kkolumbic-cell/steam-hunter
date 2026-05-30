@@ -27441,9 +27441,9 @@
         "URL": "https://store.steampowered.com/app/4339260/",
         "Site": "https://drive.google.com/drive/folders/1R03W_dRENlxWIp0xthWB_EMwQqJXzO4g?usp=sharing",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4339260/628e339915b19af3bfaee4c7f393b6a9cddec532/header.jpg?t=1775824405",
-        "Date": "Jul 2, 2026",
-        "AddedDate": "2026-04-10",
-        "AddedTimestamp": 1775851044.2117178,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780172305.1596684,
         "MatchedTags": [
             "strategy",
             "psychological horror",
@@ -53941,9 +53941,9 @@
         "URL": "https://store.steampowered.com/app/4092940/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4092940/3a16617e3df96702c6cfb2c236bc4bf16ee70c2f/header.jpg?t=1778211928",
-        "Date": "August 2026",
-        "AddedDate": "2026-05-20",
-        "AddedTimestamp": 1779251896.749615,
+        "Date": "2026",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780172295.161794,
         "MatchedTags": [
             "strategy"
         ]
@@ -70128,12 +70128,56 @@
         "URL": "https://store.steampowered.com/app/4781520/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4781520/4d653f108a698d6f8b6a329433ab1fec01020f5d/header.jpg?t=1780155657",
-        "Date": "TBA",
+        "Date": "Coming soon",
         "AddedDate": "2026-05-30",
-        "AddedTimestamp": 1780157855.570753,
+        "AddedTimestamp": 1780172375.770781,
         "MatchedTags": [
             "management",
             "resource management"
+        ]
+    },
+    "4692380": {
+        "Title": "Invariant",
+        "Email": "",
+        "Discord": "https://discord.gg/nFyx7GAKG5",
+        "URL": "https://store.steampowered.com/app/4692380/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4692380/974b4dc9ed3b95588cbbb9595fe8be930965739b/header.jpg?t=1780171376",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780172344.2529254,
+        "MatchedTags": [
+            "survival horror"
+        ]
+    },
+    "4704520": {
+        "Title": "ShredDead",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4704520/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704520/524d0c882da644f1ca6910c6bac49f70b91214fe/header.jpg?t=1780170474",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780172352.5833268,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "resource management"
+        ]
+    },
+    "4747540": {
+        "Title": "Frontline Total Warfare",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4747540/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4747540/1c66ca2e2c2ecbc31fb9469e89077e4e58061d3d/header.jpg?t=1780171990",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780172368.4280002,
+        "MatchedTags": [
+            "tactical"
         ]
     }
 }
