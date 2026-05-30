@@ -27067,9 +27067,9 @@
         "URL": "https://store.steampowered.com/app/4556270/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4556270/d1145bb3582e83882354841cc692fa48a833f8a8/header.jpg?t=1775798348",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-04-10",
-        "AddedTimestamp": 1775801481.2770417,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780157834.1293979,
         "MatchedTags": [
             "psychological horror",
             "survival horror"
@@ -43514,9 +43514,9 @@
         "URL": "https://store.steampowered.com/app/4589210/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4589210/c8575f6bf064f8e912c8bc33d30d33536a5cdfac/header.jpg?t=1777323075",
-        "Date": "Jun 1, 2026",
+        "Date": "To be announced",
         "AddedDate": "2026-05-30",
-        "AddedTimestamp": 1780152571.137008,
+        "AddedTimestamp": 1780157836.7933729,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -70118,6 +70118,21 @@
         "MatchedTags": [
             "survival horror",
             "horror"
+        ]
+    },
+    "4781520": {
+        "Title": "Green Market",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4781520/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4781520/4d653f108a698d6f8b6a329433ab1fec01020f5d/header.jpg?t=1780155657",
+        "Date": "TBA",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780157855.570753,
+        "MatchedTags": [
+            "management",
+            "resource management"
         ]
     }
 }
