@@ -36501,7 +36501,8 @@
             "strategy",
             "turn-based strategy",
             "turn-based tactics",
-            "turn-based combat"
+            "turn-based combat",
+            "tactical"
         ]
     },
     "4615870": {
@@ -64680,7 +64681,7 @@
     "4681270": {
         "Title": "Pitch & Pixel",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/aZ5X3C8g",
         "URL": "https://store.steampowered.com/app/4681270/",
         "Site": "https://pitchpixel-game.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4681270/61a34a3c105277b5143e4d313ea5b31266f27797/header.jpg?t=1779747345",
@@ -70084,9 +70085,9 @@
         "URL": "https://store.steampowered.com/app/4692770/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4692770/4ff195824c3bd7c276cbb57cb9c3657517eca7a2/header.jpg?t=1780145838",
-        "Date": "July 2026",
+        "Date": "2026",
         "AddedDate": "2026-05-30",
-        "AddedTimestamp": 1780152617.5774748,
+        "AddedTimestamp": 1780165042.8798997,
         "MatchedTags": [
             "survival horror"
         ]
