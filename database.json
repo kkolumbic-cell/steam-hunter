@@ -10975,14 +10975,14 @@
         "URL": "https://store.steampowered.com/app/4236780/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4236780/7eb5d126cc38e2535b1635347497c72d4e0eb449/header.jpg?t=1773951919",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-03-19",
-        "AddedTimestamp": 1773953863.096458,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780143430.1906967,
         "MatchedTags": [
+            "resource management",
             "strategy",
             "management",
-            "base building",
-            "resource management"
+            "base building"
         ]
     },
     "4426050": {
@@ -36670,6 +36670,7 @@
         "AddedTimestamp": 1776765384.9632754,
         "MatchedTags": [
             "strategy",
+            "management",
             "resource management"
         ]
     },
@@ -45005,9 +45006,7 @@
         "AddedDate": "2026-05-14",
         "AddedTimestamp": 1778772957.2262194,
         "MatchedTags": [
-            "strategy",
-            "management",
-            "resource management"
+            "strategy"
         ]
     },
     "4550370": {
@@ -70010,6 +70009,55 @@
         "AddedTimestamp": 1780136402.6091104,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4000170": {
+        "Title": "\u65e0\u8a00\u6218\u6597",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4000170/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000170/2b5983734a2a103624ff80f11f47466ddde6b242/header.jpg?t=1780138629",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780143423.320384,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4766300": {
+        "Title": "Neverwood",
+        "Email": "",
+        "Discord": "https://discord.gg/8SCpFs8sSj",
+        "URL": "https://store.steampowered.com/app/4766300/",
+        "Site": "https://neverwood.dev/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4766300/cf13146f959747240313cf893880a0de46764ab1/header.jpg?t=1780138495",
+        "Date": "October 2026",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780143501.899346,
+        "MatchedTags": [
+            "turn-based strategy",
+            "horror",
+            "strategy",
+            "tactical",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4782100": {
+        "Title": "Aenai",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4782100/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4782100/084e676975d2ad39a94b26068054a9ddf428a7b0/header.jpg?t=1780138356",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780143506.2523735,
+        "MatchedTags": [
+            "tactical rpg",
+            "tactical",
+            "management"
         ]
     }
 }
