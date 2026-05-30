@@ -27441,9 +27441,9 @@
         "URL": "https://store.steampowered.com/app/4339260/",
         "Site": "https://drive.google.com/drive/folders/1R03W_dRENlxWIp0xthWB_EMwQqJXzO4g?usp=sharing",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4339260/628e339915b19af3bfaee4c7f393b6a9cddec532/header.jpg?t=1775824405",
-        "Date": "Q1 2027",
+        "Date": "Coming soon",
         "AddedDate": "2026-05-30",
-        "AddedTimestamp": 1780172305.1596684,
+        "AddedTimestamp": 1780179290.1964507,
         "MatchedTags": [
             "strategy",
             "psychological horror",
@@ -41096,7 +41096,8 @@
         "MatchedTags": [
             "horror",
             "management",
-            "resource management"
+            "resource management",
+            "strategy"
         ]
     },
     "4109570": {
@@ -44163,9 +44164,9 @@
         "URL": "https://store.steampowered.com/app/4668870/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4668870/a7d859581285bdb132e4abbacd721f09dcf22ba9/header.jpg?t=1777356461",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-28",
-        "AddedTimestamp": 1777358902.5907698,
+        "Date": "July 2026",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780179338.124806,
         "MatchedTags": [
             "management",
             "base building",
@@ -44179,9 +44180,9 @@
         "URL": "https://store.steampowered.com/app/4668890/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4668890/348b9eb36ec3023a50088501f495ac1b4477da67/header.jpg?t=1777356961",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-28",
-        "AddedTimestamp": 1777358905.6943314,
+        "Date": "July 2026",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780179340.7316334,
         "MatchedTags": [
             "management",
             "economy",
@@ -53881,9 +53882,9 @@
         "URL": "https://store.steampowered.com/app/4700390/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4700390/cb2ca17fa6d41a7d7593ca8dcc52ebee22f6b5ad/header.jpg?t=1778188598",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-07",
-        "AddedTimestamp": 1778193159.7850792,
+        "Date": "May 30, 2026",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780179345.6564877,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -70177,6 +70178,52 @@
         "AddedDate": "2026-05-30",
         "AddedTimestamp": 1780172368.4280002,
         "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4219850": {
+        "Title": "Elevator Wars",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4219850/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4219850/f2bdf8d070be71720cc9546b221843b7933579aa/header.jpg?t=1780174578",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780179281.2673407,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4375690": {
+        "Title": "Motel Blyn",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4375690/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4375690/c924c7f496e028b641c2c8eefab5cb07c90e4398/header.jpg?t=1780177727",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780179295.4597108,
+        "MatchedTags": [
+            "survival horror"
+        ]
+    },
+    "4651810": {
+        "Title": "Adventures in tower defence land",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4651810/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4651810/c6404187119f31937b8a787beb2ec4ede90edd0b/header.jpg?t=1780172561",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-30",
+        "AddedTimestamp": 1780179335.8220031,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg",
+            "tower defense",
             "tactical"
         ]
     }
