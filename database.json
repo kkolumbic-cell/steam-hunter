@@ -14812,9 +14812,9 @@
         "URL": "https://store.steampowered.com/app/4528440/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4528440/29995616e31d2ea5a9edd735049f7859adbd63a1/header.jpg?t=1774492798",
-        "Date": "TBA",
-        "AddedDate": "2026-03-26",
-        "AddedTimestamp": 1774495782.2704465,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780215825.9167635,
         "MatchedTags": [
             "turn-based combat",
             "strategy"
@@ -28040,9 +28040,9 @@
         "URL": "https://store.steampowered.com/app/4012280/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4012280/d98881734a0a8922528f17cb3c99786679eb1feb/header.jpg?t=1775853501",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-11",
-        "AddedTimestamp": 1775886041.0071337,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780215802.4173424,
         "MatchedTags": [
             "real time tactics",
             "tactical rpg"
@@ -31472,20 +31472,6 @@
             "strategy",
             "turn-based strategy",
             "turn-based tactics"
-        ]
-    },
-    "4539530": {
-        "Title": "Snap the Cat",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4539530/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4539530/40522794464da691b00912da900f7e0150f6595e/header.jpg?t=1776252249",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-15",
-        "AddedTimestamp": 1776262051.2159154,
-        "MatchedTags": [
-            "strategy"
         ]
     },
     "4599460": {
@@ -38376,7 +38362,8 @@
         "AddedDate": "2026-05-04",
         "AddedTimestamp": 1777908291.0748117,
         "MatchedTags": [
-            "management"
+            "management",
+            "base building"
         ]
     },
     "4587920": {
@@ -45462,9 +45449,10 @@
         "AddedDate": "2026-04-29",
         "AddedTimestamp": 1777454914.8389163,
         "MatchedTags": [
-            "turn-based strategy",
+            "strategy",
             "city builder",
-            "strategy"
+            "turn-based strategy",
+            "turn-based tactics"
         ]
     },
     "4657190": {
@@ -70134,9 +70122,9 @@
         "URL": "https://store.steampowered.com/app/4781520/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4781520/4d653f108a698d6f8b6a329433ab1fec01020f5d/header.jpg?t=1780155657",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-30",
-        "AddedTimestamp": 1780172375.770781,
+        "Date": "Jun 23, 2026",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780215897.1596944,
         "MatchedTags": [
             "management",
             "resource management"
@@ -70287,6 +70275,52 @@
         "AddedTimestamp": 1780203287.3628979,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "3866110": {
+        "Title": "Dysplasia",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3866110/",
+        "Site": "https://www.youtube.com/@DysplasiaGame",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3866110/51def38203a96b8c165e1e90acc331027b6e92c7/header.jpg?t=1780211421",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780215798.618963,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4778860": {
+        "Title": "\u771f\u5f13-Mayumi-",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4778860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4778860/687ad2fb450f6a6a31aaa0625ab36001fd93c3df/header.jpg?t=1780203398",
+        "Date": "Jun 7, 2026",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780215894.7672722,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4784720": {
+        "Title": "Blacktower",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4784720/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4784720/aa408599d9c018dcecdb86d5a2a7e92da5a7ecc9/header.jpg?t=1780215832",
+        "Date": "August 2026",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780215899.01427,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
         ]
     }
 }
