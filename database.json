@@ -37373,9 +37373,9 @@
         "URL": "https://store.steampowered.com/app/4642550/",
         "Site": "https://turugames.com.tr/games/ghost-town-seekers",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4642550/3d9f88c9a0a2e6837ff6cc037ccf9700dcbe57d0/header.jpg?t=1776796469",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-21",
-        "AddedTimestamp": 1776800437.5135317,
+        "Date": "May 31, 2026",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780265739.2925465,
         "MatchedTags": [
             "strategy",
             "horror",
@@ -52125,9 +52125,9 @@
         "URL": "https://store.steampowered.com/app/4652030/",
         "Site": "https://www.aiapocgame.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4652030/c8d5cc2a73e63b223a5eb847cf0db893a681b914/header.jpg?t=1778066224",
-        "Date": "Jun 16, 2026",
-        "AddedDate": "2026-05-06",
-        "AddedTimestamp": 1778069555.025665,
+        "Date": "Jul 21, 2026",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780265743.5306518,
         "MatchedTags": [
             "strategy",
             "turn-based combat",
@@ -52723,7 +52723,7 @@
     },
     "4653910": {
         "Title": "Bone Stuff",
-        "Email": "hello@kaznos.com, press@kaznos.com, support@kaznos.com, business@kaznos.com",
+        "Email": "business@kaznos.com, support@kaznos.com, hello@kaznos.com, press@kaznos.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4653910/",
         "Site": "https://www.kaznos.com/tr",
@@ -58629,8 +58629,8 @@
         "AddedDate": "2026-05-14",
         "AddedTimestamp": 1778782331.7409837,
         "MatchedTags": [
-            "psychological horror",
-            "horror"
+            "horror",
+            "psychological horror"
         ]
     },
     "4705730": {
@@ -70490,6 +70490,85 @@
         "MatchedTags": [
             "horror",
             "survival horror"
+        ]
+    },
+    "4669050": {
+        "Title": "Get Stoned",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4669050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4669050/7ece847fea68778dac13dfa2e78a8b78fdd93a85/header.jpg?t=1780261405",
+        "Date": "2026",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780265755.5460954,
+        "MatchedTags": [
+            "tower defense",
+            "strategy",
+            "resource management",
+            "management"
+        ]
+    },
+    "4738580": {
+        "Title": "Space Annihilator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4738580/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4738580/1980a7d8eb4e6d6bad0b0286b621c7633ce5b0c4/header.jpg?t=1780263219",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780265773.9665709,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "management",
+            "tactical"
+        ]
+    },
+    "4761360": {
+        "Title": "Knock From Inside",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4761360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4761360/eb6384fdbbe85f75a8eafef6ad4517014cee8a4b/header.jpg?t=1780261622",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780265776.4347725,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4765520": {
+        "Title": "Beyond The Frame",
+        "Email": "",
+        "Discord": "https://discord.gg/AzdTPdgh8R",
+        "URL": "https://store.steampowered.com/app/4765520/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4765520/da43ca0a9bac5a80884bc0fc66a181ffed36d9cb/header.jpg?t=1780265004",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780265779.5952084,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4780760": {
+        "Title": "After 9:59",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4780760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4780760/a817b1ecf97af100eeae444559bea438ca7b8da9/header.jpg?t=1780264994",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780265785.6720304,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
         ]
     }
 }
