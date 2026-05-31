@@ -32938,13 +32938,13 @@
         "URL": "https://store.steampowered.com/app/4372150/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4372150/defb24d5588abc19532f1f1f752686a5f6fac47e/header.jpg?t=1776350079",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-16",
-        "AddedTimestamp": 1776358228.4388797,
+        "Date": "2026",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780225726.4222565,
         "MatchedTags": [
-            "strategy",
-            "turn-based strategy",
             "management",
+            "turn-based strategy",
+            "strategy",
             "resource management"
         ]
     },
@@ -52383,9 +52383,9 @@
         "URL": "https://store.steampowered.com/app/4678810/",
         "Site": "https://www.garantystudios.net",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4678810/108640cfd167c046a5d69e054a9333801daad54b/header.jpg?t=1778086271",
-        "Date": "May 2026",
-        "AddedDate": "2026-05-06",
-        "AddedTimestamp": 1778086666.0692875,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780225752.1626914,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -70321,6 +70321,35 @@
             "strategy",
             "turn-based strategy",
             "turn-based combat"
+        ]
+    },
+    "4536080": {
+        "Title": "BanPick",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4536080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4536080/db792a37560bebe71bdfcdc1073bc668d8a8e7c2/header.jpg?t=1780219852",
+        "Date": "Jun 1, 2026",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780225739.6397064,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4684930": {
+        "Title": "MEMORY DEALER",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4684930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4684930/4cee6f5e92975c3b88bec05b77b7c12e42801823/header.jpg?t=1780218843",
+        "Date": "July 2026",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780225754.415023,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
         ]
     }
 }
