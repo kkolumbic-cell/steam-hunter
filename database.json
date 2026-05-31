@@ -50228,8 +50228,7 @@
         "AddedDate": "2026-05-04",
         "AddedTimestamp": 1777936325.1833947,
         "MatchedTags": [
-            "strategy",
-            "tactical"
+            "strategy"
         ]
     },
     "4628510": {
@@ -66565,7 +66564,8 @@
             "strategy",
             "turn-based strategy",
             "tactical",
-            "turn-based combat"
+            "turn-based combat",
+            "turn-based tactics"
         ]
     },
     "4736440": {
@@ -70568,6 +70568,52 @@
         "AddedTimestamp": 1780265785.6720304,
         "MatchedTags": [
             "psychological horror",
+            "horror"
+        ]
+    },
+    "4756030": {
+        "Title": "Perihelion",
+        "Email": "",
+        "Discord": "https://discord.gg/gYHvbmnqzt",
+        "URL": "https://store.steampowered.com/app/4756030/",
+        "Site": "https://periheliongame.net",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4756030/063729bed799056e356c72ca1c1ad4d48416d2b7/header.jpg?t=1780267601",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780270490.8404207,
+        "MatchedTags": [
+            "management",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4765470": {
+        "Title": "Lilac Wave",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4765470/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4765470/f05f008cd538430a80925e6539111b116f888e55/header.jpg?t=1780267305",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780270493.5516658,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4785610": {
+        "Title": "Descent of Yomi",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4785610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4785610/659efabbd7c229f3df4f542f829b35b7404fd02a/header.jpg?t=1780266406",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780270503.4967737,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
             "horror"
         ]
     }
