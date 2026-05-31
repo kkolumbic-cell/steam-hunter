@@ -47042,6 +47042,8 @@
             "tactical rpg",
             "real time tactics",
             "colony sim",
+            "tower defense",
+            "city builder",
             "base building",
             "strategy",
             "management",
@@ -69079,9 +69081,9 @@
         "URL": "https://store.steampowered.com/app/4751620/",
         "Site": "http://1506games.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4751620/119fbc1d6fb1824a4441968c4cc911b621dc2c35/header.jpg?t=1780063770",
-        "Date": "July 2026",
-        "AddedDate": "2026-05-29",
-        "AddedTimestamp": 1780074004.329545,
+        "Date": "November 2026",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780231768.7792826,
         "MatchedTags": [
             "strategy"
         ]
@@ -70350,6 +70352,37 @@
         "MatchedTags": [
             "strategy",
             "resource management"
+        ]
+    },
+    "1864570": {
+        "Title": "Sender Unknown",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/1864570/",
+        "Site": "https://mediatale.games",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1864570/561011ea3aedefdd60d95f76b2a58e13c78629ff/header.jpg?t=1780231417",
+        "Date": "2026",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780231713.5462773,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4519130": {
+        "Title": "MOLDRISE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4519130/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4519130/1e86fd32896317d1e4fdae7540a3e953cff0feaa/header.jpg?t=1780228242",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780231737.0274887,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
         ]
     }
 }
