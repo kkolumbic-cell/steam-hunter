@@ -11888,10 +11888,9 @@
         "AddedDate": "2026-03-21",
         "AddedTimestamp": 1774111680.7246895,
         "MatchedTags": [
-            "strategy",
+            "turn-based tactics",
             "turn-based strategy",
-            "economy",
-            "turn-based tactics"
+            "strategy"
         ]
     },
     "4274990": {
@@ -25864,9 +25863,9 @@
         "URL": "https://store.steampowered.com/app/4535890/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4535890/ec0e4ab3fea45be43bd3e3248e74236eaef48996/header.jpg?t=1775740105",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775744224.2424536,
+        "Date": "June 2026",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780239455.4190173,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -27314,7 +27313,7 @@
     "2590860": {
         "Title": "Monst",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/WhF3ZjxyKd",
         "URL": "https://store.steampowered.com/app/2590860/",
         "Site": "http://www.blusped.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2590860/b93df54f1175658a356969349a05ef1ba960e2b8/header.jpg?t=1775815215",
@@ -35919,9 +35918,9 @@
         "URL": "https://store.steampowered.com/app/4610080/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610080/5614d88e91d2052712397f50393b6a66a730d6be/header.jpg?t=1776710746",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-20",
-        "AddedTimestamp": 1776713825.2354808,
+        "Date": "Aug 28, 2026",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780239486.1870284,
         "MatchedTags": [
             "management",
             "strategy",
@@ -52724,7 +52723,7 @@
     },
     "4653910": {
         "Title": "Bone Stuff",
-        "Email": "support@kaznos.com, hello@kaznos.com, press@kaznos.com, business@kaznos.com",
+        "Email": "support@kaznos.com, press@kaznos.com, hello@kaznos.com, business@kaznos.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4653910/",
         "Site": "https://www.kaznos.com/tr",
@@ -63766,9 +63765,9 @@
         "URL": "https://store.steampowered.com/app/4715200/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4715200/8741a0f7a05a9365d838dbf04a8e0ee25f4de591/header.jpg?t=1779529498",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-05-23",
-        "AddedTimestamp": 1779533252.3944366,
+        "Date": "June 2026",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780239524.1409268,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -70383,6 +70382,23 @@
             "horror",
             "psychological horror",
             "survival horror"
+        ]
+    },
+    "4777080": {
+        "Title": "Hannibal",
+        "Email": "",
+        "Discord": "https://discord.gg/7JDx7hVW5y",
+        "URL": "https://store.steampowered.com/app/4777080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4777080/2ae65b6cd483cc47811e137de451944d2805b64d/header.jpg?t=1780239097",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780239544.8865206,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "real time tactics",
+            "tactical"
         ]
     }
 }
