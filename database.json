@@ -1885,7 +1885,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/3760520/",
-        "Site": "",
+        "Site": "https://linktr.ee/JokkelGames",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3760520/972f453102d17c2bc1c8a3089ff06fd07b741219/header.jpg?t=1772738691",
         "Date": "June 2026",
         "AddedDate": "2026-05-25",
@@ -45873,9 +45873,9 @@
         "URL": "https://store.steampowered.com/app/4664170/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4664170/d931e9fa851f6502f3d10da0cc7cf46a7eebb214/header.jpg?t=1777485394",
-        "Date": "June 2026",
-        "AddedDate": "2026-05-26",
-        "AddedTimestamp": 1779823869.409689,
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780251525.2786205,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -63462,9 +63462,9 @@
         "URL": "https://store.steampowered.com/app/4512810/",
         "Site": "https://aresinception.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512810/c3375305ecbdcd63f7afc96ed5934c0bb4e38ec2/header.jpg?t=1779479503",
-        "Date": "Dec 31, 2027",
-        "AddedDate": "2026-05-22",
-        "AddedTimestamp": 1779480753.658692,
+        "Date": "2027",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780251505.567259,
         "MatchedTags": [
             "colony sim",
             "management",
@@ -66650,9 +66650,9 @@
         "URL": "https://store.steampowered.com/app/4752330/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4752330/6636cf25758ac40ae981c7c022d9190db14dc516/header.jpg?t=1779921627",
-        "Date": "Jun 12, 2026",
-        "AddedDate": "2026-05-27",
-        "AddedTimestamp": 1779925254.0659034,
+        "Date": "June 2026",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780251556.5659995,
         "MatchedTags": [
             "survival horror",
             "horror"
@@ -70400,6 +70400,66 @@
             "grand strategy",
             "real time tactics",
             "tactical"
+        ]
+    },
+    "4683420": {
+        "Title": "Toypunk",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4683420/",
+        "Site": "https://www.eighthlantern.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4683420/03c07a125b2e5f08f0a0db9f7435ff72a15c3fd3/header.jpg?t=1780248742",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780251531.699906,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "4733080": {
+        "Title": "Simulacre",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4733080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4733080/2fb7bffac2d188371a057ba8e0cf83de42046aaa/header.jpg?t=1780247807",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780251545.7276802,
+        "MatchedTags": [
+            "survival horror",
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4776440": {
+        "Title": "Cruorfall",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4776440/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4776440/8f0e121d7c7054376de5589cad569a57b8d7004d/header.jpg?t=1780248714",
+        "Date": "TBA",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780251570.2804217,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4784230": {
+        "Title": "Deeper",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4784230/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4784230/0c98845075565cd5e8e34b585c272b879baea8ee/header.jpg?t=1780248199",
+        "Date": "June 2026",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780251575.1279154,
+        "MatchedTags": [
+            "horror",
+            "strategy"
         ]
     }
 }
