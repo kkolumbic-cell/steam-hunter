@@ -32114,9 +32114,9 @@
         "URL": "https://store.steampowered.com/app/4611210/",
         "Site": "https://www.lunarfrostgames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4611210/5d40c029650399bad5fd57a205cfbba3e5e3244d/header.jpg?t=1776290418",
-        "Date": "September 2026",
-        "AddedDate": "2026-04-16",
-        "AddedTimestamp": 1776311440.6479223,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780203242.8503072,
         "MatchedTags": [
             "horror"
         ]
@@ -40424,9 +40424,9 @@
         "URL": "https://store.steampowered.com/app/4599400/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4599400/b4831a265916af82c61f6ff5a53c6d747143eede/header.jpg?t=1777008754",
-        "Date": "June 2026",
-        "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1777011758.888177,
+        "Date": "July 2026",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780203235.4720976,
         "MatchedTags": [
             "strategy",
             "real time tactics",
@@ -52801,7 +52801,9 @@
         "AddedDate": "2026-05-07",
         "AddedTimestamp": 1778112452.7123725,
         "MatchedTags": [
-            "strategy"
+            "economy",
+            "strategy",
+            "city builder"
         ]
     },
     "4668590": {
@@ -54706,7 +54708,7 @@
     "4703870": {
         "Title": "NIGHTMIST",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/6AFe63Myk",
         "URL": "https://store.steampowered.com/app/4703870/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703870/8fb72a1ba8683a6572d036c69dc4012ea88ebaf4/header.jpg?t=1778296923",
@@ -70117,9 +70119,9 @@
         "URL": "https://store.steampowered.com/app/4783420/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4783420/e11d8de0713553c162918edaadf458035c3c10e1/header.jpg?t=1780145975",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-30",
-        "AddedTimestamp": 1780152649.6637433,
+        "Date": "Jun 15, 2026",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780203306.4467657,
         "MatchedTags": [
             "survival horror",
             "horror"
@@ -70243,6 +70245,48 @@
         "MatchedTags": [
             "strategy",
             "economy"
+        ]
+    },
+    "4566920": {
+        "Title": "The Blackwood Project",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4566920/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4566920/fe8b1a11c63430fbd4eca421be61677c2834c125/header.jpg?t=1780196635",
+        "Date": "Jun 12, 2026",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780203228.7532234,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4602760": {
+        "Title": "Anomaly Planet",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4602760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4602760/a22085e08ba1d544923275790ba784d12311c6ca/header.jpg?t=1780190748",
+        "Date": "To be announced",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780203238.724017,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4750100": {
+        "Title": "FERALPALS",
+        "Email": "",
+        "Discord": "https://discord.gg/ZhPTjsHa",
+        "URL": "https://store.steampowered.com/app/4750100/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4750100/48f3f0be5e02ec7213a697d9d44d1cf4c613fb29/header.jpg?t=1780197043",
+        "Date": "Coming soon",
+        "AddedDate": "2026-05-31",
+        "AddedTimestamp": 1780203287.3628979,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
