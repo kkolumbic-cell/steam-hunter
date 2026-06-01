@@ -11353,7 +11353,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4518030/",
-        "Site": "",
+        "Site": "https://chroniclesgamestudio.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4518030/b6a087a119fe6cc1292a05f598591a5a455e2f0a/header.jpg?t=1773999617",
         "Date": "Aug 25, 2026",
         "AddedDate": "2026-03-20",
@@ -17338,9 +17338,9 @@
         "URL": "https://store.steampowered.com/app/4014100/",
         "Site": "https://www.tenacitygames.net",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4014100/133aab7d047bf2035966507123035e8f521393ae/header.jpg?t=1774715718",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-04-15",
-        "AddedTimestamp": 1776294224.2232683,
+        "Date": "2026",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780337936.5298147,
         "MatchedTags": [
             "resource management",
             "economy",
@@ -19017,7 +19017,7 @@
     "4524500": {
         "Title": "Final Selection",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/XyPGPgP7e",
         "URL": "https://store.steampowered.com/app/4524500/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4524500/e46b20f4fa4d9b23a884f9fc7c801a8fcbd55693/header.jpg?t=1774978941",
@@ -34737,7 +34737,7 @@
     },
     "4605200": {
         "Title": "Hero of the Kingdom IV",
-        "Email": "business@lonelytroops.com, press@lonelytroops.com, support@lonelytroops.com, team@lonelytroops.com",
+        "Email": "business@lonelytroops.com, press@lonelytroops.com, team@lonelytroops.com, support@lonelytroops.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4605200/",
         "Site": "https://www.lonelytroops.com/hotk4/index.htm",
@@ -38123,7 +38123,7 @@
     "4642770": {
         "Title": "Rock Diver",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/w3fqhrxNeh",
         "URL": "https://store.steampowered.com/app/4642770/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4642770/321f3f3e1af81f82cfaa2e279c9767fb32626765/header.jpg?t=1776863851",
@@ -39620,9 +39620,9 @@
         "URL": "https://store.steampowered.com/app/4606070/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4606070/b8192bc692df6da2a0d09f1c7c64a97d5d48285d/header.jpg?t=1776964215",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-23",
-        "AddedTimestamp": 1776966598.591271,
+        "Date": "2026",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338149.0985246,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -41746,9 +41746,9 @@
         "URL": "https://store.steampowered.com/app/3441010/",
         "Site": "https://blocks-games.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3441010/8d21674bfc123088c212a9dd8a08b8b4718f2c2a/header.jpg?t=1777102293",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-04-25",
-        "AddedTimestamp": 1777103194.5941582,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780337883.3265183,
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
@@ -41807,9 +41807,9 @@
         "URL": "https://store.steampowered.com/app/4624100/",
         "Site": "https://www.smoketown.online",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4624100/44fcfe752e7cb189b87ed1f5119e93a3386569b3/header.jpg?t=1777105985",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-25",
-        "AddedTimestamp": 1777144403.7145183,
+        "Date": "Jul 10, 2026",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338177.150419,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -43345,9 +43345,9 @@
         "URL": "https://store.steampowered.com/app/4656830/",
         "Site": "https://zanardoforge.studio/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4656830/ba1cdfef39d6fb421a1ae103569413a786e93fb7/header.jpg?t=1777316688",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-28",
-        "AddedTimestamp": 1779943453.6958876,
+        "Date": "Jun 1, 2026",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338195.2461972,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -45482,7 +45482,6 @@
         "AddedTimestamp": 1778138444.9256537,
         "MatchedTags": [
             "strategy",
-            "grand strategy",
             "turn-based strategy",
             "management",
             "economy",
@@ -47855,7 +47854,7 @@
     },
     "4660450": {
         "Title": "Caravana 2000",
-        "Email": "contact@2wedges.com, pitch@2wedges.com",
+        "Email": "pitch@2wedges.com, contact@2wedges.com",
         "Discord": "https://discord.gg/NnGYzTcGDX",
         "URL": "https://store.steampowered.com/app/4660450/",
         "Site": "https://www.2wedges.com/2weird",
@@ -52473,7 +52472,7 @@
     "4584550": {
         "Title": "Nightmaze",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.com/invite/YzN4fAnHec",
         "URL": "https://store.steampowered.com/app/4584550/",
         "Site": "https://nightmaze.co.uk",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4584550/c11caa235de291439737d28464f55f65708d0633/header.jpg?t=1778091323",
@@ -55791,9 +55790,9 @@
         "URL": "https://store.steampowered.com/app/4699010/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699010/d751b89cb37f6134293a25e7f93bb94c6580d48a/header.jpg?t=1778535175",
-        "Date": "June 2026",
-        "AddedDate": "2026-05-12",
-        "AddedTimestamp": 1778619246.9749656,
+        "Date": "Jun 1, 2026",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338278.5587397,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -56556,10 +56555,10 @@
     },
     "4672510": {
         "Title": "PlayIndex",
-        "Email": "",
+        "Email": "support@playindex.ca",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4672510/",
-        "Site": "",
+        "Site": "https://playindex.ca/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4672510/5e23d50c87491aec7579633c5c5e1f7733afba04/header.jpg?t=1778608050",
         "Date": "Coming soon",
         "AddedDate": "2026-05-12",
@@ -58234,12 +58233,11 @@
         "URL": "https://store.steampowered.com/app/4720210/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4720210/c8e9e0dbc967fc7dfa9bb9318442a0ce32e0a1cb/header.jpg?t=1778745757",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-14",
-        "AddedTimestamp": 1778746024.7687914,
+        "Date": "June 2026",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338322.8724496,
         "MatchedTags": [
-            "turn-based combat",
-            "strategy"
+            "turn-based combat"
         ]
     },
     "4726910": {
@@ -60799,9 +60797,9 @@
         "URL": "https://store.steampowered.com/app/4712740/",
         "Site": "https://cold-transit.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4712740/751006cc6261d9c1a4f5ac1bc4202dec25e5268d/header.jpg?t=1779213057",
-        "Date": "June 2026",
-        "AddedDate": "2026-05-19",
-        "AddedTimestamp": 1779218509.8625834,
+        "Date": "Jun 2, 2026",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338310.5875704,
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
@@ -61149,9 +61147,9 @@
         "URL": "https://store.steampowered.com/app/4729300/",
         "Site": "https://www.youtube.com/@DeMonResearcher",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4729300/a5f677dcda0674b8d0b53735233de1d3a6819fdb/header.jpg?t=1779242497",
-        "Date": "May 31, 2026",
-        "AddedDate": "2026-05-20",
-        "AddedTimestamp": 1779252056.9642434,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338333.486478,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -62212,9 +62210,9 @@
         "URL": "https://store.steampowered.com/app/4733840/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4733840/b836236340b8193231b40a47e69949e00b057aaf/header.jpg?t=1779357805",
-        "Date": "Dec 31, 2026",
-        "AddedDate": "2026-05-21",
-        "AddedTimestamp": 1779358024.8473403,
+        "Date": "2026",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338349.159509,
         "MatchedTags": [
             "strategy",
             "real time tactics"
@@ -62734,9 +62732,9 @@
         "URL": "https://store.steampowered.com/app/4661960/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4661960/566f6165ab4011bd6553fdeea82d89ea34e59ee6/header.jpg?t=1779383281",
-        "Date": "To be announced",
-        "AddedDate": "2026-05-21",
-        "AddedTimestamp": 1779391230.0309906,
+        "Date": "2026",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338209.9318,
         "MatchedTags": [
             "strategy",
             "tactical rpg",
@@ -65615,9 +65613,9 @@
         "URL": "https://store.steampowered.com/app/1334390/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1334390/665fbb5cd749fd9a095e5cc1f2345b6aec45eb11/header.jpg?t=1779817095",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-05-27",
-        "AddedTimestamp": 1779910461.4453702,
+        "Date": "Jul 22, 2026",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780337840.3877683,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -65661,9 +65659,9 @@
         "URL": "https://store.steampowered.com/app/4454280/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4454280/94707719bcd28a1742f43d2610a9175bfa5cf1e0/header.jpg?t=1779819260",
-        "Date": "To be announced",
-        "AddedDate": "2026-05-26",
-        "AddedTimestamp": 1779823797.7748706,
+        "Date": "2026",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338008.7714393,
         "MatchedTags": [
             "management",
             "tactical"
@@ -67245,7 +67243,8 @@
         "AddedDate": "2026-05-28",
         "AddedTimestamp": 1779972409.0050888,
         "MatchedTags": [
-            "turn-based tactics"
+            "turn-based tactics",
+            "strategy"
         ]
     },
     "4514350": {
@@ -67567,9 +67566,9 @@
         "URL": "https://store.steampowered.com/app/4559080/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559080/93e44326cd0b9300d56c3feb12b1eb274a1ee13f/header.jpg?t=1779986352",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-05-28",
-        "AddedTimestamp": 1779987950.390025,
+        "Date": "Jun 1, 2026",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338098.821873,
         "MatchedTags": [
             "strategy"
         ]
@@ -69211,7 +69210,7 @@
         "MatchedTags": [
             "management",
             "resource management",
-            "strategy"
+            "economy"
         ]
     },
     "3626210": {
@@ -70445,9 +70444,9 @@
         "URL": "https://store.steampowered.com/app/4776440/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4776440/8f0e121d7c7054376de5589cad569a57b8d7004d/header.jpg?t=1780248714",
-        "Date": "TBA",
-        "AddedDate": "2026-05-31",
-        "AddedTimestamp": 1780251570.2804217,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338431.4481196,
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
@@ -71027,7 +71026,7 @@
     "4540840": {
         "Title": "DIOXIDE",
         "Email": "contact@bytebarrel.com",
-        "Discord": "",
+        "Discord": "https://discord.gg/3JM7GGnZaj",
         "URL": "https://store.steampowered.com/app/4540840/",
         "Site": "https://bytebarrel.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4540840/5a039ebb23ef5c860375cc5d7136afbaa0446ec1/header.jpg?t=1780308025",
@@ -71180,6 +71179,409 @@
         "AddedTimestamp": 1780316260.3547356,
         "MatchedTags": [
             "turn-based combat"
+        ]
+    },
+    "3002130": {
+        "Title": "Theos: Cities Of Myth",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3002130/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3002130/ee47406c584022d17248eeddb56c3ba40192c12c/header.jpg?t=1780331480",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780337872.4585254,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "grand strategy",
+            "colony sim",
+            "economy",
+            "management"
+        ]
+    },
+    "3080520": {
+        "Title": "Farsight",
+        "Email": "",
+        "Discord": "https://discord.com/invite/h9SDBpUWgP",
+        "URL": "https://store.steampowered.com/app/3080520/",
+        "Site": "https://farsightgame.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3080520/53d57ad82044632b0157cb442f9e40f2f97546d0/header.jpg?t=1780334299",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780337875.720194,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "3856900": {
+        "Title": "TAPE GLITCH",
+        "Email": "contact@andromedainteractive.com",
+        "Discord": "https://discord.gg/eRXUBvNzHf",
+        "URL": "https://store.steampowered.com/app/3856900/",
+        "Site": "https://andromedainteractive.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3856900/c38f4231309919dbf634d355d37bfe70f36b5056/header.jpg?t=1780322637",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780337908.9693506,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4045470": {
+        "Title": "Tomorrow's Gonna Be a Long Day",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4045470/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4045470/7efa6e59c6a5edee3d7fe91e187440f9377fd305/header.jpg?t=1780334794",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780337939.6533718,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4341220": {
+        "Title": "SEED",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4341220/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4341220/3e3937d2aa1b7a5873f96703afb0c8872bd952ae/header.jpg?t=1780320121",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780337968.30942,
+        "MatchedTags": [
+            "psychological horror",
+            "horror",
+            "strategy"
+        ]
+    },
+    "4341400": {
+        "Title": "TUNG",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4341400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4341400/80b51905ea100c8437c11e8e455c2d0b993e2448/header.jpg?t=1780323236",
+        "Date": "Aug 6, 2026",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780337970.643865,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4393710": {
+        "Title": "The God That Was",
+        "Email": "",
+        "Discord": "https://discord.gg/XNDXtknhxS",
+        "URL": "https://store.steampowered.com/app/4393710/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4393710/37b3026d9b2edc5298dd05138535d3f6a51dd0fb/header.jpg?t=1780327999",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780337985.6097982,
+        "MatchedTags": [
+            "resource management",
+            "horror"
+        ]
+    },
+    "4464400": {
+        "Title": "Tyrants Must Fall",
+        "Email": "",
+        "Discord": "https://discord.gg/kJks8xF4",
+        "URL": "https://store.steampowered.com/app/4464400/",
+        "Site": "https://porchweathergames.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4464400/1a30ad040cafe94fbe6ddc08314cf1e205faee2a/header.jpg?t=1780330455",
+        "Date": "2026",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338012.0527897,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical",
+            "turn-based combat"
+        ]
+    },
+    "4534680": {
+        "Title": "Decommission Protocol",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4534680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4534680/cf15b0f4eb51d381b5ac2e28c2da8933f1a13c7e/header.jpg?t=1780325446",
+        "Date": "2026",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338064.6777232,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4618460": {
+        "Title": "Shadows of Gloaming",
+        "Email": "",
+        "Discord": "https://discord.gg/EtyNHTex",
+        "URL": "https://store.steampowered.com/app/4618460/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4618460/e95ff8fd12913c4cd006cc403733c6589dc292a5/header.jpg?t=1780323162",
+        "Date": "June 2026",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338163.1791873,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4653200": {
+        "Title": "The Background Warrior",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4653200/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4653200/9215acf127ddc4a59bfaef718785f13e29e51036/header.jpg?t=1780335194",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338190.8349907,
+        "MatchedTags": [
+            "colony sim",
+            "resource management"
+        ]
+    },
+    "4669960": {
+        "Title": "Dungeon Lurker",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4669960/",
+        "Site": "https://www.dungeonlurker.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4669960/52fb629dff68368156b9bc420b6fa1c205ddcbba/header.jpg?t=1780329390",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338222.1977034,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4703430": {
+        "Title": "Call of the Forgotten",
+        "Email": "",
+        "Discord": "https://discord.com/invite/sQuTfXbKQQ",
+        "URL": "https://store.steampowered.com/app/4703430/",
+        "Site": "https://www.artfactory-jalokivi.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4703430/d855dc6a143d85473a30479f4e83569bfcf1347e/header.jpg?t=1780329282",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338291.187563,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4722210": {
+        "Title": "Vampire Invasion",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4722210/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4722210/e8d126d264717d2047e7ea43e4f58352312a36f1/header.jpg?t=1780337294",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338328.1803696,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "real time tactics"
+        ]
+    },
+    "4731670": {
+        "Title": "REMinal",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4731670/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4731670/66f97ca47339667bb45466344a48b18b0ca01f1d/header.jpg?t=1780331289",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338342.8172,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4733180": {
+        "Title": "Way to Pin: Legends of Shadow",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4733180/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4733180/94d7c617281d8e0b3e552a317600b94c398df2a4/header.jpg?t=1780331724",
+        "Date": "2026",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338346.8864317,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4740220": {
+        "Title": "I.D. ENTITY",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4740220/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4740220/c7ffc87ad2f7f1b23145bd4868707652fb008877/header.jpg?t=1780335436",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338358.6890018,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4744260": {
+        "Title": "Sprawl Life",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4744260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4744260/ae2ee5b4e30e08327972643296e087bc6fac8c0b/header.jpg?t=1780337351",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338361.8522346,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4746060": {
+        "Title": "The Organ Woman | \u81d3\u5668\u5973",
+        "Email": "raybisgames@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4746060/",
+        "Site": "https://raybis.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4746060/1a35d5b9c0d0d6125433022de9af1a666029c435/header.jpg?t=1780326050",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338364.395478,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4756570": {
+        "Title": "Darkness Has Eyes",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4756570/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4756570/f6c8eee3aeb9684778da84707df0c6de6c1eefb7/header.jpg?t=1780334673",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338382.7650292,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4761180": {
+        "Title": "Dark Money",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4761180/",
+        "Site": "https://polyvale.org/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4761180/3aca2959d6628f8c5cdf307b38f87e4b207d0a8d/header.jpg?t=1780336692",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338387.7864976,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4767240": {
+        "Title": "Hollow Stars",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4767240/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4767240/43b4ae2d9f1a5f699f7893d60088bb668af4c1e6/header.jpg?t=1780322752",
+        "Date": "2026",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338411.8511193,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "management"
+        ]
+    },
+    "4779300": {
+        "Title": "Command the Dead",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4779300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4779300/fe9ef140f17fa5a9fcfca0a786d677af2454295c/header.jpg?t=1780328113",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338438.248993,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4779870": {
+        "Title": "Stonk: Timing The Market",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4779870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4779870/85eb5c202682024df932102c769fce49b1e1e114/header.jpg?t=1780331163",
+        "Date": "September 2026",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338440.6182919,
+        "MatchedTags": [
+            "management",
+            "strategy",
+            "base building"
+        ]
+    },
+    "4780950": {
+        "Title": "Famine",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4780950/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4780950/c1190ccf36b7b8188f63bd6a547269c41123b0fe/header.jpg?t=1780323693",
+        "Date": "October 2027",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338445.6346405,
+        "MatchedTags": [
+            "horror",
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4787530": {
+        "Title": "Asylum",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4787530/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4787530/e6042aa12ca3f8091e3d8de26e911838fb8edb52/header.jpg?t=1780323589",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-01",
+        "AddedTimestamp": 1780338459.8037302,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror",
+            "resource management"
         ]
     }
 }
