@@ -15840,8 +15840,8 @@
         "AddedDate": "2026-04-08",
         "AddedTimestamp": 1775619261.0993161,
         "MatchedTags": [
-            "resource management",
-            "economy"
+            "economy",
+            "resource management"
         ]
     },
     "4522990": {
@@ -17906,8 +17906,8 @@
         "AddedDate": "2026-03-30",
         "AddedTimestamp": 1774890783.7734487,
         "MatchedTags": [
-            "turn-based strategy",
-            "turn-based combat"
+            "turn-based combat",
+            "turn-based strategy"
         ]
     },
     "4505150": {
@@ -64693,21 +64693,6 @@
             "economy"
         ]
     },
-    "4754260": {
-        "Title": "Beach Defense: Zombie Invasion",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4754260/",
-        "Site": "",
-        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4754260/5cfb321da4b6ca920398e36c2295e76b0a8d9747/header.jpg?t=1779751736",
-        "Date": "Jun 11, 2026",
-        "AddedDate": "2026-05-25",
-        "AddedTimestamp": 1779752042.3592625,
-        "MatchedTags": [
-            "strategy",
-            "turn-based strategy"
-        ]
-    },
     "3679850": {
         "Title": "Fatal: Unleashed Darkness",
         "Email": "",
@@ -71880,6 +71865,233 @@
             "base building",
             "management",
             "tactical"
+        ]
+    },
+    "2231660": {
+        "Title": "Descent Horizon",
+        "Email": "",
+        "Discord": "https://discord.gg/jJwXNvcCxy",
+        "URL": "https://store.steampowered.com/app/2231660/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2231660/42237625e1d6d9ad3de10f0d4cd8869ef5bd3830/header.jpg?t=1780355127",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-02",
+        "AddedTimestamp": 1780364268.3553596,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "3841700": {
+        "Title": "ROSE:RUIN",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3841700/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3841700/09954bc59a1462958364add620d24b5195e003fc/header.jpg?t=1780359448",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-02",
+        "AddedTimestamp": 1780364282.4829426,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4430050": {
+        "Title": "SLOP FIGHTER",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4430050/",
+        "Site": "https://akickintheteeth.com/slop-fighter",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4430050/8fc6f0f0b3b4ac326821681f8d5ea2e6e701053b/header.jpg?t=1780356298",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-02",
+        "AddedTimestamp": 1780364315.3395295,
+        "MatchedTags": [
+            "turn-based strategy",
+            "turn-based combat",
+            "turn-based tactics",
+            "strategy"
+        ]
+    },
+    "4676610": {
+        "Title": "A Mountain Called Hope",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4676610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4676610/d87d0a3c054bb7ad0eb334cc9f7744313df9df2e/header.jpg?t=1780359013",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-02",
+        "AddedTimestamp": 1780364387.6899307,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4692760": {
+        "Title": "ASWANG HUNTER",
+        "Email": "",
+        "Discord": "https://discord.gg/peFGsywsUy",
+        "URL": "https://store.steampowered.com/app/4692760/",
+        "Site": "https://neuroticfly.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4692760/81bf36e0f8ff55c2027706a6a0e79ca9a532361d/header.jpg?t=1780364060",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-02",
+        "AddedTimestamp": 1780364395.588083,
+        "MatchedTags": [
+            "survival horror",
+            "horror",
+            "psychological horror",
+            "tactical"
+        ]
+    },
+    "4699040": {
+        "Title": "Lumber Jax",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4699040/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4699040/095934a98cd17d26bab153ca5198a1484457adb4/header.jpg?t=1780362441",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-02",
+        "AddedTimestamp": 1780364417.217173,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4709640": {
+        "Title": "OIL.EXE",
+        "Email": "support@subroutinegaming.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4709640/",
+        "Site": "https://subroutinegaming.com/oil.html",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4709640/58d75159d0a0bcefb2a0044d5e10d7a335c7e86c/header.jpg?t=1780361225",
+        "Date": "Jun 15, 2026",
+        "AddedDate": "2026-06-02",
+        "AddedTimestamp": 1780364428.5051088,
+        "MatchedTags": [
+            "management",
+            "strategy",
+            "economy",
+            "resource management",
+            "turn-based strategy"
+        ]
+    },
+    "4710210": {
+        "Title": "Arcade Architect",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4710210/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4710210/f1a6077fc3c020e7e7962b689532bd9c4dc041b1/header.jpg?t=1780360846",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-02",
+        "AddedTimestamp": 1780364431.4735312,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4718160": {
+        "Title": "\u9580 GATE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4718160/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4718160/c49145353454427b4e9148a66774770879ef4c09/header.jpg?t=1780358130",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-02",
+        "AddedTimestamp": 1780364437.5430367,
+        "MatchedTags": [
+            "survival horror"
+        ]
+    },
+    "4732680": {
+        "Title": "Drumfire",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4732680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4732680/6aff32e468a84113c377ac7493400e6375a710aa/header.jpg?t=1780352854",
+        "Date": "June 2026",
+        "AddedDate": "2026-06-02",
+        "AddedTimestamp": 1780364444.5837913,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "4740010": {
+        "Title": "Bodian's Bay Wash",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4740010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4740010/7372a825954f758555441c9d3758dd86bbaf08a0/header.jpg?t=1780352678",
+        "Date": "Jun 25, 2026",
+        "AddedDate": "2026-06-02",
+        "AddedTimestamp": 1780364446.707679,
+        "MatchedTags": [
+            "management",
+            "resource management"
+        ]
+    },
+    "4751190": {
+        "Title": "DEGENERATE STAR",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4751190/",
+        "Site": "https://ozoneinteractive.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4751190/37b98623e51c718aed264007293d9f1a389cfead/header.jpg?t=1780357084",
+        "Date": "2026",
+        "AddedDate": "2026-06-02",
+        "AddedTimestamp": 1780364459.7131093,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4755920": {
+        "Title": "Land and Castles",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4755920/",
+        "Site": "https://landandcastles.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4755920/1649e3b449f10534f58791440123c2c5d46a83ce/header.jpg?t=1780356269",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-02",
+        "AddedTimestamp": 1780364468.8080468,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "base building"
+        ]
+    },
+    "4778060": {
+        "Title": "SCP: Blink",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4778060/",
+        "Site": "https://pixeldripgames.com.au/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4778060/ea8ef8d4549ea8b9fe60aa345b44f51c35e444cf/header.jpg?t=1780354339",
+        "Date": "October 2026",
+        "AddedDate": "2026-06-02",
+        "AddedTimestamp": 1780364493.8942254,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4780820": {
+        "Title": "20 Floors Down",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4780820/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4780820/fc8b032bac7d30dd4524d378785b9c5a9ae25ef2/header.jpg?t=1780352810",
+        "Date": "2026",
+        "AddedDate": "2026-06-02",
+        "AddedTimestamp": 1780364498.1216037,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
