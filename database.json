@@ -31011,9 +31011,9 @@
         "URL": "https://store.steampowered.com/app/4520400/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4520400/812685733fb831bd39b9f59cddd31cbdd3e532cb/header.jpg?t=1776204852",
-        "Date": "Jul 25, 2026",
-        "AddedDate": "2026-05-27",
-        "AddedTimestamp": 1779871802.975697,
+        "Date": "Jul 23, 2026",
+        "AddedDate": "2026-06-03",
+        "AddedTimestamp": 1780451341.2263985,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -40078,7 +40078,7 @@
         "Email": "",
         "Discord": "https://discord.gg/ePSX5vu",
         "URL": "https://store.steampowered.com/app/4628420/",
-        "Site": "",
+        "Site": "https://smallgraygames.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4628420/63a268970fb39a35c3db1a707f849be454a8bd4c/header.jpg?t=1776983926",
         "Date": "Coming soon",
         "AddedDate": "2026-04-30",
@@ -40444,9 +40444,9 @@
         "URL": "https://store.steampowered.com/app/4458960/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4458960/461154ab9808947145647458a5e49a0669df8d12/header.jpg?t=1777017935",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1777021963.9562542,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-03",
+        "AddedTimestamp": 1780451330.9169948,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -58364,21 +58364,6 @@
             "strategy"
         ]
     },
-    "4724190": {
-        "Title": "Into the Planet's Flesh",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4724190/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4724190/93babf914c97a8d20fd85f87601b46563299c41d/header.jpg?t=1778762664",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-14",
-        "AddedTimestamp": 1778764124.993604,
-        "MatchedTags": [
-            "strategy",
-            "resource management"
-        ]
-    },
     "4450300": {
         "Title": "Solderia - Fall of Kings",
         "Email": "",
@@ -70137,20 +70122,6 @@
             "turn-based tactics"
         ]
     },
-    "4375690": {
-        "Title": "Motel Blyn",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4375690/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4375690/c924c7f496e028b641c2c8eefab5cb07c90e4398/header.jpg?t=1780177727",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-30",
-        "AddedTimestamp": 1780179295.4597108,
-        "MatchedTags": [
-            "survival horror"
-        ]
-    },
     "4651810": {
         "Title": "Adventures in tower defence land",
         "Email": "",
@@ -71605,9 +71576,9 @@
         "URL": "https://store.steampowered.com/app/4695530/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4695530/a168fdf4fafdbaa2a32e6eba1eb1491c866c12e1/header.jpg?t=1780351066",
-        "Date": "Jul 25, 2026",
-        "AddedDate": "2026-06-01",
-        "AddedTimestamp": 1780352487.464875,
+        "Date": "Jul 23, 2026",
+        "AddedDate": "2026-06-03",
+        "AddedTimestamp": 1780451383.740806,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -72066,7 +72037,7 @@
     "4483010": {
         "Title": "Nightwatch at The Museum",
         "Email": "contact@ariversestudio.com",
-        "Discord": "",
+        "Discord": "https://discord.gg/rwZn3YTbM",
         "URL": "https://store.steampowered.com/app/4483010/",
         "Site": "https://ariversestudio.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4483010/c3c36802ed0ae6de93576935445f71fde5270b76/header.jpg?t=1780369242",
@@ -72075,8 +72046,7 @@
         "AddedTimestamp": 1780383577.7888684,
         "MatchedTags": [
             "psychological horror",
-            "horror",
-            "survival horror"
+            "horror"
         ]
     },
     "4610980": {
@@ -73179,6 +73149,129 @@
         "AddedTimestamp": 1780442004.411025,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "3428870": {
+        "Title": "Disconnect 2",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3428870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3428870/17a4a6ed18e0684fbbe1723736881f40c2332d90/header.jpg?t=1780443751",
+        "Date": "2026",
+        "AddedDate": "2026-06-03",
+        "AddedTimestamp": 1780451314.1858263,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4731470": {
+        "Title": "Astropath",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4731470/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4731470/f6527c125edfbe405a9fe519754c56dbbbea2452/header.jpg?t=1780450969",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-03",
+        "AddedTimestamp": 1780451406.1777701,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4749430": {
+        "Title": "Bumper Bites",
+        "Email": "contact@framezerogames.com",
+        "Discord": "https://discord.gg/ZET4TRYh4A",
+        "URL": "https://store.steampowered.com/app/4749430/",
+        "Site": "https://framezerogames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4749430/d5ede21f34c26510ab42ab0d52e6748c9f5ccacb/header.jpg?t=1780449663",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-03",
+        "AddedTimestamp": 1780451410.8864043,
+        "MatchedTags": [
+            "management",
+            "strategy"
+        ]
+    },
+    "4771740": {
+        "Title": "Doomsday Train",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4771740/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4771740/a250fa445ab9d96d664bdc04f2a28f996e43ca34/header.jpg?t=1780445804",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-03",
+        "AddedTimestamp": 1780451419.601965,
+        "MatchedTags": [
+            "strategy",
+            "base building",
+            "management",
+            "resource management",
+            "colony sim",
+            "city builder"
+        ]
+    },
+    "4780540": {
+        "Title": "Killing Slime",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4780540/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4780540/a036618471a4153657d4b212a129495f0f5b4a24/header.jpg?t=1780445172",
+        "Date": "Jun 8, 2026",
+        "AddedDate": "2026-06-03",
+        "AddedTimestamp": 1780451434.3135755,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4787910": {
+        "Title": "CypherWars",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4787910/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4787910/8587efb485b79cc1266f45b69072fdea859811f9/header.jpg?t=1780447666",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-03",
+        "AddedTimestamp": 1780451443.8465426,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4788950": {
+        "Title": "are you humen?",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4788950/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4788950/2e7cbebb7d24ad0a9e7045570061871fbda6f8c7/header.jpg?t=1780450990",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-03",
+        "AddedTimestamp": 1780451449.1557062,
+        "MatchedTags": [
+            "psychological horror",
+            "strategy"
+        ]
+    },
+    "4789160": {
+        "Title": "Forgotten Stars",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4789160/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4789160/3a396f2e74460d4754b79cd31f347aa35905dceb/header.jpg?t=1780445862",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-03",
+        "AddedTimestamp": 1780451451.8913631,
+        "MatchedTags": [
+            "turn-based strategy",
+            "strategy",
+            "tactical rpg",
+            "turn-based combat"
         ]
     }
 }
