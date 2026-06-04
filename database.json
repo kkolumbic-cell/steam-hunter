@@ -13459,9 +13459,9 @@
         "URL": "https://store.steampowered.com/app/4518230/",
         "Site": "https://evisystems.org/games/tdmaster/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4518230/331db8a7a8a3bd3b5e180ee362d1ce20f0740c2c/header.jpg?t=1774387831",
-        "Date": "June 2026",
-        "AddedDate": "2026-05-30",
-        "AddedTimestamp": 1780136351.189913,
+        "Date": "Jun 4, 2026",
+        "AddedDate": "2026-06-04",
+        "AddedTimestamp": 1780610144.837526,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -43002,9 +43002,9 @@
         "URL": "https://store.steampowered.com/app/4589690/",
         "Site": "https://www.nocodingguru.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4589690/0c07216c6bb8700f143b1dd0f1659e39d4e4f609/header.jpg?t=1777311359",
-        "Date": "Jun 26, 2026",
-        "AddedDate": "2026-04-28",
-        "AddedTimestamp": 1777369021.0865247,
+        "Date": "Sep 25, 2026",
+        "AddedDate": "2026-06-04",
+        "AddedTimestamp": 1780610169.8832304,
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
@@ -54045,8 +54045,11 @@
         "AddedDate": "2026-05-08",
         "AddedTimestamp": 1778220711.7474995,
         "MatchedTags": [
+            "turn-based strategy",
+            "grand strategy",
             "strategy",
-            "turn-based strategy"
+            "economy",
+            "resource management"
         ]
     },
     "4708040": {
@@ -62657,9 +62660,9 @@
         "URL": "https://store.steampowered.com/app/4557740/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4557740/0e8a6c09adcc4de008685f5514156af7a5eb49a3/header.jpg?t=1779390707",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-21",
-        "AddedTimestamp": 1779391201.58313,
+        "Date": "Jun 5, 2026",
+        "AddedDate": "2026-06-04",
+        "AddedTimestamp": 1780610156.8420665,
         "MatchedTags": [
             "horror"
         ]
@@ -70454,8 +70457,8 @@
         "AddedDate": "2026-05-31",
         "AddedTimestamp": 1780265785.6720304,
         "MatchedTags": [
-            "psychological horror",
-            "horror"
+            "horror",
+            "psychological horror"
         ]
     },
     "4756030": {
@@ -75548,6 +75551,126 @@
         "MatchedTags": [
             "survival horror",
             "horror"
+        ]
+    },
+    "2360820": {
+        "Title": "Tempus Vitae",
+        "Email": "contact@whiteboard.games",
+        "Discord": "https://discord.gg/EZr3H6ThsT",
+        "URL": "https://store.steampowered.com/app/2360820/",
+        "Site": "https://whiteboard.games/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2360820/574590a4d8672a5a7f3248ef3fab178f84102a06/header.jpg?t=1780608020",
+        "Date": "2027",
+        "AddedDate": "2026-06-04",
+        "AddedTimestamp": 1780610082.2534635,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "3928050": {
+        "Title": "Obscured Persona",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3928050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3928050/3570586eec7ece160fe22d1358b1ecc9e6694323/header.jpg?t=1780606234",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-04",
+        "AddedTimestamp": 1780610105.2008557,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4039140": {
+        "Title": "Subway Builder",
+        "Email": "contact@subwaybuilder.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4039140/",
+        "Site": "https://www.subwaybuilder.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4039140/442e78193cee36ffdbb535d9d6a24f6d75652971/header.jpg?t=1780609604",
+        "Date": "Jul 17, 2026",
+        "AddedDate": "2026-06-04",
+        "AddedTimestamp": 1780610114.2403095,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "management",
+            "resource management",
+            "economy"
+        ]
+    },
+    "4543740": {
+        "Title": "Bloodsalt",
+        "Email": "",
+        "Discord": "https://discord.gg/U6QC3HjDpf",
+        "URL": "https://store.steampowered.com/app/4543740/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4543740/abdf1e191b3e3c1821eb3c67247834f95421a288/header.jpg?t=1780605169",
+        "Date": "Oct 24, 2028",
+        "AddedDate": "2026-06-04",
+        "AddedTimestamp": 1780610151.0891304,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4728620": {
+        "Title": "Elevens Up! (11's Up)",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4728620/",
+        "Site": "https://6foot3foot.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4728620/a7c374ac7b9a6ac638c1b377831e249bf2bb3376/header.jpg?t=1780609108",
+        "Date": "Jun 18, 2026",
+        "AddedDate": "2026-06-04",
+        "AddedTimestamp": 1780610230.676289,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4755580": {
+        "Title": "Swordsmith of Greyhaven",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4755580/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4755580/0579be396df0ee9857f61395c6df06d56e43de48/header.jpg?t=1780604139",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-06-04",
+        "AddedTimestamp": 1780610243.2707355,
+        "MatchedTags": [
+            "management",
+            "economy"
+        ]
+    },
+    "4784740": {
+        "Title": "Pages of Zite",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4784740/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4784740/dcaca033b64c6f82214507bfa83120d9864902b0/header.jpg?t=1780608974",
+        "Date": "Jun 25, 2026",
+        "AddedDate": "2026-06-04",
+        "AddedTimestamp": 1780610262.364523,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "resource management",
+            "turn-based tactics"
+        ]
+    },
+    "4789500": {
+        "Title": "Sandalwood Simulator",
+        "Email": "",
+        "Discord": "https://discord.gg/TK42RqV5Y7",
+        "URL": "https://store.steampowered.com/app/4789500/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4789500/9bd8b8c476323c20358ebbcccd2c69b482a6ee0c/header.jpg?t=1780609371",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-04",
+        "AddedTimestamp": 1780610267.8294876,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
