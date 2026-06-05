@@ -41273,9 +41273,9 @@
         "URL": "https://store.steampowered.com/app/3108030/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3108030/a8698e72ece7a5c07919cc0de426866bb8eb98df/header.jpg?t=1777064444",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1777064862.6080158,
+        "Date": "Jul 10, 2026",
+        "AddedDate": "2026-06-05",
+        "AddedTimestamp": 1780699000.0596182,
         "MatchedTags": [
             "strategy",
             "management",
@@ -59732,9 +59732,9 @@
         "URL": "https://store.steampowered.com/app/4438840/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4438840/4eb00cfc25669815ca041f4ccb8b9b777fd560d8/header.jpg?t=1778946039",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-16",
-        "AddedTimestamp": 1778951818.5680757,
+        "Date": "Jul 21, 2026",
+        "AddedDate": "2026-06-05",
+        "AddedTimestamp": 1780699044.7619872,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -76679,6 +76679,93 @@
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
+        ]
+    },
+    "2865960": {
+        "Title": "SAW: Genesis",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2865960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2865960/3b933b82cf86909ff2d9104b7067226b59b9f8c0/header.jpg?t=1780697165",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-05",
+        "AddedTimestamp": 1780698990.436166,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "3916410": {
+        "Title": "Forgive Me My Love",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3916410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3916410/b61388c5a775926f29f32db32b70b46954490cce/header.jpg?t=1780692161",
+        "Date": "Jun 22, 2026",
+        "AddedDate": "2026-06-05",
+        "AddedTimestamp": 1780699008.5023391,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4687500": {
+        "Title": "Crossfire",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4687500/",
+        "Site": "http://tnm.crossfire.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4687500/34be6a0dca64984114ef8094a8cb33c9e5fea53f/header.jpg?t=1780697589",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-05",
+        "AddedTimestamp": 1780699120.911434,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4708440": {
+        "Title": "Prestige Electric Company",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4708440/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4708440/62de925c87ad7d2a7a67d800cc3fa8df55dbad98/header.jpg?t=1780696883",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-05",
+        "AddedTimestamp": 1780699132.0437918,
+        "MatchedTags": [
+            "management",
+            "resource management"
+        ]
+    },
+    "4730820": {
+        "Title": "internal power",
+        "Email": "",
+        "Discord": "https://discord.gg/Zp7H9ZStCA",
+        "URL": "https://store.steampowered.com/app/4730820/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4730820/64151b565c51f01769fc318e10a7ea1b90dd319a/header.jpg?t=1780697081",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-05",
+        "AddedTimestamp": 1780699137.272234,
+        "MatchedTags": [
+            "tactical",
+            "tactical rpg"
+        ]
+    },
+    "4812190": {
+        "Title": "Brightside",
+        "Email": "",
+        "Discord": "https://discord.gg/S2ZtmTUgna",
+        "URL": "https://store.steampowered.com/app/4812190/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4812190/6e8e6738ca91b4b68790237685210275d4020c4e/header.jpg?t=1780694970",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-05",
+        "AddedTimestamp": 1780699170.1227736,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
