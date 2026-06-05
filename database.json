@@ -41474,7 +41474,6 @@
         "AddedDate": "2026-04-24",
         "AddedTimestamp": 1777068279.7576628,
         "MatchedTags": [
-            "horror",
             "psychological horror"
         ]
     },
@@ -51989,9 +51988,9 @@
         "URL": "https://store.steampowered.com/app/4661910/",
         "Site": "https://nexuslegacy.space/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661910/9299971603385b22eac37064c9e60d585bb800ec/header.jpg?t=1778058064",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-06",
-        "AddedTimestamp": 1778060322.7402296,
+        "Date": "Jun 5, 2026",
+        "AddedDate": "2026-06-05",
+        "AddedTimestamp": 1780683280.4922442,
         "MatchedTags": [
             "strategy",
             "grand strategy",
@@ -61363,9 +61362,9 @@
         "URL": "https://store.steampowered.com/app/4482560/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4482560/c232884bba170dfffebe366711b888aace3fb58e/header.jpg?t=1779287372",
-        "Date": "Aug 10, 2026",
-        "AddedDate": "2026-05-20",
-        "AddedTimestamp": 1779292735.1753867,
+        "Date": "Oct 27, 2026",
+        "AddedDate": "2026-06-05",
+        "AddedTimestamp": 1780683229.888905,
         "MatchedTags": [
             "strategy"
         ]
@@ -69329,9 +69328,9 @@
         "URL": "https://store.steampowered.com/app/4674040/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4674040/d021a65cc958a4326cfe9847dcc1018d98c1c8d1/header.jpg?t=1780084163",
-        "Date": "Jun 4, 2026",
-        "AddedDate": "2026-05-29",
-        "AddedTimestamp": 1780092583.2317934,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-05",
+        "AddedTimestamp": 1780683286.1740255,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -76306,6 +76305,135 @@
             "economy",
             "resource management",
             "grand strategy",
+            "tactical"
+        ]
+    },
+    "4580290": {
+        "Title": "Shell Hell",
+        "Email": "",
+        "Discord": "https://discord.gg/Ka4t6ujyaa",
+        "URL": "https://store.steampowered.com/app/4580290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4580290/36548d2db006c9eadfba701d001930ae2a0cb0c7/header.jpg?t=1780677677",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-05",
+        "AddedTimestamp": 1780683254.0162268,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4748330": {
+        "Title": "Luna Meridian",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4748330/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4748330/e7afda080b8809215629fcca855048aab3d1f481/header.jpg?t=1780678286",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-05",
+        "AddedTimestamp": 1780683296.2347443,
+        "MatchedTags": [
+            "strategy",
+            "colony sim",
+            "base building",
+            "management"
+        ]
+    },
+    "4760320": {
+        "Title": "Hearthwild",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4760320/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4760320/575bcdea07d6995e90b31c469933085a878c8a63/header.jpg?t=1780678625",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-05",
+        "AddedTimestamp": 1780683307.529128,
+        "MatchedTags": [
+            "strategy",
+            "colony sim",
+            "management",
+            "resource management"
+        ]
+    },
+    "4766950": {
+        "Title": "Fury Journey",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4766950/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4766950/4b133cfa674ffc0d905c607bc772dc188ff366bb/header.jpg?t=1780679071",
+        "Date": "Jun 11, 2026",
+        "AddedDate": "2026-06-05",
+        "AddedTimestamp": 1780683316.2280297,
+        "MatchedTags": [
+            "turn-based tactics",
+            "turn-based combat",
+            "strategy"
+        ]
+    },
+    "4780310": {
+        "Title": "SCP-939: With Many Voices",
+        "Email": "",
+        "Discord": "https://discord.gg/aV9YycSSnb",
+        "URL": "https://store.steampowered.com/app/4780310/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4780310/aef97238a0bc98f8db4e17cdde25b2bf1d4ff427/header.jpg?t=1780676997",
+        "Date": "2027",
+        "AddedDate": "2026-06-05",
+        "AddedTimestamp": 1780683328.4573288,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4793890": {
+        "Title": "First Colony",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4793890/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4793890/4f0136b52d8888a5ed14aa5c66b899d59e85ebb6/header.jpg?t=1780681531",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-05",
+        "AddedTimestamp": 1780683336.1869102,
+        "MatchedTags": [
+            "strategy",
+            "colony sim",
+            "turn-based strategy",
+            "economy",
+            "management",
+            "resource management",
+            "turn-based combat"
+        ]
+    },
+    "4804480": {
+        "Title": "Age of Clicks",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4804480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4804480/c1e7466a416992f79e40ad8e852783d02d7e1aeb/header.jpg?t=1780678730",
+        "Date": "Jun 21, 2026",
+        "AddedDate": "2026-06-05",
+        "AddedTimestamp": 1780683341.7405205,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4811540": {
+        "Title": "Blackstrike Protocol",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4811540/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4811540/6b25d9a38294ca5164f8c95cd38f48902e259110/header.jpg?t=1780677504",
+        "Date": "Jun 19, 2026",
+        "AddedDate": "2026-06-05",
+        "AddedTimestamp": 1780683353.1339228,
+        "MatchedTags": [
             "tactical"
         ]
     }
