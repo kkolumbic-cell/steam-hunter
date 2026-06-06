@@ -29784,9 +29784,8 @@
         "AddedDate": "2026-04-13",
         "AddedTimestamp": 1776109389.500761,
         "MatchedTags": [
-            "strategy",
-            "management",
-            "resource management"
+            "resource management",
+            "management"
         ]
     },
     "4228450": {
@@ -34434,8 +34433,8 @@
         "AddedTimestamp": 1776470269.0583026,
         "MatchedTags": [
             "strategy",
-            "resource management",
-            "management"
+            "management",
+            "resource management"
         ]
     },
     "4636580": {
@@ -52611,9 +52610,9 @@
         "URL": "https://store.steampowered.com/app/4693590/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4693590/dc9c1c7b6db87a6fdc84bae251d48aacf6b059c1/header.jpg?t=1778097996",
-        "Date": "Jul 7, 2026",
-        "AddedDate": "2026-06-05",
-        "AddedTimestamp": 1780635067.3380718,
+        "Date": "Dec 31, 2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780725901.309578,
         "MatchedTags": [
             "strategy"
         ]
@@ -59694,7 +59693,7 @@
     "4733420": {
         "Title": "Metro Architect",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/uRKAG2CVQ",
         "URL": "https://store.steampowered.com/app/4733420/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4733420/a973d7782ce559842cfdc19463289035a6086b71/header.jpg?t=1778913759",
@@ -75501,9 +75500,9 @@
         "URL": "https://store.steampowered.com/app/4790380/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4790380/63536f3f54801f6f9b3d9c387ac5f0ed9bce2be3/header.jpg?t=1780599188",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-04",
-        "AddedTimestamp": 1780601779.149485,
+        "Date": "Jun 29, 2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780725947.8299198,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -76684,9 +76683,9 @@
     "2865960": {
         "Title": "SAW: Genesis",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.com/invite/sawgenesis",
         "URL": "https://store.steampowered.com/app/2865960/",
-        "Site": "",
+        "Site": "https://sawgenesisgame.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2865960/3b933b82cf86909ff2d9104b7067226b59b9f8c0/header.jpg?t=1780697165",
         "Date": "To be announced",
         "AddedDate": "2026-06-05",
@@ -76796,6 +76795,211 @@
         "MatchedTags": [
             "survival horror",
             "horror",
+            "resource management"
+        ]
+    },
+    "3563590": {
+        "Title": "Crew: Expendable",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3563590/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3563590/9c9a1f09966dfa3b109d2cdd337d4d5b93ab203d/header.jpg?t=1780719182",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780725813.0788145,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4077440": {
+        "Title": "The Adversary",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4077440/",
+        "Site": "https://artefac.tv",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4077440/e2f344ee4e44138559a052329374a9d85ca0f98d/header.jpg?t=1780718848",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780725823.0762017,
+        "MatchedTags": [
+            "tower defense"
+        ]
+    },
+    "4432130": {
+        "Title": "Clay Crusade: Night of the Necromancer",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4432130/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4432130/f3750aab40c882178dee6304a7853eec129745cb/header.jpg?t=1780713855",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780725842.7478502,
+        "MatchedTags": [
+            "survival horror",
+            "horror"
+        ]
+    },
+    "4762650": {
+        "Title": "Stamp of Fate",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4762650/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4762650/614e162b1e731f03f7b5019544d88f1c4475d4f1/header.jpg?t=1780716877",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780725923.7740479,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4772870": {
+        "Title": "The Daily Parlay",
+        "Email": "",
+        "Discord": "https://discord.gg/aCWbpUJU28",
+        "URL": "https://store.steampowered.com/app/4772870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4772870/5f45ad4d28efe996c85c82ba64e977a216780254/header.jpg?t=1780717030",
+        "Date": "Jun 25, 2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780725928.9426613,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4778320": {
+        "Title": "Aiya Desire",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4778320/",
+        "Site": "https://aiya-desire.vnlworks.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4778320/7bc6f0b7955d8fa78dbc6e24f2be66511e6688b3/header.jpg?t=1780725483",
+        "Date": "2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780725934.3587263,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4794980": {
+        "Title": "Funge",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4794980/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4794980/da430fec0d8bbee0899cff90e4b741be9609dabb/header.jpg?t=1780722602",
+        "Date": "July 2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780725958.7656698,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4796860": {
+        "Title": "Astral Forge: Desktop Alchemist",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4796860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4796860/288cbde38a18b293a50c786947fe3e10f445e117/header.jpg?t=1780719937",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780725961.8608315,
+        "MatchedTags": [
+            "economy",
+            "resource management"
+        ]
+    },
+    "4797790": {
+        "Title": "Rescue Dogs vs Aliens Tower Defense",
+        "Email": "milenabbrandao@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4797790/",
+        "Site": "https://goatcodeapps.com/catalogue-of-applications",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4797790/002d3de51366d399f2f1ce2f8b9dae1feb5e2f1a/header.jpg?t=1780721896",
+        "Date": "Jun 19, 2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780725964.065823,
+        "MatchedTags": [
+            "tower defense",
+            "strategy",
+            "base building",
+            "real time tactics"
+        ]
+    },
+    "4809560": {
+        "Title": "Auto Empire Tycoon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4809560/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4809560/e9db582e9b18c975128a0fa6af4f8572f23d3fe8/header.jpg?t=1780725717",
+        "Date": "June 2027",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780725975.3124402,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management"
+        ]
+    },
+    "4810980": {
+        "Title": "\u5f02\u9986\u5341\u4e8c\u6708",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4810980/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4810980/095b9b2a017d53bd3439568735ddb56db745d2be/header.jpg?t=1780725315",
+        "Date": "June 2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780725977.248537,
+        "MatchedTags": [
+            "strategy",
+            "psychological horror"
+        ]
+    },
+    "4811530": {
+        "Title": "The Awakening",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4811530/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4811530/50804741017462ae6e5943baa182f78e7f8caaaf/header.jpg?t=1780709942",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780725979.2796583,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4812140": {
+        "Title": "RSVP",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4812140/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4812140/482cba47ede2af3d219b9455dd3b5232a48f7d38/header.jpg?t=1780715958",
+        "Date": "Jul 14, 2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780725981.1222312,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4824610": {
+        "Title": "Resident Evil Veronica",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4824610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4824610/28045d733a3ada082858b5b1a5149e33ee40f378/header.jpg?t=1780721676",
+        "Date": "2027",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780725993.2632751,
+        "MatchedTags": [
+            "survival horror",
             "resource management"
         ]
     }
