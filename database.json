@@ -6605,8 +6605,8 @@
         "AddedDate": "2026-03-12",
         "AddedTimestamp": 1773342826.1641872,
         "MatchedTags": [
-            "psychological horror",
             "horror",
+            "psychological horror",
             "survival horror"
         ]
     },
@@ -6662,9 +6662,9 @@
         "URL": "https://store.steampowered.com/app/4208140/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4208140/131479ec2e41016e6baf82b98c2106abc562c095/header.jpg?t=1773347530",
-        "Date": "2026",
-        "AddedDate": "2026-03-12",
-        "AddedTimestamp": 1773348813.7286556,
+        "Date": "Aug 13, 2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780778179.0074894,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -34786,9 +34786,9 @@
         "URL": "https://store.steampowered.com/app/4633680/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4633680/e7bdfbff17c05930e4460f06feed9aab16b0591e/header.jpg?t=1776504382",
-        "Date": "Q4 2036",
-        "AddedDate": "2026-05-28",
-        "AddedTimestamp": 1779987986.5499148,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780778232.1366096,
         "MatchedTags": [
             "turn-based tactics",
             "strategy",
@@ -74703,9 +74703,9 @@
         "URL": "https://store.steampowered.com/app/4703890/",
         "Site": "https://www.badchoicesloudnoises.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4703890/df4fd68164e887e0be58ba179df53dc78f55cf2e/header.jpg?t=1780557304",
-        "Date": "To be announced",
-        "AddedDate": "2026-06-04",
-        "AddedTimestamp": 1780563927.8972943,
+        "Date": "2027",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780778246.4441152,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -77183,6 +77183,95 @@
             "base building",
             "strategy",
             "horror"
+        ]
+    },
+    "3153700": {
+        "Title": "My Cannibal Family",
+        "Email": "",
+        "Discord": "https://discord.gg/PNdhw3DD5",
+        "URL": "https://store.steampowered.com/app/3153700/",
+        "Site": "https://www.wolfandwood.co/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3153700/44002492b90f930f585956834a393723d1e1bb4d/header.jpg?t=1780776139",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780778165.2367058,
+        "MatchedTags": [
+            "city builder",
+            "colony sim"
+        ]
+    },
+    "3809820": {
+        "Title": "Expendabots",
+        "Email": "",
+        "Discord": "https://discord.gg/expendabots",
+        "URL": "https://store.steampowered.com/app/3809820/",
+        "Site": "https://expendabots.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3809820/080b9d7e6d4e7cf8817e17c19a0693b7ef0c55a4/header.jpg?t=1780777821",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780778170.117163,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4308420": {
+        "Title": "Arizona Sunshine\u00ae",
+        "Email": "",
+        "Discord": "https://discord.gg/vertigogames",
+        "URL": "https://store.steampowered.com/app/4308420/",
+        "Site": "https://arizona-sunshine.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4308420/efdd952517dca2bbe84428c381d023ce71cc3c1d/header.jpg?t=1780773077",
+        "Date": "2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780778186.563241,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4638740": {
+        "Title": "Into the Dead: Crimson Heights",
+        "Email": "",
+        "Discord": "https://discord.gg/intothedead",
+        "URL": "https://store.steampowered.com/app/4638740/",
+        "Site": "https://intothedead.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4638740/a7fd7e6dbc79bd063703c3d6b8ea64dfbc7d1630/header.jpg?t=1780774137",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780778234.7409003,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4786480": {
+        "Title": "Voxenvale",
+        "Email": "",
+        "Discord": "https://discord.gg/8829WFgECv",
+        "URL": "https://store.steampowered.com/app/4786480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4786480/2bb882594faa4ad9a814ec2f66f07cfaff7049e0/header.jpg?t=1780771869",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780778275.7739131,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4799620": {
+        "Title": "Thiccfoot",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4799620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4799620/a5a4859a79e3082c873553d9f107c79642eda8ad/header.jpg?t=1780777813",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780778287.607035,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
         ]
     }
 }
