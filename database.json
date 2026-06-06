@@ -4854,9 +4854,9 @@
         "URL": "https://store.steampowered.com/app/4272270/",
         "Site": "https://siliver4.github.io/alexandre-rokh-mailliu-games/my-games",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272270/551b4740c1be21406772c5053e54aac48dd2d960/header.jpg?t=1773148977",
-        "Date": "July 2026",
-        "AddedDate": "2026-03-10",
-        "AddedTimestamp": 1773149952.859498,
+        "Date": "Jul 17, 2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780735651.575837,
         "MatchedTags": [
             "strategy",
             "economy",
@@ -21716,9 +21716,9 @@
         "URL": "https://store.steampowered.com/app/4539310/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4539310/0d6d3b270162f9f08f8fdcc8b93bc601c72ce30d/header.jpg?t=1775186529",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-28",
-        "AddedTimestamp": 1777402484.6637156,
+        "Date": "To be announced",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780735667.2712686,
         "MatchedTags": [
             "strategy",
             "turn-based combat",
@@ -56884,9 +56884,9 @@
         "URL": "https://store.steampowered.com/app/4615760/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4615760/7da496402049491bd989e6b5644fe1f600fa217f/header.jpg?t=1778633217",
-        "Date": "2027",
-        "AddedDate": "2026-05-13",
-        "AddedTimestamp": 1778645881.5447416,
+        "Date": "To be announced",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780735675.0021195,
         "MatchedTags": [
             "strategy"
         ]
@@ -59101,9 +59101,9 @@
         "URL": "https://store.steampowered.com/app/4693700/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4693700/a2bdc31d293dc2e389af17fc996444799ff414d0/header.jpg?t=1778824376",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-15",
-        "AddedTimestamp": 1778833176.3511045,
+        "Date": "Nov 10, 2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780735690.902469,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -77001,6 +77001,69 @@
         "MatchedTags": [
             "survival horror",
             "resource management"
+        ]
+    },
+    "4778540": {
+        "Title": "Lucid Tax",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4778540/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4778540/eecfbe50d0cddef119b8d3d699ede33e35cccd9e/header.jpg?t=1780731459",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780735708.815469,
+        "MatchedTags": [
+            "strategy",
+            "horror",
+            "economy",
+            "survival horror"
+        ]
+    },
+    "4786800": {
+        "Title": "No Return Address",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4786800/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4786800/6710d76fd74dc0239d367384f4308244a2f2b600/header.jpg?t=1780733580",
+        "Date": "2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780735713.539049,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4797550": {
+        "Title": "\u6b63\u4f53 SHOUT-AI",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4797550/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4797550/6d3a0454709dd2754fd1c2462a9e7561ed316b9d/header.jpg?t=1780730011",
+        "Date": "Jun 11, 2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780735722.853336,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4808890": {
+        "Title": "Jingjie: Probability Cloud - Nagumo's Dilemma",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4808890/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4808890/da2fa79e206c828f65ce424c2fae74b88dedb2c0/header.jpg?t=1780734199",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780735730.4737403,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tactical rpg",
+            "tactical"
         ]
     }
 }
