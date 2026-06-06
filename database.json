@@ -4359,9 +4359,9 @@
         "URL": "https://store.steampowered.com/app/4486430/",
         "Site": "https://pervomens-website-ruddy.vercel.app?_vercel_share=uyat8wNZIvXgaurg66yBDvrDSsxgGeTW",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486430/b90a076a5efcde17bdfc3f0a35bbc4a39e8e3f82/header.jpg?t=1773077011",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-09",
-        "AddedTimestamp": 1773079368.7092242,
+        "Date": "Jun 6, 2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780748377.298739,
         "MatchedTags": [
             "base building",
             "survival horror"
@@ -8458,9 +8458,9 @@
         "URL": "https://store.steampowered.com/app/4516190/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516190/79fd6a70cb9b8f2c375761810eec7d66e0d61b70/header.jpg?t=1773687189",
-        "Date": "2026",
-        "AddedDate": "2026-04-11",
-        "AddedTimestamp": 1775907978.5577328,
+        "Date": "Sep 14, 2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780748382.262485,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -11499,21 +11499,6 @@
         "MatchedTags": [
             "management",
             "strategy"
-        ]
-    },
-    "4531090": {
-        "Title": "Hexa Vanguard",
-        "Email": "",
-        "Discord": "https://discord.gg/DutEjXeRFz",
-        "URL": "https://store.steampowered.com/app/4531090/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4531090/fe6e257bd047e430d62bc4621a30fc50dc4e9e68/header.jpg?t=1774027786",
-        "Date": "May 2, 2026",
-        "AddedDate": "2026-05-02",
-        "AddedTimestamp": 1777737736.2519135,
-        "MatchedTags": [
-            "strategy",
-            "tactical rpg"
         ]
     },
     "4512890": {
@@ -63910,9 +63895,9 @@
         "URL": "https://store.steampowered.com/app/4665180/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4665180/de1787646092126709584a0816f5fc275f1eef7a/header.jpg?t=1779603719",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-24",
-        "AddedTimestamp": 1779609718.6068692,
+        "Date": "Jun 6, 2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780748394.8855972,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -69470,9 +69455,9 @@
         "URL": "https://store.steampowered.com/app/4727880/",
         "Site": "https://www.thebigstudio.net/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4727880/eae04bb5d198e9748aa30bf7328d40531d3fe64e/header.jpg?t=1780093647",
-        "Date": "June 2026",
-        "AddedDate": "2026-05-29",
-        "AddedTimestamp": 1780098172.278858,
+        "Date": "Jun 18, 2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780748412.4991837,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -77093,6 +77078,20 @@
         "MatchedTags": [
             "psychological horror",
             "resource management"
+        ]
+    },
+    "4804220": {
+        "Title": "Rust of New York",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4804220/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4804220/05b5c20ae4ba146b9d496558f695fe95e76cecfd/header.jpg?t=1780747519",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780748440.8240054,
+        "MatchedTags": [
+            "turn-based combat"
         ]
     }
 }
