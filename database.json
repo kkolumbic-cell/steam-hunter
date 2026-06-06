@@ -15761,10 +15761,10 @@
         "AddedDate": "2026-04-11",
         "AddedTimestamp": 1775951487.7266471,
         "MatchedTags": [
-            "turn-based combat",
             "turn-based strategy",
-            "tactical",
-            "strategy"
+            "strategy",
+            "turn-based combat",
+            "tactical"
         ]
     },
     "4242200": {
@@ -31476,7 +31476,7 @@
     "4620990": {
         "Title": "Digital Civilization: Evolution",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/jXbePnvXf",
         "URL": "https://store.steampowered.com/app/4620990/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4620990/5522539f7d2a4a3f4f8343f172ec1c8c541e537c/header.jpg?t=1776256421",
@@ -46672,9 +46672,9 @@
         "URL": "https://store.steampowered.com/app/4668390/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668390/e1e68def1bae87b6b64022522db4b60a0997bf11/header.jpg?t=1777555509",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-30",
-        "AddedTimestamp": 1777559291.3073337,
+        "Date": "Jun 6, 2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780763779.0546618,
         "MatchedTags": [
             "economy",
             "management",
@@ -63153,7 +63153,7 @@
     "4751660": {
         "Title": "Screamcorp",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/qDrkK64RnN",
         "URL": "https://store.steampowered.com/app/4751660/",
         "Site": "https://www.tbjbu2.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4751660/1b45b37e7ea0d678b71354b8f71f51d11190c7d8/header.jpg?t=1779459871",
@@ -72709,7 +72709,7 @@
     "4791980": {
         "Title": "SCREAM NOTE",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/qDrkK64RnN",
         "URL": "https://store.steampowered.com/app/4791980/",
         "Site": "https://www.tbjbu2.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4791980/db17e985e2bf1b57ae9984395c64f9d9ab50d529/header.jpg?t=1780416691",
@@ -72726,7 +72726,7 @@
     "4796830": {
         "Title": "WE ARE SO DEAD",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/qDrkK64RnN",
         "URL": "https://store.steampowered.com/app/4796830/",
         "Site": "https://www.tbjbu2.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4796830/d0f51a2e0497ac208b2604562779b648015eb7f3/header.jpg?t=1780414110",
@@ -73055,9 +73055,9 @@
         "URL": "https://store.steampowered.com/app/4779490/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4779490/c347129c2cb61b0c6a6363f71797e060f83c582b/header.jpg?t=1780435397",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-02",
-        "AddedTimestamp": 1780441976.8452687,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780763795.1471584,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -76921,9 +76921,9 @@
         "URL": "https://store.steampowered.com/app/4809560/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4809560/e9db582e9b18c975128a0fa6af4f8572f23d3fe8/header.jpg?t=1780725717",
-        "Date": "June 2027",
+        "Date": "Q4 2026",
         "AddedDate": "2026-06-06",
-        "AddedTimestamp": 1780725975.3124402,
+        "AddedTimestamp": 1780763812.5485742,
         "MatchedTags": [
             "strategy",
             "economy",
@@ -77138,6 +77138,20 @@
         "AddedTimestamp": 1780757781.2191179,
         "MatchedTags": [
             "horror",
+            "psychological horror"
+        ]
+    },
+    "4508420": {
+        "Title": "Recollage",
+        "Email": "",
+        "Discord": "https://discord.gg/uh5RCHU2A8",
+        "URL": "https://store.steampowered.com/app/4508420/",
+        "Site": "https://www.studio-windspiel.de/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4508420/af5947c3312ce303295dfa3bd5c47d8c61d92cb8/header.jpg?t=1780759765",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780763745.920839,
+        "MatchedTags": [
             "psychological horror"
         ]
     }
