@@ -41878,9 +41878,9 @@
         "URL": "https://store.steampowered.com/app/4428460/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4428460/24cab5911f46da35a218a2e560a763745199dd81/header.jpg?t=1777128366",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-25",
-        "AddedTimestamp": 1777129357.663153,
+        "Date": "Jun 6, 2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780784315.636506,
         "MatchedTags": [
             "strategy",
             "economy",
@@ -50665,9 +50665,9 @@
         "URL": "https://store.steampowered.com/app/4651490/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4651490/4422f28383d3ee81ea1658428322a46bd4e7307b/header.jpg?t=1777973320",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-05",
-        "AddedTimestamp": 1777981294.0070512,
+        "Date": "Jul 20, 2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780784357.6641705,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -61579,9 +61579,9 @@
         "URL": "https://store.steampowered.com/app/4632030/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4632030/e4d0c5dc301bdf02d45e7375d75e0f06236caa58/header.jpg?t=1779292668",
-        "Date": "Jun 4, 2026",
-        "AddedDate": "2026-05-20",
-        "AddedTimestamp": 1779302098.1159248,
+        "Date": "June 2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780784351.7786322,
         "MatchedTags": [
             "real time tactics",
             "strategy"
@@ -76807,7 +76807,9 @@
         "AddedDate": "2026-06-06",
         "AddedTimestamp": 1780725823.0762017,
         "MatchedTags": [
-            "tower defense"
+            "real time tactics",
+            "tower defense",
+            "strategy"
         ]
     },
     "4432130": {
@@ -77272,6 +77274,98 @@
         "MatchedTags": [
             "horror",
             "survival horror"
+        ]
+    },
+    "4403870": {
+        "Title": "Father After 40 / \u7537\u4eba40",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4403870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4403870/35f8c84b4dc85c0f8b175d37e90f5e117e4a7805/header.jpg?t=1780784104",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780784313.4699981,
+        "MatchedTags": [
+            "strategy",
+            "psychological horror",
+            "turn-based combat"
+        ]
+    },
+    "4606560": {
+        "Title": "Finding Frankie 2",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4606560/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4606560/4e7a06426a53643257f2a5a14d0817a179da8804/header.jpg?t=1780779049",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780784347.0671694,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "strategy"
+        ]
+    },
+    "4632790": {
+        "Title": "No Man Can Deny",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4632790/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4632790/5dab19296ea07e4b46866e5a3ac49cecdf9cce8d/header.jpg?t=1780779615",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780784354.3417878,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "4682620": {
+        "Title": "PUTRID/SHARP",
+        "Email": "unseconds@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4682620/",
+        "Site": "https://putridsharp.cargo.site/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4682620/300edbd817869a625ce0d6560166ffe58236545a/header.jpg?t=1780782552",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780784359.8179731,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4779820": {
+        "Title": "Wild West Miner Simulator: First Gun",
+        "Email": "",
+        "Discord": "https://discord.com/invite/kXRMffmTJn",
+        "URL": "https://store.steampowered.com/app/4779820/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4779820/5e6e7f26c8e2de864ab5f108f742774e3db5dd29/header.jpg?t=1780781235",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780784377.063019,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4800650": {
+        "Title": "7 Millimeters",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4800650/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4800650/85911ce927fe444ca6914c2bb56b8fdf188645d9/header.jpg?t=1780783175",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-06",
+        "AddedTimestamp": 1780784392.2530725,
+        "MatchedTags": [
+            "management",
+            "economy"
         ]
     }
 }
