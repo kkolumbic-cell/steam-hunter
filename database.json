@@ -30996,9 +30996,9 @@
         "URL": "https://store.steampowered.com/app/4520400/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4520400/812685733fb831bd39b9f59cddd31cbdd3e532cb/header.jpg?t=1776204852",
-        "Date": "Jul 23, 2026",
-        "AddedDate": "2026-06-03",
-        "AddedTimestamp": 1780451341.2263985,
+        "Date": "Jul 21, 2026",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780791550.1527412,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -39800,9 +39800,9 @@
         "URL": "https://store.steampowered.com/app/4650350/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4650350/434fa912b4612dcaec298ee65ad82227d17923f1/header.jpg?t=1776971485",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-27",
-        "AddedTimestamp": 1779857534.1023035,
+        "Date": "Jun 6, 2026",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780791570.1987689,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -44754,9 +44754,9 @@
         "URL": "https://store.steampowered.com/app/4673140/",
         "Site": "https://oneflowman.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4673140/20e63ad7dcb0b81c6b99ce27484c7e7420a502ca/header.jpg?t=1777400291",
-        "Date": "Jun 3, 2026",
-        "AddedDate": "2026-05-07",
-        "AddedTimestamp": 1778188618.8957443,
+        "Date": "Jun 6, 2026",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780791578.4905536,
         "MatchedTags": [
             "horror"
         ]
@@ -71396,9 +71396,9 @@
         "URL": "https://store.steampowered.com/app/4779870/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4779870/85eb5c202682024df932102c769fce49b1e1e114/header.jpg?t=1780331163",
-        "Date": "September 2026",
-        "AddedDate": "2026-06-01",
-        "AddedTimestamp": 1780338440.6182919,
+        "Date": "October 2026",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780791615.906643,
         "MatchedTags": [
             "management",
             "strategy",
@@ -71518,9 +71518,9 @@
         "URL": "https://store.steampowered.com/app/4695530/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4695530/a168fdf4fafdbaa2a32e6eba1eb1491c866c12e1/header.jpg?t=1780351066",
-        "Date": "Jul 23, 2026",
-        "AddedDate": "2026-06-03",
-        "AddedTimestamp": 1780451383.740806,
+        "Date": "Jul 21, 2026",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780791590.107358,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -77209,9 +77209,9 @@
         "URL": "https://store.steampowered.com/app/3809820/",
         "Site": "https://expendabots.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3809820/080b9d7e6d4e7cf8817e17c19a0693b7ef0c55a4/header.jpg?t=1780777821",
-        "Date": "To be announced",
-        "AddedDate": "2026-06-06",
-        "AddedTimestamp": 1780778170.117163,
+        "Date": "2026",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780791525.3033211,
         "MatchedTags": [
             "horror"
         ]
@@ -77366,6 +77366,21 @@
         "MatchedTags": [
             "management",
             "economy"
+        ]
+    },
+    "4799980": {
+        "Title": "Krampus",
+        "Email": "",
+        "Discord": "https://discord.gg/bGXTzbzrgn",
+        "URL": "https://store.steampowered.com/app/4799980/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4799980/9cec0948aae09fda6a8bad74e62c8f7fdd7c2f0d/header.jpg?t=1780791284",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780791621.6154122,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
         ]
     }
 }
