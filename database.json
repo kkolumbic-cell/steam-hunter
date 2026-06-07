@@ -16539,9 +16539,9 @@
         "URL": "https://store.steampowered.com/app/4553140/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4553140/186b3bef50cc579be4dc8fe8fd4392a37c2074e9/header.jpg?t=1774647440",
-        "Date": "June 2026",
-        "AddedDate": "2026-05-05",
-        "AddedTimestamp": 1778022866.511006,
+        "Date": "Jun 23, 2026",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780842124.182515,
         "MatchedTags": [
             "resource management",
             "strategy"
@@ -25528,9 +25528,9 @@
         "URL": "https://store.steampowered.com/app/4590980/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4590980/9fbfb2c10673137723ef5eb139ce4b490dd5b463/header.jpg?t=1775698914",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775705530.8205945,
+        "Date": "Jun 30, 2026",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780842138.63218,
         "MatchedTags": [
             "tactical"
         ]
@@ -27539,9 +27539,9 @@
         "URL": "https://store.steampowered.com/app/4411890/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4411890/117efe881b0745357c4e70da5c0af6e539e61cdf/header.jpg?t=1775833544",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-10",
-        "AddedTimestamp": 1775833740.804274,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780842104.0275393,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -33615,7 +33615,7 @@
     "4607170": {
         "Title": "Sterile Childhood",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/ZZZ45ZdAE",
         "URL": "https://store.steampowered.com/app/4607170/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4607170/ebe0e6d7f022021d6a149dcc6faf7e20fc2144d7/header.jpg?t=1776386188",
@@ -33640,11 +33640,10 @@
         "AddedDate": "2026-04-17",
         "AddedTimestamp": 1776397739.8989031,
         "MatchedTags": [
+            "real time tactics",
             "strategy",
             "tactical rpg",
-            "turn-based combat",
-            "turn-based tactics",
-            "real time tactics"
+            "turn-based tactics"
         ]
     },
     "4329670": {
@@ -48417,9 +48416,9 @@
         "URL": "https://store.steampowered.com/app/4660050/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4660050/a1bb2e52bf767b0137174a4b092b4a31a34fc841/header.jpg?t=1777665659",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-05-20",
-        "AddedTimestamp": 1779278753.9317863,
+        "Date": "Jun 7, 2026",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780842172.8659215,
         "MatchedTags": [
             "strategy"
         ]
@@ -50735,7 +50734,7 @@
     "4370860": {
         "Title": "Black Plague",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/wWmHsqZTJM",
         "URL": "https://store.steampowered.com/app/4370860/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4370860/45cedf4e0797a60d05cbb9aaf19d65b0b6702eba/header.jpg?t=1777995623",
@@ -51435,9 +51434,9 @@
         "AddedTimestamp": 1778012463.949286,
         "MatchedTags": [
             "economy",
+            "management",
             "strategy",
-            "resource management",
-            "management"
+            "resource management"
         ]
     },
     "4693190": {
@@ -64050,9 +64049,9 @@
         "URL": "https://store.steampowered.com/app/4643260/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4643260/3e257ee1738b9211e7f3f5acc19fcd4df25bdbb6/header.jpg?t=1779651176",
-        "Date": "Jun 1, 2026",
-        "AddedDate": "2026-05-24",
-        "AddedTimestamp": 1779651750.0722008,
+        "Date": "Jun 7, 2026",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780842163.1378548,
         "MatchedTags": [
             "strategy",
             "management"
@@ -77390,9 +77389,9 @@
         "URL": "https://store.steampowered.com/app/552740/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/552740/07e223fb368259b82fc858d3e9ad63498b564f12/header.jpg?t=1780795753",
-        "Date": "To be announced",
+        "Date": "Coming soon",
         "AddedDate": "2026-06-07",
-        "AddedTimestamp": 1780811564.7683828,
+        "AddedTimestamp": 1780842080.0693164,
         "MatchedTags": [
             "real time tactics",
             "strategy",
@@ -77586,6 +77585,88 @@
             "economy",
             "management",
             "resource management"
+        ]
+    },
+    "3247960": {
+        "Title": "Bergfried",
+        "Email": "",
+        "Discord": "https://discord.gg/bergfried",
+        "URL": "https://store.steampowered.com/app/3247960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3247960/6c750cfe5f234aaee21f29183c2bc17b514959ec/header.jpg?t=1780840867",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780842085.0450852,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "city builder",
+            "management",
+            "base building",
+            "economy",
+            "tactical"
+        ]
+    },
+    "4532470": {
+        "Title": "\u95ee\u9f0e\u4e5d\u5dde",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4532470/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4532470/6a6d9550f58347fb7f59a20764bd9e3fa029281c/header.jpg?t=1780837684",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780842118.925184,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "tactical"
+        ]
+    },
+    "4613510": {
+        "Title": "Adunata",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4613510/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4613510/961d461b863dde52279470df8647d53515c9bc1a/header.jpg?t=1780835892",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780842149.5169585,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4665510": {
+        "Title": "HarvestCo.",
+        "Email": "pmularczyk397@gmail.com",
+        "Discord": "https://discord.gg/TNWPbPwpBt",
+        "URL": "https://store.steampowered.com/app/4665510/",
+        "Site": "https://paperlynxgames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4665510/cc75734c8b77daf6222af02c30c30d92fa35129b/header.jpg?t=1780840393",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780842176.0917697,
+        "MatchedTags": [
+            "resource management",
+            "economy",
+            "management"
+        ]
+    },
+    "4786930": {
+        "Title": "Five Nights At Monkeys VR",
+        "Email": "",
+        "Discord": "https://discord.gg/etNvFngUpB?proof=00fe4dcb3fac5470",
+        "URL": "https://store.steampowered.com/app/4786930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4786930/52a789418b1f8cb5b59e10aa05a31bfd92d658ac/header.jpg?t=1780839519",
+        "Date": "Jun 19, 2026",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780842227.2403471,
+        "MatchedTags": [
+            "strategy",
+            "horror",
+            "survival horror"
         ]
     }
 }
