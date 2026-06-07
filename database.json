@@ -9791,9 +9791,9 @@
         "URL": "https://store.steampowered.com/app/3979590/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3979590/9dcb98542a614baed4c968ed082e48847a7bfd2b/header.jpg?t=1773840987",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-05-31",
-        "AddedTimestamp": 1780245436.3069005,
+        "Date": "August 2026",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780850724.8488057,
         "MatchedTags": [
             "resource management",
             "management",
@@ -23817,7 +23817,6 @@
         "AddedDate": "2026-04-28",
         "AddedTimestamp": 1777377860.3225796,
         "MatchedTags": [
-            "tactical rpg",
             "strategy",
             "resource management"
         ]
@@ -42290,9 +42289,9 @@
         "URL": "https://store.steampowered.com/app/4659250/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4659250/20d9365bbbefab5903200159a863bd2f304a018d/header.jpg?t=1777208014",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-26",
-        "AddedTimestamp": 1777210974.165306,
+        "Date": "Jul 27, 2026",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780850792.5048196,
         "MatchedTags": [
             "resource management",
             "strategy",
@@ -45500,9 +45499,9 @@
         "URL": "https://store.steampowered.com/app/4672980/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4672980/58db8727e8796c6d0f3a8694c3810fa0ef7363e8/header.jpg?t=1777461052",
-        "Date": "TBA",
-        "AddedDate": "2026-04-29",
-        "AddedTimestamp": 1777463834.270217,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780850794.7525108,
         "MatchedTags": [
             "resource management",
             "strategy",
@@ -52536,9 +52535,9 @@
         "URL": "https://store.steampowered.com/app/4596900/",
         "Site": "https://ashenmare.com/games/voteforme/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4596900/a4fcaec4403715e90d8e10f105ea8c1179413436/header.jpg?t=1778096248",
-        "Date": "2026",
-        "AddedDate": "2026-05-06",
-        "AddedTimestamp": 1778100533.513705,
+        "Date": "August 2026",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780850772.085123,
         "MatchedTags": [
             "resource management"
         ]
@@ -72746,9 +72745,9 @@
         "URL": "https://store.steampowered.com/app/4796850/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4796850/718cd9341850342a4278cddb20c259a1770cb152/header.jpg?t=1780412432",
-        "Date": "June 2026",
-        "AddedDate": "2026-06-02",
-        "AddedTimestamp": 1780419878.2509704,
+        "Date": "Jun 15, 2026",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780850831.251044,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -77667,6 +77666,52 @@
             "strategy",
             "horror",
             "survival horror"
+        ]
+    },
+    "4571080": {
+        "Title": "Bloody Grids",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4571080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4571080/061e4ceeb80a5674c349ed0b46407dd04b480049/header.jpg?t=1780844466",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780850758.1478434,
+        "MatchedTags": [
+            "strategy",
+            "psychological horror"
+        ]
+    },
+    "4716280": {
+        "Title": "Anxiety Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4716280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4716280/8e1c6675a50e30f26e434cd0a8ab056ab8ce9527/header.jpg?t=1780849027",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780850805.0163472,
+        "MatchedTags": [
+            "strategy",
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4761940": {
+        "Title": "Smalland 2: Lost Realms",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4761940/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4761940/8ccc0b7403e09f772d90e12fce6e8c6baabb6614/header.jpg?t=1780849063",
+        "Date": "2026",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780850817.8454804,
+        "MatchedTags": [
+            "city builder",
+            "base building"
         ]
     }
 }
