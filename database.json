@@ -2802,7 +2802,7 @@
     "4500150": {
         "Title": "Table 9",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/5JpyM6Xz",
         "URL": "https://store.steampowered.com/app/4500150/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4500150/5957a7dd30867da6c34a13248c85f57b1abacd8c/header.jpg?t=1772804889",
@@ -15218,7 +15218,7 @@
     },
     "4548190": {
         "Title": "Ironfront Express",
-        "Email": "contact@monstertheater.games, support@monstertheater.games",
+        "Email": "support@monstertheater.games, contact@monstertheater.games",
         "Discord": "https://discord.gg/pNTaNYwUVv",
         "URL": "https://store.steampowered.com/app/4548190/",
         "Site": "https://monstertheater.games",
@@ -17068,12 +17068,12 @@
         "AddedDate": "2026-03-28",
         "AddedTimestamp": 1774691646.0690565,
         "MatchedTags": [
+            "city builder",
             "colony sim",
             "strategy",
-            "city builder",
+            "resource management",
             "base building",
-            "tactical rpg",
-            "resource management"
+            "tactical rpg"
         ]
     },
     "3820460": {
@@ -24459,9 +24459,9 @@
         "URL": "https://store.steampowered.com/app/4582490/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4582490/b2c7b79406643ecff9042004208f7b17fc8ba142/header.jpg?t=1775618074",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-04-08",
-        "AddedTimestamp": 1775619310.1883442,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780833806.6129906,
         "MatchedTags": [
             "strategy"
         ]
@@ -52051,9 +52051,9 @@
         "URL": "https://store.steampowered.com/app/4652030/",
         "Site": "https://www.aiapocgame.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4652030/c8d5cc2a73e63b223a5eb847cf0db893a681b914/header.jpg?t=1778066224",
-        "Date": "Jul 21, 2026",
-        "AddedDate": "2026-05-31",
-        "AddedTimestamp": 1780265743.5306518,
+        "Date": "Aug 11, 2026",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780833831.5501754,
         "MatchedTags": [
             "strategy",
             "turn-based combat",
@@ -77375,9 +77375,9 @@
         "URL": "https://store.steampowered.com/app/4799980/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4799980/9cec0948aae09fda6a8bad74e62c8f7fdd7c2f0d/header.jpg?t=1780791284",
-        "Date": "Q3 2026",
+        "Date": "Coming soon",
         "AddedDate": "2026-06-07",
-        "AddedTimestamp": 1780791621.6154122,
+        "AddedTimestamp": 1780833870.221151,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -77552,6 +77552,39 @@
             "strategy",
             "turn-based strategy",
             "turn-based tactics",
+            "resource management"
+        ]
+    },
+    "4778810": {
+        "Title": "Worst Shop in Town",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4778810/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4778810/fdeeda58a48396328d099b4dd0a848fa1791e25b/header.jpg?t=1780827483",
+        "Date": "Jul 10, 2026",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780833858.9723144,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4813820": {
+        "Title": "AI Slop",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4813820/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4813820/41c15bbdb862faf36d8c74a1c17ae8dd36906013/header.jpg?t=1780830270",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780833876.973584,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management",
             "resource management"
         ]
     }
