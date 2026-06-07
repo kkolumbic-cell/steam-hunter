@@ -9760,12 +9760,12 @@
         "URL": "https://store.steampowered.com/app/4396440/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4396440/ed1906f54404f47a86729ef04efb5c0f68c9e90c/header.jpg?t=1773833518",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-18",
-        "AddedTimestamp": 1773842158.2946484,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780870773.9149892,
         "MatchedTags": [
-            "psychological horror",
             "horror",
+            "psychological horror",
             "survival horror"
         ]
     },
@@ -28578,7 +28578,7 @@
         "Email": "",
         "Discord": "https://discord.gg/cn2fdbqrtc",
         "URL": "https://store.steampowered.com/app/4580790/",
-        "Site": "",
+        "Site": "https://cenullum.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4580790/54d90048c722e5149b9ba30312c4ec81d1fbb830/header.jpg?t=1775908346",
         "Date": "Coming soon",
         "AddedDate": "2026-04-11",
@@ -71110,9 +71110,9 @@
         "AddedDate": "2026-06-01",
         "AddedTimestamp": 1780337968.30942,
         "MatchedTags": [
-            "psychological horror",
+            "strategy",
             "horror",
-            "strategy"
+            "psychological horror"
         ]
     },
     "4341400": {
@@ -77142,7 +77142,7 @@
     },
     "4508420": {
         "Title": "Recollage",
-        "Email": "",
+        "Email": "info@studio-windspiel.de",
         "Discord": "https://discord.gg/uh5RCHU2A8",
         "URL": "https://store.steampowered.com/app/4508420/",
         "Site": "https://www.studio-windspiel.de/",
@@ -78042,6 +78042,22 @@
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
+        ]
+    },
+    "4450270": {
+        "Title": "Moonlords - Tides of Battle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4450270/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4450270/456bba5029f85ef0d478b668153229f51323be48/header.jpg?t=1780865872",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780870781.2016504,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "tower defense"
         ]
     }
 }
