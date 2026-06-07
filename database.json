@@ -15218,7 +15218,7 @@
     },
     "4548190": {
         "Title": "Ironfront Express",
-        "Email": "support@monstertheater.games, contact@monstertheater.games",
+        "Email": "contact@monstertheater.games, support@monstertheater.games",
         "Discord": "https://discord.gg/pNTaNYwUVv",
         "URL": "https://store.steampowered.com/app/4548190/",
         "Site": "https://monstertheater.games",
@@ -28180,7 +28180,7 @@
     "4507460": {
         "Title": "Valkyrie Raid",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/C5NmN52AV",
         "URL": "https://store.steampowered.com/app/4507460/",
         "Site": "http://valkyrieraid.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4507460/d23a1d7b095522eb2a37b048c84f9063f449ac72/header.jpg?t=1775869232",
@@ -39226,9 +39226,9 @@
         "URL": "https://store.steampowered.com/app/4459510/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459510/7db75bf6609dac2c93b83db34e4e50c30ba1b354/header.jpg?t=1776953388",
-        "Date": "2026",
-        "AddedDate": "2026-04-25",
-        "AddedTimestamp": 1777129360.9707565,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780857664.7065616,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -56244,9 +56244,9 @@
         "URL": "https://store.steampowered.com/app/4557080/",
         "Site": "https://cenrelliastudios.com/games/stellar-hustler",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4557080/8b82bdf999d9f0d5afa4d207bcbc79011b62df27/header.jpg?t=1778594354",
-        "Date": "May 2026",
-        "AddedDate": "2026-05-14",
-        "AddedTimestamp": 1778717810.270018,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780857695.7691107,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -57587,7 +57587,7 @@
     },
     "4618250": {
         "Title": "Agricola - The King's Farmer",
-        "Email": "u003einfo@kannzaubern.de, info@kannzaubern.de, kannzaubernstudio@gmail.com, u003ekannzaubernstudio@gmail.com",
+        "Email": "info@kannzaubern.de, u003einfo@kannzaubern.de, u003ekannzaubernstudio@gmail.com, kannzaubernstudio@gmail.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4618250/",
         "Site": "https://kannzaubern.de",
@@ -63987,12 +63987,12 @@
         "URL": "https://store.steampowered.com/app/4554610/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4554610/778c556c28a50f85cbf975dba3d5ad53001cd3c8/header.jpg?t=1779629879",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-24",
-        "AddedTimestamp": 1779631381.036704,
+        "Date": "Jun 7, 2026",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780857689.9701047,
         "MatchedTags": [
-            "horror",
-            "psychological horror"
+            "psychological horror",
+            "horror"
         ]
     },
     "4395980": {
@@ -67707,7 +67707,7 @@
     "4672520": {
         "Title": "Impulse Response",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/MCuR4TggsY",
         "URL": "https://store.steampowered.com/app/4672520/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4672520/30cd90ed9e019e4c4bc98f222f89f3561e9e2e8b/header.jpg?t=1779991495",
@@ -77712,6 +77712,86 @@
         "MatchedTags": [
             "city builder",
             "base building"
+        ]
+    },
+    "2211630": {
+        "Title": "Duskers 2.0",
+        "Email": "",
+        "Discord": "https://discord.gg/bHg65g2Cyu",
+        "URL": "https://store.steampowered.com/app/2211630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2211630/da496455b7f3556b32d0a83e7dbc0d8ecaaf739e/header.jpg?t=1780851416",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780857631.844713,
+        "MatchedTags": [
+            "strategy",
+            "horror",
+            "tactical",
+            "resource management"
+        ]
+    },
+    "3469910": {
+        "Title": "Star Trek: Outposts Unknown",
+        "Email": "",
+        "Discord": "https://discord.com/invite/2w6bUsmKra",
+        "URL": "https://store.steampowered.com/app/3469910/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3469910/8f41edd99d109dd639a5cda142d32527e40f9e66/header.jpg?t=1780855643",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780857638.504646,
+        "MatchedTags": [
+            "strategy",
+            "colony sim",
+            "resource management",
+            "city builder",
+            "base building",
+            "economy",
+            "management"
+        ]
+    },
+    "3676410": {
+        "Title": "Senua",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3676410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3676410/75370f45cdab9ada45b18804cd27d0897dd4c727/header.jpg?t=1780854359",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780857640.6884391,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4159720": {
+        "Title": "Hack '95",
+        "Email": "",
+        "Discord": "https://discord.gg/emjcJGFF4e",
+        "URL": "https://store.steampowered.com/app/4159720/",
+        "Site": "https://hack95.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4159720/6db0bfcf76ecc0e59a3ec484d3873764289d0e1e/header.jpg?t=1780853030",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780857656.2428885,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4745080": {
+        "Title": "Cthulhu Go Teaching",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4745080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4745080/f7fdefdab74ea9384ab4fd91ea5677926d7ea63a/header.jpg?t=1780854647",
+        "Date": "Q2 2026",
+        "AddedDate": "2026-06-07",
+        "AddedTimestamp": 1780857748.6006021,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
