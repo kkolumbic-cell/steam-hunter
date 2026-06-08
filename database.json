@@ -8444,9 +8444,9 @@
         "URL": "https://store.steampowered.com/app/4515850/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4515850/52ed1a6d7241c8168a37bd3e28c804db59487daa/header.jpg?t=1773687409",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-16",
-        "AddedTimestamp": 1773689463.4340405,
+        "Date": "July 2026",
+        "AddedDate": "2026-06-08",
+        "AddedTimestamp": 1780956166.793895,
         "MatchedTags": [
             "economy",
             "resource management"
@@ -10287,9 +10287,9 @@
         "URL": "https://store.steampowered.com/app/4428630/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4428630/ae9d1bd00bb1a02eb7c39e2bf5727842f30c08d4/header.jpg?t=1773872213",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-03-18",
-        "AddedTimestamp": 1773874180.5526824,
+        "Date": "Aug 30, 2026",
+        "AddedDate": "2026-06-08",
+        "AddedTimestamp": 1780956150.672575,
         "MatchedTags": [
             "strategy"
         ]
@@ -29089,9 +29089,9 @@
         "URL": "https://store.steampowered.com/app/4451520/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4451520/c7c8ccf7446d7b22259b5e4263b682950e035a28/header.jpg?t=1776059494",
-        "Date": "Q2 2026",
+        "Date": "Jun 9, 2026",
         "AddedDate": "2026-06-08",
-        "AddedTimestamp": 1780936266.9220486,
+        "AddedTimestamp": 1780956156.2989306,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -44893,9 +44893,9 @@
         "URL": "https://store.steampowered.com/app/4297460/",
         "Site": "https://wylderzone.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4297460/2183db6d2ee0289a7e356bdcf6cee68200befc35/header.jpg?t=1777428911",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-29",
-        "AddedTimestamp": 1777435465.0921993,
+        "Date": "November 2026",
+        "AddedDate": "2026-06-08",
+        "AddedTimestamp": 1780956145.729458,
         "MatchedTags": [
             "economy"
         ]
@@ -63142,9 +63142,9 @@
         "URL": "https://store.steampowered.com/app/4547240/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4547240/c682e32fb7ce26a66323308d1397231007deb48e/header.jpg?t=1779471435",
-        "Date": "TBA",
-        "AddedDate": "2026-05-22",
-        "AddedTimestamp": 1779473236.150926,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-08",
+        "AddedTimestamp": 1780956179.9177039,
         "MatchedTags": [
             "strategy"
         ]
@@ -78735,6 +78735,144 @@
         "AddedTimestamp": 1780947693.6786716,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "3936560": {
+        "Title": "Time Dungeons",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3936560/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936560/36df7c49e23c5f456f831462eec5a14da198be3d/header.jpg?t=1780950933",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-08",
+        "AddedTimestamp": 1780956126.9964857,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "4655530": {
+        "Title": "Phantasma Hotel",
+        "Email": "",
+        "Discord": "https://discord.gg/wSbZ8SqZ",
+        "URL": "https://store.steampowered.com/app/4655530/",
+        "Site": "https://phantasmahotel.lovable.app/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4655530/89dba7b33087dc25701d104ac3bbd87b40e45afa/header.jpg?t=1780952352",
+        "Date": "2026",
+        "AddedDate": "2026-06-08",
+        "AddedTimestamp": 1780956226.0014799,
+        "MatchedTags": [
+            "horror",
+            "turn-based combat"
+        ]
+    },
+    "4749530": {
+        "Title": "Jack Pottwin: House of Odds",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4749530/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4749530/11a904b99b924bdb667a9200300cfcf92974f333/header.jpg?t=1780949182",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-08",
+        "AddedTimestamp": 1780956256.5351243,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "4772350": {
+        "Title": "FOMO",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4772350/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4772350/0296c131849d744988f016b7ab877f7cf2ebdf01/header.jpg?t=1780948467",
+        "Date": "Jun 30, 2027",
+        "AddedDate": "2026-06-08",
+        "AddedTimestamp": 1780956261.9522486,
+        "MatchedTags": [
+            "economy",
+            "psychological horror"
+        ]
+    },
+    "4775410": {
+        "Title": "Jeffrey Eggstein",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4775410/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4775410/712398df6a24570c90778f07cf995ae1f9069dad/header.jpg?t=1780949584",
+        "Date": "Jun 26, 2026",
+        "AddedDate": "2026-06-08",
+        "AddedTimestamp": 1780956264.7799015,
+        "MatchedTags": [
+            "survival horror",
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4786060": {
+        "Title": "Primal Tactica",
+        "Email": "",
+        "Discord": "https://discord.gg/8ntTBUggNC",
+        "URL": "https://store.steampowered.com/app/4786060/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4786060/d183932a573e662585a6fa0960640e194061e5cf/header.jpg?t=1780948747",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-08",
+        "AddedTimestamp": 1780956269.5834591,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "turn-based tactics",
+            "resource management"
+        ]
+    },
+    "4788530": {
+        "Title": "Chopex",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4788530/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4788530/e12a52637efa62faeb6362b4e1f12f0d5547e8d4/header.jpg?t=1780951966",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-08",
+        "AddedTimestamp": 1780956271.8192294,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4809600": {
+        "Title": "Pixel Miner",
+        "Email": "",
+        "Discord": "https://discord.gg/XGTTaRgff",
+        "URL": "https://store.steampowered.com/app/4809600/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4809600/f2f24b170f98aa0d79d0fd10b3b7106206696338/header.jpg?t=1780951358",
+        "Date": "2026",
+        "AddedDate": "2026-06-08",
+        "AddedTimestamp": 1780956285.9111898,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4819630": {
+        "Title": "Bowerland",
+        "Email": "",
+        "Discord": "https://discord.gg/u58WHvzh",
+        "URL": "https://store.steampowered.com/app/4819630/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819630/f3d51c79bb5463a89d211e4369f6bb1549e78934/header.jpg?t=1780952578",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-08",
+        "AddedTimestamp": 1780956288.8181617,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "turn-based tactics",
+            "turn-based combat"
         ]
     }
 }
