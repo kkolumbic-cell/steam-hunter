@@ -38707,9 +38707,9 @@
         "URL": "https://store.steampowered.com/app/4632470/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4632470/5499350a713cade7f53ceddc52fa65661d0c3f39/header.jpg?t=1776900530",
-        "Date": "Jun 15, 2026",
-        "AddedDate": "2026-05-11",
-        "AddedTimestamp": 1778523098.67904,
+        "Date": "Jun 9, 2026",
+        "AddedDate": "2026-06-09",
+        "AddedTimestamp": 1781045651.1150723,
         "MatchedTags": [
             "tactical rpg"
         ]
@@ -39635,7 +39635,7 @@
     },
     "4098070": {
         "Title": "SHALTER-03",
-        "Email": "",
+        "Email": "contact@lumenariastudios.com",
         "Discord": "https://discord.gg/MSHK3sAg2M",
         "URL": "https://store.steampowered.com/app/4098070/",
         "Site": "https://lumenariastudios.com/",
@@ -78763,11 +78763,12 @@
         "URL": "https://store.steampowered.com/app/4749530/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4749530/11a904b99b924bdb667a9200300cfcf92974f333/header.jpg?t=1780949182",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-08",
-        "AddedTimestamp": 1780956256.5351243,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-06-09",
+        "AddedTimestamp": 1781045688.0490034,
         "MatchedTags": [
             "strategy",
+            "horror",
             "turn-based combat"
         ]
     },
@@ -80189,6 +80190,42 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4553950": {
+        "Title": "GUILDMAKER",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4553950/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4553950/8a94a9ea875c80512dabeba652596ef91a4d820a/header.jpg?t=1781040783",
+        "Date": "2026",
+        "AddedDate": "2026-06-09",
+        "AddedTimestamp": 1781045642.9746225,
+        "MatchedTags": [
+            "strategy",
+            "colony sim",
+            "management",
+            "resource management",
+            "city builder",
+            "base building"
+        ]
+    },
+    "4804770": {
+        "Title": "Uncharted Lands",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4804770/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4804770/6eac2d2b353a5496f814b8ebefcaa9a9dad9087f/header.jpg?t=1781044464",
+        "Date": "Dec 4, 2026",
+        "AddedDate": "2026-06-09",
+        "AddedTimestamp": 1781045705.787948,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "colony sim",
+            "survival horror"
         ]
     }
 }
