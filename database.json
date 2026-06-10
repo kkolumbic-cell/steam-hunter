@@ -7094,9 +7094,9 @@
         "URL": "https://store.steampowered.com/app/4335460/",
         "Site": "https://www.pantaloon.io/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4335460/604da940e85a84b3d980ab6f783db7a1b63c6f61/header.jpg?t=1773405263",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-26",
-        "AddedTimestamp": 1779814541.6922097,
+        "Date": "Jun 11, 2026",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781055149.898516,
         "MatchedTags": [
             "management",
             "base building"
@@ -50615,7 +50615,7 @@
     "4651490": {
         "Title": "Loot Gobblin' Together",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/YBJvrg44tE",
         "URL": "https://store.steampowered.com/app/4651490/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4651490/4422f28383d3ee81ea1658428322a46bd4e7307b/header.jpg?t=1777973320",
@@ -54586,8 +54586,8 @@
         "AddedDate": "2026-05-09",
         "AddedTimestamp": 1778334926.810887,
         "MatchedTags": [
-            "tactical",
             "horror",
+            "tactical",
             "survival horror"
         ]
     },
@@ -80079,9 +80079,9 @@
         "URL": "https://store.steampowered.com/app/4696820/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696820/c59e4c499fe4a5ac6a7843b504333f36eeb64246/header.jpg?t=1781035863",
-        "Date": "Jun 24, 2026",
-        "AddedDate": "2026-06-09",
-        "AddedTimestamp": 1781039796.6397178,
+        "Date": "Jun 23, 2026",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781055189.7202294,
         "MatchedTags": [
             "resource management"
         ]
@@ -80226,6 +80226,126 @@
             "grand strategy",
             "colony sim",
             "survival horror"
+        ]
+    },
+    "4515980": {
+        "Title": "Increment Isle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4515980/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4515980/0681376446d61c5ed8443c5910dfa10a64340de3/header.jpg?t=1781052478",
+        "Date": "July 2026",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781055156.6980615,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4772250": {
+        "Title": "\u5b57\u91cc\u884c\u95f4",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4772250/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4772250/ab14d5abb1c43bb63336c4d77a392c88ddc60053/header.jpg?t=1781051775",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781055217.5285351,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4785390": {
+        "Title": "The Missing Rune",
+        "Email": "",
+        "Discord": "https://discord.gg/aSJ56ENJxY",
+        "URL": "https://store.steampowered.com/app/4785390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4785390/1ce3a7c02aaac0abd8016d30a51308d9259a2fb0/header.jpg?t=1781050383",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781055219.992067,
+        "MatchedTags": [
+            "strategy",
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4786410": {
+        "Title": "SeongsuStation",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4786410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4786410/23751a2b683a13cc16e7ef30ba45319a95abb7bd/header.jpg?t=1781052247",
+        "Date": "June 2026",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781055226.5921557,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4800440": {
+        "Title": "One More Pearl!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4800440/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4800440/70cdf28e41ab3d7bcdbd629c4b3dc32fdc0f7a76/header.jpg?t=1781052545",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781055238.5674691,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4805180": {
+        "Title": "Tech Resale Simulator",
+        "Email": "",
+        "Discord": "https://discord.gg/RWXb4MeUdz",
+        "URL": "https://store.steampowered.com/app/4805180/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4805180/4e0308093257a9486dd59fcafb14df45ab5490d1/header.jpg?t=1781054283",
+        "Date": "November 2026",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781055242.5440233,
+        "MatchedTags": [
+            "management",
+            "economy"
+        ]
+    },
+    "4820270": {
+        "Title": "Prince of Vibe Code",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4820270/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4820270/c87e521adacc3fde0ed62bf0165f09655e8821f6/header.jpg?t=1781049123",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781055253.8696103,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4823870": {
+        "Title": "TetraPlinko",
+        "Email": "",
+        "Discord": "https://discord.gg/YKTXPnHfH3",
+        "URL": "https://store.steampowered.com/app/4823870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4823870/5b903f3ba697c81279c6544b0e382b31f26dfdd7/header.jpg?t=1781048408",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781055256.0308914,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
