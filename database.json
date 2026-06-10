@@ -1383,8 +1383,8 @@
         "AddedDate": "2026-03-05",
         "AddedTimestamp": 1772717906.7747512,
         "MatchedTags": [
-            "tower defense",
-            "strategy"
+            "strategy",
+            "tower defense"
         ]
     },
     "4437490": {
@@ -10152,9 +10152,9 @@
         "URL": "https://store.steampowered.com/app/4530030/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4530030/22bce77cf6c9f23ce95700f0a2758ea7e0b3fa35/header.jpg?t=1773854348",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-03-18",
-        "AddedTimestamp": 1773861621.8119617,
+        "Date": "To be announced",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781101884.8973072,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -15011,7 +15011,7 @@
     "4539860": {
         "Title": "Reignfall: Fallen Crown",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/D67rRgsZ8r",
         "URL": "https://store.steampowered.com/app/4539860/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4539860/26adecd3184e44506509e6d3c5dfbca35fae59f8/header.jpg?t=1774517702",
@@ -31362,7 +31362,7 @@
     },
     "4218360": {
         "Title": "Wall World Strategy",
-        "Email": "bizdev@alawar.com, hr@alawar.com, pr@alawar.com, publishing@alawar.com",
+        "Email": "hr@alawar.com, pr@alawar.com, bizdev@alawar.com, publishing@alawar.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4218360/",
         "Site": "https://alawar.com/",
@@ -54237,21 +54237,6 @@
             "psychological horror"
         ]
     },
-    "4705310": {
-        "Title": "She Was King",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4705310/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4705310/b110424a6022f6f104bff2a8733846039807246b/header.jpg?t=1778265884",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-08",
-        "AddedTimestamp": 1778266077.6148393,
-        "MatchedTags": [
-            "horror",
-            "psychological horror"
-        ]
-    },
     "4706020": {
         "Title": "PRO: Push React Outgun",
         "Email": "",
@@ -59956,7 +59941,6 @@
         "AddedTimestamp": 1779059599.5135489,
         "MatchedTags": [
             "strategy",
-            "tower defense",
             "tactical"
         ]
     },
@@ -68923,9 +68907,9 @@
         "URL": "https://store.steampowered.com/app/4763910/",
         "Site": "https://solusstudios.uk",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4763910/f6183bb1a6b6375c0e2af4059d29b2c32c1fe57e/header.jpg?t=1780058982",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-05-29",
-        "AddedTimestamp": 1780074029.9700227,
+        "Date": "Oct 26, 2026",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781101984.1430454,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -74321,9 +74305,9 @@
         "URL": "https://store.steampowered.com/app/4781730/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4781730/7d76ddb063adc4961045ca07f16af9d01ebe0015/header.jpg?t=1780528166",
-        "Date": "Jun 11, 2026",
-        "AddedDate": "2026-06-04",
-        "AddedTimestamp": 1780531548.9073286,
+        "Date": "Jun 17, 2026",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781102008.6082673,
         "MatchedTags": [
             "strategy",
             "grand strategy",
@@ -78506,9 +78490,9 @@
         "URL": "https://store.steampowered.com/app/4813430/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4813430/6ec6c3fe3acd6006cef8102c1c0d12397f403f99/header.jpg?t=1780935156",
-        "Date": "TBA",
-        "AddedDate": "2026-06-08",
-        "AddedTimestamp": 1780936576.9323559,
+        "Date": "2026",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781102030.6838675,
         "MatchedTags": [
             "resource management"
         ]
@@ -80710,6 +80694,112 @@
             "survival horror",
             "psychological horror",
             "horror"
+        ]
+    },
+    "3810780": {
+        "Title": "Backyard Bayou",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3810780/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810780/1d0308198e817b71124dfc271b6a10969b9c849c/header.jpg?t=1781101576",
+        "Date": "TBA",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781101819.2440183,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4504900": {
+        "Title": "Slots & Slaughter",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4504900/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4504900/14564e2620834e5e32da4fb237817b1c2cb84b8a/header.jpg?t=1781093419",
+        "Date": "2026",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781101881.9498975,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4622120": {
+        "Title": "Dust N' Death",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4622120/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4622120/2f06416651af4fd5ad595a37db910d565132d605/header.jpg?t=1781096278",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781101931.6141162,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4670130": {
+        "Title": "Asymptote",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4670130/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4670130/cf4f1eba7f9ebdb581f80ee2bfd71b19abd79004/header.jpg?t=1781094700",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781101946.5911908,
+        "MatchedTags": [
+            "colony sim",
+            "management"
+        ]
+    },
+    "4766770": {
+        "Title": "3D Print Shop Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4766770/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4766770/15a66bdd66ce46980a3197a464b2eb7526589b0d/header.jpg?t=1781099360",
+        "Date": "TBA",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781101989.522688,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4801080": {
+        "Title": "Wetline - Fire Break",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4801080/",
+        "Site": "https://www.acebuffer.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4801080/3187d6ffedb6c521c25bdfe568397281eb599a80/header.jpg?t=1781099348",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781102019.4896367,
+        "MatchedTags": [
+            "tactical",
+            "resource management"
+        ]
+    },
+    "4819030": {
+        "Title": "Deal Flipper",
+        "Email": "",
+        "Discord": "https://discord.gg/AfCYRBqE6D",
+        "URL": "https://store.steampowered.com/app/4819030/",
+        "Site": "https://roovelstudio.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4819030/ece73443b090dfc77f26b8b075afced7cf63b0f7/header.jpg?t=1781094298",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781102035.9537997,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management",
+            "resource management",
+            "tactical"
         ]
     }
 }
