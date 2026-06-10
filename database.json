@@ -2619,9 +2619,9 @@
         "URL": "https://store.steampowered.com/app/4464460/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4464460/d6d85a0387e0fbb3d78b33df6ce90deb3e05a407/header.jpg?t=1772801077",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-06",
-        "AddedTimestamp": 1772803839.978225,
+        "Date": "Oct 22, 2026",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781132311.5835218,
         "MatchedTags": [
             "turn-based tactics",
             "strategy",
@@ -43193,13 +43193,13 @@
         "AddedTimestamp": 1777321253.9655564,
         "MatchedTags": [
             "tower defense",
-            "tactical",
             "strategy",
+            "resource management",
             "city builder",
-            "real time tactics",
-            "management",
             "base building",
-            "resource management"
+            "real time tactics",
+            "tactical",
+            "management"
         ]
     },
     "4612470": {
@@ -44604,9 +44604,9 @@
         "URL": "https://store.steampowered.com/app/4281870/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4281870/6d5e65f2e7d1d209442370dc87db3ff51eb3e457/header.jpg?t=1777401673",
-        "Date": "June 2026",
-        "AddedDate": "2026-04-28",
-        "AddedTimestamp": 1777402435.359965,
+        "Date": "November 2026",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781132304.891687,
         "MatchedTags": [
             "management",
             "economy",
@@ -62693,9 +62693,9 @@
         "URL": "https://store.steampowered.com/app/4747900/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4747900/583fa29739c2b75ab570d130fdd9bb531d4cee66/header.jpg?t=1779396833",
-        "Date": "Jun 22, 2026",
-        "AddedDate": "2026-05-21",
-        "AddedTimestamp": 1779400367.464349,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781132375.9928908,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -71653,14 +71653,15 @@
         "URL": "https://store.steampowered.com/app/4791970/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4791970/f1a6330f962468bed9dcb4763b531f0c663afb28/header.jpg?t=1780350032",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-01",
-        "AddedTimestamp": 1780352615.0335898,
+        "Date": "October 2026",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781132404.2290757,
         "MatchedTags": [
-            "strategy",
             "tower defense",
-            "resource management",
             "base building",
+            "resource management",
+            "real time tactics",
+            "strategy",
             "management",
             "tactical"
         ]
@@ -77999,7 +78000,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4276370/",
-        "Site": "",
+        "Site": "https://doodlefishgames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4276370/a326fdc89dd2b0f1fabc39aabb3fa679ad0cfa42/header.jpg?t=1780873846",
         "Date": "To be announced",
         "AddedDate": "2026-06-08",
@@ -79208,8 +79209,8 @@
         "AddedTimestamp": 1780994731.2729082,
         "MatchedTags": [
             "economy",
-            "management",
-            "resource management"
+            "resource management",
+            "management"
         ]
     },
     "4813360": {
@@ -81250,6 +81251,125 @@
         "AddedTimestamp": 1781124572.7221327,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4606750": {
+        "Title": "Turno Nocturno",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4606750/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4606750/e8aeb6e388f3e1aa82a2278f6a4a70d17f44075e/header.jpg?t=1781126209",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781132321.2035522,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "survival horror"
+        ]
+    },
+    "4665120": {
+        "Title": "Picky Numbers",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4665120/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4665120/224a332fd70c1a9ebfe7b01e18eed31da5a9c838/header.jpg?t=1781128557",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781132335.895255,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4685470": {
+        "Title": "Tailbreak",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4685470/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4685470/fab90383a5e905d2064352ca85562147941d92eb/header.jpg?t=1781130662",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781132359.918476,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "tactical"
+        ]
+    },
+    "4685520": {
+        "Title": "Railbreak DX",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4685520/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4685520/fb1f4ad6acb15ce59e75364e6fbd071d2a4d41a8/header.jpg?t=1781128613",
+        "Date": "2026",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781132362.1744885,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4768270": {
+        "Title": "Acid Clashers",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4768270/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4768270/b3df880b988d9feba2a9875c8303f95798ac55e7/header.jpg?t=1781131348",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781132390.6159146,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4781430": {
+        "Title": "Pocket Squire: Arena",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4781430/",
+        "Site": "https://www.pocketsquire.io/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4781430/8d0fc424e710a23c330dbdd0f324062457201771/header.jpg?t=1781130096",
+        "Date": "Jul 7, 2026",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781132393.8305955,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4809000": {
+        "Title": "SYSTEM_REBOOT",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4809000/",
+        "Site": "https://system-reboot.web.app/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4809000/70e5f894076e78aedee1100553317b52bc6d9e81/header.jpg?t=1781127242",
+        "Date": "Jul 17, 2026",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781132424.244333,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4823350": {
+        "Title": "Tridan",
+        "Email": "",
+        "Discord": "https://discord.gg/Uu45C75Skp",
+        "URL": "https://store.steampowered.com/app/4823350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4823350/341ae951c2321504c797c3216010ce17bd753e60/header.jpg?t=1781126239",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-10",
+        "AddedTimestamp": 1781132431.935326,
+        "MatchedTags": [
+            "management"
         ]
     }
 }
