@@ -20844,6 +20844,7 @@
         "AddedDate": "2026-04-02",
         "AddedTimestamp": 1775149961.8630235,
         "MatchedTags": [
+            "strategy",
             "turn-based combat"
         ]
     },
@@ -42570,8 +42571,9 @@
         "AddedDate": "2026-04-27",
         "AddedTimestamp": 1777291327.6986697,
         "MatchedTags": [
-            "strategy",
-            "economy"
+            "resource management",
+            "economy",
+            "strategy"
         ]
     },
     "4428900": {
@@ -51325,6 +51327,8 @@
         "AddedDate": "2026-05-05",
         "AddedTimestamp": 1778012445.8673108,
         "MatchedTags": [
+            "management",
+            "economy",
             "resource management"
         ]
     },
@@ -67176,9 +67180,9 @@
         "URL": "https://store.steampowered.com/app/4735720/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4735720/e5687968e30237e8b8125bd05a48c4d22a940a86/header.jpg?t=1779963852",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-05-28",
-        "AddedTimestamp": 1779972565.8015192,
+        "Date": "Dec 2, 2026",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781216355.3286679,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -82566,6 +82570,87 @@
             "grand strategy",
             "horror",
             "psychological horror"
+        ]
+    },
+    "4488750": {
+        "Title": "Catapulture",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4488750/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4488750/88994899dfd596f0aace3f255e4e37c249065c39/header.jpg?t=1781215708",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781216287.3771725,
+        "MatchedTags": [
+            "strategy",
+            "base building",
+            "management",
+            "economy"
+        ]
+    },
+    "4558380": {
+        "Title": "Othello \u2013 The Official Game for Mac",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4558380/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4558380/37f5747b49049a0c16f876d22c4850801eee579a/header.jpg?t=1781213981",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781216295.7324936,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4666890": {
+        "Title": "Gobs & Gears",
+        "Email": "support@goblintek.dev",
+        "Discord": "https://discord.com/invite/CbSw52Er29",
+        "URL": "https://store.steampowered.com/app/4666890/",
+        "Site": "https://goblintek.dev/games/gobs-and-gears.html",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4666890/6b1dc4b07c6fcb6cc52b330d87aeec092797048e/header.jpg?t=1781212206",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781216330.0915682,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4761790": {
+        "Title": "Rogue Elements",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4761790/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4761790/e06bbc54178fa54b5716bf5dd31e6ba4f33ff082/header.jpg?t=1781214509",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781216362.69303,
+        "MatchedTags": [
+            "turn-based tactics",
+            "tactical rpg",
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4784070": {
+        "Title": "Face The Gauntlet",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4784070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4784070/5d4626a632636366a82ac13e4b1a4dcdd7db1ef2/header.jpg?t=1781214194",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781216378.3046935,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
         ]
     }
 }
