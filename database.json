@@ -11907,9 +11907,9 @@
         "URL": "https://store.steampowered.com/app/4401950/",
         "Site": "https://www.indiecitygames.org/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4401950/a1dbc7e49a856eae3748ff7e0dbcc2c36b72db27/header.jpg?t=1774119474",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-03-21",
-        "AddedTimestamp": 1774121910.0595922,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781142124.0731535,
         "MatchedTags": [
             "horror"
         ]
@@ -53263,13 +53263,13 @@
         "URL": "https://store.steampowered.com/app/4674550/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4674550/fd972891234b06e614062d9f770215146740866f/header.jpg?t=1778162360",
-        "Date": "Jun 26, 2026",
-        "AddedDate": "2026-05-07",
-        "AddedTimestamp": 1778168435.633564,
+        "Date": "Jun 23, 2026",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781142151.739672,
         "MatchedTags": [
+            "resource management",
             "strategy",
-            "management",
-            "resource management"
+            "management"
         ]
     },
     "4680960": {
@@ -68724,7 +68724,7 @@
     "4641260": {
         "Title": "All Night Ascension",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/UWE2uzHTr",
         "URL": "https://store.steampowered.com/app/4641260/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4641260/1358ffe8a8505dd18f36efd22e67f35cba2d5ba7/header.jpg?t=1780066233",
@@ -68732,8 +68732,8 @@
         "AddedDate": "2026-05-29",
         "AddedTimestamp": 1780073869.7687547,
         "MatchedTags": [
-            "resource management",
-            "strategy"
+            "strategy",
+            "resource management"
         ]
     },
     "4655080": {
@@ -80272,9 +80272,9 @@
         "URL": "https://store.steampowered.com/app/4786410/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4786410/23751a2b683a13cc16e7ef30ba45319a95abb7bd/header.jpg?t=1781052247",
-        "Date": "June 2026",
-        "AddedDate": "2026-06-10",
-        "AddedTimestamp": 1781055226.5921557,
+        "Date": "Jun 24, 2026",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781142190.6672132,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -81370,6 +81370,99 @@
         "AddedTimestamp": 1781132431.935326,
         "MatchedTags": [
             "management"
+        ]
+    },
+    "3363870": {
+        "Title": "Id\u00f8le",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3363870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3363870/7689552d1d8d58a0c19db62280629b2b82de6df0/header.jpg?t=1781137625",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781142106.5734017,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "resource management"
+        ]
+    },
+    "4568110": {
+        "Title": "Tahoe Joe",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4568110/",
+        "Site": "https://foundtv.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4568110/5e1e0440c84609feebdf39c51471347b9b0a675f/header.jpg?t=1781135157",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781142135.05135,
+        "MatchedTags": [
+            "survival horror"
+        ]
+    },
+    "4810060": {
+        "Title": "Neuro Cell",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4810060/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4810060/bb67358d76444743398af30f129bcfaba92e14bb/header.jpg?t=1781133532",
+        "Date": "2026",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781142207.7591162,
+        "MatchedTags": [
+            "survival horror",
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4813930": {
+        "Title": "MOBA Manager",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4813930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4813930/e2a9bc0f1f5433792dce0f9035c500a44719c381/header.jpg?t=1781133646",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781142212.5956223,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "tactical",
+            "resource management",
+            "turn-based tactics"
+        ]
+    },
+    "4816290": {
+        "Title": "TCG Card Restoration",
+        "Email": "",
+        "Discord": "https://discord.gg/MgkzddhG2Y",
+        "URL": "https://store.steampowered.com/app/4816290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4816290/339a49378e134481d260cafdeca28ba23f1bb7cc/header.jpg?t=1781132408",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781142217.5943205,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4824290": {
+        "Title": "Star Sine Signal",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4824290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4824290/90b7a35c152f42e880636eeca4740008bfee8cd5/header.jpg?t=1781141077",
+        "Date": "TBA",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781142222.4734864,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
         ]
     }
 }
