@@ -31364,7 +31364,7 @@
     },
     "4218360": {
         "Title": "Wall World Strategy",
-        "Email": "bizdev@alawar.com, publishing@alawar.com, pr@alawar.com, hr@alawar.com",
+        "Email": "publishing@alawar.com, bizdev@alawar.com, hr@alawar.com, pr@alawar.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4218360/",
         "Site": "https://alawar.com/",
@@ -33269,9 +33269,9 @@
         "URL": "https://store.steampowered.com/app/4618850/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4618850/920084a3351f139a1618f45ec2070b7fa96b7615/header.jpg?t=1776364372",
-        "Date": "Jul 2, 2026",
-        "AddedDate": "2026-05-06",
-        "AddedTimestamp": 1778100544.6099336,
+        "Date": "Dec 16, 2026",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781161718.0240166,
         "MatchedTags": [
             "strategy",
             "city builder",
@@ -40552,7 +40552,7 @@
     },
     "4625290": {
         "Title": "Incident Archives - Flight 882",
-        "Email": "hello@astronixgames.com, support@astronixgames.com, business@astronixgames.com",
+        "Email": "business@astronixgames.com, support@astronixgames.com, hello@astronixgames.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4625290/",
         "Site": "https://www.astronixgames.com/",
@@ -44445,7 +44445,7 @@
     "4610360": {
         "Title": "Billion Egg Farm",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/x752pUDCJW",
         "URL": "https://store.steampowered.com/app/4610360/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4610360/3fd3459780b2baf484de453ec932bc99185960e3/header.jpg?t=1777394604",
@@ -49923,9 +49923,9 @@
         "URL": "https://store.steampowered.com/app/4541920/",
         "Site": "https://gridlands.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541920/72ce72e581a3d6b8a785f6691b7f8fb5b8456eca/header.jpg?t=1777917460",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-05-04",
-        "AddedTimestamp": 1777924668.4906418,
+        "Date": "2027",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781161672.6106017,
         "MatchedTags": [
             "base building",
             "tactical"
@@ -52112,9 +52112,9 @@
         "URL": "https://store.steampowered.com/app/4668350/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4668350/382042c22e395d0d413f671bdc315bb10c904ba8/header.jpg?t=1778075547",
-        "Date": "To be announced",
-        "AddedDate": "2026-05-06",
-        "AddedTimestamp": 1778079117.2587028,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781161739.8902476,
         "MatchedTags": [
             "resource management",
             "strategy",
@@ -73130,8 +73130,9 @@
         "AddedDate": "2026-06-03",
         "AddedTimestamp": 1780451449.1557062,
         "MatchedTags": [
-            "psychological horror",
-            "survival horror"
+            "horror",
+            "survival horror",
+            "psychological horror"
         ]
     },
     "4789160": {
@@ -81463,6 +81464,217 @@
         "MatchedTags": [
             "psychological horror",
             "horror"
+        ]
+    },
+    "3390720": {
+        "Title": "Yacht Sea: Island Casino",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3390720/",
+        "Site": "http://eternaldeltagames.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390720/a7eed4c5b8e690b895609d42e2c3c22acced3a88/header.jpg?t=1781156111",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781161619.5613573,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4210340": {
+        "Title": "R.A.I.D",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4210340/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210340/449ff16ef171e3e743de6f02bea457a1a4283e03/header.jpg?t=1781142643",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781161633.2629654,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4294100": {
+        "Title": "\u7b80\u5355\u7684\u5c0f\u6e38\u620f",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4294100/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294100/a7508257934e9fec79198332383a091650411268/header.jpg?t=1781142743",
+        "Date": "June 2026",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781161641.8156064,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4644460": {
+        "Title": "We Are Rebellion",
+        "Email": "",
+        "Discord": "https://discord.gg/zv3gKNx8",
+        "URL": "https://store.steampowered.com/app/4644460/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4644460/a6621c446a819fd6c7372594fdfd9c9a026e2c42/header.jpg?t=1781160583",
+        "Date": "TBA",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781161731.5240371,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "real time tactics",
+            "resource management"
+        ]
+    },
+    "4688870": {
+        "Title": "Purrfect Bliss",
+        "Email": "threefrauds.studios@gmail.com",
+        "Discord": "https://discord.com/invite/jGSX7WpvNw",
+        "URL": "https://store.steampowered.com/app/4688870/",
+        "Site": "https://threefrauds.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4688870/732abbb5a2ac677c8886bbb69ad7c69f388dcf53/header.jpg?t=1781159983",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781161755.5221505,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4708470": {
+        "Title": "\u6478\u9c7c\u6e38\u620f\u5408\u96c6Moya Game Pack",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4708470/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708470/7e146912f0be761b132985b9ae6c553263ccadf6/header.jpg?t=1781145258",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781161769.5727787,
+        "MatchedTags": [
+            "turn-based strategy"
+        ]
+    },
+    "4715470": {
+        "Title": "Last Monument",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4715470/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4715470/ff01f060ab5a99d4f94ca1af87783377044ae1bb/header.jpg?t=1781159204",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781161775.3006063,
+        "MatchedTags": [
+            "strategy",
+            "colony sim",
+            "management",
+            "base building"
+        ]
+    },
+    "4741600": {
+        "Title": "\u6700\u4e2d\u5e7b\u60f3 The RIGHT Fantasy  LLM-Driven Text World Engine",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4741600/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4741600/30824df1bc147f5b066f35e0875d8d737607cbff/header.jpg?t=1781147004",
+        "Date": "June 2026",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781161787.5443053,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4783190": {
+        "Title": "Village Coop Clicker",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4783190/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783190/6100359b9b40cbaa179144b01a8b979c99d8e89f/header.jpg?t=1781153870",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781161831.8295069,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "base building",
+            "city builder",
+            "colony sim"
+        ]
+    },
+    "4797970": {
+        "Title": "Qteam Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4797970/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4797970/610664ee997eae10ac733d8d740f38818a8b76b2/header.jpg?t=1781154400",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781161853.0281308,
+        "MatchedTags": [
+            "city builder",
+            "management",
+            "economy"
+        ]
+    },
+    "4799250": {
+        "Title": "The Dark Layer",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4799250/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799250/9103cb38c841dd8d42d1c4cf22ba6ee48f9ab62b/header.jpg?t=1781152443",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781161854.9114492,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4802830": {
+        "Title": "The Mist Train",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4802830/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4802830/08e8536a56648c81fe0c05e36b9e048577b52aa3/header.jpg?t=1781151248",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781161857.0879202,
+        "MatchedTags": [
+            "resource management",
+            "base building"
+        ]
+    },
+    "4818930": {
+        "Title": "The Tartarus Loop",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4818930/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4818930/e736f8986f0d42ecdda8b86d4a9153f7d40ad39d/header.jpg?t=1781159716",
+        "Date": "Jun 26, 2026",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781161881.632646,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4828640": {
+        "Title": "Stopping Move",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4828640/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4828640/0826b49210f82610c15aeff93ca6472e9a6c1115/header.jpg?t=1781152367",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-11",
+        "AddedTimestamp": 1781161905.8324873,
+        "MatchedTags": [
+            "real time tactics",
+            "tactical"
         ]
     }
 }
