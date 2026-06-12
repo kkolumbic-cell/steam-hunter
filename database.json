@@ -59308,7 +59308,9 @@
         "AddedDate": "2026-05-24",
         "AddedTimestamp": 1779597818.252586,
         "MatchedTags": [
-            "strategy"
+            "tower defense",
+            "strategy",
+            "economy"
         ]
     },
     "4677100": {
@@ -79209,9 +79211,9 @@
         "URL": "https://store.steampowered.com/app/4798110/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4798110/5b97e6ba4a50a8a65d1da7d40be3055a7c1efbac/header.jpg?t=1780982715",
-        "Date": "2026",
-        "AddedDate": "2026-06-09",
-        "AddedTimestamp": 1780994731.2729082,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-06-12",
+        "AddedTimestamp": 1781304673.87944,
         "MatchedTags": [
             "economy",
             "resource management",
@@ -84166,6 +84168,119 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4681970": {
+        "Title": "The Naysayer",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4681970/",
+        "Site": "https://byteblast.co/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4681970/645104e580de50ecf2134d55a42a47bd811d0970/header.jpg?t=1781302689",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-12",
+        "AddedTimestamp": 1781304625.6001492,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4753950": {
+        "Title": "Network Engineer",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4753950/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4753950/721a9867a6bae549072a1b33ee453f17b83dcc03/header.jpg?t=1781296288",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-06-12",
+        "AddedTimestamp": 1781304642.87388,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management",
+            "base building",
+            "resource management"
+        ]
+    },
+    "4799470": {
+        "Title": "Last Spell Book",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4799470/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4799470/b2d1441c1f46ddc642ca48880ca7857846266c2f/header.jpg?t=1781296442",
+        "Date": "Jul 1, 2026",
+        "AddedDate": "2026-06-12",
+        "AddedTimestamp": 1781304677.0854447,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4809640": {
+        "Title": "Firewall Maze",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4809640/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4809640/d99c2d4115a1c6783209783a3bda715819079e69/header.jpg?t=1781299037",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-12",
+        "AddedTimestamp": 1781304688.2415032,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "tactical",
+            "turn-based strategy"
+        ]
+    },
+    "4811470": {
+        "Title": "Wealth of Nations: Economic Strategy",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4811470/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4811470/a4e060fa52413a63e4447c6542455e2c799c9258/header.jpg?t=1781302219",
+        "Date": "TBA",
+        "AddedDate": "2026-06-12",
+        "AddedTimestamp": 1781304690.216719,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "economy",
+            "turn-based strategy",
+            "management"
+        ]
+    },
+    "4813190": {
+        "Title": "Camp Whittlewood",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4813190/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4813190/6eaeb83e707c36e2f3c8c90e5b6c04cd00100221/header.jpg?t=1781296434",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-12",
+        "AddedTimestamp": 1781304692.4295504,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4829390": {
+        "Title": "Kick The Wallet",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4829390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4829390/f29a605264fc06f874c58d859feea79681d2b8ae/header.jpg?t=1781298044",
+        "Date": "Oct 30, 2026",
+        "AddedDate": "2026-06-12",
+        "AddedTimestamp": 1781304712.6386268,
+        "MatchedTags": [
+            "strategy",
+            "economy"
         ]
     }
 }
