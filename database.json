@@ -18407,9 +18407,9 @@
         "URL": "https://store.steampowered.com/app/4382980/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4382980/86ecb3acd4e7196225a3d6ac1fba2515a7283099/header.jpg?t=1774917175",
-        "Date": "Jun 25, 2026",
-        "AddedDate": "2026-06-04",
-        "AddedTimestamp": 1780549770.2048233,
+        "Date": "Jul 5, 2026",
+        "AddedDate": "2026-06-12",
+        "AddedTimestamp": 1781228443.7163615,
         "MatchedTags": [
             "strategy"
         ]
@@ -33536,7 +33536,7 @@
         "Email": "",
         "Discord": "https://discord.gg/FT5Hxm6Vjq",
         "URL": "https://store.steampowered.com/app/4571310/",
-        "Site": "",
+        "Site": "https://www.spacedragongames.com/spooker",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4571310/cf026662d46fb1f2d427caf53a63cc5157b9048c/header.jpg?t=1776389501",
         "Date": "Coming soon",
         "AddedDate": "2026-04-17",
@@ -53935,12 +53935,13 @@
         "URL": "https://store.steampowered.com/app/4675590/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4675590/9f1e47249c32ad824c5ef7454b9f1170b39bb2bb/header.jpg?t=1778212975",
-        "Date": "To be announced",
-        "AddedDate": "2026-05-08",
-        "AddedTimestamp": 1778220695.4694934,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-12",
+        "AddedTimestamp": 1781228490.3390582,
         "MatchedTags": [
             "horror",
-            "psychological horror"
+            "psychological horror",
+            "survival horror"
         ]
     },
     "4700000": {
@@ -54542,9 +54543,9 @@
         "URL": "https://store.steampowered.com/app/4687470/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4687470/973206e8bb7db01e2190527d99bc90de380469b4/header.jpg?t=1778292766",
-        "Date": "May 28, 2026",
-        "AddedDate": "2026-05-25",
-        "AddedTimestamp": 1779700142.8992426,
+        "Date": "Jun 11, 2026",
+        "AddedDate": "2026-06-12",
+        "AddedTimestamp": 1781228492.4620101,
         "MatchedTags": [
             "resource management"
         ]
@@ -59610,9 +59611,9 @@
         "URL": "https://store.steampowered.com/app/4733420/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4733420/a973d7782ce559842cfdc19463289035a6086b71/header.jpg?t=1778913759",
-        "Date": "June 2026",
-        "AddedDate": "2026-05-16",
-        "AddedTimestamp": 1778922188.1633284,
+        "Date": "July 2026",
+        "AddedDate": "2026-06-12",
+        "AddedTimestamp": 1781228513.2200086,
         "MatchedTags": [
             "strategy",
             "city builder",
@@ -60519,13 +60520,13 @@
     "4736470": {
         "Title": "Dead Sector",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/SKztn9My2",
         "URL": "https://store.steampowered.com/app/4736470/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4736470/b225922ac905c6ef335b320013daed27975bd655/header.jpg?t=1779195690",
-        "Date": "Sep 1, 2026",
-        "AddedDate": "2026-06-10",
-        "AddedTimestamp": 1781074021.6578023,
+        "Date": "Nov 3, 2026",
+        "AddedDate": "2026-06-12",
+        "AddedTimestamp": 1781228515.615071,
         "MatchedTags": [
             "management",
             "base building",
@@ -62739,9 +62740,9 @@
         "URL": "https://store.steampowered.com/app/3834650/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3834650/f03cd611177307b88310d9aefbf8bc589ac79cd7/header.jpg?t=1779406504",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-05-27",
-        "AddedTimestamp": 1779925177.3456848,
+        "Date": "Jun 11, 2026",
+        "AddedDate": "2026-06-12",
+        "AddedTimestamp": 1781228426.1308155,
         "MatchedTags": [
             "strategy"
         ]
@@ -82651,6 +82652,107 @@
             "strategy",
             "turn-based strategy",
             "turn-based tactics"
+        ]
+    },
+    "4698720": {
+        "Title": "Huntsman Against Darkness",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4698720/",
+        "Site": "https://huntsman-against-darkness.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4698720/0a4dee34d9dc7503db8c7a681854093f37bbd09e/header.jpg?t=1781220403",
+        "Date": "Jun 24, 2026",
+        "AddedDate": "2026-06-12",
+        "AddedTimestamp": 1781228494.7536361,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4706730": {
+        "Title": "Of Caterpillar Dreams",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4706730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4706730/e8b9a3c3f7a0bb8e0412aaf58979c0e6f09ace04/header.jpg?t=1781220189",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-12",
+        "AddedTimestamp": 1781228506.5051317,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4744940": {
+        "Title": "Sir, Please Don't Hit the Machine",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4744940/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4744940/943a331ed5c341a84e001df6447442f3b5fa9cd9/header.jpg?t=1781223255",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-12",
+        "AddedTimestamp": 1781228518.6023464,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4750880": {
+        "Title": "Rat Quest 2: The Quest For Moon Cheese",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4750880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4750880/4fa2fd4b63dc0b30995172311a77540f2bf57ce7/header.jpg?t=1781227742",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-12",
+        "AddedTimestamp": 1781228523.9219666,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4757640": {
+        "Title": "JULPAE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4757640/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4757640/982686772ee7db4a91a4cf45d4adc6d7c65fdc33/header.jpg?t=1781227459",
+        "Date": "June 2026",
+        "AddedDate": "2026-06-12",
+        "AddedTimestamp": 1781228534.0792038,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "tactical"
+        ]
+    },
+    "4818140": {
+        "Title": "Aetherantis Realm of Fates",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4818140/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4818140/733aeb4eb56859e4fa303ee9cf4b43bd94f30dad/header.jpg?t=1781226918",
+        "Date": "TBA",
+        "AddedDate": "2026-06-12",
+        "AddedTimestamp": 1781228576.1486654,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4821680": {
+        "Title": "\u51fa\u9a6cSpirit Rider",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4821680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4821680/4f995061cb7f7780fe9522a70e3dea99921326d3/header.jpg?t=1781226983",
+        "Date": "Jun 24, 2026",
+        "AddedDate": "2026-06-12",
+        "AddedTimestamp": 1781228580.993532,
+        "MatchedTags": [
+            "survival horror"
         ]
     }
 }
