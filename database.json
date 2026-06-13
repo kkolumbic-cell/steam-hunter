@@ -20319,9 +20319,9 @@
         "URL": "https://store.steampowered.com/app/4545290/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4545290/c0cde432c900f98b8a87e9407840d3994c3da0dc/header.jpg?t=1775065583",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775157470.569554,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781383324.233052,
         "MatchedTags": [
             "management"
         ]
@@ -48387,9 +48387,9 @@
         "URL": "https://store.steampowered.com/app/4673710/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4673710/2bf3d6355349c23c175b444c2c856bcc2871a130/header.jpg?t=1777666461",
-        "Date": "2026",
-        "AddedDate": "2026-05-12",
-        "AddedTimestamp": 1778582727.0455832,
+        "Date": "Jul 15, 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781383342.9121823,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -68376,9 +68376,9 @@
         "URL": "https://store.steampowered.com/app/4766570/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4766570/4206f78781bed98e74664cb94e0d168c67751b9b/header.jpg?t=1780024613",
-        "Date": "Jun 12, 2026",
-        "AddedDate": "2026-06-08",
-        "AddedTimestamp": 1780902508.861318,
+        "Date": "Jun 13, 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781383363.7473314,
         "MatchedTags": [
             "psychological horror",
             "horror",
@@ -69170,9 +69170,9 @@
         "URL": "https://store.steampowered.com/app/1888760/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888760/3c6f86af19582081de1e69e699b63edda0c070e9/header.jpg?t=1780085816",
-        "Date": "2026",
-        "AddedDate": "2026-05-29",
-        "AddedTimestamp": 1780092483.6924975,
+        "Date": "Jun 13, 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781383290.0139577,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -84864,6 +84864,57 @@
         "MatchedTags": [
             "economy",
             "resource management"
+        ]
+    },
+    "4811790": {
+        "Title": "Mercy's Edge",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4811790/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4811790/a1478fee19e3f28ec22094ca106bf563d95dc00b/header.jpg?t=1781381671",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781383366.6676905,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat",
+            "turn-based tactics"
+        ]
+    },
+    "4829360": {
+        "Title": "Kinghold",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4829360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4829360/23be3ed59a5b6579a4cdf5e0efb2ff90ff563d75/header.jpg?t=1781379607",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781383376.8202944,
+        "MatchedTags": [
+            "tower defense",
+            "strategy",
+            "base building"
+        ]
+    },
+    "4840020": {
+        "Title": "Vicelock - Tactical Roguelite RPG",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4840020/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4840020/fd61d1c265e1ea60f4c4ced48f890f501cf7e8ed/header.jpg?t=1781380142",
+        "Date": "July 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781383385.1136007,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "resource management",
+            "turn-based strategy",
+            "turn-based combat"
         ]
     }
 }
