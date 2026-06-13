@@ -27033,21 +27033,6 @@
             "strategy"
         ]
     },
-    "4572290": {
-        "Title": "Spicy Content Creator",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4572290/",
-        "Site": "https://devofone.com/",
-        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4572290/dbdf3086afea1f4911e8efaac32470c4aa8f2258/header.jpg?t=1775793984",
-        "Date": "Jul 10, 2026",
-        "AddedDate": "2026-04-10",
-        "AddedTimestamp": 1775801498.0451846,
-        "MatchedTags": [
-            "economy",
-            "resource management"
-        ]
-    },
     "4593030": {
         "Title": "The Last Blue \u2015Youth at the End of World\u2015",
         "Email": "",
@@ -64004,7 +63989,7 @@
     "4757300": {
         "Title": "The Wheelchair Man",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/jRTffcptTU",
         "URL": "https://store.steampowered.com/app/4757300/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4757300/86853e127f2b04cae0ae613b6a67abf70128bd91/header.jpg?t=1779656027",
@@ -69874,9 +69859,9 @@
         "URL": "https://store.steampowered.com/app/4406250/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4406250/a2c4e4035d54969820b6a65a811d26ff422d30c8/header.jpg?t=1780150464",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-30",
-        "AddedTimestamp": 1780152532.2778642,
+        "Date": "Jun 13, 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781345326.5527194,
         "MatchedTags": [
             "strategy",
             "colony sim",
@@ -75819,6 +75804,7 @@
         "AddedDate": "2026-06-05",
         "AddedTimestamp": 1780635218.6963584,
         "MatchedTags": [
+            "resource management",
             "economy"
         ]
     },
@@ -77730,9 +77716,9 @@
         "URL": "https://store.steampowered.com/app/4745080/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4745080/f7fdefdab74ea9384ab4fd91ea5677926d7ea63a/header.jpg?t=1780854647",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-06-07",
-        "AddedTimestamp": 1780857748.6006021,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781345392.4042182,
         "MatchedTags": [
             "strategy"
         ]
@@ -80323,9 +80309,9 @@
         "URL": "https://store.steampowered.com/app/4820270/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4820270/c87e521adacc3fde0ed62bf0165f09655e8821f6/header.jpg?t=1781049123",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-10",
-        "AddedTimestamp": 1781115336.6853902,
+        "Date": "Jul 15, 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781345438.5085495,
         "MatchedTags": [
             "economy",
             "management",
@@ -80816,7 +80802,7 @@
     "4389390": {
         "Title": "Green Gas",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/sBUE9kN9pU",
         "URL": "https://store.steampowered.com/app/4389390/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4389390/cd5bd8c211cb3e69de2000caf1ee975fd5728ab5/header.jpg?t=1781114711",
@@ -84604,6 +84590,83 @@
         "AddedTimestamp": 1781332624.7611256,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4632920": {
+        "Title": "TERPENIE 2",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4632920/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4632920/3fa97768fe09927ff8b9bbe7c891b03e8bedc60a/header.jpg?t=1781338578",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781345356.7996964,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4809420": {
+        "Title": "Road To The White House",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4809420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4809420/c2ebfbc715082c3f06a40ec332b745826e651c29/header.jpg?t=1781344208",
+        "Date": "June 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781345426.9709,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4813500": {
+        "Title": "Funk&Fortune",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4813500/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4813500/9b4e03495d61101f3cd40f9bcdc32f6254450c07/header.jpg?t=1781337292",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781345431.8822827,
+        "MatchedTags": [
+            "strategy",
+            "economy"
+        ]
+    },
+    "4825780": {
+        "Title": "Lightspire: Cards",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4825780/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4825780/7466536a86aa07158b5be72a5ba59363b08aa83e/header.jpg?t=1781342333",
+        "Date": "2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781345449.1197972,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg",
+            "turn-based tactics"
+        ]
+    },
+    "4832170": {
+        "Title": "Cursor Kingdom",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4832170/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4832170/2d17a407c1cd7e811968c14709dbcc4ce16f61e5/header.jpg?t=1781336455",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781345457.1100397,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "economy",
+            "resource management"
         ]
     }
 }
