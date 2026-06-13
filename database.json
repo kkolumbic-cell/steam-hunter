@@ -965,9 +965,9 @@
         "URL": "https://store.steampowered.com/app/4481140/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4481140/962a0dd60126bb0045eba517452f08456a82a844/header.jpg?t=1772669571",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-03-05",
-        "AddedTimestamp": 1772680262.671161,
+        "Date": "Q2 2027",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781314538.2251236,
         "MatchedTags": [
             "strategy",
             "tower defense"
@@ -9823,9 +9823,9 @@
         "URL": "https://store.steampowered.com/app/4210580/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210580/b92a9a6a416073d67cce44596e5c51fa2c24d3ae/header.jpg?t=1773840526",
-        "Date": "2026",
-        "AddedDate": "2026-03-18",
-        "AddedTimestamp": 1773842150.3073297,
+        "Date": "Jul 16, 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781314519.4965158,
         "MatchedTags": [
             "management",
             "economy",
@@ -57911,9 +57911,9 @@
         "URL": "https://store.steampowered.com/app/4720120/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4720120/b07412bc3077b5140ed831df624b824fc048e8ba/header.jpg?t=1778720906",
-        "Date": "June 2026",
-        "AddedDate": "2026-05-14",
-        "AddedTimestamp": 1778734852.6526065,
+        "Date": "July 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781314586.5273457,
         "MatchedTags": [
             "resource management"
         ]
@@ -64724,7 +64724,8 @@
             "horror",
             "survival horror",
             "psychological horror",
-            "resource management"
+            "resource management",
+            "strategy"
         ]
     },
     "4757660": {
@@ -69531,13 +69532,13 @@
     "4731380": {
         "Title": "Circuit Keep",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/XjxRRDsz6W",
         "URL": "https://store.steampowered.com/app/4731380/",
         "Site": "https://circuitkeep.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4731380/b83e879d4e9284dd3c4dd3897782309d8db8ce80/header.jpg?t=1780110494",
-        "Date": "2026",
-        "AddedDate": "2026-05-30",
-        "AddedTimestamp": 1780114911.3993347,
+        "Date": "Nov 23, 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781314594.38918,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -75725,9 +75726,9 @@
         "URL": "https://store.steampowered.com/app/4767250/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4767250/569a9eba42d4a86d9d6fb0c7e350ac0b4b1d4503/header.jpg?t=1780624399",
-        "Date": "Jun 10, 2026",
-        "AddedDate": "2026-06-05",
-        "AddedTimestamp": 1780635121.9315634,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781314607.7562876,
         "MatchedTags": [
             "strategy",
             "horror",
@@ -76483,8 +76484,8 @@
         "AddedTimestamp": 1780690711.339599,
         "MatchedTags": [
             "strategy",
-            "turn-based tactics",
-            "turn-based combat"
+            "turn-based combat",
+            "horror"
         ]
     },
     "4773130": {
@@ -82382,9 +82383,9 @@
         "URL": "https://store.steampowered.com/app/4798180/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4798180/9c8bec2533db53e1601583d3ba0631867b313d7d/header.jpg?t=1781196766",
-        "Date": "June 2026",
-        "AddedDate": "2026-06-12",
-        "AddedTimestamp": 1781247641.036581,
+        "Date": "Jun 13, 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781314624.9343617,
         "MatchedTags": [
             "strategy"
         ]
@@ -83622,9 +83623,9 @@
         "URL": "https://store.steampowered.com/app/4789040/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4789040/11a3b138c2be8b36c1f537341e7410f6244fcdea/header.jpg?t=1781280531",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-12",
-        "AddedTimestamp": 1781286422.2262566,
+        "Date": "Jun 30, 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781314616.440158,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -84281,6 +84282,130 @@
         "MatchedTags": [
             "strategy",
             "economy"
+        ]
+    },
+    "4314050": {
+        "Title": "Soul Scroll",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4314050/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314050/9058618e4d44130676145748c4f08b22e66790f3/header.jpg?t=1781307456",
+        "Date": "Aug 2, 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781314525.8049836,
+        "MatchedTags": [
+            "strategy",
+            "base building"
+        ]
+    },
+    "4681250": {
+        "Title": "Kill Your Friends",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4681250/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4681250/89757a4c0257396c7c443b7148676406edf59f59/header.jpg?t=1781313383",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781314574.3825183,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "4724410": {
+        "Title": "Altus Chess-Archaic Beginnings",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4724410/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4724410/888f8abe4d4af024b3e88178aa2f7ec81b32aeb7/header.jpg?t=1781312665",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781314589.1716654,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy"
+        ]
+    },
+    "4772070": {
+        "Title": "Mitrys Battles",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4772070/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4772070/eb94aa797a39a7e8b89bb66c874d67fb8f3df01a/header.jpg?t=1781308566",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781314609.6089785,
+        "MatchedTags": [
+            "tactical rpg",
+            "turn-based tactics",
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat",
+            "tactical"
+        ]
+    },
+    "4810410": {
+        "Title": "Monstah",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4810410/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4810410/dabef8dca5558b1f08eceb065b7b85896c6b68a3/header.jpg?t=1781312288",
+        "Date": "Jul 9, 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781314636.238951,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "4823420": {
+        "Title": "Leon&Suharto",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4823420/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4823420/cc3b9acad6c7a992e82a34ee2b70c4d45e273309/header.jpg?t=1781307911",
+        "Date": "August 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781314649.958544,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4835800": {
+        "Title": "StyxVenture",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4835800/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4835800/1380d49edc10ecb987cd1b47f28558de6bc3c5cb/header.jpg?t=1781309369",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781314658.5235767,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4837990": {
+        "Title": "\u4e5d\u5dde\u4ed9\u4fa0\u5f55 - Chronicles Of Jiuzhou",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4837990/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4837990/1dd6e167904a4516207852441aa4e867b561c2b5/header.jpg?t=1781308387",
+        "Date": "Jun 23, 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781314660.501583,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
         ]
     }
 }
