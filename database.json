@@ -67628,9 +67628,9 @@
         "URL": "https://store.steampowered.com/app/4672520/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4672520/30cd90ed9e019e4c4bc98f222f89f3561e9e2e8b/header.jpg?t=1779991495",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-28",
-        "AddedTimestamp": 1779997672.3271246,
+        "Date": "June 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781376372.6400115,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -84773,6 +84773,97 @@
         "MatchedTags": [
             "strategy",
             "tactical"
+        ]
+    },
+    "3744400": {
+        "Title": "Unearthed",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3744400/",
+        "Site": "https://unearthed.se",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3744400/4da9e36efb058119ed8aecb944c3980d36bbeb30/header.jpg?t=1781369550",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781376330.7393765,
+        "MatchedTags": [
+            "strategy",
+            "base building"
+        ]
+    },
+    "4614160": {
+        "Title": "Space Cat Digger",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4614160/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4614160/5144d1d6c58f4a3fe75ed9d0e09694eb4b8957ae/header.jpg?t=1781372668",
+        "Date": "2027",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781376361.380521,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4702040": {
+        "Title": "Dear President",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4702040/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4702040/4129c2fe8a94cbebc9e5471c58bf8e687695fc46/header.jpg?t=1781373232",
+        "Date": "Nov 23, 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781376380.7410316,
+        "MatchedTags": [
+            "economy",
+            "strategy",
+            "management"
+        ]
+    },
+    "4726300": {
+        "Title": "BloodJack",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4726300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4726300/554ed58f725511b3dcbeec557dc93ba8c4918cbb/header.jpg?t=1781373655",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781376393.1114051,
+        "MatchedTags": [
+            "horror",
+            "turn-based tactics",
+            "strategy"
+        ]
+    },
+    "4808730": {
+        "Title": "Gone: The Agent",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4808730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4808730/8b5cce25e11db5807a3573610edb01da4bec8f1c/header.jpg?t=1781375725",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781376423.8844328,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4832060": {
+        "Title": "The Cathedral",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4832060/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4832060/71fd3abde3fb43f7f06e08a22d5c40ab50311b98/header.jpg?t=1781369941",
+        "Date": "Jul 6, 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781376439.0131447,
+        "MatchedTags": [
+            "economy",
+            "resource management"
         ]
     }
 }
