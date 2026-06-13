@@ -5103,9 +5103,9 @@
         "URL": "https://store.steampowered.com/app/4501080/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501080/63bb7b525f2818948b50718e0644dadcfbfd9383/header.jpg?t=1773167172",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-22",
-        "AddedTimestamp": 1776867113.5704134,
+        "Date": "Oct 30, 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781352261.3948884,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -53131,9 +53131,9 @@
         "URL": "https://store.steampowered.com/app/4685380/",
         "Site": "https://adamastor.games",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685380/3aacea9c24ed106cc2381029b162cdc83d24b0aa/header.jpg?t=1778152121",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-07",
-        "AddedTimestamp": 1778159150.8240716,
+        "Date": "Jun 9, 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781352295.8463576,
         "MatchedTags": [
             "turn-based tactics",
             "strategy",
@@ -65273,9 +65273,9 @@
         "URL": "https://store.steampowered.com/app/4729250/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729250/51f1d5e1dcc368ad1e0e7db4f43c6580dc518b8d/header.jpg?t=1779806173",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-26",
-        "AddedTimestamp": 1779814909.8903491,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781352302.621431,
         "MatchedTags": [
             "strategy",
             "management"
@@ -69750,9 +69750,9 @@
         "URL": "https://store.steampowered.com/app/4772360/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4772360/0df4fefeb69c06e05db7754a2d164cddc2771ce9/header.jpg?t=1780123689",
-        "Date": "July 2026",
-        "AddedDate": "2026-05-30",
-        "AddedTimestamp": 1780128026.4691157,
+        "Date": "Jul 31, 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781352319.029276,
         "MatchedTags": [
             "resource management"
         ]
@@ -81359,9 +81359,9 @@
         "URL": "https://store.steampowered.com/app/4823350/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4823350/341ae951c2321504c797c3216010ce17bd753e60/header.jpg?t=1781126239",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-10",
-        "AddedTimestamp": 1781132431.935326,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781352346.0475533,
         "MatchedTags": [
             "management"
         ]
@@ -84667,6 +84667,56 @@
             "management",
             "economy",
             "resource management"
+        ]
+    },
+    "4574700": {
+        "Title": "Zeitnot",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4574700/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4574700/0b525227215b786c587b7b3cca9e9a3c6dcce638/header.jpg?t=1781349849",
+        "Date": "Sep 1, 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781352283.4427218,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "turn-based combat",
+            "tactical"
+        ]
+    },
+    "4794110": {
+        "Title": "Anomalous Veil",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4794110/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4794110/c77ecf85c936a747950546303f2636795de1e175/header.jpg?t=1781347292",
+        "Date": "October 2026",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781352327.525507,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4824250": {
+        "Title": "Merc Commander",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4824250/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4824250/3ae4486117cfd0c4f670d384b4e042c56f52b4e7/header.jpg?t=1781350484",
+        "Date": "2027",
+        "AddedDate": "2026-06-13",
+        "AddedTimestamp": 1781352349.2378092,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tactical rpg",
+            "tactical"
         ]
     }
 }
