@@ -11843,9 +11843,10 @@
         "AddedDate": "2026-03-21",
         "AddedTimestamp": 1774111680.7246895,
         "MatchedTags": [
-            "turn-based tactics",
+            "strategy",
             "turn-based strategy",
-            "strategy"
+            "turn-based tactics",
+            "tactical"
         ]
     },
     "4274990": {
@@ -27740,9 +27741,9 @@
         "URL": "https://store.steampowered.com/app/4581040/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4581040/76bddb9a9209b29aa88f817340881fe34bd5c8bc/header.jpg?t=1775842929",
-        "Date": "Jul 10, 2026",
-        "AddedDate": "2026-05-26",
-        "AddedTimestamp": 1779770209.4937358,
+        "Date": "Jun 19, 2026",
+        "AddedDate": "2026-06-14",
+        "AddedTimestamp": 1781473370.068751,
         "MatchedTags": [
             "strategy",
             "survival horror"
@@ -69828,9 +69829,9 @@
         "URL": "https://store.steampowered.com/app/4782100/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4782100/084e676975d2ad39a94b26068054a9ddf428a7b0/header.jpg?t=1780138356",
-        "Date": "2027",
-        "AddedDate": "2026-06-01",
-        "AddedTimestamp": 1780316258.0597084,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-14",
+        "AddedTimestamp": 1781473429.246123,
         "MatchedTags": [
             "tactical rpg",
             "tactical",
@@ -72574,9 +72575,9 @@
         "URL": "https://store.steampowered.com/app/4774270/",
         "Site": "https://nomorevalid.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4774270/e46bf0ef76f87489b5965fcbc31d5c43b61aa1c3/header.jpg?t=1780409866",
-        "Date": "Jun 15, 2026",
-        "AddedDate": "2026-06-02",
-        "AddedTimestamp": 1780419807.155613,
+        "Date": "Jun 14, 2026",
+        "AddedDate": "2026-06-14",
+        "AddedTimestamp": 1781473426.772797,
         "MatchedTags": [
             "strategy"
         ]
@@ -78461,7 +78462,6 @@
         "MatchedTags": [
             "strategy",
             "tactical",
-            "base building",
             "management"
         ]
     },
@@ -85225,6 +85225,24 @@
             "turn-based strategy",
             "strategy",
             "turn-based combat"
+        ]
+    },
+    "4683860": {
+        "Title": "Calmaria: Wild Growth",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4683860/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4683860/420466a345355ae3dcd7b31ccca24fe0d7dad1b8/header.jpg?t=1781469590",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-14",
+        "AddedTimestamp": 1781473409.301149,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "economy",
+            "management",
+            "base building"
         ]
     }
 }
