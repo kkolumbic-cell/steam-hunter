@@ -1480,6 +1480,7 @@
         "AddedTimestamp": 1772723304.9863493,
         "MatchedTags": [
             "strategy",
+            "economy",
             "management"
         ]
     },
@@ -24597,8 +24598,8 @@
         "AddedDate": "2026-04-15",
         "AddedTimestamp": 1776251922.5736368,
         "MatchedTags": [
-            "psychological horror",
-            "horror"
+            "horror",
+            "psychological horror"
         ]
     },
     "4556580": {
@@ -35138,7 +35139,7 @@
     },
     "4496260": {
         "Title": "Data Trader",
-        "Email": "",
+        "Email": "support@kineticsparks.games, press@kineticsparks.games, business@kineticsparks.games",
         "Discord": "https://discord.gg/9ev5HFCBmx",
         "URL": "https://store.steampowered.com/app/4496260/",
         "Site": "https://www.kineticsparks.games/",
@@ -35147,10 +35148,10 @@
         "AddedDate": "2026-04-19",
         "AddedTimestamp": 1776592978.488639,
         "MatchedTags": [
-            "tactical rpg",
             "strategy",
             "management",
-            "resource management"
+            "economy",
+            "grand strategy"
         ]
     },
     "4636640": {
@@ -69035,9 +69036,9 @@
         "URL": "https://store.steampowered.com/app/4699770/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4699770/19338f4b89cccff352ce033d92d58576ebd44ce7/header.jpg?t=1780077112",
-        "Date": "October 2026",
+        "Date": "2026",
         "AddedDate": "2026-06-14",
-        "AddedTimestamp": 1781442376.6655896,
+        "AddedTimestamp": 1781459549.2047982,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -73762,9 +73763,9 @@
         "URL": "https://store.steampowered.com/app/4724760/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4724760/ad93119377b35afaa0047f83fd2d82751a562812/header.jpg?t=1780503605",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-03",
-        "AddedTimestamp": 1780507723.3388648,
+        "Date": "Jun 30, 2026",
+        "AddedDate": "2026-06-14",
+        "AddedTimestamp": 1781459557.7781708,
         "MatchedTags": [
             "strategy"
         ]
@@ -75770,9 +75771,9 @@
         "URL": "https://store.steampowered.com/app/4794570/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4794570/acb995ad11878673436e72dca09ae939cf970abd/header.jpg?t=1780622102",
-        "Date": "To be announced",
-        "AddedDate": "2026-06-05",
-        "AddedTimestamp": 1780635212.9190483,
+        "Date": "July 2026",
+        "AddedDate": "2026-06-14",
+        "AddedTimestamp": 1781459579.129295,
         "MatchedTags": [
             "resource management"
         ]
@@ -84910,11 +84911,13 @@
         "URL": "https://store.steampowered.com/app/4371840/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4371840/07608586f944ddeffecb86748ad18a295ece8f98/header.jpg?t=1781419369",
-        "Date": "TBA",
+        "Date": "To be announced",
         "AddedDate": "2026-06-14",
-        "AddedTimestamp": 1781420290.714207,
+        "AddedTimestamp": 1781459413.0466685,
         "MatchedTags": [
-            "strategy"
+            "turn-based tactics",
+            "strategy",
+            "turn-based combat"
         ]
     },
     "4839450": {
@@ -85083,6 +85086,35 @@
         "AddedTimestamp": 1781450471.7573917,
         "MatchedTags": [
             "base building"
+        ]
+    },
+    "2515760": {
+        "Title": "KRAPHIS : DRILLER",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2515760/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515760/8dd3ce1ca9ea81aa55300639d0e36d6ec54ec33b/header.jpg?t=1781451564",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-14",
+        "AddedTimestamp": 1781459386.4983516,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4671600": {
+        "Title": "Devour The Kingdom",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4671600/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4671600/233dc6856af9f98bf94a24faa12158bb76deb674/header.jpg?t=1781458943",
+        "Date": "2026",
+        "AddedDate": "2026-06-14",
+        "AddedTimestamp": 1781459529.6174066,
+        "MatchedTags": [
+            "management",
+            "resource management"
         ]
     }
 }
