@@ -38386,7 +38386,8 @@
             "strategy",
             "tactical",
             "turn-based tactics",
-            "turn-based combat"
+            "turn-based combat",
+            "tactical rpg"
         ]
     },
     "4586670": {
@@ -49655,8 +49656,9 @@
         "AddedDate": "2026-05-26",
         "AddedTimestamp": 1779770204.7121727,
         "MatchedTags": [
-            "strategy",
-            "turn-based combat"
+            "turn-based tactics",
+            "turn-based combat",
+            "strategy"
         ]
     },
     "4588930": {
@@ -66130,9 +66132,9 @@
         "URL": "https://store.steampowered.com/app/4727680/",
         "Site": "http://aoline.jp/web/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727680/769eb84cc4182118316ef577b1ef4a1c884592c9/header.jpg?t=1779886688",
-        "Date": "June 2026",
-        "AddedDate": "2026-05-27",
-        "AddedTimestamp": 1779900851.9498916,
+        "Date": "July 2026",
+        "AddedDate": "2026-06-14",
+        "AddedTimestamp": 1781420373.1266642,
         "MatchedTags": [
             "turn-based tactics",
             "tactical rpg",
@@ -75587,9 +75589,9 @@
         "URL": "https://store.steampowered.com/app/4708640/",
         "Site": "https://www.underrise.studio/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708640/9549785c8c731de676e83146484ba0a447fc47a6/header.jpg?t=1780612856",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-04",
-        "AddedTimestamp": 1780616397.30493,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-06-14",
+        "AddedTimestamp": 1781420366.8435433,
         "MatchedTags": [
             "strategy"
         ]
@@ -79911,9 +79913,9 @@
         "URL": "https://store.steampowered.com/app/4817150/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4817150/0a40868f50674e9714830a584872414c2fc3151f/header.jpg?t=1781028081",
-        "Date": "To be announced",
-        "AddedDate": "2026-06-09",
-        "AddedTimestamp": 1781029709.995651,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-14",
+        "AddedTimestamp": 1781420430.526751,
         "MatchedTags": [
             "strategy",
             "management",
@@ -82350,9 +82352,9 @@
         "URL": "https://store.steampowered.com/app/4798180/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4798180/9c8bec2533db53e1601583d3ba0631867b313d7d/header.jpg?t=1781196766",
-        "Date": "Jun 13, 2026",
-        "AddedDate": "2026-06-13",
-        "AddedTimestamp": 1781314624.9343617,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-14",
+        "AddedTimestamp": 1781420408.0148854,
         "MatchedTags": [
             "strategy"
         ]
@@ -84898,6 +84900,35 @@
         "MatchedTags": [
             "horror",
             "survival horror"
+        ]
+    },
+    "4371840": {
+        "Title": "Chaosborne",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4371840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4371840/07608586f944ddeffecb86748ad18a295ece8f98/header.jpg?t=1781419369",
+        "Date": "TBA",
+        "AddedDate": "2026-06-14",
+        "AddedTimestamp": 1781420290.714207,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4839450": {
+        "Title": "Scelerophobia",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4839450/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4839450/1bfbea6c9a2113069832a30c8a81d57f2b15ed38/header.jpg?t=1781417920",
+        "Date": "June 2026",
+        "AddedDate": "2026-06-14",
+        "AddedTimestamp": 1781420451.833284,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
