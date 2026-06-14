@@ -27212,9 +27212,9 @@
         "URL": "https://store.steampowered.com/app/4566360/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4566360/cbd43fac9252726d8d689404107cb4cfcafa0e68/header.jpg?t=1775810418",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-10",
-        "AddedTimestamp": 1775814049.8150623,
+        "Date": "Jun 14, 2026",
+        "AddedDate": "2026-06-14",
+        "AddedTimestamp": 1781450382.0225494,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -63254,9 +63254,9 @@
     "4132330": {
         "Title": "Pizza House Simulator\ud83c\udf55",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/pbF7wmDYsE?proof=8878cb0d17bd9cc5",
         "URL": "https://store.steampowered.com/app/4132330/",
-        "Site": "",
+        "Site": "https://wendigo.games/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132330/71733c34e244ee9ce2a41aea7b064e2afee4d6f3/header.jpg?t=1779478668",
         "Date": "Coming soon",
         "AddedDate": "2026-06-11",
@@ -85007,6 +85007,82 @@
         "AddedTimestamp": 1781442398.126961,
         "MatchedTags": [
             "psychological horror"
+        ]
+    },
+    "4600350": {
+        "Title": "Minerrr",
+        "Email": "",
+        "Discord": "https://discord.gg/SMQJB6YaGe",
+        "URL": "https://store.steampowered.com/app/4600350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4600350/a07351394a2a5cd6911a8f39c55f46b23b95e6b2/header.jpg?t=1781449036",
+        "Date": "Jul 15, 2026",
+        "AddedDate": "2026-06-14",
+        "AddedTimestamp": 1781450401.2403045,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4643400": {
+        "Title": "Floppy Desk",
+        "Email": "",
+        "Discord": "https://discord.gg/gUJb4FCd5y?proof=d11e3a8ac17a7074",
+        "URL": "https://store.steampowered.com/app/4643400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4643400/765a0fdfdfcd7f0ccca1f8a365a4bbd504ecd3ab/header.jpg?t=1781448161",
+        "Date": "July 2026",
+        "AddedDate": "2026-06-14",
+        "AddedTimestamp": 1781450416.5074172,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4802000": {
+        "Title": "Orbsmith",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4802000/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4802000/2bf4220995b4e86d267a197ae0bec0ce26ee9e02/header.jpg?t=1781443127",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-14",
+        "AddedTimestamp": 1781450457.5002801,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4819240": {
+        "Title": "Wreckwake Endless Sea",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4819240/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4819240/b576d05fb54abeb08e330489608ebdb996f7ed60/header.jpg?t=1781449363",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-06-14",
+        "AddedTimestamp": 1781450468.442866,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "resource management"
+        ]
+    },
+    "4820940": {
+        "Title": "Natura: Reborn",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4820940/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4820940/db225a7252d27339b467a55ecd268d80bfaf6aad/header.jpg?t=1781449051",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-14",
+        "AddedTimestamp": 1781450471.7573917,
+        "MatchedTags": [
+            "base building"
         ]
     }
 }
