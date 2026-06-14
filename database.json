@@ -9716,8 +9716,7 @@
         "AddedDate": "2026-03-18",
         "AddedTimestamp": 1773828802.7570074,
         "MatchedTags": [
-            "strategy",
-            "turn-based combat"
+            "strategy"
         ]
     },
     "4465400": {
@@ -10337,6 +10336,7 @@
         "AddedTimestamp": 1773877487.3100069,
         "MatchedTags": [
             "tower defense",
+            "tactical",
             "base building"
         ]
     },
@@ -13788,7 +13788,8 @@
         "AddedTimestamp": 1774417190.278929,
         "MatchedTags": [
             "economy",
-            "resource management"
+            "resource management",
+            "psychological horror"
         ]
     },
     "4379390": {
@@ -14248,12 +14249,11 @@
         "MatchedTags": [
             "strategy",
             "tower defense",
-            "base building",
-            "real time tactics",
             "resource management",
-            "economy",
             "management",
-            "city builder"
+            "city builder",
+            "colony sim",
+            "base building"
         ]
     },
     "4436560": {
@@ -34911,9 +34911,9 @@
         "URL": "https://store.steampowered.com/app/4621410/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4621410/a0643a3f71fd0f46d0093197879e3052c57e8a20/header.jpg?t=1776530125",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-18",
-        "AddedTimestamp": 1776531608.2083142,
+        "Date": "June 2026",
+        "AddedDate": "2026-06-14",
+        "AddedTimestamp": 1781433250.003024,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -37968,9 +37968,9 @@
         "URL": "https://store.steampowered.com/app/4524440/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4524440/0758dd50499f513c9201a2ee51bf3ee831d4da2d/header.jpg?t=1776864633",
-        "Date": "Jun 30, 2026",
-        "AddedDate": "2026-04-22",
-        "AddedTimestamp": 1776867127.6161747,
+        "Date": "To be announced",
+        "AddedDate": "2026-06-14",
+        "AddedTimestamp": 1781433217.518489,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -38013,9 +38013,9 @@
         "URL": "https://store.steampowered.com/app/4619930/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4619930/d54e0526bfba071b184a2ff1c0b8f713f3812edd/header.jpg?t=1776860131",
-        "Date": "Jun 30, 2026",
-        "AddedDate": "2026-04-22",
-        "AddedTimestamp": 1776867184.504964,
+        "Date": "October 2026",
+        "AddedDate": "2026-06-14",
+        "AddedTimestamp": 1781433244.1925929,
         "MatchedTags": [
             "strategy"
         ]
@@ -40351,7 +40351,7 @@
     "4458960": {
         "Title": "Kings of Antikva",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/mwAmCFYr",
         "URL": "https://store.steampowered.com/app/4458960/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4458960/461154ab9808947145647458a5e49a0669df8d12/header.jpg?t=1777017935",
@@ -58706,7 +58706,8 @@
         "AddedTimestamp": 1778800406.0948355,
         "MatchedTags": [
             "horror",
-            "survival horror"
+            "survival horror",
+            "psychological horror"
         ]
     },
     "4531680": {
@@ -69581,9 +69582,9 @@
         "URL": "https://store.steampowered.com/app/4785050/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4785050/e5ca983e265537135632cc95726d64c99b799b59/header.jpg?t=1780099292",
-        "Date": "Jun 15, 2026",
-        "AddedDate": "2026-06-02",
-        "AddedTimestamp": 1780383873.2986598,
+        "Date": "Jun 14, 2026",
+        "AddedDate": "2026-06-14",
+        "AddedTimestamp": 1781433305.6352122,
         "MatchedTags": [
             "strategy",
             "grand strategy",
@@ -76830,7 +76831,7 @@
     "4809560": {
         "Title": "Auto Empire Tycoon",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/TUaxSfZ2P",
         "URL": "https://store.steampowered.com/app/4809560/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4809560/e9db582e9b18c975128a0fa6af4f8572f23d3fe8/header.jpg?t=1780725717",
@@ -81117,9 +81118,9 @@
         "URL": "https://store.steampowered.com/app/4828940/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4828940/2c2484e365b72b335ceaecdae905021a96d39f25/header.jpg?t=1781105842",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-10",
-        "AddedTimestamp": 1781115358.5706754,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-14",
+        "AddedTimestamp": 1781433331.398726,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -84929,6 +84930,39 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4698270": {
+        "Title": "Arms Dealer",
+        "Email": "office@darkproduct.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4698270/",
+        "Site": "https://www.darkproduct.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4698270/5c7115fb10f079f702202f3caa66dd07918c7b92/header.jpg?t=1781431059",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-14",
+        "AddedTimestamp": 1781433273.9106119,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "resource management",
+            "management",
+            "grand strategy"
+        ]
+    },
+    "4840980": {
+        "Title": "Bound to Rot",
+        "Email": "",
+        "Discord": "https://discord.com/invite/s2rgHuctdc",
+        "URL": "https://store.steampowered.com/app/4840980/",
+        "Site": "https://mangasmango.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4840980/2755324ea58e30e1f10933f78dfcb21ebce09168/header.jpg?t=1781428938",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-14",
+        "AddedTimestamp": 1781433342.306526,
+        "MatchedTags": [
+            "tactical",
+            "horror"
         ]
     }
 }
