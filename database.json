@@ -1952,7 +1952,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4465600/",
-        "Site": "",
+        "Site": "https://bowlingalleysim.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4465600/6059134d665574b616124a69ee620fc5206f7376/header.jpg?t=1772743291",
         "Date": "June 2026",
         "AddedDate": "2026-04-28",
@@ -5872,8 +5872,7 @@
         "AddedDate": "2026-03-13",
         "AddedTimestamp": 1773431354.702439,
         "MatchedTags": [
-            "survival horror",
-            "horror"
+            "survival horror"
         ]
     },
     "4492420": {
@@ -24200,9 +24199,9 @@
         "URL": "https://store.steampowered.com/app/4579750/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579750/f90b9ed070f1bd831acf579b2c54c227b40ea9ec/header.jpg?t=1775583339",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-07",
-        "AddedTimestamp": 1775590475.015007,
+        "Date": "Jun 15, 2026",
+        "AddedDate": "2026-06-16",
+        "AddedTimestamp": 1781568267.6590133,
         "MatchedTags": [
             "strategy"
         ]
@@ -42854,7 +42853,7 @@
     "3874040": {
         "Title": "Star Trek: Warp",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/tkWqmyVfp6",
         "URL": "https://store.steampowered.com/app/3874040/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3874040/5be3558d8d71176bf948bdc2c5855cd49911dd00/header.jpg?t=1777315284",
@@ -42967,7 +42966,8 @@
         "AddedTimestamp": 1778502387.4469543,
         "MatchedTags": [
             "strategy",
-            "turn-based tactics"
+            "turn-based tactics",
+            "turn-based strategy"
         ]
     },
     "4645330": {
@@ -48762,9 +48762,9 @@
         "URL": "https://store.steampowered.com/app/3570680/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3570680/54554971195e57a5ef3e4bc298b693986ecc1525/header.jpg?t=1777712813",
-        "Date": "May 2026",
-        "AddedDate": "2026-05-02",
-        "AddedTimestamp": 1777716682.4328752,
+        "Date": "October 2026",
+        "AddedDate": "2026-06-16",
+        "AddedTimestamp": 1781568202.8509157,
         "MatchedTags": [
             "management",
             "resource management"
@@ -60656,10 +60656,10 @@
     },
     "4730290": {
         "Title": "Dark Workshop Simulator",
-        "Email": "",
+        "Email": "antonk@galdrcode.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4730290/",
-        "Site": "",
+        "Site": "https://galdrcode.com/products/dark-workshop-simulator",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4730290/4d631806096d298395930be576cb3606deb38b5c/header.jpg?t=1779218275",
         "Date": "Coming soon",
         "AddedDate": "2026-05-19",
@@ -74713,7 +74713,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4785000/",
-        "Site": "",
+        "Site": "https://exiledthunder.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4785000/8514da8f46a4a308e767928670a96073027a3ce8/header.jpg?t=1780556407",
         "Date": "Coming soon",
         "AddedDate": "2026-06-04",
@@ -78323,8 +78323,7 @@
         "AddedDate": "2026-06-12",
         "AddedTimestamp": 1781274018.65324,
         "MatchedTags": [
-            "resource management",
-            "strategy"
+            "resource management"
         ]
     },
     "4779480": {
@@ -78868,9 +78867,9 @@
         "URL": "https://store.steampowered.com/app/4717680/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4717680/6ccec98ac181eb8c519ba7f69c1e095a3877dddd/header.jpg?t=1780956269",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-08",
-        "AddedTimestamp": 1780961961.6644175,
+        "Date": "Jul 10, 2026",
+        "AddedDate": "2026-06-16",
+        "AddedTimestamp": 1781568314.4063056,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -84863,9 +84862,9 @@
         "URL": "https://store.steampowered.com/app/4840020/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4840020/fd61d1c265e1ea60f4c4ced48f890f501cf7e8ed/header.jpg?t=1781380142",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-13",
-        "AddedTimestamp": 1781383385.1136007,
+        "Date": "November 2026",
+        "AddedDate": "2026-06-16",
+        "AddedTimestamp": 1781568383.6872256,
         "MatchedTags": [
             "turn-based tactics",
             "strategy",
@@ -86260,6 +86259,116 @@
         "AddedTimestamp": 1781559102.2041955,
         "MatchedTags": [
             "resource management"
+        ]
+    },
+    "4524510": {
+        "Title": "Signal Drift",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4524510/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4524510/be026bf1a749495df6cb661bea158563e48af196/header.jpg?t=1781561857",
+        "Date": "June 2026",
+        "AddedDate": "2026-06-16",
+        "AddedTimestamp": 1781568241.9955904,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4644730": {
+        "Title": "Singularity Echoes",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4644730/",
+        "Site": "https://nullaxiom.games",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4644730/b59fd60a97b1eb44b9d9f7ad5029df66ac2d183d/header.jpg?t=1781560648",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-16",
+        "AddedTimestamp": 1781568296.8785253,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "economy",
+            "management"
+        ]
+    },
+    "4726800": {
+        "Title": "Earth\u2019s Last Defense Idle Fleet",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4726800/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4726800/b69c5aa85668c11d26ea6640ed545bcd59766cee/header.jpg?t=1781566338",
+        "Date": "Aug 3, 2026",
+        "AddedDate": "2026-06-16",
+        "AddedTimestamp": 1781568319.2095466,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "real time tactics"
+        ]
+    },
+    "4792300": {
+        "Title": "A Blind Step",
+        "Email": "",
+        "Discord": "https://discord.gg/s8nrQHWh",
+        "URL": "https://store.steampowered.com/app/4792300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4792300/9c81f120ee4643cf057090c89b710c1fb72c7ad6/header.jpg?t=1781558946",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-06-16",
+        "AddedTimestamp": 1781568351.9068656,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4826750": {
+        "Title": "Siegelock",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4826750/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4826750/73848682a85aa00cfec80ee08115a021cf049e8f/header.jpg?t=1781559290",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-16",
+        "AddedTimestamp": 1781568364.6915984,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4832200": {
+        "Title": "SU8WAY",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4832200/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4832200/98d2203e988ae9c119c4de144d1b6a31c9d11785/header.jpg?t=1781560869",
+        "Date": "June 2026",
+        "AddedDate": "2026-06-16",
+        "AddedTimestamp": 1781568376.6131084,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4832210": {
+        "Title": "Domefender",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4832210/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4832210/b0688160aaed4ccfbc6a4bcb7915651a7cf57006/header.jpg?t=1781562477",
+        "Date": "Jun 29, 2026",
+        "AddedDate": "2026-06-16",
+        "AddedTimestamp": 1781568379.1809032,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "tower defense",
+            "economy",
+            "management",
+            "base building"
         ]
     }
 }
