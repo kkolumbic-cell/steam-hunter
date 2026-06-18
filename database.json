@@ -4845,7 +4845,6 @@
         "AddedDate": "2026-05-22",
         "AddedTimestamp": 1779463542.2981763,
         "MatchedTags": [
-            "horror",
             "resource management"
         ]
     },
@@ -11837,7 +11836,7 @@
     "4307400": {
         "Title": "Boca Raton",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/JaUdatCSTK",
         "URL": "https://store.steampowered.com/app/4307400/",
         "Site": "https://backhansgames.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4307400/2c02fcbda25061ad528fa7e82708e27a2dab88c4/header.jpg?t=1774110107",
@@ -13894,8 +13893,8 @@
         "AddedTimestamp": 1774423200.0405085,
         "MatchedTags": [
             "horror",
-            "psychological horror",
-            "survival horror"
+            "survival horror",
+            "psychological horror"
         ]
     },
     "4535470": {
@@ -30162,9 +30161,9 @@
         "URL": "https://store.steampowered.com/app/4542800/",
         "Site": "https://problemedge.vercel.app/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4542800/8376224a3d23950fc2439c53fe0ff48af914f949/header.jpg?t=1776164434",
-        "Date": "July 2026",
-        "AddedDate": "2026-05-15",
-        "AddedTimestamp": 1778855881.9020004,
+        "Date": "Jul 9, 2026",
+        "AddedDate": "2026-06-18",
+        "AddedTimestamp": 1781790348.1513975,
         "MatchedTags": [
             "strategy"
         ]
@@ -55428,7 +55427,7 @@
     "4449030": {
         "Title": "File Tower Defence",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/GzbdceTbws",
         "URL": "https://store.steampowered.com/app/4449030/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4449030/e7dd162fb3a46879e2e887025af59e84e013fa65/header.jpg?t=1778521125",
@@ -67940,9 +67939,9 @@
         "URL": "https://store.steampowered.com/app/4704490/",
         "Site": "https://www.nousgamesdev.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4704490/126699771f59f620b3c382670e1271dcd83423bc/header.jpg?t=1780007979",
-        "Date": "June 2026",
-        "AddedDate": "2026-06-09",
-        "AddedTimestamp": 1781021953.069366,
+        "Date": "Jun 18, 2026",
+        "AddedDate": "2026-06-18",
+        "AddedTimestamp": 1781790404.1058416,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -73564,9 +73563,9 @@
         "URL": "https://store.steampowered.com/app/2951480/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2951480/89bc6507243fa0770292aba78086009e22c7d286/header.jpg?t=1780504807",
-        "Date": "TBA",
-        "AddedDate": "2026-06-03",
-        "AddedTimestamp": 1780507333.5355568,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-18",
+        "AddedTimestamp": 1781790249.2556996,
         "MatchedTags": [
             "real time tactics"
         ]
@@ -73622,9 +73621,9 @@
         "URL": "https://store.steampowered.com/app/4622250/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4622250/accfdc01922b9e7888c77e3b06343369081428bd/header.jpg?t=1780505694",
-        "Date": "Jun 17, 2026",
-        "AddedDate": "2026-06-05",
-        "AddedTimestamp": 1780662151.1659403,
+        "Date": "Jun 18, 2026",
+        "AddedDate": "2026-06-18",
+        "AddedTimestamp": 1781790383.559012,
         "MatchedTags": [
             "city builder",
             "base building",
@@ -75181,9 +75180,9 @@
         "URL": "https://store.steampowered.com/app/4778350/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778350/36853ce34e01d3338efaeae2443d9de301f7d9ea/header.jpg?t=1780582178",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-04",
-        "AddedTimestamp": 1780590961.1160352,
+        "Date": "Jun 18, 2026",
+        "AddedDate": "2026-06-18",
+        "AddedTimestamp": 1781790436.6724248,
         "MatchedTags": [
             "survival horror"
         ]
@@ -75195,9 +75194,9 @@
         "URL": "https://store.steampowered.com/app/4788710/",
         "Site": "https://bunkersurfer.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4788710/11982d30b3276ac620d2c1d53c5f388f45801b8d/header.jpg?t=1780584529",
-        "Date": "June 2026",
-        "AddedDate": "2026-06-08",
-        "AddedTimestamp": 1780936534.6654258,
+        "Date": "Jun 18, 2026",
+        "AddedDate": "2026-06-18",
+        "AddedTimestamp": 1781790453.513582,
         "MatchedTags": [
             "survival horror",
             "horror"
@@ -83042,11 +83041,11 @@
         "AddedDate": "2026-06-12",
         "AddedTimestamp": 1781262753.8850205,
         "MatchedTags": [
-            "real time tactics",
             "strategy",
-            "base building",
             "colony sim",
-            "management"
+            "management",
+            "real time tactics",
+            "base building"
         ]
     },
     "4667900": {
@@ -84795,9 +84794,9 @@
         "URL": "https://store.steampowered.com/app/4832060/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4832060/71fd3abde3fb43f7f06e08a22d5c40ab50311b98/header.jpg?t=1781369941",
-        "Date": "Jul 6, 2026",
-        "AddedDate": "2026-06-13",
-        "AddedTimestamp": 1781376439.0131447,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-18",
+        "AddedTimestamp": 1781790475.6802392,
         "MatchedTags": [
             "economy",
             "resource management"
@@ -88897,9 +88896,9 @@
         "URL": "https://store.steampowered.com/app/4858990/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4858990/bb2bacb92d70e8348031f6fcdc5a24019725bb05/header.jpg?t=1781749887",
-        "Date": "Coming soon",
+        "Date": "Jun 30, 2026",
         "AddedDate": "2026-06-18",
-        "AddedTimestamp": 1781759336.85437,
+        "AddedTimestamp": 1781790498.2320626,
         "MatchedTags": [
             "tactical"
         ]
@@ -89034,6 +89033,87 @@
         "AddedTimestamp": 1781776341.5220559,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "3296770": {
+        "Title": "HAECHE_Ism",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3296770/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3296770/2e621b1a1453006192c211b6878e0d0ac6908be4/header.jpg?t=1781788130",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-18",
+        "AddedTimestamp": 1781790254.8718538,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4452460": {
+        "Title": "Calling in the Shadows",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4452460/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4452460/b5456a4a63b310221b496a0f2493bfda22ba52b5/header.jpg?t=1781788006",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-18",
+        "AddedTimestamp": 1781790318.537791,
+        "MatchedTags": [
+            "survival horror"
+        ]
+    },
+    "4745810": {
+        "Title": "When Wolf Fades",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4745810/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4745810/6a8b751fd83dcd9166de06099e1785880489cd3d/header.jpg?t=1781783857",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-18",
+        "AddedTimestamp": 1781790415.4854114,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4778170": {
+        "Title": "The Fallen Vanguard",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4778170/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4778170/5afabbdb1b6d7e3e92440c3d33c0b1236be402ce/header.jpg?t=1781787975",
+        "Date": "TBA",
+        "AddedDate": "2026-06-18",
+        "AddedTimestamp": 1781790434.5200324,
+        "MatchedTags": [
+            "survival horror"
+        ]
+    },
+    "4780460": {
+        "Title": "The Exchange Manager",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4780460/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4780460/f1f67d92642210c4669e382d81e65368079cad4e/header.jpg?t=1781787359",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-18",
+        "AddedTimestamp": 1781790447.645036,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "real time tactics",
+            "tactical",
+            "grand strategy",
+            "resource management",
+            "tactical rpg"
         ]
     }
 }
