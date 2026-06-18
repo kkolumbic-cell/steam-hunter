@@ -51403,7 +51403,7 @@
         "Email": "",
         "Discord": "https://discord.com/invite/BJXPNrZFEA",
         "URL": "https://store.steampowered.com/app/4512580/",
-        "Site": "",
+        "Site": "https://impress.games/press-kit/artbohr/the-fire-must-be-fed",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4512580/9147f48881c0e19c57ab22f7d16590307d36f774/header.jpg?t=1778013567",
         "Date": "Coming soon",
         "AddedDate": "2026-05-05",
@@ -89449,9 +89449,9 @@
         "URL": "https://store.steampowered.com/app/4806210/",
         "Site": "https://iqopolistech.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4806210/94ef77249930b89631e25983b22f7a909b25a75c/header.jpg?t=1781805585",
-        "Date": "Jun 30, 2026",
+        "Date": "Coming soon",
         "AddedDate": "2026-06-18",
-        "AddedTimestamp": 1781815341.7712457,
+        "AddedTimestamp": 1781824237.9658453,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -89513,9 +89513,9 @@
         "URL": "https://store.steampowered.com/app/4840340/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4840340/4bcfd7ff042ae65e71d411273b97bdf78c238732/header.jpg?t=1781812711",
-        "Date": "Coming soon",
+        "Date": "July 2026",
         "AddedDate": "2026-06-18",
-        "AddedTimestamp": 1781815378.906224,
+        "AddedTimestamp": 1781824272.3892422,
         "MatchedTags": [
             "tactical"
         ]
@@ -89614,6 +89614,142 @@
         "AddedTimestamp": 1781815430.4610255,
         "MatchedTags": [
             "tactical"
+        ]
+    },
+    "3546250": {
+        "Title": "Moonlit Terror",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3546250/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3546250/eab9098b4437e7644649d45182bbf11d3c8c8b68/header.jpg?t=1781816688",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-18",
+        "AddedTimestamp": 1781824149.6238341,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4363160": {
+        "Title": "Snake.io",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4363160/",
+        "Site": "https://kooapps.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4363160/779b8950cdc76bb959e51fd4c915d9987f15ec97/header.jpg?t=1781822147",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-18",
+        "AddedTimestamp": 1781824165.7360644,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4530210": {
+        "Title": "Take That Hill",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4530210/",
+        "Site": "https://www.huntedcow.com/hexwar",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4530210/5ab998c6d2a6d8bc09befdf22f043b40783d899d/header.jpg?t=1781819469",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-06-18",
+        "AddedTimestamp": 1781824192.5676396,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "turn-based tactics"
+        ]
+    },
+    "4641830": {
+        "Title": "Merchant of the Seven Isles",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4641830/",
+        "Site": "http://www.ancientmoai.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4641830/984d56ce9a3e0e18cdcd090635102deed971932d/header.jpg?t=1781818213",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-18",
+        "AddedTimestamp": 1781824198.2492757,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4690110": {
+        "Title": "Galactum Meridian",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4690110/",
+        "Site": "https://www.galactummeridian.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4690110/65fd779c5353e5bea1507c69ba69e0f6c7b33fae/header.jpg?t=1781820349",
+        "Date": "2026",
+        "AddedDate": "2026-06-18",
+        "AddedTimestamp": 1781824214.1303258,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "management"
+        ]
+    },
+    "4790730": {
+        "Title": "Faith | God's Lost Will",
+        "Email": "",
+        "Discord": "https://discord.gg/8jyEPpTCaG",
+        "URL": "https://store.steampowered.com/app/4790730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4790730/c4f584567415b2848b5dad8dc3026eb16d5789ae/header.jpg?t=1781818796",
+        "Date": "Jun 19, 2026",
+        "AddedDate": "2026-06-18",
+        "AddedTimestamp": 1781824233.7814295,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4809710": {
+        "Title": "Paystreak",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4809710/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4809710/7bd28bfca979e067497eec374a0c95e320b0aea9/header.jpg?t=1781818938",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-18",
+        "AddedTimestamp": 1781824242.5297441,
+        "MatchedTags": [
+            "management",
+            "strategy",
+            "economy",
+            "resource management",
+            "colony sim"
+        ]
+    },
+    "4825370": {
+        "Title": "LowRanger",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4825370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4825370/d8a994c094c7fae2db0a3cb768170067cc0b31d2/header.jpg?t=1781820721",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-18",
+        "AddedTimestamp": 1781824252.6166887,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4832680": {
+        "Title": "Janob Station | \u0645\u062d\u0637\u0629 \u0627\u0644\u062c\u0646\u0648\u0628",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4832680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4832680/a391791d07dd3f0eb72f2769bf6783dfeda33568/header.jpg?t=1781823080",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-18",
+        "AddedTimestamp": 1781824267.244905,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
