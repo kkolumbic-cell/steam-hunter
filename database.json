@@ -37396,9 +37396,9 @@
         "URL": "https://store.steampowered.com/app/4630710/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4630710/7f1ebe33225aa9558f2f8420888b7b3e0753093a/header.jpg?t=1776800530",
-        "Date": "October 2026",
-        "AddedDate": "2026-06-14",
-        "AddedTimestamp": 1781467271.5614605,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-19",
+        "AddedTimestamp": 1781905036.9837482,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -59907,9 +59907,9 @@
         "URL": "https://store.steampowered.com/app/4227010/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4227010/ae59f6bcb751555f995ae4e330a9987472645a46/header.jpg?t=1779058576",
-        "Date": "Jun 18, 2026",
-        "AddedDate": "2026-05-17",
-        "AddedTimestamp": 1779059599.5135489,
+        "Date": "Jun 19, 2026",
+        "AddedDate": "2026-06-19",
+        "AddedTimestamp": 1781904985.2744453,
         "MatchedTags": [
             "strategy",
             "tactical"
@@ -82313,9 +82313,9 @@
         "URL": "https://store.steampowered.com/app/4806220/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4806220/9277e5e5137f56b7d746e0e5115c22f55634da98/header.jpg?t=1781205810",
-        "Date": "August 2026",
-        "AddedDate": "2026-06-11",
-        "AddedTimestamp": 1781207432.1216998,
+        "Date": "Aug 2, 2026",
+        "AddedDate": "2026-06-19",
+        "AddedTimestamp": 1781905062.946499,
         "MatchedTags": [
             "economy",
             "management",
@@ -89351,7 +89351,7 @@
     "4615580": {
         "Title": "OVERCHESS",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/x75U8UbX",
         "URL": "https://store.steampowered.com/app/4615580/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4615580/f209954be57061f102410679ff09a11a8737f7a9/header.jpg?t=1781809922",
@@ -90373,9 +90373,9 @@
         "URL": "https://store.steampowered.com/app/4841700/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841700/280d14f7fe1373b1f98fef4099280ae0fe74d0de/header.jpg?t=1781880517",
-        "Date": "2026",
+        "Date": "August 2026",
         "AddedDate": "2026-06-19",
-        "AddedTimestamp": 1781886077.5013766,
+        "AddedTimestamp": 1781905079.6742322,
         "MatchedTags": [
             "strategy",
             "economy",
@@ -90837,6 +90837,69 @@
             "strategy",
             "turn-based strategy",
             "turn-based tactics"
+        ]
+    },
+    "4349470": {
+        "Title": "KADI: Ottoman Judge",
+        "Email": "",
+        "Discord": "https://discord.gg/RbzPpCNSp8",
+        "URL": "https://store.steampowered.com/app/4349470/",
+        "Site": "https://shiftgame.net",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4349470/9d0dc69528c7113471b4ee728cd9ba7a8124457d/header.jpg?t=1781901113",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-19",
+        "AddedTimestamp": 1781904987.6713398,
+        "MatchedTags": [
+            "strategy",
+            "economy"
+        ]
+    },
+    "4749900": {
+        "Title": "StellarForge",
+        "Email": "",
+        "Discord": "https://discord.gg/X7k9Pryrv",
+        "URL": "https://store.steampowered.com/app/4749900/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4749900/d4183c544c8b157f820522381140cd3a5b9212a5/header.jpg?t=1781902758",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-19",
+        "AddedTimestamp": 1781905055.5445685,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "colony sim",
+            "base building"
+        ]
+    },
+    "4834640": {
+        "Title": "Stickplosion",
+        "Email": "",
+        "Discord": "https://discord.gg/7YXVWG9jq8",
+        "URL": "https://store.steampowered.com/app/4834640/",
+        "Site": "https://stickplosion.ghostworldgaming.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4834640/891b94a289170c3534d360defafde49e2b0ab200/header.jpg?t=1781902110",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-19",
+        "AddedTimestamp": 1781905074.8693445,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4847880": {
+        "Title": "Lucifaria",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4847880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4847880/fcdcf10d4e76d84ad5bd59356d10327d62fdf798/header.jpg?t=1781902850",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-06-19",
+        "AddedTimestamp": 1781905082.3274446,
+        "MatchedTags": [
+            "horror",
+            "turn-based combat",
+            "turn-based tactics",
+            "turn-based strategy"
         ]
     }
 }
