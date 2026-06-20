@@ -20132,9 +20132,10 @@
         "AddedDate": "2026-04-01",
         "AddedTimestamp": 1775058297.7254777,
         "MatchedTags": [
-            "strategy",
             "resource management",
-            "management"
+            "strategy",
+            "management",
+            "economy"
         ]
     },
     "4519100": {
@@ -45722,9 +45723,9 @@
         "URL": "https://store.steampowered.com/app/4664170/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4664170/d931e9fa851f6502f3d10da0cc7cf46a7eebb214/header.jpg?t=1777485394",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-31",
-        "AddedTimestamp": 1780251525.2786205,
+        "Date": "Jun 22, 2026",
+        "AddedDate": "2026-06-20",
+        "AddedTimestamp": 1781954832.1376793,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -67599,9 +67600,9 @@
         "URL": "https://store.steampowered.com/app/4672520/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4672520/30cd90ed9e019e4c4bc98f222f89f3561e9e2e8b/header.jpg?t=1779991495",
-        "Date": "June 2026",
-        "AddedDate": "2026-06-13",
-        "AddedTimestamp": 1781376372.6400115,
+        "Date": "Jun 25, 2026",
+        "AddedDate": "2026-06-20",
+        "AddedTimestamp": 1781954847.851996,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -75659,9 +75660,9 @@
         "URL": "https://store.steampowered.com/app/4767250/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4767250/569a9eba42d4a86d9d6fb0c7e350ac0b4b1d4503/header.jpg?t=1780624399",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-13",
-        "AddedTimestamp": 1781314607.7562876,
+        "Date": "Jun 20, 2026",
+        "AddedDate": "2026-06-20",
+        "AddedTimestamp": 1781954883.6369383,
         "MatchedTags": [
             "strategy",
             "horror",
@@ -80598,7 +80599,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4795660/",
-        "Site": "",
+        "Site": "https://w.glitch.fun/lp/prison-chain-:the-unredeemed-thought/prison-chain-the-unredeemed-thought/auto",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4795660/71d11bb395aac7cfab270fe382735a3b6c80d029/header.jpg?t=1781085318",
         "Date": "October 2026",
         "AddedDate": "2026-06-10",
@@ -80649,7 +80650,8 @@
         "AddedDate": "2026-06-10",
         "AddedTimestamp": 1781101881.9498975,
         "MatchedTags": [
-            "strategy"
+            "strategy",
+            "turn-based combat"
         ]
     },
     "4622120": {
@@ -87908,9 +87910,9 @@
     "4842120": {
         "Title": "Deadclaim",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/XDy7tHvchV",
         "URL": "https://store.steampowered.com/app/4842120/",
-        "Site": "",
+        "Site": "https://thedeadclaim.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4842120/6bb6abe19c8a811b110903c6b66aa7dc250ef6c6/header.jpg?t=1781666500",
         "Date": "2026",
         "AddedDate": "2026-06-17",
@@ -90720,9 +90722,9 @@
         "URL": "https://store.steampowered.com/app/4813570/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4813570/57e949d8d59ecdc15ebace342bfdf519f4582646/header.jpg?t=1781896554",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-19",
-        "AddedTimestamp": 1781899613.8510199,
+        "Date": "July 2026",
+        "AddedDate": "2026-06-20",
+        "AddedTimestamp": 1781954903.3017058,
         "MatchedTags": [
             "strategy",
             "economy",
@@ -91100,6 +91102,20 @@
         "MatchedTags": [
             "psychological horror",
             "horror"
+        ]
+    },
+    "4856850": {
+        "Title": "A\u00e9ro: speedrun labyrinthe",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4856850/",
+        "Site": "https://www.aeroedition.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4856850/cecdbda465561c4d12bb2000cf9e858b0e5a6ce5/header.jpg?t=1781947816",
+        "Date": "July 2026",
+        "AddedDate": "2026-06-20",
+        "AddedTimestamp": 1781954942.7324371,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
