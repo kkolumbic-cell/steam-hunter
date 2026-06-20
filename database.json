@@ -36317,9 +36317,9 @@
         "URL": "https://store.steampowered.com/app/4637330/",
         "Site": "http://gsjq.appultra.cn/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4637330/70aa7a272feb9f3cab123b654668efdca4d713a3/header.jpg?t=1776741567",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-22",
-        "AddedTimestamp": 1776886904.0142403,
+        "Date": "Jun 19, 2026",
+        "AddedDate": "2026-06-20",
+        "AddedTimestamp": 1781930581.0003126,
         "MatchedTags": [
             "economy",
             "strategy",
@@ -50339,8 +50339,9 @@
         "AddedDate": "2026-05-25",
         "AddedTimestamp": 1779684937.9143746,
         "MatchedTags": [
-            "city builder",
             "base building",
+            "resource management",
+            "city builder",
             "strategy"
         ]
     },
@@ -72212,9 +72213,9 @@
         "URL": "https://store.steampowered.com/app/4724900/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4724900/12d33a6c2e818c116cf0d932580d42c5d85c8620/header.jpg?t=1780395195",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-02",
-        "AddedTimestamp": 1780400843.252325,
+        "Date": "Jun 19, 2026",
+        "AddedDate": "2026-06-20",
+        "AddedTimestamp": 1781930617.8964148,
         "MatchedTags": [
             "city builder"
         ]
@@ -90929,6 +90930,114 @@
         "AddedTimestamp": 1781911050.3662138,
         "MatchedTags": [
             "survival horror"
+        ]
+    },
+    "3151060": {
+        "Title": "Stellacore Defense",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3151060/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3151060/f4a9ca349c808482dc066c007f9641d6656c341f/header.jpg?t=1781923753",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-20",
+        "AddedTimestamp": 1781930532.52203,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical"
+        ]
+    },
+    "4257640": {
+        "Title": "Quiz Show Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4257640/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4257640/847f432d0e193c872eb3a406718c21ad29efbfce/header.jpg?t=1781916320",
+        "Date": "2026",
+        "AddedDate": "2026-06-20",
+        "AddedTimestamp": 1781930544.708253,
+        "MatchedTags": [
+            "management",
+            "economy"
+        ]
+    },
+    "4634510": {
+        "Title": "Close The Straits!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4634510/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4634510/1880713843716d76c192e8e4f92aea2c08bce598/header.jpg?t=1781921246",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-20",
+        "AddedTimestamp": 1781930579.215341,
+        "MatchedTags": [
+            "tower defense"
+        ]
+    },
+    "4781760": {
+        "Title": "BONA VS. Vocabulary",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4781760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4781760/74d5d890fc5552ff4e3ce6d2ef517c3c0485ed1e/header.jpg?t=1781922065",
+        "Date": "August 2026",
+        "AddedDate": "2026-06-20",
+        "AddedTimestamp": 1781930634.4379318,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "real time tactics",
+            "turn-based combat",
+            "turn-based tactics"
+        ]
+    },
+    "4811840": {
+        "Title": "Whispering Green",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4811840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4811840/0251c59d8338dcf250f5a79f17ae8406b66f9efb/header.jpg?t=1781917761",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-20",
+        "AddedTimestamp": 1781930650.4522595,
+        "MatchedTags": [
+            "economy",
+            "management"
+        ]
+    },
+    "4861480": {
+        "Title": "Umbral Adventures",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4861480/",
+        "Site": "https://umbraladventures.net",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4861480/50d0b9068d2d9e0506bd7ef94a0c3a53f2a78feb/header.jpg?t=1781917959",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-20",
+        "AddedTimestamp": 1781930677.1060429,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4866850": {
+        "Title": "Ultra Cleaner Corp.",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4866850/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4866850/162c877110201e063411924782e5c5051580c8f4/header.jpg?t=1781928834",
+        "Date": "2027",
+        "AddedDate": "2026-06-20",
+        "AddedTimestamp": 1781930687.6257687,
+        "MatchedTags": [
+            "psychological horror"
         ]
     }
 }
