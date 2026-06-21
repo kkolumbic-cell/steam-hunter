@@ -24358,8 +24358,7 @@
         "AddedDate": "2026-04-07",
         "AddedTimestamp": 1775606120.8781424,
         "MatchedTags": [
-            "survival horror",
-            "psychological horror"
+            "survival horror"
         ]
     },
     "4405800": {
@@ -82639,13 +82638,13 @@
     "4818140": {
         "Title": "Aetherantis Realm of Fates",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/F8upU78C8r",
         "URL": "https://store.steampowered.com/app/4818140/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4818140/733aeb4eb56859e4fa303ee9cf4b43bd94f30dad/header.jpg?t=1781226918",
-        "Date": "TBA",
-        "AddedDate": "2026-06-12",
-        "AddedTimestamp": 1781228576.1486654,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782025971.0512009,
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
@@ -85352,9 +85351,9 @@
         "URL": "https://store.steampowered.com/app/4597500/",
         "Site": "https://www.gencointeractive.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4597500/cec01e53ce6d49a84a52f9669ddac9d7e84a8487/header.jpg?t=1781522522",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-15",
-        "AddedTimestamp": 1781527702.2377582,
+        "Date": "Jul 17, 2026",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782025908.2006528,
         "MatchedTags": [
             "strategy",
             "management",
@@ -91254,6 +91253,86 @@
             "strategy",
             "resource management",
             "economy"
+        ]
+    },
+    "4762540": {
+        "Title": "Cow Heard",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4762540/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4762540/aa4b6a35ebbc9ff3be1a59e521ab96f98fcbe457/header.jpg?t=1782012088",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782025948.6938767,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4808490": {
+        "Title": "Pixel Extraction",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4808490/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4808490/236ad8926ba9f6fa4f94396306873cb982572b15/header.jpg?t=1782012393",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782025966.2414374,
+        "MatchedTags": [
+            "tactical",
+            "management",
+            "economy"
+        ]
+    },
+    "4848760": {
+        "Title": "The Greatest Sect Master",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4848760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4848760/627d274723fc56a002180b2b616e5909006220db/header.jpg?t=1782012270",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782025988.0280457,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg",
+            "turn-based tactics",
+            "management",
+            "turn-based combat"
+        ]
+    },
+    "4852900": {
+        "Title": "Word Scramble",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4852900/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4852900/2e9a1f4292094e81132bc734548f05117a61b219/header.jpg?t=1782014062",
+        "Date": "July 2026",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782025990.7650018,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4864450": {
+        "Title": "\u03a0\u039f\u039b\u0399\u03a3 \u2014 Athens",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4864450/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4864450/c9191003435c442b714b6a0d8683f80f9edbcffb/header.jpg?t=1782025931",
+        "Date": "Oct 20, 2026",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782025995.329351,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "resource management",
+            "economy",
+            "city builder"
         ]
     }
 }
