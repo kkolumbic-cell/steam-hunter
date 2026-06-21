@@ -31585,7 +31585,7 @@
     "4617230": {
         "Title": "Retail Rivals",
         "Email": "contact@dream-studios.net",
-        "Discord": "",
+        "Discord": "https://discord.gg/kxJ8ch3g5J",
         "URL": "https://store.steampowered.com/app/4617230/",
         "Site": "https://dream-studios.net/games/RetailRivals",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4617230/d30c10f51f3b0207eeb91583a6634c6e35c2bc68/header.jpg?t=1776266918",
@@ -48858,9 +48858,9 @@
         "URL": "https://store.steampowered.com/app/4428430/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4428430/7c216a888ca6010a491df48f7500c01432022518/header.jpg?t=1777751626",
-        "Date": "2026",
-        "AddedDate": "2026-05-02",
-        "AddedTimestamp": 1777755699.7781067,
+        "Date": "Jul 14, 2026",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782072275.2117517,
         "MatchedTags": [
             "strategy",
             "economy",
@@ -56317,9 +56317,9 @@
         "URL": "https://store.steampowered.com/app/3940470/",
         "Site": "https://killsec.net",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3940470/138a181efc327b9e1d84869e25fe166342448b6b/header.jpg?t=1778605901",
-        "Date": "To be announced",
-        "AddedDate": "2026-05-12",
-        "AddedTimestamp": 1778613194.892186,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782072269.707413,
         "MatchedTags": [
             "tactical"
         ]
@@ -78871,9 +78871,9 @@
         "AddedDate": "2026-06-09",
         "AddedTimestamp": 1780979842.7921267,
         "MatchedTags": [
-            "horror",
             "psychological horror",
-            "survival horror"
+            "survival horror",
+            "horror"
         ]
     },
     "4665640": {
@@ -87138,7 +87138,7 @@
     "4836510": {
         "Title": "CryptoGrid",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/MZ5S6NF3aE",
         "URL": "https://store.steampowered.com/app/4836510/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4836510/f5b2d60ca1e76540333d3da57188c6f14a292a32/header.jpg?t=1781629851",
@@ -91415,6 +91415,41 @@
         "AddedTimestamp": 1782064532.7022943,
         "MatchedTags": [
             "management"
+        ]
+    },
+    "2476430": {
+        "Title": "Grimoire Limbo",
+        "Email": "",
+        "Discord": "https://discord.gg/zzfawaAPxg",
+        "URL": "https://store.steampowered.com/app/2476430/",
+        "Site": "https://infiniteloom.games/games/grimoire-limbo",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2476430/b6920b00ca3d48bc280345d32cf0969705f28e93/header.jpg?t=1782071001",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782072262.1996932,
+        "MatchedTags": [
+            "turn-based combat",
+            "psychological horror",
+            "horror",
+            "tactical"
+        ]
+    },
+    "4457410": {
+        "Title": "Crisis Capital",
+        "Email": "info@plummultimedia.nl",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4457410/",
+        "Site": "https://www.plummultimedia.nl/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4457410/86319e57c2d8037ca603e06bd764260c61ef476b/header.jpg?t=1782071487",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782072278.1373615,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "economy",
+            "management",
+            "turn-based tactics"
         ]
     }
 }
