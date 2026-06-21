@@ -3127,7 +3127,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/3936340/",
-        "Site": "",
+        "Site": "https://impress.games/press-kit/mondbekker/hell-wait",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3936340/a429813374132309ee2a54bfd32c99ad5d1a2d68/header.jpg?t=1772829804",
         "Date": "2026",
         "AddedDate": "2026-03-06",
@@ -86389,9 +86389,9 @@
         "URL": "https://store.steampowered.com/app/4761900/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4761900/43e5c9d9c77b34d7c73f6ff1df88fcb1c94026d5/header.jpg?t=1781582735",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-17",
-        "AddedTimestamp": 1781731532.3917384,
+        "Date": "Jul 29, 2026",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782085592.5880744,
         "MatchedTags": [
             "tactical"
         ]
@@ -89703,7 +89703,7 @@
     "4809710": {
         "Title": "Paystreak",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/DsYJGngzV9",
         "URL": "https://store.steampowered.com/app/4809710/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4809710/7bd28bfca979e067497eec374a0c95e320b0aea9/header.jpg?t=1781818938",
@@ -91450,6 +91450,20 @@
             "economy",
             "management",
             "turn-based tactics"
+        ]
+    },
+    "4842640": {
+        "Title": "Subsector Zero",
+        "Email": "",
+        "Discord": "https://discord.gg/gpN3tEpZr6",
+        "URL": "https://store.steampowered.com/app/4842640/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4842640/2c7e820a6af518208db64efd042f235fbf67a844/header.jpg?t=1782079534",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782085613.3219614,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
