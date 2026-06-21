@@ -9779,8 +9779,8 @@
         "AddedDate": "2026-03-18",
         "AddedTimestamp": 1773842141.1517487,
         "MatchedTags": [
-            "strategy",
-            "tactical rpg"
+            "tactical rpg",
+            "strategy"
         ]
     },
     "3979590": {
@@ -22886,7 +22886,7 @@
     "4546490": {
         "Title": "Arkansas 2125",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/7bv49Ur8W2",
         "URL": "https://store.steampowered.com/app/4546490/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4546490/3eb7ca2ab7b77b9eda66988622e0eaf71fbdfdc9/header.jpg?t=1775407937",
@@ -45870,7 +45870,9 @@
         "AddedTimestamp": 1777500761.674546,
         "MatchedTags": [
             "strategy",
-            "horror"
+            "horror",
+            "psychological horror",
+            "survival horror"
         ]
     },
     "4050290": {
@@ -55776,9 +55778,9 @@
         "URL": "https://store.steampowered.com/app/4682910/",
         "Site": "https://playhideorseek.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4682910/c5cfe05b73fe100d3faf048e19f91897ae57f9c4/header.jpg?t=1778556566",
-        "Date": "September 2026",
-        "AddedDate": "2026-05-12",
-        "AddedTimestamp": 1778559049.456869,
+        "Date": "2026",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782038988.6302605,
         "MatchedTags": [
             "horror"
         ]
@@ -58214,7 +58216,10 @@
         "AddedDate": "2026-06-18",
         "AddedTimestamp": 1781759188.9971404,
         "MatchedTags": [
-            "strategy"
+            "strategy",
+            "grand strategy",
+            "management",
+            "resource management"
         ]
     },
     "4450300": {
@@ -77453,9 +77458,9 @@
         "URL": "https://store.steampowered.com/app/4813820/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4813820/41c15bbdb862faf36d8c74a1c17ae8dd36906013/header.jpg?t=1780830270",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-07",
-        "AddedTimestamp": 1780833876.973584,
+        "Date": "Jun 21, 2026",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782039017.1869428,
         "MatchedTags": [
             "strategy",
             "economy",
@@ -79538,7 +79543,7 @@
     "4818130": {
         "Title": "#BA771E",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/rQAJv5kUPQ",
         "URL": "https://store.steampowered.com/app/4818130/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4818130/cc1a4a006a3d8b24196a5a2cfcad2d01dea8a430/header.jpg?t=1781017865",
@@ -83044,7 +83049,8 @@
         "AddedTimestamp": 1781712589.6576066,
         "MatchedTags": [
             "horror",
-            "psychological horror"
+            "psychological horror",
+            "survival horror"
         ]
     },
     "4671860": {
@@ -85210,7 +85216,7 @@
         "Email": "",
         "Discord": "https://discord.gg/94u9FCpA96",
         "URL": "https://store.steampowered.com/app/4425150/",
-        "Site": "",
+        "Site": "https://rawgrab.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4425150/598baaef464bc82a3ec93acb80b2a43b25414378/header.jpg?t=1781496922",
         "Date": "To be announced",
         "AddedDate": "2026-06-15",
@@ -91324,15 +91330,48 @@
         "URL": "https://store.steampowered.com/app/4864450/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4864450/c9191003435c442b714b6a0d8683f80f9edbcffb/header.jpg?t=1782025931",
-        "Date": "Oct 20, 2026",
+        "Date": "Jul 9, 2026",
         "AddedDate": "2026-06-21",
-        "AddedTimestamp": 1782025995.329351,
+        "AddedTimestamp": 1782039056.222287,
         "MatchedTags": [
             "strategy",
             "grand strategy",
             "resource management",
             "economy",
             "city builder"
+        ]
+    },
+    "4852780": {
+        "Title": "Ravengate: The King\u2019s Last March",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4852780/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4852780/3ccde59cd4176d03e1611f0d63e0b40b4ef2d6af/header.jpg?t=1782026116",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782039045.779016,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "tactical"
+        ]
+    },
+    "4855560": {
+        "Title": "Kingdom Chronicle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4855560/",
+        "Site": "https://atelier-ksg.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855560/ab53aef506b6bc83449cf0dcdfd4b92e7f51c99b/header.jpg?t=1782031975",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782039048.802589,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical"
         ]
     }
 }
