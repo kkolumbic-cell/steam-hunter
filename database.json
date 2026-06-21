@@ -3741,9 +3741,9 @@
         "URL": "https://store.steampowered.com/app/4169530/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4169530/b7aef96680cf351ffcf63dbd00658124f151ddc4/header.jpg?t=1772962833",
-        "Date": "Q1 2026",
-        "AddedDate": "2026-03-08",
-        "AddedTimestamp": 1772963152.4794981,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782058355.192965,
         "MatchedTags": [
             "strategy"
         ]
@@ -57401,9 +57401,9 @@
         "URL": "https://store.steampowered.com/app/4726970/",
         "Site": "https://arzolath.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4726970/977b5389b8df1f2bd83d910f0f978363dcbbf108/header.jpg?t=1778683491",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-13",
-        "AddedTimestamp": 1778690337.6733856,
+        "Date": "Jul 15, 2026",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782058403.4819834,
         "MatchedTags": [
             "management"
         ]
@@ -65328,10 +65328,10 @@
     },
     "4746610": {
         "Title": "The Disclosure Loop",
-        "Email": "",
+        "Email": "info@ioniancore.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4746610/",
-        "Site": "",
+        "Site": "https://ioniancore.com/games/the-disclosure-loop/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4746610/29fbb14a21b0028801e27e06ecb56ca1792641d8/header.jpg?t=1779792678",
         "Date": "Jun 10, 2026",
         "AddedDate": "2026-05-26",
@@ -87276,9 +87276,9 @@
         "URL": "https://store.steampowered.com/app/4552390/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4552390/4836844c9be92c0bddb8d431d2cfebd9ecae133a/header.jpg?t=1781644781",
-        "Date": "Aug 3, 2026",
-        "AddedDate": "2026-06-16",
-        "AddedTimestamp": 1781644926.294829,
+        "Date": "Jun 30, 2026",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782058360.1363537,
         "MatchedTags": [
             "strategy"
         ]
@@ -89693,9 +89693,9 @@
         "URL": "https://store.steampowered.com/app/4790730/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4790730/c4f584567415b2848b5dad8dc3026eb16d5789ae/header.jpg?t=1781818796",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-19",
-        "AddedTimestamp": 1781899589.6939461,
+        "Date": "Aug 3, 2026",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782058432.701066,
         "MatchedTags": [
             "resource management"
         ]
@@ -90525,9 +90525,9 @@
         "URL": "https://store.steampowered.com/app/4841030/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841030/4c97d1a6cee6814a86bb0ca6c1f55f76534396ad/header.jpg?t=1781891301",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-19",
-        "AddedTimestamp": 1781892795.4733908,
+        "Date": "Jul 14, 2026",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782058461.5768461,
         "MatchedTags": [
             "horror"
         ]
@@ -91386,6 +91386,21 @@
         "AddedTimestamp": 1782047952.4014106,
         "MatchedTags": [
             "resource management"
+        ]
+    },
+    "4835280": {
+        "Title": "\u91cd\u6784\u4eba\u751f Project Refactor",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4835280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4835280/f511fb0e9852b53ae09eb7969dfc99396c227c97/header.jpg?t=1782057785",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782058456.4176333,
+        "MatchedTags": [
+            "resource management",
+            "strategy"
         ]
     }
 }
