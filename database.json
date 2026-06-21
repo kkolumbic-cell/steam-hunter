@@ -77902,9 +77902,9 @@
         "URL": "https://store.steampowered.com/app/4796990/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4796990/5e08dca3a2378d679f5c8e177dd26e4e2850029c/header.jpg?t=1780860984",
-        "Date": "Jun 22, 2026",
-        "AddedDate": "2026-06-08",
-        "AddedTimestamp": 1780882647.9536607,
+        "Date": "Jun 21, 2026",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782064578.889153,
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
@@ -82787,9 +82787,9 @@
         "URL": "https://store.steampowered.com/app/4779190/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4779190/4d1c7cefa790788d65b0d5218051abe5c24ab743/header.jpg?t=1781232722",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-12",
-        "AddedTimestamp": 1781247604.634375,
+        "Date": "Jun 24, 2026",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782064571.1250827,
         "MatchedTags": [
             "strategy",
             "real time tactics"
@@ -83830,9 +83830,9 @@
         "URL": "https://store.steampowered.com/app/3631150/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3631150/48dc767b273082db3874bd819bb42914bc9fab51/header.jpg?t=1781287862",
-        "Date": "2027",
-        "AddedDate": "2026-06-12",
-        "AddedTimestamp": 1781296092.069979,
+        "Date": "To be announced",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782064538.6284046,
         "MatchedTags": [
             "economy",
             "management"
@@ -89383,9 +89383,9 @@
         "URL": "https://store.steampowered.com/app/4634750/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4634750/ca14eaabf0e2c15a56caac1c9328bf575733f5f2/header.jpg?t=1781806478",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-18",
-        "AddedTimestamp": 1781815252.8977473,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782064548.0469184,
         "MatchedTags": [
             "strategy"
         ]
@@ -91401,6 +91401,20 @@
         "MatchedTags": [
             "resource management",
             "strategy"
+        ]
+    },
+    "2135770": {
+        "Title": "Post-Soviet Bus Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2135770/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2135770/4f704ef503eb66cd2d503b6035e6e8821b8ee4f3/header.jpg?t=1782059575",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-21",
+        "AddedTimestamp": 1782064532.7022943,
+        "MatchedTags": [
+            "management"
         ]
     }
 }
