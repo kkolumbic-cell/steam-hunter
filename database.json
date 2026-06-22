@@ -22266,9 +22266,9 @@
         "URL": "https://store.steampowered.com/app/4554330/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4554330/666e4857778460831b2d063472df9ccd0b12a361/header.jpg?t=1775232162",
-        "Date": "2026",
-        "AddedDate": "2026-04-03",
-        "AddedTimestamp": 1775235529.213101,
+        "Date": "Aug 17, 2026",
+        "AddedDate": "2026-06-22",
+        "AddedTimestamp": 1782169051.5960917,
         "MatchedTags": [
             "horror"
         ]
@@ -52470,9 +52470,9 @@
         "URL": "https://store.steampowered.com/app/4626580/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4626580/e4d4da1119c356f0e1f293ec67edb3d283d14cd6/header.jpg?t=1778095725",
-        "Date": "September 2026",
-        "AddedDate": "2026-05-06",
-        "AddedTimestamp": 1778100550.2892895,
+        "Date": "Sep 2, 2026",
+        "AddedDate": "2026-06-22",
+        "AddedTimestamp": 1782169063.8699102,
         "MatchedTags": [
             "survival horror",
             "horror",
@@ -78655,9 +78655,9 @@
         "URL": "https://store.steampowered.com/app/4655530/",
         "Site": "https://phantasmahotel.lovable.app/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4655530/89dba7b33087dc25701d104ac3bbd87b40e45afa/header.jpg?t=1780952352",
-        "Date": "2026",
-        "AddedDate": "2026-06-08",
-        "AddedTimestamp": 1780956226.0014799,
+        "Date": "Oct 31, 2026",
+        "AddedDate": "2026-06-22",
+        "AddedTimestamp": 1782169077.7324014,
         "MatchedTags": [
             "horror",
             "turn-based combat"
@@ -79426,10 +79426,10 @@
     },
     "4787730": {
         "Title": "Mendel Simulator",
-        "Email": "",
+        "Email": "robut.game@gmail.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4787730/",
-        "Site": "",
+        "Site": "https://chunyixingming.site/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4787730/eae704a38bef7bf83bddabf47c9a9521ce377d31/header.jpg?t=1781009745",
         "Date": "June 2026",
         "AddedDate": "2026-06-12",
@@ -92193,6 +92193,40 @@
         "MatchedTags": [
             "horror",
             "resource management"
+        ]
+    },
+    "2628810": {
+        "Title": "Instar Ecdysis: Protocol Limos",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2628810/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2628810/6e814e707b0bf5ca6a7cfec2e37b085fd2214eab/header.jpg?t=1782163557",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-22",
+        "AddedTimestamp": 1782169039.3961413,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4847550": {
+        "Title": "Argosy",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4847550/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4847550/76659ba72b7af2cc4b920543000a561c4011cc57/header.jpg?t=1782165830",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-22",
+        "AddedTimestamp": 1782169117.5017076,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "grand strategy",
+            "real time tactics",
+            "economy"
         ]
     }
 }
