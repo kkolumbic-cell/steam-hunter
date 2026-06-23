@@ -31815,7 +31815,7 @@
     "4585830": {
         "Title": "Barbecue",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/ggSDdWxt4T",
         "URL": "https://store.steampowered.com/app/4585830/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4585830/13a364c0f9ac3221a41a4bf9aa2c738b640c90f7/header.jpg?t=1776277294",
@@ -80167,9 +80167,9 @@
         "URL": "https://store.steampowered.com/app/4786410/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4786410/23751a2b683a13cc16e7ef30ba45319a95abb7bd/header.jpg?t=1781052247",
-        "Date": "Jun 24, 2026",
-        "AddedDate": "2026-06-11",
-        "AddedTimestamp": 1781142190.6672132,
+        "Date": "Jun 23, 2026",
+        "AddedDate": "2026-06-23",
+        "AddedTimestamp": 1782257542.488234,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -93123,9 +93123,9 @@
         "URL": "https://store.steampowered.com/app/4856250/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4856250/5e986ba7c61373bf093f75623199b5a0ee4d5fe5/header.jpg?t=1782228892",
-        "Date": "Coming soon",
+        "Date": "July 2026",
         "AddedDate": "2026-06-23",
-        "AddedTimestamp": 1782233227.529481,
+        "AddedTimestamp": 1782257557.371974,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -93653,6 +93653,66 @@
         "AddedTimestamp": 1782251731.2881863,
         "MatchedTags": [
             "turn-based combat"
+        ]
+    },
+    "4245170": {
+        "Title": "The Urbexan Files",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4245170/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4245170/dc92a53e0a5f104d15bde0bb32b49bdbb05596da/header.jpg?t=1782255163",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-23",
+        "AddedTimestamp": 1782257499.5901775,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4625630": {
+        "Title": "Dune War",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4625630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4625630/244103f3671c51f5887848cf44abce6d5dc8b927/header.jpg?t=1782257341",
+        "Date": "Aug 11, 2026",
+        "AddedDate": "2026-06-23",
+        "AddedTimestamp": 1782257520.9256196,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "base building"
+        ]
+    },
+    "4785630": {
+        "Title": "Jellscape",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4785630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4785630/42eb3d6f04aeebfaa495436102a638b7cf09ee3a/header.jpg?t=1782254013",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-06-23",
+        "AddedTimestamp": 1782257538.1716216,
+        "MatchedTags": [
+            "survival horror"
+        ]
+    },
+    "4846550": {
+        "Title": "Trenite Engineer",
+        "Email": "",
+        "Discord": "https://discord.gg/XbV2VkUaYh",
+        "URL": "https://store.steampowered.com/app/4846550/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4846550/30b1e40b75ac7d54303b653090d811b1c1b98dc7/header.jpg?t=1782255172",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-23",
+        "AddedTimestamp": 1782257554.971479,
+        "MatchedTags": [
+            "resource management",
+            "management"
         ]
     }
 }
