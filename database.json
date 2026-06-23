@@ -21765,9 +21765,9 @@
         "URL": "https://store.steampowered.com/app/4555720/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555720/edb4efba54c5bbf8ecfea0502eca766b754f194a/header.jpg?t=1775188362",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-03",
-        "AddedTimestamp": 1775195555.1731982,
+        "Date": "Jun 22, 2026",
+        "AddedDate": "2026-06-23",
+        "AddedTimestamp": 1782177912.4216537,
         "MatchedTags": [
             "strategy",
             "grand strategy"
@@ -29039,9 +29039,9 @@
         "URL": "https://store.steampowered.com/app/4528320/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4528320/c9b09d355ca450d5cfe567cf16c252c12f00516e/header.jpg?t=1776045647",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-16",
-        "AddedTimestamp": 1781609902.8239424,
+        "Date": "Jul 22, 2026",
+        "AddedDate": "2026-06-23",
+        "AddedTimestamp": 1782177907.7254326,
         "MatchedTags": [
             "strategy"
         ]
@@ -50299,9 +50299,9 @@
         "URL": "https://store.steampowered.com/app/4538470/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4538470/ba00f1cf7acb7c6d34889bdd0f6cec7f49f41352/header.jpg?t=1777952419",
-        "Date": "TBA",
-        "AddedDate": "2026-05-05",
-        "AddedTimestamp": 1777953150.6414406,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-23",
+        "AddedTimestamp": 1782177910.2817686,
         "MatchedTags": [
             "strategy",
             "management",
@@ -53227,9 +53227,9 @@
         "URL": "https://store.steampowered.com/app/4674550/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4674550/fd972891234b06e614062d9f770215146740866f/header.jpg?t=1778162360",
-        "Date": "Jun 23, 2026",
-        "AddedDate": "2026-06-11",
-        "AddedTimestamp": 1781142151.739672,
+        "Date": "Jun 22, 2026",
+        "AddedDate": "2026-06-23",
+        "AddedTimestamp": 1782177928.943152,
         "MatchedTags": [
             "resource management",
             "strategy",
@@ -92227,6 +92227,127 @@
             "grand strategy",
             "real time tactics",
             "economy"
+        ]
+    },
+    "4387720": {
+        "Title": "Code Critical",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4387720/",
+        "Site": "https://www.youtube.com/@robots_and_games",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4387720/8da94e51b509bec08e7ccc2d58e37f736339e3b3/header.jpg?t=1782175619",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-23",
+        "AddedTimestamp": 1782177884.1342905,
+        "MatchedTags": [
+            "turn-based tactics",
+            "turn-based strategy",
+            "tactical",
+            "tactical rpg"
+        ]
+    },
+    "4513890": {
+        "Title": "Rebirth Scroll: Naihe",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4513890/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513890/b100fd33fc51fa7df48eb087900678352e13396f/header.jpg?t=1782177665",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-23",
+        "AddedTimestamp": 1782177901.2539692,
+        "MatchedTags": [
+            "tactical rpg",
+            "strategy",
+            "real time tactics"
+        ]
+    },
+    "4724230": {
+        "Title": "ZeroEco",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4724230/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4724230/48a7e14ceee83bbce07848d15555d0c01689ae45/header.jpg?t=1782173797",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-23",
+        "AddedTimestamp": 1782177934.1965508,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4789610": {
+        "Title": "Unheenged",
+        "Email": "",
+        "Discord": "https://discord.gg/XP68Wcj4r3",
+        "URL": "https://store.steampowered.com/app/4789610/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4789610/074e7976882fc546712668097b09ccd21b8ca5c3/header.jpg?t=1782172350",
+        "Date": "2026",
+        "AddedDate": "2026-06-23",
+        "AddedTimestamp": 1782177945.1178386,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4825420": {
+        "Title": "Epidemic Prevention:Secret Agency",
+        "Email": "",
+        "Discord": "https://discord.gg/zzRwTnFs",
+        "URL": "https://store.steampowered.com/app/4825420/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4825420/4ecd8f8fc6ab1af58d8b08d88842309fba481ef5/header.jpg?t=1782171801",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-23",
+        "AddedTimestamp": 1782177950.8260114,
+        "MatchedTags": [
+            "psychological horror",
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4844190": {
+        "Title": "Firebase",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4844190/",
+        "Site": "https://www.facebook.com/firebasehammer/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4844190/bebbd15cf6bc9332f6fb8ffc1e533c511572667b/header.jpg?t=1782176593",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-23",
+        "AddedTimestamp": 1782177965.4872909,
+        "MatchedTags": [
+            "tower defense",
+            "tactical"
+        ]
+    },
+    "4844920": {
+        "Title": "Blue Remembered Hills: A Miscellany of Wayfarers from Yeyu",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4844920/",
+        "Site": "https://www.meanderplacid.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4844920/d92013eb7cbbcce4d30a517319db6704a7fea2e2/header.jpg?t=1782170377",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-23",
+        "AddedTimestamp": 1782177969.1912796,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4868950": {
+        "Title": "The Procedural Maze",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4868950/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4868950/9582af7539e776f1dade29a009d8e73ea59eea0f/header.jpg?t=1782177079",
+        "Date": "July 2026",
+        "AddedDate": "2026-06-23",
+        "AddedTimestamp": 1782177991.2644846,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
