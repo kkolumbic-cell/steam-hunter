@@ -94472,9 +94472,9 @@
         "URL": "https://store.steampowered.com/app/4823380/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4823380/f91147f1f93c8d030c1d6f508b08bbd4c3fa1e70/header.jpg?t=1782336776",
-        "Date": "Jun 25, 2026",
+        "Date": "June 2026",
         "AddedDate": "2026-06-24",
-        "AddedTimestamp": 1782337795.796689,
+        "AddedTimestamp": 1782344171.2541466,
         "MatchedTags": [
             "strategy",
             "real time tactics",
@@ -94496,6 +94496,22 @@
             "strategy",
             "turn-based tactics",
             "turn-based combat",
+            "tactical"
+        ]
+    },
+    "4799630": {
+        "Title": "Tiled Gambit",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4799630/",
+        "Site": "https://tiledgambit.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4799630/7d604760799da97b0eb83ac66d4cd60db5f2133c/header.jpg?t=1782341339",
+        "Date": "Jul 24, 2026",
+        "AddedDate": "2026-06-24",
+        "AddedTimestamp": 1782344169.001995,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
             "tactical"
         ]
     }
