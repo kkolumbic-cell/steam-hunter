@@ -13247,9 +13247,9 @@
         "URL": "https://store.steampowered.com/app/4539870/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4539870/5316be7037ffe8c25f90519fc5d8e043a0c2e0d2/header.jpg?t=1774370231",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-24",
-        "AddedTimestamp": 1774372622.2086203,
+        "Date": "Jul 6, 2026",
+        "AddedDate": "2026-06-24",
+        "AddedTimestamp": 1782331949.5490994,
         "MatchedTags": [
             "strategy",
             "grand strategy",
@@ -34923,7 +34923,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4606620/",
-        "Site": "",
+        "Site": "https://nationq.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4606620/525c598f98b98fce4d5b9c260b48c67f63b52030/header.jpg?t=1776532537",
         "Date": "Jun 23, 2026",
         "AddedDate": "2026-06-23",
@@ -80209,9 +80209,9 @@
         "URL": "https://store.steampowered.com/app/4820270/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4820270/c87e521adacc3fde0ed62bf0165f09655e8821f6/header.jpg?t=1781049123",
-        "Date": "Jul 15, 2026",
-        "AddedDate": "2026-06-23",
-        "AddedTimestamp": 1782196343.1528175,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-24",
+        "AddedTimestamp": 1782332031.0783029,
         "MatchedTags": [
             "economy",
             "management",
@@ -82495,8 +82495,9 @@
         "AddedDate": "2026-06-11",
         "AddedTimestamp": 1781216330.0915682,
         "MatchedTags": [
+            "base building",
             "resource management",
-            "strategy"
+            "management"
         ]
     },
     "4761790": {
@@ -94427,6 +94428,39 @@
             "turn-based strategy",
             "economy",
             "tactical",
+            "resource management"
+        ]
+    },
+    "3964230": {
+        "Title": "Dictapoint",
+        "Email": "",
+        "Discord": "https://discord.gg/kCYbzdkGU",
+        "URL": "https://store.steampowered.com/app/3964230/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3964230/20507ca822bef9a8791332ee1cdfa286750126b2/header.jpg?t=1782329727",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-24",
+        "AddedTimestamp": 1782331917.4280148,
+        "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "4482890": {
+        "Title": "Green Light District",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4482890/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4482890/a29171c4ce82ab4ec918cb3187987e2833449641/header.jpg?t=1782323462",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-24",
+        "AddedTimestamp": 1782331937.1744788,
+        "MatchedTags": [
+            "city builder",
+            "base building",
+            "economy",
+            "management",
             "resource management"
         ]
     }
