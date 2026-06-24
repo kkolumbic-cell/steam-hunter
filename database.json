@@ -7579,8 +7579,8 @@
         "AddedTimestamp": 1773474662.3785007,
         "MatchedTags": [
             "turn-based strategy",
-            "management",
             "strategy",
+            "management",
             "resource management"
         ]
     },
@@ -9764,8 +9764,7 @@
         "AddedTimestamp": 1781974382.4268079,
         "MatchedTags": [
             "horror",
-            "psychological horror",
-            "survival horror"
+            "psychological horror"
         ]
     },
     "3785650": {
@@ -9839,9 +9838,9 @@
         "URL": "https://store.steampowered.com/app/4446010/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446010/ec8e9f97b463f68513796c48e3a283474fd93fc9/header.jpg?t=1773840796",
-        "Date": "Jun 26, 2026",
-        "AddedDate": "2026-05-27",
-        "AddedTimestamp": 1779871793.6073494,
+        "Date": "Jun 24, 2026",
+        "AddedDate": "2026-06-24",
+        "AddedTimestamp": 1782313829.7403257,
         "MatchedTags": [
             "management",
             "strategy",
@@ -18147,11 +18146,11 @@
         "AddedDate": "2026-03-30",
         "AddedTimestamp": 1774904586.7265267,
         "MatchedTags": [
-            "strategy",
             "real time tactics",
-            "tactical rpg",
+            "strategy",
             "management",
-            "tactical"
+            "tactical",
+            "economy"
         ]
     },
     "4443380": {
@@ -33540,7 +33539,10 @@
         "AddedDate": "2026-04-30",
         "AddedTimestamp": 1777541324.2078564,
         "MatchedTags": [
-            "turn-based strategy"
+            "turn-based tactics",
+            "economy",
+            "turn-based strategy",
+            "tactical"
         ]
     },
     "4604000": {
@@ -50598,9 +50600,9 @@
         "URL": "https://store.steampowered.com/app/4651490/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4651490/4422f28383d3ee81ea1658428322a46bd4e7307b/header.jpg?t=1777973320",
-        "Date": "Jul 20, 2026",
-        "AddedDate": "2026-06-06",
-        "AddedTimestamp": 1780784357.6641705,
+        "Date": "Jul 14, 2026",
+        "AddedDate": "2026-06-24",
+        "AddedTimestamp": 1782313874.565501,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -63832,9 +63834,9 @@
         "URL": "https://store.steampowered.com/app/4716050/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4716050/be7ccda8ee7584cabfc2a4704d6cc48345fd17ca/header.jpg?t=1779611328",
-        "Date": "2026",
-        "AddedDate": "2026-05-24",
-        "AddedTimestamp": 1779617629.6238499,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-24",
+        "AddedTimestamp": 1782313898.4298532,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -73343,9 +73345,9 @@
         "URL": "https://store.steampowered.com/app/4564800/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4564800/ba20d3d9e21e01779694657626967413f547e9c2/header.jpg?t=1780481260",
-        "Date": "November 2026",
-        "AddedDate": "2026-06-03",
-        "AddedTimestamp": 1780489000.4161966,
+        "Date": "2026",
+        "AddedDate": "2026-06-24",
+        "AddedTimestamp": 1782313853.2587037,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -80972,9 +80974,9 @@
         "URL": "https://store.steampowered.com/app/4816650/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4816650/5f3dc16384bee797d0c212194a510e4aa313d523/header.jpg?t=1781101965",
-        "Date": "Jun 19, 2026",
-        "AddedDate": "2026-06-10",
-        "AddedTimestamp": 1781115327.0537622,
+        "Date": "Jun 24, 2026",
+        "AddedDate": "2026-06-24",
+        "AddedTimestamp": 1782313949.371188,
         "MatchedTags": [
             "strategy"
         ]
@@ -81393,9 +81395,9 @@
         "URL": "https://store.steampowered.com/app/4294100/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294100/a7508257934e9fec79198332383a091650411268/header.jpg?t=1781142743",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-16",
-        "AddedTimestamp": 1781588187.6209662,
+        "Date": "Jun 24, 2026",
+        "AddedDate": "2026-06-24",
+        "AddedTimestamp": 1782313821.9045992,
         "MatchedTags": [
             "strategy"
         ]
@@ -85533,9 +85535,9 @@
         "URL": "https://store.steampowered.com/app/4829310/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4829310/57af54def29f01af701994b4bf9d512b8e5549bd/header.jpg?t=1781523839",
-        "Date": "To be announced",
-        "AddedDate": "2026-06-15",
-        "AddedTimestamp": 1781527962.3049905,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-24",
+        "AddedTimestamp": 1782313964.6591215,
         "MatchedTags": [
             "economy",
             "strategy",
@@ -94315,6 +94317,96 @@
         "Date": "Q4 2026",
         "AddedDate": "2026-06-24",
         "AddedTimestamp": 1782302735.9403217,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4487840": {
+        "Title": "Hard Truck 2: King of the Road",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4487840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4487840/6e0e28a791c095abb1e92df3cae7509768403b84/header.jpg?t=1782307515",
+        "Date": "Jun 24, 2026",
+        "AddedDate": "2026-06-24",
+        "AddedTimestamp": 1782313831.6342933,
+        "MatchedTags": [
+            "economy",
+            "resource management"
+        ]
+    },
+    "4797420": {
+        "Title": "Urban assault",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4797420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4797420/be2d61831984032284d79e68851961f65800ce48/header.jpg?t=1782303519",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-24",
+        "AddedTimestamp": 1782313932.6183543,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4839770": {
+        "Title": "Abyrith",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4839770/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4839770/42d57550f9365417cf5b0f1672a97aa50a8fa0e9/header.jpg?t=1782305444",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-24",
+        "AddedTimestamp": 1782313975.0372894,
+        "MatchedTags": [
+            "turn-based strategy"
+        ]
+    },
+    "4858490": {
+        "Title": "Real backrooms",
+        "Email": "",
+        "Discord": "https://discord.gg/cwDJeTCwMX",
+        "URL": "https://store.steampowered.com/app/4858490/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4858490/09a6781e444a0a6da642840cd57077490ddf5407/header.jpg?t=1782311387",
+        "Date": "Jul 31, 2026",
+        "AddedDate": "2026-06-24",
+        "AddedTimestamp": 1782313992.9761484,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "4873040": {
+        "Title": "RECIPROCITY: The Liminal Void",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4873040/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4873040/8bdde5f8e733ad42717676a3ae6f7d19610a4bb5/header.jpg?t=1782305691",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-24",
+        "AddedTimestamp": 1782314017.424222,
+        "MatchedTags": [
+            "psychological horror",
+            "survival horror",
+            "resource management",
+            "horror"
+        ]
+    },
+    "4877240": {
+        "Title": "Zombuffoonery",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4877240/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4877240/975a11388b97d93afafbae90eacbc94f23778861/header.jpg?t=1782302554",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-24",
+        "AddedTimestamp": 1782314026.056442,
         "MatchedTags": [
             "strategy"
         ]
