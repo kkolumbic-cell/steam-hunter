@@ -12454,7 +12454,7 @@
     "4538910": {
         "Title": "Rogue Mate",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/3RRktYqVeH",
         "URL": "https://store.steampowered.com/app/4538910/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4538910/06e02540b34e1f7790554a7aaa325346aa03b3bd/header.jpg?t=1774290234",
@@ -62646,9 +62646,9 @@
         "URL": "https://store.steampowered.com/app/4747900/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4747900/583fa29739c2b75ab570d130fdd9bb531d4cee66/header.jpg?t=1779396833",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-10",
-        "AddedTimestamp": 1781132375.9928908,
+        "Date": "Jun 24, 2026",
+        "AddedDate": "2026-06-24",
+        "AddedTimestamp": 1782337788.7246976,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -62977,9 +62977,9 @@
         "URL": "https://store.steampowered.com/app/4669470/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4669470/75923e51ea1c02e213821804ca63cb116fbca261/header.jpg?t=1779457304",
-        "Date": "Jun 26, 2026",
-        "AddedDate": "2026-06-19",
-        "AddedTimestamp": 1781871693.8894684,
+        "Date": "Jun 24, 2026",
+        "AddedDate": "2026-06-24",
+        "AddedTimestamp": 1782337775.2760463,
         "MatchedTags": [
             "tactical"
         ]
@@ -65035,9 +65035,9 @@
         "URL": "https://store.steampowered.com/app/4162290/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/ed51f06a462f98854a5b8a265a05b3a08c469ab9/header.jpg?t=1779794350",
-        "Date": "Jun 24, 2026",
-        "AddedDate": "2026-05-26",
-        "AddedTimestamp": 1779814521.3240302,
+        "Date": "June 2026",
+        "AddedDate": "2026-06-24",
+        "AddedTimestamp": 1782337730.7893543,
         "MatchedTags": [
             "horror"
         ]
@@ -66314,11 +66314,12 @@
         "AddedDate": "2026-05-27",
         "AddedTimestamp": 1779920096.5980918,
         "MatchedTags": [
-            "strategy",
+            "turn-based tactics",
+            "tactical rpg",
             "turn-based strategy",
-            "tactical",
+            "strategy",
             "turn-based combat",
-            "turn-based tactics"
+            "tactical"
         ]
     },
     "4736440": {
@@ -86760,9 +86761,9 @@
     "4702380": {
         "Title": "Imperium Warbands",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/AHyGbaZ3nY",
         "URL": "https://store.steampowered.com/app/4702380/",
-        "Site": "",
+        "Site": "https://imperiumwarbands.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4702380/efe387bfadff70459d49070baa97a1d95f5ff9e4/header.jpg?t=1781623608",
         "Date": "Coming soon",
         "AddedDate": "2026-06-16",
@@ -94373,9 +94374,9 @@
         "URL": "https://store.steampowered.com/app/4858490/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4858490/09a6781e444a0a6da642840cd57077490ddf5407/header.jpg?t=1782311387",
-        "Date": "Jul 31, 2026",
+        "Date": "Coming soon",
         "AddedDate": "2026-06-24",
-        "AddedTimestamp": 1782313992.9761484,
+        "AddedTimestamp": 1782337816.197178,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -94462,6 +94463,40 @@
             "economy",
             "management",
             "resource management"
+        ]
+    },
+    "4823380": {
+        "Title": "Eyes Of The Factory",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4823380/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4823380/f91147f1f93c8d030c1d6f508b08bbd4c3fa1e70/header.jpg?t=1782336776",
+        "Date": "Jun 25, 2026",
+        "AddedDate": "2026-06-24",
+        "AddedTimestamp": 1782337795.796689,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "survival horror",
+            "horror"
+        ]
+    },
+    "4876480": {
+        "Title": "Cirtemin",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4876480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4876480/518ba4a5cd5e965468ae2bded5e81fdea4f20fd5/header.jpg?t=1782337063",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-24",
+        "AddedTimestamp": 1782337829.0793214,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based combat",
+            "tactical"
         ]
     }
 }
