@@ -21350,9 +21350,9 @@
         "URL": "https://store.steampowered.com/app/3646000/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3646000/52d3124b248d0daa893cac5d6b8f86dad928252c/header.jpg?t=1775157597",
-        "Date": "July 2026",
-        "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775163374.2009094,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-26",
+        "AddedTimestamp": 1782480139.8106425,
         "MatchedTags": [
             "strategy",
             "management",
@@ -34453,7 +34453,8 @@
         "AddedDate": "2026-06-26",
         "AddedTimestamp": 1782469791.8752742,
         "MatchedTags": [
-            "management"
+            "management",
+            "resource management"
         ]
     },
     "4362400": {
@@ -36186,9 +36187,9 @@
         "URL": "https://store.steampowered.com/app/4485620/",
         "Site": "https://artesnaut.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4485620/9160315d887fed1924fc049a0a0db85d8a982231/header.jpg?t=1776730744",
-        "Date": "2026",
-        "AddedDate": "2026-04-21",
-        "AddedTimestamp": 1776743250.877792,
+        "Date": "Jul 12, 2026",
+        "AddedDate": "2026-06-26",
+        "AddedTimestamp": 1782480163.2133727,
         "MatchedTags": [
             "strategy"
         ]
@@ -50684,9 +50685,9 @@
         "URL": "https://store.steampowered.com/app/4437550/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4437550/de7d1d36b2428e8f9af68ae75f1f98a3d94b589e/header.jpg?t=1777991043",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-05",
-        "AddedTimestamp": 1778000276.548593,
+        "Date": "Jun 26, 2026",
+        "AddedDate": "2026-06-26",
+        "AddedTimestamp": 1782480152.7599275,
         "MatchedTags": [
             "survival horror"
         ]
@@ -80441,9 +80442,9 @@
         "URL": "https://store.steampowered.com/app/4589040/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4589040/b6d47ac1a48cef78da68f0f051b4e3596511b109/header.jpg?t=1781077683",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-10",
-        "AddedTimestamp": 1781089619.0832582,
+        "Date": "Jul 9, 2026",
+        "AddedDate": "2026-06-26",
+        "AddedTimestamp": 1782480186.5269322,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -94440,7 +94441,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4482890/",
-        "Site": "",
+        "Site": "https://martilogames.com/Game/GreenLightDistrict",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4482890/a29171c4ce82ab4ec918cb3187987e2833449641/header.jpg?t=1782323462",
         "Date": "To be announced",
         "AddedDate": "2026-06-24",
@@ -95467,6 +95468,141 @@
         "AddedTimestamp": 1782470025.2079084,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4419080": {
+        "Title": "Bureaucromancer",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4419080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4419080/91c5bc134e471ac92d48e3fae06343023e2a7244/header.jpg?t=1782477567",
+        "Date": "October 2026",
+        "AddedDate": "2026-06-26",
+        "AddedTimestamp": 1782480149.8659384,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based combat",
+            "turn-based strategy",
+            "tactical rpg"
+        ]
+    },
+    "4798760": {
+        "Title": "Project Trash",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4798760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4798760/e13c10e39fe3226b58360cf39638e5fd41e69934/header.jpg?t=1782478599",
+        "Date": "Jul 10, 2026",
+        "AddedDate": "2026-06-26",
+        "AddedTimestamp": 1782480239.9828575,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4829490": {
+        "Title": "The Finest Spark",
+        "Email": "",
+        "Discord": "https://discord.gg/qWVQ99HSu2",
+        "URL": "https://store.steampowered.com/app/4829490/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4829490/0c338b2c871fe7c14c7fe29f681fbc17569a240a/header.jpg?t=1782476745",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-06-26",
+        "AddedTimestamp": 1782480255.4199665,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4848100": {
+        "Title": "Blood Without a Name",
+        "Email": "contact@forgebornstudios.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4848100/",
+        "Site": "https://forgebornstudios.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4848100/eb1be25e4d18fe986753429ed75c3f7705675b8d/header.jpg?t=1782477164",
+        "Date": "Jul 14, 2026",
+        "AddedDate": "2026-06-26",
+        "AddedTimestamp": 1782480263.502371,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4860520": {
+        "Title": "Night Noodles",
+        "Email": "",
+        "Discord": "https://discord.com/invite/C2NPyX5PMt",
+        "URL": "https://store.steampowered.com/app/4860520/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4860520/8ab62159f0c542694291e1ee5ff121d7ea328dca/header.jpg?t=1782479741",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-26",
+        "AddedTimestamp": 1782480272.4610167,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4866700": {
+        "Title": "Septar",
+        "Email": "",
+        "Discord": "https://discord.gg/Km7bnTFSvC",
+        "URL": "https://store.steampowered.com/app/4866700/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4866700/ba1e88b790611023d836c600adfaa3d5f25768df/header.jpg?t=1782477911",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-26",
+        "AddedTimestamp": 1782480277.4391234,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4872770": {
+        "Title": "Dinotraz",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4872770/",
+        "Site": "https://www.birdboxgames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4872770/dd7566ba4263990aa1d3d79022aea78e73f5c898/header.jpg?t=1782478630",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-26",
+        "AddedTimestamp": 1782480282.7942235,
+        "MatchedTags": [
+            "survival horror"
+        ]
+    },
+    "4881270": {
+        "Title": "Mahjong Rush",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4881270/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4881270/157927cdbda851186656062157bd82116f65d988/header.jpg?t=1782476270",
+        "Date": "July 2026",
+        "AddedDate": "2026-06-26",
+        "AddedTimestamp": 1782480292.4634204,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical"
+        ]
+    },
+    "4884010": {
+        "Title": "Project Eel",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4884010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4884010/fca72a2329c20ddae674e1b4676317c30154f473/header.jpg?t=1782479725",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-26",
+        "AddedTimestamp": 1782480294.946283,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
