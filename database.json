@@ -13513,9 +13513,9 @@
         "URL": "https://store.steampowered.com/app/4438040/",
         "Site": "https://www.longgammagames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4438040/549d7e9a0bbbce745e331853c3f331521a69714c/header.jpg?t=1774393564",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-03-29",
-        "AddedTimestamp": 1774811025.6187637,
+        "Date": "Jun 27, 2026",
+        "AddedDate": "2026-06-27",
+        "AddedTimestamp": 1782598651.388212,
         "MatchedTags": [
             "turn-based strategy",
             "tactical rpg",
@@ -14893,9 +14893,9 @@
         "URL": "https://store.steampowered.com/app/4513510/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4513510/126add1bf4376d97a3456a701b99fa72f8557075/header.jpg?t=1774511140",
-        "Date": "2026",
-        "AddedDate": "2026-05-24",
-        "AddedTimestamp": 1779597815.8718638,
+        "Date": "October 2026",
+        "AddedDate": "2026-06-27",
+        "AddedTimestamp": 1782598658.3361185,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -43354,9 +43354,9 @@
         "URL": "https://store.steampowered.com/app/4612620/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4612620/7776223cd59b5162396489bb100bccf64725da5f/header.jpg?t=1777327076",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-27",
-        "AddedTimestamp": 1777327751.646881,
+        "Date": "Jun 27, 2026",
+        "AddedDate": "2026-06-27",
+        "AddedTimestamp": 1782598671.9634454,
         "MatchedTags": [
             "strategy"
         ]
@@ -46871,9 +46871,7 @@
             "tower defense",
             "city builder",
             "base building",
-            "strategy",
-            "management",
-            "economy"
+            "strategy"
         ]
     },
     "4619060": {
@@ -54452,9 +54450,9 @@
         "URL": "https://store.steampowered.com/app/4686840/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4686840/95303dc8269f57a42bcd264984f2e8a37f0bc61d/header.jpg?t=1778285884",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-05-10",
-        "AddedTimestamp": 1778450803.7965915,
+        "Date": "Q2 2027",
+        "AddedDate": "2026-06-27",
+        "AddedTimestamp": 1782598679.8454912,
         "MatchedTags": [
             "turn-based tactics",
             "tactical rpg",
@@ -57823,9 +57821,9 @@
         "URL": "https://store.steampowered.com/app/4720120/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4720120/b07412bc3077b5140ed831df624b824fc048e8ba/header.jpg?t=1778720906",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-13",
-        "AddedTimestamp": 1781314586.5273457,
+        "Date": "August 2026",
+        "AddedDate": "2026-06-27",
+        "AddedTimestamp": 1782598682.2839952,
         "MatchedTags": [
             "resource management"
         ]
@@ -60119,9 +60117,9 @@
         "URL": "https://store.steampowered.com/app/4733550/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4733550/a5665346d18c333f707185f37ed284f95537db5a/header.jpg?t=1779161444",
-        "Date": "2026",
-        "AddedDate": "2026-06-21",
-        "AddedTimestamp": 1782078222.2794275,
+        "Date": "Jun 27, 2026",
+        "AddedDate": "2026-06-27",
+        "AddedTimestamp": 1782598693.63632,
         "MatchedTags": [
             "colony sim",
             "strategy"
@@ -85999,7 +85997,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4822290/",
-        "Site": "",
+        "Site": "https://gyro-game.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4822290/0787e07d44586118c77539c670b3930f193026bc/header.jpg?t=1781549328",
         "Date": "Jul 10, 2026",
         "AddedDate": "2026-06-15",
@@ -97105,6 +97103,23 @@
         "AddedTimestamp": 1782592515.6491964,
         "MatchedTags": [
             "management",
+            "resource management"
+        ]
+    },
+    "2836190": {
+        "Title": "Dying in dread",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2836190/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2836190/83fcd3faeff64ed32ac5566f06e998bed1b3c9ca/header.jpg?t=1782594871",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-27",
+        "AddedTimestamp": 1782598636.032249,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror",
             "resource management"
         ]
     }
