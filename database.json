@@ -61832,11 +61832,11 @@
         "AddedDate": "2026-05-21",
         "AddedTimestamp": 1779341039.022,
         "MatchedTags": [
-            "strategy",
-            "tactical",
             "tactical rpg",
+            "turn-based tactics",
             "turn-based strategy",
-            "turn-based tactics"
+            "tactical",
+            "strategy"
         ]
     },
     "4737000": {
@@ -64005,9 +64005,9 @@
         "URL": "https://store.steampowered.com/app/4637420/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4637420/626826222bf2327cc7fad0acc4dd3efc8317b6e0/header.jpg?t=1779699506",
-        "Date": "Jul 20, 2026",
-        "AddedDate": "2026-06-14",
-        "AddedTimestamp": 1781467281.7065322,
+        "Date": "Aug 24, 2026",
+        "AddedDate": "2026-06-27",
+        "AddedTimestamp": 1782540256.1599178,
         "MatchedTags": [
             "resource management",
             "economy",
@@ -76404,7 +76404,6 @@
         "AddedTimestamp": 1781721490.2740815,
         "MatchedTags": [
             "strategy",
-            "turn-based combat",
             "horror"
         ]
     },
@@ -89035,9 +89034,9 @@
         "URL": "https://store.steampowered.com/app/4778170/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4778170/5afabbdb1b6d7e3e92440c3d33c0b1236be402ce/header.jpg?t=1781787975",
-        "Date": "TBA",
-        "AddedDate": "2026-06-18",
-        "AddedTimestamp": 1781790434.5200324,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-27",
+        "AddedTimestamp": 1782540302.3499496,
         "MatchedTags": [
             "survival horror"
         ]
@@ -94619,9 +94618,9 @@
         "URL": "https://store.steampowered.com/app/4872690/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872690/ccec1f018552de08ce4eb87e0a0492ab62aa1014/header.jpg?t=1782373205",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-25",
-        "AddedTimestamp": 1782376486.3938615,
+        "Date": "July 2026",
+        "AddedDate": "2026-06-27",
+        "AddedTimestamp": 1782540371.3147063,
         "MatchedTags": [
             "horror"
         ]
@@ -95004,7 +95003,9 @@
         "MatchedTags": [
             "strategy",
             "economy",
-            "management"
+            "management",
+            "city builder",
+            "base building"
         ]
     },
     "4773600": {
@@ -96276,9 +96277,9 @@
         "URL": "https://store.steampowered.com/app/1552280/",
         "Site": "https://www.pipedreamstudio.co.uk/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1552280/6bf8f5e2def052a254ed4e15840cccbb2c76d46f/header.jpg?t=1782521684",
-        "Date": "Nov 24, 2026",
+        "Date": "Aug 4, 2026",
         "AddedDate": "2026-06-27",
-        "AddedTimestamp": 1782523464.958618,
+        "AddedTimestamp": 1782540214.2624931,
         "MatchedTags": [
             "strategy",
             "tactical"
@@ -96474,6 +96475,184 @@
         "Date": "Coming soon",
         "AddedDate": "2026-06-27",
         "AddedTimestamp": 1782523590.6480505,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4407840": {
+        "Title": "NULL ETERNITY: Last Contact",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4407840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4407840/b51133e56be6b52b5065bf5262285b89f6199ae3/header.jpg?t=1782533152",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-27",
+        "AddedTimestamp": 1782540234.2723098,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4763900": {
+        "Title": "\u96c0\u795e Sparrow God",
+        "Email": "leonliu120867@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4763900/",
+        "Site": "https://sparrow-god-demo.netlify.app/main",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4763900/e5780f4fcc90ef4019c088f60036e86b23dbe72d/header.jpg?t=1782525533",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-27",
+        "AddedTimestamp": 1782540295.4640791,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4855310": {
+        "Title": "Shadows of Beginnings",
+        "Email": "",
+        "Discord": "https://discord.gg/82ZRzfmsP7",
+        "URL": "https://store.steampowered.com/app/4855310/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855310/79ab9211770e2c7ff05dc159d682aaf9a6ce3c7a/header.jpg?t=1782539227",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-27",
+        "AddedTimestamp": 1782540336.5704875,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4862920": {
+        "Title": "Chessferatu",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4862920/",
+        "Site": "https://halfcockedtales.com/chessferatu/market.html",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4862920/606c8e68ab97ceda07c1bef8cdbecc97be300a4b/header.jpg?t=1782535443",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-27",
+        "AddedTimestamp": 1782540355.1754239,
+        "MatchedTags": [
+            "turn-based tactics"
+        ]
+    },
+    "4872150": {
+        "Title": "Elegorithm",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4872150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4872150/e5fd2ef56eb98b6917008182c3087f6182e9028c/header.jpg?t=1782529269",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-27",
+        "AddedTimestamp": 1782540366.9018416,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4872270": {
+        "Title": "APARTMENT 001",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4872270/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4872270/6f8444b2027a2c3bdb9e5f0371dcc42e6b295afd/header.jpg?t=1782535635",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-27",
+        "AddedTimestamp": 1782540368.979342,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4872780": {
+        "Title": "Anomaly Control Division",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4872780/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4872780/d9d66936454fde48ac72e8393b8f115c34edc138/header.jpg?t=1782532932",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-27",
+        "AddedTimestamp": 1782540373.6739736,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "resource management"
+        ]
+    },
+    "4879740": {
+        "Title": "Party Executable",
+        "Email": "",
+        "Discord": "https://discord.gg/GMzTpdDj6a",
+        "URL": "https://store.steampowered.com/app/4879740/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4879740/8dc94f10aed1df0c3e502320e66ab9846f8c789e/header.jpg?t=1782529570",
+        "Date": "2026",
+        "AddedDate": "2026-06-27",
+        "AddedTimestamp": 1782540390.2177527,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4887840": {
+        "Title": "Indian Paranormal Files - Sleepover",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4887840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4887840/6d71e7e5c3ee427edf22f86535a9e2c1b610cc0e/header.jpg?t=1782528706",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-27",
+        "AddedTimestamp": 1782540407.5586724,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4888240": {
+        "Title": "Hermitage",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4888240/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4888240/9e347635ba68fad6c0a83b770d2f878198cedc0d/header.jpg?t=1782537443",
+        "Date": "Aug 3, 2026",
+        "AddedDate": "2026-06-27",
+        "AddedTimestamp": 1782540409.9512944,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "4889480": {
+        "Title": "Restcue",
+        "Email": "",
+        "Discord": "https://discord.gg/Vu3ksYM",
+        "URL": "https://store.steampowered.com/app/4889480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4889480/01fb769a502dfe17905a844cb0adffa6f93a5400/header.jpg?t=1782539380",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-06-27",
+        "AddedTimestamp": 1782540413.1560252,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4889630": {
+        "Title": "\u4ece\u96f6\u5f00\u59cb\u7684\u9493\u9c7c\u4eba\u751fLift",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4889630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4889630/2a6ffdf5f1fb5c7525955a4badce36fa02db84f2/header.jpg?t=1782525057",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-27",
+        "AddedTimestamp": 1782540415.1489775,
         "MatchedTags": [
             "resource management"
         ]
