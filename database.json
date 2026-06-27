@@ -85821,9 +85821,9 @@
         "URL": "https://store.steampowered.com/app/4841590/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841590/45056a81e2537365731579aa57cf8ae34317b569/header.jpg?t=1781540165",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-15",
-        "AddedTimestamp": 1781547362.2380035,
+        "Date": "Nov 3, 2026",
+        "AddedDate": "2026-06-27",
+        "AddedTimestamp": 1782592513.0869348,
         "MatchedTags": [
             "turn-based combat",
             "strategy"
@@ -85940,9 +85940,9 @@
         "URL": "https://store.steampowered.com/app/4787480/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787480/8797f777ad165fa6883256ab27db5fb21870e850/header.jpg?t=1781554947",
-        "Date": "Jun 29, 2026",
-        "AddedDate": "2026-06-16",
-        "AddedTimestamp": 1781588424.4924192,
+        "Date": "2026",
+        "AddedDate": "2026-06-27",
+        "AddedTimestamp": 1782592493.1618125,
         "MatchedTags": [
             "base building",
             "resource management"
@@ -95752,9 +95752,9 @@
         "URL": "https://store.steampowered.com/app/4872120/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4872120/7fb72e7edf3b641d6ac70aada3e92cc44f50d4c1/header.jpg?t=1782490323",
-        "Date": "Jun 30, 2026",
-        "AddedDate": "2026-06-26",
-        "AddedTimestamp": 1782491601.7366602,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-27",
+        "AddedTimestamp": 1782592520.514647,
         "MatchedTags": [
             "strategy"
         ]
@@ -97091,6 +97091,21 @@
         "MatchedTags": [
             "strategy",
             "real time tactics"
+        ]
+    },
+    "4849160": {
+        "Title": "Omerta",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4849160/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849160/690ce5e0d313f83e807a20d6e3f1143243cdd27b/header.jpg?t=1782587733",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-27",
+        "AddedTimestamp": 1782592515.6491964,
+        "MatchedTags": [
+            "management",
+            "resource management"
         ]
     }
 }
