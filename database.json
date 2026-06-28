@@ -11879,7 +11879,6 @@
         "AddedTimestamp": 1781332444.1208837,
         "MatchedTags": [
             "real time tactics",
-            "city builder",
             "economy",
             "management",
             "strategy",
@@ -27113,11 +27112,10 @@
         "AddedDate": "2026-04-25",
         "AddedTimestamp": 1777108363.5866995,
         "MatchedTags": [
-            "turn-based strategy",
-            "strategy",
             "turn-based tactics",
-            "tactical rpg",
-            "tactical"
+            "turn-based strategy",
+            "tactical",
+            "strategy"
         ]
     },
     "4599250": {
@@ -29106,9 +29104,9 @@
         "URL": "https://store.steampowered.com/app/4209040/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4209040/c184bbcb706dfc81553bdaff448b7bc72aa83fb8/header.jpg?t=1776072452",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-06-15",
-        "AddedTimestamp": 1781546683.231317,
+        "Date": "To be announced",
+        "AddedDate": "2026-06-28",
+        "AddedTimestamp": 1782656245.1906679,
         "MatchedTags": [
             "management",
             "strategy",
@@ -56739,7 +56737,7 @@
     "4672140": {
         "Title": "WinBolo",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/xE72QYYx8f",
         "URL": "https://store.steampowered.com/app/4672140/",
         "Site": "https://www.winbolo.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4672140/d47380fec0013ce7372fc6d5332fa37c148b7e58/header.jpg?t=1778638050",
@@ -62645,9 +62643,9 @@
         "URL": "https://store.steampowered.com/app/4750920/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4750920/36709b63d70fd7fc30a189a27cfc4f490fd44dfc/header.jpg?t=1779404701",
-        "Date": "Q1 2027",
-        "AddedDate": "2026-05-30",
-        "AddedTimestamp": 1780114933.1725206,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-28",
+        "AddedTimestamp": 1782656281.6976137,
         "MatchedTags": [
             "strategy"
         ]
@@ -84229,9 +84227,9 @@
         "URL": "https://store.steampowered.com/app/4835800/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4835800/1380d49edc10ecb987cd1b47f28558de6bc3c5cb/header.jpg?t=1781309369",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-13",
-        "AddedTimestamp": 1781314658.5235767,
+        "Date": "Jun 28, 2026",
+        "AddedDate": "2026-06-28",
+        "AddedTimestamp": 1782656301.2747185,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -97130,9 +97128,9 @@
         "URL": "https://store.steampowered.com/app/4884560/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4884560/64bf3278c44e810a77517061f20624e54efa9b8e/header.jpg?t=1782600864",
-        "Date": "Jul 6, 2026",
+        "Date": "Coming soon",
         "AddedDate": "2026-06-28",
-        "AddedTimestamp": 1782605805.9092243,
+        "AddedTimestamp": 1782656325.8476028,
         "MatchedTags": [
             "city builder",
             "colony sim"
@@ -97243,6 +97241,23 @@
         "MatchedTags": [
             "strategy",
             "psychological horror"
+        ]
+    },
+    "4887610": {
+        "Title": "Last Rail",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4887610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4887610/7515b348acea56bb1c99af14c35f441e93a440f0/header.jpg?t=1782656001",
+        "Date": "TBA",
+        "AddedDate": "2026-06-28",
+        "AddedTimestamp": 1782656329.9496734,
+        "MatchedTags": [
+            "strategy",
+            "colony sim",
+            "management",
+            "resource management"
         ]
     }
 }
