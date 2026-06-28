@@ -48340,9 +48340,9 @@
         "URL": "https://store.steampowered.com/app/4673710/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4673710/2bf3d6355349c23c175b444c2c856bcc2871a130/header.jpg?t=1777666461",
-        "Date": "Jul 15, 2026",
-        "AddedDate": "2026-06-13",
-        "AddedTimestamp": 1781383342.9121823,
+        "Date": "Jul 31, 2026",
+        "AddedDate": "2026-06-28",
+        "AddedTimestamp": 1782684966.8795476,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -84197,9 +84197,9 @@
         "URL": "https://store.steampowered.com/app/4810410/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4810410/dabef8dca5558b1f08eceb065b7b85896c6b68a3/header.jpg?t=1781312288",
-        "Date": "Jul 16, 2026",
-        "AddedDate": "2026-06-22",
-        "AddedTimestamp": 1782163146.813153,
+        "Date": "Jul 30, 2026",
+        "AddedDate": "2026-06-28",
+        "AddedTimestamp": 1782685001.5785568,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -87248,7 +87248,7 @@
     "4731940": {
         "Title": "RITUAL",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/3nFTEKVSvc",
         "URL": "https://store.steampowered.com/app/4731940/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4731940/bb5773f4bfb84b5dc012cd8e37850d452b778377/header.jpg?t=1781643454",
@@ -90613,9 +90613,9 @@
         "URL": "https://store.steampowered.com/app/4793580/",
         "Site": "https://thelostfile-lend.ru/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4793580/b40c89ddd9cd335527714f748e24a1c440d149b4/header.jpg?t=1781893216",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-06-19",
-        "AddedTimestamp": 1781899592.5307953,
+        "Date": "2027",
+        "AddedDate": "2026-06-28",
+        "AddedTimestamp": 1782684985.8567386,
         "MatchedTags": [
             "psychological horror",
             "horror",
@@ -92883,9 +92883,9 @@
         "URL": "https://store.steampowered.com/app/4854300/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4854300/0931433e89619429a8ab0360f1980f05b4355059/header.jpg?t=1782222588",
-        "Date": "Jul 6, 2026",
-        "AddedDate": "2026-06-23",
-        "AddedTimestamp": 1782222694.0175965,
+        "Date": "July 2026",
+        "AddedDate": "2026-06-28",
+        "AddedTimestamp": 1782685022.7238064,
         "MatchedTags": [
             "management",
             "resource management"
@@ -97352,6 +97352,68 @@
         "AddedTimestamp": 1782679062.4660528,
         "MatchedTags": [
             "tactical rpg"
+        ]
+    },
+    "3912530": {
+        "Title": "Plate And Profit",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3912530/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3912530/7c25ed29889deaf419806024daddb79d908b502c/header.jpg?t=1782680412",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-28",
+        "AddedTimestamp": 1782684952.9370248,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4828390": {
+        "Title": "Forsaken Fleet",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4828390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4828390/1c70d448a0217c81ce368984fbba5c4d1a1ca844/header.jpg?t=1782683037",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-28",
+        "AddedTimestamp": 1782685007.0548413,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4853610": {
+        "Title": "Taskbar Syndicate",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4853610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4853610/8b66d5d8af447b68eca6f00724e6f2367dec1339/header.jpg?t=1782682874",
+        "Date": "TBA",
+        "AddedDate": "2026-06-28",
+        "AddedTimestamp": 1782685019.843469,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management",
+            "economy"
+        ]
+    },
+    "4884440": {
+        "Title": "Scary Stories: Grotesque",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4884440/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4884440/50e58b1fab8ed93ea2e2e57438188a9d1466a709/header.jpg?t=1782681547",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-06-28",
+        "AddedTimestamp": 1782685034.5461824,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
         ]
     }
 }
