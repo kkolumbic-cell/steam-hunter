@@ -26924,9 +26924,9 @@
         "URL": "https://store.steampowered.com/app/1778140/",
         "Site": "https://neonpunklabs.com/games",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778140/c96d8bb086c250f90ed3490266e2d955ffd197b8/header.jpg?t=1775800997",
-        "Date": "2026",
-        "AddedDate": "2026-04-27",
-        "AddedTimestamp": 1777282230.010728,
+        "Date": "To be announced",
+        "AddedDate": "2026-06-28",
+        "AddedTimestamp": 1782664685.1258657,
         "MatchedTags": [
             "strategy"
         ]
@@ -45557,9 +45557,9 @@
         "URL": "https://store.steampowered.com/app/3936610/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3936610/4c994dffe6840c2ee0e653afe281685ae85db64c/header.jpg?t=1777478855",
-        "Date": "Jun 11, 2026",
-        "AddedDate": "2026-04-29",
-        "AddedTimestamp": 1777481674.6220276,
+        "Date": "Jun 30, 2026",
+        "AddedDate": "2026-06-28",
+        "AddedTimestamp": 1782664689.906788,
         "MatchedTags": [
             "strategy"
         ]
@@ -58057,9 +58057,9 @@
         "URL": "https://store.steampowered.com/app/4644470/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4644470/75353cc053ff35d8b301a642be2a063a01e0e691/header.jpg?t=1778747552",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-14",
-        "AddedTimestamp": 1778755030.5917852,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-28",
+        "AddedTimestamp": 1782664716.9833171,
         "MatchedTags": [
             "tower defense"
         ]
@@ -68953,9 +68953,9 @@
         "URL": "https://store.steampowered.com/app/4699770/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4699770/19338f4b89cccff352ce033d92d58576ebd44ce7/header.jpg?t=1780077112",
-        "Date": "2026",
-        "AddedDate": "2026-06-14",
-        "AddedTimestamp": 1781459549.2047982,
+        "Date": "Oct 29, 2026",
+        "AddedDate": "2026-06-28",
+        "AddedTimestamp": 1782664728.5649889,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -78468,9 +78468,9 @@
         "URL": "https://store.steampowered.com/app/4633600/",
         "Site": "https://www.instagram.com/megacitysim?igsh=aWR0M2gwcW9wZDVr",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4633600/83121d55ba185298df376e6a5f9a6bf81b3a00b1/header.jpg?t=1780944388",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-08",
-        "AddedTimestamp": 1780947539.2446942,
+        "Date": "Jun 28, 2026",
+        "AddedDate": "2026-06-28",
+        "AddedTimestamp": 1782664710.8585865,
         "MatchedTags": [
             "strategy",
             "city builder",
@@ -84768,8 +84768,8 @@
         "AddedDate": "2026-06-16",
         "AddedTimestamp": 1781568383.6872256,
         "MatchedTags": [
-            "turn-based tactics",
             "strategy",
+            "turn-based tactics",
             "resource management",
             "turn-based strategy",
             "turn-based combat"
@@ -97258,6 +97258,71 @@
             "colony sim",
             "management",
             "resource management"
+        ]
+    },
+    "4713070": {
+        "Title": "Misdamnation",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4713070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4713070/a4fc78591bd3c447fac3cf6a0dbc780a377f2093/header.jpg?t=1782664452",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-28",
+        "AddedTimestamp": 1782664731.1896167,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4773610": {
+        "Title": "Solar Frontier",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4773610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4773610/767e5410137533451fea0e69bb5bf58f9166ec01/header.jpg?t=1782657163",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-28",
+        "AddedTimestamp": 1782664737.6639917,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "management",
+            "tactical",
+            "economy"
+        ]
+    },
+    "4849630": {
+        "Title": "Vape Store Miami: Prologue",
+        "Email": "",
+        "Discord": "https://discord.gg/3jtjQgJXbM",
+        "URL": "https://store.steampowered.com/app/4849630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4849630/e7a3388483fedf0aec1af1844aa5363965869a3b/header.jpg?t=1782661874",
+        "Date": "Jul 9, 2026",
+        "AddedDate": "2026-06-28",
+        "AddedTimestamp": 1782664769.431649,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4851260": {
+        "Title": "Warehouse Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4851260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4851260/6dfce7e6d5b2c1279ed4f10fd285de804c409b03/header.jpg?t=1782656918",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-28",
+        "AddedTimestamp": 1782664772.0912588,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management"
         ]
     }
 }
