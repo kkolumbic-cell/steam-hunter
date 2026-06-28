@@ -56283,7 +56283,7 @@
     "4571190": {
         "Title": "Illegal Alien Tower Defense",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/YJmJE4RVKk",
         "URL": "https://store.steampowered.com/app/4571190/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4571190/da3712cc2226c3148ee12993ef620c9ad090b609/header.jpg?t=1778609258",
@@ -73200,9 +73200,9 @@
         "URL": "https://store.steampowered.com/app/4781900/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4781900/3e16b97b420ac7afb60407d253df2dece19a4a9d/header.jpg?t=1780469172",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-03",
-        "AddedTimestamp": 1780471094.1318233,
+        "Date": "Jun 27, 2026",
+        "AddedDate": "2026-06-28",
+        "AddedTimestamp": 1782605778.6420455,
         "MatchedTags": [
             "management"
         ]
@@ -94854,7 +94854,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4515840/",
-        "Site": "",
+        "Site": "https://polyminal.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4515840/8ede210a8381b951888a68aef5ae54fdfe8f27af/header.jpg?t=1782412511",
         "Date": "Coming soon",
         "AddedDate": "2026-06-25",
@@ -95993,9 +95993,9 @@
     "4888040": {
         "Title": "Soldier Offensive",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/7EvdC8MybM",
         "URL": "https://store.steampowered.com/app/4888040/",
-        "Site": "",
+        "Site": "https://casayonastudio.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4888040/0b04cd6303dffab9eeab154a81a885d5ae1be58a/header.jpg?t=1782500566",
         "Date": "November 2026",
         "AddedDate": "2026-06-26",
@@ -97121,6 +97121,21 @@
             "psychological horror",
             "survival horror",
             "resource management"
+        ]
+    },
+    "4884560": {
+        "Title": "GodWright",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4884560/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4884560/64bf3278c44e810a77517061f20624e54efa9b8e/header.jpg?t=1782600864",
+        "Date": "Jul 6, 2026",
+        "AddedDate": "2026-06-28",
+        "AddedTimestamp": 1782605805.9092243,
+        "MatchedTags": [
+            "city builder",
+            "colony sim"
         ]
     }
 }
