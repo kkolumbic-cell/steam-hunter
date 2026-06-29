@@ -85136,9 +85136,9 @@
         "URL": "https://store.steampowered.com/app/4217740/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4217740/577ccdc919e6d755992fec268729254982cc4eb7/header.jpg?t=1781484778",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-15",
-        "AddedTimestamp": 1781501422.2616568,
+        "Date": "Jun 28, 2026",
+        "AddedDate": "2026-06-29",
+        "AddedTimestamp": 1782696744.3189611,
         "MatchedTags": [
             "strategy"
         ]
@@ -91814,9 +91814,9 @@
         "URL": "https://store.steampowered.com/app/4853070/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853070/1e029a9aad06be7eeaacfbb6340abb36e8c6d291/header.jpg?t=1782146883",
-        "Date": "Jun 29, 2026",
-        "AddedDate": "2026-06-22",
-        "AddedTimestamp": 1782151172.7540774,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-29",
+        "AddedTimestamp": 1782696822.7913632,
         "MatchedTags": [
             "strategy",
             "colony sim",
@@ -95259,9 +95259,9 @@
         "URL": "https://store.steampowered.com/app/4761830/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4761830/1efd6402bc5bee72bb15417581f62d39de47ccab/header.jpg?t=1782442612",
-        "Date": "2027",
-        "AddedDate": "2026-06-26",
-        "AddedTimestamp": 1782455587.391451,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-06-29",
+        "AddedTimestamp": 1782696795.2225661,
         "MatchedTags": [
             "psychological horror",
             "horror",
@@ -97414,6 +97414,22 @@
             "horror",
             "survival horror",
             "psychological horror"
+        ]
+    },
+    "4875250": {
+        "Title": "Mindscape",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4875250/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4875250/1753c40bc531a47d846b233d4c039e29991057f9/header.jpg?t=1782694994",
+        "Date": "Aug 6, 2026",
+        "AddedDate": "2026-06-29",
+        "AddedTimestamp": 1782696831.3771818,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "resource management"
         ]
     }
 }
