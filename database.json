@@ -512,7 +512,7 @@
     "4468180": {
         "Title": "AI Society",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/WCEKUdAS3z",
         "URL": "https://store.steampowered.com/app/4468180/",
         "Site": "https://b8ve.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4468180/b96a00d8440cb5a61ee44637363d72a2f2cd0295/header.jpg?t=1772642234",
@@ -45446,9 +45446,9 @@
         "URL": "https://store.steampowered.com/app/4169590/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4169590/b5d9a8c413bb30695c716573efa53dd63a7fd93b/header.jpg?t=1777472578",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-29",
-        "AddedTimestamp": 1777473141.0476172,
+        "Date": "July 2026",
+        "AddedDate": "2026-06-29",
+        "AddedTimestamp": 1782766671.9705565,
         "MatchedTags": [
             "strategy",
             "horror",
@@ -52225,9 +52225,9 @@
         "URL": "https://store.steampowered.com/app/4698340/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4698340/c98f62a155b7595c7418021dba8a5c49c7f8d2fb/header.jpg?t=1778086411",
-        "Date": "Jun 29, 2026",
+        "Date": "June 2026",
         "AddedDate": "2026-06-29",
-        "AddedTimestamp": 1782735193.8805377,
+        "AddedTimestamp": 1782766725.3413637,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -62963,8 +62963,7 @@
         "AddedDate": "2026-05-22",
         "AddedTimestamp": 1779463635.5292141,
         "MatchedTags": [
-            "management",
-            "economy"
+            "management"
         ]
     },
     "4743320": {
@@ -88658,7 +88657,7 @@
     },
     "4836910": {
         "Title": "Grand Vista Hotel",
-        "Email": "contact@gamesofnilsson.com, support@gamesofnilsson.com",
+        "Email": "support@gamesofnilsson.com, contact@gamesofnilsson.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4836910/",
         "Site": "https://gamesofnilsson.com",
@@ -92932,7 +92931,7 @@
     },
     "4068400": {
         "Title": "Dark Star",
-        "Email": "",
+        "Email": "info@whysostudios.ca",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4068400/",
         "Site": "https://whysostudios.ca",
@@ -97938,6 +97937,142 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4731960": {
+        "Title": "ArMystic",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4731960/",
+        "Site": "https://www.harrisontrinder.com/armystic",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4731960/ecaecf0e9609fc2a72e7197fc6ec1336351b85dc/header.jpg?t=1782760733",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-29",
+        "AddedTimestamp": 1782766732.644045,
+        "MatchedTags": [
+            "turn-based combat",
+            "horror",
+            "psychological horror",
+            "strategy"
+        ]
+    },
+    "4780710": {
+        "Title": "Wave Chess",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4780710/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4780710/fe02760dfcaa17fc3412a8c0f8473ddae511aec9/header.jpg?t=1782766209",
+        "Date": "TBA",
+        "AddedDate": "2026-06-29",
+        "AddedTimestamp": 1782766744.1987703,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4801430": {
+        "Title": "N-OS: Desktop Story",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4801430/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4801430/d0555b9a225c3f89bf349fda457c4c3e2372ba36/header.jpg?t=1782758930",
+        "Date": "Aug 3, 2026",
+        "AddedDate": "2026-06-29",
+        "AddedTimestamp": 1782766750.9824138,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4833590": {
+        "Title": "Final Commit",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4833590/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4833590/39008ba08305d4ff8ef7da87433ffd25e89bac7f/header.jpg?t=1782765851",
+        "Date": "2026",
+        "AddedDate": "2026-06-29",
+        "AddedTimestamp": 1782766765.8163185,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4864430": {
+        "Title": "Shine on Savior",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4864430/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4864430/d3ca5925ddd68202331e2b74fbf202e6ace6ba64/header.jpg?t=1782762955",
+        "Date": "December 2029",
+        "AddedDate": "2026-06-29",
+        "AddedTimestamp": 1782766787.1141493,
+        "MatchedTags": [
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4864730": {
+        "Title": "OVERLOADED: Tower Delivery",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4864730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4864730/c2dc7f2b4fd3e2be19d088f2cc47970bdba5b3f3/header.jpg?t=1782764221",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-29",
+        "AddedTimestamp": 1782766792.1308544,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4868470": {
+        "Title": "Arcane Forge",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4868470/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4868470/7abdf6421f3c023900c1f8539f9ac724a3218061/header.jpg?t=1782763359",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-29",
+        "AddedTimestamp": 1782766800.7722554,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4875310": {
+        "Title": "Icon: Voidfall",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4875310/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4875310/2f77316e0605ff0a2570ee5fe9b44466a1533184/header.jpg?t=1782765802",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-29",
+        "AddedTimestamp": 1782766805.426959,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "base building",
+            "resource management"
+        ]
+    },
+    "4897540": {
+        "Title": "Miner Survivor",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4897540/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4897540/fd13ee79a0868b18422f7a19ba33b4e8257be851/header.jpg?t=1782766116",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-29",
+        "AddedTimestamp": 1782766812.0025218,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "resource management"
         ]
     }
 }
