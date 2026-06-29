@@ -3695,9 +3695,9 @@
         "URL": "https://store.steampowered.com/app/4426740/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4426740/a377faf8f52ed2c77e1e40cb825313bb2dec1a45/header.jpg?t=1772920493",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-05-08",
-        "AddedTimestamp": 1778265986.0938034,
+        "Date": "Jun 29, 2026",
+        "AddedDate": "2026-06-29",
+        "AddedTimestamp": 1782772382.3151526,
         "MatchedTags": [
             "real time tactics",
             "strategy",
@@ -12447,12 +12447,12 @@
         "AddedDate": "2026-04-25",
         "AddedTimestamp": 1777088037.91168,
         "MatchedTags": [
-            "strategy",
             "turn-based tactics",
             "turn-based strategy",
-            "tactical",
             "tactical rpg",
-            "turn-based combat"
+            "strategy",
+            "turn-based combat",
+            "tactical"
         ]
     },
     "4524630": {
@@ -77157,9 +77157,9 @@
         "URL": "https://store.steampowered.com/app/4779820/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4779820/5e6e7f26c8e2de864ab5f108f742774e3db5dd29/header.jpg?t=1780781235",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-06",
-        "AddedTimestamp": 1780784377.063019,
+        "Date": "Jul 22, 2026",
+        "AddedDate": "2026-06-29",
+        "AddedTimestamp": 1782772419.7303975,
         "MatchedTags": [
             "resource management"
         ]
@@ -85658,9 +85658,9 @@
         "URL": "https://store.steampowered.com/app/4772730/",
         "Site": "https://www.aterxhobby.com/railroadrummy",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4772730/67945ca81a0d5dc22834b6bfa6b19e0d1009f386/header.jpg?t=1781544020",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-28",
-        "AddedTimestamp": 1782648000.8141913,
+        "Date": "Jun 29, 2026",
+        "AddedDate": "2026-06-29",
+        "AddedTimestamp": 1782772416.5287652,
         "MatchedTags": [
             "strategy",
             "tactical"
@@ -86352,9 +86352,9 @@
         "URL": "https://store.steampowered.com/app/4803630/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803630/462db031876f8e3df503f6de31dd72c431fc543b/header.jpg?t=1781587920",
-        "Date": "June 2026",
-        "AddedDate": "2026-06-16",
-        "AddedTimestamp": 1781610111.3559728,
+        "Date": "Jun 29, 2026",
+        "AddedDate": "2026-06-29",
+        "AddedTimestamp": 1782772425.8721538,
         "MatchedTags": [
             "turn-based tactics"
         ]
@@ -97963,9 +97963,9 @@
         "URL": "https://store.steampowered.com/app/4780710/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4780710/fe02760dfcaa17fc3412a8c0f8473ddae511aec9/header.jpg?t=1782766209",
-        "Date": "TBA",
+        "Date": "Coming soon",
         "AddedDate": "2026-06-29",
-        "AddedTimestamp": 1782766744.1987703,
+        "AddedTimestamp": 1782772423.0553932,
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
@@ -98073,6 +98073,58 @@
             "strategy",
             "tower defense",
             "resource management"
+        ]
+    },
+    "548800": {
+        "Title": "OFS",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/548800/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/548800/0750f1fafcdbdc0a2fc2db66fcd18aed81005b59/header.jpg?t=1782772105",
+        "Date": "July 2026",
+        "AddedDate": "2026-06-29",
+        "AddedTimestamp": 1782772364.2552097,
+        "MatchedTags": [
+            "real time tactics",
+            "management",
+            "resource management"
+        ]
+    },
+    "4769560": {
+        "Title": "Ironholm: Reign of the Isles",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4769560/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4769560/846f700108c6ab42b9a334d26004195161c1bf9d/header.jpg?t=1782769176",
+        "Date": "2026",
+        "AddedDate": "2026-06-29",
+        "AddedTimestamp": 1782772413.6830242,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "grand strategy",
+            "real time tactics",
+            "tactical",
+            "management",
+            "base building"
+        ]
+    },
+    "4866340": {
+        "Title": "Pistols at Dawn",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4866340/",
+        "Site": "https://www.dogsplayingdead.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4866340/a54792caa5654494b3d2b27976cc9fbf9c76456d/header.jpg?t=1782772066",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-29",
+        "AddedTimestamp": 1782772449.5931554,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based combat"
         ]
     }
 }
