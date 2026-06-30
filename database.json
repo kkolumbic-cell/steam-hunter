@@ -41469,9 +41469,9 @@
         "URL": "https://store.steampowered.com/app/4662680/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4662680/2f45c34dfc590f29fb8a00cbf6f90957ce0bab1a/header.jpg?t=1777072282",
-        "Date": "June 2026",
-        "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1777075052.0801606,
+        "Date": "2026",
+        "AddedDate": "2026-06-30",
+        "AddedTimestamp": 1782853669.1727614,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -43338,9 +43338,9 @@
         "URL": "https://store.steampowered.com/app/4589210/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4589210/c8575f6bf064f8e912c8bc33d30d33536a5cdfac/header.jpg?t=1777323075",
-        "Date": "Jun 6, 2026",
-        "AddedDate": "2026-06-06",
-        "AddedTimestamp": 1780771249.7742844,
+        "Date": "Jun 30, 2026",
+        "AddedDate": "2026-06-30",
+        "AddedTimestamp": 1782853648.42046,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -63272,9 +63272,9 @@
         "AddedDate": "2026-06-23",
         "AddedTimestamp": 1782242596.84013,
         "MatchedTags": [
-            "economy",
-            "management",
             "strategy",
+            "management",
+            "economy",
             "resource management"
         ]
     },
@@ -85550,9 +85550,9 @@
         "URL": "https://store.steampowered.com/app/4454200/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4454200/39f92b34e5fa80f9e0219998510f76172c760d4c/header.jpg?t=1781546406",
-        "Date": "Jul 10, 2026",
-        "AddedDate": "2026-06-15",
-        "AddedTimestamp": 1781546774.3344333,
+        "Date": "Jun 30, 2026",
+        "AddedDate": "2026-06-30",
+        "AddedTimestamp": 1782853632.7916417,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -90427,7 +90427,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4841030/",
-        "Site": "",
+        "Site": "http://www.devsolostudio.com/games/hollow-signal",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841030/4c97d1a6cee6814a86bb0ca6c1f55f76534396ad/header.jpg?t=1781891301",
         "Date": "Jul 14, 2026",
         "AddedDate": "2026-06-21",
@@ -98981,9 +98981,9 @@
         "URL": "https://store.steampowered.com/app/4896520/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4896520/a1bb1c72986215549cda95069005f4bc2d1a06c0/header.jpg?t=1782845938",
-        "Date": "Jul 10, 2026",
+        "Date": "July 2026",
         "AddedDate": "2026-06-30",
-        "AddedTimestamp": 1782846699.3349547,
+        "AddedTimestamp": 1782853766.022953,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -99002,6 +99002,98 @@
         "AddedTimestamp": 1782846701.6832566,
         "MatchedTags": [
             "turn-based combat"
+        ]
+    },
+    "4582390": {
+        "Title": "The Internship",
+        "Email": "",
+        "Discord": "https://discord.gg/5F85QKS4W",
+        "URL": "https://store.steampowered.com/app/4582390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4582390/82a30ce98727b7b06521144b4d99ae54d8fdf1b1/header.jpg?t=1782848660",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-30",
+        "AddedTimestamp": 1782853645.2371385,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4657270": {
+        "Title": "Amalgamist",
+        "Email": "",
+        "Discord": "https://discord.gg/5VVrG7g35p",
+        "URL": "https://store.steampowered.com/app/4657270/",
+        "Site": "https://www.virtualmaker.dev/amalgamist",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4657270/5d6c0ab6da7681226e6eee0f65f305a8994e9489/header.jpg?t=1782851859",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-30",
+        "AddedTimestamp": 1782853665.5050936,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4882250": {
+        "Title": "The Pathbound Wayfarer",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4882250/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4882250/584b50706dc2758ebd78cd85bbbbbeeeef29b6cd/header.jpg?t=1782852227",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-30",
+        "AddedTimestamp": 1782853741.6694481,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4887630": {
+        "Title": "KEYKRUNCHER\u2122",
+        "Email": "contact@sunscorchedstudios.co.uk",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4887630/",
+        "Site": "https://sunscorchedstudios.co.uk/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4887630/d8225164c882199499c0c9b3402a9ba41a28a407/header.jpg?t=1782853351",
+        "Date": "To be announced",
+        "AddedDate": "2026-06-30",
+        "AddedTimestamp": 1782853753.3027387,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4893880": {
+        "Title": "Von Neumann Project",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4893880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4893880/804e3b935a5e240f67f85c207cbbfa6bdda6865a/header.jpg?t=1782852945",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-06-30",
+        "AddedTimestamp": 1782853761.730687,
+        "MatchedTags": [
+            "tower defense",
+            "strategy",
+            "base building",
+            "tactical",
+            "resource management"
+        ]
+    },
+    "4895420": {
+        "Title": "Observer's Mobius",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4895420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4895420/f02db7dc2c67986c12ac2fc98443dbf36825edbc/header.jpg?t=1782846658",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-30",
+        "AddedTimestamp": 1782853763.569007,
+        "MatchedTags": [
+            "psychological horror"
         ]
     }
 }
