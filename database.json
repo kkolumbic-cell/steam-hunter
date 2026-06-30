@@ -64663,9 +64663,9 @@
         "URL": "https://store.steampowered.com/app/4761300/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4761300/bd6a4e1ae2f6597bc87d024f56ceec523906ebd2/header.jpg?t=1779754325",
-        "Date": "2026",
-        "AddedDate": "2026-05-26",
-        "AddedTimestamp": 1779770364.0034363,
+        "Date": "Jun 29, 2026",
+        "AddedDate": "2026-06-30",
+        "AddedTimestamp": 1782782801.9446552,
         "MatchedTags": [
             "management"
         ]
@@ -71364,9 +71364,10 @@
         "AddedDate": "2026-06-24",
         "AddedTimestamp": 1782276051.9232554,
         "MatchedTags": [
-            "strategy",
             "economy",
-            "management"
+            "strategy",
+            "management",
+            "real time tactics"
         ]
     },
     "4756960": {
@@ -92100,9 +92101,9 @@
         "URL": "https://store.steampowered.com/app/4871920/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4871920/df6ae601d7998b441623fe907efd09de28db1959/header.jpg?t=1782155157",
-        "Date": "Jul 6, 2026",
-        "AddedDate": "2026-06-22",
-        "AddedTimestamp": 1782163220.408631,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-30",
+        "AddedTimestamp": 1782782842.5606112,
         "MatchedTags": [
             "horror",
             "resource management"
@@ -93358,9 +93359,9 @@
         "URL": "https://store.steampowered.com/app/4851270/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4851270/f848d9d0a393491e61b80d4f6e758e1318ff288e/header.jpg?t=1782238720",
-        "Date": "Jun 29, 2026",
-        "AddedDate": "2026-06-23",
-        "AddedTimestamp": 1782242662.0642493,
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-30",
+        "AddedTimestamp": 1782782822.0257423,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -98066,9 +98067,9 @@
         "URL": "https://store.steampowered.com/app/4897540/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4897540/fd13ee79a0868b18422f7a19ba33b4e8257be851/header.jpg?t=1782766116",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-29",
-        "AddedTimestamp": 1782766812.0025218,
+        "Date": "Jul 13, 2026",
+        "AddedDate": "2026-06-30",
+        "AddedTimestamp": 1782782866.9983566,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -98125,6 +98126,71 @@
             "strategy",
             "turn-based tactics",
             "turn-based combat"
+        ]
+    },
+    "4529290": {
+        "Title": "Business Manager",
+        "Email": "",
+        "Discord": "https://discord.gg/G5wbshz8Ww",
+        "URL": "https://store.steampowered.com/app/4529290/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4529290/3bfd1815e539fe6f9bb2fe8d48791e801513fdc2/header.jpg?t=1782780770",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-30",
+        "AddedTimestamp": 1782782757.098683,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "economy",
+            "management",
+            "tactical",
+            "resource management"
+        ]
+    },
+    "4872330": {
+        "Title": "Hotel The Memory",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4872330/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872330/aeb80b372184b34bfebd5be75a707bdf5c56c6d9/header.jpg?t=1782780869",
+        "Date": "Jul 28, 2026",
+        "AddedDate": "2026-06-30",
+        "AddedTimestamp": 1782782848.3743572,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4884590": {
+        "Title": "DEBTMASTER",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4884590/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4884590/e25a514f4613f7d9fae597f6f1d882334bbb77b4/header.jpg?t=1782780931",
+        "Date": "Coming soon",
+        "AddedDate": "2026-06-30",
+        "AddedTimestamp": 1782782853.0483432,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "resource management",
+            "management"
+        ]
+    },
+    "4888720": {
+        "Title": "Zombie City Together",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4888720/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4888720/41e26947e93a96ddd5145a31daf8f1f57de1e75b/header.jpg?t=1782782415",
+        "Date": "Jul 15, 2026",
+        "AddedDate": "2026-06-30",
+        "AddedTimestamp": 1782782859.2949154,
+        "MatchedTags": [
+            "survival horror"
         ]
     }
 }
