@@ -52223,9 +52223,9 @@
         "URL": "https://store.steampowered.com/app/4698340/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4698340/c98f62a155b7595c7418021dba8a5c49c7f8d2fb/header.jpg?t=1778086411",
-        "Date": "June 2026",
-        "AddedDate": "2026-06-29",
-        "AddedTimestamp": 1782766725.3413637,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1783028135.2357826,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -86104,9 +86104,9 @@
         "URL": "https://store.steampowered.com/app/4838360/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838360/554f51832bff5255fda856600eece3254318e579/header.jpg?t=1781550293",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-15",
-        "AddedTimestamp": 1781559099.5703516,
+        "Date": "Aug 28, 2026",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1783028159.1178875,
         "MatchedTags": [
             "strategy",
             "city builder",
@@ -100339,9 +100339,9 @@
         "URL": "https://store.steampowered.com/app/4893340/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4893340/78b12883ba0ad7312d618969e207912965125a2c/header.jpg?t=1783005482",
-        "Date": "August 2026",
+        "Date": "Jul 24, 2026",
         "AddedDate": "2026-07-02",
-        "AddedTimestamp": 1783015563.0962427,
+        "AddedTimestamp": 1783028196.0166397,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -100712,6 +100712,66 @@
         "MatchedTags": [
             "turn-based strategy",
             "turn-based combat"
+        ]
+    },
+    "4210440": {
+        "Title": "Solvizz",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4210440/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4210440/4bc158e9f04b734371ae0ec8751b78bf7ba56b7b/header.jpg?t=1783025400",
+        "Date": "TBA",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1783028098.9419694,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4871240": {
+        "Title": "Nostos",
+        "Email": "hello@attractmode.co.uk",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4871240/",
+        "Site": "https://attractmode.co.uk/nostos/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4871240/7085b2bad4e3129fc13fa0084d0398e2cf3ada0f/header.jpg?t=1783026869",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1783028172.836542,
+        "MatchedTags": [
+            "strategy",
+            "horror",
+            "survival horror",
+            "tactical"
+        ]
+    },
+    "4887830": {
+        "Title": "Liminal Protocol",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4887830/",
+        "Site": "https://games.rabbithouse.art/LiminalProtocol",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4887830/fc10cca2305ffdc22aa66fb523ccc1fc8729ff1b/header.jpg?t=1783024256",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1783028181.1618104,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4903130": {
+        "Title": "Railflow",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4903130/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4903130/6087eb236d3f82ec73cb4c12176760bc42158a81/header.jpg?t=1783026513",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1783028206.5568714,
+        "MatchedTags": [
+            "management"
         ]
     }
 }
