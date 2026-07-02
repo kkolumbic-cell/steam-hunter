@@ -8141,9 +8141,9 @@
         "URL": "https://store.steampowered.com/app/4380850/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4380850/3c833245f8dc3e5bb2d821d5e8a764125bbe7c9c/header.jpg?t=1773666585",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-03",
-        "AddedTimestamp": 1780488937.5649736,
+        "Date": "Jul 2, 2026",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1783035078.7322485,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -68961,8 +68961,7 @@
         "MatchedTags": [
             "economy",
             "resource management",
-            "management",
-            "horror"
+            "management"
         ]
     },
     "4734610": {
@@ -80099,9 +80098,9 @@
         "URL": "https://store.steampowered.com/app/4785390/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4785390/1ce3a7c02aaac0abd8016d30a51308d9259a2fb0/header.jpg?t=1781050383",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-10",
-        "AddedTimestamp": 1781055219.992067,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1783035105.8349164,
         "MatchedTags": [
             "strategy",
             "horror",
@@ -89409,9 +89408,9 @@
         "URL": "https://store.steampowered.com/app/4840340/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4840340/4bcfd7ff042ae65e71d411273b97bdf78c238732/header.jpg?t=1781812711",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-18",
-        "AddedTimestamp": 1781824272.3892422,
+        "Date": "Jul 2, 2026",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1783035125.1458566,
         "MatchedTags": [
             "tactical"
         ]
@@ -89519,9 +89518,9 @@
         "URL": "https://store.steampowered.com/app/3546250/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3546250/eab9098b4437e7644649d45182bbf11d3c8c8b68/header.jpg?t=1781816688",
-        "Date": "To be announced",
-        "AddedDate": "2026-06-18",
-        "AddedTimestamp": 1781824149.6238341,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1783035068.9498267,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -100772,6 +100771,63 @@
         "AddedTimestamp": 1783028206.5568714,
         "MatchedTags": [
             "management"
+        ]
+    },
+    "4811680": {
+        "Title": "Backdoor",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4811680/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4811680/b4c854ff3446bc24743826d8a962108c76efc4ae/header.jpg?t=1783032587",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1783035112.281299,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4861790": {
+        "Title": "Check-In Anomaly",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4861790/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4861790/a1cb1bef5d33b6cfb3001de8c15e6a795324df41/header.jpg?t=1783028363",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1783035132.1396577,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4894120": {
+        "Title": "Los Cuentos de Frox",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4894120/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4894120/93f54d8113e80efa46da8cf38b5e0da4d212db32/header.jpg?t=1783030976",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1783035140.718839,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4895390": {
+        "Title": "SLIDE BLOCKS \uff5e\u30d6\u30ed\u30c3\u30af\u3092\u30b4\u30fc\u30eb\u306b\u904b\u307c\u3046\uff01\uff5e",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4895390/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895390/ed1abf1e4b085c598a07c9720ecc3ccc2898ab75/header.jpg?t=1783034795",
+        "Date": "July 2026",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1783035144.086697,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
