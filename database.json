@@ -68155,9 +68155,9 @@
         "URL": "https://store.steampowered.com/app/4728590/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4728590/d6e1478c4e3ae9c2840730767ade9af3b108f60a/header.jpg?t=1780023206",
-        "Date": "Jul 1, 2026",
-        "AddedDate": "2026-05-29",
-        "AddedTimestamp": 1780030041.3430974,
+        "Date": "Jul 2, 2026",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1782995008.114446,
         "MatchedTags": [
             "tower defense",
             "strategy"
@@ -69411,9 +69411,8 @@
         "AddedDate": "2026-06-13",
         "AddedTimestamp": 1781314594.38918,
         "MatchedTags": [
-            "strategy",
             "tower defense",
-            "base building",
+            "strategy",
             "tactical",
             "economy"
         ]
@@ -80159,9 +80158,9 @@
         "URL": "https://store.steampowered.com/app/4820270/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4820270/c87e521adacc3fde0ed62bf0165f09655e8821f6/header.jpg?t=1781049123",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-28",
-        "AddedTimestamp": 1782679129.0030513,
+        "Date": "Jul 9, 2026",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1782995027.6578562,
         "MatchedTags": [
             "economy",
             "management",
@@ -100133,6 +100132,35 @@
         "AddedTimestamp": 1782985007.378715,
         "MatchedTags": [
             "resource management"
+        ]
+    },
+    "4852580": {
+        "Title": "The Lure",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4852580/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4852580/de6d5205be4932129d893a1e62259ec95e95a3fe/header.jpg?t=1782994129",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1782995045.1504397,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4894180": {
+        "Title": "Thrice-a-dice",
+        "Email": "",
+        "Discord": "https://discord.gg/y5fFg4us",
+        "URL": "https://store.steampowered.com/app/4894180/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4894180/e0e12e312a7ba35df93ab71f9e86ac5f62e647be/header.jpg?t=1782994054",
+        "Date": "2026",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1782995063.936938,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
