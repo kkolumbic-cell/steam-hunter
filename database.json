@@ -8152,7 +8152,7 @@
     "4449620": {
         "Title": "Greedcurse",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/Swh9Mhf5ZS",
         "URL": "https://store.steampowered.com/app/4449620/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4449620/37e671b2eca9e74b258f946ae9335f409e83815e/header.jpg?t=1773666360",
@@ -22336,7 +22336,8 @@
         "AddedTimestamp": 1775249675.1977658,
         "MatchedTags": [
             "strategy",
-            "economy"
+            "economy",
+            "turn-based strategy"
         ]
     },
     "4537600": {
@@ -34956,9 +34957,9 @@
         "URL": "https://store.steampowered.com/app/4619160/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4619160/0a48736330f5c4199ea2f3d7f016b76dbb45d74f/header.jpg?t=1776541670",
-        "Date": "2027",
-        "AddedDate": "2026-04-23",
-        "AddedTimestamp": 1776902660.7247484,
+        "Date": "Q3 2027",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1782955598.3127985,
         "MatchedTags": [
             "turn-based combat",
             "turn-based tactics",
@@ -87907,7 +87908,7 @@
     "4801830": {
         "Title": "\u4e07\u8c61\u6218\u7565",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/mRywCKZGq",
         "URL": "https://store.steampowered.com/app/4801830/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4801830/3681f67ec34072b5b447c2475a74c65d953a053c/header.jpg?t=1781689316",
@@ -99863,6 +99864,51 @@
         "AddedTimestamp": 1782945756.171594,
         "MatchedTags": [
             "psychological horror"
+        ]
+    },
+    "4688400": {
+        "Title": "Cats In The Shell",
+        "Email": "",
+        "Discord": "https://discord.gg/5qUqERWHUS",
+        "URL": "https://store.steampowered.com/app/4688400/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4688400/f16ea3b144412a577f7799d93dd571ed81db5dd0/header.jpg?t=1782954105",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1782955608.1416886,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4883200": {
+        "Title": "Beyond the Room",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4883200/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883200/f40ac5d59bedcc8609c368f9f2a76daf4f18f304/header.jpg?t=1782945923",
+        "Date": "Jul 31, 2026",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1782955652.6228838,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4883840": {
+        "Title": "Arlo Part I: The Past",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4883840/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883840/22936f11337f7321ba719e29058a446f73535ec9/header.jpg?t=1782948818",
+        "Date": "Jul 30, 2026",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1782955655.4241664,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
         ]
     }
 }
