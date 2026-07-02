@@ -14126,11 +14126,11 @@
         "URL": "https://store.steampowered.com/app/4535930/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4535930/5fd3e0b4da6442c7477b87848718acac55a39e4c/header.jpg?t=1774449209",
-        "Date": "2026",
-        "AddedDate": "2026-03-25",
-        "AddedTimestamp": 1774453078.0107336,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1783022058.993259,
         "MatchedTags": [
-            "strategy",
+            "turn-based strategy",
             "tactical"
         ]
     },
@@ -67517,9 +67517,9 @@
         "URL": "https://store.steampowered.com/app/4657390/",
         "Site": "https://www.original-gamelive.de",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4657390/2fbebee11658816d75828bed46b1fd582eaf8b09/header.jpg?t=1779992453",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-09",
-        "AddedTimestamp": 1781029596.4068866,
+        "Date": "Jul 17, 2026",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1783022077.9237623,
         "MatchedTags": [
             "strategy"
         ]
@@ -72428,9 +72428,9 @@
         "URL": "https://store.steampowered.com/app/4758990/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4758990/1a98937e05d6eb078a0b295cc2fb6b02bacc8356/header.jpg?t=1780408918",
-        "Date": "October 2026",
-        "AddedDate": "2026-06-02",
-        "AddedTimestamp": 1780419778.2086277,
+        "Date": "November 2026",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1783022092.1915529,
         "MatchedTags": [
             "tactical",
             "turn-based tactics"
@@ -93394,9 +93394,9 @@
         "AddedDate": "2026-06-23",
         "AddedTimestamp": 1782242673.8905272,
         "MatchedTags": [
+            "economy",
             "strategy",
-            "management",
-            "economy"
+            "management"
         ]
     },
     "4860100": {
@@ -100593,6 +100593,124 @@
         "AddedDate": "2026-07-02",
         "AddedTimestamp": 1783015574.9999216,
         "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4660920": {
+        "Title": "DREGS",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4660920/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4660920/29e4befd15dcfd1524c9700feaa8cbcfff8a24f0/header.jpg?t=1783018033",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1783022081.4162807,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4832110": {
+        "Title": "Deadline Works",
+        "Email": "",
+        "Discord": "https://discord.gg/deadlineworks",
+        "URL": "https://store.steampowered.com/app/4832110/",
+        "Site": "https://deadlineworks.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4832110/95b631a54680580124377f52f14ff06aab1bd442/header.jpg?t=1783020156",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1783022116.4506235,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "strategy",
+            "base building",
+            "resource management"
+        ]
+    },
+    "4834280": {
+        "Title": "Toimkonna simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4834280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4834280/15420f1dffc3793e29e5d69d1f95df36e5ccf037/header.jpg?t=1783021996",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1783022119.5813713,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4874440": {
+        "Title": "Ultrablight",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4874440/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4874440/9de440b7a66aebc75fea941a74fbef9603de11b8/header.jpg?t=1783017549",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1783022142.2459857,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4882620": {
+        "Title": "InfiniteConflict",
+        "Email": "",
+        "Discord": "https://discord.gg/8XVqA2EjF3",
+        "URL": "https://store.steampowered.com/app/4882620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4882620/2a4a90cf9ba56d360a8e1d843ce545c184cc5ac3/header.jpg?t=1783020775",
+        "Date": "TBA",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1783022147.3412354,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4897850": {
+        "Title": "Bubuia",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4897850/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4897850/d7a7794b1b7485eda08d826ae42220e4188d38c2/header.jpg?t=1783016793",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1783022160.4595137,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4898270": {
+        "Title": "Terminal Closure",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4898270/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4898270/18ea8fb3d1b6759fd6693fab233291c3f90cd9d5/header.jpg?t=1783016603",
+        "Date": "October 2026",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1783022162.332223,
+        "MatchedTags": [
+            "real time tactics",
+            "strategy"
+        ]
+    },
+    "4898570": {
+        "Title": "The Infinite Dungeon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4898570/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4898570/433ca0b725e66cbd917722cf9eb13a2efd7ceb23/header.jpg?t=1783021784",
+        "Date": "Jul 15, 2026",
+        "AddedDate": "2026-07-02",
+        "AddedTimestamp": 1783022164.5092278,
+        "MatchedTags": [
+            "turn-based strategy",
             "turn-based combat"
         ]
     }
