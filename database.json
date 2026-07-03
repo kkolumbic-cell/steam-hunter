@@ -16107,9 +16107,9 @@
         "URL": "https://store.steampowered.com/app/4498250/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4498250/e19ba5e96749104885fd49af2a22dba7ef3548e8/header.jpg?t=1774618514",
-        "Date": "2026",
-        "AddedDate": "2026-03-30",
-        "AddedTimestamp": 1774879470.856554,
+        "Date": "Jul 3, 2026",
+        "AddedDate": "2026-07-03",
+        "AddedTimestamp": 1783114425.355546,
         "MatchedTags": [
             "strategy",
             "tactical",
@@ -21349,9 +21349,9 @@
         "URL": "https://store.steampowered.com/app/4312860/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4312860/87d692b661c30905de3cce41994d1cba8fd52f80/header.jpg?t=1775160630",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775163376.3807077,
+        "Date": "2026",
+        "AddedDate": "2026-07-03",
+        "AddedTimestamp": 1783114418.239761,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -60763,10 +60763,10 @@
         "AddedDate": "2026-05-19",
         "AddedTimestamp": 1779233703.499228,
         "MatchedTags": [
-            "strategy",
             "management",
-            "resource management",
-            "economy"
+            "economy",
+            "strategy",
+            "resource management"
         ]
     },
     "4691430": {
@@ -71946,9 +71946,9 @@
         "URL": "https://store.steampowered.com/app/4767740/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4767740/11895c5c8f01bd09f3d5accbfcf513af0e83a4ab/header.jpg?t=1780376382",
-        "Date": "Jul 13, 2026",
-        "AddedDate": "2026-06-08",
-        "AddedTimestamp": 1780902511.8478737,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-03",
+        "AddedTimestamp": 1783114462.004871,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -87582,9 +87582,9 @@
         "URL": "https://store.steampowered.com/app/4738530/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4738530/64f815b1de51a8f805b30349dcea6b9b9b9e8781/header.jpg?t=1781645727",
-        "Date": "Coming soon",
+        "Date": "Jul 3, 2026",
         "AddedDate": "2026-07-03",
-        "AddedTimestamp": 1783108355.4114692,
+        "AddedTimestamp": 1783114452.794236,
         "MatchedTags": [
             "turn-based strategy",
             "strategy",
@@ -97236,9 +97236,9 @@
         "URL": "https://store.steampowered.com/app/4887610/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4887610/7515b348acea56bb1c99af14c35f441e93a440f0/header.jpg?t=1782656001",
-        "Date": "TBA",
-        "AddedDate": "2026-06-28",
-        "AddedTimestamp": 1782656329.9496734,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-03",
+        "AddedTimestamp": 1783114490.4175508,
         "MatchedTags": [
             "strategy",
             "colony sim",
@@ -101705,6 +101705,96 @@
         "AddedTimestamp": 1783108453.5710454,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4295600": {
+        "Title": "Depono",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4295600/",
+        "Site": "https://ikastudios.com/games/Depono",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4295600/3748d82ffc4351e82446e7aab87e5a368a8cb6a9/header.jpg?t=1783111380",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-03",
+        "AddedTimestamp": 1783114414.8146284,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4488210": {
+        "Title": "Restless",
+        "Email": "",
+        "Discord": "https://discord.gg/DBdxxt46zc",
+        "URL": "https://store.steampowered.com/app/4488210/",
+        "Site": "https://playrestless.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4488210/7bb28b66457f2018b01adf55372b6ee92005005f/header.jpg?t=1783113022",
+        "Date": "TBA",
+        "AddedDate": "2026-07-03",
+        "AddedTimestamp": 1783114422.7233455,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4653110": {
+        "Title": "Tetara",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4653110/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4653110/eca9ec14a6960af0ac14831e97ca285533f81ce0/header.jpg?t=1783112926",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-03",
+        "AddedTimestamp": 1783114433.926525,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4803440": {
+        "Title": "Popping Bubbles in Space",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4803440/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4803440/da47c12d08f6b46b92ee28c15f2c36852e8aa49d/header.jpg?t=1783109001",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-03",
+        "AddedTimestamp": 1783114469.3713424,
+        "MatchedTags": [
+            "psychological horror",
+            "economy"
+        ]
+    },
+    "4892120": {
+        "Title": "ROUTE",
+        "Email": "",
+        "Discord": "https://discord.com/invite/TfknYAMghk",
+        "URL": "https://store.steampowered.com/app/4892120/",
+        "Site": "https://bambit.games",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4892120/bb81c62b7139f10272b94c8e928014ce77137731/header.jpg?t=1783108686",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-03",
+        "AddedTimestamp": 1783114493.117728,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "4901860": {
+        "Title": "The Big Suck",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4901860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4901860/e227322e97852ccfe8c91090128cd73e64791654/header.jpg?t=1783113093",
+        "Date": "TBA",
+        "AddedDate": "2026-07-03",
+        "AddedTimestamp": 1783114500.321293,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "management",
+            "economy"
         ]
     }
 }
