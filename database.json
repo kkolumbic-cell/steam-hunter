@@ -42569,9 +42569,9 @@
         "URL": "https://store.steampowered.com/app/4635600/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4635600/4f8f6bc17c63dfe7749631f4950749cce3d7d99d/header.jpg?t=1777291333",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-27",
-        "AddedTimestamp": 1777300205.6400034,
+        "Date": "Jul 17, 2026",
+        "AddedDate": "2026-07-03",
+        "AddedTimestamp": 1783108312.6726143,
         "MatchedTags": [
             "strategy",
             "tactical"
@@ -73880,7 +73880,9 @@
         "AddedDate": "2026-06-03",
         "AddedTimestamp": 1780522484.3201203,
         "MatchedTags": [
-            "strategy"
+            "strategy",
+            "tower defense",
+            "real time tactics"
         ]
     },
     "4699370": {
@@ -74016,9 +74018,9 @@
         "URL": "https://store.steampowered.com/app/4798810/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798810/dddb6a55145b67c6fdb3acc720b2de3d3860d039/header.jpg?t=1780507335",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-15",
-        "AddedTimestamp": 1781559009.2649894,
+        "Date": "Jul 3, 2026",
+        "AddedDate": "2026-07-03",
+        "AddedTimestamp": 1783108371.1550844,
         "MatchedTags": [
             "strategy"
         ]
@@ -87580,9 +87582,9 @@
         "URL": "https://store.steampowered.com/app/4738530/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4738530/64f815b1de51a8f805b30349dcea6b9b9b9e8781/header.jpg?t=1781645727",
-        "Date": "Jul 3, 2026",
-        "AddedDate": "2026-06-17",
-        "AddedTimestamp": 1781695349.808726,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-03",
+        "AddedTimestamp": 1783108355.4114692,
         "MatchedTags": [
             "turn-based strategy",
             "strategy",
@@ -94144,9 +94146,9 @@
         "URL": "https://store.steampowered.com/app/4828690/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4828690/29bbe6c09942c61a1b5e0ff33eb7b694a3d5ba73/header.jpg?t=1782302633",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-24",
-        "AddedTimestamp": 1782302666.5079815,
+        "Date": "July 2026",
+        "AddedDate": "2026-07-03",
+        "AddedTimestamp": 1783108384.2063243,
         "MatchedTags": [
             "strategy",
             "horror",
@@ -101594,6 +101596,114 @@
             "management",
             "economy",
             "resource management",
+            "strategy"
+        ]
+    },
+    "4673320": {
+        "Title": "Spinja",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4673320/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4673320/24de7d8e544d55bd78bc27270c6fd517af667752/header.jpg?t=1783102033",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-03",
+        "AddedTimestamp": 1783108328.3916671,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4857460": {
+        "Title": "Handoff Required",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4857460/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4857460/567fd294c857fb3b2dd2410d7ceaf6916578bdc8/header.jpg?t=1783101173",
+        "Date": "July 2026",
+        "AddedDate": "2026-07-03",
+        "AddedTimestamp": 1783108400.8948126,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4872850": {
+        "Title": "Duco",
+        "Email": "",
+        "Discord": "https://discord.gg/FjEgXKz67Z",
+        "URL": "https://store.steampowered.com/app/4872850/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4872850/697f8f0819f4e960aae30a7cd9d083e316075700/header.jpg?t=1783100981",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-03",
+        "AddedTimestamp": 1783108414.558052,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4889740": {
+        "Title": "Mow My World",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4889740/",
+        "Site": "https://botdancegames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4889740/10d821c6da0cd012eaf164007a851f5528d57b24/header.jpg?t=1783101259",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-03",
+        "AddedTimestamp": 1783108422.54673,
+        "MatchedTags": [
+            "base building",
+            "city builder",
+            "resource management"
+        ]
+    },
+    "4890980": {
+        "Title": "Red Reconquest",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4890980/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4890980/2b775d4a0c56525fc58bd63e78340c766f41a390/header.jpg?t=1783101680",
+        "Date": "August 2026",
+        "AddedDate": "2026-07-03",
+        "AddedTimestamp": 1783108426.0733159,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4898510": {
+        "Title": "System Cleaner",
+        "Email": "",
+        "Discord": "https://discord.gg/HAuupdU8Vc",
+        "URL": "https://store.steampowered.com/app/4898510/",
+        "Site": "https://radiantbeargames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4898510/c2acc6684052ec98c55a95e80a69c1bf07a1e0cc/header.jpg?t=1783107155",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-03",
+        "AddedTimestamp": 1783108435.7352405,
+        "MatchedTags": [
+            "tower defense",
+            "strategy"
+        ]
+    },
+    "4909940": {
+        "Title": "Killdozer",
+        "Email": "",
+        "Discord": "https://discord.gg/t6WBANu5mX",
+        "URL": "https://store.steampowered.com/app/4909940/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4909940/c2942b0fd80d9b19cfe29921c7b7283e7837f6a6/header.jpg?t=1783107489",
+        "Date": "August 2026",
+        "AddedDate": "2026-07-03",
+        "AddedTimestamp": 1783108453.5710454,
+        "MatchedTags": [
             "strategy"
         ]
     }
