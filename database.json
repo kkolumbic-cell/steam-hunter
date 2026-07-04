@@ -40744,7 +40744,7 @@
     "3457720": {
         "Title": "Incremental Orbits",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/f9QUy3qRV",
         "URL": "https://store.steampowered.com/app/3457720/",
         "Site": "https://bytecatch.io/incremental-orbits",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3457720/ef984b442361aca567369da51278faafe9d49011/header.jpg?t=1777047350",
@@ -50603,9 +50603,9 @@
         "URL": "https://store.steampowered.com/app/4068440/",
         "Site": "https://www.foufy.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4068440/a65446ae7cebc0e3be94f773cc71ecca12817042/header.jpg?t=1777992187",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-05",
-        "AddedTimestamp": 1778000227.6152766,
+        "Date": "Jul 23, 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783181794.3891325,
         "MatchedTags": [
             "resource management"
         ]
@@ -82545,9 +82545,9 @@
         "URL": "https://store.steampowered.com/app/4757640/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4757640/982686772ee7db4a91a4cf45d4adc6d7c65fdc33/header.jpg?t=1781227459",
-        "Date": "June 2026",
-        "AddedDate": "2026-06-12",
-        "AddedTimestamp": 1781228534.0792038,
+        "Date": "Jul 4, 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783181826.2549787,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -98831,21 +98831,6 @@
             "resource management"
         ]
     },
-    "4411480": {
-        "Title": "ANANKE: Roguelike AutoBattler",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4411480/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4411480/cb73f51a9374ce158d690274c74e10eabb418934/header.jpg?t=1782842192",
-        "Date": "2026",
-        "AddedDate": "2026-06-30",
-        "AddedTimestamp": 1782846504.1486785,
-        "MatchedTags": [
-            "strategy",
-            "tactical"
-        ]
-    },
     "4447630": {
         "Title": "Scry",
         "Email": "",
@@ -101979,9 +101964,9 @@
         "URL": "https://store.steampowered.com/app/4911120/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4911120/c0807d8fb654efb2ddbb140fab52b0b04e88383d/header.jpg?t=1783136319",
-        "Date": "Jul 21, 2026",
+        "Date": "Jul 30, 2026",
         "AddedDate": "2026-07-04",
-        "AddedTimestamp": 1783138029.0789642,
+        "AddedTimestamp": 1783181868.2566385,
         "MatchedTags": [
             "strategy",
             "horror",
@@ -102293,6 +102278,35 @@
         "MatchedTags": [
             "tactical rpg",
             "tactical"
+        ]
+    },
+    "4142590": {
+        "Title": "Democracy Manifest",
+        "Email": "contact@gemeingames.com",
+        "Discord": "https://discord.gg/NVbPbrymKn",
+        "URL": "https://store.steampowered.com/app/4142590/",
+        "Site": "https://www.gemeingames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4142590/d8753fb091efa73b492952ffe85fcd0e2e67e9ce/header.jpg?t=1783176858",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783181798.1524563,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4797910": {
+        "Title": "JAWED",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4797910/",
+        "Site": "https://www.rtggames.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4797910/29c9b5b8abc2dd2681278c103ecf857917ab3f84/header.jpg?t=1783180408",
+        "Date": "November 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783181831.044342,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
