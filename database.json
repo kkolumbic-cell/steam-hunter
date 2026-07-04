@@ -62626,9 +62626,9 @@
         "URL": "https://store.steampowered.com/app/4750920/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4750920/36709b63d70fd7fc30a189a27cfc4f490fd44dfc/header.jpg?t=1779404701",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-28",
-        "AddedTimestamp": 1782656281.6976137,
+        "Date": "January 2027",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783167627.1248572,
         "MatchedTags": [
             "strategy"
         ]
@@ -67070,9 +67070,9 @@
         "URL": "https://store.steampowered.com/app/4735720/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4735720/e5687968e30237e8b8125bd05a48c4d22a940a86/header.jpg?t=1779963852",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-27",
-        "AddedTimestamp": 1782551246.799451,
+        "Date": "December 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783167624.346454,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -91096,9 +91096,9 @@
         "URL": "https://store.steampowered.com/app/4825480/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4825480/caf1c9c68ec29c5e61c340b0fe1fa2fdd3d13114/header.jpg?t=1781968910",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-20",
-        "AddedTimestamp": 1781974477.415563,
+        "Date": "Jul 4, 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783167634.8966062,
         "MatchedTags": [
             "horror"
         ]
@@ -102205,6 +102205,65 @@
             "strategy",
             "management",
             "turn-based strategy"
+        ]
+    },
+    "4880720": {
+        "Title": "Son of Beach",
+        "Email": "",
+        "Discord": "https://discord.gg/KuaSCN7f6g",
+        "URL": "https://store.steampowered.com/app/4880720/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4880720/951dd8177c96d837fe5de4efa9ad235bcd84fbba/header.jpg?t=1783165927",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783167660.9346037,
+        "MatchedTags": [
+            "economy",
+            "management"
+        ]
+    },
+    "4881570": {
+        "Title": "The Quiet Cold",
+        "Email": "",
+        "Discord": "https://discord.gg/dMb8xeDu",
+        "URL": "https://store.steampowered.com/app/4881570/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4881570/43839d944153689cc81d3bc09db17f51a52bf5e6/header.jpg?t=1783163736",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783167665.2472565,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4898950": {
+        "Title": "Dead End: Escape Your Fears",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4898950/",
+        "Site": "https://www.beyondcreationsgames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4898950/aa879121045f81fd26d93cbca40a32d6ade49309/header.jpg?t=1783162645",
+        "Date": "July 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783167677.8494632,
+        "MatchedTags": [
+            "psychological horror",
+            "strategy",
+            "horror"
+        ]
+    },
+    "4911910": {
+        "Title": "Pirates Life",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4911910/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4911910/199b0a7aa36ec04586ab12b8f58c234a213f9681/header.jpg?t=1783166485",
+        "Date": "2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783167682.6508305,
+        "MatchedTags": [
+            "base building"
         ]
     }
 }
