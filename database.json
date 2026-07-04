@@ -35310,9 +35310,9 @@
         "URL": "https://store.steampowered.com/app/4276650/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4276650/7779225425b1d722e0dceee89c1f140966332b72/header.jpg?t=1776654817",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-20",
-        "AddedTimestamp": 1776657210.2036552,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783149396.152232,
         "MatchedTags": [
             "horror"
         ]
@@ -82330,9 +82330,9 @@
         "URL": "https://store.steampowered.com/app/4825610/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4825610/c7a865bca6d5576818333ae5e03678705481b9d0/header.jpg?t=1781198600",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-11",
-        "AddedTimestamp": 1781207480.8857768,
+        "Date": "Jul 4, 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783149457.167082,
         "MatchedTags": [
             "strategy",
             "tower defense"
@@ -97206,9 +97206,9 @@
         "URL": "https://store.steampowered.com/app/4879540/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4879540/78e72992e62b2267f961fef04c8f90201dd3e549/header.jpg?t=1782609341",
-        "Date": "November 2026",
-        "AddedDate": "2026-06-28",
-        "AddedTimestamp": 1782625699.948005,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783149486.0995362,
         "MatchedTags": [
             "strategy",
             "survival horror"
@@ -99317,9 +99317,9 @@
         "URL": "https://store.steampowered.com/app/4899040/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4899040/7809565fdc374efbe4f3a7367c9111e77cb5d23e/header.jpg?t=1782860278",
-        "Date": "Jul 24, 2026",
+        "Date": "Jul 17, 2026",
         "AddedDate": "2026-07-04",
-        "AddedTimestamp": 1783138018.9154596,
+        "AddedTimestamp": 1783149505.2018425,
         "MatchedTags": [
             "turn-based tactics",
             "turn-based combat",
@@ -101089,9 +101089,9 @@
         "URL": "https://store.steampowered.com/app/4430810/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430810/036fdee6c8069518126d3c5fe48b0cd8e6fa1652/header.jpg?t=1783071120",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-03",
-        "AddedTimestamp": 1783076499.2040646,
+        "Date": "Aug 14, 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783149407.811032,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -102023,6 +102023,137 @@
             "management",
             "economy",
             "base building",
+            "resource management"
+        ]
+    },
+    "2454280": {
+        "Title": "Hundred Battle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2454280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2454280/6a73a54316be8dbb7f3cbb7865a519cf7c4a4305/header.jpg?t=1783149123",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783149379.246909,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tactical"
+        ]
+    },
+    "4351620": {
+        "Title": "Italia 1915\u20131918 : Great War Logistics",
+        "Email": "",
+        "Discord": "https://discord.gg/wqVdGm2tp2",
+        "URL": "https://store.steampowered.com/app/4351620/",
+        "Site": "https://carrotgamestudio.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4351620/5f61c786db4a2b4f6df545db957934451557b4ce/header.jpg?t=1783139876",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783149401.6461136,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "turn-based strategy",
+            "tactical rpg",
+            "turn-based tactics",
+            "economy",
+            "management"
+        ]
+    },
+    "4876970": {
+        "Title": "Arkelia - The Fragile Inheritance",
+        "Email": "",
+        "Discord": "https://discord.gg/g86HGe6MCm",
+        "URL": "https://store.steampowered.com/app/4876970/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4876970/1f83cf7aad597f98d43fc6038db3733644831ca0/header.jpg?t=1783149080",
+        "Date": "TBA",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783149480.021988,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4881430": {
+        "Title": "HueTrix",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4881430/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4881430/a26d166cde30d51673ffd6b3dff2e7d1c9bf850f/header.jpg?t=1783137882",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783149488.165928,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4887540": {
+        "Title": "Harlow's Climb",
+        "Email": "",
+        "Discord": "https://discord.gg/jJ9KG92uFm",
+        "URL": "https://store.steampowered.com/app/4887540/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4887540/bd7ec5ba67679cb046dd469396972f8e4d2a492c/header.jpg?t=1783147102",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783149492.4787,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4896960": {
+        "Title": "Daemon Doors",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4896960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4896960/508f7cb794d72a55cfefcc9f6352e86916956982/header.jpg?t=1783140351",
+        "Date": "February 2027",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783149500.096533,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4900760": {
+        "Title": "Stellar Harvest",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4900760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4900760/2a84d35a71310540df42aa95ee2a7c5013218fea/header.jpg?t=1783140581",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783149507.1512887,
+        "MatchedTags": [
+            "colony sim",
+            "resource management",
+            "management",
+            "economy",
+            "strategy"
+        ]
+    },
+    "4911010": {
+        "Title": "Citadels - Shadow City",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4911010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4911010/10d9323e997874027f552c96b44e365ed4f04bcd/header.jpg?t=1783147888",
+        "Date": "Jul 27, 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783149511.85065,
+        "MatchedTags": [
+            "city builder",
+            "turn-based strategy",
+            "strategy",
+            "turn-based tactics",
             "resource management"
         ]
     }
