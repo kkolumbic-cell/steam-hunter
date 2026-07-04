@@ -34623,7 +34623,7 @@
     },
     "4605200": {
         "Title": "Hero of the Kingdom IV",
-        "Email": "team@lonelytroops.com, support@lonelytroops.com, business@lonelytroops.com, press@lonelytroops.com",
+        "Email": "business@lonelytroops.com, press@lonelytroops.com, support@lonelytroops.com, team@lonelytroops.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4605200/",
         "Site": "https://www.lonelytroops.com/hotk4/index.htm",
@@ -36752,9 +36752,9 @@
         "URL": "https://store.steampowered.com/app/4621900/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4621900/b4a5c581c620b32a68dd6f5d4506be75a75ed33a/header.jpg?t=1776777458",
-        "Date": "Jul 28, 2026",
-        "AddedDate": "2026-04-26",
-        "AddedTimestamp": 1777192782.3986971,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783160857.670006,
         "MatchedTags": [
             "economy",
             "management",
@@ -82394,10 +82394,10 @@
         "AddedDate": "2026-06-26",
         "AddedTimestamp": 1782455643.2211611,
         "MatchedTags": [
-            "strategy",
-            "grand strategy",
             "horror",
-            "psychological horror"
+            "psychological horror",
+            "strategy",
+            "grand strategy"
         ]
     },
     "4488750": {
@@ -90629,9 +90629,9 @@
         "URL": "https://store.steampowered.com/app/4813570/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4813570/57e949d8d59ecdc15ebace342bfdf519f4582646/header.jpg?t=1781896554",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-20",
-        "AddedTimestamp": 1781954903.3017058,
+        "Date": "Jul 6, 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783160904.23498,
         "MatchedTags": [
             "strategy",
             "economy",
@@ -90742,9 +90742,9 @@
         "URL": "https://store.steampowered.com/app/4864200/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864200/aa16b35aebb4c372f307a5be26bd8f3066aa99e7/header.jpg?t=1781899236",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-20",
-        "AddedTimestamp": 1781974509.7298007,
+        "Date": "Jul 4, 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783160929.2167866,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -101433,9 +101433,9 @@
         "URL": "https://store.steampowered.com/app/3190900/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3190900/238597825e60fd0de38b47fab04bee39d59ffcd4/header.jpg?t=1783093229",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-03",
-        "AddedTimestamp": 1783100969.7978008,
+        "Date": "July 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783160800.555059,
         "MatchedTags": [
             "strategy"
         ]
@@ -102155,6 +102155,56 @@
             "strategy",
             "turn-based tactics",
             "resource management"
+        ]
+    },
+    "4277200": {
+        "Title": "Awakeness: YALDA Night",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4277200/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4277200/c3b817043581b21da372db8c0b270a71a278fe9d/header.jpg?t=1783160491",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783160808.959381,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror",
+            "tactical rpg"
+        ]
+    },
+    "4751390": {
+        "Title": "the infected city a long way home",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4751390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4751390/25ff5fdbb8ed2fefb8926e975911c213ccd97e17/header.jpg?t=1783149974",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783160880.8398087,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4815940": {
+        "Title": "Boardroom",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4815940/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4815940/82634b7ffc3ccfb4b9b21c3d29f8c982ee417ec4/header.jpg?t=1783149870",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783160906.654923,
+        "MatchedTags": [
+            "resource management",
+            "turn-based tactics",
+            "economy",
+            "strategy",
+            "management",
+            "turn-based strategy"
         ]
     }
 }
