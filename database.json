@@ -1970,9 +1970,9 @@
         "URL": "https://store.steampowered.com/app/4475300/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475300/2095423873dacf3b2b0b6786bdb1ab34cc3ae92b/header.jpg?t=1772741079",
-        "Date": "Jul 8, 2026",
-        "AddedDate": "2026-03-06",
-        "AddedTimestamp": 1772791033.4324036,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783176385.380342,
         "MatchedTags": [
             "tactical"
         ]
@@ -38485,8 +38485,8 @@
         "AddedTimestamp": 1777809589.7407572,
         "MatchedTags": [
             "strategy",
-            "resource management",
-            "economy"
+            "economy",
+            "resource management"
         ]
     },
     "4653840": {
@@ -62624,7 +62624,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4750920/",
-        "Site": "",
+        "Site": "https://impress.games/press-kit/odd-leaf-games/emberline",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4750920/36709b63d70fd7fc30a189a27cfc4f490fd44dfc/header.jpg?t=1779404701",
         "Date": "January 2027",
         "AddedDate": "2026-07-04",
@@ -75988,9 +75988,9 @@
         "URL": "https://store.steampowered.com/app/4790520/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4790520/be83d17a3d2e0daaa3ab4abe1db778d827d5462f/header.jpg?t=1780674156",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-05",
-        "AddedTimestamp": 1780676067.9682753,
+        "Date": "Jul 9, 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783176435.9104123,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -83777,9 +83777,9 @@
         "URL": "https://store.steampowered.com/app/4641630/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4641630/7c52125a07c43b17207e2201d83e550d9a3ba80f/header.jpg?t=1781291766",
-        "Date": "Jul 3, 2026",
-        "AddedDate": "2026-06-18",
-        "AddedTimestamp": 1781815255.7840738,
+        "Date": "Jul 4, 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783176408.4983854,
         "MatchedTags": [
             "tower defense"
         ]
@@ -87309,9 +87309,9 @@
         "URL": "https://store.steampowered.com/app/4771790/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4771790/d9445263b8dcf2cbb3aa2c94c09440bd3246e10a/header.jpg?t=1781632452",
-        "Date": "Jul 13, 2026",
-        "AddedDate": "2026-06-16",
-        "AddedTimestamp": 1781645079.3959365,
+        "Date": "Jul 4, 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783176430.4394376,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -102264,6 +102264,35 @@
         "AddedTimestamp": 1783167682.6508305,
         "MatchedTags": [
             "base building"
+        ]
+    },
+    "2773660": {
+        "Title": "Noodle Dog's TwizGame",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2773660/",
+        "Site": "https://www.twizgame.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2773660/c0f76d26b01099a0e1122f9d6bdd4cbcb9156545/header.jpg?t=1783175816",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783176373.6270034,
+        "MatchedTags": [
+            "turn-based tactics"
+        ]
+    },
+    "4899480": {
+        "Title": "Sanslo:Spin of the Three Kingdoms",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4899480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4899480/d3d7a6ee5db63028559a3d2d17b695d675a15469/header.jpg?t=1783175699",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783176482.0867674,
+        "MatchedTags": [
+            "tactical rpg",
+            "tactical"
         ]
     }
 }
