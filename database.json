@@ -45251,9 +45251,9 @@
         "URL": "https://store.steampowered.com/app/4638120/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4638120/fd06eded6c7eda52915895fd320cbf1b65ad1b49/header.jpg?t=1777454360",
-        "Date": "Aug 16, 2026",
-        "AddedDate": "2026-06-28",
-        "AddedTimestamp": 1782647971.4849477,
+        "Date": "August 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783194067.6510005,
         "MatchedTags": [
             "management",
             "strategy",
@@ -59511,11 +59511,11 @@
         "AddedDate": "2026-06-12",
         "AddedTimestamp": 1781228513.2200086,
         "MatchedTags": [
-            "strategy",
-            "city builder",
-            "economy",
             "management",
-            "base building"
+            "city builder",
+            "strategy",
+            "economy",
+            "resource management"
         ]
     },
     "4709990": {
@@ -76656,9 +76656,9 @@
         "URL": "https://store.steampowered.com/app/4772870/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4772870/5f45ad4d28efe996c85c82ba64e977a216780254/header.jpg?t=1780717030",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-30",
-        "AddedTimestamp": 1782846608.9095414,
+        "Date": "Jul 4, 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783194077.4891899,
         "MatchedTags": [
             "strategy"
         ]
@@ -101889,9 +101889,9 @@
         "URL": "https://store.steampowered.com/app/4816220/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4816220/d84dc746ee4c940fc5f117f65f95eb164f4ee685/header.jpg?t=1783126805",
-        "Date": "Coming soon",
+        "Date": "July 2026",
         "AddedDate": "2026-07-04",
-        "AddedTimestamp": 1783137938.498299,
+        "AddedTimestamp": 1783194079.7278745,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -102322,6 +102322,20 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4910780": {
+        "Title": "Europe Heatwave Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4910780/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4910780/05d7c1aabb09d85088af6bce345b9701a86534ed/header.jpg?t=1783192577",
+        "Date": "Jul 16, 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783194105.1647692,
+        "MatchedTags": [
+            "management"
         ]
     }
 }
