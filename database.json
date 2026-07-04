@@ -37427,9 +37427,9 @@
         "URL": "https://store.steampowered.com/app/4187850/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4187850/ff189c189d87cfa3cf8c57b82c99f7a72c95e1f6/header.jpg?t=1776811964",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-21",
-        "AddedTimestamp": 1776812430.4249277,
+        "Date": "August 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783207071.1104789,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -72129,9 +72129,9 @@
         "URL": "https://store.steampowered.com/app/4681980/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4681980/36fa02b81f2619c42e3a88175579490995fe8bcf/header.jpg?t=1780393523",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-02",
-        "AddedTimestamp": 1780400816.2654011,
+        "Date": "Aug 25, 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783207088.4861615,
         "MatchedTags": [
             "management",
             "strategy",
@@ -88443,7 +88443,7 @@
     "4072810": {
         "Title": "No Serial",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/BhpjzbM4Da",
         "URL": "https://store.steampowered.com/app/4072810/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4072810/d90510d6e4fbc97d2a3e0a680f2baadbb272a7a4/header.jpg?t=1781726770",
@@ -98872,9 +98872,9 @@
         "URL": "https://store.steampowered.com/app/4835190/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4835190/cd8152e92f484d40677272cbc3031a6e1f6f0d46/header.jpg?t=1782841363",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-30",
-        "AddedTimestamp": 1782846643.2733135,
+        "Date": "August 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783207107.688033,
         "MatchedTags": [
             "horror"
         ]
@@ -102375,6 +102375,20 @@
             "turn-based tactics",
             "turn-based strategy",
             "economy"
+        ]
+    },
+    "4775020": {
+        "Title": "Lawn Mower Mayhem",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4775020/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4775020/b9371260864f0b04ce769cfe565e2b8161348024/header.jpg?t=1783205091",
+        "Date": "Q2 2027",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783207099.4978547,
+        "MatchedTags": [
+            "management"
         ]
     }
 }
