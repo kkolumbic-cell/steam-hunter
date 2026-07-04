@@ -69241,9 +69241,9 @@
         "URL": "https://store.steampowered.com/app/4594190/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4594190/aa4ccc23364470575ff01442e7c8da1d9ed7ddf2/header.jpg?t=1780097819",
-        "Date": "To be announced",
-        "AddedDate": "2026-05-29",
-        "AddedTimestamp": 1780098162.354246,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783199723.607325,
         "MatchedTags": [
             "economy",
             "strategy",
@@ -75323,9 +75323,9 @@
         "URL": "https://store.steampowered.com/app/4805600/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4805600/0c3dcd43d3b91f47e1eb76426047e3393f718fb6/header.jpg?t=1780590951",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-04",
-        "AddedTimestamp": 1780601800.2091322,
+        "Date": "Jul 31, 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783199738.0794716,
         "MatchedTags": [
             "survival horror",
             "horror"
@@ -78373,7 +78373,7 @@
     "4816200": {
         "Title": "Endless Defense",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/sWj2zFTB6",
         "URL": "https://store.steampowered.com/app/4816200/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4816200/5643ca49ecb7e466e61724d3b55e0d0121043d39/header.jpg?t=1780929286",
@@ -101801,7 +101801,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4886450/",
-        "Site": "",
+        "Site": "http://apothema.net/hexzen/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4886450/49d75f09822b75de735282c864ac23d80c061408/header.jpg?t=1783117214",
         "Date": "Nov 3, 2026",
         "AddedDate": "2026-07-03",
@@ -102336,6 +102336,44 @@
         "AddedTimestamp": 1783194105.1647692,
         "MatchedTags": [
             "management"
+        ]
+    },
+    "4826860": {
+        "Title": "Cargo Protocol: Cyberpunk Trains",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4826860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4826860/2f85fce1637239159211e52abcaae71891f4447e/header.jpg?t=1783197119",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783199748.3855793,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "economy",
+            "resource management",
+            "city builder",
+            "base building",
+            "grand strategy",
+            "colony sim"
+        ]
+    },
+    "4860910": {
+        "Title": "Prison Legacy",
+        "Email": "",
+        "Discord": "https://discord.gg/K3GYGmBwnK",
+        "URL": "https://store.steampowered.com/app/4860910/",
+        "Site": "https://www.PrisonLegacy.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4860910/3b24e3e549bdd3bd123d89862cb96f1409f693fb/header.jpg?t=1783194816",
+        "Date": "October 2026",
+        "AddedDate": "2026-07-04",
+        "AddedTimestamp": 1783199757.0364373,
+        "MatchedTags": [
+            "tactical rpg",
+            "turn-based tactics",
+            "turn-based strategy",
+            "economy"
         ]
     }
 }
