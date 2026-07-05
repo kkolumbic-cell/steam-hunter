@@ -1376,7 +1376,7 @@
     "4435040": {
         "Title": "\u90d1\u6210\u529f\u4f20 Clash of Armadas: Koxinga",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/DfhrUr8x8w",
         "URL": "https://store.steampowered.com/app/4435040/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4435040/2fbc7efd48db21229003d1d7fbbb253081eb4bd8/header.jpg?t=1772717533",
@@ -2026,7 +2026,7 @@
     "4434030": {
         "Title": "\u621a\u7ee7\u5149 Qi Jiguang: Art of War",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/DfhrUr8x8w",
         "URL": "https://store.steampowered.com/app/4434030/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4434030/4e422bbc244ec2f8f8df0e18be5832e98dddfaa5/header.jpg?t=1772744958",
@@ -54275,9 +54275,9 @@
         "URL": "https://store.steampowered.com/app/4707290/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4707290/bd1e1e2dceccbe7820acad406917f0e86106ec20/header.jpg?t=1778269919",
-        "Date": "Jun 30, 2026",
-        "AddedDate": "2026-05-10",
-        "AddedTimestamp": 1778421466.1114151,
+        "Date": "Jul 5, 2026",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783250136.4584036,
         "MatchedTags": [
             "strategy",
             "horror",
@@ -72248,8 +72248,7 @@
         "AddedDate": "2026-06-02",
         "AddedTimestamp": 1780419426.4809916,
         "MatchedTags": [
-            "horror",
-            "management"
+            "horror"
         ]
     },
     "4093950": {
@@ -87630,9 +87629,9 @@
         "URL": "https://store.steampowered.com/app/4829070/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829070/de9874a469083934a8b4c6dccc4c45ccb2482a8e/header.jpg?t=1781652609",
-        "Date": "Jul 7, 2026",
-        "AddedDate": "2026-06-16",
-        "AddedTimestamp": 1781653933.683624,
+        "Date": "Jul 5, 2026",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783250161.071547,
         "MatchedTags": [
             "horror"
         ]
@@ -102528,6 +102527,77 @@
         "AddedTimestamp": 1783239707.9679515,
         "MatchedTags": [
             "turn-based combat"
+        ]
+    },
+    "3954130": {
+        "Title": "Baked Blood Tavern",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3954130/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3954130/1b436765e25515975c0a4e5b016d1dbc53a59359/header.jpg?t=1783242149",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783250085.250907,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4774650": {
+        "Title": "The Wanderer",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4774650/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4774650/a844673580a4a81f35b77c0eff97bed9d8cc2970/header.jpg?t=1783240690",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783250150.3277419,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4845370": {
+        "Title": "STICKBIT",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4845370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4845370/a4ab5846b5ff350020f9cbb0ec16ae63b498b034/header.jpg?t=1783243124",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783250165.2076335,
+        "MatchedTags": [
+            "tower defense",
+            "base building"
+        ]
+    },
+    "4887360": {
+        "Title": "erdetspill",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4887360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4887360/f8a8e8a6a53cb9b913a189168b1c301090d0b97d/header.jpg?t=1783248802",
+        "Date": "July 2026",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783250178.3416793,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4900990": {
+        "Title": "MOR",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4900990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4900990/60278e376e66eb1291a9d26a7a32b439e128304a/header.jpg?t=1783240460",
+        "Date": "August 2026",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783250188.0531962,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
