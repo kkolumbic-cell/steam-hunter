@@ -34325,7 +34325,7 @@
     "4598120": {
         "Title": "The Syndicate: Classified Operations",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/8PqzEHV3Ru",
         "URL": "https://store.steampowered.com/app/4598120/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4598120/43830a9435e9bdb803c24948e5e158f01bc97123/header.jpg?t=1776469226",
@@ -34335,7 +34335,8 @@
         "MatchedTags": [
             "strategy",
             "management",
-            "resource management"
+            "resource management",
+            "economy"
         ]
     },
     "4636580": {
@@ -94629,9 +94630,9 @@
         "URL": "https://store.steampowered.com/app/4540330/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4540330/c4fb7a8865ab0c8ffa403ed7c2ecf3c639937af1/header.jpg?t=1782397484",
-        "Date": "Jul 5, 2026",
-        "AddedDate": "2026-06-25",
-        "AddedTimestamp": 1782400735.9084802,
+        "Date": "July 2026",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783294323.103882,
         "MatchedTags": [
             "resource management",
             "management"
@@ -102736,6 +102737,22 @@
         "AddedTimestamp": 1783289726.8949296,
         "MatchedTags": [
             "psychological horror"
+        ]
+    },
+    "4530330": {
+        "Title": "Action & Automation",
+        "Email": "",
+        "Discord": "https://discord.gg/XTszmtZgSZ",
+        "URL": "https://store.steampowered.com/app/4530330/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4530330/126d131e875a73c13fa0b466eb2a26974c0f2455/header.jpg?t=1783292662",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783294318.719445,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "base building"
         ]
     }
 }
