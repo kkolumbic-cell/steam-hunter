@@ -8250,9 +8250,9 @@
         "URL": "https://store.steampowered.com/app/3654170/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3654170/2f20c0cc9a6002ea63e46c08849eac29a55b0bc3/header.jpg?t=1773680727",
-        "Date": "TBA",
-        "AddedDate": "2026-03-16",
-        "AddedTimestamp": 1773681509.399685,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783263242.5834994,
         "MatchedTags": [
             "turn-based combat",
             "tactical rpg",
@@ -21942,9 +21942,9 @@
         "URL": "https://store.steampowered.com/app/4526450/",
         "Site": "https://www.dyrkabes.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526450/5e3ce22b34b84e74d63533c0ee07ca3ac7692a86/header.jpg?t=1775212682",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-05-16",
-        "AddedTimestamp": 1778969216.049235,
+        "Date": "Nov 9, 2026",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783263264.8274286,
         "MatchedTags": [
             "economy",
             "strategy",
@@ -24582,8 +24582,8 @@
         "AddedDate": "2026-04-15",
         "AddedTimestamp": 1776251922.5736368,
         "MatchedTags": [
-            "horror",
-            "psychological horror"
+            "psychological horror",
+            "horror"
         ]
     },
     "4556580": {
@@ -63405,9 +63405,9 @@
         "URL": "https://store.steampowered.com/app/4590610/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4590610/4fdf9668682273c1e393851a96b76e2f898a8caa/header.jpg?t=1779496334",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-23",
-        "AddedTimestamp": 1779509402.5988426,
+        "Date": "Jul 5, 2026",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783263269.6997368,
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
@@ -102607,9 +102607,9 @@
         "URL": "https://store.steampowered.com/app/4828600/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4828600/11488967c33e69abea68afcb14eca07d1e634e67/header.jpg?t=1783251315",
-        "Date": "2026",
+        "Date": "2027",
         "AddedDate": "2026-07-05",
-        "AddedTimestamp": 1783255471.1665058,
+        "AddedTimestamp": 1783263303.9819813,
         "MatchedTags": [
             "horror"
         ]
@@ -102626,6 +102626,23 @@
         "AddedTimestamp": 1783255496.6976783,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4425010": {
+        "Title": "Nappy Knight",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4425010/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425010/15d9edeb1eab7774a6cce6554eb5681c46ec7c98/header.jpg?t=1783256973",
+        "Date": "2026",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783263254.6095357,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "turn-based combat"
         ]
     }
 }
