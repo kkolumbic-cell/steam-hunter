@@ -46200,9 +46200,9 @@
         "URL": "https://store.steampowered.com/app/4641550/",
         "Site": "https://www.lonepiggy.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4641550/797bdf8362335181cfae8531754723b7a162de85/header.jpg?t=1777527967",
-        "Date": "Q1 2027",
-        "AddedDate": "2026-04-30",
-        "AddedTimestamp": 1777531458.9063241,
+        "Date": "2027",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783239585.7218902,
         "MatchedTags": [
             "strategy",
             "turn-based combat",
@@ -69295,9 +69295,9 @@
         "URL": "https://store.steampowered.com/app/3481840/",
         "Site": "https://nobstudio.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3481840/00d7a593d2bf07b9e1540718635ed49abaf5577f/header.jpg?t=1780113634",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-08",
-        "AddedTimestamp": 1780947398.9307373,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783239562.455591,
         "MatchedTags": [
             "management",
             "resource management"
@@ -84610,9 +84610,9 @@
         "URL": "https://store.steampowered.com/app/4831720/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4831720/64598667100c987145b37ee9cdb5750e62c9160f/header.jpg?t=1781353957",
-        "Date": "2026",
-        "AddedDate": "2026-06-13",
-        "AddedTimestamp": 1781361098.0880663,
+        "Date": "Jul 5, 2026",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783239644.2374985,
         "MatchedTags": [
             "strategy",
             "tactical"
@@ -93141,12 +93141,13 @@
         "URL": "https://store.steampowered.com/app/4864080/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4864080/ad4f3697e8287ae709465906714d5911c7dd7566/header.jpg?t=1782232587",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-23",
-        "AddedTimestamp": 1782233251.6540446,
+        "Date": "Jul 25, 2026",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783239663.800423,
         "MatchedTags": [
             "horror",
-            "strategy"
+            "strategy",
+            "survival horror"
         ]
     },
     "4866250": {
@@ -99898,7 +99899,7 @@
     },
     "4732210": {
         "Title": "The Final Ascent",
-        "Email": "playthefinalascent@gmail.com",
+        "Email": "help@playthefinalascent.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4732210/",
         "Site": "https://playthefinalascent.com",
@@ -102434,6 +102435,99 @@
         "AddedTimestamp": 1783226018.738205,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "1077660": {
+        "Title": "Drift",
+        "Email": "",
+        "Discord": "https://discord.gg/ZHzsNHmQvc",
+        "URL": "https://store.steampowered.com/app/1077660/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1077660/9680809faec3a78e456c0b3cf69689abe6d8e839/header.jpg?t=1783238945",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783239559.8102806,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4014610": {
+        "Title": "Necromancer's Workshop",
+        "Email": "",
+        "Discord": "https://discord.gg/h7Jx5vwDyF",
+        "URL": "https://store.steampowered.com/app/4014610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4014610/d35e3fe6f49c09715b1ff2222894ece44b134529/header.jpg?t=1783233018",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783239564.98188,
+        "MatchedTags": [
+            "colony sim",
+            "base building",
+            "economy",
+            "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4816590": {
+        "Title": "Spirit Grid: Journey to the West",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4816590/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4816590/fc47f8ac1e5969771ed9e8d0911e21666054595e/header.jpg?t=1783233209",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783239635.7853742,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4847930": {
+        "Title": "Off Tape: Welcome",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4847930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4847930/f7c230802cadabc80612c81a2eb0c5718585a2ab/header.jpg?t=1783230233",
+        "Date": "November 2026",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783239649.7652137,
+        "MatchedTags": [
+            "psychological horror",
+            "resource management",
+            "horror"
+        ]
+    },
+    "4875360": {
+        "Title": "M7ZM Deal",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4875360/",
+        "Site": "https://m7zmdeal.aleshawi.me/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4875360/6d0da42519f3cbb84b818fa4f487c25f13d5185c/header.jpg?t=1783230588",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783239682.9827561,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "4895210": {
+        "Title": "Crossfall",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4895210/",
+        "Site": "https://games.nethound.org",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4895210/0cc32161be79ad9497bc06e533844de7cc042007/header.jpg?t=1783232948",
+        "Date": "July 2026",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783239707.9679515,
+        "MatchedTags": [
+            "turn-based combat"
         ]
     }
 }
