@@ -13137,7 +13137,7 @@
     "4407950": {
         "Title": "Devil's Desk",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/jWbDpA4TPs",
         "URL": "https://store.steampowered.com/app/4407950/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4407950/8948c1593829499d1774d830c99dcb09d8f157cb/header.jpg?t=1774369404",
@@ -43814,8 +43814,8 @@
         "AddedDate": "2026-07-03",
         "AddedTimestamp": 1783084442.320961,
         "MatchedTags": [
-            "survival horror",
-            "horror"
+            "horror",
+            "survival horror"
         ]
     },
     "4645040": {
@@ -73357,9 +73357,9 @@
         "URL": "https://store.steampowered.com/app/4684610/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4684610/a0c30875440de63a651b4d953654afc0545ea3dc/header.jpg?t=1780488113",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-10",
-        "AddedTimestamp": 1781089660.0539114,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783275502.0893655,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -78712,10 +78712,10 @@
     },
     "4519960": {
         "Title": "Seen NOT Heard",
-        "Email": "",
+        "Email": "contact@odd-indeed.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4519960/",
-        "Site": "",
+        "Site": "https://odd-indeed.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4519960/c663caaf0f95d55cc61563346b2eff311580720c/header.jpg?t=1780958413",
         "Date": "To be announced",
         "AddedDate": "2026-06-08",
@@ -85090,9 +85090,9 @@
         "URL": "https://store.steampowered.com/app/4683860/",
         "Site": "https://calmariagame.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4683860/420466a345355ae3dcd7b31ccca24fe0d7dad1b8/header.jpg?t=1781469590",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-14",
-        "AddedTimestamp": 1781473409.301149,
+        "Date": "Jul 12, 2027",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783275498.356127,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -97320,9 +97320,9 @@
         "URL": "https://store.steampowered.com/app/4863140/",
         "Site": "https://www.sushirestaurantsimulator.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4863140/46f59611e645b5c0a633b1917d24d8a04edfc370/header.jpg?t=1782666630",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-28",
-        "AddedTimestamp": 1782670780.077715,
+        "Date": "2027",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783275531.999494,
         "MatchedTags": [
             "management",
             "resource management"
@@ -102644,6 +102644,53 @@
             "turn-based tactics",
             "turn-based strategy",
             "turn-based combat"
+        ]
+    },
+    "4791910": {
+        "Title": "Alethra",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4791910/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4791910/2538dc548608f87a367ec963b04064f65991d8a3/header.jpg?t=1783272251",
+        "Date": "October 2026",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783275510.0218546,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical"
+        ]
+    },
+    "4905580": {
+        "Title": "Tank",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4905580/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4905580/7f728ca4deba29a85bd850f29e05ad337f70fc78/header.jpg?t=1783272031",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783275547.9807432,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4913740": {
+        "Title": "Odin's Chess",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4913740/",
+        "Site": "https://www.ridiculousgaming.net/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4913740/832fe78b549c93537cb1005f994afcd9273addf3/header.jpg?t=1783270918",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783275553.542003,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
         ]
     }
 }
