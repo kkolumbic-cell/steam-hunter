@@ -7186,8 +7186,8 @@
         "AddedDate": "2026-03-13",
         "AddedTimestamp": 1773414251.2969725,
         "MatchedTags": [
-            "economy",
             "management",
+            "economy",
             "base building"
         ]
     },
@@ -19307,7 +19307,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4527990/",
-        "Site": "",
+        "Site": "https://www.fiascko.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4527990/cac8ecaa1e2a1eec286944b223282ea258b2f144/header.jpg?t=1774995511",
         "Date": "May 7, 2026",
         "AddedDate": "2026-03-31",
@@ -43007,9 +43007,9 @@
         "URL": "https://store.steampowered.com/app/4663270/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4663270/4c24cf362f9f8db3a824b0e6c499f3a7f87b04fe/header.jpg?t=1777312235",
-        "Date": "November 2026",
-        "AddedDate": "2026-04-27",
-        "AddedTimestamp": 1777315444.9859774,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783283557.172547,
         "MatchedTags": [
             "survival horror",
             "horror",
@@ -85506,9 +85506,9 @@
         "URL": "https://store.steampowered.com/app/4839050/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4839050/78a9931e7661e11776faefb93fe01e6e159aa195/header.jpg?t=1781510846",
-        "Date": "To be announced",
-        "AddedDate": "2026-06-15",
-        "AddedTimestamp": 1781527967.6773293,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783283584.7914407,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -89984,9 +89984,9 @@
         "URL": "https://store.steampowered.com/app/4524520/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4524520/ab7c2562cb308d2de4e0a479cc04a4711f27ba78/header.jpg?t=1781865238",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-19",
-        "AddedTimestamp": 1781871614.1662216,
+        "Date": "2026",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783283531.7118807,
         "MatchedTags": [
             "economy",
             "management",
@@ -102691,6 +102691,21 @@
             "strategy",
             "turn-based strategy",
             "turn-based tactics"
+        ]
+    },
+    "3636190": {
+        "Title": "Nightmare Rotation",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3636190/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3636190/3d5bafaf784e1da700011767b9c096f3f3a97bb8/header.jpg?t=1783283069",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783283514.120659,
+        "MatchedTags": [
+            "horror",
+            "resource management"
         ]
     }
 }
