@@ -22245,9 +22245,9 @@
         "URL": "https://store.steampowered.com/app/4554330/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4554330/666e4857778460831b2d063472df9ccd0b12a361/header.jpg?t=1775232162",
-        "Date": "Aug 17, 2026",
-        "AddedDate": "2026-06-22",
-        "AddedTimestamp": 1782169051.5960917,
+        "Date": "Aug 25, 2026",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783289692.0929775,
         "MatchedTags": [
             "horror"
         ]
@@ -54890,9 +54890,9 @@
         "URL": "https://store.steampowered.com/app/3906280/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3906280/ea1cfb029abc5a9fdf288e78d2fabed7b00ad4d0/header.jpg?t=1778350551",
-        "Date": "2026",
-        "AddedDate": "2026-05-09",
-        "AddedTimestamp": 1778355315.7172744,
+        "Date": "2027",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783289670.9075255,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -59971,9 +59971,9 @@
         "URL": "https://store.steampowered.com/app/4637870/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4637870/5a2a3c46823e7109c09b5c4850620f60652f2d37/header.jpg?t=1779126196",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-18",
-        "AddedTimestamp": 1779131090.0157123,
+        "Date": "Aug 26, 2026",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783289705.4380715,
         "MatchedTags": [
             "strategy",
             "economy",
@@ -64238,7 +64238,8 @@
         "AddedTimestamp": 1779739241.8684928,
         "MatchedTags": [
             "horror",
-            "psychological horror"
+            "psychological horror",
+            "survival horror"
         ]
     },
     "4423390": {
@@ -90382,9 +90383,9 @@
         "URL": "https://store.steampowered.com/app/4723380/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4723380/14a4e2520102ea307babb5bc747e86cc01179051/header.jpg?t=1781891567",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-22",
-        "AddedTimestamp": 1782151008.1458642,
+        "Date": "Jul 5, 2026",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783289712.7586672,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -101628,7 +101629,6 @@
         "AddedDate": "2026-07-03",
         "AddedTimestamp": 1783108414.558052,
         "MatchedTags": [
-            "strategy",
             "resource management"
         ]
     },
@@ -102706,6 +102706,36 @@
         "MatchedTags": [
             "horror",
             "resource management"
+        ]
+    },
+    "4686890": {
+        "Title": "Charon's Obol",
+        "Email": "",
+        "Discord": "https://discord.gg/6PWZwfQG3e",
+        "URL": "https://store.steampowered.com/app/4686890/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4686890/087a72dd7f65e0485fffc90e2d8553f6ec01e09a/header.jpg?t=1783287498",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783289710.7334201,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "turn-based tactics"
+        ]
+    },
+    "4877170": {
+        "Title": "Swarm of the Sea",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4877170/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4877170/8ebeb02bb660c497cec3122b39748ab4380c91ce/header.jpg?t=1783289647",
+        "Date": "Jul 9, 2026",
+        "AddedDate": "2026-07-05",
+        "AddedTimestamp": 1783289726.8949296,
+        "MatchedTags": [
+            "psychological horror"
         ]
     }
 }
