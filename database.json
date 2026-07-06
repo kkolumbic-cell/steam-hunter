@@ -88340,9 +88340,9 @@
         "URL": "https://store.steampowered.com/app/4820790/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4820790/a5cb6a427e94f1372fdfba356891cebd020ba233/header.jpg?t=1781720248",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-17",
-        "AddedTimestamp": 1781721526.747524,
+        "Date": "Jul 28, 2026",
+        "AddedDate": "2026-07-06",
+        "AddedTimestamp": 1783377597.5594711,
         "MatchedTags": [
             "management",
             "economy",
@@ -103433,6 +103433,94 @@
             "strategy",
             "tower defense",
             "tactical"
+        ]
+    },
+    "534740": {
+        "Title": "Icity - a Flight Sim ... and a City Builder",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/534740/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/534740/header.jpg?t=1783372598",
+        "Date": "Oct 19, 2016",
+        "AddedDate": "2026-07-06",
+        "AddedTimestamp": 1783377562.5653534,
+        "MatchedTags": [
+            "city builder"
+        ]
+    },
+    "4637090": {
+        "Title": "God of $tocks",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4637090/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4637090/13513ccce7b5bab7b37efe66d5130988d0426484/header.jpg?t=1783372934",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-06",
+        "AddedTimestamp": 1783377580.8286572,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "resource management",
+            "strategy"
+        ]
+    },
+    "4760340": {
+        "Title": "Aethelria Cross-Dimensions",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4760340/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4760340/79a7695f657ad64548334bc8c940d42de04738c1/header.jpg?t=1783376318",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-06",
+        "AddedTimestamp": 1783377589.3391979,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4897000": {
+        "Title": "Echo 9",
+        "Email": "",
+        "Discord": "https://discord.gg/cmVeeYjKNh",
+        "URL": "https://store.steampowered.com/app/4897000/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4897000/aaa186c05c3467f965d7a77fef8acd663433341c/header.jpg?t=1783375922",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-06",
+        "AddedTimestamp": 1783377613.2963858,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4898600": {
+        "Title": "Beheaded Minotaur",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4898600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4898600/2ab341d3fdf08b0fa8337b0f29c268c80d05f04d/header.jpg?t=1783372231",
+        "Date": "February 2027",
+        "AddedDate": "2026-07-06",
+        "AddedTimestamp": 1783377616.164452,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4915010": {
+        "Title": "Dry Jerky",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4915010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4915010/e2a988c75f70c14334aac205cd4a6c4812e9d17f/header.jpg?t=1783373991",
+        "Date": "2026",
+        "AddedDate": "2026-07-06",
+        "AddedTimestamp": 1783377632.701916,
+        "MatchedTags": [
+            "turn-based strategy",
+            "turn-based combat"
         ]
     }
 }
