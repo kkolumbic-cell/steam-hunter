@@ -12075,9 +12075,9 @@
         "URL": "https://store.steampowered.com/app/4489380/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4489380/7b4c3def35572d07fdd281f7461eb13778f900ce/header.jpg?t=1774210009",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-22",
-        "AddedTimestamp": 1774212376.001876,
+        "Date": "July 2026",
+        "AddedDate": "2026-07-06",
+        "AddedTimestamp": 1783371760.301858,
         "MatchedTags": [
             "survival horror",
             "horror"
@@ -24086,9 +24086,9 @@
         "URL": "https://store.steampowered.com/app/4566880/",
         "Site": "https://hermithollow.dev",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4566880/d90eb621aa43415c6121b09d24a4a77fcf8d024c/header.jpg?t=1775578852",
-        "Date": "2026",
-        "AddedDate": "2026-05-13",
-        "AddedTimestamp": 1778679089.179267,
+        "Date": "Jul 13, 2026",
+        "AddedDate": "2026-07-06",
+        "AddedTimestamp": 1783371771.556225,
         "MatchedTags": [
             "turn-based tactics",
             "turn-based strategy",
@@ -45255,9 +45255,9 @@
         "URL": "https://store.steampowered.com/app/4638120/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4638120/fd06eded6c7eda52915895fd320cbf1b65ad1b49/header.jpg?t=1777454360",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-04",
-        "AddedTimestamp": 1783194067.6510005,
+        "Date": "Aug 24, 2026",
+        "AddedDate": "2026-07-06",
+        "AddedTimestamp": 1783371782.2832413,
         "MatchedTags": [
             "management",
             "strategy",
@@ -74040,9 +74040,9 @@
         "URL": "https://store.steampowered.com/app/4799450/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799450/45c7e108b295012e150d8897475946c3b17ff29f/header.jpg?t=1780516947",
-        "Date": "Aug 17, 2026",
-        "AddedDate": "2026-06-22",
-        "AddedTimestamp": 1782151085.8896794,
+        "Date": "Aug 11, 2026",
+        "AddedDate": "2026-07-06",
+        "AddedTimestamp": 1783371798.4564066,
         "MatchedTags": [
             "strategy",
             "base building",
@@ -82189,8 +82189,8 @@
         "AddedDate": "2026-06-11",
         "AddedTimestamp": 1781207305.955007,
         "MatchedTags": [
-            "horror",
-            "survival horror"
+            "survival horror",
+            "horror"
         ]
     },
     "4655910": {
@@ -103346,6 +103346,93 @@
         "AddedTimestamp": 1783365000.6641176,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4034300": {
+        "Title": "Loose Cannon",
+        "Email": "impallari@gmail.com",
+        "Discord": "https://discord.gg/JhHghGpgsB",
+        "URL": "https://store.steampowered.com/app/4034300/",
+        "Site": "https://slightlyartistic.games/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4034300/ca018a407918a4652a533534979db95c822fc674/header.jpg?t=1783365015",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-06",
+        "AddedTimestamp": 1783371744.586819,
+        "MatchedTags": [
+            "tower defense",
+            "resource management"
+        ]
+    },
+    "4824260": {
+        "Title": "Salt Chapel",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4824260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4824260/92b678619a66a69f7f4ca146af7361a8548451df/header.jpg?t=1783366245",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-06",
+        "AddedTimestamp": 1783371806.8199723,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4883150": {
+        "Title": "Ghost Case",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4883150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4883150/0d4967fa28e89dd65c23b004eb824d5e8e5b1fce/header.jpg?t=1783368410",
+        "Date": "Jul 31, 2026",
+        "AddedDate": "2026-07-06",
+        "AddedTimestamp": 1783371822.6048558,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4883160": {
+        "Title": "Haunted Laia",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4883160/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4883160/cdc441eaac698888d366f36d53abc21975e6d8d9/header.jpg?t=1783368446",
+        "Date": "Jul 31, 2026",
+        "AddedDate": "2026-07-06",
+        "AddedTimestamp": 1783371825.5646925,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4883180": {
+        "Title": "Another Shadow",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4883180/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4883180/230083994e7e7ab1d15acf95616ab98098ce5d24/header.jpg?t=1783367845",
+        "Date": "Jul 31, 2026",
+        "AddedDate": "2026-07-06",
+        "AddedTimestamp": 1783371828.184038,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4918020": {
+        "Title": "Orbital Tower Defence",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4918020/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4918020/3ac8197577d46f8509d10aba1718775d5dee46c3/header.jpg?t=1783370607",
+        "Date": "July 2026",
+        "AddedDate": "2026-07-06",
+        "AddedTimestamp": 1783371851.9468539,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "tactical"
         ]
     }
 }
