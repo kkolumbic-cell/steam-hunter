@@ -19789,9 +19789,9 @@
         "URL": "https://store.steampowered.com/app/4265280/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4265280/2631df244bfb9945c73e619773ba589759933ee8/header.jpg?t=1775030368",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-17",
-        "AddedTimestamp": 1781673518.5436668,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-07-07",
+        "AddedTimestamp": 1783463547.9314897,
         "MatchedTags": [
             "management",
             "strategy",
@@ -84561,9 +84561,9 @@
         "AddedDate": "2026-06-13",
         "AddedTimestamp": 1781352349.2378092,
         "MatchedTags": [
-            "strategy",
-            "real time tactics",
             "tactical rpg",
+            "real time tactics",
+            "strategy",
             "tactical"
         ]
     },
@@ -104526,6 +104526,78 @@
         "MatchedTags": [
             "psychological horror",
             "horror"
+        ]
+    },
+    "4712440": {
+        "Title": "Seaforge: Shores of Atlantis",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4712440/",
+        "Site": "https://seaforgegame.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4712440/ee3a5171eaa52013b51f014c897966b8c346aee3/header.jpg?t=1783462425",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-07",
+        "AddedTimestamp": 1783463576.298938,
+        "MatchedTags": [
+            "base building",
+            "resource management"
+        ]
+    },
+    "4893040": {
+        "Title": "Hyposolus",
+        "Email": "",
+        "Discord": "https://discord.gg/48dRNrRtFP",
+        "URL": "https://store.steampowered.com/app/4893040/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4893040/d61608866775cc8aa7a6b6a8379d42917a0b3f17/header.jpg?t=1783459305",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-07",
+        "AddedTimestamp": 1783463611.5310497,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4914220": {
+        "Title": "Trials Of The Forsaken",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4914220/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4914220/be44af30ce26d2fdff0dbde4ed9593cb519b422b/header.jpg?t=1783458864",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-07",
+        "AddedTimestamp": 1783463622.858677,
+        "MatchedTags": [
+            "strategy",
+            "horror"
+        ]
+    },
+    "4915580": {
+        "Title": "FORTARO",
+        "Email": "",
+        "Discord": "https://discord.gg/8fYqa55Hdk",
+        "URL": "https://store.steampowered.com/app/4915580/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4915580/3bb1e75c5794944ecb6d1b3d241dc60a2cb91a0d/header.jpg?t=1783463339",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-07",
+        "AddedTimestamp": 1783463628.0797818,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4919380": {
+        "Title": "Idiots Stealing Things",
+        "Email": "",
+        "Discord": "https://discord.gg/azsScpGF5p",
+        "URL": "https://store.steampowered.com/app/4919380/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4919380/0a13fcffdcdb9d8d73b815bbfc117d84c9352710/header.jpg?t=1783462432",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-07",
+        "AddedTimestamp": 1783463630.6590815,
+        "MatchedTags": [
+            "economy"
         ]
     }
 }
