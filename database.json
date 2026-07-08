@@ -16080,9 +16080,9 @@
         "URL": "https://store.steampowered.com/app/4529430/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4529430/21aa2d0e8212f43e3de0ce497a76323a96cf0e41/header.jpg?t=1774610101",
-        "Date": "September 2026",
-        "AddedDate": "2026-06-25",
-        "AddedTimestamp": 1782388656.0405366,
+        "Date": "August 2026",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783511924.4748664,
         "MatchedTags": [
             "strategy"
         ]
@@ -34628,7 +34628,7 @@
     },
     "4605200": {
         "Title": "Hero of the Kingdom IV",
-        "Email": "business@lonelytroops.com, press@lonelytroops.com, support@lonelytroops.com, team@lonelytroops.com",
+        "Email": "team@lonelytroops.com, business@lonelytroops.com, press@lonelytroops.com, support@lonelytroops.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4605200/",
         "Site": "https://www.lonelytroops.com/hotk4/index.htm",
@@ -63637,9 +63637,9 @@
         "URL": "https://store.steampowered.com/app/3863770/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3863770/d9d7875e1841b19014ca43fe5b365cfad39d2cca/header.jpg?t=1779563274",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-23",
-        "AddedTimestamp": 1779565168.0228636,
+        "Date": "Jul 8, 2026",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783511901.7499592,
         "MatchedTags": [
             "management",
             "economy",
@@ -72212,9 +72212,9 @@
         "URL": "https://store.steampowered.com/app/4779000/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4779000/941705886bd9defd514927084b5c19d482ae40fb/header.jpg?t=1780386466",
-        "Date": "Jul 14, 2026",
-        "AddedDate": "2026-06-22",
-        "AddedTimestamp": 1782131465.3178265,
+        "Date": "Jul 21, 2026",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783511971.9294045,
         "MatchedTags": [
             "strategy"
         ]
@@ -103808,7 +103808,7 @@
     "4603990": {
         "Title": "CRED",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/qPnB822MS",
         "URL": "https://store.steampowered.com/app/4603990/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4603990/8a3f07ebf73b7417c1c2b8a4add2c4cd077bb32a/header.jpg?t=1783412799",
@@ -104409,9 +104409,9 @@
         "URL": "https://store.steampowered.com/app/4880030/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4880030/7f530463a5d94e921b707113e2e4871bf6b7fc9b/header.jpg?t=1783450160",
-        "Date": "Jul 27, 2026",
-        "AddedDate": "2026-07-07",
-        "AddedTimestamp": 1783458093.992729,
+        "Date": "Jul 20, 2026",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783512012.3768394,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -104908,9 +104908,9 @@
         "URL": "https://store.steampowered.com/app/4911380/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4911380/584ab6feb30e2cc7705c1fd5eb288a0642ab7ff9/header.jpg?t=1783483864",
-        "Date": "Jul 30, 2026",
+        "Date": "Jul 31, 2026",
         "AddedDate": "2026-07-08",
-        "AddedTimestamp": 1783492912.902043,
+        "AddedTimestamp": 1783512022.7451773,
         "MatchedTags": [
             "strategy",
             "real time tactics"
@@ -105034,6 +105034,21 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4886980": {
+        "Title": "Dense Void",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4886980/",
+        "Site": "https://relicradiation.io",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886980/8b00db4082c3cf77ce192cee26501ed7dce91461/header.jpg?t=1783505212",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783512015.009082,
+        "MatchedTags": [
+            "psychological horror",
+            "survival horror"
         ]
     }
 }
