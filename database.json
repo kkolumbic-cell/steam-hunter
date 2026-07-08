@@ -68449,9 +68449,9 @@
         "URL": "https://store.steampowered.com/app/4533740/",
         "Site": "https://www.littleemperorstudios.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4533740/28a1b74e705751a93807591dcf8b3438d8020022/header.jpg?t=1780056994",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-29",
-        "AddedTimestamp": 1780057778.5724084,
+        "Date": "Jul 7, 2026",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783469593.9555771,
         "MatchedTags": [
             "horror"
         ]
@@ -104598,6 +104598,86 @@
         "AddedTimestamp": 1783463630.6590815,
         "MatchedTags": [
             "economy"
+        ]
+    },
+    "4795030": {
+        "Title": "Organized Chaos",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4795030/",
+        "Site": "https://organized-chaos.netlify.app",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4795030/73002119732603631f56ff76d97ac43118725c44/header.jpg?t=1783465345",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783469620.3160667,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4880560": {
+        "Title": "Unclaimed",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4880560/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4880560/a5abdf2cf592455a4be06b9ba7f47114a2a8d216/header.jpg?t=1783469118",
+        "Date": "Oct 19, 2026",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783469648.1757252,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4890600": {
+        "Title": "FrontierLord",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4890600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4890600/ea05dbd78357b35253773ab073b0e7386185e22b/header.jpg?t=1783466629",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783469656.8961735,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "city builder",
+            "tactical",
+            "real time tactics",
+            "base building",
+            "management"
+        ]
+    },
+    "4894520": {
+        "Title": "\u4ed3\u738b",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4894520/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4894520/3945d7e64fda200c17af0f3fefdbf5d1c75137b8/header.jpg?t=1783468532",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783469658.9424505,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4919470": {
+        "Title": "To Home",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4919470/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4919470/674fe13428a943191b5745ad4c9d1ec2d05bc273/header.jpg?t=1783467313",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783469676.0631738,
+        "MatchedTags": [
+            "psychological horror"
         ]
     }
 }
