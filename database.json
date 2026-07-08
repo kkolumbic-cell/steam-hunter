@@ -41011,9 +41011,9 @@
         "URL": "https://store.steampowered.com/app/4515150/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4515150/bd95d361e0dc41fd19221cb2795cc713e3a225c0/header.jpg?t=1777057416",
-        "Date": "Aug 11, 2026",
-        "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1777058070.187653,
+        "Date": "Sep 9, 2026",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783543133.720028,
         "MatchedTags": [
             "psychological horror",
             "strategy"
@@ -83863,9 +83863,9 @@
     "4780560": {
         "Title": "Unboxed: Idle Case Tycoon",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/9mJ4XA6YrB",
         "URL": "https://store.steampowered.com/app/4780560/",
-        "Site": "",
+        "Site": "https://www.duoforgegames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4780560/3555857aff9d6bdc7c52d09009c34678bde54e05/header.jpg?t=1781292056",
         "Date": "Coming soon",
         "AddedDate": "2026-06-12",
@@ -97873,9 +97873,9 @@
         "URL": "https://store.steampowered.com/app/4890760/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4890760/d6dec22f1f319e6e4c87d7e92c1a7858152a3445/header.jpg?t=1782745655",
-        "Date": "August 2026",
-        "AddedDate": "2026-06-29",
-        "AddedTimestamp": 1782749903.71744,
+        "Date": "Aug 24, 2026",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783543206.049465,
         "MatchedTags": [
             "base building"
         ]
@@ -101363,9 +101363,9 @@
         "URL": "https://store.steampowered.com/app/4883670/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4883670/4216efce7cbcf1928839d69427d69033e980f669/header.jpg?t=1783087622",
-        "Date": "Jul 13, 2026",
-        "AddedDate": "2026-07-03",
-        "AddedTimestamp": 1783092662.084916,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783543197.765357,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -103523,9 +103523,9 @@
         "URL": "https://store.steampowered.com/app/4915010/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4915010/e2a988c75f70c14334aac205cd4a6c4812e9d17f/header.jpg?t=1783373991",
-        "Date": "2026",
-        "AddedDate": "2026-07-06",
-        "AddedTimestamp": 1783377632.701916,
+        "Date": "2027",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783543237.213454,
         "MatchedTags": [
             "turn-based strategy",
             "turn-based combat"
@@ -104257,9 +104257,9 @@
         "URL": "https://store.steampowered.com/app/4894100/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4894100/680cd377c0a18cd94280e512f9507f15894cc6a6/header.jpg?t=1783448027",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-07-07",
-        "AddedTimestamp": 1783448776.3686118,
+        "Date": "Sep 9, 2026",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783543209.3578818,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -105118,10 +105118,10 @@
     },
     "4709270": {
         "Title": "DEEPWARD",
-        "Email": "",
-        "Discord": "",
+        "Email": "support@echofallgames.com",
+        "Discord": "https://discord.gg/ydB8TCEzcb",
         "URL": "https://store.steampowered.com/app/4709270/",
-        "Site": "",
+        "Site": "https://echofallgames.com/deepward/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4709270/e37dc7a10f27a4b29861cbc01e5267234d03258f/header.jpg?t=1783519272",
         "Date": "To be announced",
         "AddedDate": "2026-07-08",
@@ -105737,6 +105737,99 @@
             "strategy",
             "base building",
             "real time tactics"
+        ]
+    },
+    "4429100": {
+        "Title": "Oro Cauda",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4429100/",
+        "Site": "https://meltersoft.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4429100/fe60edcfec198ef9325ef3ef10cc37c3dc24a0f4/header.jpg?t=1783542766",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783543121.6916175,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4871730": {
+        "Title": "Ad Reditus",
+        "Email": "press@adreditus.com",
+        "Discord": "https://discord.gg/BtaDZSU97K",
+        "URL": "https://store.steampowered.com/app/4871730/",
+        "Site": "https://adreditus.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4871730/3bbb4929391c8a1a1e91d92e23b3e5aacbb62fb5/header.jpg?t=1783541349",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783543193.9732215,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based combat",
+            "turn-based strategy"
+        ]
+    },
+    "4894930": {
+        "Title": "Akwarium",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4894930/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4894930/612bfde87ad49727bf7fa8d578d5d3d6c07f6721/header.jpg?t=1783538806",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783543215.5135322,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4920750": {
+        "Title": "Grim Siege",
+        "Email": "hello@saqred.games, buisness@saqred.games",
+        "Discord": "https://discord.gg/gd2gwwxqj",
+        "URL": "https://store.steampowered.com/app/4920750/",
+        "Site": "https://saqred.games/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920750/2510025f6e5c59d9caef3c0e95abd0585561adee/header.jpg?t=1783539275",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783543242.0163617,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4924620": {
+        "Title": "Vesper Hollow",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4924620/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924620/4c79a963cd1d402b5ec3ddf3f0d54be18e592b0c/header.jpg?t=1783537578",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783543253.5334458,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4925700": {
+        "Title": "Blooming Parasite",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4925700/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4925700/ddeadaae0595d3fc9b112bd2fde32e2269232302/header.jpg?t=1783542216",
+        "Date": "TBA",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783543256.1742058,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
         ]
     }
 }
