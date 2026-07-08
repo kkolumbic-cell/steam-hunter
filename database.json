@@ -18048,7 +18048,7 @@
         "Email": "",
         "Discord": "https://discord.gg/aWVDWVWsZa",
         "URL": "https://store.steampowered.com/app/3276100/",
-        "Site": "",
+        "Site": "https://cosmiccrewgame.carrd.co/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3276100/230aaa7032b5b4e0441123c7b32b59d77bc010d2/header.jpg?t=1774897007",
         "Date": "To be announced",
         "AddedDate": "2026-05-16",
@@ -35758,9 +35758,8 @@
         "AddedTimestamp": 1776713739.6217825,
         "MatchedTags": [
             "management",
-            "resource management",
-            "economy",
-            "strategy"
+            "strategy",
+            "resource management"
         ]
     },
     "4488300": {
@@ -78997,9 +78996,9 @@
         "URL": "https://store.steampowered.com/app/4695950/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4695950/24a88d701ace1318dc536c090d27bf4ec993fed3/header.jpg?t=1780992142",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-09",
-        "AddedTimestamp": 1780994659.9693606,
+        "Date": "August 2026",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783549126.2490928,
         "MatchedTags": [
             "management"
         ]
@@ -105830,6 +105829,127 @@
             "horror",
             "survival horror",
             "psychological horror"
+        ]
+    },
+    "3501450": {
+        "Title": "Tamer Deck Arena",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3501450/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3501450/735eef9b0ea80704b2d28ea7b6dc1b6882582bf1/header.jpg?t=1783545329",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783549086.1353064,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "tactical",
+            "turn-based combat"
+        ]
+    },
+    "4809720": {
+        "Title": "Office Tower Defense",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4809720/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4809720/2abc45fe2510268dd354e3f1d46846d3aa9a5054/header.jpg?t=1783548764",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783549147.788594,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "base building",
+            "tower defense"
+        ]
+    },
+    "4887260": {
+        "Title": "Anatolian Leopard",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4887260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4887260/b73e7f5706a8425f61f9955fbd751680182f8829/header.jpg?t=1783543541",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783549161.5781708,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4897690": {
+        "Title": "Red Interior",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4897690/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4897690/97f773c3c89432d789b6c84257fbaeb25eca5955/header.jpg?t=1783546041",
+        "Date": "Jul 22, 2026",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783549165.7364113,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4908180": {
+        "Title": "Spinvestor",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4908180/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4908180/221ad00630beb45c0a92c14fb9edc518d2231cb2/header.jpg?t=1783546482",
+        "Date": "Oct 30, 2026",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783549170.1034746,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4914330": {
+        "Title": "Singularity Drift",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4914330/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4914330/1b528eb635f31cec282b5af9ce48f02ac2cad067/header.jpg?t=1783543701",
+        "Date": "September 2026",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783549180.875032,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4917820": {
+        "Title": "Dread Below",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4917820/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4917820/703f682090174615f1c87c215518965ddac7a1b8/header.jpg?t=1783545286",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783549184.1041143,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4929090": {
+        "Title": "The Wyoming Incident",
+        "Email": "contact@veraxicgames.com",
+        "Discord": "https://discord.gg/de4NmeFtSk",
+        "URL": "https://store.steampowered.com/app/4929090/",
+        "Site": "https://veraxicgames.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4929090/1624747435ec3578cf0c6d86e97366cca6923ac3/header.jpg?t=1783543733",
+        "Date": "2026",
+        "AddedDate": "2026-07-08",
+        "AddedTimestamp": 1783549193.074218,
+        "MatchedTags": [
+            "psychological horror",
+            "horror",
+            "strategy"
         ]
     }
 }
