@@ -20116,8 +20116,8 @@
         "AddedDate": "2026-04-01",
         "AddedTimestamp": 1775058297.7254777,
         "MatchedTags": [
-            "resource management",
             "strategy",
+            "resource management",
             "management",
             "economy"
         ]
@@ -31892,9 +31892,9 @@
         "URL": "https://store.steampowered.com/app/4489450/",
         "Site": "https://voxelion.info/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4489450/e54a52fecd331b23bdad161619a75dce4187179d/header.jpg?t=1776286435",
-        "Date": "July 2026",
-        "AddedDate": "2026-04-25",
-        "AddedTimestamp": 1777157876.111697,
+        "Date": "Jul 10, 2026",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783574284.6012645,
         "MatchedTags": [
             "strategy",
             "city builder",
@@ -40283,9 +40283,9 @@
         "URL": "https://store.steampowered.com/app/4599400/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4599400/b4831a265916af82c61f6ff5a53c6d747143eede/header.jpg?t=1777008754",
-        "Date": "July 2026",
-        "AddedDate": "2026-05-31",
-        "AddedTimestamp": 1780203235.4720976,
+        "Date": "Jul 8, 2026",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783574305.3308878,
         "MatchedTags": [
             "strategy",
             "real time tactics",
@@ -41139,9 +41139,9 @@
         "URL": "https://store.steampowered.com/app/4655770/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4655770/f4fa72d53790f5962caec1d3e98e8558125cffbd/header.jpg?t=1777060050",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1777061089.1359065,
+        "Date": "2026",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783574325.8433628,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -78028,9 +78028,9 @@
         "URL": "https://store.steampowered.com/app/4787300/",
         "Site": "https://playzerion.com/steam/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4787300/d49254a4c39acddf71dd36f19469343e901b9e7a/header.jpg?t=1780917339",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-20",
-        "AddedTimestamp": 1781981299.4411922,
+        "Date": "Jul 8, 2026",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783574363.0630846,
         "MatchedTags": [
             "economy"
         ]
@@ -94146,9 +94146,9 @@
         "URL": "https://store.steampowered.com/app/4774490/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4774490/8159088132143bc80fdcc147fb2a5b18410f9841/header.jpg?t=1782292077",
-        "Date": "Jul 2, 2026",
-        "AddedDate": "2026-06-24",
-        "AddedTimestamp": 1782302637.8829496,
+        "Date": "Jul 8, 2026",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783574354.0815516,
         "MatchedTags": [
             "management",
             "economy",
@@ -102875,7 +102875,7 @@
     "4847660": {
         "Title": "Resort Architect",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/n7EMyw6J5X",
         "URL": "https://store.steampowered.com/app/4847660/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4847660/0b00f84387a8681822ceaab6fb3b40a3d185fee1/header.jpg?t=1783323604",
@@ -106113,6 +106113,97 @@
         "AddedTimestamp": 1783559206.5877326,
         "MatchedTags": [
             "resource management"
+        ]
+    },
+    "4366640": {
+        "Title": "HexHell",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4366640/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4366640/aa48e938338a18e6157b4d4f615ddb55383974dc/header.jpg?t=1783573258",
+        "Date": "TBA",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783574270.2557168,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "colony sim",
+            "real time tactics",
+            "economy"
+        ]
+    },
+    "4732990": {
+        "Title": "Debtor's Prison",
+        "Email": "",
+        "Discord": "https://discord.gg/mbF2GvBhqT",
+        "URL": "https://store.steampowered.com/app/4732990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4732990/769573f8fa53bc32247577c534a56292cc36edbf/header.jpg?t=1783568668",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783574341.7365646,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4823780": {
+        "Title": "Sunny Labyrinths",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4823780/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4823780/06d23b08b8aeec1e67a6fbe291d9a273ec693fd5/header.jpg?t=1783561590",
+        "Date": "Aug 21, 2026",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783574374.4979165,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4911260": {
+        "Title": "Final Table",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4911260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4911260/5de88609cf2ce0829694a03a4b4881e0ab18bed2/header.jpg?t=1783569417",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783574426.8798554,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4914820": {
+        "Title": "The Walks We Used To Take",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4914820/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4914820/90c0064a480413c07cf99bf2053192bf01ce7bf0/header.jpg?t=1783563600",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783574435.6788056,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4928730": {
+        "Title": "Hold the Line",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4928730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4928730/7233cbe07052e9f47ed957f3cde2f1052f3a1333/header.jpg?t=1783562623",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783574456.0725038,
+        "MatchedTags": [
+            "resource management",
+            "survival horror",
+            "base building"
         ]
     }
 }
