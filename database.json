@@ -38477,10 +38477,9 @@
         "AddedDate": "2026-04-22",
         "AddedTimestamp": 1776886907.0002742,
         "MatchedTags": [
-            "strategy",
-            "turn-based strategy",
             "turn-based tactics",
-            "turn-based combat"
+            "turn-based strategy",
+            "strategy"
         ]
     },
     "4653390": {
@@ -55510,9 +55509,7 @@
         "MatchedTags": [
             "horror",
             "survival horror",
-            "psychological horror",
             "strategy",
-            "resource management",
             "tactical"
         ]
     },
@@ -91571,7 +91568,7 @@
     "4457210": {
         "Title": "Coldwatch",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/8Ju4AJQcXh",
         "URL": "https://store.steampowered.com/app/4457210/",
         "Site": "https://rendrify.com/games",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4457210/8123920d18b7df87ccb685eeac39ec46c500fe22/header.jpg?t=1782147528",
@@ -98407,9 +98404,9 @@
         "URL": "https://store.steampowered.com/app/4881210/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4881210/6079c94abf4831535fc245d3d2871a81f8714da1/header.jpg?t=1782812108",
-        "Date": "Jul 12, 2026",
-        "AddedDate": "2026-06-30",
-        "AddedTimestamp": 1782837422.1121333,
+        "Date": "July 2026",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783640362.4957154,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -107075,6 +107072,71 @@
             "horror",
             "survival horror",
             "psychological horror"
+        ]
+    },
+    "4709490": {
+        "Title": "Minatro",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4709490/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4709490/1211c794c58ca9b274a0b31b331f7a17c79ad07b/header.jpg?t=1783639049",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783640331.695484,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4900400": {
+        "Title": "Oblivions Garden",
+        "Email": "",
+        "Discord": "https://discord.gg/MUWPncRJfH",
+        "URL": "https://store.steampowered.com/app/4900400/",
+        "Site": "https://oblivions.garden/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4900400/ce5cb1b85fe24310520f128efbe4b8eefa698fbb/header.jpg?t=1783637101",
+        "Date": "Q4 2028",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783640368.6871674,
+        "MatchedTags": [
+            "city builder",
+            "strategy",
+            "colony sim",
+            "economy",
+            "management",
+            "base building",
+            "resource management"
+        ]
+    },
+    "4900660": {
+        "Title": "Time, Line",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4900660/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4900660/2f0c9c193c442c48a3d8aed6e0363d51c44aab66/header.jpg?t=1783639903",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783640370.9704406,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4901960": {
+        "Title": "Big House",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4901960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4901960/266afa3c60d7520a4466a92dde526efd4c17f453/header.jpg?t=1783637588",
+        "Date": "Jul 23, 2026",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783640373.407147,
+        "MatchedTags": [
+            "turn-based combat",
+            "strategy",
+            "resource management",
+            "turn-based tactics"
         ]
     }
 }
