@@ -16126,9 +16126,9 @@
         "URL": "https://store.steampowered.com/app/4511960/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4511960/befe6309f2093a5227340b3ffd7489aa807af3f7/header.jpg?t=1774613508",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-27",
-        "AddedTimestamp": 1774619152.8875716,
+        "Date": "Jul 14, 2026",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783599421.6021245,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -84082,9 +84082,9 @@
         "URL": "https://store.steampowered.com/app/4811470/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4811470/a4e060fa52413a63e4447c6542455e2c799c9258/header.jpg?t=1781302219",
-        "Date": "TBA",
-        "AddedDate": "2026-06-12",
-        "AddedTimestamp": 1781304690.216719,
+        "Date": "To be announced",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783599499.669854,
         "MatchedTags": [
             "strategy",
             "grand strategy",
@@ -87852,8 +87852,8 @@
         "MatchedTags": [
             "strategy",
             "colony sim",
-            "economy",
-            "management"
+            "city builder",
+            "resource management"
         ]
     },
     "4848560": {
@@ -91861,9 +91861,9 @@
         "URL": "https://store.steampowered.com/app/4861030/",
         "Site": "https://www.tiktok.com/@mad.alqaqa",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4861030/c104f826b09fc26aa1b1f5787d635cff8db8e671/header.jpg?t=1782149772",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-22",
-        "AddedTimestamp": 1782151193.5852041,
+        "Date": "Jul 9, 2026",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783599538.5096087,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -93903,9 +93903,9 @@
         "URL": "https://store.steampowered.com/app/2988050/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988050/4f52673691454980c237b2b94cf4670d512854cb/header.jpg?t=1782284601",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-24",
-        "AddedTimestamp": 1782290076.2143483,
+        "Date": "Jul 9, 2026",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783599391.7742743,
         "MatchedTags": [
             "strategy"
         ]
@@ -94642,9 +94642,9 @@
         "URL": "https://store.steampowered.com/app/4540330/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4540330/c4fb7a8865ab0c8ffa403ed7c2ecf3c639937af1/header.jpg?t=1782397484",
-        "Date": "July 2026",
-        "AddedDate": "2026-07-05",
-        "AddedTimestamp": 1783294323.103882,
+        "Date": "Jul 9, 2026",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783599434.9868014,
         "MatchedTags": [
             "resource management",
             "management"
@@ -105379,9 +105379,9 @@
         "AddedDate": "2026-07-08",
         "AddedTimestamp": 1783529502.7126725,
         "MatchedTags": [
-            "tactical rpg",
             "turn-based tactics",
             "strategy",
+            "tactical rpg",
             "turn-based strategy",
             "grand strategy",
             "turn-based combat"
@@ -106282,6 +106282,117 @@
             "colony sim",
             "strategy",
             "economy"
+        ]
+    },
+    "4770840": {
+        "Title": "Last Frame",
+        "Email": "",
+        "Discord": "https://discord.gg/aSC54T23jr",
+        "URL": "https://store.steampowered.com/app/4770840/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4770840/ac989812fa71ed4a54359ab1bf0e8367e696cd62/header.jpg?t=1783591431",
+        "Date": "2027",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783599482.2871065,
+        "MatchedTags": [
+            "survival horror",
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4779060": {
+        "Title": "ROME ULTRAVIOLENCE NIGHT",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4779060/",
+        "Site": "https://lostsatellitestudio.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4779060/c63f57b784affc31f46d5fdf31ea3790b57a496c/header.jpg?t=1783587186",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783599484.7773075,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "turn-based strategy"
+        ]
+    },
+    "4812780": {
+        "Title": "Destiny Unknown",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4812780/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4812780/93bb138288f97a40d30aa142d45d1988d6f343a2/header.jpg?t=1783588209",
+        "Date": "Jul 17, 2026",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783599503.0404427,
+        "MatchedTags": [
+            "turn-based strategy",
+            "tactical",
+            "strategy",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4814430": {
+        "Title": "Board Poker",
+        "Email": "",
+        "Discord": "https://discord.gg/bNdhvjmWpu",
+        "URL": "https://store.steampowered.com/app/4814430/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4814430/9f6dac4284b459988d808e1ae8d4ab88ec268074/header.jpg?t=1783587081",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783599504.9891827,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "turn-based tactics"
+        ]
+    },
+    "4873200": {
+        "Title": "Mr Twiddle's Wee Diddy Farm",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4873200/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4873200/36f35ebaee0cae6aa58f46cdd81dba10d6c934f2/header.jpg?t=1783590210",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783599547.4623716,
+        "MatchedTags": [
+            "resource management",
+            "economy"
+        ]
+    },
+    "4900370": {
+        "Title": "My Sudoku",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4900370/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4900370/9189cd2d6818bdfc4f0d4bc2d01a1bf965a51dd8/header.jpg?t=1783587536",
+        "Date": "Jul 16, 2026",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783599567.2083118,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4915180": {
+        "Title": "EXORCISMUS: Vade Retro Satana",
+        "Email": "info@airem.pl",
+        "Discord": "https://discord.gg/Airem",
+        "URL": "https://store.steampowered.com/app/4915180/",
+        "Site": "http://airem.pl",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4915180/ac32b7866ebf20b75176690e6bc68211ed0f2e1f/header.jpg?t=1783597992",
+        "Date": "August 2026",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783599582.679762,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
         ]
     }
 }
