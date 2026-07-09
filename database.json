@@ -4785,8 +4785,7 @@
         "MatchedTags": [
             "resource management",
             "management",
-            "strategy",
-            "tactical"
+            "strategy"
         ]
     },
     "3471360": {
@@ -58969,9 +58968,9 @@
         "URL": "https://store.steampowered.com/app/4007910/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4007910/873985518f922e3ef7e839f9f558c13c657bb368/header.jpg?t=1778836780",
-        "Date": "July 2026",
-        "AddedDate": "2026-05-15",
-        "AddedTimestamp": 1778844652.1509473,
+        "Date": "August 2026",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783633661.4637296,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -105021,9 +105020,9 @@
         "URL": "https://store.steampowered.com/app/4906410/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4906410/161546bd6e6f3227c07fd9eb434d719c7e682ad5/header.jpg?t=1783495822",
-        "Date": "2026",
-        "AddedDate": "2026-07-08",
-        "AddedTimestamp": 1783503706.9094665,
+        "Date": "Sep 18, 2026",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783633760.235969,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -106587,9 +106586,9 @@
         "URL": "https://store.steampowered.com/app/4909670/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4909670/5475c22f5819ccbb1315548ed551472b25365f31/header.jpg?t=1783601136",
-        "Date": "Coming soon",
+        "Date": "2027",
         "AddedDate": "2026-07-09",
-        "AddedTimestamp": 1783613756.7982898,
+        "AddedTimestamp": 1783633763.5518434,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -106953,6 +106952,129 @@
         "AddedTimestamp": 1783627761.0792344,
         "MatchedTags": [
             "resource management"
+        ]
+    },
+    "4778330": {
+        "Title": "Sardoinky",
+        "Email": "info@redsluggames.com",
+        "Discord": "https://discord.gg/Jy8tv6Tfrw",
+        "URL": "https://store.steampowered.com/app/4778330/",
+        "Site": "https://redsluggames.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778330/9102cecce121ea0189e194e34d498fd0c5fda8dc/header.jpg?t=1783628954",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783633715.644606,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4845300": {
+        "Title": "Besetmere Forest",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4845300/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845300/68bbc0a6d134680c258a17dd8c8434c2ae775f5c/header.jpg?t=1783629931",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783633732.8150218,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4896360": {
+        "Title": "Ceto-7",
+        "Email": "dave-murray@outlook.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4896360/",
+        "Site": "https://www.davemurraygames.com/portfolio-collections/my-portfolio/ceto-7",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4896360/77b57222b79ba0214c8b17acfecca3e36a395e32/header.jpg?t=1783630425",
+        "Date": "August 2026",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783633743.7891157,
+        "MatchedTags": [
+            "survival horror",
+            "resource management"
+        ]
+    },
+    "4896710": {
+        "Title": "The Labyrinth",
+        "Email": "",
+        "Discord": "https://discord.gg/Jdz6z5yvM",
+        "URL": "https://store.steampowered.com/app/4896710/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4896710/94061f802919abe3650cbb1e86367fe438345069/header.jpg?t=1783632456",
+        "Date": "Jul 30, 2026",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783633748.5343418,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror",
+            "strategy"
+        ]
+    },
+    "4910220": {
+        "Title": "Incremental Vampire",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4910220/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4910220/097a40ec9856ae4720cdfa243ccca476c5a3ad9a/header.jpg?t=1783633031",
+        "Date": "July 2026",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783633765.928127,
+        "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "4916270": {
+        "Title": "Wizard's Calc",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4916270/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4916270/a3fbe312f5604cdbef7b6835bd2eac08de7e8c4c/header.jpg?t=1783632268",
+        "Date": "Jul 20, 2026",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783633774.9720213,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "tactical rpg"
+        ]
+    },
+    "4932460": {
+        "Title": "Earth Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4932460/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4932460/4ffee6d4c14137a91211d78eaa78ddd8a4dd8c15/header.jpg?t=1783630485",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783633794.7327113,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4933610": {
+        "Title": "DUAT",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4933610/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4933610/1a6c8b66a5aef45395251ae8b10e4cce8a6282a5/header.jpg?t=1783632287",
+        "Date": "2026",
+        "AddedDate": "2026-07-09",
+        "AddedTimestamp": 1783633797.738816,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
         ]
     }
 }
