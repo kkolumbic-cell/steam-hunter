@@ -7616,7 +7616,7 @@
     },
     "4456350": {
         "Title": "Organomancer",
-        "Email": "",
+        "Email": "admin@vantachamber.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4456350/",
         "Site": "https://vantachamber.com/",
@@ -7626,7 +7626,8 @@
         "AddedTimestamp": 1773481772.0916173,
         "MatchedTags": [
             "economy",
-            "management"
+            "management",
+            "resource management"
         ]
     },
     "4465120": {
@@ -8157,9 +8158,9 @@
         "URL": "https://store.steampowered.com/app/4449620/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4449620/37e671b2eca9e74b258f946ae9335f409e83815e/header.jpg?t=1773666360",
-        "Date": "To be announced",
-        "AddedDate": "2026-03-19",
-        "AddedTimestamp": 1773898755.7274287,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-10",
+        "AddedTimestamp": 1783721887.0776026,
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
@@ -47126,9 +47127,9 @@
         "URL": "https://store.steampowered.com/app/4644480/",
         "Site": "https://finegrindgames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4644480/5129841ade38926560239f1934eb662f53a98157/header.jpg?t=1777575360",
-        "Date": "2027",
-        "AddedDate": "2026-07-03",
-        "AddedTimestamp": 1783101038.630704,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-07-10",
+        "AddedTimestamp": 1783721908.3743253,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -54913,9 +54914,9 @@
         "URL": "https://store.steampowered.com/app/4705520/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4705520/b44bc02988b84e90848fcc475530c6b6ee4ac228/header.jpg?t=1778352677",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-09",
-        "AddedTimestamp": 1778355369.0863423,
+        "Date": "Jul 10, 2026",
+        "AddedDate": "2026-07-10",
+        "AddedTimestamp": 1783721913.0428493,
         "MatchedTags": [
             "strategy"
         ]
@@ -91233,9 +91234,9 @@
         "URL": "https://store.steampowered.com/app/4852900/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4852900/2e9a1f4292094e81132bc734548f05117a61b219/header.jpg?t=1782014062",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-21",
-        "AddedTimestamp": 1782025990.7650018,
+        "Date": "Jul 10, 2026",
+        "AddedDate": "2026-07-10",
+        "AddedTimestamp": 1783721948.9271135,
         "MatchedTags": [
             "resource management"
         ]
@@ -96377,9 +96378,9 @@
         "URL": "https://store.steampowered.com/app/4852880/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4852880/e4e357a400104aae75fee1d3a309b73a683b73eb/header.jpg?t=1782514706",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-27",
-        "AddedTimestamp": 1782523544.6189198,
+        "Date": "Jul 10, 2026",
+        "AddedDate": "2026-07-10",
+        "AddedTimestamp": 1783721946.811243,
         "MatchedTags": [
             "turn-based strategy",
             "tactical rpg",
@@ -108122,6 +108123,98 @@
         "MatchedTags": [
             "horror",
             "survival horror"
+        ]
+    },
+    "4706650": {
+        "Title": "Thirty Years War",
+        "Email": "helpdesk@wargameds.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4706650/",
+        "Site": "https://wargameds.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4706650/4bc7397acd3c42e94f322f2e1953a02290d3587e/header.jpg?t=1783719309",
+        "Date": "Aug 7, 2026",
+        "AddedDate": "2026-07-10",
+        "AddedTimestamp": 1783721916.1787114,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "tactical",
+            "turn-based combat"
+        ]
+    },
+    "4875320": {
+        "Title": "In These Hallowed Halls",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4875320/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4875320/44851ddd31f3dea5afc438e47b7627beb8ffa792/header.jpg?t=1783716353",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-10",
+        "AddedTimestamp": 1783721951.600127,
+        "MatchedTags": [
+            "psychological horror",
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4913930": {
+        "Title": "Till The Light",
+        "Email": "",
+        "Discord": "https://discord.gg/3z2GMgpqTB",
+        "URL": "https://store.steampowered.com/app/4913930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4913930/373d7de4810b16c4661317eebd7b720fdaa7639e/header.jpg?t=1783721763",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-10",
+        "AddedTimestamp": 1783721984.400425,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4920540": {
+        "Title": "ELEMENTORS",
+        "Email": "",
+        "Discord": "https://discord.gg/SSq4WszRa",
+        "URL": "https://store.steampowered.com/app/4920540/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4920540/53a15a085b5715cd8fb715216d92b609657267d1/header.jpg?t=1783719251",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-10",
+        "AddedTimestamp": 1783721993.6412952,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4935270": {
+        "Title": "TRAINCORE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4935270/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4935270/4ef98f16001d254ff36d9b4aa8318c8295afd12b/header.jpg?t=1783720438",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-10",
+        "AddedTimestamp": 1783722004.639744,
+        "MatchedTags": [
+            "resource management",
+            "management"
+        ]
+    },
+    "4936540": {
+        "Title": "The Ones Who Answered",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4936540/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4936540/c9c85848fa63f7d90a88cbee7a312f3f4f5b884b/header.jpg?t=1783721960",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-10",
+        "AddedTimestamp": 1783722007.5882487,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
