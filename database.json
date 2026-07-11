@@ -36670,9 +36670,9 @@
         "URL": "https://store.steampowered.com/app/4566690/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4566690/7c34a17c02a46dfeac95c9c85eb1ba51c0a4d067/header.jpg?t=1776773490",
-        "Date": "2026",
-        "AddedDate": "2026-04-21",
-        "AddedTimestamp": 1776780705.7343066,
+        "Date": "Jul 10, 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783751278.4923534,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -39650,9 +39650,9 @@
         "URL": "https://store.steampowered.com/app/4623010/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4623010/68cff4e03110b1e2deea35b1423e3371128b3dfc/header.jpg?t=1776972952",
-        "Date": "July 2026",
-        "AddedDate": "2026-05-21",
-        "AddedTimestamp": 1779357935.398197,
+        "Date": "August 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783751289.7883196,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -80367,9 +80367,9 @@
         "URL": "https://store.steampowered.com/app/4823600/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4823600/fa34be1774ceed3638c278df5514088b1e06b31e/header.jpg?t=1781059268",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-10",
-        "AddedTimestamp": 1781074159.9580207,
+        "Date": "Oct 14, 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783751315.8373346,
         "MatchedTags": [
             "turn-based strategy",
             "turn-based tactics",
@@ -95550,9 +95550,9 @@
         "URL": "https://store.steampowered.com/app/4881270/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4881270/157927cdbda851186656062157bd82116f65d988/header.jpg?t=1782476270",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-26",
-        "AddedTimestamp": 1782480292.4634204,
+        "Date": "August 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783751332.646541,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -101833,9 +101833,9 @@
         "URL": "https://store.steampowered.com/app/4909100/",
         "Site": "https://headarrow.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4909100/4d83ca7d386fe7269d67bf448409d495f05f84f0/header.jpg?t=1783114618",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-07-03",
-        "AddedTimestamp": 1783120910.3838804,
+        "Date": "Sep 11, 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783751348.1476662,
         "MatchedTags": [
             "management",
             "resource management",
@@ -108429,6 +108429,67 @@
             "horror",
             "survival horror",
             "psychological horror"
+        ]
+    },
+    "4600100": {
+        "Title": "\u65cf\u8b5c",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4600100/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4600100/a64f35bfdcf3edfb7a3fc6c4bb662145ca1d680a/header.jpg?t=1783744971",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783751286.8912907,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4857130": {
+        "Title": "Five-Star Courier and the Fog That Reeks of Death",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4857130/",
+        "Site": "https://vicavisual.carrd.co",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4857130/a57a06b7612de5ef61b3b6a5ed824505a43773ca/header.jpg?t=1783743924",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783751321.1843452,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4861550": {
+        "Title": "MindGate",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4861550/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4861550/a413a552b0446ab469db046829f05460f8884cf7/header.jpg?t=1783742529",
+        "Date": "2027",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783751324.1260376,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "tactical"
+        ]
+    },
+    "4902550": {
+        "Title": "Razor Trail Survivors",
+        "Email": "support@razortrailsurvivors.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4902550/",
+        "Site": "https://www.razortrailsurvivors.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4902550/cbb8a713208bcb03ffa49d62c5b0f335be3da895/header.jpg?t=1783750958",
+        "Date": "July 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783751343.3645191,
+        "MatchedTags": [
+            "resource management"
         ]
     }
 }
