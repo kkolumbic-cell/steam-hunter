@@ -47284,7 +47284,8 @@
         "AddedDate": "2026-05-14",
         "AddedTimestamp": 1778755054.4812438,
         "MatchedTags": [
-            "tactical"
+            "tactical",
+            "strategy"
         ]
     },
     "4681670": {
@@ -48489,9 +48490,9 @@
         "URL": "https://store.steampowered.com/app/4394900/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4394900/3b6a797920de3489f09a9624d623561a3524cf4d/header.jpg?t=1777692281",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-02",
-        "AddedTimestamp": 1777693992.3633285,
+        "Date": "Jul 28, 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783741512.2916007,
         "MatchedTags": [
             "strategy"
         ]
@@ -82299,9 +82300,10 @@
         "MatchedTags": [
             "strategy",
             "management",
-            "tactical",
+            "base building",
+            "resource management",
             "colony sim",
-            "tactical rpg"
+            "tactical"
         ]
     },
     "4820420": {
@@ -88169,9 +88171,9 @@
         "URL": "https://store.steampowered.com/app/4824530/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4824530/349d846107412d36b16bd27ac4a92339ff14aa54/header.jpg?t=1781695219",
-        "Date": "Jul 20, 2026",
-        "AddedDate": "2026-06-25",
-        "AddedTimestamp": 1782388747.712887,
+        "Date": "Jul 10, 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783741556.4269886,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -91591,9 +91593,9 @@
         "URL": "https://store.steampowered.com/app/4487280/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487280/9799121c018a0c9f909ef996a4063c5eb69875d3/header.jpg?t=1782143717",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-22",
-        "AddedTimestamp": 1782150883.7590835,
+        "Date": "Aug 20, 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783741521.804836,
         "MatchedTags": [
             "strategy",
             "survival horror"
@@ -108351,6 +108353,82 @@
         "AddedTimestamp": 1783728817.6403034,
         "MatchedTags": [
             "turn-based combat"
+        ]
+    },
+    "4827270": {
+        "Title": "Frog Fall",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4827270/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4827270/e252de920260ba091ac4d3c179d09216a7bf02b3/header.jpg?t=1783731535",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783741562.4477446,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4884390": {
+        "Title": "Galaxor",
+        "Email": "kontakt@galaxor.de",
+        "Discord": "https://discord.com/invite/6fty2Vd8CH",
+        "URL": "https://store.steampowered.com/app/4884390/",
+        "Site": "https://www.galaxor.de",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4884390/d0476f62b4354931793b65466a0dbe74bc4988b8/header.jpg?t=1783728854",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783741587.3997443,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "real time tactics",
+            "tactical"
+        ]
+    },
+    "4899860": {
+        "Title": "Doinaka de Reversi",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4899860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4899860/98344a9450f2a97f60944bccea36a65f943ff805/header.jpg?t=1783731082",
+        "Date": "October 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783741607.7441428,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4918680": {
+        "Title": "LEXICON",
+        "Email": "",
+        "Discord": "https://discord.gg/W8yFXBAXKS",
+        "URL": "https://store.steampowered.com/app/4918680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4918680/ff9d7f71ce09d0cd2df8ccb63d48e989082348a1/header.jpg?t=1783735184",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783741614.6375382,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4939340": {
+        "Title": "Xarana Xos: BACKROOMS",
+        "Email": "",
+        "Discord": "https://discord.gg/zc4BXRetpw",
+        "URL": "https://store.steampowered.com/app/4939340/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4939340/7d43ee5366cd0bf99e77f04fc2fb642f318e0a3d/header.jpg?t=1783735823",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783741633.6468382,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
         ]
     }
 }
