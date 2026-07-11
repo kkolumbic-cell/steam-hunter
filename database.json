@@ -60726,9 +60726,9 @@
         "URL": "https://store.steampowered.com/app/4726580/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4726580/c58caf065e9e19d9bd28604ae228268c7b1149c1/header.jpg?t=1779220782",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-05-19",
-        "AddedTimestamp": 1779227364.0908585,
+        "Date": "Sep 9, 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783790286.3602731,
         "MatchedTags": [
             "horror",
             "strategy",
@@ -103196,9 +103196,9 @@
         "URL": "https://store.steampowered.com/app/4345950/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4345950/ce06560d46d9b0a55b99e25be91e84a4d3f7852a/header.jpg?t=1783361620",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-06",
-        "AddedTimestamp": 1783364819.4147027,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783790257.8143904,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -107653,7 +107653,7 @@
     "4840650": {
         "Title": "THAT BOMB GAME",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/rbpVh8B6Ac",
         "URL": "https://store.steampowered.com/app/4840650/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4840650/7aab30583c2e3dea4828d59142a5e851140fbc62/header.jpg?t=1783690133",
@@ -108587,6 +108587,52 @@
             "real time tactics",
             "management",
             "base building"
+        ]
+    },
+    "4842390": {
+        "Title": "User.exe",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4842390/",
+        "Site": "https://www.instagram.com/shadowpawinteractive/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4842390/54a6dd9bdd971924b257869026f8b96f47333dbd/header.jpg?t=1783784550",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783790316.8317802,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4844350": {
+        "Title": "Anomagram",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4844350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4844350/85dcb4b43089497aaa905aa5fed1b6f799d8186b/header.jpg?t=1783786629",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783790322.6397977,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4934400": {
+        "Title": "\u6e38\u620f\u53d1\u884c\u6a21\u62df\u5668 Game Launch Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4934400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4934400/0f5ce31d8ae7e76b8100ce066f799b5d1c2596a1/header.jpg?t=1783785084",
+        "Date": "Nov 9, 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783790350.9940343,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "resource management"
         ]
     }
 }
