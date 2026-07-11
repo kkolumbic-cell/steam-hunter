@@ -29348,9 +29348,9 @@
         "URL": "https://store.steampowered.com/app/4101150/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4101150/85bfe20a89bde4f56ab3d1bf95d868522d86126b/header.jpg?t=1776097607",
-        "Date": "Jul 13, 2026",
-        "AddedDate": "2026-06-10",
-        "AddedTimestamp": 1781115030.144415,
+        "Date": "July 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783766114.0018005,
         "MatchedTags": [
             "tower defense",
             "strategy",
@@ -82762,9 +82762,9 @@
         "URL": "https://store.steampowered.com/app/4799110/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4799110/73c6490f94e5c6423fbb5855b2434cc3bd61840e/header.jpg?t=1781241831",
-        "Date": "June 2026",
-        "AddedDate": "2026-06-12",
-        "AddedTimestamp": 1781247646.5669463,
+        "Date": "Jul 11, 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783766149.5762198,
         "MatchedTags": [
             "resource management"
         ]
@@ -83492,9 +83492,9 @@
         "URL": "https://store.steampowered.com/app/4799150/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799150/d9cae5d47394c853b32c8e3e7ea6d260893c8802/header.jpg?t=1781273904",
-        "Date": "Jun 30, 2026",
-        "AddedDate": "2026-06-24",
-        "AddedTimestamp": 1782290202.7466345,
+        "Date": "Jul 11, 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783766152.120089,
         "MatchedTags": [
             "turn-based tactics"
         ]
@@ -95700,7 +95700,7 @@
     "4851290": {
         "Title": "Bob Needs Feed",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.com/invite/Q7QvHVAwsg",
         "URL": "https://store.steampowered.com/app/4851290/",
         "Site": "https://www.somnolentteam.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4851290/28f751a5694458dbb44aa6cb40f6f83e41e87d87/header.jpg?t=1782486869",
@@ -108515,14 +108515,29 @@
         "URL": "https://store.steampowered.com/app/4914890/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914890/12ceafd18002bca182903a99bdc3489a2b0f47cf/header.jpg?t=1783758728",
-        "Date": "Coming soon",
+        "Date": "July 2026",
         "AddedDate": "2026-07-11",
-        "AddedTimestamp": 1783760516.9989972,
+        "AddedTimestamp": 1783766172.795431,
         "MatchedTags": [
             "strategy",
             "management",
             "economy",
             "resource management"
+        ]
+    },
+    "4801180": {
+        "Title": "Duelgrounds",
+        "Email": "",
+        "Discord": "https://discord.gg/6Q6P3bMaHg",
+        "URL": "https://store.steampowered.com/app/4801180/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4801180/5bc2ba4efac21b8489a6cb485c18b1e481833f80/header.jpg?t=1783760410",
+        "Date": "August 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783766154.759984,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics"
         ]
     }
 }
