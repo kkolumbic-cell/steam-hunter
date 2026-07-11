@@ -21517,7 +21517,7 @@
     },
     "4482420": {
         "Title": "Clownless",
-        "Email": "jack@shotdash.com, valentine@shotdash.com, contact@shotdash.com, joseph@shotdash.com",
+        "Email": "valentine@shotdash.com, jack@shotdash.com, joseph@shotdash.com, contact@shotdash.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4482420/",
         "Site": "https://www.shotdash.com",
@@ -79525,7 +79525,7 @@
     "4162790": {
         "Title": "Project Corner",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/utJR4uFqTe",
         "URL": "https://store.steampowered.com/app/4162790/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4162790/a761e2cc4861efaec98c4ba13f043aafa02c4618/header.jpg?t=1781028848",
@@ -85285,9 +85285,9 @@
         "URL": "https://store.steampowered.com/app/4597500/",
         "Site": "https://www.gencointeractive.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4597500/cec01e53ce6d49a84a52f9669ddac9d7e84a8487/header.jpg?t=1781522522",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-06",
-        "AddedTimestamp": 1783342876.372309,
+        "Date": "Aug 13, 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783728729.770275,
         "MatchedTags": [
             "strategy",
             "management",
@@ -108122,7 +108122,9 @@
         "AddedTimestamp": 1783716406.7656794,
         "MatchedTags": [
             "horror",
-            "survival horror"
+            "survival horror",
+            "resource management",
+            "tactical"
         ]
     },
     "4706650": {
@@ -108215,6 +108217,140 @@
         "AddedTimestamp": 1783722007.5882487,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "3111700": {
+        "Title": "Last Signal",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3111700/",
+        "Site": "https://www.unbuilderstudio.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3111700/7a0f95c0df4a0a5581b40ba87038cc3199664639/header.jpg?t=1783724944",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783728686.0691855,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4743190": {
+        "Title": "NOSTRA",
+        "Email": "worlds@runecraftstudios.com",
+        "Discord": "https://discord.gg/FGP92r9JP5",
+        "URL": "https://store.steampowered.com/app/4743190/",
+        "Site": "https://runecraftstudios.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4743190/4935f6dc2139e48c6255d6652ef27f3430e63635/header.jpg?t=1783727376",
+        "Date": "2027",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783728755.1691074,
+        "MatchedTags": [
+            "tactical rpg",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4836250": {
+        "Title": "Aisle of Shadows",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4836250/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836250/d0a4b85b517b047b7d67fedf0741b5f6ef5c9249/header.jpg?t=1783724095",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783728765.9731464,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4863680": {
+        "Title": "Dicebound Quests: Heroes of Dice",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4863680/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4863680/26604f7794518115e72e57ac7decb9a5665a6a33/header.jpg?t=1783727321",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783728768.501184,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4898630": {
+        "Title": "\u5b97\u95e8\u6700\u540e\u7684\u957f\u8001",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4898630/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4898630/82f19e3ad8b07254f2af5b1c49966ef67225b247/header.jpg?t=1783726920",
+        "Date": "July 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783728785.220282,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "4914600": {
+        "Title": "Pot's On!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4914600/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914600/f0a4cf0b8eb9262f4551ace7790660e38a2d4d76/header.jpg?t=1783728349",
+        "Date": "Jul 31, 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783728799.3290718,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4920640": {
+        "Title": "\u30d7\u30ec\u30a2\u30fb\u30c1\u30a7\u30b9\u30c8",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4920640/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920640/b5dbb5a52349d984ce7bffa5ae1efcc308f57517/header.jpg?t=1783723385",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783728802.8438451,
+        "MatchedTags": [
+            "turn-based tactics"
+        ]
+    },
+    "4923140": {
+        "Title": "Shapes: The Tower Defense Game",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4923140/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4923140/91a73999024279e1cdfa15e305c6c6e227144be4/header.jpg?t=1783723049",
+        "Date": "Aug 7, 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783728804.848972,
+        "MatchedTags": [
+            "tower defense",
+            "strategy",
+            "base building",
+            "tactical"
+        ]
+    },
+    "4934530": {
+        "Title": "Dungeon Nox Exotica",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4934530/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4934530/bd790002d717b73ecdeba2b61b6dc18144496c52/header.jpg?t=1783722634",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783728817.6403034,
+        "MatchedTags": [
+            "turn-based combat"
         ]
     }
 }
