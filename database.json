@@ -69014,9 +69014,9 @@
         "URL": "https://store.steampowered.com/app/4772190/",
         "Site": "https://masteroftheages.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4772190/267e8bd31e382fbfd63599581a07dd7edb613d70/header.jpg?t=1780082669",
-        "Date": "TBA",
-        "AddedDate": "2026-05-29",
-        "AddedTimestamp": 1780083896.850514,
+        "Date": "To be announced",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783760443.2118096,
         "MatchedTags": [
             "grand strategy",
             "turn-based strategy",
@@ -79544,9 +79544,9 @@
         "URL": "https://store.steampowered.com/app/4412900/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4412900/8366f8c5937e2e0328226ebd611634265adc609b/header.jpg?t=1781023453",
-        "Date": "July 2026",
-        "AddedDate": "2026-07-04",
-        "AddedTimestamp": 1783137835.5892074,
+        "Date": "Jul 10, 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783760417.4622958,
         "MatchedTags": [
             "horror"
         ]
@@ -95657,9 +95657,9 @@
         "URL": "https://store.steampowered.com/app/4812230/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4812230/17de726b254787ebc6df91ef6a1eaff533def0ab/header.jpg?t=1782484078",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-26",
-        "AddedTimestamp": 1782491536.636647,
+        "Date": "Jul 10, 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783760451.1847882,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -96948,9 +96948,9 @@
         "URL": "https://store.steampowered.com/app/4820200/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820200/af53b7545d8871a67e7ad90dcc5940d010a2b6b6/header.jpg?t=1782562089",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-27",
-        "AddedTimestamp": 1782564310.6540234,
+        "Date": "Jul 11, 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783760457.137871,
         "MatchedTags": [
             "management"
         ]
@@ -102331,9 +102331,9 @@
         "URL": "https://store.steampowered.com/app/4847950/",
         "Site": "https://blackveil.site",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4847950/7157844e27004016015240722c10ea1e33fd64d2/header.jpg?t=1783186060",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-04",
-        "AddedTimestamp": 1783188888.2486455,
+        "Date": "2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783760477.7557702,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -108489,6 +108489,39 @@
         "AddedDate": "2026-07-11",
         "AddedTimestamp": 1783751343.3645191,
         "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4772010": {
+        "Title": "Roll to Ruin",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4772010/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4772010/78a974a7b6284d9059422ba2aa720cff4998d182/header.jpg?t=1783754562",
+        "Date": "Aug 19, 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783760440.5802176,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy"
+        ]
+    },
+    "4914890": {
+        "Title": "PAY WITH TIME",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4914890/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914890/12ceafd18002bca182903a99bdc3489a2b0f47cf/header.jpg?t=1783758728",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783760516.9989972,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "economy",
             "resource management"
         ]
     }
