@@ -63671,9 +63671,9 @@
         "URL": "https://store.steampowered.com/app/4734670/",
         "Site": "https://vortex.channel/citybuilder/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4734670/4fdf846ebb59e1f896956eed831d52bbeb817241/header.jpg?t=1779564635",
-        "Date": "January 2027",
-        "AddedDate": "2026-05-23",
-        "AddedTimestamp": 1779565269.8433154,
+        "Date": "Jul 11, 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783771645.7461567,
         "MatchedTags": [
             "strategy",
             "city builder",
@@ -88604,8 +88604,8 @@
         "AddedDate": "2026-06-29",
         "AddedTimestamp": 1782757688.553064,
         "MatchedTags": [
-            "horror",
             "psychological horror",
+            "horror",
             "survival horror"
         ]
     },
@@ -107302,7 +107302,7 @@
     "4834910": {
         "Title": "Gomoklear",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/3CAwuEAd5U",
         "URL": "https://store.steampowered.com/app/4834910/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4834910/cfc78ef754fa877edaaeb3cb7b8515cafa9a5042/header.jpg?t=1783669079",
@@ -108538,6 +108538,22 @@
         "MatchedTags": [
             "strategy",
             "real time tactics"
+        ]
+    },
+    "4853700": {
+        "Title": "Stillwake",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4853700/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853700/e6ae108503e740f41fcf739e6d8c022b15d54787/header.jpg?t=1783767575",
+        "Date": "September 2026",
+        "AddedDate": "2026-07-11",
+        "AddedTimestamp": 1783771672.979665,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "resource management"
         ]
     }
 }
