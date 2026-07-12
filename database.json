@@ -5653,9 +5653,9 @@
         "URL": "https://store.steampowered.com/app/4500650/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4500650/0dd8d98970ffc9cff94c068638e4ed25c1c32bf5/header.jpg?t=1773232211",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-11",
-        "AddedTimestamp": 1773236423.1711693,
+        "Date": "September 2026",
+        "AddedDate": "2026-07-12",
+        "AddedTimestamp": 1783838841.1738567,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -105210,9 +105210,9 @@
         "AddedDate": "2026-07-08",
         "AddedTimestamp": 1783521945.9999015,
         "MatchedTags": [
-            "strategy",
-            "turn-based tactics",
-            "turn-based combat"
+            "tactical rpg",
+            "turn-based combat",
+            "strategy"
         ]
     },
     "4903810": {
@@ -105430,9 +105430,9 @@
         "URL": "https://store.steampowered.com/app/4831000/",
         "Site": "https://sniper-game.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4831000/65ceedf722ea6e703344a35433e08aad200cf317/header.jpg?t=1783528028",
-        "Date": "July 2026",
-        "AddedDate": "2026-07-08",
-        "AddedTimestamp": 1783529622.2350485,
+        "Date": "Jul 23, 2026",
+        "AddedDate": "2026-07-12",
+        "AddedTimestamp": 1783838868.7467904,
         "MatchedTags": [
             "tactical"
         ]
@@ -108792,6 +108792,37 @@
             "strategy",
             "tactical rpg",
             "horror"
+        ]
+    },
+    "4748210": {
+        "Title": "Jeremy is Broke",
+        "Email": "",
+        "Discord": "https://discord.com/invite/y2Zu6mS",
+        "URL": "https://store.steampowered.com/app/4748210/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4748210/1ea43872e4d3e4b7e19fe6763e61ea873b403ce4/header.jpg?t=1783829699",
+        "Date": "Nov 2, 2026",
+        "AddedDate": "2026-07-12",
+        "AddedTimestamp": 1783838860.846098,
+        "MatchedTags": [
+            "economy",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4920930": {
+        "Title": "\u8d6b\u65af\u63d0\u7684\u9910\u684c",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4920930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4920930/bc7adefbb2f29c445d4bcb6143e3ed5fb0eebca5/header.jpg?t=1783832150",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-12",
+        "AddedTimestamp": 1783838898.7836783,
+        "MatchedTags": [
+            "base building",
+            "economy"
         ]
     }
 }
