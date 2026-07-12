@@ -12108,9 +12108,9 @@
         "URL": "https://store.steampowered.com/app/4466800/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4466800/42acb597eaf17fc8cc576b9323945aa99112bb2b/header.jpg?t=1774218172",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-02",
-        "AddedTimestamp": 1780431690.4000847,
+        "Date": "October 2026",
+        "AddedDate": "2026-07-12",
+        "AddedTimestamp": 1783855978.3240957,
         "MatchedTags": [
             "turn-based tactics",
             "turn-based strategy",
@@ -83691,6 +83691,7 @@
         "AddedTimestamp": 1781286495.7571607,
         "MatchedTags": [
             "colony sim",
+            "base building",
             "resource management",
             "strategy"
         ]
@@ -84535,9 +84536,9 @@
         "URL": "https://store.steampowered.com/app/4574700/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4574700/0b525227215b786c587b7b3cca9e9a3c6dcce638/header.jpg?t=1781349849",
-        "Date": "Sep 1, 2026",
-        "AddedDate": "2026-06-13",
-        "AddedTimestamp": 1781352283.4427218,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-12",
+        "AddedTimestamp": 1783855991.1882915,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -87000,9 +87001,9 @@
         "URL": "https://store.steampowered.com/app/4833310/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4833310/12bd611cc02260e9f305686bc5e9163d02516b24/header.jpg?t=1781626873",
-        "Date": "2026",
-        "AddedDate": "2026-06-16",
-        "AddedTimestamp": 1781631013.0471823,
+        "Date": "August 2026",
+        "AddedDate": "2026-07-12",
+        "AddedTimestamp": 1783856023.6547256,
         "MatchedTags": [
             "economy"
         ]
@@ -102433,9 +102434,9 @@
         "URL": "https://store.steampowered.com/app/4867700/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4867700/f82209d9a46c5cb1c215c8972f30c2b1859e08bd/header.jpg?t=1783218381",
-        "Date": "Jul 9, 2026",
-        "AddedDate": "2026-07-05",
-        "AddedTimestamp": 1783226005.5249557,
+        "Date": "July 2026",
+        "AddedDate": "2026-07-12",
+        "AddedTimestamp": 1783856029.4323676,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -108823,6 +108824,59 @@
         "MatchedTags": [
             "base building",
             "economy"
+        ]
+    },
+    "4652150": {
+        "Title": "Teufelskreis",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4652150/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4652150/d428a3653686e0d3351bb2b43ecddc328e91ac1b/header.jpg?t=1783849094",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-12",
+        "AddedTimestamp": 1783856001.3205621,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "psychological horror"
+        ]
+    },
+    "4915550": {
+        "Title": "Ironblood",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4915550/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4915550/f0fff3194f6e3b1f0d1a74111fe8124719b5f1bc/header.jpg?t=1783854582",
+        "Date": "TBA",
+        "AddedDate": "2026-07-12",
+        "AddedTimestamp": 1783856044.654258,
+        "MatchedTags": [
+            "tactical rpg",
+            "turn-based tactics",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4931590": {
+        "Title": "All Hands",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4931590/",
+        "Site": "https://www.terrestrialsoftware.com/all-hands",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931590/752d91a9cd6a32e5f1a5ead6193a425f48f37104/header.jpg?t=1783855097",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-12",
+        "AddedTimestamp": 1783856053.0162022,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg",
+            "turn-based tactics",
+            "turn-based strategy",
+            "resource management",
+            "turn-based combat",
+            "management"
         ]
     }
 }
