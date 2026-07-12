@@ -17180,7 +17180,12 @@
         "AddedTimestamp": 1778960102.3225105,
         "MatchedTags": [
             "strategy",
-            "tower defense"
+            "tower defense",
+            "real time tactics",
+            "management",
+            "base building",
+            "resource management",
+            "tactical"
         ]
     },
     "4446930": {
@@ -96428,9 +96433,9 @@
         "URL": "https://store.steampowered.com/app/4883300/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4883300/f5195a9fec8da134545de38db72834ec572b83e7/header.jpg?t=1782520612",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-27",
-        "AddedTimestamp": 1782523581.2977786,
+        "Date": "Jul 12, 2026",
+        "AddedDate": "2026-07-12",
+        "AddedTimestamp": 1783815205.0863242,
         "MatchedTags": [
             "strategy"
         ]
@@ -108684,6 +108689,26 @@
             "strategy",
             "turn-based strategy",
             "grand strategy"
+        ]
+    },
+    "4707090": {
+        "Title": "Council & Conflict",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4707090/",
+        "Site": "https://councilandconflict.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707090/d63a292540285263359f4f406680d1af2fa68837/header.jpg?t=1783812549",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-12",
+        "AddedTimestamp": 1783815196.0033557,
+        "MatchedTags": [
+            "turn-based tactics",
+            "city builder",
+            "tactical rpg",
+            "turn-based strategy",
+            "resource management",
+            "tactical",
+            "turn-based combat"
         ]
     }
 }
