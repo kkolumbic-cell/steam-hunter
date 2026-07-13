@@ -6218,9 +6218,9 @@
         "URL": "https://store.steampowered.com/app/4435470/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4435470/9026148744374f9cf93c15e3d24536c61684a9c5/header.jpg?t=1773294817",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-05",
-        "AddedTimestamp": 1780662087.1022892,
+        "Date": "Jul 12, 2026",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783915391.8002813,
         "MatchedTags": [
             "resource management"
         ]
@@ -28296,9 +28296,9 @@
         "URL": "https://store.steampowered.com/app/4598750/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4598750/f91e18a73f5a8643e2dbcafbf341010ae75c7f3d/header.jpg?t=1775879601",
-        "Date": "2026",
-        "AddedDate": "2026-04-11",
-        "AddedTimestamp": 1775886114.9197085,
+        "Date": "Jul 20, 2026",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783915404.2104504,
         "MatchedTags": [
             "strategy"
         ]
@@ -36145,9 +36145,9 @@
     "4634840": {
         "Title": "Justice Project",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/RjHUc77sRV",
         "URL": "https://store.steampowered.com/app/4634840/",
-        "Site": "",
+        "Site": "https://hopefulpixels.com/press",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4634840/18e7762cfc129954c883a195b8f79cd19768797f/header.jpg?t=1776727395",
         "Date": "2027",
         "AddedDate": "2026-04-21",
@@ -49007,9 +49007,9 @@
         "URL": "https://store.steampowered.com/app/4416760/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4416760/837990aea33714a5f127a7e3ba13034e95cf7120/header.jpg?t=1777811568",
-        "Date": "Jul 29, 2026",
-        "AddedDate": "2026-06-17",
-        "AddedTimestamp": 1781695145.0886242,
+        "Date": "Aug 2, 2026",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783915389.9456637,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -84231,9 +84231,9 @@
         "URL": "https://store.steampowered.com/app/4837990/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4837990/1dd6e167904a4516207852441aa4e867b561c2b5/header.jpg?t=1781308387",
-        "Date": "Jul 13, 2026",
-        "AddedDate": "2026-06-29",
-        "AddedTimestamp": 1782749835.840571,
+        "Date": "Jul 12, 2026",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783915449.3377824,
         "MatchedTags": [
             "strategy",
             "turn-based combat"
@@ -108966,6 +108966,55 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4867350": {
+        "Title": "Mayor: City in Session",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4867350/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4867350/3a31bfcad0d1e2828be3a1b35d07dde806595b79/header.jpg?t=1783909023",
+        "Date": "July 2026",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783915458.6787868,
+        "MatchedTags": [
+            "city builder",
+            "economy",
+            "management",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4903480": {
+        "Title": "Last Writes",
+        "Email": "",
+        "Discord": "https://discord.gg/WpFXAuYKu3",
+        "URL": "https://store.steampowered.com/app/4903480/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4903480/32f3b941d4cb1ee2dd5a165e56aabb373d95e0a1/header.jpg?t=1783909193",
+        "Date": "2027",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783915469.3408678,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4920840": {
+        "Title": "Xenogarden",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4920840/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920840/f11a95072da4651f2d22380edc541f6ee6b9d791/header.jpg?t=1783904980",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783915494.856281,
+        "MatchedTags": [
+            "strategy",
+            "base building",
+            "resource management"
         ]
     }
 }
