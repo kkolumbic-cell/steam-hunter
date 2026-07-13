@@ -11416,11 +11416,12 @@
         "AddedDate": "2026-03-20",
         "AddedTimestamp": 1774019077.4226565,
         "MatchedTags": [
-            "strategy",
-            "city builder",
             "base building",
-            "economy",
+            "colony sim",
+            "strategy",
             "resource management",
+            "city builder",
+            "economy",
             "tower defense",
             "real time tactics"
         ]
@@ -16297,9 +16298,9 @@
     "4482510": {
         "Title": "Swords and Guns",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/Vgxt5AENFS",
         "URL": "https://store.steampowered.com/app/4482510/",
-        "Site": "",
+        "Site": "https://homyrest.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4482510/3c37552e562e07e0c7557e4ae658ddd9fbfe43f4/header.jpg?t=1774634238",
         "Date": "2026",
         "AddedDate": "2026-04-02",
@@ -49090,24 +49091,6 @@
             "strategy"
         ]
     },
-    "4670160": {
-        "Title": "Ember Folks",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4670160/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4670160/49f3ded8b3707eb87f0549596c9a93cd8300e289/header.jpg?t=1777828810",
-        "Date": "To be announced",
-        "AddedDate": "2026-05-03",
-        "AddedTimestamp": 1777831534.6681294,
-        "MatchedTags": [
-            "strategy",
-            "city builder",
-            "economy",
-            "resource management",
-            "management"
-        ]
-    },
     "4554700": {
         "Title": "BroCode",
         "Email": "",
@@ -64251,9 +64234,9 @@
         "URL": "https://store.steampowered.com/app/4342700/",
         "Site": "https://www.kickflipwizardstudio.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4342700/2c6f9ef0bd45d90666661de2722c91ad07e0d87e/header.jpg?t=1779733423",
-        "Date": "September 2026",
-        "AddedDate": "2026-05-25",
-        "AddedTimestamp": 1779739241.8684928,
+        "Date": "February 2027",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783977260.4152234,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -66564,14 +66547,14 @@
     },
     "4766230": {
         "Title": "Pongo! Paddle Pals!",
-        "Email": "caroline@phoenixfeather.games, ilena@phoenixfeather.games, joel@phoenixfeather.games, hnat@phoenixfeather.games",
+        "Email": "hnat@phoenixfeather.games, ilena@phoenixfeather.games, joel@phoenixfeather.games, caroline@phoenixfeather.games",
         "Discord": "https://discord.com/invite/9g7YGwrGsA",
         "URL": "https://store.steampowered.com/app/4766230/",
         "Site": "https://phoenixfeather.games",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4766230/79883f00f609722361b4d2a2044c36cb06adc175/header.jpg?t=1779938822",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-28",
-        "AddedTimestamp": 1779943549.7983727,
+        "Date": "Jul 13, 2026",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783977313.243976,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -97033,9 +97016,9 @@
         "URL": "https://store.steampowered.com/app/4847230/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4847230/17b259f7d0ed6a1e826c3fa84d253d72f36f3801/header.jpg?t=1782566951",
-        "Date": "To be announced",
-        "AddedDate": "2026-06-27",
-        "AddedTimestamp": 1782572297.5937233,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783977327.0910919,
         "MatchedTags": [
             "economy",
             "resource management"
@@ -98077,9 +98060,9 @@
         "URL": "https://store.steampowered.com/app/4897540/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4897540/fd13ee79a0868b18422f7a19ba33b4e8257be851/header.jpg?t=1782766116",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-10",
-        "AddedTimestamp": 1783685556.5027113,
+        "Date": "Jul 13, 2026",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783977342.684874,
         "MatchedTags": [
             "tower defense",
             "strategy"
@@ -109784,6 +109767,97 @@
             "strategy",
             "tactical",
             "management"
+        ]
+    },
+    "4107960": {
+        "Title": ".curator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4107960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4107960/c2fb7351c1b9c0fee44a52943a3dba4c83846f0f/header.jpg?t=1783975650",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783977246.7922194,
+        "MatchedTags": [
+            "tactical rpg",
+            "turn-based tactics"
+        ]
+    },
+    "4534960": {
+        "Title": "Dear Passengers",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4534960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4534960/7ddef53346afe3e3d4d479dbed740cdb38cfe09a/header.jpg?t=1783975744",
+        "Date": "2026",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783977286.0188172,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4880410": {
+        "Title": "Tenebrarium",
+        "Email": "",
+        "Discord": "https://discord.com/invite/Q6bfYUrSKZ",
+        "URL": "https://store.steampowered.com/app/4880410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4880410/a13776e220d9655104eefe7e84af2003a02b12f9/header.jpg?t=1783973113",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783977332.81275,
+        "MatchedTags": [
+            "colony sim",
+            "base building",
+            "resource management"
+        ]
+    },
+    "4908300": {
+        "Title": "Magnet Hunt",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4908300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4908300/b2cdc3dfdd7ff7b36d34f50086e2a65fb0634301/header.jpg?t=1783974319",
+        "Date": "Jul 28, 2026",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783977345.6379924,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4932190": {
+        "Title": "Deck of Empires",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4932190/",
+        "Site": "https://www.birdboxgames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4932190/42d4f7aac3574bad9ca5d8924257a41999f39529/header.jpg?t=1783972461",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783977370.55132,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "economy",
+            "tactical"
+        ]
+    },
+    "4946800": {
+        "Title": "The Night Archive - Sable's",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4946800/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4946800/7c4e20f16582e6350a503bf53623c445f331789f/header.jpg?t=1783976952",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783977380.1912346,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
