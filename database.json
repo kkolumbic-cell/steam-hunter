@@ -2210,9 +2210,9 @@
         "URL": "https://store.steampowered.com/app/4476270/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476270/badbab5667917f5aeb41c40ae97dfc9ae9681c7b/header.jpg?t=1772760762",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-06-23",
-        "AddedTimestamp": 1782242485.2108278,
+        "Date": "Nov 3, 2026",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783928487.158393,
         "MatchedTags": [
             "grand strategy",
             "colony sim",
@@ -6203,9 +6203,9 @@
         "URL": "https://store.steampowered.com/app/4424080/",
         "Site": "https://www.youtube.com/@KorkaiGames",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4424080/261220ad5f0321a797f33efeeff125fffa829eb0/header.jpg?t=1773292386",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-07-09",
-        "AddedTimestamp": 1783587126.09272,
+        "Date": "July 2026",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783928480.2164073,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -25320,9 +25320,9 @@
         "URL": "https://store.steampowered.com/app/4375670/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4375670/ff09655ceda6cecdfde60a8e43f9a5a950b75160/header.jpg?t=1775701741",
-        "Date": "October 2026",
-        "AddedDate": "2026-07-06",
-        "AddedTimestamp": 1783312863.1485262,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783928470.7927716,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -28979,9 +28979,9 @@
         "URL": "https://store.steampowered.com/app/4579320/",
         "Site": "https://www.tallduckstudio.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4579320/d3200322efe91eba5899f498d7a6b9ed917c6080/header.jpg?t=1776032345",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-04-12",
-        "AddedTimestamp": 1776034576.4772575,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783928508.9378974,
         "MatchedTags": [
             "resource management",
             "economy",
@@ -73884,9 +73884,9 @@
         "AddedDate": "2026-06-03",
         "AddedTimestamp": 1780522484.3201203,
         "MatchedTags": [
-            "strategy",
-            "tower defense",
-            "real time tactics"
+            "tactical",
+            "real time tactics",
+            "tower defense"
         ]
     },
     "4699370": {
@@ -82781,9 +82781,9 @@
         "URL": "https://store.steampowered.com/app/4807960/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4807960/52cd97f1d8f15c57d69b1c6331e7caf3b4a34ea9/header.jpg?t=1781245328",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-15",
-        "AddedTimestamp": 1781527926.339263,
+        "Date": "August 2026",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783928546.5816083,
         "MatchedTags": [
             "strategy",
             "turn-based combat"
@@ -88958,9 +88958,9 @@
         "URL": "https://store.steampowered.com/app/4452460/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4452460/b5456a4a63b310221b496a0f2493bfda22ba52b5/header.jpg?t=1781788006",
-        "Date": "Jul 13, 2026",
-        "AddedDate": "2026-06-24",
-        "AddedTimestamp": 1782275942.8093374,
+        "Date": "Jul 12, 2026",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783928484.100828,
         "MatchedTags": [
             "survival horror"
         ]
@@ -92724,7 +92724,7 @@
     "4575630": {
         "Title": "Blast Vein",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/aFMs9TCfW",
         "URL": "https://store.steampowered.com/app/4575630/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4575630/585f7b3be43762223e556a4d25b8ddf8f5330751/header.jpg?t=1782221845",
@@ -97601,7 +97601,7 @@
         "Email": "",
         "Discord": "https://discord.com/invite/3pzNhktCAK",
         "URL": "https://store.steampowered.com/app/4563290/",
-        "Site": "",
+        "Site": "https://3kingdoms.teebik.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4563290/57e2f3dc6ceecda4a11d13d1f71bf592a404e7c4/header.jpg?t=1782730271",
         "Date": "Coming soon",
         "AddedDate": "2026-06-29",
@@ -109015,6 +109015,82 @@
             "strategy",
             "base building",
             "resource management"
+        ]
+    },
+    "4258900": {
+        "Title": "Tafl Throne Breakers",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4258900/",
+        "Site": "https://tafl.gritstone.games",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4258900/6a9c0d82bda7a64b55138b5145daec541132db63/header.jpg?t=1783928261",
+        "Date": "2027",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783928460.9905055,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "turn-based strategy",
+            "tactical"
+        ]
+    },
+    "4756010": {
+        "Title": "Aerial_Knight's MrFreezy",
+        "Email": "",
+        "Discord": "https://discord.gg/s8Qz3HgTA5",
+        "URL": "https://store.steampowered.com/app/4756010/",
+        "Site": "https://www.aerialknight.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4756010/edee0d22445bfc4685f19fd2ce967710c198efb8/header.jpg?t=1783925348",
+        "Date": "Sep 1, 2026",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783928530.8642225,
+        "MatchedTags": [
+            "strategy",
+            "horror"
+        ]
+    },
+    "4804180": {
+        "Title": "LUNAR",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4804180/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4804180/da1b41dc86559ff137795d26fdf42e08c8be1058/header.jpg?t=1783921359",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783928543.152781,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4859270": {
+        "Title": "Dark Bone Prison",
+        "Email": "",
+        "Discord": "https://discord.gg/n6TNktrb",
+        "URL": "https://store.steampowered.com/app/4859270/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4859270/a68bdbe102edddf02d53f597882c13608982a6f8/header.jpg?t=1783925148",
+        "Date": "Aug 13, 2026",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783928567.2980444,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "4882710": {
+        "Title": "Feathered Fortune",
+        "Email": "",
+        "Discord": "https://discord.gg/yJQAHtfccv",
+        "URL": "https://store.steampowered.com/app/4882710/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4882710/279c8e449cb183e6ca9c276332e73496711c6f4e/header.jpg?t=1783927566",
+        "Date": "TBA",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783928575.677943,
+        "MatchedTags": [
+            "economy",
+            "management"
         ]
     }
 }
