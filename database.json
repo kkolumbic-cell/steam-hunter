@@ -23,8 +23,7 @@
         "Date": "Aug 4, 2026",
         "AddedDate": "2026-06-11",
         "MatchedTags": [
-            "resource management",
-            "strategy"
+            "resource management"
         ],
         "AddedTimestamp": 1781195357.3342776
     },
@@ -80678,7 +80677,8 @@
         "AddedDate": "2026-07-08",
         "AddedTimestamp": 1783482549.979488,
         "MatchedTags": [
-            "resource management"
+            "resource management",
+            "psychological horror"
         ]
     },
     "4602030": {
@@ -93413,7 +93413,7 @@
     "4871420": {
         "Title": "Legacy of the Ark: The Long Awakening",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/WD8RDpS97w",
         "URL": "https://store.steampowered.com/app/4871420/",
         "Site": "https://arkidle.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4871420/e0c9a997de6d93e39c7a15852f8feb7e399172da/header.jpg?t=1782235084",
@@ -98535,9 +98535,9 @@
         "URL": "https://store.steampowered.com/app/4345690/",
         "Site": "https://highroller.ctrlflow.app",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4345690/d30a64b3b50cff009e1d583dc1a30b8bc9efe3bf/header.jpg?t=1782827910",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-30",
-        "AddedTimestamp": 1782837228.9000514,
+        "Date": "Jul 16, 2026",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783980856.279199,
         "MatchedTags": [
             "strategy",
             "management",
@@ -104014,9 +104014,9 @@
         "URL": "https://store.steampowered.com/app/4799200/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4799200/8c83ac6ff1f2a96e3bdfc6eda5df1a4cf0e5f39d/header.jpg?t=1783435488",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-07",
-        "AddedTimestamp": 1783437483.2804995,
+        "Date": "Aug 5, 2026",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783980878.997644,
         "MatchedTags": [
             "strategy"
         ]
@@ -106242,8 +106242,8 @@
         "AddedDate": "2026-07-09",
         "AddedTimestamp": 1783587290.9326906,
         "MatchedTags": [
-            "colony sim",
             "strategy",
+            "colony sim",
             "economy"
         ]
     },
@@ -109852,12 +109852,42 @@
         "URL": "https://store.steampowered.com/app/4946800/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4946800/7c4e20f16582e6350a503bf53623c445f331789f/header.jpg?t=1783976952",
-        "Date": "Q4 2026",
+        "Date": "Coming soon",
         "AddedDate": "2026-07-13",
-        "AddedTimestamp": 1783977380.1912346,
+        "AddedTimestamp": 1783980931.7539082,
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4871990": {
+        "Title": "Heavens Gate",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4871990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4871990/1745005585844115a990325782f7a7b63120f8ec/header.jpg?t=1783978051",
+        "Date": "TBA",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783980904.4198048,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4914940": {
+        "Title": "Ledgermain",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4914940/",
+        "Site": "https://rendrify.com/games",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4914940/eb17fe99cd315e0fa6c6423197a5664ee7287193/header.jpg?t=1783978547",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-13",
+        "AddedTimestamp": 1783980912.9766634,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "turn-based tactics"
         ]
     }
 }
