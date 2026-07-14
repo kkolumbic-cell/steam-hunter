@@ -13713,9 +13713,9 @@
         "URL": "https://store.steampowered.com/app/4498210/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4498210/a49bc0b6a95c3ae795eae1edd9012ba952c6e3e0/header.jpg?t=1774400351",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-08",
-        "AddedTimestamp": 1783482554.3339474,
+        "Date": "Aug 10, 2026",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784063804.0577815,
         "MatchedTags": [
             "strategy"
         ]
@@ -31439,9 +31439,9 @@
         "URL": "https://store.steampowered.com/app/3853410/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3853410/02f1df2e9cbb777365e198d10161419ff6f253eb/header.jpg?t=1776263377",
-        "Date": "July 2026",
-        "AddedDate": "2026-07-02",
-        "AddedTimestamp": 1782984843.9639065,
+        "Date": "Jul 14, 2026",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784063785.8653238,
         "MatchedTags": [
             "strategy"
         ]
@@ -41474,9 +41474,9 @@
         "URL": "https://store.steampowered.com/app/4662680/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4662680/2f45c34dfc590f29fb8a00cbf6f90957ce0bab1a/header.jpg?t=1777072282",
-        "Date": "2026",
-        "AddedDate": "2026-06-30",
-        "AddedTimestamp": 1782853669.1727614,
+        "Date": "August 2026",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784063824.6405618,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -44985,7 +44985,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4658520/",
-        "Site": "",
+        "Site": "https://impress.games/press-kit/ashwood-games/cards-of-bellum",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4658520/f6cff669e56867377b8c976299b4f7e78eb8470d/header.jpg?t=1777431833",
         "Date": "Nov 2, 2026",
         "AddedDate": "2026-06-20",
@@ -50943,9 +50943,9 @@
         "URL": "https://store.steampowered.com/app/4693930/",
         "Site": "https://dragonsdie.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4693930/715745b32a7b3d67e265f961e0f56a34c6b54af3/header.jpg?t=1777994713",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-05",
-        "AddedTimestamp": 1778000545.3081005,
+        "Date": "Jul 14, 2026",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784063829.17,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -54586,10 +54586,10 @@
         "AddedTimestamp": 1778316816.3979585,
         "MatchedTags": [
             "base building",
+            "city builder",
             "resource management",
             "strategy",
-            "management",
-            "city builder"
+            "management"
         ]
     },
     "4550430": {
@@ -98352,9 +98352,9 @@
         "URL": "https://store.steampowered.com/app/4881210/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4881210/6079c94abf4831535fc245d3d2871a81f8714da1/header.jpg?t=1782812108",
-        "Date": "July 2026",
-        "AddedDate": "2026-07-09",
-        "AddedTimestamp": 1783640362.4957154,
+        "Date": "2026",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784063878.5537043,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -109608,7 +109608,7 @@
     },
     "4926400": {
         "Title": "Numble",
-        "Email": "info@playwithk.de",
+        "Email": "info@playwithk.de, support@playwithk.de",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4926400/",
         "Site": "https://www.playwithk.de/en/projects/",
@@ -110758,6 +110758,120 @@
             "economy",
             "management",
             "strategy"
+        ]
+    },
+    "2451080": {
+        "Title": "Geometry TD",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2451080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2451080/90301673cab0e2581db62612db95767236e0efd9/header.jpg?t=1784062382",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784063773.5446467,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "base building",
+            "economy",
+            "resource management",
+            "management"
+        ]
+    },
+    "2991040": {
+        "Title": "Yn Moddey Dhoo",
+        "Email": "",
+        "Discord": "https://discord.com/invite/FAnXwbKM",
+        "URL": "https://store.steampowered.com/app/2991040/",
+        "Site": "https://www.reginaldcide.com/blog",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2991040/f9b1fdf72a81108046baf35d689a023d1ce47996/header.jpg?t=1784059588",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784063778.1740088,
+        "MatchedTags": [
+            "survival horror",
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4747260": {
+        "Title": "Unrivaled",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4747260/",
+        "Site": "https://unrivaledgame.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4747260/d8d289ca9d0bd5710491e1b8c1cdd7e8fa3a03fa/header.jpg?t=1784060054",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784063841.440069,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4840950": {
+        "Title": "Space Planet Explorer",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4840950/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4840950/490779c095bad42d1dd5fd82d158f72b9ecc9914/header.jpg?t=1784062499",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784063866.6781855,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4861430": {
+        "Title": "LLM Tycoon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4861430/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4861430/b7e2250cdeb61e9aea0e673ee2f664d3c5c35a9d/header.jpg?t=1784060461",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784063873.099237,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "economy",
+            "management",
+            "tactical",
+            "resource management"
+        ]
+    },
+    "4932030": {
+        "Title": "Still Pines: watchtower",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4932030/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4932030/c107fc29bb5e6196d26aed38905db525645d7502/header.jpg?t=1784062734",
+        "Date": "2026",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784063909.4486234,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4950110": {
+        "Title": "Wild West",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4950110/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4950110/f8e3c5e6b560cdb6336878ffa7f3837a4fc5c6b1/header.jpg?t=1784063515",
+        "Date": "TBA",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784063926.5441818,
+        "MatchedTags": [
+            "strategy",
+            "colony sim",
+            "economy"
         ]
     }
 }
