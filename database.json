@@ -6694,9 +6694,9 @@
         "URL": "https://store.steampowered.com/app/4442750/",
         "Site": "https://voidhunters.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4442750/cfa11bc0f61dc41350500fca6c34cab7477f312a/header.jpg?t=1773350425",
-        "Date": "To be announced",
-        "AddedDate": "2026-03-12",
-        "AddedTimestamp": 1773352181.075336,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784038549.8988822,
         "MatchedTags": [
             "turn-based combat",
             "turn-based tactics",
@@ -18883,9 +18883,9 @@
         "URL": "https://store.steampowered.com/app/4537100/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4537100/1998cb16e6220eacef0fb44afd760b0b54b58f23/header.jpg?t=1774971064",
-        "Date": "July 2026",
-        "AddedDate": "2026-07-13",
-        "AddedTimestamp": 1783942282.178533,
+        "Date": "Jul 14, 2026",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784038573.2507668,
         "MatchedTags": [
             "strategy",
             "tactical rpg"
@@ -23751,9 +23751,9 @@
         "URL": "https://store.steampowered.com/app/4515360/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4515360/c898f7290c143555b944bafc2fd4f60786227ea0/header.jpg?t=1775549566",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-10",
-        "AddedTimestamp": 1775808092.6081457,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784038562.971419,
         "MatchedTags": [
             "strategy",
             "psychological horror",
@@ -45312,7 +45312,7 @@
     "4659610": {
         "Title": "Blueprint: EV",
         "Email": "support@blueprintev.com",
-        "Discord": "",
+        "Discord": "https://discord.gg/MGfAhPzwat",
         "URL": "https://store.steampowered.com/app/4659610/",
         "Site": "https://blueprintev.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4659610/20a366aff135235a27b245fc5464fa5b5384d5e7/header.jpg?t=1777445140",
@@ -66403,7 +66403,7 @@
         "Email": "",
         "Discord": "https://discord.gg/VXs9qART2",
         "URL": "https://store.steampowered.com/app/4601330/",
-        "Site": "",
+        "Site": "https://humbleservantgames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4601330/f4a5f15dda0acab5addb53a121fd20254429a21a/header.jpg?t=1779928060",
         "Date": "Coming soon",
         "AddedDate": "2026-05-28",
@@ -80614,8 +80614,8 @@
         "AddedDate": "2026-06-25",
         "AddedTimestamp": 1782412189.9257188,
         "MatchedTags": [
-            "resource management",
-            "tactical"
+            "tactical",
+            "resource management"
         ]
     },
     "4819030": {
@@ -100353,8 +100353,7 @@
         "AddedTimestamp": 1783006585.9183211,
         "MatchedTags": [
             "strategy",
-            "turn-based strategy",
-            "tactical"
+            "turn-based strategy"
         ]
     },
     "4900420": {
@@ -100873,7 +100872,7 @@
     "4843710": {
         "Title": "Dealer's Dice",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.com/invite/wW5VjyEEAz",
         "URL": "https://store.steampowered.com/app/4843710/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4843710/171cef239de34a54714ba672af96956ab5325cdf/header.jpg?t=1783049399",
@@ -101923,7 +101922,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4889660/",
-        "Site": "",
+        "Site": "https://f3fb58q6zk64.meoo.pub/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4889660/5807fa3c6690dcc542bc231fee199c4403eee486/header.jpg?t=1783126202",
         "Date": "Coming soon",
         "AddedDate": "2026-07-04",
@@ -102838,7 +102837,7 @@
     "4843210": {
         "Title": "Hell Deck",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.com/invite/wW5VjyEEAz",
         "URL": "https://store.steampowered.com/app/4843210/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4843210/35139d0ac3dfb9297ee12270c51c523577d14e6a/header.jpg?t=1783319700",
@@ -107703,7 +107702,8 @@
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
-            "turn-based tactics"
+            "turn-based tactics",
+            "economy"
         ]
     },
     "4915660": {
@@ -110338,6 +110338,54 @@
         "MatchedTags": [
             "management",
             "strategy"
+        ]
+    },
+    "4168240": {
+        "Title": "CLEAR RED",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4168240/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4168240/476803c6078df76648c35a0a85711fdde00b3ff2/header.jpg?t=1784035456",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784038530.2603016,
+        "MatchedTags": [
+            "resource management",
+            "tower defense"
+        ]
+    },
+    "4657480": {
+        "Title": "PUROMA",
+        "Email": "",
+        "Discord": "https://discord.gg/MCbpwWdjrU",
+        "URL": "https://store.steampowered.com/app/4657480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4657480/91db6734f3c217b0e1792456cfce1f6a6f9cfdff/header.jpg?t=1784033219",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784038608.9067597,
+        "MatchedTags": [
+            "psychological horror",
+            "resource management",
+            "horror"
+        ]
+    },
+    "4926680": {
+        "Title": "Rebuilt: Last Settlement",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4926680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4926680/a425d875ed0346dacd44477c91b3e76d136f972e/header.jpg?t=1784034128",
+        "Date": "2027",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784038731.127513,
+        "MatchedTags": [
+            "colony sim",
+            "base building",
+            "resource management",
+            "management"
         ]
     }
 }
