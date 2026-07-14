@@ -14137,7 +14137,8 @@
         "AddedTimestamp": 1783022058.993259,
         "MatchedTags": [
             "turn-based strategy",
-            "tactical"
+            "grand strategy",
+            "strategy"
         ]
     },
     "4536810": {
@@ -56682,9 +56683,9 @@
         "URL": "https://store.steampowered.com/app/4491130/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4491130/15aea01e1afcdd23f8cddda7fd21edd595f12e48/header.jpg?t=1778633218",
-        "Date": "Aug 31, 2026",
-        "AddedDate": "2026-06-15",
-        "AddedTimestamp": 1781527581.0822687,
+        "Date": "Sep 14, 2026",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784000348.7016268,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -62614,9 +62615,9 @@
         "URL": "https://store.steampowered.com/app/4633420/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4633420/f0224d6cff749a170fb2f3b3825b7bbb84d7dcf1/header.jpg?t=1779401662",
-        "Date": "Jul 10, 2026",
-        "AddedDate": "2026-06-23",
-        "AddedTimestamp": 1782251602.6683946,
+        "Date": "Jul 13, 2026",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784000368.2126634,
         "MatchedTags": [
             "strategy",
             "horror"
@@ -96222,9 +96223,9 @@
         "URL": "https://store.steampowered.com/app/1552280/",
         "Site": "https://www.pipedreamstudio.co.uk/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1552280/6bf8f5e2def052a254ed4e15840cccbb2c76d46f/header.jpg?t=1782521684",
-        "Date": "Sep 30, 2026",
-        "AddedDate": "2026-07-12",
-        "AddedTimestamp": 1783828917.7724802,
+        "Date": "2026",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784000331.2114406,
         "MatchedTags": [
             "strategy",
             "tactical"
@@ -109066,7 +109067,7 @@
     "4581140": {
         "Title": "K.H.L.E.E",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/7Y4RZZpxkz",
         "URL": "https://store.steampowered.com/app/4581140/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4581140/01ad6f095a3a3ef0ee9ecd935f42a084080ddce4/header.jpg?t=1783939742",
@@ -109920,6 +109921,161 @@
         "MatchedTags": [
             "economy",
             "management",
+            "resource management"
+        ]
+    },
+    "4773410": {
+        "Title": "Talaire",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4773410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4773410/5db04bb42bd84aee6319c704b110eac94e5bdff6/header.jpg?t=1783991037",
+        "Date": "October 2026",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784000398.7254336,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4830090": {
+        "Title": "Unsent",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4830090/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4830090/5cebfa6e2660384db3113caf1f6b0f77b441175a/header.jpg?t=1783997437",
+        "Date": "Jul 26, 2026",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784000412.0933506,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4893950": {
+        "Title": "Card Shop Duelist",
+        "Email": "",
+        "Discord": "https://discord.gg/TBqZHy4vG",
+        "URL": "https://store.steampowered.com/app/4893950/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4893950/5a3852434f77ddbe7bb83ce637f6080acd1272ef/header.jpg?t=1784000033",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784000431.7526703,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "economy",
+            "turn-based strategy",
+            "resource management"
+        ]
+    },
+    "4897730": {
+        "Title": "Flippin' Heck",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4897730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4897730/8801d833bd451e6fc456d0f51f3db869b77cbdcf/header.jpg?t=1783992377",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784000436.8616326,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4906170": {
+        "Title": "Pinched",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4906170/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4906170/a779c3f35c78c2edf51e38941335189af05a9fc9/header.jpg?t=1783999831",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784000442.1273012,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4906400": {
+        "Title": "\u5927\u6536\u85cf\u5bb6",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4906400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4906400/33f9ff28ee772b9b42509923b2b5aa0e03396a8b/header.jpg?t=1783993663",
+        "Date": "2026",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784000447.1149535,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "resource management"
+        ]
+    },
+    "4918080": {
+        "Title": "Campaign Forge",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4918080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4918080/5fca92e492f36f59260821d09f8f5efe595e9c07/header.jpg?t=1783993946",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784000466.439265,
+        "MatchedTags": [
+            "tactical rpg",
+            "turn-based tactics",
+            "real time tactics",
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "4934690": {
+        "Title": "Hear the Void",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4934690/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4934690/328335ca59fa2867f181b2cae9f31b471df72995/header.jpg?t=1783992656",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784000481.2821696,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4940180": {
+        "Title": "300 Seconds Before Darkness",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4940180/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4940180/9b332b62e5d25812d845cd4bcd0e222e19ce58cc/header.jpg?t=1783998801",
+        "Date": "2027",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784000492.442079,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg",
+            "resource management"
+        ]
+    },
+    "4944020": {
+        "Title": "Idle Heroes Saga",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4944020/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4944020/f76d1d12c63e8ea95df735975fa11adc46456334/header.jpg?t=1783998871",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-14",
+        "AddedTimestamp": 1784000495.1382515,
+        "MatchedTags": [
             "resource management"
         ]
     }
