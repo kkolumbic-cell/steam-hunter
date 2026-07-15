@@ -13737,9 +13737,9 @@
         "URL": "https://store.steampowered.com/app/4143850/",
         "Site": "https://www.chaosgremlingames.com/games/diabolocracy",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4143850/6691689ca2696688caff956e044acc460ba8e098/header.jpg?t=1774409916",
-        "Date": "To be announced",
-        "AddedDate": "2026-03-25",
-        "AddedTimestamp": 1774417184.695777,
+        "Date": "2027",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784157231.6677685,
         "MatchedTags": [
             "tactical rpg",
             "turn-based tactics",
@@ -64000,9 +64000,9 @@
         "URL": "https://store.steampowered.com/app/4359910/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4359910/6e8996858902a90295308774672824c98e89aaea/header.jpg?t=1779715015",
-        "Date": "Aug 21, 2026",
-        "AddedDate": "2026-05-25",
-        "AddedTimestamp": 1779725073.4115686,
+        "Date": "August 2026",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784157235.1026783,
         "MatchedTags": [
             "management"
         ]
@@ -79257,9 +79257,9 @@
         "URL": "https://store.steampowered.com/app/4775660/",
         "Site": "https://sites.google.com/view/pithgame/home?authuser=0",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4775660/43f08517ea062b11e5470e9e8a94e93a9a2f40da/header.jpg?t=1781014310",
-        "Date": "To be announced",
-        "AddedDate": "2026-06-09",
-        "AddedTimestamp": 1781022035.0046098,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784157261.1855288,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -92798,9 +92798,9 @@
         "URL": "https://store.steampowered.com/app/4852380/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4852380/742f79f432a4017df39852a6515f696eacb50853/header.jpg?t=1782221340",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-23",
-        "AddedTimestamp": 1782222688.288695,
+        "Date": "Jul 15, 2026",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784157277.030216,
         "MatchedTags": [
             "economy",
             "management"
@@ -96127,9 +96127,9 @@
         "URL": "https://store.steampowered.com/app/4862560/",
         "Site": "https://sewer-side.base44.app",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4862560/2be923c6e3816140f043f9d01754183978209caf/header.jpg?t=1782510621",
-        "Date": "Aug 1, 2026",
-        "AddedDate": "2026-06-26",
-        "AddedTimestamp": 1782513559.1956565,
+        "Date": "Aug 10, 2026",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784157279.0242765,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -112278,6 +112278,40 @@
         "MatchedTags": [
             "management",
             "resource management"
+        ]
+    },
+    "4914900": {
+        "Title": "Admiral Yi: The Imjin War",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4914900/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4914900/00cb585eef2e00829e4ede91783917ad69aecb26/header.jpg?t=1784152758",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784157296.5665767,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "real time tactics",
+            "tactical"
+        ]
+    },
+    "4951430": {
+        "Title": "Lamplight",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4951430/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4951430/a6245a0944c7086d5629aab316a49fc3a9e77937/header.jpg?t=1784153526",
+        "Date": "August 2026",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784157323.9424531,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
         ]
     }
 }
