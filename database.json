@@ -15738,9 +15738,9 @@
         "URL": "https://store.steampowered.com/app/4541610/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4541610/d9f083126aca3b9d4a6b21b5e22d2eeae41a97d4/header.jpg?t=1774566195",
-        "Date": "Jul 15, 2026",
-        "AddedDate": "2026-04-11",
-        "AddedTimestamp": 1775951487.7266471,
+        "Date": "Jul 14, 2026",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784096996.0954072,
         "MatchedTags": [
             "turn-based strategy",
             "strategy",
@@ -17982,14 +17982,14 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4550280/",
-        "Site": "",
+        "Site": "https://bombbite.fun/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4550280/0cb4bf0212bb4666a6e346cf11c3581d769ef128/header.jpg?t=1774892385",
         "Date": "Dec 29, 2026",
         "AddedDate": "2026-06-16",
         "AddedTimestamp": 1781630714.2194507,
         "MatchedTags": [
             "horror",
-            "psychological horror"
+            "survival horror"
         ]
     },
     "4556450": {
@@ -55293,7 +55293,7 @@
     "4688570": {
         "Title": "Bound By A Curse",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/sygVvGbfUP",
         "URL": "https://store.steampowered.com/app/4688570/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4688570/825ab4b560e090c8bd6414da6908903d962a0e4f/header.jpg?t=1778503047",
@@ -98629,9 +98629,9 @@
         "URL": "https://store.steampowered.com/app/4882040/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4882040/a75cb9de6d84d6ca1592943afe54206e4dddede0/header.jpg?t=1782827361",
-        "Date": "Aug 28, 2026",
-        "AddedDate": "2026-07-08",
-        "AddedTimestamp": 1783529672.3982553,
+        "Date": "Jan 1, 2100",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784097051.6635175,
         "MatchedTags": [
             "colony sim",
             "tactical rpg"
@@ -98724,9 +98724,9 @@
         "URL": "https://store.steampowered.com/app/4890720/",
         "Site": "https://games.hsys.at/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4890720/da17485797f1d0003ed5c2df855a3bbd0bcfea69/header.jpg?t=1782837122",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-13",
-        "AddedTimestamp": 1783972584.5264282,
+        "Date": "Jul 14, 2026",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784097062.2708235,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -111162,6 +111162,158 @@
         "MatchedTags": [
             "strategy",
             "turn-based combat"
+        ]
+    },
+    "3168950": {
+        "Title": "Trumpets of War",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3168950/",
+        "Site": "https://xblur.pk",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3168950/b53fcdea4ba970da2584565187665f7b3d0903ad/header.jpg?t=1784087754",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784096955.102098,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "turn-based strategy",
+            "real time tactics",
+            "tactical",
+            "resource management",
+            "economy"
+        ]
+    },
+    "4882480": {
+        "Title": "Family Gambling",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4882480/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4882480/0452421f9ef0551765c1c42755227631be38b9af/header.jpg?t=1784096680",
+        "Date": "February 2027",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784097054.7045531,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4895900": {
+        "Title": "Gatewatch",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4895900/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895900/c3203e0e7561a78bbeff3ee8974c2f52d9cbed42/header.jpg?t=1784095484",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784097068.2611885,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4898170": {
+        "Title": "The Neverwake Mansion",
+        "Email": "",
+        "Discord": "https://discord.gg/w392rUpyEk",
+        "URL": "https://store.steampowered.com/app/4898170/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4898170/4405b31c766ba0cfd49d93e0f786587a52a16399/header.jpg?t=1784088598",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784097071.318759,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4902640": {
+        "Title": "Attack Only",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4902640/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4902640/25b96bfd8fa4e1cccc7ab8763aac2bf618a037d0/header.jpg?t=1784095267",
+        "Date": "2027",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784097074.3552458,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4905620": {
+        "Title": "Daisy Trains",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4905620/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905620/479f16a1010fbbe5bda5de46867247ff976d1925/header.jpg?t=1784088263",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784097076.8335083,
+        "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "4908070": {
+        "Title": "Machinery Defense",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4908070/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908070/0d1bb9441eb07a9a9eb8f6ccfbd9351b8572986d/header.jpg?t=1784094935",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784097080.6795213,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "resource management"
+        ]
+    },
+    "4919720": {
+        "Title": "GoblinMancer",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4919720/",
+        "Site": "https://backtobitsstudio.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4919720/80af90ba7152aaf521ee21a57f1cf3b682d1102a/header.jpg?t=1784095322",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784097089.6623824,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "management"
+        ]
+    },
+    "4920450": {
+        "Title": "SARA",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4920450/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920450/d0222b38765f60017cee222a34630249d1bc2fc9/header.jpg?t=1784094869",
+        "Date": "Aug 3, 2026",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784097092.658561,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4930200": {
+        "Title": "Mutant Tide",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4930200/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4930200/cc374d8467e99d95d2f973f867397321d6ae3cff/header.jpg?t=1784092692",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784097102.096966,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
