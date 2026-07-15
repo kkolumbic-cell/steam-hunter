@@ -91458,7 +91458,7 @@
     },
     "4729310": {
         "Title": "Playing Prague",
-        "Email": "j.tomanova@prague.eu, tourinfo@prague.eu",
+        "Email": "tourinfo@prague.eu, j.tomanova@prague.eu",
         "Discord": "https://discord.gg/3rv3aT3HYa",
         "URL": "https://store.steampowered.com/app/4729310/",
         "Site": "https://prague.eu/playing-prague",
@@ -95361,9 +95361,9 @@
         "URL": "https://store.steampowered.com/app/4868150/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4868150/9c3fdf0df7960838984b79edbe83874d76e638b7/header.jpg?t=1782459612",
-        "Date": "Jul 13, 2026",
-        "AddedDate": "2026-06-26",
-        "AddedTimestamp": 1782470009.949235,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784107503.277788,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -99001,9 +99001,9 @@
         "URL": "https://store.steampowered.com/app/4887630/",
         "Site": "https://sunscorchedstudios.co.uk/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4887630/d8225164c882199499c0c9b3402a9ba41a28a407/header.jpg?t=1782853351",
-        "Date": "To be announced",
-        "AddedDate": "2026-06-30",
-        "AddedTimestamp": 1782853753.3027387,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784107527.0749698,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -99908,9 +99908,9 @@
         "URL": "https://store.steampowered.com/app/4873250/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4873250/b4e86f9903ef585fc1d94c10a783d72b254b9520/header.jpg?t=1782958050",
-        "Date": "July 2026",
-        "AddedDate": "2026-07-02",
-        "AddedTimestamp": 1782972804.440054,
+        "Date": "Jul 15, 2026",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784107512.2385426,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -111314,6 +111314,87 @@
         "AddedTimestamp": 1784097102.096966,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4753470": {
+        "Title": "The Deconsecration Initiative",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4753470/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4753470/95fc374c088602173ce2a94a79b50a5143b5d13c/header.jpg?t=1784106332",
+        "Date": "2026",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784107477.0163856,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4872550": {
+        "Title": "Run it Back: 90 Days to Race",
+        "Email": "info@emptyfolderstudio.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4872550/",
+        "Site": "https://www.emptyfolderstudio.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4872550/ddfe0966ce6970ac79c3932ac86b1fae0c8b50f8/header.jpg?t=1784105330",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784107506.6993413,
+        "MatchedTags": [
+            "turn-based strategy",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4889710": {
+        "Title": "Survive the Horde",
+        "Email": "",
+        "Discord": "https://discord.gg/8NE2t7jn5",
+        "URL": "https://store.steampowered.com/app/4889710/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4889710/df1ddadf356eb9153d3e0146ecd340f3ef019e90/header.jpg?t=1784100917",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784107529.5949454,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4912720": {
+        "Title": "Type Fighters",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4912720/",
+        "Site": "https://type-fighters.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4912720/e60eebc90a6507a65c7e9ca9b83f5faa8e5e2dda/header.jpg?t=1784103265",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784107545.8642464,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat",
+            "turn-based tactics"
+        ]
+    },
+    "4944200": {
+        "Title": "Diamonds and Spades",
+        "Email": "",
+        "Discord": "https://discord.gg/nTVjgFawhh",
+        "URL": "https://store.steampowered.com/app/4944200/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4944200/6d638b429c05ca447d459eb476e675f320b9bc99/header.jpg?t=1784106499",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-15",
+        "AddedTimestamp": 1784107588.3271775,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
