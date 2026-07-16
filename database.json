@@ -30108,8 +30108,8 @@
         "AddedTimestamp": 1779137282.3881133,
         "MatchedTags": [
             "tower defense",
-            "strategy",
-            "resource management"
+            "resource management",
+            "strategy"
         ]
     },
     "4606900": {
@@ -36675,11 +36675,11 @@
         "AddedDate": "2026-05-13",
         "AddedTimestamp": 1778690195.8247595,
         "MatchedTags": [
-            "turn-based tactics",
+            "tower defense",
             "strategy",
-            "real time tactics",
-            "turn-based combat",
-            "turn-based strategy"
+            "city builder",
+            "base building",
+            "real time tactics"
         ]
     },
     "4592270": {
@@ -53957,9 +53957,9 @@
         "URL": "https://store.steampowered.com/app/4678950/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4678950/79eb8fb3152db8e7515cf1827be4a78e068e73db/header.jpg?t=1778245493",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-08",
-        "AddedTimestamp": 1778250009.6811013,
+        "Date": "Jul 21, 2026",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784232824.3850586,
         "MatchedTags": [
             "psychological horror",
             "horror",
@@ -71639,9 +71639,9 @@
         "URL": "https://store.steampowered.com/app/4740010/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4740010/7372a825954f758555441c9d3758dd86bbaf08a0/header.jpg?t=1780352678",
-        "Date": "Coming soon",
+        "Date": "Jul 16, 2026",
         "AddedDate": "2026-07-16",
-        "AddedTimestamp": 1784183630.5301518,
+        "AddedTimestamp": 1784232833.9582858,
         "MatchedTags": [
             "management",
             "resource management"
@@ -93880,9 +93880,9 @@
         "URL": "https://store.steampowered.com/app/4620220/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4620220/ed3a5f6571198418917914e5b3a8396c4d22b1d1/header.jpg?t=1782279671",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-02",
-        "AddedTimestamp": 1782972695.4208448,
+        "Date": "October 2026",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784232812.1125498,
         "MatchedTags": [
             "strategy"
         ]
@@ -95989,9 +95989,9 @@
         "URL": "https://store.steampowered.com/app/4646420/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4646420/8941942f29940d8cc5c72b471c1751acba155817/header.jpg?t=1782502586",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-26",
-        "AddedTimestamp": 1782507417.0419362,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784232818.9505246,
         "MatchedTags": [
             "strategy",
             "real time tactics",
@@ -102272,9 +102272,9 @@
         "URL": "https://store.steampowered.com/app/4910780/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4910780/05d7c1aabb09d85088af6bce345b9701a86534ed/header.jpg?t=1783192577",
-        "Date": "Jul 16, 2026",
-        "AddedDate": "2026-07-04",
-        "AddedTimestamp": 1783194105.1647692,
+        "Date": "Jul 20, 2026",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784232897.1849458,
         "MatchedTags": [
             "management"
         ]
@@ -113225,6 +113225,146 @@
         "AddedTimestamp": 1784226988.7801058,
         "MatchedTags": [
             "economy"
+        ]
+    },
+    "3380490": {
+        "Title": "Bloodthorn",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3380490/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3380490/1b0ccaf91566b4ce2535cee771523eb0f44d9e96/header.jpg?t=1784229321",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784232778.4266295,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4718900": {
+        "Title": "What Was Promised",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4718900/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4718900/4805bde31d919fe022b443ca962a33f7b5bb1edf/header.jpg?t=1784227180",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784232829.2232096,
+        "MatchedTags": [
+            "turn-based tactics",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4743030": {
+        "Title": "H.E.M.A.",
+        "Email": "",
+        "Discord": "https://discord.gg/xEpczfTcPj",
+        "URL": "https://store.steampowered.com/app/4743030/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4743030/bd045e19b87ba9b03e05c9896cc7cd880d100585/header.jpg?t=1784229222",
+        "Date": "2027",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784232836.1650946,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4824870": {
+        "Title": "Magickness",
+        "Email": "",
+        "Discord": "https://discord.gg/YZ2y6935",
+        "URL": "https://store.steampowered.com/app/4824870/",
+        "Site": "https://magickness.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4824870/3bc7e69034172ee9834a64d0fe3573313cf652e7/header.jpg?t=1784232251",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784232859.2098775,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4905380": {
+        "Title": "Hellmate - Chess Deck Builder",
+        "Email": "hello@overbaked.studio",
+        "Discord": "https://discord.gg/overbaked",
+        "URL": "https://store.steampowered.com/app/4905380/",
+        "Site": "https://www.overbaked.studio",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4905380/f744e8e416ea88ddb5867f2cbdf273995108e502/header.jpg?t=1784232869",
+        "Date": "November 2026",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784232886.162518,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical",
+            "turn-based combat"
+        ]
+    },
+    "4926090": {
+        "Title": "SHORAPAN: Beneath the Crimson Sky",
+        "Email": "",
+        "Discord": "https://discord.gg/7eMKuJz7x",
+        "URL": "https://store.steampowered.com/app/4926090/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4926090/a4d7dbfba8f02393c331eb56c5d870fc26afdc46/header.jpg?t=1784229300",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784232913.641865,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4937290": {
+        "Title": "EAT THE RICH",
+        "Email": "",
+        "Discord": "https://discord.gg/Y49JhNhmvS",
+        "URL": "https://store.steampowered.com/app/4937290/",
+        "Site": "https://eattherich.gg",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4937290/2b2ad8f80438c7e6ac165b1a9f08f7828dccb245/header.jpg?t=1784230868",
+        "Date": "Jul 27, 2026",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784232922.3641846,
+        "MatchedTags": [
+            "economy",
+            "strategy"
+        ]
+    },
+    "4956200": {
+        "Title": "The Hunter",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4956200/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4956200/3fea5346c14c732996e25817e0c520bd967d0002/header.jpg?t=1784230590",
+        "Date": "2026",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784232936.2519844,
+        "MatchedTags": [
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "4959370": {
+        "Title": "Star Surge",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4959370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4959370/820ba64e5d8237b1ff3cc9a2776598b07f119829/header.jpg?t=1784231633",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784232941.4870946,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tactical"
         ]
     }
 }
