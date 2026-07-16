@@ -29335,9 +29335,9 @@
         "URL": "https://store.steampowered.com/app/4101150/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4101150/85bfe20a89bde4f56ab3d1bf95d868522d86126b/header.jpg?t=1776097607",
-        "Date": "July 2026",
-        "AddedDate": "2026-07-11",
-        "AddedTimestamp": 1783766114.0018005,
+        "Date": "Jul 16, 2026",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784220202.6636398,
         "MatchedTags": [
             "tower defense",
             "strategy",
@@ -78174,9 +78174,9 @@
         "URL": "https://store.steampowered.com/app/4780340/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4780340/66ab76090ede0c5f8603cb1981e07e1d311aa44e/header.jpg?t=1780928435",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-23",
-        "AddedTimestamp": 1782251640.1451097,
+        "Date": "Jul 16, 2026",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784220270.3827367,
         "MatchedTags": [
             "strategy",
             "horror",
@@ -85953,7 +85953,9 @@
         "AddedDate": "2026-06-15",
         "AddedTimestamp": 1781559056.0264027,
         "MatchedTags": [
-            "strategy"
+            "strategy",
+            "tactical",
+            "tactical rpg"
         ]
     },
     "4826510": {
@@ -86622,9 +86624,9 @@
         "URL": "https://store.steampowered.com/app/4513980/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4513980/9b0ad9ef54a5b305846339992ffc92c1684d1a1d/header.jpg?t=1781611696",
-        "Date": "To be announced",
-        "AddedDate": "2026-06-16",
-        "AddedTimestamp": 1781630693.8389513,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784220225.4554794,
         "MatchedTags": [
             "economy",
             "management"
@@ -94861,9 +94863,9 @@
         "URL": "https://store.steampowered.com/app/4881220/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4881220/02ad2361d0351a849f910a991ab941580cccc5d2/header.jpg?t=1782419865",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-25",
-        "AddedTimestamp": 1782421597.2906067,
+        "Date": "Oct 1, 2026",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784220324.0656831,
         "MatchedTags": [
             "strategy",
             "turn-based combat"
@@ -105750,9 +105752,9 @@
         "URL": "https://store.steampowered.com/app/4925700/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4925700/ddeadaae0595d3fc9b112bd2fde32e2269232302/header.jpg?t=1783542216",
-        "Date": "TBA",
-        "AddedDate": "2026-07-08",
-        "AddedTimestamp": 1783543256.1742058,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784220361.8838398,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -113026,6 +113028,158 @@
         "AddedTimestamp": 1784212144.8654115,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "3753550": {
+        "Title": "THE IMPOSTOR",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3753550/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3753550/bbc97fe969ac4357bec7a556925c073e90c78f96/header.jpg?t=1784218172",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784220186.7945986,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4364310": {
+        "Title": "Cook The Dungeon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4364310/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4364310/8d86969dc5beee0b7eaa1e72fb6a27daffcb7658/header.jpg?t=1784215933",
+        "Date": "Q2 2027",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784220220.2741745,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4597230": {
+        "Title": "Spells and Sploobies",
+        "Email": "",
+        "Discord": "https://discord.gg/K8g7SMHWGA",
+        "URL": "https://store.steampowered.com/app/4597230/",
+        "Site": "https://spellsandsploobies.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4597230/a26fdf57441a90509333b8853a653b96a7eac69e/header.jpg?t=1784212218",
+        "Date": "Dec 31, 2026",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784220237.0350559,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical"
+        ]
+    },
+    "4739500": {
+        "Title": "JOHN GLEEP",
+        "Email": "",
+        "Discord": "https://discord.gg/5m2vQBABs7",
+        "URL": "https://store.steampowered.com/app/4739500/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4739500/277e381de9e54a69696e3aa6c2d80035302777fc/header.jpg?t=1784220007",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784220259.0525117,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4826520": {
+        "Title": "Imperium Sine Fine: Eternal Emperor",
+        "Email": "",
+        "Discord": "https://discord.gg/5HTJq2GHuc",
+        "URL": "https://store.steampowered.com/app/4826520/",
+        "Site": "https://www.imperium-aeternum.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4826520/1f5144558025b8dcf80e2c363008dc3dff899807/header.jpg?t=1784214966",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784220289.0113144,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "grand strategy",
+            "resource management"
+        ]
+    },
+    "4895860": {
+        "Title": "Scapegoat",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4895860/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895860/f8806485daf832ced11f747c9989f1407e180616/header.jpg?t=1784212200",
+        "Date": "August 2026",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784220332.2704365,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4930520": {
+        "Title": "Triox",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4930520/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4930520/0d85bddd7279003bb5d4414e34d9d736833b3ff9/header.jpg?t=1784216555",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784220365.1931448,
+        "MatchedTags": [
+            "horror",
+            "strategy",
+            "resource management",
+            "psychological horror",
+            "management"
+        ]
+    },
+    "4935320": {
+        "Title": "MODIFY",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4935320/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4935320/98f8a05f0a91e4d0d13210295a6f2d72b7799612/header.jpg?t=1784216581",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784220373.0195332,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4937470": {
+        "Title": "\u6700\u4e0a\u90b8R",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4937470/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4937470/128744c299f7c1d965b323ff99b253aa03f6e3f2/header.jpg?t=1784218451",
+        "Date": "2026",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784220379.9610982,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4957620": {
+        "Title": "Thermal Runaway",
+        "Email": "contact@chillingmoose.com",
+        "Discord": "https://discord.gg/5x7tAQJ2y",
+        "URL": "https://store.steampowered.com/app/4957620/",
+        "Site": "https://chillingmoose.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4957620/6f2737d8a78fbff34cff9e1a80e4a2a925860f65/header.jpg?t=1784216064",
+        "Date": "Aug 17, 2026",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784220399.1232748,
+        "MatchedTags": [
+            "real time tactics"
         ]
     }
 }
