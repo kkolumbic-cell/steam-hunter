@@ -9759,9 +9759,9 @@
         "URL": "https://store.steampowered.com/app/4396440/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4396440/ed1906f54404f47a86729ef04efb5c0f68c9e90c/header.jpg?t=1773833518",
-        "Date": "Aug 6, 2026",
-        "AddedDate": "2026-06-20",
-        "AddedTimestamp": 1781974382.4268079,
+        "Date": "Aug 13, 2026",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784236782.0460892,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -67423,9 +67423,8 @@
         "AddedDate": "2026-05-28",
         "AddedTimestamp": 1779997568.789298,
         "MatchedTags": [
-            "turn-based tactics",
             "strategy",
-            "tower defense",
+            "resource management",
             "turn-based strategy"
         ]
     },
@@ -100071,9 +100070,9 @@
         "URL": "https://store.steampowered.com/app/4852580/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4852580/de6d5205be4932129d893a1e62259ec95e95a3fe/header.jpg?t=1782994129",
-        "Date": "Jul 16, 2026",
-        "AddedDate": "2026-07-03",
-        "AddedTimestamp": 1783101120.9265757,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784236817.6298168,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -100503,9 +100502,9 @@
         "URL": "https://store.steampowered.com/app/4898540/",
         "Site": "https://debris-zone.space/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4898540/ccd0e76ea207d8e48649a1e1d6e5386317f8030b/header.jpg?t=1783013217",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-02",
-        "AddedTimestamp": 1783015570.6378307,
+        "Date": "Jul 16, 2026",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784236826.6453764,
         "MatchedTags": [
             "tactical rpg"
         ]
@@ -113365,6 +113364,37 @@
             "strategy",
             "real time tactics",
             "tactical"
+        ]
+    },
+    "3175550": {
+        "Title": "Idle Archery",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3175550/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3175550/d6b708af1ffb3a5308218e0d087928dc6b537b1f/header.jpg?t=1784234702",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784236765.8628933,
+        "MatchedTags": [
+            "economy",
+            "strategy",
+            "management",
+            "tactical"
+        ]
+    },
+    "4955330": {
+        "Title": "Morder",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4955330/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4955330/2cbda9de0b6915eb6d11e3704e980f7885a299e5/header.jpg?t=1784233173",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784236845.0969958,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
