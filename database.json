@@ -58008,9 +58008,9 @@
         "URL": "https://store.steampowered.com/app/4654940/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4654940/58fe56a4319855d72b1374f8b3c2a7ac713d7177/header.jpg?t=1778748335",
-        "Date": "Jun 11, 2026",
-        "AddedDate": "2026-06-12",
-        "AddedTimestamp": 1781247545.2199755,
+        "Date": "Jul 15, 2026",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784160794.2975216,
         "MatchedTags": [
             "real time tactics",
             "tactical rpg"
@@ -94009,9 +94009,9 @@
         "URL": "https://store.steampowered.com/app/4876950/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876950/2a680c287be4507a9ab49bb62a2c5607c01ccb9c/header.jpg?t=1782277107",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-07",
-        "AddedTimestamp": 1783437557.3614388,
+        "Date": "July 2026",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784160820.4604282,
         "MatchedTags": [
             "turn-based tactics",
             "strategy",
@@ -95116,9 +95116,9 @@
         "URL": "https://store.steampowered.com/app/4875060/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4875060/3ca95a917745bd99d48b0a8d5cbac3a3f06a69e1/header.jpg?t=1782430553",
-        "Date": "Jul 16, 2026",
-        "AddedDate": "2026-06-26",
-        "AddedTimestamp": 1782437644.1104946,
+        "Date": "July 2026",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784160818.1599646,
         "MatchedTags": [
             "strategy",
             "economy",
@@ -112312,6 +112312,54 @@
             "strategy",
             "turn-based strategy",
             "turn-based combat"
+        ]
+    },
+    "1854500": {
+        "Title": "ARKEVIL",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/1854500/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1854500/b16ef61a0fa762b11a62d549db3616b1d0bc4f2d/header.jpg?t=1784159876",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784160778.6556845,
+        "MatchedTags": [
+            "survival horror",
+            "horror",
+            "grand strategy"
+        ]
+    },
+    "4345260": {
+        "Title": "Masters of Magic",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4345260/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4345260/67e6ef2f22b978bb23d91fa524664ac2de9476c4/header.jpg?t=1784159169",
+        "Date": "August 2026",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784160781.8314285,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics"
+        ]
+    },
+    "4836620": {
+        "Title": "Beneath the Permafrost",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4836620/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836620/88a2aa64512e6df0a4868d3eac8519be5c389544/header.jpg?t=1784158122",
+        "Date": "December 2026",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784160810.321404,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "resource management",
+            "psychological horror"
         ]
     }
 }
