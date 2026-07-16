@@ -96725,9 +96725,9 @@
         "URL": "https://store.steampowered.com/app/4887750/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4887750/0d91c940e48f6da7d3b6600038dc628da56413dd/header.jpg?t=1782544687",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-15",
-        "AddedTimestamp": 1784137327.0383425,
+        "Date": "Jul 16, 2026",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784226961.4502301,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -109486,7 +109486,7 @@
     "4877260": {
         "Title": "Room 0",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/m64txUYx4C",
         "URL": "https://store.steampowered.com/app/4877260/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4877260/6261792c0b56b6439abb99d5ad42def633fe18bd/header.jpg?t=1783968983",
@@ -113180,6 +113180,51 @@
         "AddedTimestamp": 1784220399.1232748,
         "MatchedTags": [
             "real time tactics"
+        ]
+    },
+    "4899280": {
+        "Title": "Holdline: Last Gate",
+        "Email": "",
+        "Discord": "https://discord.gg/FNsntgfWXq",
+        "URL": "https://store.steampowered.com/app/4899280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4899280/c7e9e0161f1f7572384d1e40d2bc891c5e676ec0/header.jpg?t=1784225045",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784226966.8500946,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "base building"
+        ]
+    },
+    "4952870": {
+        "Title": "Entities Detected",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4952870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4952870/c96a1f35590d590fa7b55fb51d2e025859dab6f5/header.jpg?t=1784220655",
+        "Date": "October 2026",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784226983.8880513,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4958410": {
+        "Title": "Gilt & Grime",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4958410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4958410/abeafbd6b601531e1ed6831cf48b4c3e383c96c9/header.jpg?t=1784224397",
+        "Date": "2027",
+        "AddedDate": "2026-07-16",
+        "AddedTimestamp": 1784226988.7801058,
+        "MatchedTags": [
+            "economy"
         ]
     }
 }
