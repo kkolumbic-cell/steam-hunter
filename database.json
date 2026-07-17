@@ -72458,8 +72458,8 @@
         "AddedTimestamp": 1784297222.0161252,
         "MatchedTags": [
             "psychological horror",
-            "horror",
-            "survival horror"
+            "survival horror",
+            "horror"
         ]
     },
     "4796850": {
@@ -97859,9 +97859,9 @@
         "URL": "https://store.steampowered.com/app/4893300/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4893300/fa1fc89bc9f7df8d49c5e0ec74cb59abed1930ed/header.jpg?t=1782753252",
-        "Date": "Jul 14, 2026",
-        "AddedDate": "2026-06-29",
-        "AddedTimestamp": 1782757713.276633,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-17",
+        "AddedTimestamp": 1784329841.5005553,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -100633,9 +100633,9 @@
         "URL": "https://store.steampowered.com/app/4210440/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4210440/4bc158e9f04b734371ae0ec8751b78bf7ba56b7b/header.jpg?t=1783025400",
-        "Date": "TBA",
-        "AddedDate": "2026-07-02",
-        "AddedTimestamp": 1783028098.9419694,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-17",
+        "AddedTimestamp": 1784329803.3811772,
         "MatchedTags": [
             "strategy"
         ]
@@ -106603,9 +106603,9 @@
         "URL": "https://store.steampowered.com/app/4851130/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4851130/66c848d1cc36f40ca33bda9780c383c2eed12960/header.jpg?t=1783617375",
-        "Date": "November 2026",
-        "AddedDate": "2026-07-09",
-        "AddedTimestamp": 1783620837.5640435,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-17",
+        "AddedTimestamp": 1784329829.7007573,
         "MatchedTags": [
             "city builder",
             "base building",
@@ -109803,9 +109803,9 @@
         "URL": "https://store.steampowered.com/app/4871990/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4871990/1745005585844115a990325782f7a7b63120f8ec/header.jpg?t=1783978051",
-        "Date": "TBA",
-        "AddedDate": "2026-07-13",
-        "AddedTimestamp": 1783980904.4198048,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-17",
+        "AddedTimestamp": 1784329835.5898552,
         "MatchedTags": [
             "strategy"
         ]
@@ -114301,6 +114301,21 @@
             "strategy",
             "turn-based strategy",
             "tactical"
+        ]
+    },
+    "4959500": {
+        "Title": "Mnema: The Fallen Remembered",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4959500/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4959500/86cc156390c2411c0de32684da0f1b2451729583/header.jpg?t=1784326595",
+        "Date": "Jul 27, 2026",
+        "AddedDate": "2026-07-17",
+        "AddedTimestamp": 1784329864.2772684,
+        "MatchedTags": [
+            "horror",
+            "turn-based strategy"
         ]
     }
 }
