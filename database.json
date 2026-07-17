@@ -71817,9 +71817,9 @@
         "URL": "https://store.steampowered.com/app/4731050/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4731050/3a626f5d4f01ca3f0cffe23516da22633983f537/header.jpg?t=1780368722",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-09",
-        "AddedTimestamp": 1781007605.5128794,
+        "Date": "Jul 16, 2026",
+        "AddedDate": "2026-07-17",
+        "AddedTimestamp": 1784269772.8585072,
         "MatchedTags": [
             "resource management",
             "strategy",
@@ -80333,9 +80333,9 @@
         "URL": "https://store.steampowered.com/app/4659900/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4659900/c1e5843cb4ab982ebbc369bd478f146b096e9b81/header.jpg?t=1781085104",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-23",
-        "AddedTimestamp": 1782233089.8169625,
+        "Date": "Jul 16, 2026",
+        "AddedDate": "2026-07-17",
+        "AddedTimestamp": 1784269763.0821579,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -85166,8 +85166,8 @@
         "AddedDate": "2026-06-15",
         "AddedTimestamp": 1781527476.07561,
         "MatchedTags": [
-            "horror",
-            "psychological horror"
+            "psychological horror",
+            "horror"
         ]
     },
     "4512050": {
@@ -99244,9 +99244,9 @@
         "URL": "https://store.steampowered.com/app/4899040/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4899040/7809565fdc374efbe4f3a7367c9111e77cb5d23e/header.jpg?t=1782860278",
-        "Date": "Jul 17, 2026",
-        "AddedDate": "2026-07-04",
-        "AddedTimestamp": 1783149505.2018425,
+        "Date": "Jul 16, 2026",
+        "AddedDate": "2026-07-17",
+        "AddedTimestamp": 1784269799.977884,
         "MatchedTags": [
             "turn-based tactics",
             "turn-based combat",
@@ -99935,9 +99935,9 @@
         "URL": "https://store.steampowered.com/app/4903980/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4903980/62333539fe7b64ae15e9798ac3a003e5ec27c548/header.jpg?t=1782959233",
-        "Date": "Jul 13, 2026",
-        "AddedDate": "2026-07-02",
-        "AddedTimestamp": 1782972833.76037,
+        "Date": "Jul 16, 2026",
+        "AddedDate": "2026-07-17",
+        "AddedTimestamp": 1784269802.2979057,
         "MatchedTags": [
             "tactical"
         ]
@@ -113486,6 +113486,70 @@
         "AddedTimestamp": 1784259905.575955,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4226580": {
+        "Title": "Aooni2",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4226580/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4226580/661edececff522dbc803dd059cf2906e0ecfacbf/header.jpg?t=1784267961",
+        "Date": "Aug 5, 2026",
+        "AddedDate": "2026-07-17",
+        "AddedTimestamp": 1784269731.043273,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4856300": {
+        "Title": "STLN-\u51b3\u8fdb\u8005",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4856300/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856300/636f40ec0b20ae6fdfb503f0a830c15f503de97a/header.jpg?t=1784264855",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-17",
+        "AddedTimestamp": 1784269787.7718031,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "tactical",
+            "turn-based combat"
+        ]
+    },
+    "4860450": {
+        "Title": "TowerBound",
+        "Email": "",
+        "Discord": "https://discord.gg/gxtFJH4edY",
+        "URL": "https://store.steampowered.com/app/4860450/",
+        "Site": "https://website-blackhoodgaming.netlify.app/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860450/c96d821f2cee6b9e476faa77664bfdd37c66bd4b/header.jpg?t=1784265643",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-07-17",
+        "AddedTimestamp": 1784269789.7551367,
+        "MatchedTags": [
+            "turn-based combat",
+            "strategy",
+            "resource management",
+            "turn-based strategy"
+        ]
+    },
+    "4878170": {
+        "Title": "Gniewomir",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4878170/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4878170/7d0ea2d11193be7ade0500a2f8269d4f6c24a70c/header.jpg?t=1784267824",
+        "Date": "2027",
+        "AddedDate": "2026-07-17",
+        "AddedTimestamp": 1784269792.7616196,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
         ]
     }
 }
