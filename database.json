@@ -18163,9 +18163,9 @@
         "URL": "https://store.steampowered.com/app/4532910/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4532910/8a0a1ea5b951e63fa667d4a8ffed775b99f79298/header.jpg?t=1774901699",
-        "Date": "July 2026",
-        "AddedDate": "2026-03-30",
-        "AddedTimestamp": 1774904628.6575751,
+        "Date": "August 2026",
+        "AddedDate": "2026-07-17",
+        "AddedTimestamp": 1784288585.857129,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -31828,7 +31828,7 @@
     "4627220": {
         "Title": "Untold Memories: Grandma's House",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/xy5tVV6Aze",
         "URL": "https://store.steampowered.com/app/4627220/",
         "Site": "https://www.tyrosinegames.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4627220/6ffe6588eac33764a038d47d972952b2ce013a00/header.jpg?t=1776276416",
@@ -38145,9 +38145,9 @@
         "URL": "https://store.steampowered.com/app/4635560/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4635560/9e4bceed9998686fc1b04240e241df53dfddfa91/header.jpg?t=1776868139",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-07-13",
-        "AddedTimestamp": 1783984560.4970274,
+        "Date": "2026",
+        "AddedDate": "2026-07-17",
+        "AddedTimestamp": 1784288600.3488173,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -59458,9 +59458,9 @@
         "URL": "https://store.steampowered.com/app/4733420/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4733420/a973d7782ce559842cfdc19463289035a6086b71/header.jpg?t=1778913759",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-12",
-        "AddedTimestamp": 1781228513.2200086,
+        "Date": "Jul 17, 2026",
+        "AddedDate": "2026-07-17",
+        "AddedTimestamp": 1784288615.9060903,
         "MatchedTags": [
             "management",
             "city builder",
@@ -71904,22 +71904,6 @@
             "strategy",
             "management",
             "economy"
-        ]
-    },
-    "4774610": {
-        "Title": "Anabiosis",
-        "Email": "",
-        "Discord": "https://discord.gg/YQCWG3QHW",
-        "URL": "https://store.steampowered.com/app/4774610/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4774610/3217f5e29c4665d24518303c2c4f57fb4b5377f2/header.jpg?t=1780369298",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-02",
-        "AddedTimestamp": 1780383855.722997,
-        "MatchedTags": [
-            "survival horror",
-            "psychological horror",
-            "strategy"
         ]
     },
     "4777740": {
@@ -93515,12 +93499,14 @@
         "URL": "https://store.steampowered.com/app/4875270/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4875270/6261d0166e35a0ae490c6e25a84b41ac307de607/header.jpg?t=1782247179",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-23",
-        "AddedTimestamp": 1782251724.179707,
+        "Date": "Aug 9, 2026",
+        "AddedDate": "2026-07-17",
+        "AddedTimestamp": 1784288643.26564,
         "MatchedTags": [
+            "management",
             "psychological horror",
-            "horror"
+            "horror",
+            "strategy"
         ]
     },
     "4877350": {
@@ -94007,9 +93993,9 @@
         "URL": "https://store.steampowered.com/app/4876950/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876950/2a680c287be4507a9ab49bb62a2c5607c01ccb9c/header.jpg?t=1782277107",
-        "Date": "July 2026",
-        "AddedDate": "2026-07-16",
-        "AddedTimestamp": 1784160820.4604282,
+        "Date": "Jul 17, 2026",
+        "AddedDate": "2026-07-17",
+        "AddedTimestamp": 1784288645.5056753,
         "MatchedTags": [
             "turn-based tactics",
             "strategy",
@@ -96844,9 +96830,9 @@
         "URL": "https://store.steampowered.com/app/4838060/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4838060/39823efe7158021d4ec6d3f468dfbda5c4e3487c/header.jpg?t=1782551260",
-        "Date": "Jul 20, 2026",
+        "Date": "Coming soon",
         "AddedDate": "2026-07-17",
-        "AddedTimestamp": 1784259857.7705252,
+        "AddedTimestamp": 1784288632.6210272,
         "MatchedTags": [
             "strategy"
         ]
@@ -113608,6 +113594,37 @@
         "AddedTimestamp": 1784280311.0968611,
         "MatchedTags": [
             "tactical rpg"
+        ]
+    },
+    "4878690": {
+        "Title": "Don't Pick Up",
+        "Email": "",
+        "Discord": "https://discord.gg/HKmqP9EXwe",
+        "URL": "https://store.steampowered.com/app/4878690/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4878690/344344436b4e3fcd7bf93d4f876bc64bf0d6807a/header.jpg?t=1784286991",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-17",
+        "AddedTimestamp": 1784288648.4195545,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4952090": {
+        "Title": "SOLITAIRE.EXE: Klondike with a Slot Habit",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4952090/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4952090/a2f2b2f43705321f9423cab5a63ecbab93ccd768/header.jpg?t=1784282012",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-17",
+        "AddedTimestamp": 1784288673.2367363,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "strategy"
         ]
     }
 }
