@@ -2562,9 +2562,9 @@
         "URL": "https://store.steampowered.com/app/4384300/",
         "Site": "https://www.hollowsignalgames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4384300/d7c1492a081ac9732f55eb323e279fcd707d54ca/header.jpg?t=1772801740",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-06",
-        "AddedTimestamp": 1772803822.5227225,
+        "Date": "2026",
+        "AddedDate": "2026-07-18",
+        "AddedTimestamp": 1784403297.7458882,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -45009,7 +45009,7 @@
     "3757780": {
         "Title": "Tomb Guard",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/Nhr2jd7sq",
         "URL": "https://store.steampowered.com/app/3757780/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3757780/5db9413700eb028c816f03408e488e02a5402cc9/header.jpg?t=1777441470",
@@ -72814,21 +72814,6 @@
         "AddedTimestamp": 1780442004.411025,
         "MatchedTags": [
             "strategy"
-        ]
-    },
-    "3428870": {
-        "Title": "Disconnect 2",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/3428870/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3428870/17a4a6ed18e0684fbbe1723736881f40c2332d90/header.jpg?t=1780443751",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-05",
-        "AddedTimestamp": 1780662031.9725838,
-        "MatchedTags": [
-            "strategy",
-            "tactical"
         ]
     },
     "4731470": {
@@ -114720,6 +114705,39 @@
         "AddedTimestamp": 1784398318.8031943,
         "MatchedTags": [
             "resource management"
+        ]
+    },
+    "4778990": {
+        "Title": "Blightmarch",
+        "Email": "",
+        "Discord": "https://discord.gg/mmZqz9HrKx",
+        "URL": "https://store.steampowered.com/app/4778990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4778990/3a8535f4e86554c918c49c0c78ceb1e1d6901407/header.jpg?t=1784400361",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-18",
+        "AddedTimestamp": 1784403323.6448338,
+        "MatchedTags": [
+            "turn-based tactics",
+            "tactical rpg",
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4862150": {
+        "Title": "Radiant Ruins RTS",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4862150/",
+        "Site": "https://www.playradiantruins.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4862150/eb3b3cb8c8c2a1c245595eec044e5f0cfcae9613/header.jpg?t=1784401141",
+        "Date": "2027",
+        "AddedDate": "2026-07-18",
+        "AddedTimestamp": 1784403336.3397808,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
         ]
     }
 }
