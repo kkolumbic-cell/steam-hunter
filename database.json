@@ -52481,7 +52481,7 @@
     },
     "4653910": {
         "Title": "Bone Stuff",
-        "Email": "press@kaznos.com, business@kaznos.com, support@kaznos.com, hello@kaznos.com",
+        "Email": "hello@kaznos.com, support@kaznos.com, press@kaznos.com, business@kaznos.com",
         "Discord": "https://discord.gg/nEBVkKaGsk",
         "URL": "https://store.steampowered.com/app/4653910/",
         "Site": "https://www.kaznos.com/tr",
@@ -77067,9 +77067,9 @@
         "URL": "https://store.steampowered.com/app/4800650/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4800650/85911ce927fe444ca6914c2bb56b8fdf188645d9/header.jpg?t=1780783175",
-        "Date": "Oct 7, 2026",
-        "AddedDate": "2026-07-09",
-        "AddedTimestamp": 1783613634.792274,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-18",
+        "AddedTimestamp": 1784416373.0664847,
         "MatchedTags": [
             "management",
             "economy"
@@ -107032,9 +107032,9 @@
         "URL": "https://store.steampowered.com/app/4844280/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4844280/f9f23083390a10c6c6d1b5ddaf0b252b2d3b7052/header.jpg?t=1783652875",
-        "Date": "Aug 24, 2026",
-        "AddedDate": "2026-07-10",
-        "AddedTimestamp": 1783657166.9157388,
+        "Date": "Oct 1, 2026",
+        "AddedDate": "2026-07-18",
+        "AddedTimestamp": 1784416378.7928023,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -114738,6 +114738,40 @@
         "MatchedTags": [
             "strategy",
             "tactical"
+        ]
+    },
+    "4940570": {
+        "Title": "1 HP DUNGEON",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4940570/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4940570/fcde1e8ee1f74df0885b9aa0c0d42be2270de339/header.jpg?t=1784412580",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-18",
+        "AddedTimestamp": 1784416384.7997975,
+        "MatchedTags": [
+            "tactical rpg"
+        ]
+    },
+    "4970720": {
+        "Title": "Rail Guard",
+        "Email": "info@pixelifact.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4970720/",
+        "Site": "https://pixelifact.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4970720/2c62657bf04a6e6f82b8800f270c11ff4046fbc2/header.jpg?t=1784412739",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-18",
+        "AddedTimestamp": 1784416387.08918,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "city builder",
+            "tactical",
+            "resource management",
+            "base building",
+            "management"
         ]
     }
 }
