@@ -86514,9 +86514,9 @@
         "URL": "https://store.steampowered.com/app/3002120/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3002120/3817e5825ad5c7b48c27858245a28916a0c1d1db/header.jpg?t=1781617149",
-        "Date": "Aug 21, 2026",
-        "AddedDate": "2026-07-03",
-        "AddedTimestamp": 1783076469.928938,
+        "Date": "2026",
+        "AddedDate": "2026-07-18",
+        "AddedTimestamp": 1784371324.3430314,
         "MatchedTags": [
             "tactical",
             "strategy"
@@ -102072,9 +102072,9 @@
         "URL": "https://store.steampowered.com/app/4277200/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4277200/c3b817043581b21da372db8c0b270a71a278fe9d/header.jpg?t=1783160491",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-04",
-        "AddedTimestamp": 1783160808.959381,
+        "Date": "Jul 18, 2026",
+        "AddedDate": "2026-07-18",
+        "AddedTimestamp": 1784371336.7688,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -112427,9 +112427,9 @@
         "URL": "https://store.steampowered.com/app/4916190/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4916190/68d11056938dff3c409000cb461e2b824e76a88c/header.jpg?t=1784172708",
-        "Date": "2026",
-        "AddedDate": "2026-07-16",
-        "AddedTimestamp": 1784173472.4687588,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-18",
+        "AddedTimestamp": 1784371393.0492475,
         "MatchedTags": [
             "tactical"
         ]
@@ -114626,6 +114626,36 @@
             "strategy",
             "resource management",
             "management"
+        ]
+    },
+    "4923440": {
+        "Title": "Royal Farm",
+        "Email": "",
+        "Discord": "https://discord.gg/rXyYQSVz",
+        "URL": "https://store.steampowered.com/app/4923440/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4923440/773ed2e7e5c01ef6e4d9a867650bc1e66b48a867/header.jpg?t=1784369065",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-18",
+        "AddedTimestamp": 1784371395.2821846,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4941350": {
+        "Title": "Welcome to Deathtrap!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4941350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4941350/7e55dc034d49bf44e4e99e4d89f22786ed13f491/header.jpg?t=1784369743",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-18",
+        "AddedTimestamp": 1784371410.871716,
+        "MatchedTags": [
+            "resource management"
         ]
     }
 }
