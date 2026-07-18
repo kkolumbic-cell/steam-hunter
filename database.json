@@ -22183,9 +22183,9 @@
         "URL": "https://store.steampowered.com/app/4456930/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456930/2609057bdbcb1faefd8c1c410bd027718225e68a/header.jpg?t=1775231443",
-        "Date": "July 2026",
-        "AddedDate": "2026-04-03",
-        "AddedTimestamp": 1775231775.2365177,
+        "Date": "Jul 30, 2026",
+        "AddedDate": "2026-07-18",
+        "AddedTimestamp": 1784333490.2428718,
         "MatchedTags": [
             "turn-based tactics",
             "strategy",
@@ -80741,9 +80741,9 @@
         "URL": "https://store.steampowered.com/app/4805390/",
         "Site": "https://eastbridge-games.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4805390/a800150ac145f5c35ee001fbcf4290466658bf2b/header.jpg?t=1781105427",
-        "Date": "Jul 16, 2026",
-        "AddedDate": "2026-06-23",
-        "AddedTimestamp": 1782251646.7898386,
+        "Date": "Jul 17, 2026",
+        "AddedDate": "2026-07-18",
+        "AddedTimestamp": 1784333515.4526684,
         "MatchedTags": [
             "real time tactics",
             "strategy",
@@ -113311,9 +113311,9 @@
         "URL": "https://store.steampowered.com/app/4937290/",
         "Site": "https://eattherich.gg",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4937290/2b2ad8f80438c7e6ac165b1a9f08f7828dccb245/header.jpg?t=1784230868",
-        "Date": "Jul 27, 2026",
-        "AddedDate": "2026-07-16",
-        "AddedTimestamp": 1784232922.3641846,
+        "Date": "July 2026",
+        "AddedDate": "2026-07-18",
+        "AddedTimestamp": 1784333549.3860083,
         "MatchedTags": [
             "economy",
             "strategy"
@@ -114316,6 +114316,22 @@
         "MatchedTags": [
             "horror",
             "turn-based strategy"
+        ]
+    },
+    "4933760": {
+        "Title": "Fleetfall - Galaxy Domination",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4933760/",
+        "Site": "https://fleetfall.co/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4933760/129d085540d955e4204585b05d2f6200b8270c79/header.jpg?t=1784330606",
+        "Date": "August 2026",
+        "AddedDate": "2026-07-18",
+        "AddedTimestamp": 1784333547.081944,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tactical"
         ]
     }
 }
