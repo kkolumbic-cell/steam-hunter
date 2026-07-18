@@ -80463,7 +80463,7 @@
     "3810780": {
         "Title": "Backyard Bayou",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.com/invite/Spw2wtPm3A",
         "URL": "https://store.steampowered.com/app/3810780/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810780/1d0308198e817b71124dfc271b6a10969b9c849c/header.jpg?t=1781101576",
@@ -114706,6 +114706,20 @@
             "strategy",
             "economy",
             "management"
+        ]
+    },
+    "3994460": {
+        "Title": "Drone Farmer",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3994460/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3994460/a27a503658e7d5f09dc136ba3ae247abc5c0589b/header.jpg?t=1784397201",
+        "Date": "Jun 16, 2027",
+        "AddedDate": "2026-07-18",
+        "AddedTimestamp": 1784398318.8031943,
+        "MatchedTags": [
+            "resource management"
         ]
     }
 }
