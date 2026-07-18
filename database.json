@@ -4320,6 +4320,7 @@
         "AddedDate": "2026-07-05",
         "AddedTimestamp": 1783255447.2655065,
         "MatchedTags": [
+            "strategy",
             "management",
             "economy",
             "base building"
@@ -61180,9 +61181,9 @@
         "URL": "https://store.steampowered.com/app/4608610/",
         "Site": "https://kokoa-interactive.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4608610/cc82c07b4dc32b9af245c16b66465165636fb6c3/header.jpg?t=1779283600",
-        "Date": "November 2026",
-        "AddedDate": "2026-05-20",
-        "AddedTimestamp": 1779292811.8764682,
+        "Date": "To be announced",
+        "AddedDate": "2026-07-18",
+        "AddedTimestamp": 1784376378.082253,
         "MatchedTags": [
             "strategy",
             "management",
@@ -91268,9 +91269,9 @@
         "URL": "https://store.steampowered.com/app/4457410/",
         "Site": "https://www.plummultimedia.nl/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4457410/86319e57c2d8037ca603e06bd764260c61ef476b/header.jpg?t=1782071487",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-21",
-        "AddedTimestamp": 1782072278.1373615,
+        "Date": "Aug 10, 2026",
+        "AddedDate": "2026-07-18",
+        "AddedTimestamp": 1784376369.2983115,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -114656,6 +114657,37 @@
         "AddedTimestamp": 1784371410.871716,
         "MatchedTags": [
             "resource management"
+        ]
+    },
+    "4832870": {
+        "Title": "Mowties",
+        "Email": "",
+        "Discord": "https://discord.gg/CA492AdUp",
+        "URL": "https://store.steampowered.com/app/4832870/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4832870/db1de521403166a9ee2a5eaac1c72ca9d1e3f412/header.jpg?t=1784375262",
+        "Date": "Nov 9, 2026",
+        "AddedDate": "2026-07-18",
+        "AddedTimestamp": 1784376392.3553843,
+        "MatchedTags": [
+            "strategy",
+            "economy"
+        ]
+    },
+    "4925720": {
+        "Title": "DON'T TURN AROUND",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4925720/",
+        "Site": "https://hawksstudios.dorik.io/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4925720/d91dec10e84a2e5adcab9b355a4e8ca4841ca50c/header.jpg?t=1784372659",
+        "Date": "September 2026",
+        "AddedDate": "2026-07-18",
+        "AddedTimestamp": 1784376404.8516786,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
         ]
     }
 }
