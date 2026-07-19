@@ -50196,9 +50196,9 @@
         "URL": "https://store.steampowered.com/app/4530780/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530780/571abfcdc7ba7299c7c7187fc88a4245fb7b49ce/header.jpg?t=1777951868",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-05",
-        "AddedTimestamp": 1777953144.099374,
+        "Date": "Jul 18, 2026",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784443451.0534756,
         "MatchedTags": [
             "horror"
         ]
@@ -53260,9 +53260,9 @@
         "URL": "https://store.steampowered.com/app/4661640/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4661640/e3c05596eed357a328da80db681aa7fbaad6ccc1/header.jpg?t=1778173231",
-        "Date": "Jul 16, 2026",
-        "AddedDate": "2026-07-05",
-        "AddedTimestamp": 1783268411.4510343,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784443457.4948664,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -97246,9 +97246,9 @@
         "URL": "https://store.steampowered.com/app/4062250/",
         "Site": "https://crim-ludus.firstlook.gg/invite/7eb86296-ba19-45d8-817d-1630fdbfd5b9",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4062250/3638e1bd7824c4dccaf7cc45a92794f740c24110/header.jpg?t=1782673386",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-28",
-        "AddedTimestamp": 1782679062.4660528,
+        "Date": "2027",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784443444.7774186,
         "MatchedTags": [
             "tactical rpg"
         ]
@@ -104683,7 +104683,7 @@
     },
     "4906290": {
         "Title": "Spooky Tales: Nini's Teddy",
-        "Email": "contact@blackbrainstudios.com, jeet@blackbrainstudios.com",
+        "Email": "jeet@blackbrainstudios.com, contact@blackbrainstudios.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4906290/",
         "Site": "https://blackbrainstudios.com/",
@@ -112935,9 +112935,9 @@
         "AddedDate": "2026-07-16",
         "AddedTimestamp": 1784212023.120697,
         "MatchedTags": [
-            "horror",
             "survival horror",
-            "psychological horror"
+            "psychological horror",
+            "horror"
         ]
     },
     "4927750": {
@@ -114816,6 +114816,83 @@
             "strategy",
             "turn-based strategy",
             "turn-based combat"
+        ]
+    },
+    "4919330": {
+        "Title": "Cloud Arch Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4919330/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4919330/792d1a3e182e7f75d61bd22435d8336dc61fc25b/header.jpg?t=1784434561",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784443494.7012107,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "resource management",
+            "management"
+        ]
+    },
+    "4937320": {
+        "Title": "KAREI - ENDLESS DEATH MATCH",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4937320/",
+        "Site": "https://karei.net",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4937320/988139d5e0d8bba61b171c9349802a9319a649a7/header.jpg?t=1784438956",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784443501.903381,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4961110": {
+        "Title": "NEVER TURN BACK",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4961110/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4961110/a923fc276d479b1ad8cd70587d9cc5eb192ab79c/header.jpg?t=1784441905",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784443522.3285275,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4966860": {
+        "Title": "Escape the House",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4966860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4966860/9796cbcacbab119201c2eec9dfa9c6ebaa56f616/header.jpg?t=1784436703",
+        "Date": "July 2026",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784443527.6925514,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4967600": {
+        "Title": "Gacha Challenge",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4967600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4967600/ba049766bc27cbd2154def97ac13f1d532dae0bf/header.jpg?t=1784438795",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784443530.4341977,
+        "MatchedTags": [
+            "economy",
+            "resource management"
         ]
     }
 }
