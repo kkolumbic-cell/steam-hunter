@@ -30978,9 +30978,9 @@
         "URL": "https://store.steampowered.com/app/4493270/",
         "Site": "http://www.learntechgames.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4493270/f7071a121005b5669434ade96d0feeea89204150/header.jpg?t=1776220530",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-15",
-        "AddedTimestamp": 1776224616.9219716,
+        "Date": "Jul 19, 2026",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784481494.1515815,
         "MatchedTags": [
             "strategy",
             "tactical"
@@ -54419,9 +54419,9 @@
         "URL": "https://store.steampowered.com/app/4699430/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699430/a3e392cdd23548ecc4a0e46571d602d2213cdb5a/header.jpg?t=1778291603",
-        "Date": "Jul 20, 2026",
-        "AddedDate": "2026-07-18",
-        "AddedTimestamp": 1784345761.6534157,
+        "Date": "Jul 19, 2026",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784481515.5560493,
         "MatchedTags": [
             "horror"
         ]
@@ -82186,9 +82186,9 @@
         "URL": "https://store.steampowered.com/app/4819800/",
         "Site": "https://www.rotwired.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4819800/bac06b9589f2d55cefb5b5af317529cf666c5582/header.jpg?t=1781205873",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-07-15",
-        "AddedTimestamp": 1784086756.8960996,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784481529.5574477,
         "MatchedTags": [
             "management",
             "strategy",
@@ -95803,9 +95803,9 @@
         "URL": "https://store.steampowered.com/app/4835870/",
         "Site": "https://nexthavenstudio.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4835870/03c8202589ee696a8660696c6ae94f3782cf0853/header.jpg?t=1782499469",
-        "Date": "September 2026",
-        "AddedDate": "2026-07-13",
-        "AddedTimestamp": 1783972510.1186004,
+        "Date": "October 2026",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784481536.498063,
         "MatchedTags": [
             "strategy"
         ]
@@ -107626,7 +107626,9 @@
             "strategy",
             "turn-based strategy",
             "turn-based tactics",
-            "economy"
+            "economy",
+            "management",
+            "tactical"
         ]
     },
     "4915660": {
@@ -115112,6 +115114,34 @@
         "AddedTimestamp": 1784474312.1156425,
         "MatchedTags": [
             "resource management"
+        ]
+    },
+    "4419990": {
+        "Title": "The Heroic Tale of Illumina: 0",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4419990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4419990/27d94063c2e17834f603b2961b5071b1f6d7de58/header.jpg?t=1784475027",
+        "Date": "2026",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784481485.149265,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4955880": {
+        "Title": "Pizza Man",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4955880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4955880/27a7bd50a7a9ff361c9153b6734b69495167fcd5/header.jpg?t=1784480840",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784481580.7264574,
+        "MatchedTags": [
+            "economy"
         ]
     }
 }
