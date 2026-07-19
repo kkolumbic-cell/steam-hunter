@@ -15171,9 +15171,9 @@
         "URL": "https://store.steampowered.com/app/4540090/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4540090/7ce80d0448e67bd49297cfcca7d8f860bb34b7bd/header.jpg?t=1774537993",
-        "Date": "Aug 11, 2026",
-        "AddedDate": "2026-06-20",
-        "AddedTimestamp": 1781994997.8893638,
+        "Date": "Aug 14, 2026",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784433541.172648,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -96395,9 +96395,9 @@
         "URL": "https://store.steampowered.com/app/4862920/",
         "Site": "https://halfcockedtales.com/chessferatu/market.html",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4862920/606c8e68ab97ceda07c1bef8cdbecc97be300a4b/header.jpg?t=1782535443",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-27",
-        "AddedTimestamp": 1782540355.1754239,
+        "Date": "Jul 18, 2026",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784433575.924928,
         "MatchedTags": [
             "turn-based tactics"
         ]
@@ -99140,9 +99140,9 @@
         "URL": "https://store.steampowered.com/app/4850180/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4850180/6dcc19439f1f017134bd8089edebd086061b661e/header.jpg?t=1782867943",
-        "Date": "Nov 15, 2026",
-        "AddedDate": "2026-07-17",
-        "AddedTimestamp": 1784280266.5926485,
+        "Date": "Nov 11, 2026",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784433573.6453576,
         "MatchedTags": [
             "survival horror",
             "horror"
@@ -105685,7 +105685,7 @@
     },
     "4920750": {
         "Title": "Grim Siege",
-        "Email": "hello@saqred.games, buisness@saqred.games",
+        "Email": "buisness@saqred.games, hello@saqred.games",
         "Discord": "https://discord.gg/gd2gwwxqj",
         "URL": "https://store.steampowered.com/app/4920750/",
         "Site": "https://saqred.games/",
@@ -114772,6 +114772,50 @@
             "resource management",
             "base building",
             "management"
+        ]
+    },
+    "4525560": {
+        "Title": "Garlic Ramen Shop Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4525560/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4525560/c482268a57e3612c2fa968805c62f181f95de362/header.jpg?t=1784424147",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784433536.712505,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4950160": {
+        "Title": "Nine Winters",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4950160/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4950160/79cbc541b013a4d2c8b883d260d17ba67658b79f/header.jpg?t=1784432173",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784433617.1793725,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "4967050": {
+        "Title": "SPIT OR ALIVE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4967050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4967050/78b60f63b9f735f8f4b8ae4c93bbdb4bba0a2e0c/header.jpg?t=1784432269",
+        "Date": "August 2026",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784433631.4246528,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
         ]
     }
 }
