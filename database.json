@@ -22574,12 +22574,13 @@
         "URL": "https://store.steampowered.com/app/4534000/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534000/84aee05f8d38cfa8aee95c23ceb9373050a0368a/header.jpg?t=1775307428",
-        "Date": "April 2026",
-        "AddedDate": "2026-04-04",
-        "AddedTimestamp": 1775309427.3206415,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784499041.921995,
         "MatchedTags": [
-            "tower defense",
-            "horror"
+            "strategy",
+            "resource management",
+            "tower defense"
         ]
     },
     "2310850": {
@@ -115188,6 +115189,67 @@
             "resource management",
             "turn-based combat",
             "turn-based tactics"
+        ]
+    },
+    "4525610": {
+        "Title": "Sea Of Madness",
+        "Email": "",
+        "Discord": "https://discord.gg/GTrudf5Eme",
+        "URL": "https://store.steampowered.com/app/4525610/",
+        "Site": "https://seaofmadnessgame.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525610/e26f7b466d0922e033e1abf64a1cc3d3f3389a54/header.jpg?t=1784498767",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784499039.3777668,
+        "MatchedTags": [
+            "resource management",
+            "survival horror"
+        ]
+    },
+    "4855290": {
+        "Title": "Marine",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4855290/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855290/887dab0dce8a6508c4a4f7e14c2b0dce2aef963d/header.jpg?t=1784497549",
+        "Date": "Aug 7, 2026",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784499053.052947,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "4962200": {
+        "Title": "Very Very RARE",
+        "Email": "",
+        "Discord": "https://discord.gg/5FkXvHChUr",
+        "URL": "https://store.steampowered.com/app/4962200/",
+        "Site": "https://www.nuegames.net/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4962200/26522d63b4cddda6cef4bea3f8eccfb96cccf2fe/header.jpg?t=1784498909",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784499062.9756227,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "management",
+            "resource management"
+        ]
+    },
+    "4965960": {
+        "Title": "Operation: Doomed Peter",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4965960/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965960/d68605ec8a854781dc83c07835c9d626b607db45/header.jpg?t=1784495574",
+        "Date": "Aug 3, 2026",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784499066.2658038,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
