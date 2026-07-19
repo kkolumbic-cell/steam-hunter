@@ -15562,9 +15562,9 @@
         "URL": "https://store.steampowered.com/app/3806160/",
         "Site": "http://electric-strategy.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3806160/37b49a6fab638dea098e0c72d94f8c4b932912b3/header.jpg?t=1774556473",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-03-26",
-        "AddedTimestamp": 1774558322.3152113,
+        "Date": "April 2027",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784460706.7155638,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -114654,9 +114654,9 @@
         "URL": "https://store.steampowered.com/app/4832870/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4832870/db1de521403166a9ee2a5eaac1c72ca9d1e3f412/header.jpg?t=1784375262",
-        "Date": "Nov 9, 2026",
-        "AddedDate": "2026-07-18",
-        "AddedTimestamp": 1784376392.3553843,
+        "Date": "November 2026",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784460746.7782958,
         "MatchedTags": [
             "strategy",
             "economy"
@@ -114957,6 +114957,21 @@
             "horror",
             "psychological horror",
             "survival horror"
+        ]
+    },
+    "4953530": {
+        "Title": "Couch PVP",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4953530/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4953530/f0fdfd373610e12bc0ecda415993e42e9a9d1ae4/header.jpg?t=1784453300",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784460784.6505876,
+        "MatchedTags": [
+            "resource management",
+            "real time tactics"
         ]
     }
 }
