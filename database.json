@@ -84644,8 +84644,8 @@
         "AddedDate": "2026-06-13",
         "AddedTimestamp": 1781383376.8202944,
         "MatchedTags": [
-            "strategy",
             "tower defense",
+            "strategy",
             "base building"
         ]
     },
@@ -87085,9 +87085,9 @@
         "URL": "https://store.steampowered.com/app/4552390/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4552390/4836844c9be92c0bddb8d431d2cfebd9ecae133a/header.jpg?t=1781644781",
-        "Date": "Jun 30, 2026",
-        "AddedDate": "2026-06-21",
-        "AddedTimestamp": 1782058360.1363537,
+        "Date": "Jul 19, 2026",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784489658.6315656,
         "MatchedTags": [
             "strategy"
         ]
@@ -110446,9 +110446,9 @@
         "URL": "https://store.steampowered.com/app/4773700/",
         "Site": "https://space.bilibili.com/416230514",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773700/62a44fdc11f4389e816ca94237ac71e1e303b26c/header.jpg?t=1784045378",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-07-14",
-        "AddedTimestamp": 1784050615.8792663,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784489679.5283387,
         "MatchedTags": [
             "base building",
             "strategy",
@@ -115142,6 +115142,36 @@
         "AddedTimestamp": 1784481580.7264574,
         "MatchedTags": [
             "economy"
+        ]
+    },
+    "4499710": {
+        "Title": "The Whispering Maze",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4499710/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499710/82bb0367f8da6cca10b8805557b6378036ab6e6c/header.jpg?t=1784483810",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784489652.2403245,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4916670": {
+        "Title": "The Quiet Below",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4916670/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4916670/cc6628356dea514fd0c32e22e25e9f85f53a4206/header.jpg?t=1784488702",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784489706.9388797,
+        "MatchedTags": [
+            "turn-based strategy",
+            "turn-based combat"
         ]
     }
 }
