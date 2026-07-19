@@ -30590,9 +30590,9 @@
         "URL": "https://store.steampowered.com/app/4584180/",
         "Site": "https://somnatide.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4584180/fc6870e3bc18dacfc137458fbf8af64b7feea914/header.jpg?t=1776184259",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-06-18",
-        "AddedTimestamp": 1781815234.809353,
+        "Date": "October 2026",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784474224.9270074,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -56019,9 +56019,9 @@
         "URL": "https://store.steampowered.com/app/4557080/",
         "Site": "https://cenrelliastudios.com/games/stellar-hustler",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4557080/8b82bdf999d9f0d5afa4d207bcbc79011b62df27/header.jpg?t=1778594354",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-07",
-        "AddedTimestamp": 1780857695.7691107,
+        "Date": "Jul 31, 2026",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784474218.5591993,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -88034,9 +88034,9 @@
         "URL": "https://store.steampowered.com/app/4818760/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4818760/61794c4d3ceb8e3ab32189327bc30940595d44f7/header.jpg?t=1781709352",
-        "Date": "September 2026",
-        "AddedDate": "2026-06-17",
-        "AddedTimestamp": 1781712676.7923496,
+        "Date": "Sep 4, 2026",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784474263.7646127,
         "MatchedTags": [
             "horror"
         ]
@@ -94926,9 +94926,9 @@
         "URL": "https://store.steampowered.com/app/4874860/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4874860/a49a1d192c6792241f2bd1d819fe9ac23f704867/header.jpg?t=1782422897",
-        "Date": "2026",
-        "AddedDate": "2026-07-13",
-        "AddedTimestamp": 1783955867.4128447,
+        "Date": "Jul 19, 2026",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784474279.8282902,
         "MatchedTags": [
             "base building",
             "resource management",
@@ -115021,7 +115021,7 @@
     },
     "4894670": {
         "Title": "Panic House Awakening",
-        "Email": "info@webnetic.sk, u003einfo@webnetic.sk",
+        "Email": "u003einfo@webnetic.sk, info@webnetic.sk",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4894670/",
         "Site": "https://webnetic.sk/games/panic-house-awakening",
@@ -115067,6 +115067,50 @@
             "grand strategy",
             "turn-based strategy",
             "management",
+            "resource management"
+        ]
+    },
+    "2163340": {
+        "Title": "YohohoDice",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2163340/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2163340/0d9211312504e10f1ecf068406177f7529bf996d/header.jpg?t=1784470288",
+        "Date": "Aug 2, 2026",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784474203.904264,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4858340": {
+        "Title": "IRONWAKE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4858340/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4858340/dc24d21a929227a6d43c897f3f8cb9f640e979ef/header.jpg?t=1784472522",
+        "Date": "Oct 25, 2026",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784474271.7918618,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4963980": {
+        "Title": "Kaironia",
+        "Email": "",
+        "Discord": "https://discord.gg/sUayJaUBHM",
+        "URL": "https://store.steampowered.com/app/4963980/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4963980/a77562465996dfe8b8c8773a1ee1f93e2765c5ba/header.jpg?t=1784469317",
+        "Date": "November 2026",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784474312.1156425,
+        "MatchedTags": [
             "resource management"
         ]
     }
