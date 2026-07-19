@@ -33666,9 +33666,9 @@
         "URL": "https://store.steampowered.com/app/4626300/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4626300/f624189e91c6a3a6ede98b2be455f85dbd676337/header.jpg?t=1776405627",
-        "Date": "2026",
-        "AddedDate": "2026-06-02",
-        "AddedTimestamp": 1780383674.1051385,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784452717.309297,
         "MatchedTags": [
             "strategy",
             "city builder",
@@ -61716,7 +61716,8 @@
         "AddedDate": "2026-05-21",
         "AddedTimestamp": 1779341036.1547248,
         "MatchedTags": [
-            "tactical rpg"
+            "tactical rpg",
+            "strategy"
         ]
     },
     "4736790": {
@@ -114893,6 +114894,69 @@
         "MatchedTags": [
             "economy",
             "resource management"
+        ]
+    },
+    "4781270": {
+        "Title": "Cyberdeck Shuffle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4781270/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4781270/366cc4ac0455bdfa067abbbd8a3e78a8199d2211/header.jpg?t=1784446472",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784452752.5699568,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "tactical",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4875730": {
+        "Title": "Jungle Tavern",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4875730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4875730/80f8cd8345d437e64d88290e24c312aca381f726/header.jpg?t=1784450524",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784452774.3533459,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4926770": {
+        "Title": "Guardian of soul tower",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4926770/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4926770/11fc3b4179079e7a6469aebaa9420c8c7a16633a/header.jpg?t=1784445555",
+        "Date": "Nov 4, 2026",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784452798.050562,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4934060": {
+        "Title": "Unknown Contact",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4934060/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4934060/28a3cde62c310079dfec374219fce6fa879dd9c1/header.jpg?t=1784444197",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-19",
+        "AddedTimestamp": 1784452801.3802118,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
         ]
     }
 }
