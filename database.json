@@ -56552,9 +56552,9 @@
         "URL": "https://store.steampowered.com/app/4669800/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4669800/ba7d2a3ccc0fdfa153cf5996dce6202dcfc383a7/header.jpg?t=1778627539",
-        "Date": "Aug 3, 2026",
-        "AddedDate": "2026-05-13",
-        "AddedTimestamp": 1778631312.6715052,
+        "Date": "Aug 13, 2026",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784506508.7997262,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -115250,6 +115250,23 @@
         "AddedTimestamp": 1784499066.2658038,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4876740": {
+        "Title": "Aethermoor",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4876740/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4876740/f224357d62fe614ff80b1a77334baaa8ac1263a5/header.jpg?t=1784505235",
+        "Date": "Aug 31, 2026",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784506525.6477096,
+        "MatchedTags": [
+            "turn-based tactics",
+            "turn-based strategy",
+            "strategy",
+            "tactical rpg"
         ]
     }
 }
