@@ -17701,6 +17701,7 @@
         "AddedDate": "2026-03-30",
         "AddedTimestamp": 1774879453.3732274,
         "MatchedTags": [
+            "management",
             "resource management"
         ]
     },
@@ -28828,9 +28829,9 @@
         "URL": "https://store.steampowered.com/app/4605950/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4605950/f22855be16e7e0393fbb253b59f6377bf8dd8e7f/header.jpg?t=1775978501",
-        "Date": "2026",
-        "AddedDate": "2026-06-22",
-        "AddedTimestamp": 1782150949.0750194,
+        "Date": "Jul 20, 2026",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784571757.7199233,
         "MatchedTags": [
             "tactical"
         ]
@@ -82583,7 +82584,7 @@
     "4765460": {
         "Title": "A Moon Full of Money",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/vdspJhavsm",
         "URL": "https://store.steampowered.com/app/4765460/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4765460/6b8b539f14eb5f2ab5126010c97d1bdd8983b965/header.jpg?t=1781239848",
@@ -88601,9 +88602,9 @@
         "URL": "https://store.steampowered.com/app/4770830/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4770830/a179406eb63c7b7af667b1f993ac6ae72182f250/header.jpg?t=1781753422",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-18",
-        "AddedTimestamp": 1781759228.257048,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784571809.684044,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -88679,9 +88680,9 @@
         "URL": "https://store.steampowered.com/app/4854320/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4854320/1450edcb949e77dc5d306428568d183173b94538/header.jpg?t=1781758504",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-18",
-        "AddedTimestamp": 1781759331.7712784,
+        "Date": "Jul 20, 2026",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784571841.367565,
         "MatchedTags": [
             "strategy",
             "real time tactics",
@@ -114486,9 +114487,9 @@
         "URL": "https://store.steampowered.com/app/4921890/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4921890/8dc6e0db28cd71ac4af98103c1637e869a18a710/header.jpg?t=1784352245",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-18",
-        "AddedTimestamp": 1784355691.8299682,
+        "Date": "To be announced",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784571875.2850552,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -115833,9 +115834,9 @@
         "URL": "https://store.steampowered.com/app/4953800/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4953800/da1d9d1cb7a0de2e35d1a1a1a89e569e0b044f04/header.jpg?t=1784562734",
-        "Date": "TBA",
+        "Date": "Coming soon",
         "AddedDate": "2026-07-20",
-        "AddedTimestamp": 1784563604.4434958,
+        "AddedTimestamp": 1784571896.2655983,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -115892,11 +115893,247 @@
         "URL": "https://store.steampowered.com/app/4969400/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4969400/d1d0260508557fd5c997629be6f7b4cf59d47eb6/header.jpg?t=1784560857",
-        "Date": "TBA",
+        "Date": "Coming soon",
         "AddedDate": "2026-07-20",
-        "AddedTimestamp": 1784563630.2726054,
+        "AddedTimestamp": 1784571919.7659905,
         "MatchedTags": [
             "management"
+        ]
+    },
+    "3533390": {
+        "Title": "Firefighters Code Red",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3533390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3533390/021e94ba443a09d5bba3fde720b685d832956656/header.jpg?t=1784565913",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784571697.5602434,
+        "MatchedTags": [
+            "real time tactics",
+            "tactical rpg",
+            "tactical"
+        ]
+    },
+    "4230380": {
+        "Title": "Tinker Islands",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4230380/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4230380/a7bc3bfb5ec327f472618ca15ad4145a959b4b99/header.jpg?t=1784571167",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784571706.0962582,
+        "MatchedTags": [
+            "resource management",
+            "base building"
+        ]
+    },
+    "4635350": {
+        "Title": "Wandering Dice",
+        "Email": "",
+        "Discord": "https://discord.gg/Pmv2f5V93C",
+        "URL": "https://store.steampowered.com/app/4635350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4635350/ab0e414337e102e0853c1ffe6e0dd1d085296faf/header.jpg?t=1784570866",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784571766.4686246,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "4665850": {
+        "Title": "Conked Out",
+        "Email": "conkedoutgame@gmail.com",
+        "Discord": "https://discord.gg/QbvZtfXzV3",
+        "URL": "https://store.steampowered.com/app/4665850/",
+        "Site": "https://conkedout.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4665850/f107cefcbfb98235f715364f1f88d64dd016460f/header.jpg?t=1784564525",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784571781.1366718,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4741830": {
+        "Title": "Tower Defence: Back to the roots 2",
+        "Email": "",
+        "Discord": "https://discord.gg/qv8SRUGxAY",
+        "URL": "https://store.steampowered.com/app/4741830/",
+        "Site": "https://stridgard.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4741830/45926686c4cd2311ef69e66730a909aa4fc3d423/header.jpg?t=1784564121",
+        "Date": "Aug 7, 2026",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784571790.0692604,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "base building"
+        ]
+    },
+    "4850790": {
+        "Title": "Agawan Base: Secret Technique",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4850790/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4850790/de63263d7d7c5626f19a320719d4561db21b655a/header.jpg?t=1784569110",
+        "Date": "TBA",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784571839.284239,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4881080": {
+        "Title": "Koryos : Sons Of Mars",
+        "Email": "roydou12@gmail.com",
+        "Discord": "https://discord.gg/AjmVswY6bY",
+        "URL": "https://store.steampowered.com/app/4881080/",
+        "Site": "https://cosmictwingames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4881080/533f679243cb37a1cb4d60ca9f54c416fad944fe/header.jpg?t=1784570985",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784571843.869881,
+        "MatchedTags": [
+            "grand strategy",
+            "strategy",
+            "real time tactics",
+            "tactical"
+        ]
+    },
+    "4896820": {
+        "Title": "We'll Be Fine",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4896820/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4896820/7bc7419cd241a68138d234f25e61d2ebb824b912/header.jpg?t=1784565017",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784571852.773757,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4897980": {
+        "Title": "Shark in a Suit",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4897980/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4897980/9ea8f24e7fe9b5860f408124105522cdb82ea4ff/header.jpg?t=1784570702",
+        "Date": "Aug 31, 2026",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784571855.1420627,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "grand strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4945980": {
+        "Title": "Grimoire of Blanks",
+        "Email": "",
+        "Discord": "https://discord.com/invite/eEgqz4xFwW",
+        "URL": "https://store.steampowered.com/app/4945980/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4945980/0a9bf1b2ae8c9f1b214c64ad76104608fe62f80f/header.jpg?t=1784571182",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784571886.5214088,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4946930": {
+        "Title": "Fast Charging Tycoon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4946930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4946930/c15827b0153afacb361ddd2258cf338478a84fd2/header.jpg?t=1784566075",
+        "Date": "September 2026",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784571889.3720245,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "turn-based strategy",
+            "resource management"
+        ]
+    },
+    "4953940": {
+        "Title": "2D Factory",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4953940/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4953940/655394d78550bd830915ea31776a9744eb782519/header.jpg?t=1784564628",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784571899.6361961,
+        "MatchedTags": [
+            "strategy",
+            "base building",
+            "resource management"
+        ]
+    },
+    "4964630": {
+        "Title": "Apocalypse Train",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4964630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4964630/c866cafce48c69da8f8d96c8232f6c6b36d9be84/header.jpg?t=1784568585",
+        "Date": "August 2026",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784571913.7591698,
+        "MatchedTags": [
+            "tower defense",
+            "resource management"
+        ]
+    },
+    "4968650": {
+        "Title": "Little Knight's Last Night",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4968650/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4968650/df0971f418dfad893b8d4c46e28a3d74df2a74ba/header.jpg?t=1784564734",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784571916.7394059,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4970660": {
+        "Title": "Idle Mall Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4970660/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4970660/65fc1b3e9fd607d0c42de336bc32c20b6dd09bff/header.jpg?t=1784568025",
+        "Date": "Aug 20, 2026",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784571924.3674624,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
