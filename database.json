@@ -29761,9 +29761,9 @@
     "3961090": {
         "Title": "Grommet Chod",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/XeA4FJGdUb",
         "URL": "https://store.steampowered.com/app/3961090/",
-        "Site": "",
+        "Site": "https://grommetchod.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3961090/f0412f234faade9c8872c2f3ab9aae7ed4761244/header.jpg?t=1776115859",
         "Date": "Coming soon",
         "AddedDate": "2026-04-13",
@@ -89599,8 +89599,8 @@
         "AddedDate": "2026-06-19",
         "AddedTimestamp": 1781834851.82708,
         "MatchedTags": [
-            "strategy",
-            "tower defense"
+            "tower defense",
+            "strategy"
         ]
     },
     "4534240": {
@@ -103437,9 +103437,9 @@
         "URL": "https://store.steampowered.com/app/2447090/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2447090/d31cd57a69b52e56383c3f9aeb05fa662d10eefa/header.jpg?t=1783383490",
-        "Date": "Coming soon",
+        "Date": "Jul 20, 2026",
         "AddedDate": "2026-07-20",
-        "AddedTimestamp": 1784520572.5928013,
+        "AddedTimestamp": 1784532700.5999012,
         "MatchedTags": [
             "colony sim",
             "base building",
@@ -103640,9 +103640,9 @@
         "URL": "https://store.steampowered.com/app/4910700/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4910700/314ed6a343ccc74000099c270d43ee8baa699d7c/header.jpg?t=1783400720",
-        "Date": "Jul 19, 2026",
-        "AddedDate": "2026-07-14",
-        "AddedTimestamp": 1784020885.2553575,
+        "Date": "Jul 20, 2026",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784532811.0250022,
         "MatchedTags": [
             "turn-based tactics",
             "economy",
@@ -104513,7 +104513,7 @@
     "4795030": {
         "Title": "Organized Chaos",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/UJfnYmnjx",
         "URL": "https://store.steampowered.com/app/4795030/",
         "Site": "https://organized-chaos.netlify.app",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4795030/73002119732603631f56ff76d97ac43118725c44/header.jpg?t=1783465345",
@@ -115330,6 +115330,120 @@
         "AddedTimestamp": 1784520719.3108008,
         "MatchedTags": [
             "turn-based combat"
+        ]
+    },
+    "3549030": {
+        "Title": "\u65e0\u5c3d\u5730\u4e0b\u57ce",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3549030/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3549030/d29c0058243a70b9bb0854fe6847b19f6d6a7436/header.jpg?t=1784528579",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784532706.8236063,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "management"
+        ]
+    },
+    "4886620": {
+        "Title": "Lawless",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4886620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4886620/527cc0703822965925072428129d3f56aa285693/header.jpg?t=1784531815",
+        "Date": "July 2026",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784532798.5005424,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tactical rpg",
+            "management",
+            "resource management"
+        ]
+    },
+    "4915280": {
+        "Title": "VOIDWAVE",
+        "Email": "",
+        "Discord": "https://discord.gg/KGnstjDGEq",
+        "URL": "https://store.steampowered.com/app/4915280/",
+        "Site": "https://voidwavegame.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4915280/a8f5d4652ede79f76a3dbe267eb7f7f2dac4ec30/header.jpg?t=1784531873",
+        "Date": "TBA",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784532815.3655899,
+        "MatchedTags": [
+            "tower defense",
+            "base building",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4924590": {
+        "Title": "Mumbai Chef - Junk Food Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4924590/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4924590/27eb33e232cc8ab28b2ff61dc7738e78d069e0f5/header.jpg?t=1784522961",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784532822.6602643,
+        "MatchedTags": [
+            "economy",
+            "resource management"
+        ]
+    },
+    "4939470": {
+        "Title": "Idle Fleet",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4939470/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4939470/4519b660322d262de9727c6ee5ccbba9c6b8ef10/header.jpg?t=1784531909",
+        "Date": "Aug 14, 2026",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784532830.6672993,
+        "MatchedTags": [
+            "economy",
+            "tactical",
+            "resource management"
+        ]
+    },
+    "4942770": {
+        "Title": "\u5d07\u796f\u76f4\u8058\uff1a\u660e\u672b\u5b98\u573a\u6c89\u6d6e\u6a21\u62df\u5668",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4942770/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4942770/494f5f9247dc455376a832d46092369f0d5a0e90/header.jpg?t=1784523553",
+        "Date": "September 2026",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784532833.800526,
+        "MatchedTags": [
+            "turn-based strategy",
+            "resource management",
+            "strategy",
+            "base building"
+        ]
+    },
+    "4967490": {
+        "Title": "Catalyst Core",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4967490/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4967490/4d68964e4ccc953e03b4ef8eed35c2a96ae88080/header.jpg?t=1784531098",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784532857.4360452,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
         ]
     }
 }
