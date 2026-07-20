@@ -85861,6 +85861,8 @@
         "AddedDate": "2026-06-15",
         "AddedTimestamp": 1781559036.4080284,
         "MatchedTags": [
+            "psychological horror",
+            "survival horror",
             "horror"
         ]
     },
@@ -91741,7 +91743,7 @@
     "4859700": {
         "Title": "By My Side",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/DsKVNJeK6n",
         "URL": "https://store.steampowered.com/app/4859700/",
         "Site": "https://bymyside.overlkd.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4859700/2b5918c6443b0bd7d29073aab6efe578255fa660/header.jpg?t=1782150068",
@@ -99997,9 +99999,9 @@
         "URL": "https://store.steampowered.com/app/4889030/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4889030/2e061687b0e6ee88540583129c2284544ebbaa28/header.jpg?t=1782977760",
-        "Date": "2026",
-        "AddedDate": "2026-07-02",
-        "AddedTimestamp": 1782984989.5890646,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784589563.0046802,
         "MatchedTags": [
             "management",
             "resource management"
@@ -109642,9 +109644,9 @@
         "URL": "https://store.steampowered.com/app/4937370/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4937370/9f607fd10296945efbed9b1e33f408f20794c83b/header.jpg?t=1783960025",
-        "Date": "September 2026",
-        "AddedDate": "2026-07-13",
-        "AddedTimestamp": 1783972693.9318285,
+        "Date": "2026",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784589590.654733,
         "MatchedTags": [
             "strategy"
         ]
@@ -113657,9 +113659,9 @@
         "URL": "https://store.steampowered.com/app/4805960/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4805960/92547fa28ed46dbaf8d0cb7ee96cd2169e539c6d/header.jpg?t=1784296960",
-        "Date": "Jul 29, 2026",
-        "AddedDate": "2026-07-17",
-        "AddedTimestamp": 1784297226.5765102,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784589541.316375,
         "MatchedTags": [
             "economy"
         ]
@@ -115245,9 +115247,9 @@
         "URL": "https://store.steampowered.com/app/4965960/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965960/d68605ec8a854781dc83c07835c9d626b607db45/header.jpg?t=1784495574",
-        "Date": "Aug 3, 2026",
-        "AddedDate": "2026-07-19",
-        "AddedTimestamp": 1784499066.2658038,
+        "Date": "August 2026",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784589603.9888592,
         "MatchedTags": [
             "strategy"
         ]
@@ -116503,6 +116505,53 @@
             "horror",
             "resource management",
             "management"
+        ]
+    },
+    "4784590": {
+        "Title": "TRUMPP VS ELON TYCOON",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4784590/",
+        "Site": "http://www.blackteagames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4784590/86373ef1057e7f51430d66b5ea94a96cf573611e/header.jpg?t=1784585705",
+        "Date": "Sep 15, 2026",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784589535.903757,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "city builder",
+            "grand strategy",
+            "management"
+        ]
+    },
+    "4937120": {
+        "Title": "\u30b9\u30de\u30fc\u30c8\u30d5\u30a9\u30f3",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4937120/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4937120/15ca58887242415838540a0736fd532f5d0cf365/header.jpg?t=1784589411",
+        "Date": "2026",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784589587.8209665,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4973340": {
+        "Title": "Neko Rogue",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4973340/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4973340/c764bd577cc413cd3349192c4301c7ca7bd8a907/header.jpg?t=1784586949",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784589606.0094864,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
         ]
     }
 }
