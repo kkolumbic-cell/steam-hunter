@@ -46710,9 +46710,9 @@
         "URL": "https://store.steampowered.com/app/4658490/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4658490/b272c2395e6d941d254b09298dc463eee7a42c1b/header.jpg?t=1777563001",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-30",
-        "AddedTimestamp": 1777567918.091818,
+        "Date": "To be announced",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784585673.6087966,
         "MatchedTags": [
             "strategy"
         ]
@@ -116171,9 +116171,9 @@
         "URL": "https://store.steampowered.com/app/4787460/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4787460/cd5da101b7aa43041693986ca9543e7456786e0a/header.jpg?t=1784575657",
-        "Date": "Aug 11, 2026",
+        "Date": "Coming soon",
         "AddedDate": "2026-07-20",
-        "AddedTimestamp": 1784580221.3242471,
+        "AddedTimestamp": 1784585682.8001938,
         "MatchedTags": [
             "horror",
             "strategy",
@@ -116404,6 +116404,105 @@
         "MatchedTags": [
             "psychological horror",
             "resource management"
+        ]
+    },
+    "4718450": {
+        "Title": "Aeons Odyssey",
+        "Email": "",
+        "Discord": "https://discord.gg/uXpSRWm9xG",
+        "URL": "https://store.steampowered.com/app/4718450/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4718450/c8ac73a1c8e04e720451c1bf7078f8d69cfbf8b6/header.jpg?t=1784582797",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784585680.2614226,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4935060": {
+        "Title": "FarmFriendzy",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4935060/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4935060/7593718b7a97bf478ce429738780a5911afc1a75/header.jpg?t=1784584406",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784585704.7009406,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4939710": {
+        "Title": "SYNTAX WARS",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4939710/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4939710/84ee0b2f267d847f02cbb1407ed9aef09f023562/header.jpg?t=1784582746",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784585710.6114578,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat",
+            "turn-based tactics"
+        ]
+    },
+    "4965440": {
+        "Title": "Malpractice",
+        "Email": "contact@spellboundlabs.io",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4965440/",
+        "Site": "https://spellboundlabs.io",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4965440/cba797477e28e7334b72175186a04678f847c5fe/header.jpg?t=1784584340",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784585730.190069,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror",
+            "resource management"
+        ]
+    },
+    "4970800": {
+        "Title": "Pull the Lever",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4970800/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4970800/37a5e122142a290484929939e8898bde61aea8d8/header.jpg?t=1784582921",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784585733.8249784,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4971950": {
+        "Title": "Nightfreight",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4971950/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4971950/8fca1e74441a0959fc308ccc0460489c6726f68a/header.jpg?t=1784582690",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784585736.0123706,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "horror",
+            "resource management",
+            "management"
         ]
     }
 }
