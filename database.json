@@ -14239,9 +14239,9 @@
         "URL": "https://store.steampowered.com/app/4436560/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4436560/7882b5204f02e12c5f2ecd84ae96dbe17b88e310/header.jpg?t=1774453936",
-        "Date": "2026",
-        "AddedDate": "2026-03-25",
-        "AddedTimestamp": 1774459134.8574135,
+        "Date": "Sep 1, 2026",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784553636.17351,
         "MatchedTags": [
             "economy",
             "management",
@@ -81534,9 +81534,9 @@
         "URL": "https://store.steampowered.com/app/4823390/",
         "Site": "https://www.dinomoregames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4823390/0cd8e2af04d5188ebae6b7ab40d26897f1720f37/header.jpg?t=1781168876",
-        "Date": "2026",
-        "AddedDate": "2026-06-25",
-        "AddedTimestamp": 1782388744.7007136,
+        "Date": "Sep 4, 2026",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784553685.454637,
         "MatchedTags": [
             "management"
         ]
@@ -94713,10 +94713,10 @@
         "AddedTimestamp": 1782412267.7527354,
         "MatchedTags": [
             "economy",
-            "resource management",
+            "turn-based strategy",
             "management",
-            "strategy",
-            "turn-based strategy"
+            "resource management",
+            "strategy"
         ]
     },
     "3801210": {
@@ -98894,9 +98894,9 @@
         "URL": "https://store.steampowered.com/app/4898080/",
         "Site": "https://manala.eu",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4898080/3fc4ed19e640e692b6b5cded1e5073069e869be7/header.jpg?t=1782840710",
-        "Date": "Nov 6, 2026",
-        "AddedDate": "2026-07-01",
-        "AddedTimestamp": 1782933339.708155,
+        "Date": "Nov 5, 2026",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784553707.1665447,
         "MatchedTags": [
             "turn-based combat",
             "strategy"
@@ -115629,6 +115629,84 @@
         "AddedTimestamp": 1784546352.261606,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "3911240": {
+        "Title": "Shawarma Hell",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3911240/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3911240/61c6189e4991be0bc000887202c6915f65060bc9/header.jpg?t=1784549843",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784553616.5810833,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4425040": {
+        "Title": "Tribulum",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4425040/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425040/1bcc9fe8d330273eda1efa04f711f81a0152d26d/header.jpg?t=1784551414",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784553633.1293273,
+        "MatchedTags": [
+            "horror",
+            "tactical"
+        ]
+    },
+    "4505960": {
+        "Title": "Incident Reports: Millers Residence",
+        "Email": "",
+        "Discord": "https://discord.gg/b7P6tMnZQP",
+        "URL": "https://store.steampowered.com/app/4505960/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4505960/da9b8ab31716be6c254150f4baae9221b7026808/header.jpg?t=1784551290",
+        "Date": "TBA",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784553641.3870234,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4948520": {
+        "Title": "Espetero Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4948520/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4948520/b9d37144dff084e07ed487d57b3e846892b40333/header.jpg?t=1784546489",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784553729.075111,
+        "MatchedTags": [
+            "economy",
+            "management"
+        ]
+    },
+    "4948950": {
+        "Title": "Naval Strike",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4948950/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4948950/ade0cde12bad30d46f2b67489ecc2fd47bef3871/header.jpg?t=1784552410",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-20",
+        "AddedTimestamp": 1784553733.6729598,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "turn-based combat"
         ]
     }
 }
