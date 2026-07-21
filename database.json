@@ -30964,7 +30964,7 @@
         "Email": "",
         "Discord": "https://discord.gg/BEwAdXWPDj",
         "URL": "https://store.steampowered.com/app/4368640/",
-        "Site": "",
+        "Site": "https://soda-game.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4368640/071e2de117da740e84e2ff594b964be232d7e929/header.jpg?t=1776219386",
         "Date": "Q3 2026",
         "AddedDate": "2026-07-09",
@@ -34620,7 +34620,7 @@
     },
     "4605200": {
         "Title": "Hero of the Kingdom IV",
-        "Email": "press@lonelytroops.com, business@lonelytroops.com, team@lonelytroops.com, support@lonelytroops.com",
+        "Email": "support@lonelytroops.com, press@lonelytroops.com, business@lonelytroops.com, team@lonelytroops.com",
         "Discord": "https://discord.gg/mkqF3ahHE8",
         "URL": "https://store.steampowered.com/app/4605200/",
         "Site": "https://www.lonelytroops.com/hotk4/index.htm",
@@ -63158,9 +63158,9 @@
         "URL": "https://store.steampowered.com/app/4512810/",
         "Site": "https://aresinception.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512810/c3375305ecbdcd63f7afc96ed5934c0bb4e38ec2/header.jpg?t=1779479503",
-        "Date": "2027",
-        "AddedDate": "2026-05-31",
-        "AddedTimestamp": 1780251505.567259,
+        "Date": "Q4 2027",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784652289.5165198,
         "MatchedTags": [
             "colony sim",
             "management",
@@ -78386,9 +78386,9 @@
         "URL": "https://store.steampowered.com/app/4744550/",
         "Site": "https://www.doesntmattergames.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4744550/5680caf999f3c76d849044f8acd49de38dde11b6/header.jpg?t=1780941169",
-        "Date": "To be announced",
-        "AddedDate": "2026-06-08",
-        "AddedTimestamp": 1780947609.081966,
+        "Date": "Sep 18, 2026",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784652317.8054657,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -99128,9 +99128,9 @@
         "URL": "https://store.steampowered.com/app/4790650/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4790650/813dba12dcacb5b61879b626e9b51750d4db34d3/header.jpg?t=1782867596",
-        "Date": "Jul 22, 2026",
-        "AddedDate": "2026-07-01",
-        "AddedTimestamp": 1782888501.3769016,
+        "Date": "Jul 21, 2026",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784652332.978889,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -101460,9 +101460,9 @@
         "URL": "https://store.steampowered.com/app/4894430/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4894430/23b268ca875e47ceadb97f14b7fa6f4a06a285cc/header.jpg?t=1783099418",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-07-03",
-        "AddedTimestamp": 1783101150.974472,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784652384.236417,
         "MatchedTags": [
             "horror"
         ]
@@ -102857,9 +102857,9 @@
         "URL": "https://store.steampowered.com/app/4345390/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4345390/d8765cb24b627b758b20c2acd46dc4bdb3fff0df/header.jpg?t=1783351758",
-        "Date": "Aug 7, 2026",
-        "AddedDate": "2026-07-12",
-        "AddedTimestamp": 1783864679.2467499,
+        "Date": "Aug 14, 2026",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784652258.3322194,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -110418,11 +110418,13 @@
         "URL": "https://store.steampowered.com/app/4930820/",
         "Site": "https://classwarfare-archive.livingdew.chatgpt.site/?race=human&amp;class=academy_warrior&amp;talent=muscular&amp;level=1#guide",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4930820/bb2c647ea6c1a8b5eee9c2f21a74f4c6377e91e8/header.jpg?t=1784041099",
-        "Date": "Jul 20, 2026",
-        "AddedDate": "2026-07-14",
-        "AddedTimestamp": 1784044434.9081993,
+        "Date": "Jul 21, 2026",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784652415.0554912,
         "MatchedTags": [
             "turn-based tactics",
+            "tactical rpg",
+            "turn-based strategy",
             "turn-based combat"
         ]
     },
@@ -116847,8 +116849,8 @@
         "AddedDate": "2026-07-21",
         "AddedTimestamp": 1784616161.3924835,
         "MatchedTags": [
-            "horror",
-            "turn-based tactics"
+            "turn-based tactics",
+            "horror"
         ]
     },
     "4199230": {
@@ -117370,6 +117372,177 @@
             "strategy",
             "resource management",
             "management"
+        ]
+    },
+    "1444990": {
+        "Title": "Praxion7",
+        "Email": "",
+        "Discord": "https://discord.gg/VMZD9B7M7w",
+        "URL": "https://store.steampowered.com/app/1444990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1444990/f539709a87999a3061bba62933b7b9b574e10de0/header.jpg?t=1784650947",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784652213.2077467,
+        "MatchedTags": [
+            "economy",
+            "tactical"
+        ]
+    },
+    "4197500": {
+        "Title": "Pinball Chemist",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4197500/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4197500/b2d1fcdfcdf416c33ea6c97437a18086b9b75139/header.jpg?t=1784649813",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784652240.2564561,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4354240": {
+        "Title": "Dicemaster",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4354240/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4354240/05eee9206b3b283eaea32a7fc3ca06cb93e26b86/header.jpg?t=1784648215",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784652270.18675,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4845380": {
+        "Title": "TD Fade to Dark",
+        "Email": "",
+        "Discord": "https://discord.gg/ak5zXQxR7D",
+        "URL": "https://store.steampowered.com/app/4845380/",
+        "Site": "https://16bitnights.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4845380/2841b569d5453e07b9a78ae668f1fc234c512aad/header.jpg?t=1784650264",
+        "Date": "TBA",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784652361.9718218,
+        "MatchedTags": [
+            "tower defense",
+            "base building"
+        ]
+    },
+    "4882660": {
+        "Title": "DigiDuels",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4882660/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4882660/a2b250f5392d0f52268b97b4a13521c376a68195/header.jpg?t=1784646882",
+        "Date": "Nov 2, 2026",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784652372.3607984,
+        "MatchedTags": [
+            "real time tactics",
+            "strategy",
+            "resource management",
+            "tactical"
+        ]
+    },
+    "4908610": {
+        "Title": "Core Crusher",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4908610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4908610/a996aaa7c9684fd421a512a7cdb112bbe19d494d/header.jpg?t=1784647200",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784652390.0865855,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4923090": {
+        "Title": "Rent Due",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4923090/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4923090/39dffe76c9a9759243dca119dbf2215f6e071d2f/header.jpg?t=1784644523",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784652403.5975919,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4937820": {
+        "Title": "Eternal Embrace: Lumina's Sunshine",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4937820/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4937820/1a26a30921360a700eee2b07ee8699aed2e1ceaf/header.jpg?t=1784651740",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784652425.647314,
+        "MatchedTags": [
+            "turn-based combat",
+            "tactical",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4937960": {
+        "Title": "Lasthold",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4937960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4937960/e113e7f36fab2f9ab69c869188646dc951286868/header.jpg?t=1784647668",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784652427.6172514,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "economy",
+            "tower defense"
+        ]
+    },
+    "4951290": {
+        "Title": "Oxytopia",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4951290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4951290/9925853317a27988548a518418d463f17e3f5d12/header.jpg?t=1784648153",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784652450.650407,
+        "MatchedTags": [
+            "colony sim",
+            "base building",
+            "resource management"
+        ]
+    },
+    "4961280": {
+        "Title": "Idlepunk - Ghost Link",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4961280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4961280/cab9afc662f17e0d7885e549dc63d1ecbdc1c520/header.jpg?t=1784651822",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784652467.5879347,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
