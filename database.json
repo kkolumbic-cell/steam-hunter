@@ -86846,9 +86846,9 @@
         "URL": "https://store.steampowered.com/app/4826200/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4826200/26d7ca79861dbe14348337959ca16a5cb3b75568/header.jpg?t=1781615908",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-16",
-        "AddedTimestamp": 1781631001.3512948,
+        "Date": "August 2026",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784672030.2558043,
         "MatchedTags": [
             "management",
             "economy"
@@ -96669,9 +96669,9 @@
         "URL": "https://store.steampowered.com/app/4882720/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4882720/f33637a54c34cd15b2b00f1182e371bd145ac347/header.jpg?t=1782551082",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-12",
-        "AddedTimestamp": 1783869486.2645571,
+        "Date": "Jul 21, 2026",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784672047.5462568,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -100991,9 +100991,9 @@
         "URL": "https://store.steampowered.com/app/4430810/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430810/036fdee6c8069518126d3c5fe48b0cd8e6fa1652/header.jpg?t=1783071120",
-        "Date": "Aug 21, 2026",
-        "AddedDate": "2026-07-13",
-        "AddedTimestamp": 1783955645.7619748,
+        "Date": "Aug 28, 2026",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784672004.3106756,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -108227,8 +108227,8 @@
         "AddedDate": "2026-07-11",
         "AddedTimestamp": 1783728804.848972,
         "MatchedTags": [
-            "tower defense",
             "strategy",
+            "tower defense",
             "base building",
             "tactical"
         ]
@@ -114049,9 +114049,9 @@
         "URL": "https://store.steampowered.com/app/4898790/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4898790/b9e15ab7a91d958e339fa444236ec6cc9656c351/header.jpg?t=1784311725",
-        "Date": "To be announced",
-        "AddedDate": "2026-07-17",
-        "AddedTimestamp": 1784316976.4985998,
+        "Date": "2026",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784672053.252598,
         "MatchedTags": [
             "city builder",
             "strategy"
@@ -115753,9 +115753,9 @@
         "URL": "https://store.steampowered.com/app/4780960/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4780960/cac2eba2def2ea616c24ec6d67abc5607f3d5b2e/header.jpg?t=1784554318",
-        "Date": "To be announced",
-        "AddedDate": "2026-07-20",
-        "AddedTimestamp": 1784563493.586637,
+        "Date": "2027",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784672019.6804037,
         "MatchedTags": [
             "management",
             "resource management"
@@ -117791,7 +117791,7 @@
     "4957730": {
         "Title": "Noon Saloon",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/zhF6nfVmu4",
         "URL": "https://store.steampowered.com/app/4957730/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4957730/1c8137bc830424e0215a9ed07850cf799e2df21f/header.jpg?t=1784660331",
@@ -117883,6 +117883,128 @@
             "turn-based strategy",
             "base building",
             "tactical"
+        ]
+    },
+    "1491270": {
+        "Title": "The Deep",
+        "Email": "",
+        "Discord": "https://discord.gg/beEvxRzQsX",
+        "URL": "https://store.steampowered.com/app/1491270/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1491270/7615d6b0fc133e30d54c4739998ac56dd6f8e86c/header.jpg?t=1784667524",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784671988.3427904,
+        "MatchedTags": [
+            "horror",
+            "base building"
+        ]
+    },
+    "3312070": {
+        "Title": "Tactics Mage Arena",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3312070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3312070/88c4a1b09de88499a6b2748f2110bde8dac141b9/header.jpg?t=1784670876",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784671998.6016905,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4840080": {
+        "Title": "Florana Defense",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4840080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4840080/c921f3df2143e2dacfa3a1dcbcd6e55de700d5bb/header.jpg?t=1784671010",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784672036.0060425,
+        "MatchedTags": [
+            "tower defense",
+            "strategy",
+            "tactical",
+            "base building"
+        ]
+    },
+    "4887440": {
+        "Title": "Cooking Carnage",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4887440/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4887440/86443b493a955b944325cc1fe975fc9c6481e73e/header.jpg?t=1784669531",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784672049.9026322,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4935230": {
+        "Title": "Red Glare The Reckoning",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4935230/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4935230/cbcb055fb1155eda57f77d6ad8d9ed258535a94b/header.jpg?t=1784672053",
+        "Date": "November 2026",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784672063.851729,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics"
+        ]
+    },
+    "4935330": {
+        "Title": "The Backrooms : Threshold",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4935330/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4935330/7a14551ab9d7692fb9ff25a0143056667c4ad679/header.jpg?t=1784668550",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784672066.215879,
+        "MatchedTags": [
+            "psychological horror",
+            "survival horror",
+            "horror"
+        ]
+    },
+    "4962590": {
+        "Title": "100 Hidden Relics",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4962590/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4962590/32320a544d2e8e7ded136d38545462864d9b1349/header.jpg?t=1784670655",
+        "Date": "November 2026",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784672095.5829408,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4965490": {
+        "Title": "RIFTFALL",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4965490/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4965490/db1cf4b26b69e72ef4f787a386dff7fe5939c29a/header.jpg?t=1784671897",
+        "Date": "2026",
+        "AddedDate": "2026-07-21",
+        "AddedTimestamp": 1784672097.9017372,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
