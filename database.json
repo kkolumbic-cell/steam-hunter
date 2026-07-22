@@ -27104,14 +27104,16 @@
         "URL": "https://store.steampowered.com/app/4579700/",
         "Site": "https://ritesofaccord.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4579700/5bac04d44e39910bbeaef9b30f75f8b493b0b5a7/header.jpg?t=1775807602",
-        "Date": "November 2026",
-        "AddedDate": "2026-04-25",
-        "AddedTimestamp": 1777108363.5866995,
+        "Date": "April 2027",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784758644.4730654,
         "MatchedTags": [
             "turn-based tactics",
             "turn-based strategy",
             "tactical",
-            "strategy"
+            "strategy",
+            "tactical rpg",
+            "turn-based combat"
         ]
     },
     "4599250": {
@@ -56479,9 +56481,9 @@
         "URL": "https://store.steampowered.com/app/4711570/",
         "Site": "https://taurilabs.io/sectron/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4711570/952c75871ea420e58fc4359465e28c421e945510/header.jpg?t=1778625050",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-05-14",
-        "AddedTimestamp": 1778755088.1431296,
+        "Date": "Nov 10, 2026",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784758657.6766198,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -105185,9 +105187,9 @@
         "URL": "https://store.steampowered.com/app/4910140/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4910140/7ecafc4357ffeae740a343917ba2d412cb23e9ac/header.jpg?t=1783518361",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-08",
-        "AddedTimestamp": 1783521969.562462,
+        "Date": "Jul 22, 2026",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784758705.9459033,
         "MatchedTags": [
             "strategy",
             "real time tactics",
@@ -119282,6 +119284,99 @@
         "MatchedTags": [
             "psychological horror",
             "horror"
+        ]
+    },
+    "3999520": {
+        "Title": "Dream Broadcast Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3999520/",
+        "Site": "https://dreambroadcastsimulator.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3999520/a54bbc20527f45e544c3458bfeeecd9f4317ed78/header.jpg?t=1784752803",
+        "Date": "Aug 3, 2026",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784758630.3899665,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "turn-based strategy"
+        ]
+    },
+    "4091390": {
+        "Title": "MITO",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4091390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4091390/1df1ec8ade9477aec418a88194a64e6a3da955d9/header.jpg?t=1784754954",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784758633.4604201,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror",
+            "resource management"
+        ]
+    },
+    "4954660": {
+        "Title": "ALPARGUN",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4954660/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4954660/d41ba7aa5d65219d66da4609f1e3f8ccf26d0e3d/header.jpg?t=1784753330",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784758728.5599215,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4954690": {
+        "Title": "Marginalia",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4954690/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4954690/cfdd68902e42b131e3ce59efa9fae8168a1d5823/header.jpg?t=1784756821",
+        "Date": "2027",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784758731.7325478,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg",
+            "turn-based tactics"
+        ]
+    },
+    "4965760": {
+        "Title": "SCARVOID",
+        "Email": "contact@scarvoid.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4965760/",
+        "Site": "https://www.scarvoid.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4965760/3fc6e756172c283e82e84242e95532561081f182/header.jpg?t=1784754637",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784758742.6965575,
+        "MatchedTags": [
+            "tactical",
+            "strategy"
+        ]
+    },
+    "4981150": {
+        "Title": "HOT POT FOR THE DEAD | \u51a5\u5a5a\u706b\u934b\u5e97",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4981150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4981150/712063c6e85553a33990f867b9a609cb4ab71636/header.jpg?t=1784752476",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784758754.0951548,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
