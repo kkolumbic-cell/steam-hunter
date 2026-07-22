@@ -16148,9 +16148,9 @@
         "AddedTimestamp": 1775495324.6935914,
         "MatchedTags": [
             "survival horror",
+            "resource management",
             "horror",
-            "psychological horror",
-            "management"
+            "psychological horror"
         ]
     },
     "4388620": {
@@ -56237,9 +56237,9 @@
         "URL": "https://store.steampowered.com/app/4598280/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4598280/e16cab8b583bf0767bd876c17b068a2f27f033b8/header.jpg?t=1778604472",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-12",
-        "AddedTimestamp": 1778613278.6544516,
+        "Date": "To be announced",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784702667.2014303,
         "MatchedTags": [
             "strategy"
         ]
@@ -80970,11 +80970,11 @@
         "AddedDate": "2026-06-10",
         "AddedTimestamp": 1781124555.302875,
         "MatchedTags": [
-            "base building",
             "resource management",
             "management",
-            "economy",
-            "strategy"
+            "base building",
+            "strategy",
+            "economy"
         ]
     },
     "4820860": {
@@ -118304,6 +118304,81 @@
         "AddedTimestamp": 1784692444.8480597,
         "MatchedTags": [
             "psychological horror"
+        ]
+    },
+    "4659560": {
+        "Title": "\u5929\u4ed9\u6708",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4659560/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4659560/0c9bafba0f5444d7bb928441f1203fc40749c1e4/header.jpg?t=1784698488",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784702672.4038672,
+        "MatchedTags": [
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4938550": {
+        "Title": "Goldhaven",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4938550/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4938550/a6be91362386d943959b17abebc10738774e5923/header.jpg?t=1784698452",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784702727.9995472,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "economy"
+        ]
+    },
+    "4939110": {
+        "Title": "Chaos Cinema",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4939110/",
+        "Site": "https://www.dexsolutions-games.eu/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4939110/bd001deb590602785b549784c4779c70d8ef960f/header.jpg?t=1784700796",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784702730.2559047,
+        "MatchedTags": [
+            "management",
+            "economy"
+        ]
+    },
+    "4948860": {
+        "Title": "Incredibounce",
+        "Email": "",
+        "Discord": "https://discord.gg/wtXr2r79de",
+        "URL": "https://store.steampowered.com/app/4948860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4948860/a7c499afec560b3f81f971fe4e7ca1254b441ea0/header.jpg?t=1784695700",
+        "Date": "Nov 10, 2026",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784702740.528687,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4952310": {
+        "Title": "Memento: What You Forgot",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4952310/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4952310/27e83bd983be246803c18071a64adbc166d29437/header.jpg?t=1784698063",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784702750.1123693,
+        "MatchedTags": [
+            "tactical rpg",
+            "turn-based combat"
         ]
     }
 }
