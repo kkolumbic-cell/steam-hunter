@@ -35426,9 +35426,9 @@
         "URL": "https://store.steampowered.com/app/4609540/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4609540/f30644d0302bb328518b81643da959b9146ce45f/header.jpg?t=1776679704",
-        "Date": "Aug 7, 2026",
-        "AddedDate": "2026-06-15",
-        "AddedTimestamp": 1781501539.8042796,
+        "Date": "Sep 11, 2026",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784730276.816677,
         "MatchedTags": [
             "strategy",
             "economy",
@@ -38083,9 +38083,9 @@
         "URL": "https://store.steampowered.com/app/4600970/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4600970/cb4601dcb97878f8c02f5bd67bc54c3848a01de8/header.jpg?t=1776871181",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-22",
-        "AddedTimestamp": 1776872617.7423012,
+        "Date": "2027",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784730271.2429678,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -77061,7 +77061,8 @@
         "AddedDate": "2026-07-22",
         "AddedTimestamp": 1784721938.8506784,
         "MatchedTags": [
-            "resource management"
+            "resource management",
+            "city builder"
         ]
     },
     "4800650": {
@@ -99197,7 +99198,7 @@
     "4886540": {
         "Title": "Rookspell",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/x7jjXqrKDW",
         "URL": "https://store.steampowered.com/app/4886540/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4886540/b1d3ada9bdbfa0b8ca5001c0eb0d3139e6d3c5cc/header.jpg?t=1782865892",
@@ -107401,7 +107402,7 @@
     "3239850": {
         "Title": "Culture Warz: Tactics",
         "Email": "support@rearadmiralgames.com",
-        "Discord": "",
+        "Discord": "https://discord.gg/T7cb79Fk8",
         "URL": "https://store.steampowered.com/app/3239850/",
         "Site": "https://rearadmiralgames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3239850/8ff3e252372d60a145671e4fa95a96e284c0ebe2/header.jpg?t=1783692163",
@@ -117117,9 +117118,9 @@
         "URL": "https://store.steampowered.com/app/4968000/",
         "Site": "https://orcsagain.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4968000/0e1e7e51fcc31a5cb78368e431547bea065603f2/header.jpg?t=1784624023",
-        "Date": "TBA",
-        "AddedDate": "2026-07-21",
-        "AddedTimestamp": 1784627154.6727479,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784730420.1038969,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -118512,6 +118513,231 @@
         "AddedTimestamp": 1784722006.47576,
         "MatchedTags": [
             "turn-based combat",
+            "strategy"
+        ]
+    },
+    "3037500": {
+        "Title": "The Steeple",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3037500/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3037500/d1e8ce4504834eca4b7edbea72ade909c93524f0/header.jpg?t=1784730021",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784730225.2629547,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4799930": {
+        "Title": "Campfire Battles",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4799930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4799930/8438db15b8cff90247d9cd21a98f11fb9591509d/header.jpg?t=1784727431",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784730310.5154493,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "tactical"
+        ]
+    },
+    "4894570": {
+        "Title": "[ABERRATION] Yes,Jerry!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4894570/",
+        "Site": "https://feiginentertainment.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4894570/afc28a4b5f689588297e2aedc26e03b454721a4a/header.jpg?t=1784728096",
+        "Date": "July 2026",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784730347.4731896,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4917350": {
+        "Title": "Blackbriar Crypt",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4917350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4917350/41f54172e313a0b4be8483cf834a3bf888eff417/header.jpg?t=1784723147",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784730362.2339485,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "turn-based combat",
+            "tactical",
+            "management"
+        ]
+    },
+    "4927930": {
+        "Title": "\u6a02\u5712\u9918\u71fc",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4927930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4927930/ebea497c77866410cfb1f42aebdd869872397100/header.jpg?t=1784726869",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784730370.711793,
+        "MatchedTags": [
+            "turn-based strategy",
+            "tactical rpg",
+            "strategy",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4932400": {
+        "Title": "Meet Sudoku",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4932400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4932400/ee2bc7257feb6d8c173f3c9382d3fdee5a6a7a33/header.jpg?t=1784727206",
+        "Date": "July 2026",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784730375.1753871,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4953880": {
+        "Title": "Willcaster",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4953880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4953880/38143160d97c424a1d97b2f4dae1e53d6a404b1c/header.jpg?t=1784729548",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784730400.7082407,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "tactical rpg"
+        ]
+    },
+    "4960910": {
+        "Title": "Pinebrook Ski Resort",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4960910/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4960910/54aa663437199e147bbb880fce7e1ca44efa5604/header.jpg?t=1784728568",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784730405.3982468,
+        "MatchedTags": [
+            "city builder",
+            "colony sim",
+            "management",
+            "base building",
+            "resource management",
+            "economy"
+        ]
+    },
+    "4964810": {
+        "Title": "Minerooms",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4964810/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4964810/e81f7d2f401503e0cff7f9cc10b497cf206adf95/header.jpg?t=1784729332",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784730414.4087176,
+        "MatchedTags": [
+            "psychological horror",
+            "resource management"
+        ]
+    },
+    "4969050": {
+        "Title": "The Smiling Flesh",
+        "Email": "",
+        "Discord": "https://discord.com/invite/AhvAHWSaSX",
+        "URL": "https://store.steampowered.com/app/4969050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4969050/0089a01c779dddf3465a59374f364cb3da497da1/header.jpg?t=1784724985",
+        "Date": "Aug 30, 2026",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784730423.6868012,
+        "MatchedTags": [
+            "survival horror",
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4970310": {
+        "Title": "Tides of Empires",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4970310/",
+        "Site": "https://atomicpixelgames.itch.io/tides-of-empires",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4970310/eec496ba592b71391d6f78fa0ce3efef0674ce78/header.jpg?t=1784724561",
+        "Date": "Nov 10, 2026",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784730426.4682112,
+        "MatchedTags": [
+            "tower defense",
+            "strategy",
+            "tactical",
+            "base building",
+            "real time tactics"
+        ]
+    },
+    "4972870": {
+        "Title": "Tanks",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4972870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4972870/d85e63f412de4a2c51d4ec8a84e6eca75d7df439/header.jpg?t=1784725991",
+        "Date": "Oct 1, 2026",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784730430.8227367,
+        "MatchedTags": [
+            "turn-based strategy",
+            "turn-based tactics",
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "4980100": {
+        "Title": "Slayer Queen",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4980100/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4980100/e40c56b587f7ab2136899899bab641636ac73968/header.jpg?t=1784727407",
+        "Date": "September 2026",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784730443.0822513,
+        "MatchedTags": [
+            "tower defense"
+        ]
+    },
+    "4981280": {
+        "Title": "The Hunt for the Lich King",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4981280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4981280/23b64ddf0429f060e3a361b0080fa926f994ddb9/header.jpg?t=1784729798",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-22",
+        "AddedTimestamp": 1784730444.9757679,
+        "MatchedTags": [
             "strategy"
         ]
     }
