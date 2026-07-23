@@ -12208,7 +12208,8 @@
             "strategy",
             "turn-based tactics",
             "tactical",
-            "turn-based combat"
+            "turn-based combat",
+            "turn-based strategy"
         ]
     },
     "4521690": {
@@ -19893,9 +19894,9 @@
         "URL": "https://store.steampowered.com/app/4240080/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4240080/24ca910c1e608864e41eca14854a7e5401534ddf/header.jpg?t=1775052032",
-        "Date": "August 2026",
-        "AddedDate": "2026-06-16",
-        "AddedTimestamp": 1781609821.4436414,
+        "Date": "Aug 6, 2026",
+        "AddedDate": "2026-07-23",
+        "AddedTimestamp": 1784817261.0310373,
         "MatchedTags": [
             "psychological horror",
             "strategy"
@@ -61833,9 +61834,9 @@
         "URL": "https://store.steampowered.com/app/4553370/",
         "Site": "https://www.maboroshiartworks.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4553370/7ed7b71347ff7c568456fdea0afb29c92c2ec6b5/header.jpg?t=1779356961",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-21",
-        "AddedTimestamp": 1779357915.103396,
+        "Date": "Dec 3, 2026",
+        "AddedDate": "2026-07-23",
+        "AddedTimestamp": 1784817289.6927578,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -62150,9 +62151,9 @@
         "URL": "https://store.steampowered.com/app/4579850/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4579850/3f0172bec1fe4c464f0463ef171b7183459f547b/header.jpg?t=1779371989",
-        "Date": "July 2026",
-        "AddedDate": "2026-05-21",
-        "AddedTimestamp": 1779382304.6793492,
+        "Date": "Jul 23, 2026",
+        "AddedDate": "2026-07-23",
+        "AddedTimestamp": 1784817292.6531394,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -72738,9 +72739,9 @@
         "URL": "https://store.steampowered.com/app/4749450/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4749450/9c8f868ca76b3b7665231af8cef1a8304a62fc7a/header.jpg?t=1780440317",
-        "Date": "Aug 11, 2026",
-        "AddedDate": "2026-07-12",
-        "AddedTimestamp": 1783864730.384907,
+        "Date": "Aug 18, 2026",
+        "AddedDate": "2026-07-23",
+        "AddedTimestamp": 1784817322.290578,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -83357,9 +83358,9 @@
         "URL": "https://store.steampowered.com/app/4789040/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4789040/11a3b138c2be8b36c1f537341e7410f6244fcdea/header.jpg?t=1781280531",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-19",
-        "AddedTimestamp": 1781871752.848043,
+        "Date": "Nov 12, 2026",
+        "AddedDate": "2026-07-23",
+        "AddedTimestamp": 1784817334.317069,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -106045,9 +106046,9 @@
         "URL": "https://store.steampowered.com/app/4823780/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4823780/06d23b08b8aeec1e67a6fbe291d9a273ec693fd5/header.jpg?t=1783561590",
-        "Date": "Aug 21, 2026",
-        "AddedDate": "2026-07-09",
-        "AddedTimestamp": 1783574374.4979165,
+        "Date": "Jul 23, 2026",
+        "AddedDate": "2026-07-23",
+        "AddedTimestamp": 1784817343.4686825,
         "MatchedTags": [
             "strategy"
         ]
@@ -114049,9 +114050,9 @@
         "URL": "https://store.steampowered.com/app/4898790/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4898790/b9e15ab7a91d958e339fa444236ec6cc9656c351/header.jpg?t=1784311725",
-        "Date": "August 2026",
+        "Date": "Aug 10, 2026",
         "AddedDate": "2026-07-23",
-        "AddedTimestamp": 1784799631.905353,
+        "AddedTimestamp": 1784817382.092575,
         "MatchedTags": [
             "city builder",
             "strategy"
@@ -119848,6 +119849,126 @@
         "AddedTimestamp": 1784808397.4723787,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4466060": {
+        "Title": "The Patchwork Ship",
+        "Email": "jon@nullband.games",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4466060/",
+        "Site": "https://nullband.games",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4466060/ff50ee953183f6fd342dcfe04bc2c2699380f4a7/header.jpg?t=1784816934",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-23",
+        "AddedTimestamp": 1784817275.873068,
+        "MatchedTags": [
+            "turn-based tactics",
+            "tactical",
+            "turn-based combat"
+        ]
+    },
+    "4939200": {
+        "Title": "Shadows in Sanluca",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4939200/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4939200/098705e61de811f4b6b44c215a0246039ce236a6/header.jpg?t=1784812538",
+        "Date": "August 2026",
+        "AddedDate": "2026-07-23",
+        "AddedTimestamp": 1784817404.774063,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4944710": {
+        "Title": "Untold Memories: Obsession",
+        "Email": "",
+        "Discord": "https://discord.gg/xy5tVV6Aze",
+        "URL": "https://store.steampowered.com/app/4944710/",
+        "Site": "https://www.tyrosinegames.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4944710/ad84513d4013404fcc47527a33f6efbd0c0bf1e3/header.jpg?t=1784809453",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-23",
+        "AddedTimestamp": 1784817411.567689,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4950880": {
+        "Title": "Legend of Deepshade: The Shattered Seal",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4950880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4950880/ea50fb9db019a12cf209d0d7d9b4627540fafdfd/header.jpg?t=1784811786",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-23",
+        "AddedTimestamp": 1784817418.7695394,
+        "MatchedTags": [
+            "turn-based combat",
+            "turn-based tactics"
+        ]
+    },
+    "4963160": {
+        "Title": "ALONE: NO SIGNAL",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4963160/",
+        "Site": "https://zvpw.net",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4963160/119c83d3041b866dcc0561a66be9ee3513e3fea1/header.jpg?t=1784811106",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-23",
+        "AddedTimestamp": 1784817437.9995842,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4969230": {
+        "Title": "Aquaculture Simulator",
+        "Email": "",
+        "Discord": "https://discord.gg/DTyqfwJJt",
+        "URL": "https://store.steampowered.com/app/4969230/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4969230/71ed0a0764b001f4800db76844e2f24814f90602/header.jpg?t=1784816338",
+        "Date": "2026",
+        "AddedDate": "2026-07-23",
+        "AddedTimestamp": 1784817443.357468,
+        "MatchedTags": [
+            "management",
+            "strategy",
+            "economy"
+        ]
+    },
+    "4983330": {
+        "Title": "Lurks Beneath",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4983330/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4983330/153157b3acb2a1bfa1dcccdd0469a6991165982e/header.jpg?t=1784812151",
+        "Date": "Jan 12, 2027",
+        "AddedDate": "2026-07-23",
+        "AddedTimestamp": 1784817458.745493,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4987510": {
+        "Title": "Swiperin",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4987510/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4987510/51db827d7116d3efbc413d938eb8989217d2d08f/header.jpg?t=1784811410",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-23",
+        "AddedTimestamp": 1784817466.92626,
+        "MatchedTags": [
+            "resource management",
+            "turn-based combat"
         ]
     }
 }
