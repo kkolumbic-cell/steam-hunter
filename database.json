@@ -70150,9 +70150,9 @@
         "URL": "https://store.steampowered.com/app/4761360/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4761360/eb6384fdbbe85f75a8eafef6ad4517014cee8a4b/header.jpg?t=1780261622",
-        "Date": "Aug 18, 2026",
-        "AddedDate": "2026-07-10",
-        "AddedTimestamp": 1783716337.6546526,
+        "Date": "Aug 25, 2026",
+        "AddedDate": "2026-07-23",
+        "AddedTimestamp": 1784845036.584641,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -92096,7 +92096,7 @@
     "4724230": {
         "Title": "ZeroEco",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/du4G9Xemxu",
         "URL": "https://store.steampowered.com/app/4724230/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4724230/48a7e14ceee83bbce07848d15555d0c01689ae45/header.jpg?t=1782173797",
@@ -97313,9 +97313,9 @@
         "URL": "https://store.steampowered.com/app/4884440/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4884440/50e58b1fab8ed93ea2e2e57438188a9d1466a709/header.jpg?t=1782681547",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-28",
-        "AddedTimestamp": 1782685034.5461824,
+        "Date": "Jul 23, 2026",
+        "AddedDate": "2026-07-23",
+        "AddedTimestamp": 1784845050.157317,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -106681,9 +106681,9 @@
         "URL": "https://store.steampowered.com/app/4916900/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4916900/312a9d354623a7a85ad5ff2ccafa0fc7192e023e/header.jpg?t=1783618409",
-        "Date": "2027",
-        "AddedDate": "2026-07-09",
-        "AddedTimestamp": 1783620915.2998748,
+        "Date": "Jul 23, 2026",
+        "AddedDate": "2026-07-23",
+        "AddedTimestamp": 1784845063.3747542,
         "MatchedTags": [
             "strategy",
             "management"
@@ -107378,9 +107378,9 @@
         "URL": "https://store.steampowered.com/app/4927530/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4927530/b682a951bd43c5bba3a66be556678baa5444a23d/header.jpg?t=1783681214",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-10",
-        "AddedTimestamp": 1783685605.9215906,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-23",
+        "AddedTimestamp": 1784845066.2171369,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -120387,9 +120387,9 @@
         "URL": "https://store.steampowered.com/app/4960460/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4960460/32e5f72bd299455cf83e02fbc02683e3c2fe151b/header.jpg?t=1784837178",
-        "Date": "Aug 14, 2026",
+        "Date": "Aug 6, 2026",
         "AddedDate": "2026-07-23",
-        "AddedTimestamp": 1784838870.9678817,
+        "AddedTimestamp": 1784845080.9347382,
         "MatchedTags": [
             "strategy",
             "real time tactics",
@@ -120486,6 +120486,72 @@
         "MatchedTags": [
             "psychological horror",
             "horror"
+        ]
+    },
+    "4909810": {
+        "Title": "Spirefall",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4909810/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4909810/0a0448440d6824f434acf131a5f47d6296e252d6/header.jpg?t=1784839168",
+        "Date": "2027",
+        "AddedDate": "2026-07-23",
+        "AddedTimestamp": 1784845055.269932,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "4954150": {
+        "Title": "Flotsam Front",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4954150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4954150/731423b1fb068af9f008c664407c1c8ea8a09958/header.jpg?t=1784844758",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-23",
+        "AddedTimestamp": 1784845074.8357193,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management",
+            "tactical",
+            "base building"
+        ]
+    },
+    "4981390": {
+        "Title": "Mortal & Dao",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4981390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4981390/d90481dd41d93eb11430bb589cc2e224e4681576/header.jpg?t=1784844339",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-23",
+        "AddedTimestamp": 1784845100.3920763,
+        "MatchedTags": [
+            "turn-based combat",
+            "base building"
+        ]
+    },
+    "4989070": {
+        "Title": "Chaos Chess",
+        "Email": "",
+        "Discord": "https://discord.gg/VY644hskRB",
+        "URL": "https://store.steampowered.com/app/4989070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4989070/3b5ec5d08e45edc1433fa899b9e17261cfb1d2c8/header.jpg?t=1784844867",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-07-23",
+        "AddedTimestamp": 1784845109.0634964,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical"
         ]
     }
 }
