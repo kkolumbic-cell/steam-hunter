@@ -9828,8 +9828,7 @@
             "management",
             "economy",
             "base building",
-            "resource management",
-            "colony sim"
+            "resource management"
         ]
     },
     "4446010": {
@@ -17972,8 +17971,7 @@
         "AddedDate": "2026-07-21",
         "AddedTimestamp": 1784643936.9858112,
         "MatchedTags": [
-            "horror",
-            "survival horror"
+            "horror"
         ]
     },
     "4556450": {
@@ -27144,6 +27142,7 @@
         "AddedTimestamp": 1775814006.7987869,
         "MatchedTags": [
             "strategy",
+            "turn-based combat",
             "tactical"
         ]
     },
@@ -29177,9 +29176,9 @@
         "URL": "https://store.steampowered.com/app/4075620/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4075620/45fef0f08092f3b12d2388fbee107f7dbaa4a3ef/header.jpg?t=1776087176",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-13",
-        "AddedTimestamp": 1776089417.2986393,
+        "Date": "Aug 24, 2026",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784894203.2487717,
         "MatchedTags": [
             "strategy",
             "city builder",
@@ -35099,7 +35098,7 @@
     },
     "4496260": {
         "Title": "Data Trader",
-        "Email": "press@kineticsparks.games, support@kineticsparks.games, business@kineticsparks.games",
+        "Email": "business@kineticsparks.games, press@kineticsparks.games, support@kineticsparks.games",
         "Discord": "https://discord.gg/9ev5HFCBmx",
         "URL": "https://store.steampowered.com/app/4496260/",
         "Site": "https://www.kineticsparks.games/",
@@ -40291,9 +40290,9 @@
         "URL": "https://store.steampowered.com/app/4407370/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4407370/5cb968b58f3bedc5646e7f27dc1d460a2bef7abc/header.jpg?t=1777015435",
-        "Date": "September 2026",
-        "AddedDate": "2026-06-15",
-        "AddedTimestamp": 1781527554.1843493,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784894218.4539363,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -43625,13 +43624,14 @@
         "URL": "https://store.steampowered.com/app/4482350/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4482350/573dfd71a611a746afb2929dc14946ec05580330/header.jpg?t=1777337872",
-        "Date": "2026",
-        "AddedDate": "2026-04-28",
-        "AddedTimestamp": 1777418017.921743,
+        "Date": "August 2026",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784894225.2125297,
         "MatchedTags": [
-            "turn-based tactics",
             "turn-based strategy",
-            "strategy"
+            "strategy",
+            "turn-based tactics",
+            "tactical"
         ]
     },
     "4542390": {
@@ -89595,7 +89595,7 @@
     "4395580": {
         "Title": "Nightgate Defense",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/Qg4GkZ79Wv",
         "URL": "https://store.steampowered.com/app/4395580/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4395580/e09838f2aff4079f419b358b5dafcfae682f7da8/header.jpg?t=1781825602",
@@ -104035,9 +104035,9 @@
         "URL": "https://store.steampowered.com/app/4916780/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4916780/9d7f14ba8566c97fe587e33d0e96f0d688ec2612/header.jpg?t=1783434633",
-        "Date": "Jul 24, 2026",
-        "AddedDate": "2026-07-07",
-        "AddedTimestamp": 1783437619.1350799,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784894301.3459084,
         "MatchedTags": [
             "economy",
             "base building"
@@ -109844,7 +109844,7 @@
     },
     "4876820": {
         "Title": "Joint Venture: Prison Commissary Simulator",
-        "Email": "",
+        "Email": "hey@corsgames.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4876820/",
         "Site": "https://corsgames.com",
@@ -118862,11 +118862,11 @@
         "AddedDate": "2026-07-22",
         "AddedTimestamp": 1784739160.9792264,
         "MatchedTags": [
-            "tower defense",
             "strategy",
+            "tower defense",
             "management",
-            "economy",
-            "resource management"
+            "resource management",
+            "economy"
         ]
     },
     "4917530": {
@@ -119889,9 +119889,9 @@
         "URL": "https://store.steampowered.com/app/4950880/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4950880/ea50fb9db019a12cf209d0d7d9b4627540fafdfd/header.jpg?t=1784811786",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-23",
-        "AddedTimestamp": 1784817418.7695394,
+        "Date": "Aug 6, 2026",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784894317.6723833,
         "MatchedTags": [
             "turn-based combat",
             "turn-based tactics"
@@ -121089,6 +121089,65 @@
             "psychological horror",
             "horror",
             "survival horror"
+        ]
+    },
+    "4842760": {
+        "Title": "Function Maze",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4842760/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4842760/d971a0d02645f8aa48cc0a95523d1dd7a74a5c38/header.jpg?t=1784891088",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784894279.5701232,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4901580": {
+        "Title": "Staircore",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4901580/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4901580/ff2eb459276ee2e574926ca7748fa5a35bcde750/header.jpg?t=1784889948",
+        "Date": "2026",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784894293.7470686,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4964740": {
+        "Title": "The Long Night",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4964740/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4964740/c9dcf05d550f6f5b2eeb29a764335495126f0940/header.jpg?t=1784886004",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784894324.2536,
+        "MatchedTags": [
+            "strategy",
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4991240": {
+        "Title": "Witch Cabin Cleanup",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4991240/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991240/599bdb26528be2cbb987e6c985d8ecaf61ca4012/header.jpg?t=1784892191",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784894339.869987,
+        "MatchedTags": [
+            "resource management"
         ]
     }
 }
