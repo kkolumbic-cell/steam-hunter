@@ -30264,9 +30264,9 @@
         "URL": "https://store.steampowered.com/app/4572730/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4572730/00c07be67dec325a67aa4118dc4de3b27404be5e/header.jpg?t=1776175098",
-        "Date": "May 8, 2026",
-        "AddedDate": "2026-04-16",
-        "AddedTimestamp": 1776358293.8278391,
+        "Date": "Jul 24, 2026",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784935085.043028,
         "MatchedTags": [
             "economy",
             "strategy",
@@ -65279,11 +65279,11 @@
         "Email": "",
         "Discord": "https://discord.gg/27hGBxcvuC",
         "URL": "https://store.steampowered.com/app/1334390/",
-        "Site": "",
+        "Site": "https://deckalypse.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1334390/665fbb5cd749fd9a095e5cc1f2345b6aec45eb11/header.jpg?t=1779817095",
-        "Date": "February 2027",
-        "AddedDate": "2026-07-01",
-        "AddedTimestamp": 1782869618.9326823,
+        "Date": "Aug 20, 2026",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784935061.9617257,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -108047,9 +108047,9 @@
         "URL": "https://store.steampowered.com/app/4913930/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4913930/373d7de4810b16c4661317eebd7b720fdaa7639e/header.jpg?t=1783721763",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-10",
-        "AddedTimestamp": 1783721984.400425,
+        "Date": "Jul 24, 2026",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784935120.3981113,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -115874,9 +115874,9 @@
         "URL": "https://store.steampowered.com/app/4959250/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4959250/a671a33048e4ef81cbaf470c08831e47b41ead8b/header.jpg?t=1784561413",
-        "Date": "TBA",
-        "AddedDate": "2026-07-20",
-        "AddedTimestamp": 1784563611.915263,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784935136.2331214,
         "MatchedTags": [
             "resource management"
         ]
@@ -117076,9 +117076,9 @@
         "URL": "https://store.steampowered.com/app/4952050/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4952050/c6a42275834fc1c3d52b31582477571fc899360b/header.jpg?t=1784624850",
-        "Date": "To be announced",
-        "AddedDate": "2026-07-21",
-        "AddedTimestamp": 1784627138.4863126,
+        "Date": "September 2026",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784935134.0279014,
         "MatchedTags": [
             "horror"
         ]
@@ -117527,9 +117527,9 @@
         "URL": "https://store.steampowered.com/app/4961280/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4961280/cab9afc662f17e0d7885e549dc63d1ecbdc1c520/header.jpg?t=1784651822",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-21",
-        "AddedTimestamp": 1784666425.9801507,
+        "Date": "Aug 4, 2026",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784935138.9734972,
         "MatchedTags": [
             "strategy"
         ]
@@ -121726,6 +121726,54 @@
         "MatchedTags": [
             "strategy",
             "horror"
+        ]
+    },
+    "3900570": {
+        "Title": "Black Stars - The M87 Conflict",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3900570/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3900570/cd8682848f5e757a986403cf1f3bf07cb60380ca/header.jpg?t=1784931760",
+        "Date": "August 2027",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784935071.048362,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4149010": {
+        "Title": "Doubtbound",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4149010/",
+        "Site": "https://linktr.ee/doubtbound",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4149010/8cb65c615892dc6c7a6013423fe34e2ea5792e7e/header.jpg?t=1784930527",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784935073.670217,
+        "MatchedTags": [
+            "turn-based combat",
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4903720": {
+        "Title": "Time Stop Tower Defense",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4903720/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4903720/3d5d2aff8bcfc83b7483542eb8eaa05c33b6e02f/header.jpg?t=1784932014",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784935118.2222998,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "tactical",
+            "real time tactics"
         ]
     }
 }
