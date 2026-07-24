@@ -18641,11 +18641,12 @@
         "URL": "https://store.steampowered.com/app/4142130/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4142130/96c8ae83c5903cd6d0db18d42aea4cecf675f470/header.jpg?t=1774941524",
-        "Date": "September 2026",
-        "AddedDate": "2026-07-14",
-        "AddedTimestamp": 1784029543.514862,
+        "Date": "November 2026",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784851961.7107146,
         "MatchedTags": [
-            "real time tactics"
+            "real time tactics",
+            "strategy"
         ]
     },
     "4226100": {
@@ -32727,9 +32728,9 @@
         "URL": "https://store.steampowered.com/app/4617480/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4617480/4a5137570a90504dd2390d6ee21e121aec715932/header.jpg?t=1776343354",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-16",
-        "AddedTimestamp": 1776349088.9318113,
+        "Date": "Aug 7, 2026",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784851980.6499507,
         "MatchedTags": [
             "strategy"
         ]
@@ -34922,9 +34923,9 @@
         "URL": "https://store.steampowered.com/app/4619040/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4619040/73129729a2b674fa3a86dc3644119efe8898b479/header.jpg?t=1776538534",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-18",
-        "AddedTimestamp": 1776539473.9647133,
+        "Date": "2026",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784851983.8954358,
         "MatchedTags": [
             "horror",
             "tactical"
@@ -41330,9 +41331,9 @@
         "URL": "https://store.steampowered.com/app/4652730/",
         "Site": "https://lost-vessel.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4652730/cb684e01667c8077ef5b5efd38bfe722ac62a8fe/header.jpg?t=1777065545",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-23",
-        "AddedTimestamp": 1784778673.9978755,
+        "Date": "Jul 23, 2026",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784851986.7680578,
         "MatchedTags": [
             "resource management"
         ]
@@ -74045,9 +74046,9 @@
         "URL": "https://store.steampowered.com/app/4544970/",
         "Site": "https://source-byte.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4544970/dbc4a978938054bc2591fe83a6817aa91ec255d7/header.jpg?t=1780524666",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-04",
-        "AddedTimestamp": 1780531449.7685542,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784851977.7719743,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -87980,9 +87981,9 @@
         "URL": "https://store.steampowered.com/app/4752760/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4752760/2e479fe40866e06f0776dd7114ae5bcf9fa9ef9a/header.jpg?t=1781708540",
-        "Date": "2026",
-        "AddedDate": "2026-06-17",
-        "AddedTimestamp": 1781712630.5758188,
+        "Date": "Jul 23, 2026",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784851999.2928677,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -106263,9 +106264,9 @@
         "URL": "https://store.steampowered.com/app/4900370/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4900370/9189cd2d6818bdfc4f0d4bc2d01a1bf965a51dd8/header.jpg?t=1783587536",
-        "Date": "Jul 16, 2026",
-        "AddedDate": "2026-07-09",
-        "AddedTimestamp": 1783599567.2083118,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784852022.4781358,
         "MatchedTags": [
             "strategy"
         ]
@@ -109253,7 +109254,9 @@
         "AddedDate": "2026-07-13",
         "AddedTimestamp": 1783955901.764677,
         "MatchedTags": [
-            "turn-based combat"
+            "turn-based combat",
+            "horror",
+            "psychological horror"
         ]
     },
     "4905890": {
@@ -120552,6 +120555,83 @@
             "turn-based strategy",
             "turn-based tactics",
             "tactical"
+        ]
+    },
+    "585350": {
+        "Title": "SwarmFleet",
+        "Email": "",
+        "Discord": "https://discord.gg/PyWQ4cdFBB",
+        "URL": "https://store.steampowered.com/app/585350/",
+        "Site": "https://fortell.games/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/585350/54feac7c7dfafcc876163271f65fb790ddc30922/header.jpg?t=1784850312",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784851951.1557808,
+        "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "2341880": {
+        "Title": "LANCETTA",
+        "Email": "",
+        "Discord": "https://discord.gg/eQbxTVrGqT",
+        "URL": "https://store.steampowered.com/app/2341880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2341880/f3c2682f4a4cf638c1a30b1fcb8ca07c8c6fde20/header.jpg?t=1784846863",
+        "Date": "2027",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784851953.826661,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4173530": {
+        "Title": "Recalibration",
+        "Email": "",
+        "Discord": "https://discord.gg/bkHmMYsYyc",
+        "URL": "https://store.steampowered.com/app/4173530/",
+        "Site": "https://x.com/Refoley213826",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4173530/332fd623409e7861c989386b52639697f0f55d41/header.jpg?t=1784847453",
+        "Date": "2026",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784851966.8781276,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4945520": {
+        "Title": "Traffic Authority",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4945520/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4945520/0904c43b07df446747aaaef6f51dc08dc22f99c6/header.jpg?t=1784848194",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784852041.5370665,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "management",
+            "resource management"
+        ]
+    },
+    "4951670": {
+        "Title": "Escape From Lab",
+        "Email": "perfectescapegame@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4951670/",
+        "Site": "https://peg-dev.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4951670/72d7516fad00e8ee30731d6a0f3ccb879638c1f1/header.jpg?t=1784851372",
+        "Date": "Sep 4, 2026",
+        "AddedDate": "2026-07-24",
+        "AddedTimestamp": 1784852043.5638084,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg",
+            "psychological horror"
         ]
     }
 }
