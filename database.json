@@ -93962,7 +93962,8 @@
         "AddedDate": "2026-07-25",
         "AddedTimestamp": 1784981462.2698789,
         "MatchedTags": [
-            "resource management"
+            "resource management",
+            "management"
         ]
     },
     "4876950": {
@@ -116425,9 +116426,9 @@
         "URL": "https://store.steampowered.com/app/4935060/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4935060/7593718b7a97bf478ce429738780a5911afc1a75/header.jpg?t=1784584406",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-22",
-        "AddedTimestamp": 1784739200.0401726,
+        "Date": "January 2027",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1784999909.4890285,
         "MatchedTags": [
             "economy"
         ]
@@ -121487,7 +121488,8 @@
         "MatchedTags": [
             "turn-based combat",
             "turn-based tactics",
-            "turn-based strategy"
+            "turn-based strategy",
+            "strategy"
         ]
     },
     "4987080": {
@@ -122389,6 +122391,20 @@
             "grand strategy",
             "resource management",
             "economy"
+        ]
+    },
+    "4949430": {
+        "Title": "Evil Cabin",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4949430/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4949430/c53607affa54708e92a4c1841d3e1dddcc56406b/header.jpg?t=1784993908",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1784999919.619195,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
