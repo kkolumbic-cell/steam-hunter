@@ -27709,7 +27709,7 @@
     "4581040": {
         "Title": "Crescent Creek: Survival Horror",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/3JdthjhP5z",
         "URL": "https://store.steampowered.com/app/4581040/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4581040/76bddb9a9209b29aa88f817340881fe34bd5c8bc/header.jpg?t=1775842929",
@@ -93956,9 +93956,9 @@
         "URL": "https://store.steampowered.com/app/4874380/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4874380/cfa488e0dfec4a543b994b99f3665c597ad6f6c2/header.jpg?t=1782288811",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-24",
-        "AddedTimestamp": 1782290280.0386877,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1784981462.2698789,
         "MatchedTags": [
             "resource management"
         ]
@@ -122259,6 +122259,38 @@
         "AddedTimestamp": 1784976485.1745646,
         "MatchedTags": [
             "psychological horror"
+        ]
+    },
+    "4931620": {
+        "Title": "GreyWake: Project Somnium",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4931620/",
+        "Site": "https://officialasquaregam.wixsite.com/asquaregames",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4931620/721d0d76ea2b9d8c40a8f4a0aaa8568a12fdd170/header.jpg?t=1784976685",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1784981473.1114743,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror",
+            "resource management"
+        ]
+    },
+    "4995090": {
+        "Title": "Revolver 21",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4995090/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4995090/46c1e36c4db7dc49c965df21247a7d0dac10744a/header.jpg?t=1784976880",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1784981483.453371,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy"
         ]
     }
 }
