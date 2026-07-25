@@ -76446,9 +76446,9 @@
         "URL": "https://store.steampowered.com/app/4730820/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4730820/64151b565c51f01769fc318e10a7ea1b90dd319a/header.jpg?t=1780697081",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-05",
-        "AddedTimestamp": 1780699137.272234,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1784976442.7714012,
         "MatchedTags": [
             "tactical",
             "strategy"
@@ -104115,11 +104115,12 @@
         "AddedDate": "2026-07-07",
         "AddedTimestamp": 1783448739.0644329,
         "MatchedTags": [
-            "strategy",
             "tower defense",
+            "base building",
+            "strategy",
             "management",
             "tactical",
-            "base building"
+            "economy"
         ]
     },
     "4865620": {
@@ -122211,6 +122212,53 @@
             "horror",
             "psychological horror",
             "survival horror"
+        ]
+    },
+    "4733480": {
+        "Title": "Desert Ark",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4733480/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4733480/a0093355100ec2423b25163dc496d65b67fdc61d/header.jpg?t=1784972112",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1784976448.288778,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "resource management",
+            "management",
+            "turn-based tactics"
+        ]
+    },
+    "4944580": {
+        "Title": "66 Lives",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4944580/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4944580/52e2c0b7f705a96f0d3054d53eec6b2b081eeb0f/header.jpg?t=1784972829",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1784976464.5511863,
+        "MatchedTags": [
+            "base building",
+            "resource management"
+        ]
+    },
+    "4992700": {
+        "Title": "TRAIN 9",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4992700/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992700/1ecf48198fab3c4b3b15b25550dd48048c7ce29d/header.jpg?t=1784973342",
+        "Date": "2026",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1784976485.1745646,
+        "MatchedTags": [
+            "psychological horror"
         ]
     }
 }
