@@ -22836,14 +22836,15 @@
         "URL": "https://store.steampowered.com/app/4541350/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541350/d6edcf634b863cbf3d4538975f719d776a2bcbcc/header.jpg?t=1775393592",
-        "Date": "TBA",
-        "AddedDate": "2026-04-05",
-        "AddedTimestamp": 1775395891.5974813,
+        "Date": "2026",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1785008202.567983,
         "MatchedTags": [
             "strategy",
-            "turn-based combat",
             "tactical rpg",
+            "turn-based strategy",
             "turn-based tactics",
+            "turn-based combat",
             "tactical"
         ]
     },
@@ -40734,15 +40735,15 @@
         "URL": "https://store.steampowered.com/app/3457720/",
         "Site": "https://bytecatch.io/incremental-orbits",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3457720/ef984b442361aca567369da51278faafe9d49011/header.jpg?t=1777047350",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1777050891.8881657,
+        "Date": "Aug 24, 2026",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1785008186.5567026,
         "MatchedTags": [
             "strategy",
             "city builder",
             "economy",
             "management",
-            "base building"
+            "resource management"
         ]
     },
     "4445900": {
@@ -42027,7 +42028,7 @@
     },
     "4635890": {
         "Title": "Night Guard - The Last Shift",
-        "Email": "contact@cubytegames.com, support@cubytegames.com",
+        "Email": "support@cubytegames.com, contact@cubytegames.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4635890/",
         "Site": "https://www.cubytegames.com/",
@@ -42302,9 +42303,9 @@
         "URL": "https://store.steampowered.com/app/2068500/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2068500/1b2a21631688177fcf37e5a131c8b141148d2fa3/header.jpg?t=1777254731",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-27",
-        "AddedTimestamp": 1777262480.38587,
+        "Date": "September 2026",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1785008178.667899,
         "MatchedTags": [
             "management",
             "resource management"
@@ -59865,10 +59866,10 @@
     },
     "4627740": {
         "Title": "Death Standing",
-        "Email": "",
+        "Email": "bobosse.dev@gmail.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4627740/",
-        "Site": "",
+        "Site": "https://deathstanding.pages.dev/#esports",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4627740/14687bb46004787be62072801da9c0d69f87af51/header.jpg?t=1779094928",
         "Date": "Jun 5, 2026",
         "AddedDate": "2026-05-18",
@@ -82007,9 +82008,9 @@
         "URL": "https://store.steampowered.com/app/3462650/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3462650/8f16d53464320fece97408c752e71db707f0ef60/header.jpg?t=1781196075",
-        "Date": "August 2026",
-        "AddedDate": "2026-06-11",
-        "AddedTimestamp": 1781207217.245439,
+        "Date": "Aug 13, 2026",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1785008190.391628,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -108396,9 +108397,9 @@
         "URL": "https://store.steampowered.com/app/4914890/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914890/12ceafd18002bca182903a99bdc3489a2b0f47cf/header.jpg?t=1783758728",
-        "Date": "July 2026",
-        "AddedDate": "2026-07-11",
-        "AddedTimestamp": 1783766172.795431,
+        "Date": "Jul 25, 2026",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1785008276.0441232,
         "MatchedTags": [
             "strategy",
             "management",
@@ -119415,9 +119416,9 @@
         "URL": "https://store.steampowered.com/app/4877960/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4877960/825d0db87820183ad6c07edea93fb60a9112ee8d/header.jpg?t=1784776867",
-        "Date": "Aug 3, 2026",
-        "AddedDate": "2026-07-23",
-        "AddedTimestamp": 1784778745.5110385,
+        "Date": "August 2026",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1785008253.667046,
         "MatchedTags": [
             "horror"
         ]
@@ -122405,6 +122406,107 @@
         "AddedTimestamp": 1784999919.619195,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "3002750": {
+        "Title": "Nibelung",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3002750/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3002750/3a8a1985f1951282d9fb6ac5ebaf62b16042bef4/header.jpg?t=1785006416",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1785008183.2598581,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4523340": {
+        "Title": "C.U.B.E",
+        "Email": "",
+        "Discord": "https://discord.gg/Y32KP3MH5F",
+        "URL": "https://store.steampowered.com/app/4523340/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4523340/4f4beaf7d9222ecd5448fd2d39d9709b307fa406/header.jpg?t=1785007577",
+        "Date": "Aug 21, 2026",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1785008200.4827745,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4594160": {
+        "Title": "The Mofu Game",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4594160/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594160/c9fc814e5e70cc2ac3fc3c7d7e95f08bf895374e/header.jpg?t=1785003662",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1785008216.728778,
+        "MatchedTags": [
+            "psychological horror",
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4965530": {
+        "Title": "Astral Outpost",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4965530/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965530/96de49cb7f55758460d39925a0778c649df86bf6/header.jpg?t=1785007774",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1785008289.1177917,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management",
+            "base building",
+            "resource management"
+        ]
+    },
+    "4969560": {
+        "Title": "Ludus Manager: Gladiator Tycoon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4969560/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4969560/715c62268a916f0cd380dbe97f499ba74c549b2b/header.jpg?t=1785003016",
+        "Date": "Sep 3, 2026",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1785008291.1876655,
+        "MatchedTags": [
+            "management",
+            "turn-based tactics",
+            "turn-based strategy",
+            "resource management",
+            "economy"
+        ]
+    },
+    "4987060": {
+        "Title": "Attrition Line",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4987060/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4987060/c48d562aace713d7aaacb5db5ebf4949113ca07b/header.jpg?t=1785005219",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1785008306.2074378,
+        "MatchedTags": [
+            "strategy",
+            "base building",
+            "resource management",
+            "management",
+            "tower defense"
         ]
     }
 }
