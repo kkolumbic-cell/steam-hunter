@@ -30844,9 +30844,9 @@
         "URL": "https://store.steampowered.com/app/4245400/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4245400/6c48dce40d18d9f012481d829cddc565e24c9c20/header.jpg?t=1776198235",
-        "Date": "2026",
-        "AddedDate": "2026-04-14",
-        "AddedTimestamp": 1776200953.9638739,
+        "Date": "November 2026",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1784993373.009548,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -111712,9 +111712,9 @@
         "URL": "https://store.steampowered.com/app/4953090/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4953090/4c3400576fb6782a8a14b830efe5a603c5c7c163/header.jpg?t=1784126210",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-15",
-        "AddedTimestamp": 1784130949.7968733,
+        "Date": "2026",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1784993466.9383767,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -122312,7 +122312,7 @@
     "4858050": {
         "Title": "Space Wars 3033",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/aGykSv89Pm",
         "URL": "https://store.steampowered.com/app/4858050/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4858050/37ac46d74e6f7f267548382fe081f3b2a18cf301/header.jpg?t=1784987544",
@@ -122372,6 +122372,23 @@
             "tower defense",
             "management",
             "horror"
+        ]
+    },
+    "4781060": {
+        "Title": "THREE KINGDOMS: STRATEGY SIMULATOR",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4781060/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4781060/e8588b84e5e8f2c162063b71a5b75efc55590264/header.jpg?t=1784990103",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1784993422.3246713,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "resource management",
+            "economy"
         ]
     }
 }
