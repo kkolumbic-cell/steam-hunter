@@ -2036,7 +2036,9 @@
         "AddedTimestamp": 1782888388.2009456,
         "MatchedTags": [
             "tower defense",
-            "strategy"
+            "strategy",
+            "resource management",
+            "tactical"
         ]
     },
     "4476320": {
@@ -113347,9 +113349,7 @@
         "AddedTimestamp": 1784236765.8628933,
         "MatchedTags": [
             "economy",
-            "strategy",
-            "management",
-            "tactical"
+            "management"
         ]
     },
     "4955330": {
@@ -121244,7 +121244,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4962490/",
-        "Site": "",
+        "Site": "https://delta-games.de",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4962490/c427207c41bf68afbe3223275f8819031877c31e/header.jpg?t=1784905029",
         "Date": "Q4 2026",
         "AddedDate": "2026-07-24",
@@ -122291,6 +122291,87 @@
         "MatchedTags": [
             "turn-based tactics",
             "strategy"
+        ]
+    },
+    "4738410": {
+        "Title": "Silent Abbey",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4738410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4738410/575db7a6550b3f4116b2386e8d23b09c49683c77/header.jpg?t=1784987242",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1784988271.924164,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4858050": {
+        "Title": "Space Wars 3033",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4858050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4858050/37ac46d74e6f7f267548382fe081f3b2a18cf301/header.jpg?t=1784987544",
+        "Date": "October 2026",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1784988288.6322381,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4938200": {
+        "Title": "Snowed Under | \u96ea\u846c",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4938200/",
+        "Site": "https://www.chillasart.co.jp/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4938200/7f34f5744c8b735b0af7c0631b1d786956f1397a/header.jpg?t=1784986242",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1784988317.0030036,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4968940": {
+        "Title": "CALL OF CUTIE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4968940/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4968940/b635db34e5913a0df534919603ee3386cd52e8d4/header.jpg?t=1784987876",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1784988334.0874364,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "4977030": {
+        "Title": "Diseased",
+        "Email": "",
+        "Discord": "https://discord.gg/4QBWY9nKyH",
+        "URL": "https://store.steampowered.com/app/4977030/",
+        "Site": "https://linktr.ee/yavuzkala",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4977030/d8f8c147515ba9fb0e4de6323fc3733986180ba1/header.jpg?t=1784986487",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1784988347.2994065,
+        "MatchedTags": [
+            "strategy",
+            "base building",
+            "colony sim",
+            "city builder",
+            "tower defense",
+            "management",
+            "horror"
         ]
     }
 }
