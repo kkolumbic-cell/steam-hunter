@@ -7637,9 +7637,9 @@
         "URL": "https://store.steampowered.com/app/4465120/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4465120/eeba893b42008ded7df191ce80a44f36b3e47608/header.jpg?t=1773480062",
-        "Date": "2026",
-        "AddedDate": "2026-07-19",
-        "AddedTimestamp": 1784469338.163078,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1784970823.9322507,
         "MatchedTags": [
             "strategy"
         ]
@@ -54972,9 +54972,9 @@
         "URL": "https://store.steampowered.com/app/868160/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/868160/258f3a03b0a2c75d09450839d745ef67efd4b715/header.jpg?t=1778408391",
-        "Date": "Jul 28, 2026",
-        "AddedDate": "2026-06-23",
-        "AddedTimestamp": 1782222456.3533392,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1784970801.9715478,
         "MatchedTags": [
             "colony sim",
             "strategy",
@@ -110363,9 +110363,9 @@
         "URL": "https://store.steampowered.com/app/4909020/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4909020/6732860c12762782a48157e414d8b420136961cd/header.jpg?t=1784042994",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-14",
-        "AddedTimestamp": 1784044416.8901992,
+        "Date": "To be announced",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1784970884.053397,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -119657,7 +119657,7 @@
     "4958130": {
         "Title": "Last One Employed",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/Chre2e4vy",
         "URL": "https://store.steampowered.com/app/4958130/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4958130/2783ccef535d75c568e2eac0da4e7ea68616a89e/header.jpg?t=1784787363",
@@ -121261,9 +121261,9 @@
         "URL": "https://store.steampowered.com/app/4968160/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968160/5abe4f00154475892d197d9cc81a93dbc91b53b8/header.jpg?t=1784907786",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-07-24",
-        "AddedTimestamp": 1784908273.7698252,
+        "Date": "2026",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1784970928.9167979,
         "MatchedTags": [
             "turn-based tactics",
             "turn-based combat"
@@ -121841,7 +121841,7 @@
         "Email": "",
         "Discord": "https://discord.gg/ap8K3B9gGh",
         "URL": "https://store.steampowered.com/app/4756660/",
-        "Site": "",
+        "Site": "https://www.bloodlustandharmony.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4756660/b38c7e4ba82419929c3f45d0ca0f2a4e69c9e240/header.jpg?t=1784950196",
         "Date": "To be announced",
         "AddedDate": "2026-07-25",
@@ -122119,6 +122119,98 @@
             "survival horror",
             "horror",
             "tactical"
+        ]
+    },
+    "4302590": {
+        "Title": "Particle Collectotron",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4302590/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4302590/8231db86e10adf54e9ba1e10dac56aa1d3ae6daa/header.jpg?t=1784967043",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1784970821.6161726,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management",
+            "economy"
+        ]
+    },
+    "4926910": {
+        "Title": "Arcanum Collegium",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4926910/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4926910/7feaef8a9ce669f168682740b7ec953ccf2fbad1/header.jpg?t=1784964408",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1784970890.3395987,
+        "MatchedTags": [
+            "turn-based strategy",
+            "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4944390": {
+        "Title": "Farther West",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4944390/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4944390/3a8a81f752573bae11c21f88eb2fea0be50d0472/header.jpg?t=1784964258",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1784970897.5036554,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4961730": {
+        "Title": "Accident Investigator Simulator: Black Box",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4961730/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961730/59abdf447ed771a9e6e439f9aa0a0eba0044baf8/header.jpg?t=1784968270",
+        "Date": "August 2026",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1784970921.607734,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4970490": {
+        "Title": "Emberfall Idle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4970490/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4970490/cd90f8acc258f93ab6e31ef4acc874954d318e29/header.jpg?t=1784967712",
+        "Date": "Aug 14, 2026",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1784970933.452618,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4979440": {
+        "Title": "Urban Legends: Hoia Baciu",
+        "Email": "",
+        "Discord": "https://discord.gg/JqDSPbFWM",
+        "URL": "https://store.steampowered.com/app/4979440/",
+        "Site": "https://www.mysteriesfromhoiabaciu.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4979440/9b849928126fb391263eec9481845610db0f44e3/header.jpg?t=1784970112",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-25",
+        "AddedTimestamp": 1784970936.3070161,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
         ]
     }
 }
