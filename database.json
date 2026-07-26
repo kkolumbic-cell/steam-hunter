@@ -83920,7 +83920,7 @@
         "Email": "",
         "Discord": "https://discord.gg/pgpQfYebaH",
         "URL": "https://store.steampowered.com/app/4753950/",
-        "Site": "",
+        "Site": "https://playnetworkengineer.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4753950/721a9867a6bae549072a1b33ee453f17b83dcc03/header.jpg?t=1781296288",
         "Date": "Q4 2026",
         "AddedDate": "2026-07-06",
@@ -97028,9 +97028,9 @@
         "URL": "https://store.steampowered.com/app/4884560/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4884560/64bf3278c44e810a77517061f20624e54efa9b8e/header.jpg?t=1782600864",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-28",
-        "AddedTimestamp": 1782656325.8476028,
+        "Date": "Jul 26, 2026",
+        "AddedDate": "2026-07-26",
+        "AddedTimestamp": 1785104151.6470635,
         "MatchedTags": [
             "city builder",
             "colony sim"
@@ -109152,9 +109152,9 @@
         "URL": "https://store.steampowered.com/app/4612860/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4612860/eb15bbf36c221a5af6f8d3a2aec2b9f11ee34555/header.jpg?t=1783948105",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-13",
-        "AddedTimestamp": 1783955703.8350594,
+        "Date": "Sep 3, 2026",
+        "AddedDate": "2026-07-26",
+        "AddedTimestamp": 1785104135.267421,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -122804,6 +122804,22 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "3627020": {
+        "Title": "Death Not Guaranteed",
+        "Email": "",
+        "Discord": "https://discord.com/invite/VCvDU5GmT4",
+        "URL": "https://store.steampowered.com/app/3627020/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3627020/a993fafa5f2690fe1f3c6cd6e5821f4b6540163c/header.jpg?t=1785101482",
+        "Date": "TBA",
+        "AddedDate": "2026-07-26",
+        "AddedTimestamp": 1785104124.14181,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy"
         ]
     }
 }
