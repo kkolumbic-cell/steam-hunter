@@ -4117,7 +4117,7 @@
     },
     "3972560": {
         "Title": "Spider Matrix",
-        "Email": "pr@next-genium.com, hr@next-genium.com, info@next-genium.com",
+        "Email": "pr@next-genium.com, info@next-genium.com, hr@next-genium.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/3972560/",
         "Site": "https://next-genium.com",
@@ -20436,9 +20436,9 @@
         "URL": "https://store.steampowered.com/app/744960/",
         "Site": "https://www.accretion-games.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/744960/1a0157eab3a7f7f11eaa167d08b29ae5e603ef8a/header.jpg?t=1775073650",
-        "Date": "July 2026",
-        "AddedDate": "2026-07-09",
-        "AddedTimestamp": 1783620706.9983504,
+        "Date": "Jul 26, 2026",
+        "AddedDate": "2026-07-26",
+        "AddedTimestamp": 1785094573.425268,
         "MatchedTags": [
             "management"
         ]
@@ -33674,9 +33674,9 @@
         "URL": "https://store.steampowered.com/app/4626300/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4626300/f624189e91c6a3a6ede98b2be455f85dbd676337/header.jpg?t=1776405627",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-19",
-        "AddedTimestamp": 1784452717.309297,
+        "Date": "Aug 11, 2026",
+        "AddedDate": "2026-07-26",
+        "AddedTimestamp": 1785094597.7479672,
         "MatchedTags": [
             "strategy",
             "city builder",
@@ -72269,10 +72269,10 @@
         "AddedDate": "2026-06-02",
         "AddedTimestamp": 1780419705.7509322,
         "MatchedTags": [
-            "horror",
             "real time tactics",
+            "psychological horror",
             "tactical",
-            "psychological horror"
+            "survival horror"
         ]
     },
     "4734800": {
@@ -94307,9 +94307,9 @@
         "URL": "https://store.steampowered.com/app/4482890/",
         "Site": "https://martilogames.com/Game/GreenLightDistrict",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4482890/a29171c4ce82ab4ec918cb3187987e2833449641/header.jpg?t=1782323462",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-12",
-        "AddedTimestamp": 1783884814.747288,
+        "Date": "Aug 3, 2026",
+        "AddedDate": "2026-07-26",
+        "AddedTimestamp": 1785094584.02537,
         "MatchedTags": [
             "city builder",
             "base building",
@@ -98030,9 +98030,9 @@
         "URL": "https://store.steampowered.com/app/4866340/",
         "Site": "https://www.dogsplayingdead.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4866340/a54792caa5654494b3d2b27976cc9fbf9c76456d/header.jpg?t=1782772066",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-29",
-        "AddedTimestamp": 1782772449.5931554,
+        "Date": "Jul 31, 2026",
+        "AddedDate": "2026-07-26",
+        "AddedTimestamp": 1785094632.8307343,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -102044,9 +102044,9 @@
         "URL": "https://store.steampowered.com/app/4911010/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4911010/10d9323e997874027f552c96b44e365ed4f04bcd/header.jpg?t=1783147888",
-        "Date": "Jul 27, 2026",
-        "AddedDate": "2026-07-04",
-        "AddedTimestamp": 1783149511.85065,
+        "Date": "Jul 26, 2026",
+        "AddedDate": "2026-07-26",
+        "AddedTimestamp": 1785094644.391875,
         "MatchedTags": [
             "city builder",
             "turn-based strategy",
@@ -112926,9 +112926,9 @@
         "URL": "https://store.steampowered.com/app/4697690/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4697690/e0221dc8b59204b649d5e653ce94f060f5e28b20/header.jpg?t=1784203954",
-        "Date": "Aug 22, 2026",
-        "AddedDate": "2026-07-24",
-        "AddedTimestamp": 1784922616.3146594,
+        "Date": "August 2026",
+        "AddedDate": "2026-07-26",
+        "AddedTimestamp": 1785094610.5422843,
         "MatchedTags": [
             "resource management"
         ]
@@ -117298,9 +117298,9 @@
         "URL": "https://store.steampowered.com/app/4961960/",
         "Site": "https://pinkthorngames.com/no-witnesses",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961960/5afe1f48dc9267004988f14bf9f41cfe23efee18/header.jpg?t=1784637536",
-        "Date": "To be announced",
-        "AddedDate": "2026-07-21",
-        "AddedTimestamp": 1784644087.6872818,
+        "Date": "October 2026",
+        "AddedDate": "2026-07-26",
+        "AddedTimestamp": 1785094672.661616,
         "MatchedTags": [
             "strategy",
             "real time tactics"
@@ -120761,11 +120761,10 @@
         "AddedTimestamp": 1784864989.337775,
         "MatchedTags": [
             "tactical rpg",
-            "turn-based tactics",
-            "base building",
             "management",
-            "turn-based strategy",
-            "strategy"
+            "strategy",
+            "real time tactics",
+            "tactical"
         ]
     },
     "4943690": {
@@ -122505,9 +122504,9 @@
         "URL": "https://store.steampowered.com/app/4987060/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4987060/c48d562aace713d7aaacb5db5ebf4949113ca07b/header.jpg?t=1785005219",
-        "Date": "Q1 2027",
-        "AddedDate": "2026-07-25",
-        "AddedTimestamp": 1785008306.2074378,
+        "Date": "Q2 2027",
+        "AddedDate": "2026-07-26",
+        "AddedTimestamp": 1785094684.1821022,
         "MatchedTags": [
             "strategy",
             "base building",
@@ -122658,7 +122657,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4986300/",
-        "Site": "",
+        "Site": "https://impress.games/app/kitty/press-kit/apparatus-inspector",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4986300/0f4f4f7b9d0e3461ab967a010da06d40b713c6fa/header.jpg?t=1785050205",
         "Date": "October 2026",
         "AddedDate": "2026-07-26",
@@ -122774,6 +122773,37 @@
             "strategy",
             "turn-based strategy",
             "turn-based combat"
+        ]
+    },
+    "4655890": {
+        "Title": "The Park Keeper",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4655890/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4655890/38cbed6cd9a0868209409c939c3e3b73a463dc42/header.jpg?t=1785090005",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-26",
+        "AddedTimestamp": 1785094602.1389136,
+        "MatchedTags": [
+            "horror",
+            "management",
+            "survival horror"
+        ]
+    },
+    "4960370": {
+        "Title": "Somnia",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4960370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4960370/beec5e74cb597af3217329e2b3149938503edf1b/header.jpg?t=1785094523",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-26",
+        "AddedTimestamp": 1785094670.6646755,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
