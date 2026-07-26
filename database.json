@@ -6205,9 +6205,9 @@
         "URL": "https://store.steampowered.com/app/4424080/",
         "Site": "https://www.youtube.com/@KorkaiGames",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4424080/261220ad5f0321a797f33efeeff125fffa829eb0/header.jpg?t=1773292386",
-        "Date": "July 2026",
-        "AddedDate": "2026-07-13",
-        "AddedTimestamp": 1783928480.2164073,
+        "Date": "Jul 26, 2026",
+        "AddedDate": "2026-07-26",
+        "AddedTimestamp": 1785052011.678907,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -91789,7 +91789,8 @@
         "AddedDate": "2026-06-22",
         "AddedTimestamp": 1782151208.6892686,
         "MatchedTags": [
-            "horror"
+            "horror",
+            "strategy"
         ]
     },
     "1070760": {
@@ -95125,7 +95126,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4736830/",
-        "Site": "",
+        "Site": "https://sol.sor-legends.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4736830/b394534ed345a48f634fffd1a1741ffd5ffa6a1b/header.jpg?t=1782439716",
         "Date": "Coming soon",
         "AddedDate": "2026-06-26",
@@ -107906,9 +107907,9 @@
         "URL": "https://store.steampowered.com/app/4918750/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4918750/fcb18853567549f66105cd8765d20daff0d40b74/header.jpg?t=1783705152",
-        "Date": "Oct 3, 2026",
-        "AddedDate": "2026-07-16",
-        "AddedTimestamp": 1784173475.4902163,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-26",
+        "AddedTimestamp": 1785052069.972173,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -121489,8 +121490,8 @@
         "AddedTimestamp": 1784915813.1252918,
         "MatchedTags": [
             "turn-based combat",
-            "turn-based tactics",
             "turn-based strategy",
+            "turn-based tactics",
             "strategy"
         ]
     },
@@ -122568,6 +122569,98 @@
         "MatchedTags": [
             "horror",
             "base building"
+        ]
+    },
+    "4878460": {
+        "Title": "The Tower Of The Mad Wizard",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4878460/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4878460/7a6d9fb6348c466ec92e30b04909551a91a27d04/header.jpg?t=1785045512",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-26",
+        "AddedTimestamp": 1785052062.5830274,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4914980": {
+        "Title": "\u53ea\u5f00\u5b9d\u7bb1",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4914980/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4914980/d33c7eb9170e3a17f9a4ce15ff2febdd745f268b/header.jpg?t=1785047587",
+        "Date": "September 2026",
+        "AddedDate": "2026-07-26",
+        "AddedTimestamp": 1785052067.5719237,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4970050": {
+        "Title": "Thekku Island: Blood Dawn",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4970050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4970050/9a3cf0d05ec0e82f78678278e37aceb19fac5a9a/header.jpg?t=1785046684",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-26",
+        "AddedTimestamp": 1785052086.8097699,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4972930": {
+        "Title": "Phonophobia",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4972930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4972930/7cfeb446dbbf14677ec6a70094c91c057d1026dd/header.jpg?t=1785041659",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-26",
+        "AddedTimestamp": 1785052091.945821,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4980530": {
+        "Title": "Lord Wars",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4980530/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4980530/2731184f34ce130037ab3f67273dbc4c3110c235/header.jpg?t=1785050184",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-26",
+        "AddedTimestamp": 1785052093.9325871,
+        "MatchedTags": [
+            "real time tactics",
+            "strategy",
+            "city builder",
+            "tower defense",
+            "grand strategy",
+            "tactical"
+        ]
+    },
+    "4986300": {
+        "Title": "Apparatus Inspector",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4986300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4986300/0f4f4f7b9d0e3461ab967a010da06d40b713c6fa/header.jpg?t=1785050205",
+        "Date": "October 2026",
+        "AddedDate": "2026-07-26",
+        "AddedTimestamp": 1785052106.5925603,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
