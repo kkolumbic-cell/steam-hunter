@@ -76970,9 +76970,9 @@
         "URL": "https://store.steampowered.com/app/4786480/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4786480/2bb882594faa4ad9a814ec2f66f07cfaff7049e0/header.jpg?t=1780771869",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-06-06",
-        "AddedTimestamp": 1780778275.7739131,
+        "Date": "To be announced",
+        "AddedDate": "2026-07-26",
+        "AddedTimestamp": 1785025066.3029382,
         "MatchedTags": [
             "economy"
         ]
@@ -93159,9 +93159,9 @@
         "URL": "https://store.steampowered.com/app/4727860/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4727860/81dbb6590498e8559315dec705e04491d3412668/header.jpg?t=1782242210",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-23",
-        "AddedTimestamp": 1782242582.9629939,
+        "Date": "Oct 15, 2026",
+        "AddedDate": "2026-07-26",
+        "AddedTimestamp": 1785025063.982088,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -122538,6 +122538,20 @@
             "horror",
             "psychological horror",
             "survival horror"
+        ]
+    },
+    "4976010": {
+        "Title": "MineMergeMatic",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4976010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4976010/e1d78abd00d4738771ef4ba478ea13ccc78568d4/header.jpg?t=1785023877",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-26",
+        "AddedTimestamp": 1785025085.6442957,
+        "MatchedTags": [
+            "resource management"
         ]
     }
 }
