@@ -23177,9 +23177,9 @@
         "URL": "https://store.steampowered.com/app/4556780/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4556780/9bf457dfd60ff515bbd540b11e23618bfa97acb6/header.jpg?t=1775495573",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-06",
-        "AddedTimestamp": 1775498788.9924667,
+        "Date": "Aug 27, 2026",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785185107.621537,
         "MatchedTags": [
             "horror"
         ]
@@ -25625,9 +25625,9 @@
         "URL": "https://store.steampowered.com/app/4590270/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4590270/d6f56096ea943805b856b6fc0cac500cd5b266d0/header.jpg?t=1775718236",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775721447.26922,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785185112.3903494,
         "MatchedTags": [
             "horror"
         ]
@@ -97064,9 +97064,9 @@
         "URL": "https://store.steampowered.com/app/4739690/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4739690/9a83cc077dca3f5d0221c17fa153fe768bcc826e/header.jpg?t=1782608462",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-28",
-        "AddedTimestamp": 1782625619.8649569,
+        "Date": "Jul 27, 2026",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785185131.5672023,
         "MatchedTags": [
             "strategy",
             "real time tactics",
@@ -106474,9 +106474,9 @@
         "URL": "https://store.steampowered.com/app/4929020/",
         "Site": "https://www.exos-cyoa.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4929020/10c2ec2e28d2ac74f18ce0238066133cc330d478/header.jpg?t=1783611038",
-        "Date": "Jul 27, 2026",
-        "AddedDate": "2026-07-09",
-        "AddedTimestamp": 1783613811.4881341,
+        "Date": "July 2026",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785185172.385542,
         "MatchedTags": [
             "horror"
         ]
@@ -123263,18 +123263,138 @@
             "management"
         ]
     },
-    "4996950": {
-        "Title": "Deadline",
+    "2240830": {
+        "Title": "Worderia",
         "Email": "",
-        "Discord": "https://discord.gg/7fQWtWFQjE",
-        "URL": "https://store.steampowered.com/app/4996950/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4996950/f017aa1fde3c722de0426f34366511f60b2c1957/header.jpg?t=1785174360",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2240830/",
+        "Site": "https://worderia.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2240830/3909baafe8a296d0db7ae66f210be3e4dac98789/header.jpg?t=1785181495",
         "Date": "Coming soon",
         "AddedDate": "2026-07-27",
-        "AddedTimestamp": 1785178400.0076852,
+        "AddedTimestamp": 1785185071.1163213,
         "MatchedTags": [
-            "strategy"
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4889280": {
+        "Title": "The No Jumpscare Show",
+        "Email": "",
+        "Discord": "https://discord.com/invite/pb6N5XpBbV",
+        "URL": "https://store.steampowered.com/app/4889280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4889280/22434654cdef62dc81ed03b41ed6aec0bb908241/header.jpg?t=1785183519",
+        "Date": "2026",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785185157.1229515,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4892010": {
+        "Title": "Bomb Farm",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4892010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4892010/b376894eb88c95e07aed81590866ada9c35d863d/header.jpg?t=1785182011",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785185161.6908276,
+        "MatchedTags": [
+            "strategy",
+            "economy"
+        ]
+    },
+    "4941230": {
+        "Title": "Jackpot Poker Destruction",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4941230/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4941230/36320f04cf02cb655aa978fd3014b5d16a4f8894/header.jpg?t=1785183794",
+        "Date": "October 2026",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785185175.781889,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4977670": {
+        "Title": "Industrial Garbage",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4977670/",
+        "Site": "https://dapaul-pl.github.io/IndustrialGarbageBlog/index.html",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4977670/563bda584212c1e3dbbfd4dc8b8998ff0887461f/header.jpg?t=1785179981",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785185191.9851904,
+        "MatchedTags": [
+            "resource management",
+            "base building",
+            "economy"
+        ]
+    },
+    "4984060": {
+        "Title": "Absolute Infinity",
+        "Email": "",
+        "Discord": "https://discord.gg/mcHuuWxWjr",
+        "URL": "https://store.steampowered.com/app/4984060/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4984060/245d32a5e8b25b0b074385289f3b02374ab8242e/header.jpg?t=1785178280",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785185198.9215698,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4995700": {
+        "Title": "Grave Engine",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4995700/",
+        "Site": "https://goblinfiend.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4995700/790500be7a6caee16de139e0b675a37202bc8119/header.jpg?t=1785181210",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785185212.8578594,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "4996220": {
+        "Title": "Dunjin",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4996220/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4996220/a2d8911462b7cf056c7cc928d279e605574fbf82/header.jpg?t=1785182047",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785185215.1101768,
+        "MatchedTags": [
+            "resource management",
+            "turn-based combat"
+        ]
+    },
+    "5005050": {
+        "Title": "UMAN",
+        "Email": "",
+        "Discord": "https://discord.gg/RZHfeuhKc2",
+        "URL": "https://store.steampowered.com/app/5005050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5005050/357312a88cca37426f0460e5519a99395a5e350c/header.jpg?t=1785182388",
+        "Date": "December 2026",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785185219.9695961,
+        "MatchedTags": [
+            "resource management"
         ]
     }
 }
