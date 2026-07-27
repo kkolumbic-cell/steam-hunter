@@ -33378,9 +33378,9 @@
         "URL": "https://store.steampowered.com/app/4570020/",
         "Site": "https://rottengenerationstudios.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4570020/9eb7fcfb8f41d9a6fc69be891426d79af5bb37f0/header.jpg?t=1776378502",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-19",
-        "AddedTimestamp": 1776621294.9802482,
+        "Date": "Sep 28, 2026",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785138881.8074827,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -68480,9 +68480,9 @@
         "URL": "https://store.steampowered.com/app/3199880/",
         "Site": "https://drago-entertainment.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3199880/797ad1fadafa9c26140b4c1f0370397db59a73dc/header.jpg?t=1780070737",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-01",
-        "AddedTimestamp": 1782913297.8140604,
+        "Date": "Aug 27, 2026",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785138844.8857493,
         "MatchedTags": [
             "economy",
             "management"
@@ -74387,9 +74387,9 @@
         "URL": "https://store.steampowered.com/app/4430500/",
         "Site": "https://shambustudio.site",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4430500/332f4497a8e4c62dec55c6bb4dfe831a51519815/header.jpg?t=1780550037",
-        "Date": "July 2026",
-        "AddedDate": "2026-07-13",
-        "AddedTimestamp": 1783942262.0206273,
+        "Date": "Jul 26, 2026",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785138861.906081,
         "MatchedTags": [
             "strategy"
         ]
@@ -74606,6 +74606,8 @@
         "AddedDate": "2026-06-04",
         "AddedTimestamp": 1780575740.803499,
         "MatchedTags": [
+            "horror",
+            "survival horror",
             "tactical"
         ]
     },
@@ -91406,7 +91408,7 @@
     },
     "4729310": {
         "Title": "Playing Prague",
-        "Email": "tourinfo@prague.eu, j.tomanova@prague.eu",
+        "Email": "j.tomanova@prague.eu, tourinfo@prague.eu",
         "Discord": "https://discord.gg/3rv3aT3HYa",
         "URL": "https://store.steampowered.com/app/4729310/",
         "Site": "https://prague.eu/playing-prague",
@@ -104174,9 +104176,9 @@
         "URL": "https://store.steampowered.com/app/4903450/",
         "Site": "http://www.pixeldance.xyz/site",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4903450/f3b06ab4f285745c238b4c2b400dabf72cf5aa94/header.jpg?t=1783444665",
-        "Date": "July 2026",
-        "AddedDate": "2026-07-07",
-        "AddedTimestamp": 1783448788.4288437,
+        "Date": "Jul 27, 2026",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785138940.7671866,
         "MatchedTags": [
             "strategy"
         ]
@@ -109603,9 +109605,9 @@
         "URL": "https://store.steampowered.com/app/4930640/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4930640/5e614c7f6dcff990ed2242946d40b2f8fdf99885/header.jpg?t=1783970746",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-13",
-        "AddedTimestamp": 1783972669.4476483,
+        "Date": "Jul 27, 2026",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785138954.4736397,
         "MatchedTags": [
             "horror"
         ]
@@ -109875,9 +109877,9 @@
         "URL": "https://store.steampowered.com/app/4830090/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4830090/5cebfa6e2660384db3113caf1f6b0f77b441175a/header.jpg?t=1783997437",
-        "Date": "Coming soon",
+        "Date": "Jul 27, 2026",
         "AddedDate": "2026-07-27",
-        "AddedTimestamp": 1785125141.5879078,
+        "AddedTimestamp": 1785138921.9605849,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -122700,7 +122702,7 @@
     "4469080": {
         "Title": "Monk & The Misfit Monsters",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/CeMdAc6bmp",
         "URL": "https://store.steampowered.com/app/4469080/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4469080/d101464153e1ee41ce5b15c45c8f0d7bbbd92cbe/header.jpg?t=1785078504",
@@ -122879,6 +122881,23 @@
         "AddedTimestamp": 1785125196.6715717,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4926310": {
+        "Title": "Berserk Heroes Online",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4926310/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4926310/be931359aff1c61541c512905cb46656688f2992/header.jpg?t=1785138123",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785138951.6764042,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "turn-based combat"
         ]
     }
 }
