@@ -33985,7 +33985,8 @@
         "AddedDate": "2026-04-17",
         "AddedTimestamp": 1776439183.9186833,
         "MatchedTags": [
-            "tactical rpg"
+            "tactical rpg",
+            "horror"
         ]
     },
     "4626950": {
@@ -48986,9 +48987,9 @@
         "URL": "https://store.steampowered.com/app/4416760/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4416760/837990aea33714a5f127a7e3ba13034e95cf7120/header.jpg?t=1777811568",
-        "Date": "Aug 11, 2026",
-        "AddedDate": "2026-07-22",
-        "AddedTimestamp": 1784692241.9378262,
+        "Date": "Aug 12, 2026",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785125083.5217457,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -58727,9 +58728,9 @@
         "URL": "https://store.steampowered.com/app/4495630/",
         "Site": "https://slopstarz.com/games/slopstar2",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4495630/70f46ac98ceb6be1070f9a5bff80d7291f70714f/header.jpg?t=1778804859",
-        "Date": "August 2026",
-        "AddedDate": "2026-05-15",
-        "AddedTimestamp": 1778819501.600191,
+        "Date": "Aug 3, 2026",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785125089.8886354,
         "MatchedTags": [
             "strategy",
             "base building",
@@ -103066,12 +103067,12 @@
         "AddedDate": "2026-07-06",
         "AddedTimestamp": 1783355698.6506827,
         "MatchedTags": [
-            "city builder",
             "colony sim",
+            "resource management",
+            "city builder",
             "economy",
             "management",
-            "base building",
-            "resource management"
+            "base building"
         ]
     },
     "4916320": {
@@ -103152,7 +103153,7 @@
     },
     "4887280": {
         "Title": "Marrowood",
-        "Email": "",
+        "Email": "ourhomestudio.contact@gmail.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4887280/",
         "Site": "https://marrowood.ourhomestudio.ca/",
@@ -108547,9 +108548,9 @@
         "URL": "https://store.steampowered.com/app/4905390/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4905390/910c1e549f2492f78f8bc33fea11f74df4a6921a/header.jpg?t=1783801734",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-11",
-        "AddedTimestamp": 1783804172.3949304,
+        "Date": "Jul 30, 2026",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785125174.589328,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -109874,9 +109875,9 @@
         "URL": "https://store.steampowered.com/app/4830090/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4830090/5cebfa6e2660384db3113caf1f6b0f77b441175a/header.jpg?t=1783997437",
-        "Date": "Jul 26, 2026",
-        "AddedDate": "2026-07-14",
-        "AddedTimestamp": 1784000412.0933506,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785125141.5879078,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -109967,7 +109968,7 @@
     "4934690": {
         "Title": "Hear the Void",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/kMedKMJDP",
         "URL": "https://store.steampowered.com/app/4934690/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4934690/328335ca59fa2867f181b2cae9f31b471df72995/header.jpg?t=1783992656",
@@ -109975,8 +109976,8 @@
         "AddedDate": "2026-07-14",
         "AddedTimestamp": 1784000481.2821696,
         "MatchedTags": [
-            "horror",
             "psychological horror",
+            "horror",
             "survival horror"
         ]
     },
@@ -112810,9 +112811,9 @@
         "URL": "https://store.steampowered.com/app/4928860/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4928860/d5f22464ae559c4b5c1014855bc5d1e4c834e7b0/header.jpg?t=1784202334",
-        "Date": "TBA",
-        "AddedDate": "2026-07-16",
-        "AddedTimestamp": 1784203022.9404154,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785125193.4549227,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -122813,13 +122814,71 @@
         "URL": "https://store.steampowered.com/app/3627020/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3627020/a993fafa5f2690fe1f3c6cd6e5821f4b6540163c/header.jpg?t=1785101482",
-        "Date": "TBA",
-        "AddedDate": "2026-07-26",
-        "AddedTimestamp": 1785104124.14181,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785125058.8387954,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
             "turn-based strategy"
+        ]
+    },
+    "4027400": {
+        "Title": "Anthracite",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4027400/",
+        "Site": "https://studioransom.games/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4027400/8613e50c460fbe03fba86d14bfb65a381fb83d0a/header.jpg?t=1785110969",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785125064.5184903,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4709550": {
+        "Title": "Behind the corner",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4709550/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4709550/ff067adc322fe8522b8775b0a55f8f5a8dd01fcb/header.jpg?t=1785110230",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785125122.6997654,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4889640": {
+        "Title": "Save Me, Hero!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4889640/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4889640/7d8691a24d02d049c6115e7ce3bf0c82efefbc03/header.jpg?t=1785121818",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785125164.3028345,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4929880": {
+        "Title": "Shochimiki: The Eater's House",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4929880/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4929880/1cf1f6f635b54fbfb2254949e640f759a7cd4e29/header.jpg?t=1785124885",
+        "Date": "Jun 16, 2027",
+        "AddedDate": "2026-07-27",
+        "AddedTimestamp": 1785125196.6715717,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
