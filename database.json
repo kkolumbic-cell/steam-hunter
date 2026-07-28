@@ -40483,7 +40483,7 @@
     },
     "4625290": {
         "Title": "Incident Archives - Flight 882",
-        "Email": "hello@astronixgames.com, business@astronixgames.com, support@astronixgames.com",
+        "Email": "support@astronixgames.com, business@astronixgames.com, hello@astronixgames.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4625290/",
         "Site": "https://www.astronixgames.com/",
@@ -76461,9 +76461,9 @@
         "URL": "https://store.steampowered.com/app/4730820/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4730820/64151b565c51f01769fc318e10a7ea1b90dd319a/header.jpg?t=1780697081",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-07-25",
-        "AddedTimestamp": 1784976442.7714012,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785264566.2034342,
         "MatchedTags": [
             "tactical",
             "strategy"
@@ -81030,9 +81030,9 @@
         "URL": "https://store.steampowered.com/app/4606750/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4606750/e8aeb6e388f3e1aa82a2278f6a4a70d17f44075e/header.jpg?t=1781126209",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-20",
-        "AddedTimestamp": 1784580190.9905322,
+        "Date": "2026",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785264528.7815332,
         "MatchedTags": [
             "strategy",
             "tactical",
@@ -98634,9 +98634,9 @@
         "URL": "https://store.steampowered.com/app/4886760/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886760/4a1a92205d4f870a62300b65b5d1c7f34d1cf956/header.jpg?t=1782829979",
-        "Date": "July 2026",
-        "AddedDate": "2026-07-23",
-        "AddedTimestamp": 1784808357.2429852,
+        "Date": "Jul 28, 2026",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785264621.3329735,
         "MatchedTags": [
             "strategy",
             "management",
@@ -114706,9 +114706,9 @@
         "URL": "https://store.steampowered.com/app/4940570/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4940570/fcde1e8ee1f74df0885b9aa0c0d42be2270de339/header.jpg?t=1784412580",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-18",
-        "AddedTimestamp": 1784416384.7997975,
+        "Date": "To be announced",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785264635.9687479,
         "MatchedTags": [
             "tactical rpg"
         ]
@@ -116086,9 +116086,9 @@
         "URL": "https://store.steampowered.com/app/4970660/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4970660/65fc1b3e9fd607d0c42de336bc32c20b6dd09bff/header.jpg?t=1784568025",
-        "Date": "Aug 12, 2026",
-        "AddedDate": "2026-07-26",
-        "AddedTimestamp": 1785041161.0838628,
+        "Date": "Aug 13, 2026",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785264662.1520238,
         "MatchedTags": [
             "strategy"
         ]
@@ -124074,6 +124074,111 @@
             "economy",
             "real time tactics",
             "strategy"
+        ]
+    },
+    "4521000": {
+        "Title": "Madjack Vs Magic",
+        "Email": "",
+        "Discord": "https://discord.gg/madjack",
+        "URL": "https://store.steampowered.com/app/4521000/",
+        "Site": "https://madjackvsmagic.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4521000/27680a42ce13b566b12b86e96f04bb45e333674a/header.jpg?t=1785263050",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785264509.7371519,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4756050": {
+        "Title": "WHIPLASH",
+        "Email": "",
+        "Discord": "https://discord.gg/dmDPZnmtdq",
+        "URL": "https://store.steampowered.com/app/4756050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4756050/eabc985d8262c8ead2622451ccde52ec840d006f/header.jpg?t=1785261756",
+        "Date": "2026",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785264573.9882622,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4786960": {
+        "Title": "Pizza Revolution",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4786960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4786960/edce1d06ed270463930fdd55df491fd8f207950e/header.jpg?t=1785261889",
+        "Date": "Aug 26, 2026",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785264581.2584996,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4913770": {
+        "Title": "Corsair Fleet: Tides of Plunder",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4913770/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4913770/cbe6e7ceaa4e398e429c486d6a5d2da53a06c266/header.jpg?t=1785258129",
+        "Date": "October 2026",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785264630.6134198,
+        "MatchedTags": [
+            "economy",
+            "strategy"
+        ]
+    },
+    "4984140": {
+        "Title": "Pleiades Zero",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4984140/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4984140/ebf71e7fd8bd1ffb70a788796cc757ff99b42a03/header.jpg?t=1785263452",
+        "Date": "Aug 6, 2026",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785264671.069165,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4997100": {
+        "Title": "Aircraft Tycoon",
+        "Email": "contact@aircraft-tycoon.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4997100/",
+        "Site": "https://www.aircraft-tycoon.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4997100/49bf82d679e6357b7cddcf9d84d8eee7e07f4356/header.jpg?t=1785261990",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785264694.1664917,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "5001460": {
+        "Title": "Moros",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5001460/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5001460/fc75020ab0d79cb385baa8e5c901a896b07f5b44/header.jpg?t=1785261929",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785264705.0505357,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
         ]
     }
 }
