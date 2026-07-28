@@ -36610,6 +36610,7 @@
         "AddedDate": "2026-04-21",
         "AddedTimestamp": 1776780628.7688704,
         "MatchedTags": [
+            "strategy",
             "turn-based tactics"
         ]
     },
@@ -45963,10 +45964,9 @@
         "AddedDate": "2026-04-29",
         "AddedTimestamp": 1777500865.516295,
         "MatchedTags": [
-            "psychological horror",
             "horror",
-            "survival horror",
-            "management"
+            "psychological horror",
+            "survival horror"
         ]
     },
     "4671130": {
@@ -112794,9 +112794,9 @@
         "URL": "https://store.steampowered.com/app/4951190/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4951190/e70decc7e5d214c014de79ef98e9b4b2b2f43cdb/header.jpg?t=1784202613",
-        "Date": "Aug 13, 2026",
-        "AddedDate": "2026-07-18",
-        "AddedTimestamp": 1784365316.6615694,
+        "Date": "Aug 14, 2026",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785197636.592333,
         "MatchedTags": [
             "resource management"
         ]
@@ -114001,9 +114001,9 @@
         "URL": "https://store.steampowered.com/app/4881950/",
         "Site": "https://mk-industries.de/index.php",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4881950/1c90683cf6b221b0d8e275b9f03e959c7575e1ce/header.jpg?t=1784313069",
-        "Date": "Jul 22, 2026",
-        "AddedDate": "2026-07-17",
-        "AddedTimestamp": 1784316964.975822,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785197585.5258014,
         "MatchedTags": [
             "horror"
         ]
@@ -123476,6 +123476,42 @@
             "tactical rpg",
             "turn-based combat",
             "turn-based strategy"
+        ]
+    },
+    "2739510": {
+        "Title": "CangLang Scrolls",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2739510/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2739510/718fae9820881aff9370cb536b2cf2b76f63c774/header.jpg?t=1785195916",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785197542.2207184,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "tactical rpg",
+            "tactical",
+            "economy",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4609870": {
+        "Title": "Overbuffed",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4609870/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4609870/545def93e4c5d8fc5fff9bf6db3d2fadec1e7b7f/header.jpg?t=1785196029",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785197562.8165653,
+        "MatchedTags": [
+            "turn-based strategy",
+            "strategy",
+            "turn-based tactics"
         ]
     }
 }
