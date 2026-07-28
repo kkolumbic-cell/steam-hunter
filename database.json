@@ -47443,7 +47443,7 @@
     "4507590": {
         "Title": "Near Nobit",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/Ws5vM4kCnC",
         "URL": "https://store.steampowered.com/app/4507590/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4507590/0210dfaa26809c6006db6528578c78da04cfce3e/header.jpg?t=1777603836",
@@ -63458,7 +63458,7 @@
     "4478560": {
         "Title": "Hex Core",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/ENTtv4UESu",
         "URL": "https://store.steampowered.com/app/4478560/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4478560/baa5289ccfcdb5a4c1df603f2742dbcfd081d426/header.jpg?t=1779523640",
@@ -87237,7 +87237,7 @@
     "4776110": {
         "Title": "Guild Idle",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/csg66CckHW",
         "URL": "https://store.steampowered.com/app/4776110/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4776110/0792b2b4424b6f966a85f4ce91e4689171cbfd58/header.jpg?t=1781635394",
@@ -111129,6 +111129,7 @@
         "AddedDate": "2026-07-15",
         "AddedTimestamp": 1784097054.7045531,
         "MatchedTags": [
+            "resource management",
             "strategy"
         ]
     },
@@ -120786,9 +120787,9 @@
         "URL": "https://store.steampowered.com/app/4976450/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4976450/8c02bbf00c0865ff488ce72a670a4c7aed95906a/header.jpg?t=1784855617",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-25",
-        "AddedTimestamp": 1784961134.8635666,
+        "Date": "Aug 6, 2026",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785221050.5412374,
         "MatchedTags": [
             "strategy"
         ]
@@ -123652,6 +123653,77 @@
         "AddedTimestamp": 1785210260.6167514,
         "MatchedTags": [
             "base building"
+        ]
+    },
+    "3837820": {
+        "Title": "SnowJob",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3837820/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3837820/a949cc52059c258f1bffd4d74318b2a272e7dc6a/header.jpg?t=1785215626",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785220922.3103826,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4814330": {
+        "Title": "\u9690\u85cf\u6761\u6b3e",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4814330/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4814330/1e3d8b0b1ae2b146933723bcf47767249fe0067c/header.jpg?t=1785215294",
+        "Date": "Sep 30, 2026",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785220992.3060684,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4818090": {
+        "Title": "Chronoform",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4818090/",
+        "Site": "https://blureseka.com/projects/chronoform",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4818090/c6c227049b282d32cbfaa0f78d002ef1b72041e7/header.jpg?t=1785214434",
+        "Date": "December 2026",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785220995.098106,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4860120": {
+        "Title": "\u8bf8\u5929\u9886\u4e3b",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4860120/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4860120/1ea9727006439a3803455b25ee7529ddf5d09908/header.jpg?t=1785215090",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785221005.90795,
+        "MatchedTags": [
+            "colony sim"
+        ]
+    },
+    "4998690": {
+        "Title": "Stray Light",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4998690/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4998690/485ef869ac27cd0bb08fc4fd43467db10d78dc70/header.jpg?t=1785214644",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785221065.2667804,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
         ]
     }
 }
