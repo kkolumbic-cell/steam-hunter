@@ -41897,10 +41897,10 @@
     },
     "4638590": {
         "Title": "Goaldeck",
-        "Email": "",
+        "Email": "contact@pronobisgamestudio.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4638590/",
-        "Site": "",
+        "Site": "https://pronobisgamestudio.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4638590/2e5e144733bba33380b287326e69ff4581cc4ca6/header.jpg?t=1777143383",
         "Date": "Q3 2026",
         "AddedDate": "2026-04-25",
@@ -119025,9 +119025,9 @@
         "URL": "https://store.steampowered.com/app/4731430/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4731430/717f2787e7da67d9eafb8e80d409c30b72f317dd/header.jpg?t=1784740167",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-22",
-        "AddedTimestamp": 1784745429.979531,
+        "Date": "2027",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785249950.616763,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -119747,9 +119747,9 @@
         "URL": "https://store.steampowered.com/app/4934370/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4934370/b1ab86279d02d7d386727a189dc939d9240c4e63/header.jpg?t=1784807815",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-23",
-        "AddedTimestamp": 1784808383.6303303,
+        "Date": "Aug 13, 2026",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785250003.1672096,
         "MatchedTags": [
             "tactical"
         ]
@@ -123791,7 +123791,7 @@
     "4922880": {
         "Title": "Looper Survivors",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/6k3Q8aTcYB",
         "URL": "https://store.steampowered.com/app/4922880/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4922880/a5255c8d7c19e78a200ad83197d6ace7665202d0/header.jpg?t=1785240858",
@@ -123847,6 +123847,96 @@
         "MatchedTags": [
             "strategy",
             "tower defense"
+        ]
+    },
+    "2348960": {
+        "Title": "One Planet",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2348960/",
+        "Site": "https://oneplanetgame.net",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2348960/be63a524135a67b11f45c6817a72756dd453c90b/header.jpg?t=1785242060",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785249865.1449687,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4414260": {
+        "Title": "Violent Sky",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4414260/",
+        "Site": "https://StormTrackStudio.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4414260/ba3f5f8e1d4421a2f4fe0ada7a519beb02ceb52e/header.jpg?t=1785242455",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785249909.425506,
+        "MatchedTags": [
+            "real time tactics",
+            "management"
+        ]
+    },
+    "4546220": {
+        "Title": "BattleBricks",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4546220/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4546220/afebb8a4c74d62f9aa6fe12b3cd63f07eaeac59c/header.jpg?t=1785243733",
+        "Date": "August 2026",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785249920.6558645,
+        "MatchedTags": [
+            "real time tactics"
+        ]
+    },
+    "4862790": {
+        "Title": "Craftoon",
+        "Email": "pixelaborgames@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4862790/",
+        "Site": "https://pixelabor.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4862790/2d09a1b7a79ca1710295e8d9b46cad2c6d151db4/header.jpg?t=1785249251",
+        "Date": "Aug 5, 2026",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785249966.0824564,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4996340": {
+        "Title": "Depths of Providence",
+        "Email": "",
+        "Discord": "https://discord.gg/knJeRX3BWT",
+        "URL": "https://store.steampowered.com/app/4996340/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4996340/62ee43669a9bd0fe97c570a6a2229a92d0af4a85/header.jpg?t=1785248460",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785250055.0692174,
+        "MatchedTags": [
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4996380": {
+        "Title": "Freeze, Dummy!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4996380/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4996380/471f69ac1e5ffe7966bf6cd947c214f1292936e2/header.jpg?t=1785249309",
+        "Date": "2027",
+        "AddedDate": "2026-07-28",
+        "AddedTimestamp": 1785250057.2239635,
+        "MatchedTags": [
+            "management",
+            "tactical"
         ]
     }
 }
