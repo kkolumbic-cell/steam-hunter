@@ -1613,9 +1613,9 @@
         "URL": "https://store.steampowered.com/app/4451210/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4451210/de3774a8fb7f3b62aaf7a6a1ab6219ff4781c1db/header.jpg?t=1772723636",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-27",
-        "AddedTimestamp": 1774634793.4727232,
+        "Date": "Jul 30, 2026",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785354373.0869317,
         "MatchedTags": [
             "base building"
         ]
@@ -4440,9 +4440,9 @@
         "URL": "https://store.steampowered.com/app/4500280/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4500280/25e1721fbbd62b05d6658de7961ce0832a946a99/header.jpg?t=1773080070",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-28",
-        "AddedTimestamp": 1777409012.3964605,
+        "Date": "2026",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785354379.4909358,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -23239,9 +23239,9 @@
         "URL": "https://store.steampowered.com/app/4574370/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4574370/7f4c618dd72a91b9cc81e730deb4ea210013d25b/header.jpg?t=1775502123",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-06-04",
-        "AddedTimestamp": 1780563850.6977723,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785354394.6734343,
         "MatchedTags": [
             "strategy",
             "tactical"
@@ -100395,9 +100395,9 @@
         "URL": "https://store.steampowered.com/app/4808240/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4808240/6e55ff738816a4a1572e1fd934031330e75e321c/header.jpg?t=1783011606",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-02",
-        "AddedTimestamp": 1783015511.3261425,
+        "Date": "Jul 28, 2026",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785354417.2647161,
         "MatchedTags": [
             "strategy",
             "tower defense"
@@ -103570,9 +103570,9 @@
         "URL": "https://store.steampowered.com/app/4911390/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4911390/369e9c3f8eea99cebceb533ff98145a16b500017/header.jpg?t=1783386237",
-        "Date": "Jul 31, 2026",
-        "AddedDate": "2026-07-07",
-        "AddedTimestamp": 1783401051.247843,
+        "Date": "Aug 14, 2026",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785354469.4281132,
         "MatchedTags": [
             "horror"
         ]
@@ -125361,6 +125361,154 @@
             "strategy",
             "real time tactics",
             "tactical"
+        ]
+    },
+    "4380860": {
+        "Title": "Fool King",
+        "Email": "",
+        "Discord": "https://discord.com/invite/GngG8PfNw4",
+        "URL": "https://store.steampowered.com/app/4380860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4380860/642d05660c4f1e2b46f2d4a3acdbe30c8748d239/header_alt_assets_0.jpg?t=1785349114",
+        "Date": "2026",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785354368.428113,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4928690": {
+        "Title": "Duck Quest",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4928690/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4928690/d4f2240d7722690bbdb0faca842a34699ae52033/header.jpg?t=1785347938",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785354475.7503953,
+        "MatchedTags": [
+            "real time tactics"
+        ]
+    },
+    "4949240": {
+        "Title": "War In The Dark",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4949240/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4949240/db0667e57dca84e09719e85f82b6486c53245faa/header.jpg?t=1785349480",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785354483.0152361,
+        "MatchedTags": [
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical",
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "4975430": {
+        "Title": "Gunmetal Orbit",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4975430/",
+        "Site": "https://games.linecrush.com/gunmetal-orbit",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4975430/74f52ce174dba035e3d174bb8146ba400e517b07/header.jpg?t=1785347590",
+        "Date": "August 2026",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785354523.1468306,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "4977950": {
+        "Title": "Voxel Dynasties",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4977950/",
+        "Site": "https://voxeldynasties.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4977950/a63ffc6652236d979a1a7065298c22af4a97b55b/header.jpg?t=1785353864",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785354530.0391943,
+        "MatchedTags": [
+            "strategy",
+            "base building",
+            "resource management"
+        ]
+    },
+    "4988320": {
+        "Title": "Renz Village Adventure",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4988320/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4988320/d50cbc078c4e39e13043c3e32c7f7682560db3ba/header.jpg?t=1785352007",
+        "Date": "Sep 1, 2026",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785354544.8518167,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "colony sim",
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4995460": {
+        "Title": "Tiny Chef",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4995460/",
+        "Site": "https://tinychef.brydoncreative.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4995460/d7884d832f4fa855597fa631b9537f5ce291c6c6/header.jpg?t=1785353117",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785354553.3594687,
+        "MatchedTags": [
+            "management",
+            "base building",
+            "strategy"
+        ]
+    },
+    "5006600": {
+        "Title": "Mountainhall",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5006600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5006600/d8c79ea98846201e611f0f84cba3f8256eef5f68/header.jpg?t=1785350330",
+        "Date": "Jan 22, 2027",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785354573.312324,
+        "MatchedTags": [
+            "colony sim",
+            "base building",
+            "management",
+            "city builder",
+            "strategy",
+            "economy"
+        ]
+    },
+    "5006840": {
+        "Title": "The Five Monks",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5006840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5006840/58db95d4b30140521f146f3e0b721534f3f413d9/header.jpg?t=1785349616",
+        "Date": "Q2 2027",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785354578.886393,
+        "MatchedTags": [
+            "colony sim",
+            "strategy",
+            "base building",
+            "resource management"
         ]
     }
 }
