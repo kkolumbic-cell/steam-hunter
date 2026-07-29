@@ -29093,9 +29093,9 @@
         "URL": "https://store.steampowered.com/app/4587730/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4587730/ee94936ef065636caf1e96788e5fbf767e9784fb/header.jpg?t=1776065805",
-        "Date": "2026",
-        "AddedDate": "2026-04-13",
-        "AddedTimestamp": 1776071695.9562025,
+        "Date": "Aug 26, 2026",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785307615.008354,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -123721,9 +123721,9 @@
         "URL": "https://store.steampowered.com/app/4838300/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4838300/c6ee9da98509dc114fb3d278a0256ec307db149d/header.jpg?t=1785229976",
-        "Date": "TBA",
-        "AddedDate": "2026-07-28",
-        "AddedTimestamp": 1785232298.409209,
+        "Date": "To be announced",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785307677.7807353,
         "MatchedTags": [
             "strategy",
             "real time tactics",
@@ -124683,6 +124683,162 @@
         "MatchedTags": [
             "management",
             "economy"
+        ]
+    },
+    "4176270": {
+        "Title": "Zoollision",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4176270/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4176270/a684327c83818f8641a0ed9d8b4857ea21d3957c/header.jpg?t=1785307328",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785307592.704815,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4910720": {
+        "Title": "Celestial Sentinel",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4910720/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4910720/a6f03ba68262ee9cba91602d551cc1b694473917/header.jpg?t=1785297394",
+        "Date": "Aug 18, 2026",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785307700.390037,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "real time tactics",
+            "base building"
+        ]
+    },
+    "4928070": {
+        "Title": "Fire Vow: Dark Fantasy",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4928070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4928070/64e3b36f85d4b523d23c6e75a60de16cc3f13835/header.jpg?t=1785307226",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785307712.5645592,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4966810": {
+        "Title": "Mote",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4966810/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4966810/5565dcb7fe8f5385ea3df72c3250edab3eb0524e/header.jpg?t=1785306933",
+        "Date": "Jun 30, 2027",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785307728.4077744,
+        "MatchedTags": [
+            "tactical rpg",
+            "turn-based tactics",
+            "turn-based strategy",
+            "turn-based combat",
+            "tactical"
+        ]
+    },
+    "4978660": {
+        "Title": "The Medieval Doctor",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4978660/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4978660/55ae12a3d17c900a6bd1f9b5db97163c47083597/header.jpg?t=1785299256",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785307736.4411683,
+        "MatchedTags": [
+            "strategy",
+            "base building",
+            "management"
+        ]
+    },
+    "4986500": {
+        "Title": "Lineup, Dark Lord! : Auto Battler",
+        "Email": "",
+        "Discord": "https://discord.gg/AEM6ggjZu4",
+        "URL": "https://store.steampowered.com/app/4986500/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4986500/459529c4ff88816f13dd14cc3ca039e8f4cef996/header.jpg?t=1785296635",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785307748.7187324,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4993930": {
+        "Title": "Pixel Worker",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4993930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4993930/81422e90a5b903da8a5e5b84e64e1aec4606e817/header.jpg?t=1785299527",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785307758.1341722,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4996520": {
+        "Title": "Apawcalypse: Corrupted Brain",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4996520/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4996520/685b31a9700aabac2475cbeb0fce0b0c3c0499c3/header.jpg?t=1785301465",
+        "Date": "November 2026",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785307760.2768712,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "4998010": {
+        "Title": "Party Tycoon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4998010/",
+        "Site": "https://party-tycoon.com?ref=steam",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4998010/87a91cee105659a83ef9160f229a8843cbe5af00/header.jpg?t=1785301842",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785307763.3766494,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4999100": {
+        "Title": "Eucalyptus Edge: MegaBlast Mayhem",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4999100/",
+        "Site": "https://phoenixgoldz.github.io/megablast-mayhem.html",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4999100/8bbabb5523ce5fca6cf89d027ec042f4455899a8/header.jpg?t=1785300147",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785307766.1297307,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
         ]
     }
 }
