@@ -32922,9 +32922,9 @@
         "URL": "https://store.steampowered.com/app/4615330/",
         "Site": "https://roboscav.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4615330/9686c541ccf09b109b61d77bb89e6bfd7887a627/header.jpg?t=1776356018",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-23",
-        "AddedTimestamp": 1776981876.044262,
+        "Date": "2027",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785363384.0259492,
         "MatchedTags": [
             "turn-based combat",
             "turn-based strategy",
@@ -51220,9 +51220,9 @@
         "URL": "https://store.steampowered.com/app/4655950/",
         "Site": "https://grayowl.studio/tinymancer",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4655950/752d60322ef18b92015e5a63e77dde1c09ad2db9/header.jpg?t=1778009115",
-        "Date": "Oct 23, 2026",
-        "AddedDate": "2026-05-05",
-        "AddedTimestamp": 1778012440.2837882,
+        "Date": "Oct 29, 2026",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785363389.6889796,
         "MatchedTags": [
             "base building"
         ]
@@ -109426,9 +109426,9 @@
         "URL": "https://store.steampowered.com/app/4877260/",
         "Site": "https://roomzeroteam.pages.dev/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4877260/6261792c0b56b6439abb99d5ad42def633fe18bd/header.jpg?t=1783968983",
-        "Date": "Jul 29, 2026",
-        "AddedDate": "2026-07-13",
-        "AddedTimestamp": 1783972566.7106528,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785363416.2830784,
         "MatchedTags": [
             "horror"
         ]
@@ -125634,6 +125634,69 @@
             "economy",
             "management",
             "resource management"
+        ]
+    },
+    "4468970": {
+        "Title": "Rift Protocol",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4468970/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4468970/34b752eeb4119c49a07e70ca0993f52d5d2cc4e7/header.jpg?t=1785361377",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785363370.110927,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tactical"
+        ]
+    },
+    "4789190": {
+        "Title": "AerOS Sight: Digital Bubble Edition",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4789190/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4789190/4b154aa54c2292e9b96eb31cd551f57c66610d6b/header.jpg?t=1785361841",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785363402.6445184,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "4849980": {
+        "Title": "Unfated",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4849980/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849980/f0197819069e231c4bdbdd71ce1e79a0b45cef46/header.jpg?t=1785361790",
+        "Date": "TBA",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785363410.0334795,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "tactical rpg",
+            "tactical",
+            "turn-based tactics"
+        ]
+    },
+    "5000660": {
+        "Title": "GWIRO",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5000660/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5000660/311dd1ca73b81b564157456bf8a0af95f0bc679a/header.jpg?t=1785360951",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785363453.1649215,
+        "MatchedTags": [
+            "psychological horror"
         ]
     }
 }
