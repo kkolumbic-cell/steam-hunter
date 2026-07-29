@@ -96405,7 +96405,8 @@
         "AddedDate": "2026-07-19",
         "AddedTimestamp": 1784433575.924928,
         "MatchedTags": [
-            "turn-based tactics"
+            "turn-based tactics",
+            "strategy"
         ]
     },
     "4872150": {
@@ -117296,10 +117297,10 @@
     },
     "4969370": {
         "Title": "Shadows of Christmas Eve",
-        "Email": "",
+        "Email": "team@inloopstudios.com",
         "Discord": "https://discord.gg/RD5rWPNzPT",
         "URL": "https://store.steampowered.com/app/4969370/",
-        "Site": "",
+        "Site": "https://inloopstudios.com/#juego",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4969370/463491ae4f173923d55ce37b9eb91b0f05f04be9/header.jpg?t=1784640049",
         "Date": "Coming soon",
         "AddedDate": "2026-07-21",
@@ -124530,6 +124531,36 @@
         "AddedTimestamp": 1785277294.4054668,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4822930": {
+        "Title": "SnapQuest",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4822930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4822930/f6687684fdae35a4322cfaf5b35d88b95b41e620/header.jpg?t=1785280657",
+        "Date": "September 2026",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785283908.9628148,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4952020": {
+        "Title": "Ouroboros Break",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4952020/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4952020/4b6cff58d5929dc69f585580116d7b7c105096e9/header.jpg?t=1785280929",
+        "Date": "April 2027",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785283955.999365,
+        "MatchedTags": [
+            "base building"
         ]
     }
 }
