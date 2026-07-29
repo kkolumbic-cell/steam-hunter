@@ -2541,7 +2541,7 @@
     },
     "3664020": {
         "Title": "Dungeon Dominator",
-        "Email": "hr@next-genium.com, info@next-genium.com, pr@next-genium.com",
+        "Email": "pr@next-genium.com, info@next-genium.com, hr@next-genium.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/3664020/",
         "Site": "https://next-genium.com",
@@ -104004,9 +104004,9 @@
         "URL": "https://store.steampowered.com/app/4916780/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4916780/9d7f14ba8566c97fe587e33d0e96f0d688ec2612/header.jpg?t=1783434633",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-24",
-        "AddedTimestamp": 1784894301.3459084,
+        "Date": "Aug 3, 2026",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785327879.5994785,
         "MatchedTags": [
             "economy",
             "resource management"
@@ -109932,8 +109932,8 @@
         "AddedDate": "2026-07-14",
         "AddedTimestamp": 1784000481.2821696,
         "MatchedTags": [
-            "psychological horror",
             "horror",
+            "psychological horror",
             "survival horror"
         ]
     },
@@ -111803,11 +111803,11 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4877590/",
-        "Site": "",
+        "Site": "https://singulier-zeta.vercel.app/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4877590/788fcb3b4c5443ad0db1cf7feb455e83cf97f504/header.jpg?t=1784132594",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-15",
-        "AddedTimestamp": 1784137324.4063888,
+        "Date": "Jul 29, 2026",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785327861.918341,
         "MatchedTags": [
             "strategy"
         ]
@@ -116090,9 +116090,9 @@
         "URL": "https://store.steampowered.com/app/4970660/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4970660/65fc1b3e9fd607d0c42de336bc32c20b6dd09bff/header.jpg?t=1784568025",
-        "Date": "Aug 13, 2026",
-        "AddedDate": "2026-07-28",
-        "AddedTimestamp": 1785264662.1520238,
+        "Date": "Aug 20, 2026",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785327922.3496833,
         "MatchedTags": [
             "strategy"
         ]
@@ -119736,9 +119736,9 @@
         "URL": "https://store.steampowered.com/app/4934370/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4934370/b1ab86279d02d7d386727a189dc939d9240c4e63/header.jpg?t=1784807815",
-        "Date": "Aug 13, 2026",
-        "AddedDate": "2026-07-28",
-        "AddedTimestamp": 1785250003.1672096,
+        "Date": "Aug 14, 2026",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785327889.9403517,
         "MatchedTags": [
             "tactical"
         ]
@@ -123636,7 +123636,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/3837820/",
-        "Site": "",
+        "Site": "https://muted.games/snowjob/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3837820/a949cc52059c258f1bffd4d74318b2a272e7dc6a/header.jpg?t=1785215626",
         "Date": "Coming soon",
         "AddedDate": "2026-07-28",
@@ -124920,6 +124920,83 @@
         "AddedTimestamp": 1785319348.702628,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4714250": {
+        "Title": "Loreth",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4714250/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4714250/5eac96fb8f5b6fde0ada20442fbf6d8497f51ef5/header.jpg?t=1785322363",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785327810.3368618,
+        "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "4932770": {
+        "Title": "DOGEZA",
+        "Email": "support@masaka-studio.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4932770/",
+        "Site": "https://masaka-studio.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4932770/dafae6f3d12184be4148a7df5d8a259cb014c6d4/header.jpg?t=1785325715",
+        "Date": "2026",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785327887.549375,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4962850": {
+        "Title": "Joker's Last Call",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4962850/",
+        "Site": "https://ganaholdings.github.io/jlc-support/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4962850/8c280f832671a504595abfa354353da4ea1962db/header.jpg?t=1785326442",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785327913.6055152,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4989880": {
+        "Title": "Industrial Mogul",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4989880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4989880/b8a3a4b9541722ae55e89382ef159eb5ed0f42f1/header.jpg?t=1785325547",
+        "Date": "TBA",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785327931.1590424,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management",
+            "resource management",
+            "city builder"
+        ]
+    },
+    "4992070": {
+        "Title": "Sort Them Ducks",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4992070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4992070/52ee7fca29b20f089decc254088b4beba0eea112/header.jpg?t=1785322757",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-29",
+        "AddedTimestamp": 1785327933.1442537,
+        "MatchedTags": [
+            "resource management"
         ]
     }
 }
