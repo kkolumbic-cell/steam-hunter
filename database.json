@@ -71164,7 +71164,7 @@
         "AddedTimestamp": 1780791615.906643,
         "MatchedTags": [
             "management",
-            "strategy",
+            "economy",
             "base building"
         ]
     },
@@ -84264,9 +84264,9 @@
         "URL": "https://store.steampowered.com/app/4794120/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4794120/7fe8e6342b683ea51e2136e82f3b24e89145bc92/header.jpg?t=1781321291",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-13",
-        "AddedTimestamp": 1781332555.7297451,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785370405.8467026,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -108505,9 +108505,9 @@
         "URL": "https://store.steampowered.com/app/4905390/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4905390/910c1e549f2492f78f8bc33fea11f74df4a6921a/header.jpg?t=1783801734",
-        "Date": "Jul 30, 2026",
-        "AddedDate": "2026-07-27",
-        "AddedTimestamp": 1785125174.589328,
+        "Date": "Jul 29, 2026",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785370439.71965,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -109426,9 +109426,9 @@
         "URL": "https://store.steampowered.com/app/4877260/",
         "Site": "https://roomzeroteam.pages.dev/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4877260/6261792c0b56b6439abb99d5ad42def633fe18bd/header.jpg?t=1783968983",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-29",
-        "AddedTimestamp": 1785363416.2830784,
+        "Date": "Jul 29, 2026",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785370434.0698771,
         "MatchedTags": [
             "horror"
         ]
@@ -124815,21 +124815,6 @@
             "resource management"
         ]
     },
-    "4999100": {
-        "Title": "Eucalyptus Edge: MegaBlast Mayhem",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4999100/",
-        "Site": "https://phoenixgoldz.github.io/megablast-mayhem.html",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4999100/8bbabb5523ce5fca6cf89d027ec042f4455899a8/header.jpg?t=1785300147",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-29",
-        "AddedTimestamp": 1785307766.1297307,
-        "MatchedTags": [
-            "strategy",
-            "tactical"
-        ]
-    },
     "4464190": {
         "Title": "Petty Ungodliness",
         "Email": "",
@@ -125697,6 +125682,79 @@
         "AddedTimestamp": 1785363453.1649215,
         "MatchedTags": [
             "psychological horror"
+        ]
+    },
+    "3948540": {
+        "Title": "Incremental Heaven",
+        "Email": "",
+        "Discord": "https://discord.gg/MfMJwr8uJZ",
+        "URL": "https://store.steampowered.com/app/3948540/",
+        "Site": "https://pickyouruniverse.com/index.php",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3948540/8a1d50e3b925a8d5672c1e584934e737d0f116ad/header.jpg?t=1785367125",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785370370.4971647,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4596270": {
+        "Title": "Tire Service Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4596270/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596270/78c5f4edcecfa304680f2e4e5e2b393008f03afc/header.jpg?t=1785370257",
+        "Date": "To be announced",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785370383.216479,
+        "MatchedTags": [
+            "economy",
+            "resource management"
+        ]
+    },
+    "4966300": {
+        "Title": "LOTTERY",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4966300/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4966300/361e077e90e07b2321ee33e51a610743bc68f4fd/header.jpg?t=1785370105",
+        "Date": "December 2026",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785370455.8182006,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4986290": {
+        "Title": "Shanhai Exorcist: Yin-Yang Chronicles",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4986290/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4986290/d4668cb8afa86881579cfc0b5c4abfdb2cccda62/header.jpg?t=1785369698",
+        "Date": "Aug 2, 2026",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785370468.1598914,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "5005310": {
+        "Title": "Jank Yard",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5005310/",
+        "Site": "https://watashigames.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5005310/36babc00a272e1f8e4f511668ff92721b000dbb8/header.jpg?t=1785365305",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785370489.128913,
+        "MatchedTags": [
+            "management"
         ]
     }
 }
