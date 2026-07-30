@@ -65202,9 +65202,9 @@
         "URL": "https://store.steampowered.com/app/4745440/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4745440/ca57a453359283693c5eba607d7cd0716202b4cf/header.jpg?t=1779807721",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-26",
-        "AddedTimestamp": 1779814946.0384448,
+        "Date": "Jul 30, 2026",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785450087.5646987,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -79363,7 +79363,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4815980/",
-        "Site": "",
+        "Site": "https://impress.games/press-kit/invantage-studios/return-to-planet-zoveka",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4815980/6cd42c4908b69aa49efed2d2451e1e0604b2d995/header.jpg?t=1781015361",
         "Date": "Oct 28, 2026",
         "AddedDate": "2026-07-27",
@@ -116377,9 +116377,9 @@
         "URL": "https://store.steampowered.com/app/4935060/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4935060/7593718b7a97bf478ce429738780a5911afc1a75/header.jpg?t=1784584406",
-        "Date": "January 2027",
-        "AddedDate": "2026-07-25",
-        "AddedTimestamp": 1784999909.4890285,
+        "Date": "To be announced",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785450133.7886307,
         "MatchedTags": [
             "economy"
         ]
@@ -123325,9 +123325,9 @@
         "URL": "https://store.steampowered.com/app/4996220/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4996220/a2d8911462b7cf056c7cc928d279e605574fbf82/header.jpg?t=1785182047",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-27",
-        "AddedTimestamp": 1785185215.1101768,
+        "Date": "November 2026",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785450165.5554404,
         "MatchedTags": [
             "resource management",
             "turn-based combat"
@@ -126942,6 +126942,84 @@
         "AddedTimestamp": 1785443906.2111206,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4590170": {
+        "Title": "Launch Window",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4590170/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4590170/d31a95a2b9d8866a8cb4fe6f0164cb27ddb81656/header.jpg?t=1785447389",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785450069.8204472,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4819760": {
+        "Title": "Duskfire",
+        "Email": "contact@benevolentbash.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4819760/",
+        "Site": "https://www.benevolentbash.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4819760/1d71a1681eb6f3afee79058b60394ce5a271ba0d/header.jpg?t=1785447119",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785450096.6241012,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4944490": {
+        "Title": "Kairos: In Step with Time",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4944490/",
+        "Site": "https://git.arts.ac.uk/pages/j-lin0520252/Kairos-official-Website-ARG/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4944490/0570816bc4c85ae1c2e5f2975b293337d43fabb1/header.jpg?t=1785447245",
+        "Date": "July 2026",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785450139.2854142,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4999570": {
+        "Title": "Minesweeper Inc.",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4999570/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4999570/93dd57504989d3f9ecd9208e2a44282bae1b8556/header.jpg?t=1785446712",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785450169.0021982,
+        "MatchedTags": [
+            "strategy",
+            "economy"
+        ]
+    },
+    "5007590": {
+        "Title": "Abys Orbit",
+        "Email": "support@abysorbit.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5007590/",
+        "Site": "https://abysorbit.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5007590/f42ead8719e4d9e2ad2a9a4a5dfa320a3540fc13/header.jpg?t=1785448053",
+        "Date": "Aug 10, 2026",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785450174.501246,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "real time tactics"
         ]
     }
 }
