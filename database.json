@@ -62776,9 +62776,9 @@
         "URL": "https://store.steampowered.com/app/4677610/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4677610/f2604260f82e522313cc9c067ddecf175aa50aba/header.jpg?t=1779445514",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-12",
-        "AddedTimestamp": 1783897855.3496218,
+        "Date": "September 2026",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785443802.4928484,
         "MatchedTags": [
             "strategy",
             "management",
@@ -77244,9 +77244,9 @@
         "URL": "https://store.steampowered.com/app/4812060/",
         "Site": "https://terminalwarfare.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4812060/0546de8cbf288be89eea7ea9cc587137eab3dd4b/header.jpg?t=1780796263",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-08",
-        "AddedTimestamp": 1780902541.8548455,
+        "Date": "Jul 30, 2026",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785443828.8247502,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -112146,9 +112146,9 @@
         "URL": "https://store.steampowered.com/app/4953610/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4953610/1517978112c058f19faa82a411006f1194c9fa0a/header.jpg?t=1784144134",
-        "Date": "TBA",
-        "AddedDate": "2026-07-15",
-        "AddedTimestamp": 1784144449.4430394,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785443882.3760848,
         "MatchedTags": [
             "management"
         ]
@@ -126900,6 +126900,48 @@
             "turn-based tactics",
             "turn-based combat",
             "tactical"
+        ]
+    },
+    "4986050": {
+        "Title": "Network & Cyber Security Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4986050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4986050/bd5bc5d279084e9829cfa44c9b5b873b1c13011e/header.jpg?t=1785441568",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785443900.5311334,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4989370": {
+        "Title": "Witch's Last Curse",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4989370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4989370/e5aef3a28d47fd22e11d638eb9117bc5db51a86d/header.jpg?t=1785443160",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785443903.712902,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4990070": {
+        "Title": "Deckforce",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4990070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4990070/c43d8c5eaabd5614a5cfcebcc67dc763afc092b6/header.jpg?t=1785442975",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785443906.2111206,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
