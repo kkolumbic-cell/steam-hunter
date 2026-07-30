@@ -13793,9 +13793,9 @@
         "URL": "https://store.steampowered.com/app/4516010/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516010/39a27f8fd502d6d1267f3723916870723df8b287/header.jpg?t=1774415525",
-        "Date": "Q1 2027",
-        "AddedDate": "2026-05-25",
-        "AddedTimestamp": 1779725095.1224537,
+        "Date": "Q2 2027",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785393814.8592613,
         "MatchedTags": [
             "strategy"
         ]
@@ -63286,9 +63286,9 @@
         "URL": "https://store.steampowered.com/app/4638760/",
         "Site": "https://tomytrouble.com/en",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4638760/79f71e2c6d4e14e7637c1dbc1e046af459e210d6/header.jpg?t=1779484208",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-22",
-        "AddedTimestamp": 1779485895.9535742,
+        "Date": "Jul 29, 2026",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785393835.5181422,
         "MatchedTags": [
             "tactical"
         ]
@@ -80487,9 +80487,9 @@
     "4504900": {
         "Title": "Slots & Slaughter",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/3UUVNXey4V",
         "URL": "https://store.steampowered.com/app/4504900/",
-        "Site": "",
+        "Site": "https://indieformer.com/slots-slaughter/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4504900/14564e2620834e5e32da4fb237817b1c2cb84b8a/header.jpg?t=1781093419",
         "Date": "2026",
         "AddedDate": "2026-06-10",
@@ -112192,9 +112192,9 @@
         "URL": "https://store.steampowered.com/app/4944480/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4944480/e27e95ae965691cc54b057b301a13743674a34c0/header.jpg?t=1784147320",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-15",
-        "AddedTimestamp": 1784150301.6201,
+        "Date": "Nov 12, 2026",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785393907.991952,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -114801,7 +114801,7 @@
     },
     "4937320": {
         "Title": "KAREI - ENDLESS DEATH MATCH",
-        "Email": "",
+        "Email": "support@karei.net",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4937320/",
         "Site": "https://karei.net",
@@ -115284,13 +115284,14 @@
         "URL": "https://store.steampowered.com/app/3549030/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3549030/d29c0058243a70b9bb0854fe6847b19f6d6a7436/header.jpg?t=1784528579",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-07-20",
-        "AddedTimestamp": 1784532706.8236063,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785393788.5553973,
         "MatchedTags": [
-            "strategy",
             "turn-based combat",
-            "management"
+            "tactical rpg",
+            "management",
+            "strategy"
         ]
     },
     "4886620": {
@@ -125435,9 +125436,9 @@
         "URL": "https://store.steampowered.com/app/4988320/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4988320/d50cbc078c4e39e13043c3e32c7f7682560db3ba/header.jpg?t=1785352007",
-        "Date": "Sep 1, 2026",
-        "AddedDate": "2026-07-29",
-        "AddedTimestamp": 1785354544.8518167,
+        "Date": "Aug 17, 2026",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785393941.198173,
         "MatchedTags": [
             "strategy",
             "city builder",
@@ -125973,6 +125974,174 @@
             "turn-based strategy",
             "turn-based combat",
             "strategy"
+        ]
+    },
+    "4516500": {
+        "Title": "Marque & Reprisal",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4516500/",
+        "Site": "https://marque-and-reprisal.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516500/e49a2665e828b10ec55741a0fd180675004fa486/header.jpg?t=1785391318",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785393816.8616402,
+        "MatchedTags": [
+            "resource management",
+            "economy"
+        ]
+    },
+    "4557390": {
+        "Title": "Goblins and Gunslingers",
+        "Email": "",
+        "Discord": "https://discord.gg/KAzHVyMja2",
+        "URL": "https://store.steampowered.com/app/4557390/",
+        "Site": "https://www.goblinsandgunslingers.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557390/da5a98df3d2085b08bedaa499c332ccf2df7e425/header.jpg?t=1785382923",
+        "Date": "August 2026",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785393821.400706,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4885360": {
+        "Title": "Saturn Rising",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4885360/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4885360/31eeae19f0fdbdbcdfae2493ad555fd714c6426c/header.jpg?t=1785384348",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785393870.5954728,
+        "MatchedTags": [
+            "base building",
+            "resource management",
+            "tower defense",
+            "city builder",
+            "real time tactics"
+        ]
+    },
+    "4931450": {
+        "Title": "Alone: far from home",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4931450/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931450/98d1e854a09cbbff3aa8361a9887406f48b0c7fc/header.jpg?t=1785390565",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785393893.3441935,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4971600": {
+        "Title": "Flux Grid",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4971600/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4971600/cc23bc6f3b256e46009b202252ca0eb533a45d9d/header.jpg?t=1785385661",
+        "Date": "Aug 13, 2026",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785393919.4021337,
+        "MatchedTags": [
+            "turn-based tactics"
+        ]
+    },
+    "4971700": {
+        "Title": "Deadroll",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4971700/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4971700/3c9d0be63e6777d43a2a50482aef70d744e0691f/header.jpg?t=1785393888",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785393921.9609873,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4981100": {
+        "Title": "Broadside Bash\uff08\u8237\u70ae\u4e71\u6597\uff09",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4981100/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4981100/ae3ff86aa36c9f1f452cf868a86dc8558eb3f41f/header.jpg?t=1785383472",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785393930.4215424,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics"
+        ]
+    },
+    "4997870": {
+        "Title": "Archive of Fate",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4997870/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4997870/c86674813dc4542c1307bd6b19ec96e5ea6b025d/header.jpg?t=1785389867",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785393948.671465,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat",
+            "tactical"
+        ]
+    },
+    "4998370": {
+        "Title": "Hatching of Gods and Demons",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4998370/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4998370/070fd153f683379e72a2ccc67711d9228b7c392b/header.jpg?t=1785385715",
+        "Date": "Aug 14, 2026",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785393951.428748,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5001100": {
+        "Title": "Da Bomb!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5001100/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001100/692279701a402b1424776af5c48012bc4f057894/header.jpg?t=1785393911",
+        "Date": "August 2026",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785393953.6359472,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5005180": {
+        "Title": "Checkmate: The Red General\u2019s Last Move",
+        "Email": "",
+        "Discord": "https://discord.gg/9KDs5cDqW",
+        "URL": "https://store.steampowered.com/app/5005180/",
+        "Site": "https://checkmate-wangzhi-2026.kanadesama0602.chatgpt.site/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5005180/d9b6edeafec4db93b9cdd7dc6f9b31a3eaa0a32c/header.jpg?t=1785386317",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-07-30",
+        "AddedTimestamp": 1785393958.350864,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "turn-based combat",
+            "tactical"
         ]
     }
 }
