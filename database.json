@@ -20525,9 +20525,9 @@
         "URL": "https://store.steampowered.com/app/4574820/",
         "Site": "https://kuzzigames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4574820/1158f038ca024af322246a5e37d16bc7de0aae10/header.jpg?t=1775081626",
-        "Date": "Aug 21, 2026",
-        "AddedDate": "2026-06-03",
-        "AddedTimestamp": 1780470946.1759105,
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-31",
+        "AddedTimestamp": 1785533449.4962509,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -81947,7 +81947,8 @@
         "MatchedTags": [
             "strategy",
             "turn-based combat",
-            "resource management"
+            "resource management",
+            "turn-based strategy"
         ]
     },
     "4831140": {
@@ -83098,7 +83099,7 @@
     "4628160": {
         "Title": "Speak",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/x4VVndAqSU",
         "URL": "https://store.steampowered.com/app/4628160/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4628160/0cc3b71fe2bad07ac9d354770708f275ffb8dca2/header.jpg?t=1781272449",
@@ -109484,10 +109485,10 @@
     },
     "4924030": {
         "Title": "Malleus",
-        "Email": "",
+        "Email": "arkspirestudios@gmail.com",
         "Discord": "https://discord.gg/dcAevHXv58",
         "URL": "https://store.steampowered.com/app/4924030/",
-        "Site": "",
+        "Site": "https://sites.google.com/view/malleusgame/home",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4924030/6261e522c13567a20249c5c7fbd22dea89b5424d/header.jpg?t=1783960784",
         "Date": "Coming soon",
         "AddedDate": "2026-07-13",
@@ -128221,6 +128222,66 @@
         "AddedTimestamp": 1785527835.0347576,
         "MatchedTags": [
             "real time tactics"
+        ]
+    },
+    "4555580": {
+        "Title": "Restoraether",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4555580/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555580/4f40ca26ee61085f46f321e12b28fb8cfb03aa86/header.jpg?t=1785529784",
+        "Date": "2027",
+        "AddedDate": "2026-07-31",
+        "AddedTimestamp": 1785533441.0277538,
+        "MatchedTags": [
+            "base building",
+            "resource management"
+        ]
+    },
+    "4973030": {
+        "Title": "Illegal Mechanic Simulator",
+        "Email": "",
+        "Discord": "https://discord.gg/h8cccReRhT",
+        "URL": "https://store.steampowered.com/app/4973030/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4973030/8934e89377566cc130dd0373a39d4a4f5fb45e88/header.jpg?t=1785529295",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-31",
+        "AddedTimestamp": 1785533541.930134,
+        "MatchedTags": [
+            "management",
+            "tactical",
+            "resource management"
+        ]
+    },
+    "5010980": {
+        "Title": "Bloody Pineapple",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5010980/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5010980/9b96aff248f5bae33e8ffe18cd130aea01db9571/header.jpg?t=1785528484",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-31",
+        "AddedTimestamp": 1785533558.1984637,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5012170": {
+        "Title": "Hollow Hours - Cheap House",
+        "Email": "",
+        "Discord": "https://discord.gg/hWSqC7yu",
+        "URL": "https://store.steampowered.com/app/5012170/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5012170/7015a8b5ed52683465b4b5c5981dcc6d3cc151f5/header.jpg?t=1785529088",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-31",
+        "AddedTimestamp": 1785533561.1687806,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
