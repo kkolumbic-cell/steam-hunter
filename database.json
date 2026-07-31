@@ -55567,9 +55567,9 @@
         "URL": "https://store.steampowered.com/app/4681870/",
         "Site": "https://heliodawn.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4681870/d80666737bafe5a35ed4d01e584beca8eb06a179/header.jpg?t=1778539935",
-        "Date": "Dec 31, 2026",
-        "AddedDate": "2026-05-11",
-        "AddedTimestamp": 1778541228.172538,
+        "Date": "2026",
+        "AddedDate": "2026-07-31",
+        "AddedTimestamp": 1785539907.208472,
         "MatchedTags": [
             "strategy",
             "city builder",
@@ -81694,9 +81694,9 @@
         "URL": "https://store.steampowered.com/app/4725220/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4725220/f5af48a0ec5ffc27ba013554a5859ced2a14456d/header.jpg?t=1781182611",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-11",
-        "AddedTimestamp": 1781195666.7922957,
+        "Date": "2026",
+        "AddedDate": "2026-07-31",
+        "AddedTimestamp": 1785539915.514287,
         "MatchedTags": [
             "economy",
             "management",
@@ -104337,9 +104337,9 @@
         "URL": "https://store.steampowered.com/app/4904740/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4904740/0d929fdb94a98d8f217c52d0b3e87063de8bdd83/header.jpg?t=1783449507",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-07",
-        "AddedTimestamp": 1783458120.7069097,
+        "Date": "Oct 15, 2026",
+        "AddedDate": "2026-07-31",
+        "AddedTimestamp": 1785539952.5784752,
         "MatchedTags": [
             "resource management"
         ]
@@ -109574,7 +109574,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4937370/",
-        "Site": "",
+        "Site": "https://pbandgames.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4937370/9f607fd10296945efbed9b1e33f408f20794c83b/header.jpg?t=1783960025",
         "Date": "November 2026",
         "AddedDate": "2026-07-23",
@@ -112118,9 +112118,9 @@
         "URL": "https://store.steampowered.com/app/4953610/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4953610/1517978112c058f19faa82a411006f1194c9fa0a/header.jpg?t=1784144134",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-30",
-        "AddedTimestamp": 1785443882.3760848,
+        "Date": "Aug 5, 2026",
+        "AddedDate": "2026-07-31",
+        "AddedTimestamp": 1785539963.3275597,
         "MatchedTags": [
             "management"
         ]
@@ -128105,9 +128105,9 @@
         "URL": "https://store.steampowered.com/app/5003290/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5003290/322bc9a781c5ce175178f6d37a2b7184f3ab5d8f/header.jpg?t=1785520550",
-        "Date": "TBA",
+        "Date": "Coming soon",
         "AddedDate": "2026-07-31",
-        "AddedTimestamp": 1785520925.509643,
+        "AddedTimestamp": 1785539981.577893,
         "MatchedTags": [
             "strategy"
         ]
@@ -128282,6 +128282,55 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "3928190": {
+        "Title": "Backto 2035",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3928190/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3928190/74cf396db5f885f830cd9a387b7a02a0e4737319/header.jpg?t=1785538356",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-31",
+        "AddedTimestamp": 1785539872.7303393,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics"
+        ]
+    },
+    "4922330": {
+        "Title": "Casino Legends",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4922330/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4922330/845e4960920f1841a958073eb8035659abacbc73/header.jpg?t=1785534454",
+        "Date": "Aug 18, 2026",
+        "AddedDate": "2026-07-31",
+        "AddedTimestamp": 1785539959.1608505,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4985590": {
+        "Title": "The Darker Night: Regent City",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4985590/",
+        "Site": "https://www.spinnerzeit.com/thedarkernight-regent-city",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4985590/8e0172bd2ff4bc3b8ad87c727a02cc11710be11d/header.jpg?t=1785538677",
+        "Date": "Coming soon",
+        "AddedDate": "2026-07-31",
+        "AddedTimestamp": 1785539973.676702,
+        "MatchedTags": [
+            "management",
+            "strategy",
+            "resource management",
+            "city builder"
         ]
     }
 }
