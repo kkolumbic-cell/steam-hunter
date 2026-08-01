@@ -71703,9 +71703,9 @@
         "URL": "https://store.steampowered.com/app/4778060/",
         "Site": "https://pixeldripgames.com.au/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4778060/ea8ef8d4549ea8b9fe60aa345b44f51c35e444cf/header.jpg?t=1780354339",
-        "Date": "October 2026",
-        "AddedDate": "2026-06-02",
-        "AddedTimestamp": 1780364493.8942254,
+        "Date": "To be announced",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785566579.8409426,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -73802,8 +73802,7 @@
         "AddedDate": "2026-06-03",
         "AddedTimestamp": 1780522484.3201203,
         "MatchedTags": [
-            "turn-based tactics",
-            "turn-based strategy"
+            "strategy"
         ]
     },
     "4699370": {
@@ -82372,7 +82371,8 @@
         "MatchedTags": [
             "base building",
             "resource management",
-            "management"
+            "management",
+            "strategy"
         ]
     },
     "4761790": {
@@ -82702,9 +82702,9 @@
         "URL": "https://store.steampowered.com/app/4807960/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4807960/52cd97f1d8f15c57d69b1c6331e7caf3b4a34ea9/header.jpg?t=1781245328",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-13",
-        "AddedTimestamp": 1783928546.5816083,
+        "Date": "Sep 3, 2026",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785566586.7224772,
         "MatchedTags": [
             "strategy",
             "turn-based combat"
@@ -111842,7 +111842,8 @@
         "AddedDate": "2026-07-29",
         "AddedTimestamp": 1785346963.9484034,
         "MatchedTags": [
-            "strategy"
+            "strategy",
+            "tower defense"
         ]
     },
     "4918530": {
@@ -113054,9 +113055,9 @@
         "URL": "https://store.steampowered.com/app/4935320/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4935320/98f8a05f0a91e4d0d13210295a6f2d72b7799612/header.jpg?t=1784216581",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-16",
-        "AddedTimestamp": 1784220373.0195332,
+        "Date": "August 2026",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785566634.0738845,
         "MatchedTags": [
             "resource management"
         ]
@@ -127210,8 +127211,8 @@
         "AddedDate": "2026-07-31",
         "AddedTimestamp": 1785473283.2110913,
         "MatchedTags": [
-            "strategy",
             "economy",
+            "strategy",
             "resource management"
         ]
     },
@@ -128512,6 +128513,65 @@
         "AddedTimestamp": 1785556602.62722,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4819280": {
+        "Title": "Prowlers Shift",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4819280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4819280/9f504a536db481f65ba41a65ff53075b22035891/header.jpg?t=1785563988",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785566588.83194,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4988290": {
+        "Title": "Hiss or Miss",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4988290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4988290/ff9a455c5a2422bcfd6fedb4503a43828a9be62e/header.jpg?t=1785557990",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785566649.076376,
+        "MatchedTags": [
+            "turn-based tactics",
+            "turn-based combat",
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4995640": {
+        "Title": "The Fifth Name",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4995640/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4995640/10a1882b1564313d765947003a189058a23dcd2d/header.jpg?t=1785564617",
+        "Date": "Q2 2027",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785566653.7268608,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4999700": {
+        "Title": "G-Hell",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4999700/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4999700/cc05e650cbaba7fac0c35cd5c8d6805de418d9e6/header.jpg?t=1785565567",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785566660.6988926,
+        "MatchedTags": [
+            "management"
         ]
     }
 }
