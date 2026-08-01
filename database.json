@@ -114530,9 +114530,9 @@
         "URL": "https://store.steampowered.com/app/4931010/",
         "Site": "https://dreadcompany.netlify.app/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4931010/aa6c2bcef63e4ad0a5cd05325b0873227a1f5f37/header.jpg?t=1784361177",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-28",
-        "AddedTimestamp": 1785277211.404083,
+        "Date": "Aug 1, 2026",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785618735.1809378,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -127287,9 +127287,9 @@
         "URL": "https://store.steampowered.com/app/4960260/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960260/e2bcfbd95d4f85fee2521bcf9d324df0559b550c/header.jpg?t=1785478644",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-07-31",
-        "AddedTimestamp": 1785485590.909669,
+        "Date": "Aug 14, 2026",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785618747.3375807,
         "MatchedTags": [
             "strategy",
             "tactical"
@@ -129061,6 +129061,52 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4716690": {
+        "Title": "F.A.G.E.N.",
+        "Email": "",
+        "Discord": "https://discord.gg/JQrN69kCfU",
+        "URL": "https://store.steampowered.com/app/4716690/",
+        "Site": "https://www.ankagames.tr",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4716690/502b7b47fdcfd362d1f7fcbc86a19b0b6f376da6/header.jpg?t=1785616764",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785618704.4368734,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4798850": {
+        "Title": "Reactor 13",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4798850/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4798850/26474b8903707a8d7a737daae167d8e22f653fcc/header.jpg?t=1785613113",
+        "Date": "2027",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785618723.8374412,
+        "MatchedTags": [
+            "resource management",
+            "management",
+            "tactical"
+        ]
+    },
+    "4975220": {
+        "Title": "False Fortune",
+        "Email": "contact@forgebornstudios.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4975220/",
+        "Site": "https://forgebornstudios.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4975220/9dc51a5efc58057429243daeb795199c52e6a0a8/header.jpg?t=1785615603",
+        "Date": "Oct 29, 2026",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785618753.321574,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "management"
         ]
     }
 }
