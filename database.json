@@ -27470,9 +27470,9 @@
         "URL": "https://store.steampowered.com/app/4411890/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4411890/117efe881b0745357c4e70da5c0af6e539e61cdf/header.jpg?t=1775833544",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-07",
-        "AddedTimestamp": 1780842104.0275393,
+        "Date": "2026",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785592659.6473582,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -39587,9 +39587,9 @@
         "URL": "https://store.steampowered.com/app/4449650/",
         "Site": "https://beards.gg",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4449650/8684c94c39bcd05885bbea5f2d9cb539adfa4237/header.jpg?t=1776971021",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-04-28",
-        "AddedTimestamp": 1777395898.2491863,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785592667.3015192,
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
@@ -41464,9 +41464,9 @@
         "URL": "https://store.steampowered.com/app/4662680/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4662680/2f45c34dfc590f29fb8a00cbf6f90957ce0bab1a/header.jpg?t=1777072282",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-14",
-        "AddedTimestamp": 1784063824.6405618,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785592694.287278,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -59324,9 +59324,9 @@
         "URL": "https://store.steampowered.com/app/4664310/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4664310/5cf76324d17db217f5432bd7f235be45a645169e/header.jpg?t=1778889935",
-        "Date": "September 2026",
-        "AddedDate": "2026-07-24",
-        "AddedTimestamp": 1784922613.584785,
+        "Date": "December 2026",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785592696.2209363,
         "MatchedTags": [
             "strategy"
         ]
@@ -113979,8 +113979,7 @@
         "AddedTimestamp": 1785473190.9228427,
         "MatchedTags": [
             "city builder",
-            "economy",
-            "strategy"
+            "economy"
         ]
     },
     "4914240": {
@@ -118974,9 +118973,9 @@
         "URL": "https://store.steampowered.com/app/4731430/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4731430/717f2787e7da67d9eafb8e80d409c30b72f317dd/header.jpg?t=1784740167",
-        "Date": "2027",
-        "AddedDate": "2026-07-28",
-        "AddedTimestamp": 1785249950.616763,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785592713.1854434,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -128866,6 +128865,66 @@
         "Date": "Q4 2026",
         "AddedDate": "2026-08-01",
         "AddedTimestamp": 1785584319.5578496,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4782430": {
+        "Title": "Don't Die on the Clock",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4782430/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4782430/4bd219b35ee4de56bbcbaf94155cfac627f033c4/header.jpg?t=1785590395",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785592725.3039846,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4939630": {
+        "Title": "\u5e7b\u60f3\u5e8f\u7ae0: Genesis",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4939630/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4939630/36ede09a57c28fd7337808f4f760ad73fccc722b/header.jpg?t=1785584580",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785592785.1828833,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4948140": {
+        "Title": "BIS",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4948140/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4948140/f55bafca71b8c06555870962df53547900274ab5/header.jpg?t=1785587251",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785592787.2916253,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "5011090": {
+        "Title": "Hacker vs IT",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5011090/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5011090/dd4feaa08269ebfe6936fa14808555d69690b0a9/header.jpg?t=1785584400",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785592823.7540054,
         "MatchedTags": [
             "strategy"
         ]
