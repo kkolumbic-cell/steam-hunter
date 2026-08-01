@@ -52446,9 +52446,9 @@
         "URL": "https://store.steampowered.com/app/4693590/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4693590/dc9c1c7b6db87a6fdc84bae251d48aacf6b059c1/header.jpg?t=1778097996",
-        "Date": "Dec 31, 2026",
-        "AddedDate": "2026-06-06",
-        "AddedTimestamp": 1780725901.309578,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785613010.4093325,
         "MatchedTags": [
             "strategy"
         ]
@@ -86330,9 +86330,9 @@
         "URL": "https://store.steampowered.com/app/4841560/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841560/242b30b861c8baf57ddb6c4f55b8c6b3083ea6f3/header.jpg?t=1781581742",
-        "Date": "Aug 28, 2026",
-        "AddedDate": "2026-06-16",
-        "AddedTimestamp": 1781588487.8564086,
+        "Date": "Aug 1, 2026",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785613036.0101802,
         "MatchedTags": [
             "turn-based tactics",
             "city builder",
@@ -92132,9 +92132,9 @@
         "URL": "https://store.steampowered.com/app/4825420/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4825420/4ecd8f8fc6ab1af58d8b08d88842309fba481ef5/header.jpg?t=1782171801",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-30",
-        "AddedTimestamp": 1785413204.048474,
+        "Date": "Aug 12, 2026",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785613032.8580856,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -99632,11 +99632,14 @@
         "URL": "https://store.steampowered.com/app/4640180/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4640180/519f7cdd45bbf977da7310c58bd3bb8dd8a97a7a/header.jpg?t=1782926023",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-01",
-        "AddedTimestamp": 1782933233.6963694,
+        "Date": "November 2026",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785613003.8767521,
         "MatchedTags": [
-            "horror"
+            "horror",
+            "psychological horror",
+            "survival horror",
+            "strategy"
         ]
     },
     "4773440": {
@@ -113235,9 +113238,9 @@
         "URL": "https://store.steampowered.com/app/4937290/",
         "Site": "https://eattherich.gg",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4937290/2b2ad8f80438c7e6ac165b1a9f08f7828dccb245/header.jpg?t=1784230868",
-        "Date": "July 2026",
-        "AddedDate": "2026-07-18",
-        "AddedTimestamp": 1784333549.3860083,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785613070.4205678,
         "MatchedTags": [
             "economy",
             "strategy"
@@ -114247,9 +114250,9 @@
         "URL": "https://store.steampowered.com/app/4933760/",
         "Site": "https://fleetfall.co/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4933760/129d085540d955e4204585b05d2f6200b8270c79/header.jpg?t=1784330606",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-18",
-        "AddedTimestamp": 1784333547.081944,
+        "Date": "Aug 14, 2026",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785613063.766212,
         "MatchedTags": [
             "strategy",
             "real time tactics",
@@ -126707,10 +126710,10 @@
         "AddedDate": "2026-08-01",
         "AddedTimestamp": 1785604724.6666443,
         "MatchedTags": [
-            "economy",
             "resource management",
-            "strategy",
-            "management"
+            "management",
+            "economy",
+            "strategy"
         ]
     },
     "3363620": {
@@ -129026,6 +129029,38 @@
             "economy",
             "resource management",
             "strategy"
+        ]
+    },
+    "4856780": {
+        "Title": "Popcorn Idle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4856780/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4856780/e97c166a3f74a2f20587e0760c618cfe33b50938/header.jpg?t=1785606593",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785613039.059315,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "economy",
+            "resource management"
+        ]
+    },
+    "4986740": {
+        "Title": "AFTERLIGHT: The Apartment",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4986740/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4986740/dda5c52690fa22a0d212c1b654e1889ffb6afd72/header.jpg?t=1785608778",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785613096.989314,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
