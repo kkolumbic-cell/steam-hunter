@@ -8858,9 +8858,9 @@
         "URL": "https://store.steampowered.com/app/4510210/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4510210/dc95c5279fe5d991531e75ec435866e9c502f830/header.jpg?t=1773733742",
-        "Date": "July 2026",
-        "AddedDate": "2026-03-17",
-        "AddedTimestamp": 1773738593.1442451,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785598124.9490647,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -34876,9 +34876,9 @@
         "URL": "https://store.steampowered.com/app/4621410/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4621410/a0643a3f71fd0f46d0093197879e3052c57e8a20/header.jpg?t=1776530125",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-15",
-        "AddedTimestamp": 1781527725.7628937,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785598132.7984695,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -37432,9 +37432,9 @@
         "URL": "https://store.steampowered.com/app/4527130/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4527130/387f68c9a1b13c435265aa17bed8a43f48413be0/header.jpg?t=1776811453",
-        "Date": "August 2026",
-        "AddedDate": "2026-04-21",
-        "AddedTimestamp": 1776812449.3431742,
+        "Date": "September 2026",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785598127.2640278,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -62729,9 +62729,9 @@
         "URL": "https://store.steampowered.com/app/4457040/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4457040/c4e9eeb6d89ac2ab83c762aeaf09b410439b635a/header.jpg?t=1779429719",
-        "Date": "Jul 7, 2026",
-        "AddedDate": "2026-05-22",
-        "AddedTimestamp": 1779438819.4808347,
+        "Date": "Aug 1, 2026",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785598121.6571765,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -114592,8 +114592,8 @@
         "AddedDate": "2026-07-19",
         "AddedTimestamp": 1784460746.7782958,
         "MatchedTags": [
-            "strategy",
-            "economy"
+            "economy",
+            "strategy"
         ]
     },
     "4925720": {
@@ -126860,14 +126860,14 @@
     },
     "5011490": {
         "Title": "Arrow Card Arena (\u7bad\u57df\u5361\u6230)",
-        "Email": "",
+        "Email": "contactus@ludendria.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/5011490/",
-        "Site": "",
+        "Site": "https://www.ludendria.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5011490/014a7243961d01fbd11d253f85649ea3ad8c7572/header.jpg?t=1785433723",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-30",
-        "AddedTimestamp": 1785437544.3348513,
+        "Date": "September 2026",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785598202.018044,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -127048,9 +127048,9 @@
         "URL": "https://store.steampowered.com/app/5014260/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5014260/8027b1d3771b1bfc8644d00caabf229bbcb6fd83/header.jpg?t=1785455982",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-07-31",
-        "AddedTimestamp": 1785457169.1433485,
+        "Date": "Aug 17, 2026",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785598209.983663,
         "MatchedTags": [
             "horror"
         ]
@@ -128926,6 +128926,52 @@
         "AddedDate": "2026-08-01",
         "AddedTimestamp": 1785592823.7540054,
         "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4797000": {
+        "Title": "UberLoop",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4797000/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4797000/5a80964c64d6804089f319bfe434e3379103b974/header.jpg?t=1785593344",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785598147.8419595,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4993720": {
+        "Title": "El sonido de un sue\u00f1o",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4993720/",
+        "Site": "https://moonevastudio.itch.io/el-sonido-de-un-sueno",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4993720/5cce3342127de09e8863d79dca1fa7829b3ad64b/header.jpg?t=1785595153",
+        "Date": "Aug 27, 2026",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785598189.3796992,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "5006880": {
+        "Title": "Lagan Salvage Run",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5006880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5006880/a6ef46d496f79dc15fa853fb4a59f676ef514d50/header.jpg?t=1785595930",
+        "Date": "TBA",
+        "AddedDate": "2026-08-01",
+        "AddedTimestamp": 1785598198.653907,
+        "MatchedTags": [
+            "turn-based combat",
             "strategy"
         ]
     }
