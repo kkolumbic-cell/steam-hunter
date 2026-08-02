@@ -124691,9 +124691,9 @@
         "AddedDate": "2026-07-29",
         "AddedTimestamp": 1785307712.5645592,
         "MatchedTags": [
-            "strategy",
             "management",
-            "resource management"
+            "resource management",
+            "strategy"
         ]
     },
     "4966810": {
@@ -129291,6 +129291,64 @@
             "turn-based tactics",
             "tactical",
             "management"
+        ]
+    },
+    "4444880": {
+        "Title": "Ascend",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4444880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4444880/c882574ed2bbb5e163dc1746bb397689dc2b1c49/header.jpg?t=1785690767",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-02",
+        "AddedTimestamp": 1785691050.251322,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4933600": {
+        "Title": "PHAGE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4933600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4933600/ea75a060df234047056125c21b5603a03f4765fd/header.jpg?t=1785684644",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-02",
+        "AddedTimestamp": 1785691102.4358094,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4950030": {
+        "Title": "Cartel",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4950030/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4950030/0cc23560a8bd83ca006e9f8af26b5041301c091f/header.jpg?t=1785690799",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-02",
+        "AddedTimestamp": 1785691107.1915529,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "5021120": {
+        "Title": "ENTRANCE EXAM",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5021120/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5021120/e293d5866a269d5549f214ccea9974564585d06d/header.jpg?t=1785684702",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-02",
+        "AddedTimestamp": 1785691146.319477,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
         ]
     }
 }
