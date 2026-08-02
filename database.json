@@ -16337,9 +16337,7 @@
         "AddedDate": "2026-04-10",
         "AddedTimestamp": 1775814036.2096655,
         "MatchedTags": [
-            "strategy",
-            "resource management",
-            "turn-based tactics"
+            "resource management"
         ]
     },
     "4540860": {
@@ -22922,11 +22920,12 @@
         "AddedDate": "2026-04-19",
         "AddedTimestamp": 1776589686.4975958,
         "MatchedTags": [
-            "turn-based tactics",
+            "turn-based strategy",
             "strategy",
             "economy",
             "management",
-            "turn-based strategy",
+            "resource management",
+            "turn-based tactics",
             "turn-based combat"
         ]
     },
@@ -36956,11 +36955,10 @@
         "AddedTimestamp": 1777908325.1732147,
         "MatchedTags": [
             "strategy",
-            "city builder",
-            "turn-based strategy",
-            "turn-based tactics",
+            "management",
             "economy",
-            "management"
+            "turn-based strategy",
+            "resource management"
         ]
     },
     "4644110": {
@@ -46880,8 +46878,8 @@
         "MatchedTags": [
             "strategy",
             "city builder",
-            "economy",
             "management",
+            "economy",
             "resource management"
         ]
     },
@@ -60114,9 +60112,9 @@
         "URL": "https://store.steampowered.com/app/4550950/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4550950/dd7e9f7d6977d5f6482f72d86facba7b4130734f/header.jpg?t=1779178042",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-19",
-        "AddedTimestamp": 1779180018.0461917,
+        "Date": "2026",
+        "AddedDate": "2026-08-02",
+        "AddedTimestamp": 1785662637.222701,
         "MatchedTags": [
             "resource management"
         ]
@@ -112414,9 +112412,9 @@
         "URL": "https://store.steampowered.com/app/4947690/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4947690/edd075668353641c63d664ac8672ece8f5fa177b/header.jpg?t=1784170054",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-07-16",
-        "AddedTimestamp": 1784173502.9397845,
+        "Date": "Nov 15, 2026",
+        "AddedDate": "2026-08-02",
+        "AddedTimestamp": 1785662715.2305822,
         "MatchedTags": [
             "strategy",
             "real time tactics"
@@ -125193,7 +125191,7 @@
     "4832630": {
         "Title": "Royale Smith",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/TwKENWQQs",
         "URL": "https://store.steampowered.com/app/4832630/",
         "Site": "https://www.poisonmush.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4832630/2474781fb1d736dd0a0c127faa164c240111ad32/header.jpg?t=1785346329",
@@ -129212,6 +129210,37 @@
         "MatchedTags": [
             "turn-based strategy",
             "turn-based combat"
+        ]
+    },
+    "4084350": {
+        "Title": "Mroczne Czasy",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4084350/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084350/f7857a2004c340f21a41b10a5564184da586f1a2/header.jpg?t=1785662117",
+        "Date": "TBA",
+        "AddedDate": "2026-08-02",
+        "AddedTimestamp": 1785662616.9085948,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "5017270": {
+        "Title": "BABU - Blow All Blocks Up!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5017270/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5017270/c29dd00eabfa23a1a926238857cc2688e14eb451/header.jpg?t=1785656677",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-02",
+        "AddedTimestamp": 1785662748.9764383,
+        "MatchedTags": [
+            "real time tactics",
+            "tactical"
         ]
     }
 }
