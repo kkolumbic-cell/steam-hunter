@@ -35719,9 +35719,9 @@
         "URL": "https://store.steampowered.com/app/4440080/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4440080/19dee1327d1a20b02ed9044c489dc7d702b3d8e1/header.jpg?t=1776701574",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-20",
-        "AddedTimestamp": 1776705625.2460353,
+        "Date": "Aug 2, 2026",
+        "AddedDate": "2026-08-02",
+        "AddedTimestamp": 1785699399.7468197,
         "MatchedTags": [
             "horror"
         ]
@@ -83886,9 +83886,9 @@
         "URL": "https://store.steampowered.com/app/4836390/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4836390/a5d1eefd4175dfb48bed3db3a37d1242da2e9fa1/header.jpg?t=1781290486",
-        "Date": "Q3 2026",
+        "Date": "Aug 19, 2026",
         "AddedDate": "2026-08-02",
-        "AddedTimestamp": 1785670594.4083,
+        "AddedTimestamp": 1785699433.345676,
         "MatchedTags": [
             "management"
         ]
@@ -112290,9 +112290,9 @@
         "URL": "https://store.steampowered.com/app/4827750/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4827750/194a83f900263740667817485705c7643ef6e552/header.jpg?t=1784171495",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-16",
-        "AddedTimestamp": 1784173413.7021947,
+        "Date": "December 2026",
+        "AddedDate": "2026-08-02",
+        "AddedTimestamp": 1785699431.1017072,
         "MatchedTags": [
             "management",
             "resource management"
@@ -128732,7 +128732,7 @@
     "4989340": {
         "Title": "Hive and Harvest",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/YuBq4ZYRp",
         "URL": "https://store.steampowered.com/app/4989340/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4989340/298f04cd4f05ac11a83289880cadd04edda3bde5/header.jpg?t=1785566632",
@@ -129349,6 +129349,21 @@
             "horror",
             "psychological horror",
             "survival horror"
+        ]
+    },
+    "4876980": {
+        "Title": "Novella Oscura Reverie",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4876980/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876980/75d1c1c4e58d6a8ae5ae0d9b42c7bf157280c14d/header.jpg?t=1785697994",
+        "Date": "December 2026",
+        "AddedDate": "2026-08-02",
+        "AddedTimestamp": 1785699442.3763928,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
