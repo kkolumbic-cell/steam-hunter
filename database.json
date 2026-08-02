@@ -23368,7 +23368,7 @@
         "AddedTimestamp": 1780136346.347896,
         "MatchedTags": [
             "strategy",
-            "turn-based tactics"
+            "turn-based strategy"
         ]
     },
     "4528620": {
@@ -86353,11 +86353,10 @@
         "AddedDate": "2026-06-16",
         "AddedTimestamp": 1781588492.975723,
         "MatchedTags": [
-            "colony sim",
-            "base building",
-            "resource management",
             "strategy",
-            "tower defense"
+            "resource management",
+            "tower defense",
+            "base building"
         ]
     },
     "4763810": {
@@ -112353,9 +112352,9 @@
         "URL": "https://store.steampowered.com/app/4916190/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4916190/68d11056938dff3c409000cb461e2b824e76a88c/header.jpg?t=1784172708",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-07-18",
-        "AddedTimestamp": 1784371393.0492475,
+        "Date": "Nov 1, 2026",
+        "AddedDate": "2026-08-02",
+        "AddedTimestamp": 1785653235.7114234,
         "MatchedTags": [
             "tactical"
         ]
@@ -129182,6 +129181,37 @@
         "AddedTimestamp": 1785643327.6359038,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4996780": {
+        "Title": "BLACK STACK",
+        "Email": "support@blackglassassembly.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4996780/",
+        "Site": "https://blackglassassembly.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4996780/1c0402a7590deefa143c2db151dfc4de5d4b2b6a/header.jpg?t=1785648268",
+        "Date": "Aug 30, 2026",
+        "AddedDate": "2026-08-02",
+        "AddedTimestamp": 1785653264.5416498,
+        "MatchedTags": [
+            "strategy",
+            "horror",
+            "turn-based combat"
+        ]
+    },
+    "5016340": {
+        "Title": "RuinsEnd",
+        "Email": "dungeonbuilderstudios@gmail.com",
+        "Discord": "https://discord.gg/reU7pQvwX",
+        "URL": "https://store.steampowered.com/app/5016340/",
+        "Site": "https://www.dungeonbuilderstudios.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5016340/8fe641b2dc5d11de4520784db05c5199ac1299d3/header.jpg?t=1785650418",
+        "Date": "TBA",
+        "AddedDate": "2026-08-02",
+        "AddedTimestamp": 1785653269.1295686,
+        "MatchedTags": [
+            "turn-based strategy",
+            "turn-based combat"
         ]
     }
 }
