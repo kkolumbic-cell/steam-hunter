@@ -20880,9 +20880,9 @@
         "URL": "https://store.steampowered.com/app/4548480/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4548480/f7bd218b785e5be5fe98698324aaa7873d169ccc/header.jpg?t=1775119790",
-        "Date": "Aug 3, 2026",
-        "AddedDate": "2026-04-02",
-        "AddedTimestamp": 1775121446.670714,
+        "Date": "Aug 2, 2026",
+        "AddedDate": "2026-08-02",
+        "AddedTimestamp": 1785708763.8905106,
         "MatchedTags": [
             "horror",
             "base building",
@@ -41073,7 +41073,7 @@
     "4607150": {
         "Title": "Satanic Panic",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/uE5stHRvaS",
         "URL": "https://store.steampowered.com/app/4607150/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4607150/960f1fde688d37cd125588c12290993cfb4d57f3/header.jpg?t=1777060980",
@@ -41082,7 +41082,8 @@
         "AddedTimestamp": 1777154094.2666862,
         "MatchedTags": [
             "tower defense",
-            "strategy"
+            "strategy",
+            "real time tactics"
         ]
     },
     "4628100": {
@@ -68885,7 +68886,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4398250/",
-        "Site": "",
+        "Site": "https://ratliffgaming.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4398250/b55e1c17e98176d88b04ba4496508f1ab33be1b5/header.jpg?t=1780075593",
         "Date": "Nov 26, 2026",
         "AddedDate": "2026-07-20",
@@ -78404,9 +78405,11 @@
         "AddedDate": "2026-07-21",
         "AddedTimestamp": 1784652317.8054657,
         "MatchedTags": [
-            "strategy",
+            "horror",
             "turn-based strategy",
-            "turn-based tactics"
+            "strategy",
+            "turn-based tactics",
+            "turn-based combat"
         ]
     },
     "4783030": {
