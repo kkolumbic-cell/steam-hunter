@@ -111558,9 +111558,9 @@
         "URL": "https://store.steampowered.com/app/4790300/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4790300/1ca70d3437db25856106e335583a3d259a712af9/header.jpg?t=1784130086",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-31",
-        "AddedTimestamp": 1785473146.3400893,
+        "Date": "Aug 1, 2026",
+        "AddedDate": "2026-08-02",
+        "AddedTimestamp": 1785629764.4004006,
         "MatchedTags": [
             "strategy"
         ]
@@ -122185,9 +122185,9 @@
         "URL": "https://store.steampowered.com/app/4995090/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4995090/46c1e36c4db7dc49c965df21247a7d0dac10744a/header.jpg?t=1784976880",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-25",
-        "AddedTimestamp": 1784981483.453371,
+        "Date": "Sep 21, 2026",
+        "AddedDate": "2026-08-02",
+        "AddedTimestamp": 1785629789.4410002,
         "MatchedTags": [
             "turn-based tactics",
             "strategy"
@@ -129107,6 +129107,35 @@
             "strategy",
             "resource management",
             "management"
+        ]
+    },
+    "4775000": {
+        "Title": "Battle Vest Metal Quest",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4775000/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4775000/0717bcc00777bfd39fb8df3d71f5b10a70e66d8d/header.jpg?t=1785628462",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-02",
+        "AddedTimestamp": 1785629761.3825097,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4926760": {
+        "Title": "She Was First",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4926760/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4926760/fe0911fcfa8218ddae8f54a419f873ecb75df262/header.jpg?t=1785628408",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-02",
+        "AddedTimestamp": 1785629772.548927,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
