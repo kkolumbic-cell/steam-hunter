@@ -114404,9 +114404,9 @@
         "URL": "https://store.steampowered.com/app/4921890/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4921890/8dc6e0db28cd71ac4af98103c1637e869a18a710/header.jpg?t=1784352245",
-        "Date": "To be announced",
-        "AddedDate": "2026-07-20",
-        "AddedTimestamp": 1784571875.2850552,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-03",
+        "AddedTimestamp": 1785799754.2908757,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -116162,7 +116162,7 @@
         "AddedDate": "2026-07-20",
         "AddedTimestamp": 1784580270.6252108,
         "MatchedTags": [
-            "horror"
+            "psychological horror"
         ]
     },
     "4898530": {
@@ -120224,9 +120224,9 @@
         "URL": "https://store.steampowered.com/app/4543070/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4543070/b80a52299d8356252e35741a4f7620c04ecfcd4b/header.jpg?t=1784835297",
-        "Date": "Aug 20, 2026",
-        "AddedDate": "2026-07-23",
-        "AddedTimestamp": 1784838768.906643,
+        "Date": "Aug 6, 2026",
+        "AddedDate": "2026-08-03",
+        "AddedTimestamp": 1785799709.4452167,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -130088,6 +130088,67 @@
             "turn-based strategy",
             "tactical rpg",
             "turn-based tactics"
+        ]
+    },
+    "3358830": {
+        "Title": "Nocturnal Warfare",
+        "Email": "",
+        "Discord": "https://discord.gg/uuxyaASkRC",
+        "URL": "https://store.steampowered.com/app/3358830/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3358830/6880246e13b3007a4b6a6fb9698b9d9c78bcbec2/header.jpg?t=1785794079",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-03",
+        "AddedTimestamp": 1785799695.190322,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4966030": {
+        "Title": "100+ Bored Games",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4966030/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4966030/d6bab89b1a53db0f740d9c884ef34e854fa94101/header.jpg?t=1785795517",
+        "Date": "February 2027",
+        "AddedDate": "2026-08-03",
+        "AddedTimestamp": 1785799767.732896,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4998430": {
+        "Title": "Takeout Mania",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4998430/",
+        "Site": "https://alagesia.dev/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4998430/e6e66445362c15f35bc7fa8e882428631ff6831e/header.jpg?t=1785795777",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-03",
+        "AddedTimestamp": 1785799782.9420173,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "tactical",
+            "base building",
+            "resource management"
+        ]
+    },
+    "5000020": {
+        "Title": "That's Not My Mom",
+        "Email": "",
+        "Discord": "https://discord.gg/uVrVb5BDZe",
+        "URL": "https://store.steampowered.com/app/5000020/",
+        "Site": "https://solitarystudios.games/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5000020/4f240af82ae42a54dbab1d25af59f22ecf8e2ec7/header.jpg?t=1785796903",
+        "Date": "2026",
+        "AddedDate": "2026-08-03",
+        "AddedTimestamp": 1785799788.88834,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
