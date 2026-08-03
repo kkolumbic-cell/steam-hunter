@@ -14837,9 +14837,9 @@
         "URL": "https://store.steampowered.com/app/3827480/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3827480/c230cdedab70cdf45d13cc31b55e0ee8263b792a/header.jpg?t=1774507822",
-        "Date": "Sep 22, 2026",
-        "AddedDate": "2026-03-26",
-        "AddedTimestamp": 1774510648.867312,
+        "Date": "Sep 22, 2027",
+        "AddedDate": "2026-08-03",
+        "AddedTimestamp": 1785732529.226289,
         "MatchedTags": [
             "turn-based tactics",
             "tactical rpg",
@@ -37029,23 +37029,6 @@
             "turn-based combat"
         ]
     },
-    "4209160": {
-        "Title": "Idyll Isle",
-        "Email": "",
-        "Discord": "https://discord.gg/QTefCHRBxD",
-        "URL": "https://store.steampowered.com/app/4209160/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4209160/b55e1b1bc00df7e2341014a2e2f59ce70e8ba22d/header.jpg?t=1776791641",
-        "Date": "Jul 14, 2026",
-        "AddedDate": "2026-06-16",
-        "AddedTimestamp": 1781588175.9734614,
-        "MatchedTags": [
-            "management",
-            "base building",
-            "city builder",
-            "resource management"
-        ]
-    },
     "4498300": {
         "Title": "Generations: Utopia",
         "Email": "",
@@ -53751,10 +53734,11 @@
         "AddedDate": "2026-05-27",
         "AddedTimestamp": 1779857538.5328295,
         "MatchedTags": [
-            "strategy",
             "economy",
             "management",
-            "resource management"
+            "resource management",
+            "turn-based strategy",
+            "strategy"
         ]
     },
     "4688520": {
@@ -81740,9 +81724,9 @@
         "URL": "https://store.steampowered.com/app/4741990/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4741990/431cdb6e6a8e56a20c0e373ea8cc4f0616c80926/header.jpg?t=1781193797",
-        "Date": "Aug 3, 2026",
-        "AddedDate": "2026-06-11",
-        "AddedTimestamp": 1781195683.090177,
+        "Date": "Aug 2, 2026",
+        "AddedDate": "2026-08-03",
+        "AddedTimestamp": 1785732587.827257,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -82492,8 +82476,7 @@
         "AddedTimestamp": 1782025971.0512009,
         "MatchedTags": [
             "strategy",
-            "turn-based tactics",
-            "tactical"
+            "turn-based tactics"
         ]
     },
     "4821680": {
@@ -95456,9 +95439,9 @@
         "URL": "https://store.steampowered.com/app/4881270/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4881270/157927cdbda851186656062157bd82116f65d988/header.jpg?t=1782476270",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-11",
-        "AddedTimestamp": 1783751332.646541,
+        "Date": "September 2026",
+        "AddedDate": "2026-08-03",
+        "AddedTimestamp": 1785732632.2730758,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -99638,8 +99621,7 @@
         "MatchedTags": [
             "horror",
             "psychological horror",
-            "survival horror",
-            "strategy"
+            "survival horror"
         ]
     },
     "4773440": {
@@ -101555,6 +101537,7 @@
         "AddedDate": "2026-07-03",
         "AddedTimestamp": 1783108414.558052,
         "MatchedTags": [
+            "strategy",
             "resource management"
         ]
     },
@@ -104594,9 +104577,9 @@
         "URL": "https://store.steampowered.com/app/4846690/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4846690/9938f64e4e8105eb008295f08e804515a0a8ed1c/header.jpg?t=1783474753",
-        "Date": "Sep 1, 2026",
-        "AddedDate": "2026-08-01",
-        "AddedTimestamp": 1785556467.09141,
+        "Date": "Jan 25, 2027",
+        "AddedDate": "2026-08-03",
+        "AddedTimestamp": 1785732617.6683483,
         "MatchedTags": [
             "city builder",
             "management",
@@ -108550,9 +108533,9 @@
         "URL": "https://store.steampowered.com/app/4842750/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4842750/616db8aa51cb9feb010d1d8413b7a41e24715c74/header.jpg?t=1783824975",
-        "Date": "2026",
-        "AddedDate": "2026-07-12",
-        "AddedTimestamp": 1783829002.5266364,
+        "Date": "Aug 2, 2026",
+        "AddedDate": "2026-08-03",
+        "AddedTimestamp": 1785732615.4609904,
         "MatchedTags": [
             "economy",
             "management",
@@ -113391,9 +113374,9 @@
         "URL": "https://store.steampowered.com/app/4938410/",
         "Site": "https://www.puzala.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4938410/140d69b0c12a7f7254f89d71a34d6c36b70e439a/header.jpg?t=1784257472",
-        "Date": "Aug 23, 2026",
-        "AddedDate": "2026-07-20",
-        "AddedTimestamp": 1784546318.3586817,
+        "Date": "Aug 31, 2026",
+        "AddedDate": "2026-08-03",
+        "AddedTimestamp": 1785732663.757067,
         "MatchedTags": [
             "strategy"
         ]
@@ -129381,6 +129364,21 @@
         "MatchedTags": [
             "strategy",
             "tactical rpg",
+            "tactical"
+        ]
+    },
+    "4911480": {
+        "Title": "Playworlds",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4911480/",
+        "Site": "https://playworlds.ai",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4911480/549b741a174608da1aef6a2c05e84f3146c827be/header.jpg?t=1785725532",
+        "Date": "Aug 9, 2026",
+        "AddedDate": "2026-08-03",
+        "AddedTimestamp": 1785732647.049862,
+        "MatchedTags": [
+            "turn-based tactics",
             "tactical"
         ]
     }
