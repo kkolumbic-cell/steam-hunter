@@ -18247,7 +18247,8 @@
             "economy",
             "strategy",
             "resource management",
-            "city builder"
+            "city builder",
+            "turn-based strategy"
         ]
     },
     "4548670": {
@@ -80599,7 +80600,8 @@
         "AddedDate": "2026-08-04",
         "AddedTimestamp": 1785814828.2422147,
         "MatchedTags": [
-            "psychological horror"
+            "psychological horror",
+            "horror"
         ]
     },
     "4602030": {
@@ -97423,9 +97425,9 @@
         "URL": "https://store.steampowered.com/app/4849670/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849670/17d01e5ef0d50fe2dade61598a381e489679e1d2/header.jpg?t=1782715530",
-        "Date": "July 2026",
-        "AddedDate": "2026-07-07",
-        "AddedTimestamp": 1783458066.4931884,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-04",
+        "AddedTimestamp": 1785825834.799997,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -109695,9 +109697,9 @@
         "URL": "https://store.steampowered.com/app/4946800/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4946800/7c4e20f16582e6350a503bf53623c445f331789f/header.jpg?t=1783976952",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-26",
-        "AddedTimestamp": 1785100409.9485586,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-04",
+        "AddedTimestamp": 1785825871.1079993,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -130333,6 +130335,171 @@
             "strategy",
             "tactical",
             "resource management"
+        ]
+    },
+    "1538210": {
+        "Title": "CorruptedZ",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/1538210/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1538210/92b33eb44738538c5470dc048878d89026fc95a8/header.jpg?t=1785818116",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-04",
+        "AddedTimestamp": 1785825742.786909,
+        "MatchedTags": [
+            "colony sim",
+            "strategy",
+            "city builder",
+            "base building"
+        ]
+    },
+    "2884930": {
+        "Title": "Staring Time",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2884930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2884930/8eca4b7637e071b42c8dd52d0de8a81e85563291/header.jpg?t=1785823490",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-04",
+        "AddedTimestamp": 1785825751.2326174,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4849910": {
+        "Title": "Blue Men Group ULTIMATE VIDEO BLACKJACK",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4849910/",
+        "Site": "https://www.cdrevolt.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4849910/c2b41ea649641844e344b530ded0b01a993b6638/header.jpg?t=1785817044",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-04",
+        "AddedTimestamp": 1785825838.2765586,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4913750": {
+        "Title": "Taxi Shift",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4913750/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4913750/d80faa0483bd0c0c87e5f1476bcff981ec51ea8a/header.jpg?t=1785821131",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-04",
+        "AddedTimestamp": 1785825859.7573967,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4947630": {
+        "Title": "7 Shifts in Subway",
+        "Email": "",
+        "Discord": "https://discord.gg/m8dgDxDs9",
+        "URL": "https://store.steampowered.com/app/4947630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4947630/36ee25920d6f7c1a37d390266de6add7aa90a614/header.jpg?t=1785824727",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-04",
+        "AddedTimestamp": 1785825873.564628,
+        "MatchedTags": [
+            "management",
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4951070": {
+        "Title": "Bangquet",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4951070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4951070/d35c27e345276aaf768a3e23fa658f07b0e3468e/header.jpg?t=1785823162",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-04",
+        "AddedTimestamp": 1785825879.260159,
+        "MatchedTags": [
+            "strategy",
+            "horror"
+        ]
+    },
+    "4977140": {
+        "Title": "Bagatto",
+        "Email": "",
+        "Discord": "https://discord.gg/C4djSVR93E",
+        "URL": "https://store.steampowered.com/app/4977140/",
+        "Site": "https://meridianstudios.games",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4977140/807b3f8f4b0d403a900ef2e7ca5fd82f63fa8408/header.jpg?t=1785819659",
+        "Date": "Aug 19, 2026",
+        "AddedDate": "2026-08-04",
+        "AddedTimestamp": 1785825889.428973,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5003250": {
+        "Title": "Koruzan",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5003250/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5003250/aa72e09f5a59d8cb9c4759ea6222b5262eac1a35/header.jpg?t=1785822583",
+        "Date": "TBA",
+        "AddedDate": "2026-08-04",
+        "AddedTimestamp": 1785825906.4346752,
+        "MatchedTags": [
+            "grand strategy",
+            "strategy",
+            "management"
+        ]
+    },
+    "5015630": {
+        "Title": "Last Contract",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5015630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5015630/d7550abb391fef4e81f78d5ffac3354fc77ba4b2/header.jpg?t=1785816494",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-04",
+        "AddedTimestamp": 1785825922.3030128,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "5017820": {
+        "Title": "Boar Knight",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5017820/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5017820/c260564a327bc402ab931081782657f82fe210ce/header.jpg?t=1785815284",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-04",
+        "AddedTimestamp": 1785825925.2806683,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "5022340": {
+        "Title": "Halsey Row",
+        "Email": "jason@grumblepotgames.com",
+        "Discord": "https://discord.gg/yyfuDER9rQ",
+        "URL": "https://store.steampowered.com/app/5022340/",
+        "Site": "https://grumblepotgames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5022340/287a3edc03b4cef12b2f24c022ffda91b810b564/header.jpg?t=1785818661",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-04",
+        "AddedTimestamp": 1785825928.2591748,
+        "MatchedTags": [
+            "management",
+            "economy"
         ]
     }
 }
