@@ -30847,9 +30847,9 @@
         "URL": "https://store.steampowered.com/app/4245400/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4245400/6c48dce40d18d9f012481d829cddc565e24c9c20/header.jpg?t=1776198235",
-        "Date": "November 2026",
-        "AddedDate": "2026-07-25",
-        "AddedTimestamp": 1784993373.009548,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-04",
+        "AddedTimestamp": 1785885576.7510805,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -131656,6 +131656,49 @@
         "AddedTimestamp": 1785879662.7785,
         "MatchedTags": [
             "economy"
+        ]
+    },
+    "4823750": {
+        "Title": "My Life as a Spy",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4823750/",
+        "Site": "https://www.salasgames.com/playtest",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4823750/c97ffea7d867c1a42e29753c420eecae3f05e755/header.jpg?t=1785880563",
+        "Date": "Q3 2027",
+        "AddedDate": "2026-08-04",
+        "AddedTimestamp": 1785885607.1777105,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4867170": {
+        "Title": "Closing Shift",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4867170/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4867170/fe8b51de5aced147a754962e9bb1fc7d32a92c67/header.jpg?t=1785884827",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-04",
+        "AddedTimestamp": 1785885617.850473,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4929010": {
+        "Title": "Unforgiving Dungeon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4929010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4929010/aa969a6d2c379d45bd11300cbb4064f517b7775f/header.jpg?t=1785883512",
+        "Date": "Aug 18, 2026",
+        "AddedDate": "2026-08-04",
+        "AddedTimestamp": 1785885634.4586937,
+        "MatchedTags": [
+            "turn-based tactics"
         ]
     }
 }
