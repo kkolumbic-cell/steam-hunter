@@ -25983,7 +25983,7 @@
     "4108000": {
         "Title": "Machine Party",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/Vt2qm6v8PN",
         "URL": "https://store.steampowered.com/app/4108000/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/00ae7d0e0fd0ad72635bddb1dd80ee68cc94eed5/header.jpg?t=1775750668",
@@ -82675,9 +82675,9 @@
         "URL": "https://store.steampowered.com/app/4800380/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4800380/94e74edcb56c8d3b3117f2291dde1c744e7c6ed9/header.jpg?t=1781237921",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-12",
-        "AddedTimestamp": 1781247648.7657573,
+        "Date": "Nov 4, 2026",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785912269.68619,
         "MatchedTags": [
             "strategy"
         ]
@@ -107214,9 +107214,9 @@
         "URL": "https://store.steampowered.com/app/4929650/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4929650/b1a55d573e0dd8e2fd40a6a751138e1e48e8e932/header.jpg?t=1783671532",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-10",
-        "AddedTimestamp": 1783685608.7178366,
+        "Date": "Aug 7, 2026",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785912318.0554128,
         "MatchedTags": [
             "strategy",
             "grand strategy",
@@ -131480,9 +131480,9 @@
         "URL": "https://store.steampowered.com/app/4936650/",
         "Site": "https://effortgames.ca",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4936650/f9f09c102b31107809d642c3eab52087955a43c7/header.jpg?t=1785871121",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-08-04",
-        "AddedTimestamp": 1785873642.6573985,
+        "Date": "Oct 29, 2026",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785912323.5301144,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -131681,9 +131681,9 @@
         "URL": "https://store.steampowered.com/app/4867170/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4867170/fe8b51de5aced147a754962e9bb1fc7d32a92c67/header.jpg?t=1785884827",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-04",
-        "AddedTimestamp": 1785885617.850473,
+        "Date": "August 2026",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785912292.9135506,
         "MatchedTags": [
             "horror"
         ]
@@ -131799,9 +131799,9 @@
         "URL": "https://store.steampowered.com/app/4985160/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4985160/5ca48c5e9d623c9a5ff4672fb36063f8ade46a3e/header.jpg?t=1785898224",
-        "Date": "Oct 30, 2026",
+        "Date": "Aug 18, 2026",
         "AddedDate": "2026-08-05",
-        "AddedTimestamp": 1785901106.277773,
+        "AddedTimestamp": 1785912341.1976414,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -131962,6 +131962,171 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "3244080": {
+        "Title": "CarveLight",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3244080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3244080/dfd20c6a1ccecdce36af2616b3480b782d5caafb/header.jpg?t=1785906550",
+        "Date": "Q2 2027",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785912206.2248073,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat",
+            "tactical"
+        ]
+    },
+    "4712240": {
+        "Title": "Can I Park?",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4712240/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4712240/4e2560d4916a3cb976db6fbaaf40696451b3e31e/header.jpg?t=1785903838",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785912255.655957,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "4716960": {
+        "Title": "Scrappers: Adhokin",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4716960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4716960/7a6d6d3520e9972bfcb42d01f529c62a1400fc3b/header.jpg?t=1785911629",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785912258.0864387,
+        "MatchedTags": [
+            "base building",
+            "tactical"
+        ]
+    },
+    "4836460": {
+        "Title": "Portentum",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4836460/",
+        "Site": "https://portentum.game",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4836460/d6c31998e2b3ca78470e717e5c7bf36e993e275b/header.jpg?t=1785910892",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785912278.2511842,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4847330": {
+        "Title": "Novanoom",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4847330/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4847330/07c76d5d25e9c5dc89fd9d93e993d155d1f3d426/header.jpg?t=1785910906",
+        "Date": "2027",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785912283.7250168,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4868800": {
+        "Title": "Abyss Haul",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4868800/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4868800/01bef5bf44016a842a6c7bba3e584a3c515a0fc5/header.jpg?t=1785905112",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785912296.3359938,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4942470": {
+        "Title": "Bug Bounty Hunter \u2014 Idle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4942470/",
+        "Site": "https://www.vulnbyte.com/game",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4942470/b255073ee2a1fd0c82709fe12db76bd94432d731/header.jpg?t=1785901851",
+        "Date": "Aug 18, 2026",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785912328.3467407,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4998540": {
+        "Title": "Slay Sean, Save The World!",
+        "Email": "",
+        "Discord": "https://discord.gg/czBmh8ZbBr",
+        "URL": "https://store.steampowered.com/app/4998540/",
+        "Site": "https://slayseansavetheworld.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4998540/2abe35009f9c5e1643a775a927a1393a8906a8be/header.jpg?t=1785901784",
+        "Date": "November 2026",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785912350.052109,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "5003700": {
+        "Title": "Midnight Class",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5003700/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5003700/02acb279830312699595a38aac8e5661dc80c7cf/header.jpg?t=1785903588",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785912369.5632007,
+        "MatchedTags": [
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "5007680": {
+        "Title": "Catchemist: Brew the right potion",
+        "Email": "",
+        "Discord": "https://discord.gg/w4Jp9PhaM8",
+        "URL": "https://store.steampowered.com/app/5007680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5007680/5da52f26e1ee2e2ed8d8b136477eea6241cd2bc8/header.jpg?t=1785911830",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785912372.183036,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "5035540": {
+        "Title": "R\u00e9lyora",
+        "Email": "",
+        "Discord": "https://discord.com/invite/rrGAermrgH",
+        "URL": "https://store.steampowered.com/app/5035540/",
+        "Site": "https://relyora.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5035540/0d4b487db703149eb790aa7a7d7f90877736ee18/header.jpg?t=1785904166",
+        "Date": "Aug 20, 2026",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785912388.3321898,
+        "MatchedTags": [
+            "turn-based combat"
         ]
     }
 }
