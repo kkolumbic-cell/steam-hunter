@@ -48699,7 +48699,8 @@
         "MatchedTags": [
             "horror",
             "strategy",
-            "psychological horror"
+            "psychological horror",
+            "turn-based combat"
         ]
     },
     "3570680": {
@@ -123342,9 +123343,9 @@
         "URL": "https://store.steampowered.com/app/4958640/",
         "Site": "https://ruthlessreturns.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4958640/097e98262e17b4ff6aa3725442e2764a6eb22e72/header.jpg?t=1785186503",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-07-27",
-        "AddedTimestamp": 1785190854.8596802,
+        "Date": "Aug 14, 2026",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785972029.9318712,
         "MatchedTags": [
             "strategy",
             "economy",
@@ -129318,9 +129319,9 @@
         "URL": "https://store.steampowered.com/app/4950030/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4950030/0cc23560a8bd83ca006e9f8af26b5041301c091f/header.jpg?t=1785690799",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-02",
-        "AddedTimestamp": 1785691107.1915529,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785972026.77971,
         "MatchedTags": [
             "tactical"
         ]
@@ -133130,6 +133131,50 @@
             "resource management",
             "strategy",
             "management"
+        ]
+    },
+    "4945410": {
+        "Title": "SEVEIL",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4945410/",
+        "Site": "https://fevernap.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4945410/4289777f501fafd69964e626ef5c4c1b48782371/header.jpg?t=1785967658",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785972024.1329753,
+        "MatchedTags": [
+            "horror",
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "5023480": {
+        "Title": "REINCARNAGE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5023480/",
+        "Site": "https://cuppakill.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5023480/cd54122d6935c5c830da2c1f49aecdf999cad9e8/header.jpg?t=1785966786",
+        "Date": "Aug 31, 2026",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785972046.8190231,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5026530": {
+        "Title": "Liminal Angel",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5026530/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5026530/c5309852fabbae956a46b49d8b5e67c4114a3c2b/header.jpg?t=1785969533",
+        "Date": "2026",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785972053.0400937,
+        "MatchedTags": [
+            "resource management"
         ]
     }
 }
