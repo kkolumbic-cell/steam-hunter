@@ -44104,9 +44104,9 @@
         "URL": "https://store.steampowered.com/app/4668110/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4668110/b543aa1f0ac554992c559011d805cd012bc67b9b/header.jpg?t=1777367240",
-        "Date": "Aug 27, 2026",
-        "AddedDate": "2026-06-30",
-        "AddedTimestamp": 1782825498.4508817,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785965694.5104382,
         "MatchedTags": [
             "resource management"
         ]
@@ -60538,9 +60538,9 @@
         "URL": "https://store.steampowered.com/app/4730290/",
         "Site": "https://galdrcode.com/products/dark-workshop-simulator",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4730290/4d631806096d298395930be576cb3606deb38b5c/header.jpg?t=1779218275",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-19",
-        "AddedTimestamp": 1779218538.4168499,
+        "Date": "Oct 30, 2026",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785965701.8588579,
         "MatchedTags": [
             "economy",
             "management",
@@ -71146,9 +71146,9 @@
         "URL": "https://store.steampowered.com/app/4779870/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4779870/85eb5c202682024df932102c769fce49b1e1e114/header.jpg?t=1780331163",
-        "Date": "October 2026",
-        "AddedDate": "2026-06-07",
-        "AddedTimestamp": 1780791615.906643,
+        "Date": "Oct 28, 2026",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785965716.8001535,
         "MatchedTags": [
             "economy",
             "management",
@@ -99743,9 +99743,9 @@
         "URL": "https://store.steampowered.com/app/4898740/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4898740/0e77366b1e59590b1b49dc411fe4bbe52d61d2d9/header.jpg?t=1782932951",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-01",
-        "AddedTimestamp": 1782933343.0558,
+        "Date": "Aug 5, 2026",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785965747.1501238,
         "MatchedTags": [
             "survival horror",
             "psychological horror",
@@ -120609,9 +120609,9 @@
         "URL": "https://store.steampowered.com/app/4673940/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4673940/55a73a54022e185e5f6a2c64a07b25b5b720df78/header.jpg?t=1784861925",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-24",
-        "AddedTimestamp": 1784864906.857826,
+        "Date": "Aug 27, 2026",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785965696.9792116,
         "MatchedTags": [
             "strategy"
         ]
@@ -121016,9 +121016,9 @@
         "URL": "https://store.steampowered.com/app/4991240/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991240/599bdb26528be2cbb987e6c985d8ecaf61ca4012/header.jpg?t=1784892191",
-        "Date": "Aug 27, 2026",
-        "AddedDate": "2026-07-25",
-        "AddedTimestamp": 1784951077.1370242,
+        "Date": "Sep 3, 2026",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785965794.6588721,
         "MatchedTags": [
             "resource management"
         ]
@@ -130458,9 +130458,9 @@
         "URL": "https://store.steampowered.com/app/5015630/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5015630/d7550abb391fef4e81f78d5ffac3354fc77ba4b2/header.jpg?t=1785816494",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-04",
-        "AddedTimestamp": 1785825922.3030128,
+        "Date": "August 2026",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785965819.5976717,
         "MatchedTags": [
             "tactical"
         ]
@@ -132053,7 +132053,7 @@
     },
     "4942470": {
         "Title": "Bug Bounty Hunter \u2014 Idle",
-        "Email": "",
+        "Email": "info@vulnbyte.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4942470/",
         "Site": "https://www.vulnbyte.com/game",
@@ -132962,6 +132962,174 @@
             "strategy",
             "management",
             "resource management"
+        ]
+    },
+    "1640110": {
+        "Title": "Ectocrosis",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/1640110/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1640110/564046c17eebc4f684b4ac6a53d1822e2517e3c6/header.jpg?t=1785963136",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785965670.7721536,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4967210": {
+        "Title": "Hot Seat Triage",
+        "Email": "info@systemtwo.games",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4967210/",
+        "Site": "https://systemtwo.games/games/hot-seat-triage/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4967210/1dbe4200df562366842e2254148e634b59fd1e95/header.jpg?t=1785962465",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785965784.774276,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "5010650": {
+        "Title": "Kindred Hunger",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5010650/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5010650/2ee811cccaf11d9dedeaf1d9b757700f4ddf827b/header.jpg?t=1785960405",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785965808.7109637,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5011470": {
+        "Title": "Sunlit Kingdom",
+        "Email": "",
+        "Discord": "https://discord.gg/u33wdAXDdU",
+        "URL": "https://store.steampowered.com/app/5011470/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5011470/f67bcb963e73ba6c47623a803c3d6253db5336b7/header.jpg?t=1785959840",
+        "Date": "Aug 26, 2026",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785965812.0107174,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "turn-based combat",
+            "turn-based tactics"
+        ]
+    },
+    "5012100": {
+        "Title": "Buckaroo",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5012100/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5012100/791fd10c671e0a71a29d75703b14159a6a551a1f/header.jpg?t=1785960177",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785965814.4070485,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "5012470": {
+        "Title": "The Last Cornfield",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5012470/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5012470/25cd25655b4edc61e66db25ad88063ef28a13ebc/header.jpg?t=1785961529",
+        "Date": "Sep 1, 2026",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785965816.7347941,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "resource management"
+        ]
+    },
+    "5029670": {
+        "Title": "HOPIATE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5029670/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5029670/131b1bbc2979fbccb5f8a791bcaae41cd8cb64a1/header.jpg?t=1785962373",
+        "Date": "TBA",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785965821.6380377,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5032330": {
+        "Title": "Zombie Cropse",
+        "Email": "",
+        "Discord": "https://discord.gg/jSFBnG5np4",
+        "URL": "https://store.steampowered.com/app/5032330/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5032330/2e544187865270e4395b38f263633b71e6e6bc22/header.jpg?t=1785964536",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785965824.0685303,
+        "MatchedTags": [
+            "base building",
+            "strategy",
+            "management"
+        ]
+    },
+    "5033960": {
+        "Title": "Wild Justice",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5033960/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5033960/d7f24972840684dc2424562bb49d478fbdbe957d/header.jpg?t=1785963894",
+        "Date": "Aug 13, 2026",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785965829.5855281,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5036820": {
+        "Title": "COLD AISLE: Data Center Tycoon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5036820/",
+        "Site": "https://velmirestudios.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5036820/46fda88c45c01e1eb7a309cfc3dc9e49c8d6578c/header.jpg?t=1785960177",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785965832.8298793,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5037170": {
+        "Title": "Timberline Factory",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5037170/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037170/a22e8143e4863fc1224d8bb9fe84fdb51a06b785/header.jpg?t=1785965775",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785965835.7720313,
+        "MatchedTags": [
+            "economy",
+            "resource management",
+            "strategy",
+            "management"
         ]
     }
 }
