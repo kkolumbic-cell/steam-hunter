@@ -9948,7 +9948,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4485120/",
-        "Site": "",
+        "Site": "https://www.wobblegoat.com/games/nordfolk",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4485120/36f47fec9dab998a8da7fbcf3d3d1a8df53c1971/header.jpg?t=1773843843",
         "Date": "2026",
         "AddedDate": "2026-03-18",
@@ -71150,9 +71150,10 @@
         "AddedDate": "2026-06-07",
         "AddedTimestamp": 1780791615.906643,
         "MatchedTags": [
-            "management",
             "economy",
-            "base building"
+            "management",
+            "base building",
+            "strategy"
         ]
     },
     "4780950": {
@@ -87379,9 +87380,9 @@
         "URL": "https://store.steampowered.com/app/4841070/",
         "Site": "https://cursedciddy.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4841070/468fbab1aa5ba7bd8a33723209dfd76deb4ea3e3/header.jpg?t=1781631828",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-21",
-        "AddedTimestamp": 1782006111.5293775,
+        "Date": "Aug 7, 2026",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785959891.4380398,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -87679,9 +87680,9 @@
         "URL": "https://store.steampowered.com/app/4790360/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4790360/2a1bec20c8e958990405cbf2c9e03806e03818bd/header.jpg?t=1781669456",
-        "Date": "2028",
-        "AddedDate": "2026-06-17",
-        "AddedTimestamp": 1781673713.4754028,
+        "Date": "Q1 2028",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785959883.64853,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -101284,8 +101285,7 @@
         "AddedDate": "2026-07-03",
         "AddedTimestamp": 1783092674.8204315,
         "MatchedTags": [
-            "real time tactics",
-            "base building"
+            "real time tactics"
         ]
     },
     "4907030": {
@@ -113814,9 +113814,9 @@
         "URL": "https://store.steampowered.com/app/4664340/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4664340/bddf5fe8b7d741481febb5f0e8dd11d494978b61/header.jpg?t=1784308393",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-17",
-        "AddedTimestamp": 1784309620.9615374,
+        "Date": "May 2027",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785959864.5547688,
         "MatchedTags": [
             "strategy",
             "management",
@@ -113920,7 +113920,7 @@
     "4255780": {
         "Title": "No Mercy",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/7nwfbEmgYt",
         "URL": "https://store.steampowered.com/app/4255780/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4255780/8c161bc7abe5f64deb3aeea0f4a48d5bccdc9475/header.jpg?t=1784312446",
@@ -118372,9 +118372,9 @@
         "URL": "https://store.steampowered.com/app/4956600/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4956600/27c222a1e3c68443a1186472fbb407d1b3d1b070/header.jpg?t=1784721695",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-22",
-        "AddedTimestamp": 1784721990.365547,
+        "Date": "Aug 14, 2026",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785959932.9250708,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -126081,9 +126081,9 @@
         "URL": "https://store.steampowered.com/app/5001100/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001100/692279701a402b1424776af5c48012bc4f057894/header.jpg?t=1785393911",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-30",
-        "AddedTimestamp": 1785393953.6359472,
+        "Date": "Aug 12, 2026",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785959973.9927518,
         "MatchedTags": [
             "strategy"
         ]
@@ -127165,8 +127165,11 @@
         "AddedDate": "2026-07-31",
         "AddedTimestamp": 1785527822.2009795,
         "MatchedTags": [
-            "strategy",
             "tower defense",
+            "strategy",
+            "tactical",
+            "resource management",
+            "base building",
             "real time tactics"
         ]
     },
@@ -131462,8 +131465,8 @@
         "AddedDate": "2026-08-04",
         "AddedTimestamp": 1785873528.1216583,
         "MatchedTags": [
-            "strategy",
-            "turn-based tactics"
+            "turn-based tactics",
+            "strategy"
         ]
     },
     "4936650": {
@@ -132659,9 +132662,9 @@
         "URL": "https://store.steampowered.com/app/5007480/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5007480/bcd831977e798c71d9cdc6e3911f6290de0e4be8/header.jpg?t=1785936565",
-        "Date": "Aug 11, 2026",
+        "Date": "Aug 20, 2026",
         "AddedDate": "2026-08-05",
-        "AddedTimestamp": 1785944131.8093064,
+        "AddedTimestamp": 1785959987.5433106,
         "MatchedTags": [
             "survival horror"
         ]
@@ -132909,6 +132912,54 @@
             "strategy",
             "grand strategy",
             "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4931910": {
+        "Title": "SoulPurge",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4931910/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4931910/0caffa65fc2651a5f43a40a60f63b46dec88396d/header.jpg?t=1785956905",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785959923.7929678,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5019750": {
+        "Title": "Your Reputation Precedes You",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5019750/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5019750/2b4ee60910d113a7e2cbcbbda096ec8054a590ab/header.jpg?t=1785959647",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785960001.5106127,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "resource management"
+        ]
+    },
+    "5028050": {
+        "Title": "Traffic Architect",
+        "Email": "",
+        "Discord": "https://discord.gg/8Y5KxWZVqa",
+        "URL": "https://store.steampowered.com/app/5028050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5028050/410428da42a208e83167899db23ca06d5b861161/header.jpg?t=1785957811",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-05",
+        "AddedTimestamp": 1785960007.8243346,
+        "MatchedTags": [
+            "city builder",
+            "strategy",
             "management",
             "resource management"
         ]
