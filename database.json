@@ -12978,7 +12978,7 @@
     },
     "2680770": {
         "Title": "Formind",
-        "Email": "hr@next-genium.com, info@next-genium.com, pr@next-genium.com",
+        "Email": "info@next-genium.com, hr@next-genium.com, pr@next-genium.com",
         "Discord": "https://discord.gg/UhTb5md2",
         "URL": "https://store.steampowered.com/app/2680770/",
         "Site": "https://next-genium.com/en/",
@@ -14218,9 +14218,9 @@
         "URL": "https://store.steampowered.com/app/4285020/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285020/ab6f6ebd79579bed228a9ce81137c00e446b66ef/header.jpg?t=1774458372",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-03-27",
-        "AddedTimestamp": 1774634783.5621333,
+        "Date": "Aug 12, 2026",
+        "AddedDate": "2026-08-06",
+        "AddedTimestamp": 1786018848.0100374,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -102415,7 +102415,7 @@
     "3954130": {
         "Title": "Baked Blood Tavern",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/nb3QetyBDY",
         "URL": "https://store.steampowered.com/app/3954130/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3954130/1b436765e25515975c0a4e5b016d1dbc53a59359/header.jpg?t=1783242149",
@@ -103085,9 +103085,9 @@
         "URL": "https://store.steampowered.com/app/4833450/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4833450/e214d45cb42fea82aed86ff05c6de7b155b01870/header.jpg?t=1783356727",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-16",
-        "AddedTimestamp": 1784202992.853928,
+        "Date": "September 2026",
+        "AddedDate": "2026-08-06",
+        "AddedTimestamp": 1786018906.9968824,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -133619,6 +133619,67 @@
         "AddedDate": "2026-08-06",
         "AddedTimestamp": 1786010683.0545058,
         "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "3593840": {
+        "Title": "Jangan Tersesat",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3593840/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3593840/31b29eb2ffb0631f62d210bce99c0003fc9a536b/header.jpg?t=1786013105",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-06",
+        "AddedTimestamp": 1786018832.602165,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "horror"
+        ]
+    },
+    "4447380": {
+        "Title": "The Berliner",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4447380/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4447380/c7ef6ed80a4f2d5b71acb5bbc41ea686ad0634da/header.jpg?t=1786015450",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-06",
+        "AddedTimestamp": 1786018857.2375314,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4668330": {
+        "Title": "Telemetry",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4668330/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668330/197dd5588343c62b986dd5a8d1c1783612065f90/header.jpg?t=1786018483",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-06",
+        "AddedTimestamp": 1786018889.8061786,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5010520": {
+        "Title": "KERF: Sawmill Tycoon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5010520/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5010520/88ebc82b2f368792a62f4c20b174af2dcc9000bc/header.jpg?t=1786015043",
+        "Date": "August 2026",
+        "AddedDate": "2026-08-06",
+        "AddedTimestamp": 1786018971.7541928,
+        "MatchedTags": [
+            "economy",
             "strategy",
             "management"
         ]
