@@ -90196,9 +90196,9 @@
         "URL": "https://store.steampowered.com/app/4841700/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841700/280d14f7fe1373b1f98fef4099280ae0fe74d0de/header.jpg?t=1781880517",
-        "Date": "August 2026",
-        "AddedDate": "2026-06-19",
-        "AddedTimestamp": 1781905079.6742322,
+        "Date": "September 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786110167.803586,
         "MatchedTags": [
             "strategy",
             "economy",
@@ -101211,9 +101211,9 @@
         "URL": "https://store.steampowered.com/app/4678540/",
         "Site": "https://www.warmkitten.com/#marshland_hollow",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4678540/5fe943abb65480f4e0ac899bb106e7a4ad7aa460/header.jpg?t=1783090752",
-        "Date": "To be announced",
-        "AddedDate": "2026-07-03",
-        "AddedTimestamp": 1783092556.243183,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786110129.5327659,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -123079,7 +123079,8 @@
         "AddedDate": "2026-07-27",
         "AddedTimestamp": 1785178298.8484933,
         "MatchedTags": [
-            "resource management"
+            "strategy",
+            "management"
         ]
     },
     "4828680": {
@@ -134906,6 +134907,110 @@
             "resource management",
             "economy",
             "city builder"
+        ]
+    },
+    "4491960": {
+        "Title": "CLOUD BREACH",
+        "Email": "",
+        "Discord": "https://discord.gg/QtuwG9tA2z",
+        "URL": "https://store.steampowered.com/app/4491960/",
+        "Site": "https://cloudbreachgame.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4491960/2259c003d2b77ca51444c0d1f9ea6c982e30b1bd/header.jpg?t=1786107584",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786110107.1490273,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4579760": {
+        "Title": "Overtime : Patrol",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4579760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4579760/7b6b16683315be190704d710714debcc38f9c5e6/header.jpg?t=1786104184",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786110121.6605747,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4911730": {
+        "Title": "Jubaku",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4911730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4911730/676751738325a3563b04b9e9580a4fc713546e58/header.jpg?t=1786108372",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786110189.1503563,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4960710": {
+        "Title": "Puzzle Loot",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4960710/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4960710/82f497a77a8b0b0c70d82de55ecbc167951065bc/header.jpg?t=1786108601",
+        "Date": "Sep 9, 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786110216.3208368,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "5013130": {
+        "Title": "Cellar Cleanup Simulator",
+        "Email": "",
+        "Discord": "https://discord.gg/kikigames",
+        "URL": "https://store.steampowered.com/app/5013130/",
+        "Site": "https://www.kikigames.fun/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5013130/cf74b86612bb36a6a35c96cb4b466e8ca98be9fa/header.jpg?t=1786106309",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786110233.3385572,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "5018030": {
+        "Title": "Duo Control",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5018030/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5018030/81430df66642d96f4eb07316969e73a978e08c27/header.jpg?t=1786109509",
+        "Date": "October 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786110235.724927,
+        "MatchedTags": [
+            "tactical",
+            "real time tactics",
+            "strategy"
+        ]
+    },
+    "5036910": {
+        "Title": "GO, STOP",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5036910/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5036910/c1ff3b46cd49ffcdd235401b328041f38c0b19c5/header.jpg?t=1786104523",
+        "Date": "November 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786110243.5621266,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
