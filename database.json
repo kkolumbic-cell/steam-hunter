@@ -56803,9 +56803,9 @@
         "URL": "https://store.steampowered.com/app/4030150/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4030150/d0cf2fdb5f7be154aef2a6c5cdacb32d3dc9538a/header.jpg?t=1778651001",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-07-23",
-        "AddedTimestamp": 1784799501.491034,
+        "Date": "Sep 9, 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786088632.2358668,
         "MatchedTags": [
             "turn-based tactics",
             "tactical rpg",
@@ -61018,8 +61018,8 @@
         "AddedDate": "2026-05-20",
         "AddedTimestamp": 1779278746.1693015,
         "MatchedTags": [
-            "horror",
-            "psychological horror"
+            "psychological horror",
+            "horror"
         ]
     },
     "4682450": {
@@ -100065,9 +100065,9 @@
         "URL": "https://store.steampowered.com/app/4894180/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4894180/e0e12e312a7ba35df93ab71f9e86ac5f62e647be/header.jpg?t=1782994054",
-        "Date": "Aug 6, 2026",
-        "AddedDate": "2026-07-10",
-        "AddedTimestamp": 1783673212.0201695,
+        "Date": "Aug 7, 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786088677.349225,
         "MatchedTags": [
             "strategy"
         ]
@@ -131968,7 +131968,7 @@
     "4716960": {
         "Title": "Scrappers: Adhokin",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/mYTgz9XRFj",
         "URL": "https://store.steampowered.com/app/4716960/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4716960/7a6d6d3520e9972bfcb42d01f529c62a1400fc3b/header.jpg?t=1785911629",
@@ -134736,6 +134736,82 @@
         "AddedTimestamp": 1786082014.4676492,
         "MatchedTags": [
             "resource management"
+        ]
+    },
+    "2924970": {
+        "Title": "Elysia Sector\u2122: The Unknown",
+        "Email": "harleyphoenix.work@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2924970/",
+        "Site": "https://www.harleyphoenix.co.uk",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2924970/4a0753ae3a8c2fbea7a9398b5d5d920b7e7a80e3/header.jpg?t=1786082435",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786088606.330697,
+        "MatchedTags": [
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "4110110": {
+        "Title": "Underveil",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4110110/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110110/a0dccbba7647d64d9f77079e0852ceeb131e6331/header.jpg?t=1786082306",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786088634.587491,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4919710": {
+        "Title": "MOTA",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4919710/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4919710/5297b3862d6299d013fffc68b8091e5ede5d475f/header.jpg?t=1786084297",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786088685.0433047,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "5015960": {
+        "Title": "Wildmark",
+        "Email": "hello@stander.games, press@stander.games",
+        "Discord": "https://discord.gg/j6qXnzSnje",
+        "URL": "https://store.steampowered.com/app/5015960/",
+        "Site": "https://stander.games",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5015960/a990d25c9d4f67fa83f899fb0c75360c8395785e/header.jpg?t=1786086236",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786088725.4739323,
+        "MatchedTags": [
+            "economy",
+            "management"
+        ]
+    },
+    "5040600": {
+        "Title": "Relaxation Massage Studio",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5040600/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5040600/4a15d293cc764e1052a61859c295eec916751f4c/header.jpg?t=1786082242",
+        "Date": "August 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786088737.1816683,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "strategy"
         ]
     }
 }
