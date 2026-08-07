@@ -25017,7 +25017,7 @@
     "4418430": {
         "Title": "STRAFEST",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/Zf9ybc3paS",
         "URL": "https://store.steampowered.com/app/4418430/",
         "Site": "https://OStanley.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4418430/2b6a8f6fe43ad7320abfca27af35296bbf25ceff/header.jpg?t=1775671426",
@@ -39224,7 +39224,7 @@
     "4427230": {
         "Title": "Prison Gambit",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/GtnDanQZc",
         "URL": "https://store.steampowered.com/app/4427230/",
         "Site": "https://wolvengames.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4427230/965cd4b55245a7dbde4374c57c1318d1c9fb3ce4/header.jpg?t=1776955573",
@@ -99752,9 +99752,9 @@
         "AddedDate": "2026-08-05",
         "AddedTimestamp": 1785965747.1501238,
         "MatchedTags": [
-            "survival horror",
+            "horror",
             "psychological horror",
-            "horror"
+            "survival horror"
         ]
     },
     "4873880": {
@@ -110270,10 +110270,10 @@
     },
     "4551060": {
         "Title": "Salt and Soil",
-        "Email": "",
+        "Email": "support@delosx.com",
         "Discord": "https://discord.gg/qXDJhSpW",
         "URL": "https://store.steampowered.com/app/4551060/",
-        "Site": "",
+        "Site": "https://delosx.com/salt-and-soil/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4551060/e546a62ead382aa2bf25b50b045cc01faa7127a3/header.jpg?t=1784041360",
         "Date": "Coming soon",
         "AddedDate": "2026-07-14",
@@ -113896,7 +113896,7 @@
     "4961460": {
         "Title": "MarginCall",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/VeCH5fqXhY",
         "URL": "https://store.steampowered.com/app/4961460/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4961460/36f6e824bcc4e040c2fcf0a581c7c842e208aabc/header.jpg?t=1784309319",
@@ -125917,9 +125917,9 @@
         "URL": "https://store.steampowered.com/app/5005140/",
         "Site": "https://gamingdove.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5005140/d31b1c11affdc24c08a3315fd6c772ca001b628a/header.jpg?t=1785377651",
-        "Date": "To be announced",
-        "AddedDate": "2026-07-30",
-        "AddedTimestamp": 1785382629.1420321,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786122691.2152965,
         "MatchedTags": [
             "turn-based tactics",
             "turn-based strategy",
@@ -135273,6 +135273,101 @@
         "Date": "Sep 11, 2026",
         "AddedDate": "2026-08-07",
         "AddedTimestamp": 1786119101.3044097,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4734650": {
+        "Title": "Chinese Bar Love Simulation Game",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4734650/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4734650/d716c7bc7b6af633e7cf7ef9e8cf4466e4b61ac9/header.jpg?t=1786121146",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786122617.719452,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4933930": {
+        "Title": "A Wizard-Chess Tournament",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4933930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4933930/23e62e8cfa4c07446b32c472f5b68b6f887a9250/header.jpg?t=1786122373",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786122653.1460867,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4997840": {
+        "Title": "Monstrum Opus",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4997840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4997840/d24ef948ae3c7e99e415736bf282398abdff4951/header.jpg?t=1786120640",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786122681.968406,
+        "MatchedTags": [
+            "turn-based strategy",
+            "strategy",
+            "turn-based combat",
+            "survival horror",
+            "tactical",
+            "horror"
+        ]
+    },
+    "5001880": {
+        "Title": "Ringworld Architect",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5001880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5001880/53dab62a5c6a753da6722f8009bbef03727e09c4/header.jpg?t=1786119519",
+        "Date": "TBA",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786122684.8447096,
+        "MatchedTags": [
+            "city builder",
+            "strategy"
+        ]
+    },
+    "5020270": {
+        "Title": "Digital Hunger",
+        "Email": "",
+        "Discord": "https://discord.gg/HYyGD95tuu",
+        "URL": "https://store.steampowered.com/app/5020270/",
+        "Site": "https://blackbeard.co.il/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5020270/86d02aaa96d8704a4244a0d5299e30d6997a86a2/header.jpg?t=1786122009",
+        "Date": "Sep 1, 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786122697.6849332,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "5046920": {
+        "Title": "B.U.D.D.I - Personal Diagnostic Companion",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5046920/",
+        "Site": "https://vopgames.com/buddi/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5046920/82f658e312cc6d5228dc567237a528cedede2409/header.jpg?t=1786119861",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786122708.9847567,
         "MatchedTags": [
             "psychological horror"
         ]
