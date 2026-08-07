@@ -90898,7 +90898,7 @@
     "4448280": {
         "Title": "SOULRITE",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/ug7N9PdEay",
         "URL": "https://store.steampowered.com/app/4448280/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4448280/477661cafe81aa9bc8de322f5599a6c9747429e7/header.jpg?t=1781941185",
@@ -99626,9 +99626,9 @@
         "URL": "https://store.steampowered.com/app/4640180/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4640180/519f7cdd45bbf977da7310c58bd3bb8dd8a97a7a/header.jpg?t=1782926023",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-02",
-        "AddedTimestamp": 1785684600.2464325,
+        "Date": "Nov 3, 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786075516.4766989,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -107968,9 +107968,9 @@
         "URL": "https://store.steampowered.com/app/4706650/",
         "Site": "https://wargameds.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4706650/4bc7397acd3c42e94f322f2e1953a02290d3587e/header.jpg?t=1783719309",
-        "Date": "Aug 7, 2026",
-        "AddedDate": "2026-07-10",
-        "AddedTimestamp": 1783721916.1787114,
+        "Date": "August 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786075529.5546951,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -120678,7 +120678,8 @@
         "AddedDate": "2026-07-24",
         "AddedTimestamp": 1784865001.2396188,
         "MatchedTags": [
-            "psychological horror"
+            "psychological horror",
+            "horror"
         ]
     },
     "4958330": {
@@ -122573,23 +122574,6 @@
         "AddedTimestamp": 1785074408.2139533,
         "MatchedTags": [
             "strategy",
-            "turn-based combat"
-        ]
-    },
-    "4469080": {
-        "Title": "Monk & The Misfit Monsters",
-        "Email": "",
-        "Discord": "https://discord.gg/CeMdAc6bmp",
-        "URL": "https://store.steampowered.com/app/4469080/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4469080/d101464153e1ee41ce5b15c45c8f0d7bbbd92cbe/header.jpg?t=1785078504",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-06",
-        "AddedTimestamp": 1785987693.7132316,
-        "MatchedTags": [
-            "turn-based strategy",
-            "tactical rpg",
-            "turn-based tactics",
             "turn-based combat"
         ]
     },
@@ -133067,9 +133051,9 @@
         "URL": "https://store.steampowered.com/app/5029670/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5029670/131b1bbc2979fbccb5f8a791bcaae41cd8cb64a1/header.jpg?t=1785962373",
-        "Date": "TBA",
-        "AddedDate": "2026-08-05",
-        "AddedTimestamp": 1785965821.6380377,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786075662.1230874,
         "MatchedTags": [
             "strategy"
         ]
@@ -134511,6 +134495,204 @@
             "tower defense",
             "city builder",
             "base building"
+        ]
+    },
+    "3686490": {
+        "Title": "HexCrawler",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3686490/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3686490/aab1bf9aa23de555d6437379727efec9f3bb9929/header.jpg?t=1786071930",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786075465.8204148,
+        "MatchedTags": [
+            "tactical rpg",
+            "strategy",
+            "turn-based combat",
+            "tactical"
+        ]
+    },
+    "4301950": {
+        "Title": "RunIn: Encounters",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4301950/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4301950/9821574131b5dd3fb654c7bd95b896f574a43e1d/header.jpg?t=1786063235",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786075484.6915488,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4603430": {
+        "Title": "DeSimulate",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4603430/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4603430/212b797c5496e293997f56b55894072854a9e3df/header.jpg?t=1786065490",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786075510.5265713,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy"
+        ]
+    },
+    "4833570": {
+        "Title": "Beat Juicer",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4833570/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4833570/aa51e0832cedb1c892453656592c53ada3002556/header.jpg?t=1786067020",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786075554.031743,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4966870": {
+        "Title": "Sticky Words",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4966870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4966870/a73f20433aa8074d6b249d784bdfc1522c24e2ac/header.jpg?t=1786066276",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786075615.6077693,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4981040": {
+        "Title": "\u6050\u6016\u591c\u8a71 \u7b2c\u4e8c\u591c",
+        "Email": "kyohuyawa@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4981040/",
+        "Site": "https://drive.google.com/drive/folders/1TqyI4aoJy8ab2pe-sllqpMPRA-XNAVZb",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4981040/d768e15c4b84653161c5fa27fe8ea1b5bd562ce2/header.jpg?t=1786071643",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786075624.2548754,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4997430": {
+        "Title": "\u30ed\u30fc\u30de\u5e1d\u56fd\u306e\u9006\u8972\u3000Counter Attack of Roman Empire",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4997430/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4997430/d75ca5124f006e2f2eeaa8d8a4769fb1166622a5/header.jpg?t=1786074589",
+        "Date": "Jan 1, 2027",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786075639.4181423,
+        "MatchedTags": [
+            "real time tactics",
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4998260": {
+        "Title": "Clickbait Tycoon",
+        "Email": "",
+        "Discord": "https://discord.gg/JzK4XjzhvW",
+        "URL": "https://store.steampowered.com/app/4998260/",
+        "Site": "https://clickbaittycoon.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4998260/1ade0817f8a53bccd2fd9e2a0134e0b97b5779c8/header.jpg?t=1786074330",
+        "Date": "Aug 21, 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786075642.568492,
+        "MatchedTags": [
+            "management",
+            "strategy"
+        ]
+    },
+    "5019260": {
+        "Title": "Anatomy of a Dream",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5019260/",
+        "Site": "https://staticfield.io",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5019260/105cce9ebd024559acddce7fdb38f5f201092a23/header.jpg?t=1786074573",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786075654.517062,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5028940": {
+        "Title": "Mafia Tycoon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5028940/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5028940/16622ea95dd5638e0e1489a862f0326d8c177f6f/header.jpg?t=1786066949",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786075658.9441137,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management",
+            "economy"
+        ]
+    },
+    "5034920": {
+        "Title": "LAUNDRO",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5034920/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5034920/efa262bde2051425ac54bdd81d257380adc1d5ac/header.jpg?t=1786069131",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786075671.237586,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5041260": {
+        "Title": "Ritual : House Sitting",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5041260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5041260/cad0dc5d38be67c004a084199b9d3c181b83d650/header.jpg?t=1786066766",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786075673.4977112,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "5044500": {
+        "Title": "Palehollow Hospital | \u7070\u8c37\u533b\u9662",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5044500/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5044500/e4cf198d08e9a3e8d822f0f73d20896ce48cb7aa/header.jpg?t=1786064004",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786075680.739798,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
