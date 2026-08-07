@@ -105583,9 +105583,9 @@
         "URL": "https://store.steampowered.com/app/4925300/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4925300/70e29a74d0225f18d4df4507e8d4466cd83e182f/header.jpg?t=1783529642",
-        "Date": "To be announced",
-        "AddedDate": "2026-08-02",
-        "AddedTimestamp": 1785679159.8362377,
+        "Date": "Aug 31, 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786139878.954581,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -135637,6 +135637,51 @@
         "AddedTimestamp": 1786136627.5015838,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "5031550": {
+        "Title": "Damage Xiangqi",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5031550/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5031550/73e79830a2aa096ee5288a790c30aabde3da4121/header.jpg?t=1786137967",
+        "Date": "August 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786139883.9335234,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "5041040": {
+        "Title": "Sketchy Business",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5041040/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5041040/bbf1b80d22cd87b0724255c5325fa0e9b9d1e114/header.jpg?t=1786139122",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786139886.1585166,
+        "MatchedTags": [
+            "management",
+            "strategy"
+        ]
+    },
+    "5047880": {
+        "Title": "Yuoh\u3000\uff5eEscape from the Empire\uff5e",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5047880/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5047880/3a282836f121a31d59c5127a1e84260aba24ba8a/header.jpg?t=1786138774",
+        "Date": "2027",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786139891.1911066,
+        "MatchedTags": [
+            "tactical"
         ]
     }
 }
