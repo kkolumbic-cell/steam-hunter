@@ -13339,9 +13339,9 @@
         "URL": "https://store.steampowered.com/app/4516900/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4516900/ed075d101447973d431ab92f67ce1df8e1a4f91b/header.jpg?t=1774384443",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-20",
-        "AddedTimestamp": 1779292757.749244,
+        "Date": "Aug 7, 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786143413.4325707,
         "MatchedTags": [
             "tactical",
             "strategy"
@@ -21505,7 +21505,7 @@
     },
     "4482420": {
         "Title": "Clownless",
-        "Email": "joseph@shotdash.com, jack@shotdash.com, contact@shotdash.com, valentine@shotdash.com",
+        "Email": "jack@shotdash.com, contact@shotdash.com, joseph@shotdash.com, valentine@shotdash.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4482420/",
         "Site": "https://www.shotdash.com",
@@ -97217,10 +97217,10 @@
     },
     "4851260": {
         "Title": "Warehouse Simulator",
-        "Email": "",
+        "Email": "support@aulright.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4851260/",
-        "Site": "",
+        "Site": "https://aulright.com/games/crossdock",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4851260/6dfce7e6d5b2c1279ed4f10fd285de804c409b03/header.jpg?t=1782656918",
         "Date": "Coming soon",
         "AddedDate": "2026-06-28",
@@ -107971,9 +107971,9 @@
         "URL": "https://store.steampowered.com/app/4706650/",
         "Site": "https://wargameds.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4706650/4bc7397acd3c42e94f322f2e1953a02290d3587e/header.jpg?t=1783719309",
-        "Date": "August 2026",
+        "Date": "Aug 14, 2026",
         "AddedDate": "2026-08-07",
-        "AddedTimestamp": 1786075529.5546951,
+        "AddedTimestamp": 1786143422.248121,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -124292,7 +124292,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4997110/",
-        "Site": "",
+        "Site": "https://onlylogic.games/stone-to-stars/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4997110/0d6407b6c0c74c15e08428bea2f1000acb5659c6/header.jpg?t=1785266254",
         "Date": "March 2027",
         "AddedDate": "2026-07-28",
@@ -127333,9 +127333,11 @@
         "AddedTimestamp": 1785485642.890735,
         "MatchedTags": [
             "strategy",
+            "management",
             "turn-based strategy",
+            "resource management",
             "turn-based tactics",
-            "grand strategy"
+            "tactical"
         ]
     },
     "4708990": {
@@ -135681,6 +135683,82 @@
         "AddedDate": "2026-08-07",
         "AddedTimestamp": 1786139891.1911066,
         "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4438400": {
+        "Title": "Eldritch Break",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4438400/",
+        "Site": "https://www.lunaticmoon.studio/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4438400/5eb93007013c59177cc4fd60b563bf05b601dc31/header.jpg?t=1786142949",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786143405.3293343,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4953860": {
+        "Title": "Arxanum Idle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4953860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4953860/720380e02f6f6eadd2acf1209727a1149decf1f6/header.jpg?t=1786140923",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786143453.6697578,
+        "MatchedTags": [
+            "turn-based strategy",
+            "resource management",
+            "tactical",
+            "management",
+            "turn-based combat"
+        ]
+    },
+    "4994320": {
+        "Title": "Attack of the Zektoids!",
+        "Email": "support@velvetvoxel.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4994320/",
+        "Site": "https://www.velvetvoxel.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4994320/07ad1a61d4084fda8b5a2208ed58f8c826eee840/header.jpg?t=1786142590",
+        "Date": "Aug 21, 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786143461.4895582,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5039070": {
+        "Title": "Jester's Dungeon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5039070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5039070/5d4022665860e899690085f4224105f4074fb5c6/header.jpg?t=1786142872",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786143476.0570254,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5046840": {
+        "Title": "TowOrbs",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5046840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5046840/53fe995a17584a613e11cbe917ac0d48061574fe/header.jpg?t=1786140046",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786143483.8856769,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
             "tactical"
         ]
     }
