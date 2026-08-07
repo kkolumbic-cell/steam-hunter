@@ -40919,10 +40919,11 @@
         "AddedDate": "2026-04-24",
         "AddedTimestamp": 1777058045.1529982,
         "MatchedTags": [
+            "psychological horror",
             "horror",
             "management",
             "resource management",
-            "strategy"
+            "survival horror"
         ]
     },
     "4109570": {
@@ -43583,9 +43584,9 @@
         "URL": "https://store.steampowered.com/app/3649710/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3649710/cb704769eb20bfe5aeacd3f9651f98d20ec3e0e6/header.jpg?t=1777348842",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-28",
-        "AddedTimestamp": 1777349292.75622,
+        "Date": "Aug 27, 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786081922.416404,
         "MatchedTags": [
             "turn-based tactics",
             "strategy",
@@ -124449,9 +124450,9 @@
         "URL": "https://store.steampowered.com/app/4995840/",
         "Site": "https://mendlo.github.io/mendlo-games/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4995840/f2fb8530955f54d58e31b75b4037c42a9eaeb759/header.jpg?t=1785274703",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-28",
-        "AddedTimestamp": 1785277290.891295,
+        "Date": "Aug 11, 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786082002.5156302,
         "MatchedTags": [
             "economy",
             "management"
@@ -128273,23 +128274,6 @@
         "MatchedTags": [
             "strategy",
             "real time tactics"
-        ]
-    },
-    "4922330": {
-        "Title": "Casino Legends",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4922330/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4922330/845e4960920f1841a958073eb8035659abacbc73/header.jpg?t=1785534454",
-        "Date": "Aug 18, 2026",
-        "AddedDate": "2026-07-31",
-        "AddedTimestamp": 1785539959.1608505,
-        "MatchedTags": [
-            "strategy",
-            "economy",
-            "management",
-            "resource management"
         ]
     },
     "4985590": {
@@ -134693,6 +134677,65 @@
         "AddedTimestamp": 1786075680.739798,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4781490": {
+        "Title": "Echoes of Eta",
+        "Email": "",
+        "Discord": "https://discord.gg/QyGGyZ4yVk",
+        "URL": "https://store.steampowered.com/app/4781490/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4781490/afaeccaaf637ab86ce98d52aa0ed58b4a9315a60/header.jpg?t=1786078121",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786081954.6357307,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4958580": {
+        "Title": "The Seven Will Die",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4958580/",
+        "Site": "https://www.thesevenwilldie.com?from=steam",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4958580/f0253da6cd2e2c7655809a8cefe5efb82c539600/header.jpg?t=1786077793",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786081990.592719,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4983770": {
+        "Title": "The Legend of Evtar: Quest for the Dragon Crystal",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4983770/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4983770/56be69f38460585bc03fc3c83b53f0889665a0ee/header.jpg?t=1786079947",
+        "Date": "TBA",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786081994.2983222,
+        "MatchedTags": [
+            "turn-based tactics",
+            "tactical rpg",
+            "turn-based combat",
+            "strategy"
+        ]
+    },
+    "5024610": {
+        "Title": "ONE MORE FISHING",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5024610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5024610/5c4d5215ed218e798ff28c165d550c73286a7c04/header.jpg?t=1786079534",
+        "Date": "Aug 21, 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786082014.4676492,
+        "MatchedTags": [
+            "resource management"
         ]
     }
 }
