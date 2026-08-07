@@ -25624,9 +25624,9 @@
         "URL": "https://store.steampowered.com/app/4590270/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4590270/d6f56096ea943805b856b6fc0cac500cd5b266d0/header.jpg?t=1775718236",
-        "Date": "Q1 2027",
-        "AddedDate": "2026-07-27",
-        "AddedTimestamp": 1785185112.3903494,
+        "Date": "Jan 27, 2027",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786094242.146121,
         "MatchedTags": [
             "horror"
         ]
@@ -65237,9 +65237,9 @@
         "URL": "https://store.steampowered.com/app/4761550/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4761550/ec85b30f4616bf99f79e61ccc07c8b6813e7a236/header.jpg?t=1779813735",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-20",
-        "AddedTimestamp": 1781944255.1896875,
+        "Date": "Sep 1, 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786094253.3441083,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -76736,9 +76736,9 @@
         "URL": "https://store.steampowered.com/app/4786800/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4786800/6710d76fd74dc0239d367384f4308244a2f2b600/header.jpg?t=1780733580",
-        "Date": "Oct 1, 2026",
-        "AddedDate": "2026-08-04",
-        "AddedTimestamp": 1785846132.5607119,
+        "Date": "Sep 24, 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786094258.1936905,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -77263,7 +77263,7 @@
     "4791310": {
         "Title": "Frontactics",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/KCjvrkqtb",
         "URL": "https://store.steampowered.com/app/4791310/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4791310/220a23f3232c2911454a7e66d1de05e5c5bdc96b/header.jpg?t=1780819676",
@@ -110190,7 +110190,7 @@
     "4902790": {
         "Title": "Rule or Fall",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/6HKw3KqG47",
         "URL": "https://store.steampowered.com/app/4902790/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4902790/e49d05de9ec17bbf087e3caf9fdded360de71f60/header.jpg?t=1784024285",
@@ -133396,9 +133396,9 @@
         "URL": "https://store.steampowered.com/app/4961330/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4961330/3c06b56f1904fa100d2732a76be57d94ba139ebb/header.jpg?t=1785998551",
-        "Date": "TBA",
-        "AddedDate": "2026-08-06",
-        "AddedTimestamp": 1785998985.4737153,
+        "Date": "To be announced",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786094300.273419,
         "MatchedTags": [
             "management",
             "strategy",
@@ -134812,6 +134812,49 @@
             "management",
             "economy",
             "strategy"
+        ]
+    },
+    "4938400": {
+        "Title": "\u96ea\u89e3\u3051\u306e\u30ab\u30eb\u30c6",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4938400/",
+        "Site": "https://yukikarute.homulillyblog.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4938400/4b132165910e9ec1a3b7e4f9302723cb9be0c93f/header.jpg?t=1786092742",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786094288.1607385,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4947670": {
+        "Title": "Desktop Wizard",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4947670/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4947670/3fe85d99c4b4898eaf5a45abab419c09d4582dd8/header.jpg?t=1786090917",
+        "Date": "TBA",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786094297.1869724,
+        "MatchedTags": [
+            "tower defense"
+        ]
+    },
+    "5033060": {
+        "Title": "Menthal",
+        "Email": "",
+        "Discord": "https://discord.com/invite/HDGv5KMYa9",
+        "URL": "https://store.steampowered.com/app/5033060/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5033060/aeecce2971c62b8147c09de5a7157f07cee5b668/header.jpg?t=1786089699",
+        "Date": "November 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786094322.2050157,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
