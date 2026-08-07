@@ -47384,9 +47384,9 @@
         "URL": "https://store.steampowered.com/app/4231940/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4231940/1b8591c2f48e623cba5835f846d21d48b1d23cac/header.jpg?t=1777595621",
-        "Date": "2026",
-        "AddedDate": "2026-05-01",
-        "AddedTimestamp": 1777609209.083255,
+        "Date": "Aug 17, 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786130263.610794,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -70157,9 +70157,9 @@
         "URL": "https://store.steampowered.com/app/4761360/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4761360/eb6384fdbbe85f75a8eafef6ad4517014cee8a4b/header.jpg?t=1780261622",
-        "Date": "Aug 25, 2026",
-        "AddedDate": "2026-07-23",
-        "AddedTimestamp": 1784845036.584641,
+        "Date": "Sep 1, 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786130281.470007,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -98388,9 +98388,9 @@
         "URL": "https://store.steampowered.com/app/4849920/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4849920/f5b01e7b7159192c9dd4ccf6278470fb4004aad5/header.jpg?t=1782819690",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-30",
-        "AddedTimestamp": 1782825567.9221363,
+        "Date": "Jul 19, 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786130290.163075,
         "MatchedTags": [
             "tactical"
         ]
@@ -120331,9 +120331,9 @@
         "URL": "https://store.steampowered.com/app/4988340/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4988340/856e375f5b38a68d68fddaeb1a26990702073460/header.jpg?t=1784833307",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-23",
-        "AddedTimestamp": 1784838911.2732131,
+        "Date": "Aug 10, 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786130315.7300124,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -134715,13 +134715,13 @@
     "4983770": {
         "Title": "The Legend of Evtar: Quest for the Dragon Crystal",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/szGQUa6cUq",
         "URL": "https://store.steampowered.com/app/4983770/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4983770/56be69f38460585bc03fc3c83b53f0889665a0ee/header.jpg?t=1786079947",
-        "Date": "TBA",
+        "Date": "To be announced",
         "AddedDate": "2026-08-07",
-        "AddedTimestamp": 1786081994.2983222,
+        "AddedTimestamp": 1786130313.706673,
         "MatchedTags": [
             "turn-based tactics",
             "tactical rpg",
@@ -135428,6 +135428,64 @@
         "AddedTimestamp": 1786125957.0410814,
         "MatchedTags": [
             "psychological horror"
+        ]
+    },
+    "4466430": {
+        "Title": "Caspian's Quest",
+        "Email": "support@manatech.gg",
+        "Discord": "https://discord.gg/caspiansquest",
+        "URL": "https://store.steampowered.com/app/4466430/",
+        "Site": "https://www.manatech.gg/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4466430/2ddfac23e24939a4fdbf80320a67a887e67de37f/header.jpg?t=1786129621",
+        "Date": "Dec 24, 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786130268.2484212,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "5003040": {
+        "Title": "Aura Farmer 67",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5003040/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5003040/2a0a663b798b740fbfa3cfb5a280030b7681af38/header.jpg?t=1786128775",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786130319.0585783,
+        "MatchedTags": [
+            "management",
+            "resource management"
+        ]
+    },
+    "5011560": {
+        "Title": "Last Rites",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5011560/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5011560/ed863d59358ceaadf583d9b4f34168c8a1c0be30/header.jpg?t=1786128091",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786130326.2621274,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "5043340": {
+        "Title": "Misdealt",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5043340/",
+        "Site": "https://linktr.ee/gregthefrogstudios",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5043340/3482a346e4305e323d63124b67114053ec5ed618/header.jpg?t=1786128440",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786130348.223908,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
