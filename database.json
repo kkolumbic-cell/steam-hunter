@@ -81058,9 +81058,9 @@
         "URL": "https://store.steampowered.com/app/4685470/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4685470/fab90383a5e905d2064352ca85562147941d92eb/header.jpg?t=1781130662",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-10",
-        "AddedTimestamp": 1781132359.918476,
+        "Date": "Aug 7, 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786146592.3199074,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -128115,10 +128115,10 @@
     },
     "5016130": {
         "Title": "Warpack",
-        "Email": "",
+        "Email": "contact@n1ghtmarestudios.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/5016130/",
-        "Site": "",
+        "Site": "https://n1ghtmarestudios.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5016130/c62fd3b275e4deaf72b148157d770aa7e3d8539e/header.jpg?t=1785512222",
         "Date": "Coming soon",
         "AddedDate": "2026-07-31",
@@ -135760,6 +135760,23 @@
             "strategy",
             "tower defense",
             "tactical"
+        ]
+    },
+    "5041600": {
+        "Title": "Curse of the Ancient Grimoire",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5041600/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5041600/70d686420246562c2777557ef5651eadba8a1f6b/header.jpg?t=1786144451",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786146621.425471,
+        "MatchedTags": [
+            "tactical rpg",
+            "turn-based tactics",
+            "turn-based combat",
+            "turn-based strategy"
         ]
     }
 }
