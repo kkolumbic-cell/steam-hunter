@@ -70911,10 +70911,10 @@
         "AddedTimestamp": 1780338012.0527897,
         "MatchedTags": [
             "strategy",
-            "turn-based strategy",
             "turn-based tactics",
-            "tactical",
-            "turn-based combat"
+            "turn-based strategy",
+            "turn-based combat",
+            "tactical"
         ]
     },
     "4534680": {
@@ -102168,9 +102168,9 @@
         "URL": "https://store.steampowered.com/app/4911910/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4911910/199b0a7aa36ec04586ab12b8f58c234a213f9681/header.jpg?t=1783166485",
-        "Date": "2026",
-        "AddedDate": "2026-07-04",
-        "AddedTimestamp": 1783167682.6508305,
+        "Date": "Dec 1, 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786119059.1369567,
         "MatchedTags": [
             "base building"
         ]
@@ -116095,9 +116095,9 @@
         "URL": "https://store.steampowered.com/app/4787460/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4787460/cd5da101b7aa43041693986ca9543e7456786e0a/header.jpg?t=1784575657",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-08-03",
-        "AddedTimestamp": 1785760747.913504,
+        "Date": "November 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786119037.4704494,
         "MatchedTags": [
             "strategy",
             "horror",
@@ -131767,7 +131767,7 @@
         "Email": "",
         "Discord": "https://discord.gg/nHx9gCpFcx",
         "URL": "https://store.steampowered.com/app/4985160/",
-        "Site": "",
+        "Site": "https://goodlytrials.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4985160/5ca48c5e9d623c9a5ff4672fb36063f8ade46a3e/header.jpg?t=1785898224",
         "Date": "Aug 18, 2026",
         "AddedDate": "2026-08-05",
@@ -135165,6 +135165,116 @@
             "strategy",
             "turn-based strategy",
             "turn-based combat"
+        ]
+    },
+    "1463400": {
+        "Title": "Happily Never After",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/1463400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1463400/660a56714d37b8ef400163822dc6ef965c62af3c/header.jpg?t=1786117336",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786118999.2079039,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "2779920": {
+        "Title": "Gravend",
+        "Email": "",
+        "Discord": "https://discord.com/invite/2RJMbh3F4P",
+        "URL": "https://store.steampowered.com/app/2779920/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2779920/41ff499d4d9f1dfb67d334269f9aa51006318083/header.jpg?t=1786116222",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786119002.3277175,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4970620": {
+        "Title": "Bloom Inc",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4970620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4970620/cdf1e5bceadfae4d72adf809b695e717003d2ba3/header.jpg?t=1786118010",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786119074.9968307,
+        "MatchedTags": [
+            "management",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4982050": {
+        "Title": "CURSECADE: Pachinko Roguelite",
+        "Email": "",
+        "Discord": "https://discord.gg/e6d8YuJu",
+        "URL": "https://store.steampowered.com/app/4982050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4982050/fb7ca42f92ade563900c695c73c8dd6a7baee3d1/header.jpg?t=1786118619",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786119082.3588035,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "4986590": {
+        "Title": "CAPITALIUM",
+        "Email": "",
+        "Discord": "https://discord.gg/e6cSKcNVwz",
+        "URL": "https://store.steampowered.com/app/4986590/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4986590/c4e4fecb0d4dd9d6c1c153e2534698c523844d69/header.jpg?t=1786117687",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786119088.8505058,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "resource management",
+            "turn-based strategy",
+            "strategy",
+            "city builder"
+        ]
+    },
+    "4995080": {
+        "Title": "Procession Engine",
+        "Email": "contact@notapplicablegames.com",
+        "Discord": "https://discord.gg/k9yunfytf9",
+        "URL": "https://store.steampowered.com/app/4995080/",
+        "Site": "https://notapplicablegames.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4995080/d6fa79dac0f10d73080896ef28914e7c320ab426/header.jpg?t=1786116450",
+        "Date": "November 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786119092.051387,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "base building",
+            "resource management",
+            "tower defense"
+        ]
+    },
+    "5041950": {
+        "Title": "Beyond The Mist: Beginnings",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5041950/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5041950/65decf7442ea74a5e5b27674a4494004ab732dee/header.jpg?t=1786116961",
+        "Date": "Sep 11, 2026",
+        "AddedDate": "2026-08-07",
+        "AddedTimestamp": 1786119101.3044097,
+        "MatchedTags": [
+            "psychological horror"
         ]
     }
 }
