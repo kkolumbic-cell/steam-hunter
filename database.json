@@ -5654,9 +5654,9 @@
         "URL": "https://store.steampowered.com/app/4500650/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4500650/0dd8d98970ffc9cff94c068638e4ed25c1c32bf5/header.jpg?t=1773232211",
-        "Date": "September 2026",
-        "AddedDate": "2026-07-12",
-        "AddedTimestamp": 1783838841.1738567,
+        "Date": "October 2026",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786173433.1566362,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -136026,6 +136026,51 @@
         "AddedTimestamp": 1786168793.3554294,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "5010500": {
+        "Title": "QWER YUIO ASDF HJKL",
+        "Email": "",
+        "Discord": "https://discord.gg/TUaxSfZ2P",
+        "URL": "https://store.steampowered.com/app/5010500/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5010500/7440923b2d6808755cf11296fa07d4645b40edb7/header.jpg?t=1786169311",
+        "Date": "August 2026",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786173488.6685672,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "5017910": {
+        "Title": "Horror Vacui",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5017910/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5017910/5bb71fd75e97d2bb93861ebd3bf853bd375ec9f0/header.jpg?t=1786171767",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786173496.7117028,
+        "MatchedTags": [
+            "psychological horror",
+            "management"
+        ]
+    },
+    "5017940": {
+        "Title": "Text Survival Rules - Micro",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5017940/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5017940/c98a67709ef6c7a6debf5fe2d45affa923bf49b2/header.jpg?t=1786170957",
+        "Date": "Aug 31, 2026",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786173500.0983047,
+        "MatchedTags": [
+            "strategy",
+            "psychological horror",
+            "horror"
         ]
     }
 }
