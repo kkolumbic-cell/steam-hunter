@@ -108579,9 +108579,9 @@
         "URL": "https://store.steampowered.com/app/4872830/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4872830/0eaa604a793ef1d91515699dc79c4c1f6cc85bea/header.jpg?t=1783824856",
-        "Date": "December 2026",
-        "AddedDate": "2026-07-20",
-        "AddedTimestamp": 1784546273.5484903,
+        "Date": "February 2027",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786208067.8219512,
         "MatchedTags": [
             "strategy",
             "economy",
@@ -130882,9 +130882,9 @@
         "URL": "https://store.steampowered.com/app/4445000/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4445000/1101264553a599837693cbdb759f75f1208a8f4a/header.jpg?t=1785856592",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-04",
-        "AddedTimestamp": 1785857879.5910623,
+        "Date": "Aug 21, 2026",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786208038.5821545,
         "MatchedTags": [
             "strategy",
             "horror",
@@ -136273,6 +136273,48 @@
             "economy",
             "real time tactics",
             "management"
+        ]
+    },
+    "4968580": {
+        "Title": "PACIFIC RHYTHM",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4968580/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4968580/6b5b6fdb978afd534c24a8b2f4aedd126f0c2109/header.jpg?t=1786204757",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786208075.9954464,
+        "MatchedTags": [
+            "turn-based tactics"
+        ]
+    },
+    "5021000": {
+        "Title": "\u5ba2\u6808\u6c5f\u6e56",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5021000/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5021000/afdf3c22951a1aa9ca9162cf41b3641d35780fca/header.jpg?t=1786207841",
+        "Date": "August 2026",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786208088.3643434,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5028800": {
+        "Title": "Bluy Leaves Home",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5028800/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5028800/9eb875174dca2a17b992c37fc0ae229988204ea3/header.jpg?t=1786205881",
+        "Date": "TBA",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786208091.6445074,
+        "MatchedTags": [
+            "turn-based combat"
         ]
     }
 }
