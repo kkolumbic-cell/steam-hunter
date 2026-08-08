@@ -85986,12 +85986,11 @@
         "URL": "https://store.steampowered.com/app/4832190/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4832190/1bc30cf3dfa0d8112c847f1a2e4d065ae626f871/header.jpg?t=1781552120",
-        "Date": "To be announced",
-        "AddedDate": "2026-07-11",
-        "AddedTimestamp": 1783804161.7180493,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786189535.3836195,
         "MatchedTags": [
             "strategy",
-            "colony sim",
             "grand strategy",
             "tactical rpg",
             "resource management"
@@ -94615,10 +94614,10 @@
     },
     "4756260": {
         "Title": "Dungeon Cooking",
-        "Email": "",
+        "Email": "press@unkindlogic.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4756260/",
-        "Site": "",
+        "Site": "https://unkindlogic.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4756260/05e0cf633433a9ffa21c25a2cc8dc9fd097b7cea/header.jpg?t=1782401359",
         "Date": "Q4 2026",
         "AddedDate": "2026-06-25",
@@ -136202,6 +136201,64 @@
         "AddedTimestamp": 1786182993.3022232,
         "MatchedTags": [
             "city builder"
+        ]
+    },
+    "4935570": {
+        "Title": "Backrooms: Archive",
+        "Email": "",
+        "Discord": "https://discord.gg/SBW96uvUh",
+        "URL": "https://store.steampowered.com/app/4935570/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4935570/f37e84df3b9eab5296bfda36ad030de7f40807e8/header.jpg?t=1786189254",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786189541.730854,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "5022820": {
+        "Title": "Uncles",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5022820/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5022820/600d062d804435aed32e00661790ba75b2519c65/header.jpg?t=1786186952",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786189560.0755782,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5049510": {
+        "Title": "Garaji",
+        "Email": "sgradegames@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5049510/",
+        "Site": "https://sgradegames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5049510/b5439ece12849666a44436942a8bac198cfc6991/header.jpg?t=1786187053",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786189564.884629,
+        "MatchedTags": [
+            "turn-based combat",
+            "turn-based tactics"
+        ]
+    },
+    "5050070": {
+        "Title": "The Escape From Dungeon Keep",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5050070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5050070/7e0085b84c910815c202e02f0c975a4a3d04d200/header.jpg?t=1786187473",
+        "Date": "Aug 28, 2026",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786189568.3175933,
+        "MatchedTags": [
+            "turn-based tactics"
         ]
     }
 }
