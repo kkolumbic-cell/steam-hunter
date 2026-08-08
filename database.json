@@ -75129,14 +75129,12 @@
         "URL": "https://store.steampowered.com/app/4731600/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4731600/43d10e646a0a9de85d03b251b3494cc5cf9290c1/header.jpg?t=1780598144",
-        "Date": "To be announced",
-        "AddedDate": "2026-06-04",
-        "AddedTimestamp": 1780601721.2134356,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786194881.3887773,
         "MatchedTags": [
-            "turn-based strategy",
-            "real time tactics",
-            "turn-based tactics",
-            "strategy"
+            "strategy",
+            "turn-based combat"
         ]
     },
     "4746450": {
@@ -88204,14 +88202,14 @@
     },
     "4806180": {
         "Title": "Imperium",
-        "Email": "hello@petroffltd.com",
+        "Email": "games@petroffltd.com",
         "Discord": "https://discord.gg/5nd8m4ySwN",
         "URL": "https://store.steampowered.com/app/4806180/",
         "Site": "https://petroffltd.com/imperium",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4806180/3f67c455e08c03b0787e38e7d1a37c44aa3edeb8/header.jpg?t=1781712758",
-        "Date": "July 2026",
-        "AddedDate": "2026-06-17",
-        "AddedTimestamp": 1781721515.5467057,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786194892.590107,
         "MatchedTags": [
             "strategy",
             "grand strategy",
@@ -122466,9 +122464,9 @@
         "URL": "https://store.steampowered.com/app/4878460/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4878460/7a6d9fb6348c466ec92e30b04909551a91a27d04/header.jpg?t=1785045512",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-26",
-        "AddedTimestamp": 1785052062.5830274,
+        "Date": "Aug 28, 2026",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786194899.7103055,
         "MatchedTags": [
             "horror"
         ]
@@ -136259,6 +136257,23 @@
         "AddedTimestamp": 1786189568.3175933,
         "MatchedTags": [
             "turn-based tactics"
+        ]
+    },
+    "5035220": {
+        "Title": "For the Fatherland: Chronicle of Park Chung-hee",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5035220/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5035220/da6a9d583c7009b956bfaefcdb4b29d98612a96c/header.jpg?t=1786193427",
+        "Date": "August 2026",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786194928.0900915,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "real time tactics",
+            "management"
         ]
     }
 }
