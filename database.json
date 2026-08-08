@@ -52139,7 +52139,7 @@
     },
     "4678810": {
         "Title": "Coloring",
-        "Email": "promotion@garantystudios.net, garanty.studios@gmail.com",
+        "Email": "garanty.studios@gmail.com, promotion@garantystudios.net",
         "Discord": "https://discord.gg/37HGpjm3kx",
         "URL": "https://store.steampowered.com/app/4678810/",
         "Site": "https://www.garantystudios.net",
@@ -92916,9 +92916,9 @@
         "URL": "https://store.steampowered.com/app/4829060/",
         "Site": "https://monastichill.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4829060/e7e632c94963d811cac538d3785555335fe786b7/header.jpg?t=1782232271",
-        "Date": "November 2026",
+        "Date": "Nov 18, 2026",
         "AddedDate": "2026-08-08",
-        "AddedTimestamp": 1786179815.3837616,
+        "AddedTimestamp": 1786182967.846724,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -136139,6 +136139,69 @@
             "strategy",
             "tower defense",
             "real time tactics"
+        ]
+    },
+    "4765620": {
+        "Title": "Bunkerhold",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4765620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4765620/470074480ca0613ba14c4db10b14331d02bf7c6a/header.jpg?t=1786180690",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786182961.5996952,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4983310": {
+        "Title": "Blackwood Abattoir",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4983310/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4983310/9924a7934ee16345ee3399a6a2a7d35bb14f8b72/header.jpg?t=1786181703",
+        "Date": "TBA",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786182985.6093001,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror",
+            "resource management"
+        ]
+    },
+    "5014270": {
+        "Title": "Tactical Dungeon Slayers",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5014270/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5014270/10514fb162e3b359396deb72b81ba746abe3b021/header.jpg?t=1786181694",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786182990.5610025,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based combat",
+            "tactical"
+        ]
+    },
+    "5029990": {
+        "Title": "Wordgrow",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5029990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5029990/cb3cbfbc4cae57a620da353dc206764f8ecdab2e/header.jpg?t=1786180296",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786182993.3022232,
+        "MatchedTags": [
+            "city builder"
         ]
     }
 }
