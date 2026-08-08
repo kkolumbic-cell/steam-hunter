@@ -95833,9 +95833,9 @@
         "URL": "https://store.steampowered.com/app/4870990/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4870990/2ff22c697dfdc22f085b187eb3e118983114f011/header.jpg?t=1782495403",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-26",
-        "AddedTimestamp": 1782500904.8793948,
+        "Date": "October 2026",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786215660.524495,
         "MatchedTags": [
             "strategy",
             "management",
@@ -103585,9 +103585,9 @@
         "URL": "https://store.steampowered.com/app/4882240/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4882240/2228a4e47c6138fb6ad7df2223773d7917ed077c/header.jpg?t=1783400469",
-        "Date": "Oct 1, 2026",
-        "AddedDate": "2026-07-27",
-        "AddedTimestamp": 1785172557.63764,
+        "Date": "Oct 27, 2026",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786215663.6694207,
         "MatchedTags": [
             "strategy",
             "colony sim",
@@ -132481,9 +132481,9 @@
         "URL": "https://store.steampowered.com/app/4928630/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4928630/b592cb1d947ff98b38efa3f59a2aae93fc1b7ac9/header.jpg?t=1785943192",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-05",
-        "AddedTimestamp": 1785944023.788433,
+        "Date": "Aug 28, 2026",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786215670.905542,
         "MatchedTags": [
             "strategy",
             "management",
@@ -135465,9 +135465,9 @@
         "URL": "https://store.steampowered.com/app/5011560/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5011560/ed863d59358ceaadf583d9b4f34168c8a1c0be30/header.jpg?t=1786128091",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-08-07",
-        "AddedTimestamp": 1786130326.2621274,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786215688.452273,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -136346,6 +136346,22 @@
             "strategy",
             "turn-based strategy",
             "resource management"
+        ]
+    },
+    "2193200": {
+        "Title": "SCP: Broken God",
+        "Email": "",
+        "Discord": "https://discord.gg/whKrADRjG4",
+        "URL": "https://store.steampowered.com/app/2193200/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2193200/58c60b7f836f922780814e9f47d16e4e57cadae3/header.jpg?t=1786211851",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786215641.692282,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
         ]
     }
 }
