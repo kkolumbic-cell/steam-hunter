@@ -86443,9 +86443,9 @@
         "URL": "https://store.steampowered.com/app/4838500/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838500/260719f774626cea05c473a23556ea587fe1bab5/header.jpg?t=1781593088",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-05",
-        "AddedTimestamp": 1785923974.3552904,
+        "Date": "Aug 7, 2026",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786168732.6442988,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -90580,9 +90580,9 @@
         "URL": "https://store.steampowered.com/app/4830070/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4830070/7ed631a4e062fc3cca0d39d0b253e9686300e005/header.jpg?t=1781898189",
-        "Date": "Aug 28, 2026",
-        "AddedDate": "2026-07-31",
-        "AddedTimestamp": 1785520800.1828732,
+        "Date": "Sep 18, 2026",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786168727.3369105,
         "MatchedTags": [
             "colony sim",
             "strategy",
@@ -98792,9 +98792,9 @@
         "URL": "https://store.steampowered.com/app/4835190/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4835190/cd8152e92f484d40677272cbc3031a6e1f6f0d46/header.jpg?t=1782841363",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-04",
-        "AddedTimestamp": 1783207107.688033,
+        "Date": "Aug 24, 2026",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786168730.5742958,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -111829,10 +111829,10 @@
         "AddedDate": "2026-07-15",
         "AddedTimestamp": 1784137343.662936,
         "MatchedTags": [
-            "strategy",
             "survival horror",
             "horror",
-            "psychological horror"
+            "psychological horror",
+            "strategy"
         ]
     },
     "4917740": {
@@ -135980,6 +135980,52 @@
         "MatchedTags": [
             "strategy",
             "tower defense"
+        ]
+    },
+    "5042850": {
+        "Title": "Detour",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5042850/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5042850/2e5a94551884a8810f0de56bcecbf5daf0474530/header.jpg?t=1786167944",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786168781.0735652,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "5044910": {
+        "Title": "Dungeon Quest",
+        "Email": "contact@destined.com",
+        "Discord": "https://discord.gg/6WpbTNX34z",
+        "URL": "https://store.steampowered.com/app/5044910/",
+        "Site": "http://www.destined.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5044910/9f91673ccbc7609bce6938451afb4b058db10fc0/header.jpg?t=1786165318",
+        "Date": "Sep 22, 2026",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786168783.5256977,
+        "MatchedTags": [
+            "tactical rpg",
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "5044990": {
+        "Title": "Card duel : Black rite",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5044990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5044990/6dad116589be17882a70a72e0729449aaf1e5f0a/header.jpg?t=1786167076",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786168793.3554294,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
