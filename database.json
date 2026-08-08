@@ -136247,7 +136247,7 @@
     "5050070": {
         "Title": "The Escape From Dungeon Keep",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/Yu3Cz48syc",
         "URL": "https://store.steampowered.com/app/5050070/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5050070/7e0085b84c910815c202e02f0c975a4a3d04d200/header.jpg?t=1786187473",
@@ -136315,6 +136315,37 @@
         "AddedTimestamp": 1786208091.6445074,
         "MatchedTags": [
             "turn-based combat"
+        ]
+    },
+    "2087540": {
+        "Title": "Experiment 82626",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2087540/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2087540/dd4c315d2e2ad0b397da919d9f86c3b25e617cf6/header.jpg?t=1786208124",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786211264.7549462,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4658920": {
+        "Title": "Fate & Felt",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4658920/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4658920/eccc41a2a774b56dc0e480044740fe098638aeff/header.jpg?t=1786208140",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786211276.1658392,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "resource management"
         ]
     }
 }
