@@ -52139,14 +52139,14 @@
     },
     "4678810": {
         "Title": "Coloring",
-        "Email": "garanty.studios@gmail.com, promotion@garantystudios.net",
+        "Email": "promotion@garantystudios.net, garanty.studios@gmail.com",
         "Discord": "https://discord.gg/37HGpjm3kx",
         "URL": "https://store.steampowered.com/app/4678810/",
         "Site": "https://www.garantystudios.net",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4678810/108640cfd167c046a5d69e054a9333801daad54b/header.jpg?t=1778086271",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-31",
-        "AddedTimestamp": 1780225752.1626914,
+        "Date": "Aug 8, 2026",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786179792.9312837,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -92916,9 +92916,9 @@
         "URL": "https://store.steampowered.com/app/4829060/",
         "Site": "https://monastichill.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4829060/e7e632c94963d811cac538d3785555335fe786b7/header.jpg?t=1782232271",
-        "Date": "October 2026",
-        "AddedDate": "2026-06-23",
-        "AddedTimestamp": 1782233183.662066,
+        "Date": "November 2026",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786179815.3837616,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -136071,6 +136071,74 @@
             "strategy",
             "psychological horror",
             "horror"
+        ]
+    },
+    "4692950": {
+        "Title": "Bankr",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4692950/",
+        "Site": "https://wendgames.ertanworks.com/bankr",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4692950/dec5836da05694220597fce3f76af6bb6945ef02/header.jpg?t=1786174198",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786179798.8382561,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "economy",
+            "management"
+        ]
+    },
+    "5019880": {
+        "Title": "Hollow Warden",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5019880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5019880/af02c4c1d97c315e4180cce6148ae8f741975c2e/header.jpg?t=1786177813",
+        "Date": "Oct 19, 2026",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786179867.5820286,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "5046450": {
+        "Title": "Ode to War",
+        "Email": "",
+        "Discord": "https://discord.gg/C7rN29yjen",
+        "URL": "https://store.steampowered.com/app/5046450/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5046450/ae12ce3e5106930b1f99801fc2e1eef0add3dc68/header.jpg?t=1786177048",
+        "Date": "2027",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786179882.7826364,
+        "MatchedTags": [
+            "grand strategy",
+            "strategy",
+            "resource management",
+            "turn-based tactics",
+            "turn-based strategy",
+            "tactical",
+            "psychological horror"
+        ]
+    },
+    "5047110": {
+        "Title": "Wardspire",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5047110/",
+        "Site": "https://playwardspire.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5047110/1b1b89b0ce3942db0584a7286c4025ef5334151f/header.jpg?t=1786173809",
+        "Date": "November 2026",
+        "AddedDate": "2026-08-08",
+        "AddedTimestamp": 1786179885.7431984,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "real time tactics"
         ]
     }
 }
