@@ -130430,9 +130430,9 @@
         "URL": "https://store.steampowered.com/app/5015630/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5015630/d7550abb391fef4e81f78d5ffac3354fc77ba4b2/header.jpg?t=1785816494",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-05",
-        "AddedTimestamp": 1785965819.5976717,
+        "Date": "2026",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786308869.7054548,
         "MatchedTags": [
             "tactical"
         ]
@@ -133183,7 +133183,7 @@
     "4757140": {
         "Title": "Temporal Urgency",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/QpxJE9zs3x",
         "URL": "https://store.steampowered.com/app/4757140/",
         "Site": "https://grandforgegames.com/temporal-urgency",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4757140/076ae7afdf5ec546c8b9d505e90996ec0f2e5bff/header.jpg?t=1785984957",
@@ -136730,6 +136730,20 @@
         "AddedTimestamp": 1786294668.6274025,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "5046060": {
+        "Title": "The Dream Of Winning The Lottery",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5046060/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5046060/257bdef81530a31874dbfe113acd0a42ac6a3c9e/header.jpg?t=1786305877",
+        "Date": "Aug 31, 2026",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786308875.5260057,
+        "MatchedTags": [
+            "economy"
         ]
     }
 }
