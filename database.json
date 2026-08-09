@@ -74281,9 +74281,9 @@
         "URL": "https://store.steampowered.com/app/4742180/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4742180/f1ba6377c6a44a241b6bece801c7c0b707d5c23e/header.jpg?t=1780544279",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-04",
-        "AddedTimestamp": 1780549951.640311,
+        "Date": "August 2026",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786250342.727455,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -100840,9 +100840,9 @@
         "URL": "https://store.steampowered.com/app/4848080/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4848080/4723deb6f20eb1a8e17789e6d6e13b9746a15ac8/header.jpg?t=1783041167",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-03",
-        "AddedTimestamp": 1783051958.1839783,
+        "Date": "August 2026",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786250345.6029289,
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
@@ -116621,9 +116621,9 @@
         "URL": "https://store.steampowered.com/app/4948530/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4948530/669b03b79f9d9bdeb8b1dd5f66b4ecc26e610084/header.jpg?t=1784600927",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-21",
-        "AddedTimestamp": 1784605886.606801,
+        "Date": "2026",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786250377.7886348,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -134173,12 +134173,14 @@
         "AddedTimestamp": 1786229371.890927,
         "MatchedTags": [
             "turn-based strategy",
-            "turn-based tactics",
-            "turn-based combat",
-            "economy",
             "base building",
             "strategy",
-            "management"
+            "resource management",
+            "economy",
+            "management",
+            "turn-based tactics",
+            "turn-based combat",
+            "tactical"
         ]
     },
     "4921480": {
@@ -136408,6 +136410,80 @@
         "MatchedTags": [
             "management",
             "resource management"
+        ]
+    },
+    "4030780": {
+        "Title": "Magic Attack",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4030780/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4030780/f218512320797e8dcc1507fb6b53ac5967393a3a/header.jpg?t=1786245802",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786250313.2125428,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4890830": {
+        "Title": "Turnabout Tactics",
+        "Email": "",
+        "Discord": "https://discord.gg/JWThVMF2ar",
+        "URL": "https://store.steampowered.com/app/4890830/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4890830/95dac58576742bae68b635a20685d01b945ac86a/header.jpg?t=1786243073",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786250359.5081458,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical"
+        ]
+    },
+    "4901500": {
+        "Title": "Alpha 7: The Last Hope",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4901500/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4901500/dae702ff2ba0a022c79fc6c4e60eb98121ebdeb7/header.jpg?t=1786245044",
+        "Date": "November 2026",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786250365.493163,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5047700": {
+        "Title": "Stillsun Ark",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5047700/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5047700/8ddf9201bfd6affa6186491a4451a402afeedf73/header.jpg?t=1786247123",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786250395.8671298,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "5049630": {
+        "Title": "Floor Zero",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5049630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5049630/63bc5747946b791de2ba3c6fc3415547f2dd9556/header.jpg?t=1786245485",
+        "Date": "Sep 3, 2026",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786250398.8912566,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
         ]
     }
 }
