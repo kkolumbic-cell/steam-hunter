@@ -43617,9 +43617,9 @@
         "URL": "https://store.steampowered.com/app/4482350/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4482350/573dfd71a611a746afb2929dc14946ec05580330/header.jpg?t=1777337872",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-24",
-        "AddedTimestamp": 1784894225.2125297,
+        "Date": "Aug 31, 2026",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786315913.7702684,
         "MatchedTags": [
             "turn-based strategy",
             "strategy",
@@ -97063,13 +97063,14 @@
         "URL": "https://store.steampowered.com/app/4739690/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4739690/9a83cc077dca3f5d0221c17fa153fe768bcc826e/header.jpg?t=1782608462",
-        "Date": "Jul 27, 2026",
-        "AddedDate": "2026-07-27",
-        "AddedTimestamp": 1785185131.5672023,
+        "Date": "Aug 9, 2026",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786315922.9557424,
         "MatchedTags": [
             "strategy",
             "real time tactics",
-            "tactical"
+            "tactical",
+            "turn-based tactics"
         ]
     },
     "4760310": {
@@ -103619,9 +103620,9 @@
         "URL": "https://store.steampowered.com/app/4914110/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914110/2f5cac037189d76ec6134bd4a02e7516dcfd9878/header.jpg?t=1783396269",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-03",
-        "AddedTimestamp": 1785787309.7675238,
+        "Date": "Aug 9, 2026",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786315928.8025904,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -120959,9 +120960,9 @@
         "URL": "https://store.steampowered.com/app/4990600/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4990600/026e4d55c7764c7afcdbcf21cf934a622ba92e6e/header.jpg?t=1784885741",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-24",
-        "AddedTimestamp": 1784886011.019788,
+        "Date": "Aug 9, 2026",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786315932.9753149,
         "MatchedTags": [
             "psychological horror",
             "horror",
@@ -136744,6 +136745,22 @@
         "AddedTimestamp": 1786308875.5260057,
         "MatchedTags": [
             "economy"
+        ]
+    },
+    "5015470": {
+        "Title": "Constellation Clicker",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5015470/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5015470/c2fcd8a3111532368c28f387f7636066e6751b1d/header.jpg?t=1786312539",
+        "Date": "TBA",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786315938.0967379,
+        "MatchedTags": [
+            "economy",
+            "resource management",
+            "strategy"
         ]
     }
 }
