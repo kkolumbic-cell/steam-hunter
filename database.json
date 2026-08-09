@@ -4887,9 +4887,9 @@
         "URL": "https://store.steampowered.com/app/4404050/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4404050/5efdf89d108cb7c05ac6d756070da2d9dde1de51/header.jpg?t=1773149267",
-        "Date": "Aug 26, 2026",
-        "AddedDate": "2026-07-26",
-        "AddedTimestamp": 1785074333.3979406,
+        "Date": "Sep 23, 2026",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786281452.0970984,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -53095,9 +53095,9 @@
         "URL": "https://store.steampowered.com/app/4589700/",
         "Site": "https://www.thesworngame.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4589700/d9ff7b81550e0053b164516509ed0c7aa575d752/header.jpg?t=1778162873",
-        "Date": "To be announced",
-        "AddedDate": "2026-05-07",
-        "AddedTimestamp": 1778168377.8010988,
+        "Date": "2027",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786281455.158158,
         "MatchedTags": [
             "strategy",
             "management",
@@ -70876,9 +70876,9 @@
         "URL": "https://store.steampowered.com/app/4341400/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4341400/80b51905ea100c8437c11e8e455c2d0b993e2448/header.jpg?t=1780323236",
-        "Date": "Aug 6, 2026",
-        "AddedDate": "2026-06-01",
-        "AddedTimestamp": 1780337970.643865,
+        "Date": "August 2026",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786281446.451595,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -91670,9 +91670,9 @@
         "URL": "https://store.steampowered.com/app/4843300/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4843300/4d9e39a77c809ba8bbf198a778909accc6085f1f/header.jpg?t=1782141078",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-22",
-        "AddedTimestamp": 1782151149.625711,
+        "Date": "Aug 14, 2026",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786281479.2083757,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -111286,7 +111286,8 @@
         "AddedDate": "2026-07-15",
         "AddedTimestamp": 1784107588.3271775,
         "MatchedTags": [
-            "strategy"
+            "strategy",
+            "turn-based tactics"
         ]
     },
     "3377450": {
@@ -136592,6 +136593,37 @@
         "MatchedTags": [
             "tower defense",
             "base building"
+        ]
+    },
+    "4847650": {
+        "Title": "Don't Mention B3",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4847650/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4847650/4baedb9e92d54d9e305637df36b534beb362df75/header.jpg?t=1786279106",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786281483.591596,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4997600": {
+        "Title": "POOLSIDE MEMORY",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4997600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4997600/29d5ce9aea9b5e0f3ec30b24be0a6fef1d59a064/header.jpg?t=1786279197",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786281504.465744,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
         ]
     }
 }
