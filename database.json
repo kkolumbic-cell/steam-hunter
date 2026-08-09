@@ -9131,9 +9131,9 @@
         "URL": "https://store.steampowered.com/app/4501960/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4501960/eb6dba62c9f98ac775b1794b523905d039a11900/header.jpg?t=1773766232",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-05",
-        "AddedTimestamp": 1780675841.913547,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786287276.1944242,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -129942,10 +129942,10 @@
         "AddedDate": "2026-08-03",
         "AddedTimestamp": 1785787414.8635535,
         "MatchedTags": [
+            "strategy",
             "turn-based tactics",
             "tactical rpg",
-            "turn-based strategy",
-            "strategy"
+            "turn-based strategy"
         ]
     },
     "4212980": {
@@ -136624,6 +136624,53 @@
             "horror",
             "psychological horror",
             "survival horror"
+        ]
+    },
+    "4982600": {
+        "Title": "Harvesters",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4982600/",
+        "Site": "https://goldcoininteractive.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4982600/8b44bb7998540cbbbd7a54e448476acd9b43f126/header.jpg?t=1786285842",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786287335.324643,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management",
+            "colony sim"
+        ]
+    },
+    "5008500": {
+        "Title": "Kubi Meguri",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5008500/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5008500/ac2043c1026fc09706bdb3baa9295558716ff396/header.jpg?t=1786286335",
+        "Date": "August 2026",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786287351.7569304,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5041740": {
+        "Title": "Grave New World",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5041740/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5041740/dcaf3b0353ad9dc10bf7299277821204e731d2cf/header.jpg?t=1786285135",
+        "Date": "Aug 20, 2026",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786287363.661075,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "turn-based strategy"
         ]
     }
 }
