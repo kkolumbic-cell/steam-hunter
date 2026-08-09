@@ -16022,10 +16022,10 @@
         "AddedTimestamp": 1774612667.2368007,
         "MatchedTags": [
             "strategy",
+            "base building",
             "real time tactics",
-            "tactical",
-            "resource management",
-            "base building"
+            "management",
+            "resource management"
         ]
     },
     "4526300": {
@@ -62735,9 +62735,9 @@
         "URL": "https://store.steampowered.com/app/4596230/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4596230/483df7aa0a57c46ce8c5e516291a17fce834a2c7/header.jpg?t=1779444890",
-        "Date": "Jun 23, 2026",
-        "AddedDate": "2026-05-22",
-        "AddedTimestamp": 1779451388.8736498,
+        "Date": "Aug 9, 2026",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786266295.9753904,
         "MatchedTags": [
             "strategy"
         ]
@@ -133655,8 +133655,9 @@
         "AddedTimestamp": 1786018971.7541928,
         "MatchedTags": [
             "economy",
-            "strategy",
-            "management"
+            "management",
+            "base building",
+            "strategy"
         ]
     },
     "3960600": {
@@ -136433,14 +136434,12 @@
         "URL": "https://store.steampowered.com/app/4890830/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4890830/95dac58576742bae68b635a20685d01b945ac86a/header.jpg?t=1786243073",
-        "Date": "To be announced",
+        "Date": "Coming soon",
         "AddedDate": "2026-08-09",
-        "AddedTimestamp": 1786250359.5081458,
+        "AddedTimestamp": 1786266310.079837,
         "MatchedTags": [
             "strategy",
-            "turn-based strategy",
-            "turn-based tactics",
-            "tactical"
+            "turn-based strategy"
         ]
     },
     "4901500": {
@@ -136499,6 +136498,53 @@
         "MatchedTags": [
             "management",
             "economy"
+        ]
+    },
+    "4696260": {
+        "Title": "Operation: Horumus",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4696260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4696260/0f67c9d4b08a414477d0d95b85418cbf2f83a2ec/header.jpg?t=1786263247",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786266300.9123287,
+        "MatchedTags": [
+            "real time tactics",
+            "tower defense",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "5008120": {
+        "Title": "Ice Cream Truck Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5008120/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5008120/3a3015ede2fa4dd6605056ae609328277397e0b8/header.jpg?t=1786264637",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786266330.5039835,
+        "MatchedTags": [
+            "management",
+            "economy"
+        ]
+    },
+    "5014830": {
+        "Title": "Settle or Sweep",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5014830/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5014830/9e91ce2bfaafba563cd93ddd333403e6a2e3b271/header.jpg?t=1786263942",
+        "Date": "November 2026",
+        "AddedDate": "2026-08-09",
+        "AddedTimestamp": 1786266335.4392657,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
         ]
     }
 }
