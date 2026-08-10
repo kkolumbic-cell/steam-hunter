@@ -22580,9 +22580,9 @@
         "AddedDate": "2026-07-19",
         "AddedTimestamp": 1784499041.921995,
         "MatchedTags": [
-            "strategy",
             "resource management",
-            "tower defense"
+            "tower defense",
+            "strategy"
         ]
     },
     "2310850": {
@@ -93287,9 +93287,9 @@
         "URL": "https://store.steampowered.com/app/4855970/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855970/12f383178add9fb24976737fcf3973d38328a563/header.jpg?t=1782237853",
-        "Date": "Sep 14, 2026",
-        "AddedDate": "2026-07-22",
-        "AddedTimestamp": 1784713315.572569,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-10",
+        "AddedTimestamp": 1786385177.4519756,
         "MatchedTags": [
             "management",
             "economy",
@@ -113965,8 +113965,7 @@
         "AddedDate": "2026-08-03",
         "AddedTimestamp": 1785772719.8126917,
         "MatchedTags": [
-            "city builder",
-            "economy"
+            "strategy"
         ]
     },
     "4914240": {
@@ -137158,9 +137157,9 @@
         "URL": "https://store.steampowered.com/app/5026730/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5026730/b257359790261247b76cae0b1467ede1b0a81cf7/header.jpg?t=1786380461",
-        "Date": "Q3 2026",
+        "Date": "Aug 25, 2026",
         "AddedDate": "2026-08-10",
-        "AddedTimestamp": 1786382072.5068257,
+        "AddedTimestamp": 1786385219.9732702,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -137208,6 +137207,37 @@
         "AddedTimestamp": 1786382113.1036272,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "5011960": {
+        "Title": "Resonurgy",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5011960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5011960/a5aed9b01b1eb14f4b4b1b92a628dd9e6e24d113/header.jpg?t=1786384681",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-10",
+        "AddedTimestamp": 1786385207.5267022,
+        "MatchedTags": [
+            "strategy",
+            "base building",
+            "resource management"
+        ]
+    },
+    "5050510": {
+        "Title": "Attention Shoppers",
+        "Email": "",
+        "Discord": "https://discord.gg/UkSdkW8pX3",
+        "URL": "https://store.steampowered.com/app/5050510/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5050510/98850657e3a9ae6967084967fe824abe5fe5c759/header.jpg?t=1786384065",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-10",
+        "AddedTimestamp": 1786385228.9031332,
+        "MatchedTags": [
+            "horror",
+            "economy"
         ]
     }
 }
