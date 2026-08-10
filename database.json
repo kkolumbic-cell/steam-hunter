@@ -76934,7 +76934,8 @@
         "AddedDate": "2026-06-07",
         "AddedTimestamp": 1780791525.3033211,
         "MatchedTags": [
-            "horror"
+            "horror",
+            "survival horror"
         ]
     },
     "4308420": {
@@ -79758,9 +79759,9 @@
         "URL": "https://store.steampowered.com/app/4461680/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4461680/6ee947e30505672eb3abfd3e5acabd81d0f9c6c1/header.jpg?t=1781034662",
-        "Date": "To be announced",
-        "AddedDate": "2026-06-09",
-        "AddedTimestamp": 1781039717.541964,
+        "Date": "December 2026",
+        "AddedDate": "2026-08-10",
+        "AddedTimestamp": 1786363265.7986734,
         "MatchedTags": [
             "tactical"
         ]
@@ -109067,9 +109068,9 @@
         "URL": "https://store.steampowered.com/app/4612860/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4612860/eb15bbf36c221a5af6f8d3a2aec2b9f11ee34555/header.jpg?t=1783948105",
-        "Date": "Sep 3, 2026",
-        "AddedDate": "2026-07-26",
-        "AddedTimestamp": 1785104135.267421,
+        "Date": "Sep 17, 2026",
+        "AddedDate": "2026-08-10",
+        "AddedTimestamp": 1786363275.3711631,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -124896,7 +124897,7 @@
     "4992070": {
         "Title": "Sort Them Ducks",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/nAbkAWpBR9",
         "URL": "https://store.steampowered.com/app/4992070/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4992070/52ee7fca29b20f089decc254088b4beba0eea112/header.jpg?t=1785322757",
@@ -132300,9 +132301,9 @@
         "URL": "https://store.steampowered.com/app/4782210/",
         "Site": "https://propalive.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4782210/82891386ba09eac4a797541c9aad4db96f44b51e/header.jpg?t=1785926919",
-        "Date": "2027",
-        "AddedDate": "2026-08-05",
-        "AddedTimestamp": 1785932381.684897,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-10",
+        "AddedTimestamp": 1786363291.9461057,
         "MatchedTags": [
             "survival horror",
             "horror"
@@ -136885,6 +136886,34 @@
         "Date": "Coming soon",
         "AddedDate": "2026-08-10",
         "AddedTimestamp": 1786358349.5753832,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "3950480": {
+        "Title": "Odd Eggs",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3950480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3950480/a3801c8dabdc714d42ab83c2494787c94344072d/header.jpg?t=1786359766",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-10",
+        "AddedTimestamp": 1786363255.3644776,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5010170": {
+        "Title": "Sling or Spin: Miss and Done?",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5010170/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5010170/69bd726089350a98d8d6c6bd4ebc6b79ec2b369c/header.jpg?t=1786361125",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-10",
+        "AddedTimestamp": 1786363329.9652963,
         "MatchedTags": [
             "strategy"
         ]
