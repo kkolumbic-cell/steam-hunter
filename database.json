@@ -21634,9 +21634,9 @@
         "URL": "https://store.steampowered.com/app/4513300/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4513300/d6d8ea290cd1ba3cea8f240759d0fbd1966da15b/header.jpg?t=1775184581",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-06",
-        "AddedTimestamp": 1780757682.3117394,
+        "Date": "2026",
+        "AddedDate": "2026-08-10",
+        "AddedTimestamp": 1786358275.3365588,
         "MatchedTags": [
             "management"
         ]
@@ -35203,9 +35203,9 @@
         "URL": "https://store.steampowered.com/app/4597290/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4597290/c51a283e1cd33e3db81220103e34bfbf2ff24a16/header.jpg?t=1776609132",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-17",
-        "AddedTimestamp": 1784303016.7427783,
+        "Date": "Aug 10, 2026",
+        "AddedDate": "2026-08-10",
+        "AddedTimestamp": 1786358286.0615535,
         "MatchedTags": [
             "strategy",
             "turn-based combat",
@@ -40463,7 +40463,7 @@
     },
     "4625290": {
         "Title": "Incident Archives - Flight 882",
-        "Email": "support@astronixgames.com, business@astronixgames.com, hello@astronixgames.com",
+        "Email": "business@astronixgames.com, hello@astronixgames.com, support@astronixgames.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4625290/",
         "Site": "https://www.astronixgames.com/",
@@ -80390,7 +80390,7 @@
     },
     "4763360": {
         "Title": "CUFFED",
-        "Email": "",
+        "Email": "asxvmprobertest@gmail.com, smart.journey.prober@gmail.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4763360/",
         "Site": "https://www.mostlyhumanworks.com",
@@ -83792,9 +83792,9 @@
         "URL": "https://store.steampowered.com/app/4812710/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4812710/216c7b2f90dd14013934068000b1dade98b6c905/header.jpg?t=1781290887",
-        "Date": "Aug 17, 2026",
-        "AddedDate": "2026-06-12",
-        "AddedTimestamp": 1781296276.9761288,
+        "Date": "Aug 10, 2026",
+        "AddedDate": "2026-08-10",
+        "AddedTimestamp": 1786358306.5185115,
         "MatchedTags": [
             "strategy"
         ]
@@ -114576,9 +114576,9 @@
         "URL": "https://store.steampowered.com/app/4832870/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4832870/db1de521403166a9ee2a5eaac1c72ca9d1e3f412/header.jpg?t=1784375262",
-        "Date": "November 2026",
-        "AddedDate": "2026-07-19",
-        "AddedTimestamp": 1784460746.7782958,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-10",
+        "AddedTimestamp": 1786358309.1406322,
         "MatchedTags": [
             "economy",
             "strategy"
@@ -136831,6 +136831,62 @@
         "MatchedTags": [
             "psychological horror",
             "horror"
+        ]
+    },
+    "4671920": {
+        "Title": "B.F.G:Crew",
+        "Email": "",
+        "Discord": "https://discord.gg/m8RMbhkTNE",
+        "URL": "https://store.steampowered.com/app/4671920/",
+        "Site": "https://bfgcrew.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4671920/60bb21cc5cf4b83897be9dc769cb46087818070e/header.jpg?t=1786356671",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-10",
+        "AddedTimestamp": 1786358294.6202164,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4896610": {
+        "Title": "DISREPAIR \u2014 A Tale Beyond Half-Life",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4896610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4896610/49247d8cb1f465866489c83b4585f93838568d6a/header.jpg?t=1786356164",
+        "Date": "TBA",
+        "AddedDate": "2026-08-10",
+        "AddedTimestamp": 1786358322.9039755,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5007010": {
+        "Title": "Bus Terminal Simulator: Prologue",
+        "Email": "poisonicstudio@gmail.com",
+        "Discord": "https://discord.gg/hn3wuVHF3U",
+        "URL": "https://store.steampowered.com/app/5007010/",
+        "Site": "https://poisonicstudio.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5007010/67d9599d0d0ffe17d05a6a2bf6763068348a25ba/header.jpg?t=1786357326",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-10",
+        "AddedTimestamp": 1786358344.1080472,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "5031430": {
+        "Title": "I Buried Steve",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5031430/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5031430/f123c4b01968f540c2ed908fe55a80b55ea1f191/header.jpg?t=1786352952",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-10",
+        "AddedTimestamp": 1786358349.5753832,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
