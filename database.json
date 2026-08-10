@@ -17028,9 +17028,9 @@
         "URL": "https://store.steampowered.com/app/2845380/",
         "Site": "https://www.colonybreak.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2845380/706adc76ca97f7bdafdd66e61e354c9484a12cc9/header.jpg?t=1774691502",
-        "Date": "2026",
-        "AddedDate": "2026-03-28",
-        "AddedTimestamp": 1774691646.0690565,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-10",
+        "AddedTimestamp": 1786399224.30528,
         "MatchedTags": [
             "city builder",
             "colony sim",
@@ -21537,7 +21537,7 @@
     },
     "4553290": {
         "Title": "Road From Horno",
-        "Email": "",
+        "Email": "palerider5games@gmail.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4553290/",
         "Site": "https://www.pr5games.com/",
@@ -21546,8 +21546,8 @@
         "AddedDate": "2026-04-02",
         "AddedTimestamp": 1775170353.395228,
         "MatchedTags": [
-            "tactical rpg",
-            "tactical"
+            "tactical",
+            "tactical rpg"
         ]
     },
     "4556110": {
@@ -121732,9 +121732,9 @@
         "URL": "https://store.steampowered.com/app/4802680/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4802680/46e9b69c6d3bb43c96cc8b59e4bb31e15de35aa7/header.jpg?t=1784935283",
-        "Date": "Aug 25, 2026",
-        "AddedDate": "2026-07-25",
-        "AddedTimestamp": 1784950950.4159749,
+        "Date": "Sep 21, 2026",
+        "AddedDate": "2026-08-10",
+        "AddedTimestamp": 1786399277.3470535,
         "MatchedTags": [
             "psychological horror",
             "horror",
@@ -122781,9 +122781,9 @@
         "URL": "https://store.steampowered.com/app/4251330/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251330/c8747b1e1277a25ca08737b0ed9f6038f9c688ed/header.jpg?t=1785163614",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-27",
-        "AddedTimestamp": 1785165377.4318802,
+        "Date": "Aug 10, 2026",
+        "AddedDate": "2026-08-10",
+        "AddedTimestamp": 1786399236.5823562,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -129964,7 +129964,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4738100/",
-        "Site": "",
+        "Site": "https://impress.games/press-kit/battle-lab/10-million-pixels",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4738100/446f975f0cf7a392a409bb08b8a5090f12b9fba5/header.jpg?t=1785788819",
         "Date": "Coming soon",
         "AddedDate": "2026-08-03",
@@ -132112,7 +132112,7 @@
     "4888680": {
         "Title": "GG Life",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/3RgZpgRV88",
         "URL": "https://store.steampowered.com/app/4888680/",
         "Site": "https://www.afterglowgames.com/games",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4888680/1beae8caf91f95ed710adfb1d1092e7e175c7564/header.jpg?t=1785914774",
@@ -132120,11 +132120,11 @@
         "AddedDate": "2026-08-07",
         "AddedTimestamp": 1786062203.5585783,
         "MatchedTags": [
-            "economy",
             "management",
+            "resource management",
             "strategy",
             "turn-based strategy",
-            "resource management"
+            "economy"
         ]
     },
     "4901840": {
@@ -137391,6 +137391,36 @@
         "AddedTimestamp": 1786396017.3646884,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "5000810": {
+        "Title": "Lemonade Stand Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5000810/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5000810/32a2cf1cf08fdbf076eac514849d12c332713623/header.jpg?t=1786397376",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-10",
+        "AddedTimestamp": 1786399311.6493084,
+        "MatchedTags": [
+            "management",
+            "economy"
+        ]
+    },
+    "5012600": {
+        "Title": "Ticker & Trade",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5012600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5012600/63cb9c95f8f64e67e8ba5d0855120d8859b64043/header.jpg?t=1786396609",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-10",
+        "AddedTimestamp": 1786399313.886203,
+        "MatchedTags": [
+            "economy",
+            "management"
         ]
     }
 }
