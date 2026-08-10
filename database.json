@@ -23065,9 +23065,9 @@
         "URL": "https://store.steampowered.com/app/4565490/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4565490/3e644d3d325a5d26a155745b3b664e3380266e49/header.jpg?t=1775482708",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-15",
-        "AddedTimestamp": 1784137271.6812668,
+        "Date": "Aug 12, 2026",
+        "AddedDate": "2026-08-10",
+        "AddedTimestamp": 1786375172.4424903,
         "MatchedTags": [
             "strategy"
         ]
@@ -44276,10 +44276,9 @@
         "AddedDate": "2026-06-02",
         "AddedTimestamp": 1780419515.754595,
         "MatchedTags": [
-            "strategy",
-            "turn-based strategy",
             "turn-based tactics",
-            "turn-based combat"
+            "turn-based strategy",
+            "strategy"
         ]
     },
     "4535350": {
@@ -53694,8 +53693,7 @@
         "AddedDate": "2026-05-08",
         "AddedTimestamp": 1778212529.8067963,
         "MatchedTags": [
-            "psychological horror",
-            "survival horror"
+            "horror"
         ]
     },
     "4577300": {
@@ -114087,9 +114085,9 @@
         "URL": "https://store.steampowered.com/app/4803850/",
         "Site": "https://pm26productions.at",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803850/fc50f2e6119d6f984ff1fda05d63d253bcc70c77/header.jpg?t=1784317449",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-17",
-        "AddedTimestamp": 1784322571.2964506,
+        "Date": "Aug 10, 2026",
+        "AddedDate": "2026-08-10",
+        "AddedTimestamp": 1786375189.816136,
         "MatchedTags": [
             "strategy"
         ]
@@ -122023,9 +122021,9 @@
         "URL": "https://store.steampowered.com/app/4926910/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4926910/7feaef8a9ce669f168682740b7ec953ccf2fbad1/header.jpg?t=1784964408",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-25",
-        "AddedTimestamp": 1784970890.3395987,
+        "Date": "Nov 5, 2026",
+        "AddedDate": "2026-08-10",
+        "AddedTimestamp": 1786375217.64274,
         "MatchedTags": [
             "turn-based strategy",
             "strategy",
@@ -136979,6 +136977,21 @@
             "psychological horror",
             "survival horror",
             "resource management"
+        ]
+    },
+    "4996800": {
+        "Title": "I Transmigrated to Another World to Become the Overlord \u2014\u2014Stop Fighting Over Me",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4996800/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4996800/dbff0bfad0732250741e80bbc820515c1fc6321f/header.jpg?t=1786369626",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-10",
+        "AddedTimestamp": 1786375244.8530285,
+        "MatchedTags": [
+            "turn-based strategy",
+            "strategy"
         ]
     }
 }
