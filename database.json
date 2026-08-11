@@ -110786,9 +110786,9 @@
         "URL": "https://store.steampowered.com/app/4878240/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4878240/e63fb3004fbeaaa4a45431d3f809483cd4ff70ff/header.jpg?t=1784069334",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-14",
-        "AddedTimestamp": 1784070839.5188982,
+        "Date": "Aug 10, 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786428439.15534,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -119896,9 +119896,9 @@
         "URL": "https://store.steampowered.com/app/4864880/",
         "Site": "https://www.blackmirage.studio/moha",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4864880/12045ec8fb92df9e02aec0712e9a9c0e3e5252e8/header.jpg?t=1784824954",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-23",
-        "AddedTimestamp": 1784825435.4781423,
+        "Date": "To be announced",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786428435.6307504,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -137601,6 +137601,104 @@
             "horror",
             "management",
             "survival horror"
+        ]
+    },
+    "4830660": {
+        "Title": "Tsugunohi -The Thread That Beckons to Heaven-",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4830660/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4830660/0a3875dc9eec1ba26f23025eb2eb9c2cccb50a19/header.jpg?t=1786427674",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786428424.129691,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4899850": {
+        "Title": "HexLight",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4899850/",
+        "Site": "https://www.hexlight.io/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4899850/ec20189250cd3321c599dddb7575ae608655e2de/header.jpg?t=1786426168",
+        "Date": "Aug 27, 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786428441.5052955,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "turn-based tactics"
+        ]
+    },
+    "5020560": {
+        "Title": "DefuseOrder | \u89e3\u9664\u547d\u4ee4",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5020560/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5020560/baffdbeeaa1c3d1744b4983b5360949065a46666/header.jpg?t=1786425473",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786428476.881651,
+        "MatchedTags": [
+            "psychological horror",
+            "real time tactics",
+            "tactical"
+        ]
+    },
+    "5023070": {
+        "Title": "Die and Decay",
+        "Email": "",
+        "Discord": "https://discord.gg/hxpsyF3uEP",
+        "URL": "https://store.steampowered.com/app/5023070/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5023070/9adf3ab0432ef7f2aec0a54fc1b30957cd49e929/header.jpg?t=1786425462",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786428482.9226046,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat",
+            "resource management",
+            "tactical",
+            "economy",
+            "management"
+        ]
+    },
+    "5041750": {
+        "Title": "Shardwatch Dominion",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5041750/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5041750/99a67fff7651ccc5383be0a10de54d4b67d15529/header.jpg?t=1786425235",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786428488.1306822,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "resource management"
+        ]
+    },
+    "5042140": {
+        "Title": "The Abjuration Stand",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5042140/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5042140/3bdc5dc3b13c044717658a5d3cf155cf8f80d9c9/header.jpg?t=1786425239",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786428490.4092016,
+        "MatchedTags": [
+            "tower defense"
         ]
     }
 }
