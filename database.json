@@ -22464,9 +22464,9 @@
         "URL": "https://store.steampowered.com/app/4276030/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4276030/767898b36bd3a5dfefb2cd1c3775e47de8d2850b/header.jpg?t=1775266483",
-        "Date": "2026",
-        "AddedDate": "2026-04-04",
-        "AddedTimestamp": 1775272628.254467,
+        "Date": "2027",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786415389.2747571,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -32790,9 +32790,9 @@
         "URL": "https://store.steampowered.com/app/4268870/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4268870/c799ac4516f496ae80a3683235622a02e4cf7848/header.jpg?t=1776351970",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-03",
-        "AddedTimestamp": 1785716209.6210747,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786415386.966307,
         "MatchedTags": [
             "strategy",
             "real time tactics"
@@ -35044,9 +35044,9 @@
         "URL": "https://store.steampowered.com/app/4406280/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4406280/801f9250834d117dd1ac58d8a3e1da522438480a/header.jpg?t=1776576103",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-19",
-        "AddedTimestamp": 1776578973.1992118,
+        "Date": "Aug 27, 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786415397.7766933,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -81686,13 +81686,13 @@
         "URL": "https://store.steampowered.com/app/4725220/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4725220/f5af48a0ec5ffc27ba013554a5859ced2a14456d/header.jpg?t=1781182611",
-        "Date": "2026",
-        "AddedDate": "2026-07-31",
-        "AddedTimestamp": 1785539915.514287,
+        "Date": "November 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786415442.315074,
         "MatchedTags": [
             "economy",
-            "management",
-            "resource management"
+            "strategy",
+            "management"
         ]
     },
     "4729550": {
@@ -131292,9 +131292,9 @@
         "URL": "https://store.steampowered.com/app/5027600/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5027600/aba0ae6ead0f6533a3fc80437d6ffe3eb6980442/header.jpg?t=1785860196",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-04",
-        "AddedTimestamp": 1785866960.1956656,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786415508.3586135,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -137434,6 +137434,68 @@
         "AddedTimestamp": 1786402714.9525714,
         "MatchedTags": [
             "turn-based combat"
+        ]
+    },
+    "4698390": {
+        "Title": "Feedmaster",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4698390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4698390/9358b9326ad72e06c07dbacb35ba31dcd01e497f/header.jpg?t=1786407019",
+        "Date": "Nov 6, 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786415439.7272878,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4855600": {
+        "Title": "IronFire Idle Defense",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4855600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855600/65dc9356f4ded5c4d510842c4043549f3f341f80/header.jpg?t=1786414454",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786415454.5435865,
+        "MatchedTags": [
+            "tower defense",
+            "strategy",
+            "resource management",
+            "economy"
+        ]
+    },
+    "4993850": {
+        "Title": "Mahjong For All",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4993850/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4993850/435ba3f9c7d76a9c55cecd9644dbb2a40a4b6903/header.jpg?t=1786409759",
+        "Date": "Oct 1, 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786415483.0871975,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "5026670": {
+        "Title": "No One Prays in Ovruch",
+        "Email": "",
+        "Discord": "https://discord.gg/sRX4JNHWaf",
+        "URL": "https://store.steampowered.com/app/5026670/",
+        "Site": "https://no-one-pray-in-ovruch.netlify.app/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5026670/5f77d3134d4878d2265ef095911bc685e12559e2/header.jpg?t=1786406647",
+        "Date": "Aug 10, 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786415502.154164,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
