@@ -72987,9 +72987,9 @@
         "URL": "https://store.steampowered.com/app/4620670/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4620670/63df10dad17d8f298015c389a509da36eac999f5/header.jpg?t=1780458314",
-        "Date": "Sep 4, 2026",
-        "AddedDate": "2026-08-10",
-        "AddedTimestamp": 1786389591.1221035,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786449577.0181355,
         "MatchedTags": [
             "psychological horror",
             "resource management"
@@ -123931,9 +123931,9 @@
         "URL": "https://store.steampowered.com/app/4962770/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4962770/9f21e8ea3428d654d5db8036737d509825b2e41d/header.jpg?t=1785251457",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-29",
-        "AddedTimestamp": 1785319342.869571,
+        "Date": "Aug 11, 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786449607.1484435,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -137937,6 +137937,66 @@
         "MatchedTags": [
             "strategy",
             "tactical"
+        ]
+    },
+    "2411190": {
+        "Title": "Card To Conquer",
+        "Email": "",
+        "Discord": "https://discord.gg/h99zugWPub",
+        "URL": "https://store.steampowered.com/app/2411190/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2411190/9963669e216238adb58845bbff7158a659c02c7e/header.jpg?t=1786447361",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786449563.7162416,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4696200": {
+        "Title": "King of the Exhibitions",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4696200/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4696200/63e44d66032827b1181254c2077cad5146fb93e8/header.jpg?t=1786449119",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786449586.5870414,
+        "MatchedTags": [
+            "economy",
+            "city builder",
+            "management"
+        ]
+    },
+    "4839560": {
+        "Title": "Tobias' Inferno",
+        "Email": "",
+        "Discord": "https://discord.gg/ubcQSy4EVR",
+        "URL": "https://store.steampowered.com/app/4839560/",
+        "Site": "https://owlexware.com/tobias-inferno",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4839560/6cabf4137231b9d99d569edbeec4a5aa6da48918/header.jpg?t=1786448537",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786449595.4143524,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "5048700": {
+        "Title": "Hunted Within: Terminal Rust",
+        "Email": "lrdevgames@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5048700/",
+        "Site": "https://www.lrdevgames.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5048700/f83dc4e581f9c085c56b6acaaa0072b448bccf3c/header.jpg?t=1786446693",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786449630.8695154,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
         ]
     }
 }
