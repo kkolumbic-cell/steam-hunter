@@ -44820,9 +44820,9 @@
         "URL": "https://store.steampowered.com/app/4550370/",
         "Site": "https://www.wdmota.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4550370/0976c5e6113139c4714ed3c17c9c3d5cc43152dd/header.jpg?t=1777427882",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-03",
-        "AddedTimestamp": 1785716218.5367417,
+        "Date": "Aug 11, 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786443313.3147352,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -65130,11 +65130,12 @@
         "URL": "https://store.steampowered.com/app/4727390/",
         "Site": "https://younjiku.com/aaa",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727390/4cb5a64dcacfea50d1d36ba62c1894a8e14286b1/header.jpg?t=1779785482",
-        "Date": "October 2026",
-        "AddedDate": "2026-05-26",
-        "AddedTimestamp": 1779814906.8981965,
+        "Date": "November 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786443352.443058,
         "MatchedTags": [
-            "psychological horror"
+            "psychological horror",
+            "horror"
         ]
     },
     "4729250": {
@@ -111578,7 +111579,7 @@
     "4934200": {
         "Title": "Loot Survivors",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/cxKrKesCJh",
         "URL": "https://store.steampowered.com/app/4934200/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4934200/8214643fa660fee63bb85985ed63e19aa09de0c9/header.jpg?t=1784125877",
@@ -117059,9 +117060,9 @@
         "URL": "https://store.steampowered.com/app/4972200/",
         "Site": "https://chunyixingming.site/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4972200/7cba398f886c02178e29599ebb457c03b9c25089/header.jpg?t=1784620756",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-21",
-        "AddedTimestamp": 1784627163.243174,
+        "Date": "Aug 11, 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786443420.6723716,
         "MatchedTags": [
             "strategy"
         ]
@@ -123794,9 +123795,9 @@
         "URL": "https://store.steampowered.com/app/4862790/",
         "Site": "https://pixelabor.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4862790/2d09a1b7a79ca1710295e8d9b46cad2c6d151db4/header.jpg?t=1785249251",
-        "Date": "Aug 5, 2026",
-        "AddedDate": "2026-07-28",
-        "AddedTimestamp": 1785249966.0824564,
+        "Date": "Aug 11, 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786443373.9711463,
         "MatchedTags": [
             "management"
         ]
@@ -132075,8 +132076,8 @@
         "AddedDate": "2026-08-05",
         "AddedTimestamp": 1785923894.8935554,
         "MatchedTags": [
-            "tactical",
             "strategy",
+            "tactical",
             "resource management"
         ]
     },
@@ -137611,9 +137612,9 @@
         "URL": "https://store.steampowered.com/app/4830660/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4830660/0a3875dc9eec1ba26f23025eb2eb9c2cccb50a19/header.jpg?t=1786427674",
-        "Date": "Coming soon",
+        "Date": "Aug 25, 2026",
         "AddedDate": "2026-08-11",
-        "AddedTimestamp": 1786428424.129691,
+        "AddedTimestamp": 1786443369.787286,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -137841,6 +137842,70 @@
         "AddedTimestamp": 1786439856.8506317,
         "MatchedTags": [
             "tactical"
+        ]
+    },
+    "4820050": {
+        "Title": "Myrenvale Idle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4820050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4820050/dd83f509760b4e6e3890b513dd99fe6f9eaba829/header.jpg?t=1786442406",
+        "Date": "December 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786443367.832481,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4923360": {
+        "Title": "Books & Blood",
+        "Email": "grantlerr.gamedev@gmail.com",
+        "Discord": "https://discord.gg/6UsJSmNh3",
+        "URL": "https://store.steampowered.com/app/4923360/",
+        "Site": "https://drive.google.com/drive/folders/1qu3OQ9VjX4p3sAmAIFzYRYVjxCORTy5X",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4923360/a612bd3dee2ef7128a186ad2d6dee7a7ccda8331/header.jpg?t=1786441618",
+        "Date": "December 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786443388.2853942,
+        "MatchedTags": [
+            "survival horror",
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4941170": {
+        "Title": "Raise, Rise & Die",
+        "Email": "",
+        "Discord": "https://discord.gg/w4Dn8u77c2",
+        "URL": "https://store.steampowered.com/app/4941170/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4941170/35dbf7ba99405270eaee120999940ee59ba7e7ce/header.jpg?t=1786439838",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786443402.0922065,
+        "MatchedTags": [
+            "strategy",
+            "psychological horror",
+            "turn-based combat"
+        ]
+    },
+    "5045450": {
+        "Title": "Immortal Chess",
+        "Email": "support@arcanesquaregames.com",
+        "Discord": "https://discord.gg/hftGzA2GE",
+        "URL": "https://store.steampowered.com/app/5045450/",
+        "Site": "https://arcanesquaregames.com/immortalchess/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5045450/0226aea22c82d0ea0aa35dd683d5a876805065ac/header.jpg?t=1786440510",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786443443.983643,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical",
+            "turn-based combat"
         ]
     }
 }
