@@ -42017,7 +42017,7 @@
     },
     "4635890": {
         "Title": "Night Guard - The Last Shift",
-        "Email": "support@cubytegames.com, contact@cubytegames.com",
+        "Email": "contact@cubytegames.com, support@cubytegames.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4635890/",
         "Site": "https://www.cubytegames.com/",
@@ -117132,9 +117132,9 @@
         "URL": "https://store.steampowered.com/app/4952170/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4952170/eab5161ad9da4f37c03ca094a343f6148702ea2e/header.jpg?t=1784628587",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-07-21",
-        "AddedTimestamp": 1784635489.3087811,
+        "Date": "Sep 30, 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786434058.7714243,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -121015,9 +121015,9 @@
         "URL": "https://store.steampowered.com/app/4735700/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4735700/faae7023ed3d3063e7d9f071d205fd657345d294/header.jpg?t=1784901739",
-        "Date": "Aug 12, 2026",
-        "AddedDate": "2026-07-24",
-        "AddedTimestamp": 1784902572.196915,
+        "Date": "Aug 11, 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786434021.5747573,
         "MatchedTags": [
             "strategy",
             "economy"
@@ -125597,7 +125597,8 @@
         "AddedDate": "2026-07-29",
         "AddedTimestamp": 1785363453.1649215,
         "MatchedTags": [
-            "psychological horror"
+            "psychological horror",
+            "horror"
         ]
     },
     "3948540": {
@@ -137699,6 +137700,70 @@
         "AddedTimestamp": 1786428490.4092016,
         "MatchedTags": [
             "tower defense"
+        ]
+    },
+    "4743760": {
+        "Title": "12 Labours of Hercules XX: Hold My Gold",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4743760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4743760/796d185e159414c8bcd0afd763615af2f12dd3dd/header.jpg?t=1786431938",
+        "Date": "August 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786434026.643418,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "management"
+        ]
+    },
+    "4821050": {
+        "Title": "Kimbap Factory",
+        "Email": "",
+        "Discord": "https://discord.gg/nvMNh4j5nY",
+        "URL": "https://store.steampowered.com/app/4821050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4821050/4613f8b85ea5ce0c6633b6d372782d1d6d9af5d8/header.jpg?t=1786433580",
+        "Date": "2027",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786434035.810167,
+        "MatchedTags": [
+            "base building",
+            "strategy",
+            "resource management",
+            "management"
+        ]
+    },
+    "5040510": {
+        "Title": "In Silent Walls : Inside The House",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5040510/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5040510/11373dd19b9600c29d8107c00889c85407dcf5b7/header.jpg?t=1786429254",
+        "Date": "2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786434089.1564162,
+        "MatchedTags": [
+            "psychological horror",
+            "survival horror",
+            "horror"
+        ]
+    },
+    "5043750": {
+        "Title": "Elf Shift",
+        "Email": "",
+        "Discord": "https://discord.gg/kikigames",
+        "URL": "https://store.steampowered.com/app/5043750/",
+        "Site": "https://www.kikigames.fun/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5043750/c3a9318cbfdadf4af6e0e95add5dc4509f5e1270/header.jpg?t=1786430782",
+        "Date": "TBA",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786434093.6207793,
+        "MatchedTags": [
+            "psychological horror",
+            "economy"
         ]
     }
 }
