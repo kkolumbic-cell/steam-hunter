@@ -10164,9 +10164,9 @@
         "URL": "https://store.steampowered.com/app/4530520/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4530520/fc6f597b9e08644a989317fb629a93b29671e76f/header.jpg?t=1773859650",
-        "Date": "To be announced",
-        "AddedDate": "2026-03-18",
-        "AddedTimestamp": 1773861624.1203911,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786482404.366458,
         "MatchedTags": [
             "horror"
         ]
@@ -21937,13 +21937,15 @@
         "URL": "https://store.steampowered.com/app/4526450/",
         "Site": "https://www.dyrkabes.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526450/5e3ce22b34b84e74d63533c0ee07ca3ac7692a86/header.jpg?t=1775212682",
-        "Date": "Nov 9, 2026",
-        "AddedDate": "2026-07-05",
-        "AddedTimestamp": 1783263264.8274286,
+        "Date": "Nov 10, 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786482401.1809638,
         "MatchedTags": [
-            "economy",
+            "real time tactics",
             "strategy",
-            "resource management"
+            "resource management",
+            "tactical",
+            "economy"
         ]
     },
     "4525340": {
@@ -42053,7 +42055,7 @@
     "4586750": {
         "Title": "Nova Fleet",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/5USAAr79Cx",
         "URL": "https://store.steampowered.com/app/4586750/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4586750/828aecc9e3418fed18931f224b12d0331e04360f/header.jpg?t=1777196339",
@@ -62887,9 +62889,9 @@
         "URL": "https://store.steampowered.com/app/4702540/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4702540/3cdd42e7795c30630f2bff55f4293f91fd8aebe9/header.jpg?t=1779463146",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-22",
-        "AddedTimestamp": 1779463635.5292141,
+        "Date": "Aug 17, 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786482436.6664035,
         "MatchedTags": [
             "management"
         ]
@@ -137429,9 +137431,9 @@
         "URL": "https://store.steampowered.com/app/4855600/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855600/65dc9356f4ded5c4d510842c4043549f3f341f80/header.jpg?t=1786414454",
-        "Date": "To be announced",
+        "Date": "2026",
         "AddedDate": "2026-08-11",
-        "AddedTimestamp": 1786415454.5435865,
+        "AddedTimestamp": 1786482453.800467,
         "MatchedTags": [
             "tower defense",
             "strategy",
@@ -138574,9 +138576,9 @@
         "URL": "https://store.steampowered.com/app/5061820/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5061820/f854505174c774bae18a8bd3341dcb9a46e9fdca/header.jpg?t=1786476076",
-        "Date": "Sep 1, 2026",
+        "Date": "Aug 25, 2026",
         "AddedDate": "2026-08-11",
-        "AddedTimestamp": 1786476605.7081175,
+        "AddedTimestamp": 1786482524.4262388,
         "MatchedTags": [
             "strategy",
             "horror",
@@ -138586,7 +138588,7 @@
     "5062780": {
         "Title": "Hero Investor",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/yhyZ2DTMDK",
         "URL": "https://store.steampowered.com/app/5062780/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5062780/591d18d027982df995b1f04d9da738a9bdb6f3c7/header.jpg?t=1786475496",
@@ -138598,6 +138600,118 @@
             "economy",
             "management",
             "resource management"
+        ]
+    },
+    "4639100": {
+        "Title": "Project Night",
+        "Email": "info@miqutastudios.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4639100/",
+        "Site": "https://miqutastudios.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4639100/5bd363622f866905486f50d79cf4da90a5c4ba50/header.jpg?t=1786479904",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786482432.6096663,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4838170": {
+        "Title": "Liminal Incremental",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4838170/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4838170/6114d197124ecc1d61e17d93ac6bf71b9d1fb0ab/header.jpg?t=1786478944",
+        "Date": "TBA",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786482451.6418047,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "horror",
+            "resource management"
+        ]
+    },
+    "4911960": {
+        "Title": "After Silence",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4911960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4911960/25f133d4abeca0bf31b2af73091e2735a9642f33/header.jpg?t=1786479531",
+        "Date": "TBA",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786482469.1333039,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "5022810": {
+        "Title": "Slum Z",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5022810/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5022810/2c790c26539bb804f7d6f4609566da9693d18e51/header.jpg?t=1786482472",
+        "Date": "August 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786482505.217916,
+        "MatchedTags": [
+            "horror",
+            "tower defense",
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "5044460": {
+        "Title": "Kingdom's Destiny: Warlords",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5044460/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5044460/3165989bfe9acc7adc0f12b5cea859eec261f295/header.jpg?t=1786482241",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786482512.224858,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "5046250": {
+        "Title": "BrouHaHa",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5046250/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5046250/e9d7e3c8479af96e7d0eb929c0eb1d2397c0ee00/header.jpg?t=1786480138",
+        "Date": "October 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786482515.3660057,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5060260": {
+        "Title": "Weed Inc.",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5060260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5060260/2da85751ccf03c3dd10abc63741491cec2388dc5/header.jpg?t=1786481025",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786482518.7725313,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management",
+            "tactical",
+            "economy"
         ]
     }
 }
