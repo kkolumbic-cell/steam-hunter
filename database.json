@@ -33673,9 +33673,9 @@
         "URL": "https://store.steampowered.com/app/4626300/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4626300/f624189e91c6a3a6ede98b2be455f85dbd676337/header.jpg?t=1776405627",
-        "Date": "Aug 11, 2026",
-        "AddedDate": "2026-07-26",
-        "AddedTimestamp": 1785094597.7479672,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786446560.6226144,
         "MatchedTags": [
             "strategy",
             "city builder",
@@ -41406,8 +41406,9 @@
         "AddedTimestamp": 1780073891.9937727,
         "MatchedTags": [
             "resource management",
+            "economy",
             "strategy",
-            "economy"
+            "management"
         ]
     },
     "708660": {
@@ -42839,9 +42840,9 @@
         "URL": "https://store.steampowered.com/app/4589690/",
         "Site": "https://www.nocodingguru.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4589690/0c07216c6bb8700f143b1dd0f1659e39d4e4f609/header.jpg?t=1777311359",
-        "Date": "Sep 25, 2026",
-        "AddedDate": "2026-06-04",
-        "AddedTimestamp": 1780610169.8832304,
+        "Date": "Oct 28, 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786446556.045281,
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
@@ -48809,9 +48810,9 @@
         "URL": "https://store.steampowered.com/app/4428430/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4428430/7c216a888ca6010a491df48f7500c01432022518/header.jpg?t=1777751626",
-        "Date": "2026",
-        "AddedDate": "2026-07-13",
-        "AddedTimestamp": 1783942259.1780698,
+        "Date": "Aug 31, 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786446547.947355,
         "MatchedTags": [
             "strategy",
             "economy",
@@ -137906,6 +137907,36 @@
             "turn-based tactics",
             "tactical",
             "turn-based combat"
+        ]
+    },
+    "4754910": {
+        "Title": "Steal & Sell Simulator",
+        "Email": "contact@dreamwaygames.com",
+        "Discord": "https://discord.gg/aUQMcXuR6R",
+        "URL": "https://store.steampowered.com/app/4754910/",
+        "Site": "http://www.dreamwaygames.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4754910/ebd1426658664ad9d87d96fe5994d73d67824efb/header.jpg?t=1786446513",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786446571.20651,
+        "MatchedTags": [
+            "management",
+            "resource management"
+        ]
+    },
+    "5012270": {
+        "Title": "Escape Hatch",
+        "Email": "",
+        "Discord": "https://discord.gg/FKUcZzeWyC",
+        "URL": "https://store.steampowered.com/app/5012270/",
+        "Site": "https://escapehatch.gg",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5012270/e48840fe782cde0a6e439d41332690592e699751/header.jpg?t=1786446488",
+        "Date": "August 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786446619.557445,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
         ]
     }
 }
