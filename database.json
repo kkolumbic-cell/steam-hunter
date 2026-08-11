@@ -60312,9 +60312,9 @@
         "URL": "https://store.steampowered.com/app/4681560/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4681560/b612f56d87e71d3f85c041bd2b50aeb74fe553ef/header.jpg?t=1779193284",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-04",
-        "AddedTimestamp": 1785846100.9760222,
+        "Date": "2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786439774.8012044,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -101513,9 +101513,9 @@
         "URL": "https://store.steampowered.com/app/4857460/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4857460/567fd294c857fb3b2dd2410d7ceaf6916578bdc8/header.jpg?t=1783101173",
-        "Date": "July 2026",
-        "AddedDate": "2026-07-03",
-        "AddedTimestamp": 1783108400.8948126,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786439792.9033468,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -101974,9 +101974,9 @@
         "URL": "https://store.steampowered.com/app/4881430/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4881430/a26d166cde30d51673ffd6b3dff2e7d1c9bf850f/header.jpg?t=1783137882",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-10",
-        "AddedTimestamp": 1786382020.443329,
+        "Date": "2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786439798.6878533,
         "MatchedTags": [
             "strategy"
         ]
@@ -110026,9 +110026,9 @@
         "URL": "https://store.steampowered.com/app/4939950/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4939950/1f576b179d810985e3f109f8f2fba18b7a9d12a0/header.jpg?t=1784009455",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-10",
-        "AddedTimestamp": 1786406020.6328912,
+        "Date": "Aug 11, 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786439825.0747373,
         "MatchedTags": [
             "survival horror"
         ]
@@ -111808,10 +111808,10 @@
         "AddedDate": "2026-07-15",
         "AddedTimestamp": 1784137343.662936,
         "MatchedTags": [
-            "survival horror",
             "horror",
             "psychological horror",
-            "strategy"
+            "strategy",
+            "survival horror"
         ]
     },
     "4917740": {
@@ -122006,8 +122006,8 @@
         "AddedDate": "2026-08-10",
         "AddedTimestamp": 1786375217.64274,
         "MatchedTags": [
-            "turn-based strategy",
             "strategy",
+            "turn-based strategy",
             "management",
             "resource management"
         ]
@@ -137764,6 +137764,83 @@
         "MatchedTags": [
             "psychological horror",
             "economy"
+        ]
+    },
+    "4136720": {
+        "Title": "Whispering Kingdom",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4136720/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4136720/faaa5fa33f0bb88e4714906b77be6b271387cab8/header.jpg?t=1786438072",
+        "Date": "TBA",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786439749.9873943,
+        "MatchedTags": [
+            "turn-based combat",
+            "turn-based strategy",
+            "strategy",
+            "tactical rpg",
+            "turn-based tactics"
+        ]
+    },
+    "4982320": {
+        "Title": "ADVENTURES OF MOR\u0302ABOB",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4982320/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4982320/11b23d959ca5aab3437af0b473550c5bf93449ad/header.jpg?t=1786436364",
+        "Date": "2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786439836.1791103,
+        "MatchedTags": [
+            "real time tactics"
+        ]
+    },
+    "5026390": {
+        "Title": "Cobble Climber",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5026390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5026390/9708f87ffa3aa528d530c6cb7023cded5fc12f8c/header.jpg?t=1786438231",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786439845.3820558,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "5041180": {
+        "Title": "Ultracode",
+        "Email": "",
+        "Discord": "https://discord.com/invite/4ECSWWnw2h",
+        "URL": "https://store.steampowered.com/app/5041180/",
+        "Site": "https://playultracode.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5041180/5c37305567ed842cd0a337aaf69dde0d9312f4e0/header.jpg?t=1786436419",
+        "Date": "TBA",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786439850.8290627,
+        "MatchedTags": [
+            "strategy",
+            "base building",
+            "resource management",
+            "city builder"
+        ]
+    },
+    "5054010": {
+        "Title": "Heist",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5054010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5054010/3a84fe9ad23b61478ecb69d044a50453c3671de0/header.jpg?t=1786438404",
+        "Date": "August 2026",
+        "AddedDate": "2026-08-11",
+        "AddedTimestamp": 1786439856.8506317,
+        "MatchedTags": [
+            "tactical"
         ]
     }
 }
