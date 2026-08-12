@@ -114413,9 +114413,9 @@
         "URL": "https://store.steampowered.com/app/4934590/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4934590/9cb19d027a04601931db64ecf49365b5eada0b74/header.jpg?t=1784348122",
-        "Date": "Aug 27, 2026",
-        "AddedDate": "2026-07-28",
-        "AddedTimestamp": 1785241104.6808853,
+        "Date": "Sep 29, 2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786558308.527353,
         "MatchedTags": [
             "turn-based tactics",
             "tactical rpg",
@@ -133770,9 +133770,9 @@
     "4973890": {
         "Title": "Historia: Roma Aeterna",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/SqMT6Whnt",
         "URL": "https://store.steampowered.com/app/4973890/",
-        "Site": "",
+        "Site": "https://heavycavstudios.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4973890/2e78dc7b8727b9e093a9c1a849148cb2b2bc90ae/header.jpg?t=1786019844",
         "Date": "To be announced",
         "AddedDate": "2026-08-06",
@@ -139821,6 +139821,56 @@
             "resource management",
             "turn-based strategy",
             "strategy"
+        ]
+    },
+    "2689960": {
+        "Title": "Rocket Engineer",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2689960/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2689960/948d659a7b0dcc522daddad607db3b9b0eddff8d/header.jpg?t=1786555399",
+        "Date": "2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786558248.4930904,
+        "MatchedTags": [
+            "management",
+            "base building",
+            "colony sim",
+            "economy"
+        ]
+    },
+    "4710560": {
+        "Title": "Heart Of Machine",
+        "Email": "",
+        "Discord": "https://discord.gg/eca863mq",
+        "URL": "https://store.steampowered.com/app/4710560/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4710560/ac23e13f21447b17833c967153c172cbb3a5ef3f/header.jpg?t=1786555006",
+        "Date": "2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786558285.1440148,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "base building",
+            "real time tactics",
+            "resource management"
+        ]
+    },
+    "4807540": {
+        "Title": "Matchin' Bits",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4807540/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4807540/3626e7dca1f83287c056037af6efc308c4c55f77/header.jpg?t=1786555118",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786558297.9476168,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
         ]
     }
 }
