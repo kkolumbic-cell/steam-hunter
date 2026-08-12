@@ -21874,7 +21874,7 @@
     "4553080": {
         "Title": "JAMA POKER",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/ezdnjMPgH",
         "URL": "https://store.steampowered.com/app/4553080/",
         "Site": "https://tunanstudio.github.io",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4553080/06be37362aa67e0bba75a2f34f5f0daaff822615/header.jpg?t=1775206924",
@@ -82683,9 +82683,9 @@
         "URL": "https://store.steampowered.com/app/4809750/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4809750/7c0ae06baedc0b5e3abfdd8c96dee94a2e02726f/header.jpg?t=1781232593",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-09",
-        "AddedTimestamp": 1783587209.4614158,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786511156.2306538,
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
@@ -120380,7 +120380,7 @@
         "Email": "",
         "Discord": "https://discord.gg/eQbxTVrGqT",
         "URL": "https://store.steampowered.com/app/2341880/",
-        "Site": "",
+        "Site": "https://lancetta.carrd.co/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2341880/f3c2682f4a4cf638c1a30b1fcb8ca07c8c6fde20/header.jpg?t=1784846863",
         "Date": "2027",
         "AddedDate": "2026-07-24",
@@ -138932,6 +138932,97 @@
         "MatchedTags": [
             "psychological horror",
             "horror"
+        ]
+    },
+    "3832760": {
+        "Title": "Zombie Peacemaker",
+        "Email": "",
+        "Discord": "https://discord.gg/Sbb8uckDe",
+        "URL": "https://store.steampowered.com/app/3832760/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832760/a6bbe75e8196229897cb7cf625c8715601660e87/header.jpg?t=1786510309",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786511107.7605734,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5023820": {
+        "Title": "Hex Vanguard",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5023820/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5023820/693617ac400625c620346cb3d18aa6cf52200c84/header.jpg?t=1786506606",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786511192.5777936,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "tactical rpg",
+            "turn-based tactics"
+        ]
+    },
+    "5030020": {
+        "Title": "Idle Abyss Miner",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5030020/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5030020/8b9582e34f880a2fc63a61e27db7c3d1ff33caad/header.jpg?t=1786505398",
+        "Date": "Aug 25, 2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786511200.5618114,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5058780": {
+        "Title": "Cthulhu Rampage",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5058780/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5058780/15215817578e0d9f17b057b0100ae920f5568007/header.jpg?t=1786509582",
+        "Date": "Sep 18, 2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786511212.1534548,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "5059790": {
+        "Title": "Watt the Bounce! \u2014 A Momentum Power Lab",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5059790/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5059790/3e3902d9fca78e56542dd5114fda7fbc2a71941b/header.jpg?t=1786507224",
+        "Date": "Aug 25, 2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786511214.1637883,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "5063360": {
+        "Title": "VESSEL",
+        "Email": "",
+        "Discord": "https://discord.gg/7dJkCyEAxR",
+        "URL": "https://store.steampowered.com/app/5063360/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5063360/1fa0e4428c8edc9cb57a5fa76553c036f37a4db4/header.jpg?t=1786505547",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786511219.2460568,
+        "MatchedTags": [
+            "survival horror",
+            "horror",
+            "psychological horror"
         ]
     }
 }
