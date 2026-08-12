@@ -76869,9 +76869,9 @@
         "URL": "https://store.steampowered.com/app/4795720/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4795720/d17d8b1cd98fb9fd7b50173270b4593eae9394cf/header.jpg?t=1780770153",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-06",
-        "AddedTimestamp": 1780771306.0786474,
+        "Date": "Sep 8, 2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786572313.2698724,
         "MatchedTags": [
             "survival horror",
             "base building",
@@ -115449,6 +115449,7 @@
         "AddedDate": "2026-07-20",
         "AddedTimestamp": 1784546324.5049095,
         "MatchedTags": [
+            "management",
             "strategy",
             "resource management",
             "economy"
@@ -140099,6 +140100,35 @@
         "AddedTimestamp": 1786568872.0949626,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "5041210": {
+        "Title": "Tile & Error",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5041210/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5041210/74025ebeb2967bf0006c4f5fc2f093d75a9cca85/header.jpg?t=1786569670",
+        "Date": "Sep 30, 2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786572373.4443915,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "5058680": {
+        "Title": "Piko Cafe",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5058680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5058680/a790f6c4bdfc296dc84db0e20f83b775b458741f/header.jpg?t=1786570771",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786572384.1676073,
+        "MatchedTags": [
+            "resource management"
         ]
     }
 }
