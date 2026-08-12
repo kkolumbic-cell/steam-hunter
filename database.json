@@ -411,9 +411,9 @@
         "URL": "https://store.steampowered.com/app/4478970/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4478970/17b88041761b77aef1e778cb9022b2a75c64607b/header.jpg?t=1772633310",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-03-05",
-        "AddedTimestamp": 1772723308.0467205,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786492914.6340313,
         "MatchedTags": [
             "base building",
             "resource management",
@@ -135882,9 +135882,9 @@
         "URL": "https://store.steampowered.com/app/5043530/",
         "Site": "https://mudagames.carrd.co",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5043530/7ea3ccc8cd2ed6ae0e19fa402f211a2f88c31e1a/header.jpg?t=1786157144",
-        "Date": "To be announced",
-        "AddedDate": "2026-08-08",
-        "AddedTimestamp": 1786163513.1168606,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786492946.2482831,
         "MatchedTags": [
             "horror"
         ]
@@ -138124,7 +138124,7 @@
     },
     "5006690": {
         "Title": "Lucky Crafter",
-        "Email": "",
+        "Email": "info@vovelgames.com",
         "Discord": "https://discord.gg/KBX2wEnun",
         "URL": "https://store.steampowered.com/app/5006690/",
         "Site": "https://vovelgames.com",
@@ -138759,6 +138759,86 @@
             "strategy",
             "turn-based combat",
             "turn-based strategy"
+        ]
+    },
+    "4306020": {
+        "Title": "Incremental Donuts",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4306020/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306020/6d291298a9684a33d02adf18582c99a3e03de937/header.jpg?t=1786492371",
+        "Date": "October 2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786492909.3719823,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4987540": {
+        "Title": "Mic Drop Battles",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4987540/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4987540/1b6d600eff8b357353288175c99b0f004e530a0c/header.jpg?t=1786491426",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786492923.854123,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "tactical"
+        ]
+    },
+    "4989020": {
+        "Title": "Corners Arena",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4989020/",
+        "Site": "https://digitable.life/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4989020/52533a01404cad8d9c742ccf890c0eefceb6e2d4/header.jpg?t=1786492509",
+        "Date": "Aug 28, 2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786492926.2252753,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical"
+        ]
+    },
+    "5047450": {
+        "Title": "One of You",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5047450/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5047450/75265ee87a5738b45610e4d594db020cdee94711/header.jpg?t=1786492629",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786492949.6146145,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5058080": {
+        "Title": "Democracy Simulator",
+        "Email": "",
+        "Discord": "https://discord.gg/9nyQDcvgZH",
+        "URL": "https://store.steampowered.com/app/5058080/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5058080/6839fbf6a23d839913f1efa758c9a923fbb8562a/header.jpg?t=1786491255",
+        "Date": "2027",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786492954.2798223,
+        "MatchedTags": [
+            "strategy",
+            "economy"
         ]
     }
 }
