@@ -16000,7 +16000,7 @@
         "Email": "",
         "Discord": "https://discord.gg/QzbZUBqRfy",
         "URL": "https://store.steampowered.com/app/4546540/",
-        "Site": "",
+        "Site": "https://afterlightstudios.ca/games/game_mrxfm2oq45t",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4546540/07eaad39c0ba30d5141681acc9c9e796c3206674/header.jpg?t=1774609402",
         "Date": "Coming soon",
         "AddedDate": "2026-03-27",
@@ -95867,7 +95867,7 @@
     },
     "4888040": {
         "Title": "Soldier Offensive",
-        "Email": "casayona.team@gmail.com, info@casayonastudio.com",
+        "Email": "info@casayonastudio.com, casayona.team@gmail.com",
         "Discord": "https://discord.gg/7EvdC8MybM",
         "URL": "https://store.steampowered.com/app/4888040/",
         "Site": "https://casayonastudio.com/",
@@ -99447,9 +99447,9 @@
         "URL": "https://store.steampowered.com/app/4899920/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4899920/c8f7b5235f85067270ea858183ce6ecbaae05729/header.jpg?t=1782900793",
-        "Date": "2026",
-        "AddedDate": "2026-07-01",
-        "AddedTimestamp": 1782903249.918737,
+        "Date": "September 2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786575878.76407,
         "MatchedTags": [
             "strategy"
         ]
@@ -139683,7 +139683,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/5061840/",
-        "Site": "",
+        "Site": "https://gaodeltyinteractive.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5061840/50fc8de03fc813f682e9ca215b16e0b2d064100b/header.jpg?t=1786547280",
         "Date": "December 2026",
         "AddedDate": "2026-08-12",
@@ -140129,6 +140129,68 @@
         "AddedTimestamp": 1786572384.1676073,
         "MatchedTags": [
             "resource management"
+        ]
+    },
+    "4992340": {
+        "Title": "Stack Factory",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4992340/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4992340/b40268f3adbf847577d77faa4700baf641514567/header.jpg?t=1786573767",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786575895.661083,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "5041480": {
+        "Title": "Crowns of Medieval Europe",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5041480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5041480/1e0313847a1b0ee7cc8f3eab2e331960ae144940/header.jpg?t=1786572409",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786575903.0202494,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "turn-based strategy",
+            "economy",
+            "tactical",
+            "management",
+            "resource management"
+        ]
+    },
+    "5070070": {
+        "Title": "waga-mom",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5070070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5070070/c224bc1a97effa7e8b076910309d6a2a3de4e1e0/header.jpg?t=1786575637",
+        "Date": "2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786575914.4609542,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "5071650": {
+        "Title": "DaiDee \u5927\u5f1f",
+        "Email": "",
+        "Discord": "https://discord.gg/jSFBnG5np4",
+        "URL": "https://store.steampowered.com/app/5071650/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5071650/96c64629298f8ed9e94c472a62cc5b64e249ae22/header.jpg?t=1786574401",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786575916.349903,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
