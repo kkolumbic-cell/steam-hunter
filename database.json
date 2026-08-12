@@ -56757,9 +56757,9 @@
         "URL": "https://store.steampowered.com/app/4720830/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4720830/e2aae44c6209d421d16c5889565f90f13d9db2ef/header.jpg?t=1778644356",
-        "Date": "To be announced",
-        "AddedDate": "2026-05-13",
-        "AddedTimestamp": 1778645977.1214814,
+        "Date": "Aug 12, 2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786542719.3168082,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -77996,9 +77996,9 @@
         "URL": "https://store.steampowered.com/app/4150220/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4150220/f556a10ef67095444b1a653454bbcdedd7696457/header.jpg?t=1780921333",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-08",
-        "AddedTimestamp": 1780936219.1198702,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786542611.100076,
         "MatchedTags": [
             "strategy"
         ]
@@ -109891,9 +109891,9 @@
         "URL": "https://store.steampowered.com/app/4944020/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4944020/f76d1d12c63e8ea95df735975fa11adc46456334/header.jpg?t=1783998871",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-14",
-        "AddedTimestamp": 1784000495.1382515,
+        "Date": "Aug 12, 2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786542787.2060869,
         "MatchedTags": [
             "resource management"
         ]
@@ -112207,9 +112207,9 @@
         "URL": "https://store.steampowered.com/app/4345260/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4345260/67e6ef2f22b978bb23d91fa524664ac2de9476c4/header.jpg?t=1784159169",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-16",
-        "AddedTimestamp": 1784160781.8314285,
+        "Date": "October 2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786542619.423058,
         "MatchedTags": [
             "strategy",
             "real time tactics"
@@ -114878,9 +114878,9 @@
         "URL": "https://store.steampowered.com/app/4737630/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4737630/5fd14f32328d1fedc933635a919d128e1e8f1df7/header.jpg?t=1784465959",
-        "Date": "September 2026",
+        "Date": "2026",
         "AddedDate": "2026-08-12",
-        "AddedTimestamp": 1786536096.7758873,
+        "AddedTimestamp": 1786542731.5256023,
         "MatchedTags": [
             "real time tactics",
             "tower defense",
@@ -116301,8 +116301,8 @@
         "AddedTimestamp": 1784585680.2614226,
         "MatchedTags": [
             "strategy",
-            "economy",
-            "resource management"
+            "management",
+            "economy"
         ]
     },
     "4935060": {
@@ -119527,7 +119527,7 @@
     "4475020": {
         "Title": "Dream Hackers VR",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.com/invite/GVZqvZY6GN",
         "URL": "https://store.steampowered.com/app/4475020/",
         "Site": "https://dreamhackers-vr.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475020/62c959ce00206576533f5b0877d69af542300f6b/header.jpg?t=1784791917",
@@ -122165,9 +122165,9 @@
         "URL": "https://store.steampowered.com/app/4938200/",
         "Site": "https://www.chillasart.co.jp/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4938200/7f34f5744c8b735b0af7c0631b1d786956f1397a/header.jpg?t=1784986242",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-25",
-        "AddedTimestamp": 1784988317.0030036,
+        "Date": "Aug 13, 2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786542778.599477,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -126787,9 +126787,9 @@
         "URL": "https://store.steampowered.com/app/5011490/",
         "Site": "https://www.ludendria.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5011490/014a7243961d01fbd11d253f85649ea3ad8c7572/header.jpg?t=1785433723",
-        "Date": "September 2026",
-        "AddedDate": "2026-08-01",
-        "AddedTimestamp": 1785598202.018044,
+        "Date": "Sep 15, 2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786542808.5039546,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -134957,7 +134957,8 @@
         "AddedDate": "2026-08-07",
         "AddedTimestamp": 1786110243.5621266,
         "MatchedTags": [
-            "strategy"
+            "strategy",
+            "turn-based combat"
         ]
     },
     "4779390": {
@@ -139448,6 +139449,95 @@
         "MatchedTags": [
             "strategy",
             "tactical"
+        ]
+    },
+    "4415060": {
+        "Title": "Eufloria 2",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4415060/",
+        "Site": "https://www.omni-labs.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4415060/1adabff2a7c700b5fa9855f85db27ea051636f9e/header.jpg?t=1786541202",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786542637.305956,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4707700": {
+        "Title": "Gold Mining Simulator - Definitive Edition",
+        "Email": "bugs@goldminingsimulator.com, press@goldminingsimulator.com, contact@goldminingsimulator.com",
+        "Discord": "https://discord.gg/goldminingsimulator",
+        "URL": "https://store.steampowered.com/app/4707700/",
+        "Site": "https://goldminingsimulator.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4707700/e25d301bd345da1734990375d2669e9f34f438fb/header.jpg?t=1786542472",
+        "Date": "2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786542704.8754115,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management"
+        ]
+    },
+    "4869480": {
+        "Title": "Plague Keepers",
+        "Email": "",
+        "Discord": "https://discord.gg/fX9k8Nd7bA",
+        "URL": "https://store.steampowered.com/app/4869480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4869480/2b73ea9ea429d817a48cd698ee502070f77bd9bc/header.jpg?t=1786541924",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786542746.8565123,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4907420": {
+        "Title": "Emperor of Mahjong: Match Mahjong Tiles, Build Your City!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4907420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4907420/a156b9b38485dff6517604f8a7846309f5480abe/header.jpg?t=1786538731",
+        "Date": "Sep 14, 2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786542764.3799877,
+        "MatchedTags": [
+            "city builder",
+            "base building"
+        ]
+    },
+    "5054880": {
+        "Title": "Magic Chess",
+        "Email": "",
+        "Discord": "https://discord.gg/VRkCctFJP9",
+        "URL": "https://store.steampowered.com/app/5054880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5054880/bde4e25f90880f16483751c0703e07b9b3badb62/header.jpg?t=1786540309",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786542833.367781,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "tactical"
+        ]
+    },
+    "5062110": {
+        "Title": "Ballwark: Pinball Siege",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5062110/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5062110/841a3c53a082382e706df11ae08bdf1926e3c91f/header.jpg?t=1786538660",
+        "Date": "2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786542847.0604298,
+        "MatchedTags": [
+            "tower defense"
         ]
     }
 }
