@@ -70847,9 +70847,9 @@
         "URL": "https://store.steampowered.com/app/4341400/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4341400/80b51905ea100c8437c11e8e455c2d0b993e2448/header.jpg?t=1780323236",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-09",
-        "AddedTimestamp": 1786281446.451595,
+        "Date": "Aug 11, 2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786517088.2809663,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -110017,9 +110017,9 @@
         "URL": "https://store.steampowered.com/app/4943010/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4943010/7222f66ba9326597d39cb55898e65603dc0a4f65/header.jpg?t=1784008005",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-27",
-        "AddedTimestamp": 1785152788.8098872,
+        "Date": "Aug 11, 2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786517156.9509735,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -110778,9 +110778,9 @@
         "URL": "https://store.steampowered.com/app/4888600/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4888600/a7dd238f24cd3399ae5d29bd4745ca20a97bab82/header.jpg?t=1784064619",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-20",
-        "AddedTimestamp": 1784563533.7920332,
+        "Date": "Aug 11, 2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786517131.6418238,
         "MatchedTags": [
             "strategy",
             "horror"
@@ -112079,9 +112079,9 @@
         "URL": "https://store.steampowered.com/app/4953610/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4953610/1517978112c058f19faa82a411006f1194c9fa0a/header.jpg?t=1784144134",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-07",
-        "AddedTimestamp": 1786125926.4140508,
+        "Date": "Aug 11, 2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786517162.0779133,
         "MatchedTags": [
             "management"
         ]
@@ -113940,7 +113940,8 @@
         "AddedDate": "2026-08-03",
         "AddedTimestamp": 1785772719.8126917,
         "MatchedTags": [
-            "strategy"
+            "strategy",
+            "resource management"
         ]
     },
     "4914240": {
@@ -135949,10 +135950,11 @@
         "AddedDate": "2026-08-08",
         "AddedTimestamp": 1786168783.5256977,
         "MatchedTags": [
+            "turn-based strategy",
             "tactical rpg",
             "strategy",
-            "turn-based strategy",
-            "turn-based combat"
+            "turn-based combat",
+            "tactical"
         ]
     },
     "5044990": {
@@ -139023,6 +139025,129 @@
             "survival horror",
             "horror",
             "psychological horror"
+        ]
+    },
+    "1151190": {
+        "Title": "Coastless",
+        "Email": "",
+        "Discord": "https://discord.gg/UDWMKnNNWC",
+        "URL": "https://store.steampowered.com/app/1151190/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1151190/890ee96bc19a806c05255a922ddeb63be2ae633c/header.jpg?t=1786515403",
+        "Date": "TBA",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786517071.4558842,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "4605840": {
+        "Title": "\u6c5f\u6e56\u5927\u9556\u5ba2",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4605840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4605840/33c22a9e9305f6a854be1bef94b89d2dd35ad991/header.jpg?t=1786516653",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786517096.630826,
+        "MatchedTags": [
+            "tower defense",
+            "strategy"
+        ]
+    },
+    "4947390": {
+        "Title": "Hero:number fight",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4947390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4947390/a141ba9bbc752e69648f3839e711993303e2c9f8/header.jpg?t=1786516476",
+        "Date": "TBA",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786517160.0282462,
+        "MatchedTags": [
+            "turn-based tactics",
+            "turn-based strategy",
+            "strategy"
+        ]
+    },
+    "5000870": {
+        "Title": "BreathBound",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5000870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5000870/5e6acc0ab1990c9221577a4c4aa091ba41b88710/header.jpg?t=1786511199",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786517172.8664315,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "5030120": {
+        "Title": "Amrit Manthanam",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5030120/",
+        "Site": "https://amritmanthanam.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5030120/707c7ce730f4608575845994dc5981af77f43aa9/header.jpg?t=1786516846",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786517182.4263794,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "grand strategy",
+            "tactical rpg"
+        ]
+    },
+    "5031800": {
+        "Title": "Mine Collector",
+        "Email": "robut.game@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5031800/",
+        "Site": "https://chunyixingming.site/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5031800/5ca6767d5b3078f1a9fab9c8582142da57545f39/header.jpg?t=1786514430",
+        "Date": "TBA",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786517186.103272,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5051390": {
+        "Title": "GODBLADE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5051390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5051390/558d4aab8119572005e190d72caf5b1b1d3b1de0/header.jpg?t=1786511942",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786517197.9422917,
+        "MatchedTags": [
+            "base building",
+            "strategy"
+        ]
+    },
+    "5062950": {
+        "Title": "Guild of the Tower",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5062950/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5062950/d83fe191c77fa6e9e1c0d8c8ea55077491a0bfb6/header.jpg?t=1786516952",
+        "Date": "2026",
+        "AddedDate": "2026-08-12",
+        "AddedTimestamp": 1786517203.9003942,
+        "MatchedTags": [
+            "tactical rpg",
+            "turn-based tactics",
+            "tactical",
+            "base building"
         ]
     }
 }
