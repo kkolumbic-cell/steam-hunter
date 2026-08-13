@@ -46437,7 +46437,7 @@
     "4402530": {
         "Title": "Chrono Cards",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/cNdPwb9wDe",
         "URL": "https://store.steampowered.com/app/4402530/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4402530/6864084085d757783ad078ea0a6ca9b6055cfd80/header.jpg?t=1777558341",
@@ -96802,7 +96802,7 @@
     "4879300": {
         "Title": "Xenomire",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/dMhjDWM59",
         "URL": "https://store.steampowered.com/app/4879300/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4879300/f5b43890282cbafbf1f28dc4c7001885c3427958/header.jpg?t=1782554417",
@@ -112830,7 +112830,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4795960/",
-        "Site": "",
+        "Site": "https://studio273.org/ueb",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4795960/009b2f56b58f5aacd7f82bc4a228f281dab0c90d/header.jpg?t=1784209531",
         "Date": "Oct 30, 2026",
         "AddedDate": "2026-07-31",
@@ -141247,6 +141247,81 @@
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
+        ]
+    },
+    "4941220": {
+        "Title": "Memento Pulveris",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4941220/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4941220/2bcadcebb9b41f77c08aa73ed43f5d2f01374420/header.jpg?t=1786644187",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786644753.228804,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4992150": {
+        "Title": "Plink Void",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4992150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4992150/1359aa78840aeb00b25cf065db672fe9a2accdb9/header.jpg?t=1786643087",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786644767.702103,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5044390": {
+        "Title": "BLOODMONEY: Requiem",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5044390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5044390/4e8159ec5099fcbcf8c49b365fd8ceccc0e3f623/header.jpg?t=1786642950",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786644785.0687733,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "5065690": {
+        "Title": "catboy vs landlords",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5065690/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5065690/0aab69cffe2fe162bb777157f6454db2f3ec56f0/header.jpg?t=1786641463",
+        "Date": "Sep 1, 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786644791.4157634,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "5075540": {
+        "Title": "In that case...",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5075540/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5075540/de63ece07a7a0712708ea4da7d12e8d8a0b50c8b/header.jpg?t=1786643007",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786644796.7183232,
+        "MatchedTags": [
+            "turn-based tactics",
+            "turn-based strategy",
+            "strategy",
+            "horror",
+            "psychological horror"
         ]
     }
 }
