@@ -6420,8 +6420,8 @@
         "AddedDate": "2026-03-12",
         "AddedTimestamp": 1773328250.6051016,
         "MatchedTags": [
-            "strategy",
-            "base building"
+            "base building",
+            "strategy"
         ]
     },
     "3766810": {
@@ -27868,9 +27868,10 @@
         "AddedDate": "2026-08-08",
         "AddedTimestamp": 1786155815.236796,
         "MatchedTags": [
-            "strategy",
-            "grand strategy",
             "management",
+            "economy",
+            "grand strategy",
+            "strategy",
             "resource management"
         ]
     },
@@ -51727,9 +51728,9 @@
         "URL": "https://store.steampowered.com/app/4638220/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4638220/2cbad8743b7a48d1823764f6f1db8af0ca81b4db/header.jpg?t=1778044347",
-        "Date": "May 29, 2026",
-        "AddedDate": "2026-05-29",
-        "AddedTimestamp": 1780092572.8531618,
+        "Date": "Aug 13, 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786655199.8226156,
         "MatchedTags": [
             "tactical rpg",
             "strategy"
@@ -86814,9 +86815,9 @@
         "URL": "https://store.steampowered.com/app/4826200/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4826200/26d7ca79861dbe14348337959ca16a5cb3b75568/header.jpg?t=1781615908",
-        "Date": "Aug 13, 2026",
-        "AddedDate": "2026-07-28",
-        "AddedTimestamp": 1785257697.2468545,
+        "Date": "August 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786655255.8692653,
         "MatchedTags": [
             "management",
             "economy"
@@ -88956,7 +88957,7 @@
     "4609270": {
         "Title": "Naval Supremacy",
         "Email": "adrianhu488@gmail.com",
-        "Discord": "",
+        "Discord": "https://discord.gg/Y5uFQk8vFR",
         "URL": "https://store.steampowered.com/app/4609270/",
         "Site": "https://www.daifire.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4609270/34f7f489954a3820f3821915b30d9c2c0891221e/header.jpg?t=1781797539",
@@ -126316,9 +126317,9 @@
         "URL": "https://store.steampowered.com/app/4939770/",
         "Site": "https://www.cliomni.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4939770/7435609af8c6b3ec9c2828b58db64454b728d1d9/header.jpg?t=1785417558",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-30",
-        "AddedTimestamp": 1785422274.438494,
+        "Date": "Aug 13, 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786655270.205659,
         "MatchedTags": [
             "turn-based strategy",
             "tactical rpg",
@@ -130237,8 +130238,7 @@
         "AddedTimestamp": 1785815059.2158408,
         "MatchedTags": [
             "strategy",
-            "tactical",
-            "resource management"
+            "tactical"
         ]
     },
     "1538210": {
@@ -141353,6 +141353,141 @@
         "MatchedTags": [
             "horror",
             "survival horror"
+        ]
+    },
+    "4897460": {
+        "Title": "Absurd Quest: A Streetwear RPG",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4897460/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4897460/c0061a95f79de3d4037eef72f768d65626a46b65/header.jpg?t=1786652623",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786655265.3295019,
+        "MatchedTags": [
+            "turn-based combat",
+            "tactical rpg",
+            "turn-based tactics"
+        ]
+    },
+    "4990620": {
+        "Title": "Slide Words",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4990620/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4990620/1874bfd728dbca680988817ff319e4bcb9f30e8c/header.jpg?t=1786651244",
+        "Date": "Aug 17, 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786655288.030098,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5034140": {
+        "Title": "NIGHTSWEEPER",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5034140/",
+        "Site": "https://r7321.art/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5034140/58a2a82d89c18db00b1cc09f2c32570638de4f41/header.jpg?t=1786650598",
+        "Date": "2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786655317.8026967,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5036830": {
+        "Title": "The Logic Press",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5036830/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5036830/0a0dbee84cb0849469f777659fe03ff2b78eb813/header.jpg?t=1786653701",
+        "Date": "TBA",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786655332.104549,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5036990": {
+        "Title": "Terrible Forest Management",
+        "Email": "info@swampmeistergames.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5036990/",
+        "Site": "https://swampmeistergames.com/terrible-forest-management/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5036990/70e26fcf6638c9aece24f881e54cf15c3138f11c/header.jpg?t=1786653071",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786655334.3428316,
+        "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "5037740": {
+        "Title": "LOUGAWOU",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5037740/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037740/df71cbe61723a8313563c65449342946d7715142/header.jpg?t=1786654791",
+        "Date": "Oct 2, 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786655341.2997842,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "5042070": {
+        "Title": "Cigar Tycoon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5042070/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5042070/c7731c0c39c1e9db9374bfdc92c9c90a05f11ea5/header.jpg?t=1786655201",
+        "Date": "Aug 25, 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786655348.6078687,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "5073610": {
+        "Title": "Pegs of Hell",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5073610/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5073610/73b7d928e4691d5a7afe6bc4e0573b6c6a121d76/header.jpg?t=1786653515",
+        "Date": "October 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786655363.1768045,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "5075160": {
+        "Title": "Utaburg",
+        "Email": "twoj@gmail.com, you@gmail.com",
+        "Discord": "https://discord.gg/XhJRzDzUwf",
+        "URL": "https://store.steampowered.com/app/5075160/",
+        "Site": "https://utaburg.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5075160/67b8da29b990256e98240afe10d5c8c72b0ce46b/header.jpg?t=1786651394",
+        "Date": "December 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786655365.7427497,
+        "MatchedTags": [
+            "economy"
         ]
     }
 }
