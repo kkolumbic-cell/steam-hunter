@@ -101655,9 +101655,9 @@
         "URL": "https://store.steampowered.com/app/4901860/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4901860/e227322e97852ccfe8c91090128cd73e64791654/header.jpg?t=1783113093",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-07-15",
-        "AddedTimestamp": 1784144407.9154432,
+        "Date": "November 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786579248.24768,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -128250,9 +128250,9 @@
         "URL": "https://store.steampowered.com/app/4000970/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000970/b08f6a10a0dcab4ab18d4a20f6590f88f3bbbfed/header.jpg?t=1785547338",
-        "Date": "Aug 12, 2026",
-        "AddedDate": "2026-08-01",
-        "AddedTimestamp": 1785556369.6521742,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786579219.7122774,
         "MatchedTags": [
             "strategy",
             "psychological horror"
@@ -140191,6 +140191,52 @@
         "AddedTimestamp": 1786575916.349903,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4994750": {
+        "Title": "Nick vs the Brick of Ick from space",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4994750/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4994750/4cdc65e2a301fe1e319a7ee9fe9c3a20c9719b84/header.jpg?t=1786576301",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786579255.4530978,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tactical"
+        ]
+    },
+    "5005570": {
+        "Title": "Dynamic Breach",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5005570/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5005570/15d189f172fd6493564e435d653adc2a554e0387/header.jpg?t=1786578392",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786579260.2716906,
+        "MatchedTags": [
+            "tactical",
+            "horror"
+        ]
+    },
+    "5061040": {
+        "Title": "Quartermark",
+        "Email": "",
+        "Discord": "https://discord.gg/yKhRbrDnwj",
+        "URL": "https://store.steampowered.com/app/5061040/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5061040/91097467d224a6bf871a43bebb9fb4a88f3d5e8b/header.jpg?t=1786579096",
+        "Date": "2027",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786579292.2314253,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
         ]
     }
 }
