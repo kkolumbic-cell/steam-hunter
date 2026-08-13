@@ -58905,9 +58905,9 @@
         "URL": "https://store.steampowered.com/app/4054050/",
         "Site": "https://mreliptik.notion.site/O-B-O-L-presskit-361fcdc36ab880f8b7c8f5f54011847d?source=copy_link",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4054050/9c47ad10d60ee984f7ad4291e04d21ffcdc5fb33/header.jpg?t=1778840097",
-        "Date": "Aug 28, 2026",
-        "AddedDate": "2026-07-28",
-        "AddedTimestamp": 1785232160.9230943,
+        "Date": "Sep 17, 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786622495.9607093,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -101024,8 +101024,7 @@
         "MatchedTags": [
             "strategy",
             "resource management",
-            "management",
-            "tactical"
+            "management"
         ]
     },
     "4885920": {
@@ -112212,9 +112211,9 @@
         "URL": "https://store.steampowered.com/app/4345260/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4345260/67e6ef2f22b978bb23d91fa524664ac2de9476c4/header.jpg?t=1784159169",
-        "Date": "October 2026",
-        "AddedDate": "2026-08-12",
-        "AddedTimestamp": 1786542619.423058,
+        "Date": "Aug 25, 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786622503.7420664,
         "MatchedTags": [
             "strategy",
             "real time tactics"
@@ -120695,9 +120694,9 @@
         "URL": "https://store.steampowered.com/app/4795430/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4795430/c565417f9fc2a685a7f273c15bb23abdee663693/header.jpg?t=1784872558",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-24",
-        "AddedTimestamp": 1784875308.0459576,
+        "Date": "Sep 24, 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786622566.734906,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -123986,9 +123985,9 @@
         "URL": "https://store.steampowered.com/app/4786960/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4786960/edce1d06ed270463930fdd55df491fd8f207950e/header.jpg?t=1785261889",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-31",
-        "AddedTimestamp": 1785485508.3324337,
+        "Date": "Sep 16, 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786622560.6647308,
         "MatchedTags": [
             "management"
         ]
@@ -125330,9 +125329,9 @@
         "URL": "https://store.steampowered.com/app/4988320/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4988320/d50cbc078c4e39e13043c3e32c7f7682560db3ba/header.jpg?t=1785352007",
-        "Date": "Aug 12, 2026",
-        "AddedDate": "2026-08-02",
-        "AddedTimestamp": 1785705171.8302274,
+        "Date": "Aug 13, 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786622604.6505978,
         "MatchedTags": [
             "strategy",
             "city builder",
@@ -139503,12 +139502,14 @@
         "URL": "https://store.steampowered.com/app/5054880/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5054880/bde4e25f90880f16483751c0703e07b9b3badb62/header.jpg?t=1786540309",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-12",
-        "AddedTimestamp": 1786542833.367781,
+        "Date": "Aug 27, 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786622632.589404,
         "MatchedTags": [
-            "strategy",
             "turn-based tactics",
+            "real time tactics",
+            "turn-based strategy",
+            "strategy",
             "tactical"
         ]
     },
@@ -140861,6 +140862,35 @@
             "economy",
             "management",
             "resource management"
+        ]
+    },
+    "5024380": {
+        "Title": "\u4e09\u570b\u649e\u649e\u6a02",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5024380/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5024380/618e5b5b1f631ffa9e92d461dca92c82dd58bf1a/header.jpg?t=1786618875",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786622619.4883015,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5068970": {
+        "Title": "NEXT OBJECTIVE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5068970/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5068970/478045331073377c5769bf73cb52c550bddca89a/header.jpg?t=1786617312",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786622642.0736437,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
         ]
     }
 }
