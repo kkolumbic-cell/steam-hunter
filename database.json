@@ -48960,9 +48960,9 @@
         "URL": "https://store.steampowered.com/app/4416760/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4416760/837990aea33714a5f127a7e3ba13034e95cf7120/header.jpg?t=1777811568",
-        "Date": "Aug 12, 2026",
-        "AddedDate": "2026-07-27",
-        "AddedTimestamp": 1785125083.5217457,
+        "Date": "Aug 13, 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786617020.3861027,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -111791,10 +111791,10 @@
         "AddedDate": "2026-07-15",
         "AddedTimestamp": 1784137343.662936,
         "MatchedTags": [
-            "horror",
-            "psychological horror",
+            "survival horror",
             "strategy",
-            "survival horror"
+            "horror",
+            "psychological horror"
         ]
     },
     "4917740": {
@@ -119475,13 +119475,12 @@
         "AddedDate": "2026-07-23",
         "AddedTimestamp": 1784788922.784735,
         "MatchedTags": [
-            "strategy",
-            "turn-based strategy",
             "resource management",
-            "turn-based tactics",
-            "economy",
+            "turn-based strategy",
             "management",
-            "tactical"
+            "strategy",
+            "turn-based tactics",
+            "economy"
         ]
     },
     "4944300": {
@@ -126141,9 +126140,9 @@
         "URL": "https://store.steampowered.com/app/4956890/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4956890/a61e592c4f99f24f86714d490a76fd052a11e882/header.jpg?t=1785401795",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-30",
-        "AddedTimestamp": 1785404791.3446548,
+        "Date": "Aug 13, 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786617094.1315207,
         "MatchedTags": [
             "strategy",
             "city builder",
@@ -137687,22 +137686,6 @@
             "tower defense"
         ]
     },
-    "4743760": {
-        "Title": "12 Labours of Hercules XX: Hold My Gold",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4743760/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4743760/796d185e159414c8bcd0afd763615af2f12dd3dd/header.jpg?t=1786431938",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-11",
-        "AddedTimestamp": 1786434026.643418,
-        "MatchedTags": [
-            "strategy",
-            "resource management",
-            "management"
-        ]
-    },
     "4821050": {
         "Title": "Kimbap Factory",
         "Email": "",
@@ -139444,7 +139427,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/5044970/",
-        "Site": "",
+        "Site": "https://www.facebook.com/ArcticMooseGames/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5044970/61f1a74d4fca6896b57dd8df09744470bcbd292c/header.jpg?t=1786530700",
         "Date": "Coming soon",
         "AddedDate": "2026-08-12",
@@ -140788,6 +140771,96 @@
             "economy",
             "management",
             "base building"
+        ]
+    },
+    "4739480": {
+        "Title": "Homeless Kiosk Simulator",
+        "Email": "",
+        "Discord": "https://discord.com/invite/ECfVyPdYp3",
+        "URL": "https://store.steampowered.com/app/4739480/",
+        "Site": "https://limeless.games/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4739480/e4ad8a5605b105dc597df141adc5e7605935945e/header.jpg?t=1786616765",
+        "Date": "TBA",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786617041.939596,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4920600": {
+        "Title": "Unread",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4920600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4920600/6592b1be850e46503b25a6759b34526b69b12997/header.jpg?t=1786615673",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786617077.730555,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "5013480": {
+        "Title": "NextBot PANIC!",
+        "Email": "",
+        "Discord": "https://discord.gg/qWqC7SaJCu",
+        "URL": "https://store.steampowered.com/app/5013480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5013480/1fb1fb207dca02c637b58e6986418ca010ef09fb/header.jpg?t=1786616954",
+        "Date": "2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786617123.62232,
+        "MatchedTags": [
+            "survival horror"
+        ]
+    },
+    "5034610": {
+        "Title": "Dr. Bowlatzo's Crazy Bowling",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5034610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5034610/7df17f7f1a4721613102ede4cc73407f3ae5855f/header.jpg?t=1786613392",
+        "Date": "Aug 27, 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786617132.0478563,
+        "MatchedTags": [
+            "strategy",
+            "horror"
+        ]
+    },
+    "5058710": {
+        "Title": "The Abyss\u2019s Last Breath",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5058710/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5058710/006a2b323b8f9477d74c395e1c0a9301faf6f9c9/header.jpg?t=1786613600",
+        "Date": "TBA",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786617149.2266526,
+        "MatchedTags": [
+            "real time tactics",
+            "resource management"
+        ]
+    },
+    "5062350": {
+        "Title": "Outdoor Wine Market Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5062350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5062350/4553bb0d342f65e28a4bb707c08231d8b0f9a678/header.jpg?t=1786614887",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786617154.970394,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "resource management"
         ]
     }
 }
