@@ -39522,9 +39522,9 @@
         "URL": "https://store.steampowered.com/app/4657550/",
         "Site": "https://cartoonrocketgames.com/100forjustice",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4657550/8e9962d7fb353cb5e8506f8b17a7154914a1bd5b/header.jpg?t=1776963546",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-06",
-        "AddedTimestamp": 1778060315.2452974,
+        "Date": "Aug 24, 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786662332.7735813,
         "MatchedTags": [
             "management",
             "resource management",
@@ -86799,9 +86799,9 @@
         "URL": "https://store.steampowered.com/app/4825210/",
         "Site": "https://rakuninteractive.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4825210/ee55e25c1c776cd73585a9127dc63791a92f2433/header.jpg?t=1781624627",
-        "Date": "Aug 14, 2026",
-        "AddedDate": "2026-06-16",
-        "AddedTimestamp": 1781630995.1152585,
+        "Date": "Aug 13, 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786662335.5352538,
         "MatchedTags": [
             "tactical rpg",
             "economy",
@@ -109608,7 +109608,7 @@
         "Email": "",
         "Discord": "https://discord.gg/D6EKQPdFRT",
         "URL": "https://store.steampowered.com/app/4534960/",
-        "Site": "",
+        "Site": "https://dearpassengers.game",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4534960/7ddef53346afe3e3d4d479dbed740cdb38cfe09a/header.jpg?t=1783975744",
         "Date": "2026",
         "AddedDate": "2026-07-13",
@@ -116254,9 +116254,9 @@
         "URL": "https://store.steampowered.com/app/4940280/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4940280/a454bfbb2cafa9109da80c1b82571fb8fba7c1ca/header.jpg?t=1784573664",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-20",
-        "AddedTimestamp": 1784580345.3056974,
+        "Date": "Aug 28, 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786662347.3467767,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -124376,9 +124376,9 @@
         "URL": "https://store.steampowered.com/app/4983900/",
         "Site": "https://hedra.monster",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4983900/b098e238d2233e81f83f5c2ed297a4b475d59e3e/header.jpg?t=1785272686",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-07-28",
-        "AddedTimestamp": 1785277277.3568108,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786662355.419901,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -141572,9 +141572,9 @@
         "URL": "https://store.steampowered.com/app/5030290/",
         "Site": "https://arcanca.io",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5030290/048c269efb01c49ddedcb5943d809071fc751325/header.jpg?t=1786657703",
-        "Date": "Coming soon",
+        "Date": "Q4 2026",
         "AddedDate": "2026-08-13",
-        "AddedTimestamp": 1786658823.1475935,
+        "AddedTimestamp": 1786662369.8748648,
         "MatchedTags": [
             "strategy"
         ]
@@ -141625,6 +141625,50 @@
             "horror",
             "survival horror",
             "psychological horror"
+        ]
+    },
+    "4901440": {
+        "Title": "Digital Druid",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4901440/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4901440/e0ee182f9c76929865cc5715bc961b6f1d4412ab/header.jpg?t=1786660795",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786662342.1186175,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "5014710": {
+        "Title": "Idle Survivor",
+        "Email": "",
+        "Discord": "https://discord.gg/thbg6VsUe7",
+        "URL": "https://store.steampowered.com/app/5014710/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5014710/e5e457b8761d85be46424ad03d077f92d78e8b6a/header.jpg?t=1786660741",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786662361.2136514,
+        "MatchedTags": [
+            "tower defense"
+        ]
+    },
+    "5073470": {
+        "Title": "Tactical Tile Breaker Incremental",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5073470/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5073470/da631b95cde261a859d75227613f55630abb22f4/header.jpg?t=1786660472",
+        "Date": "November 2026",
+        "AddedDate": "2026-08-13",
+        "AddedTimestamp": 1786662388.2307627,
+        "MatchedTags": [
+            "tactical",
+            "strategy"
         ]
     }
 }
