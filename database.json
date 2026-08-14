@@ -28211,9 +28211,9 @@
         "URL": "https://store.steampowered.com/app/3345640/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3345640/a0f36c55af1fc9a5320c42c07d0dc42425b454df/header.jpg?t=1775878746",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-04-11",
-        "AddedTimestamp": 1775886038.5833998,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786715170.456725,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -39384,9 +39384,9 @@
         "URL": "https://store.steampowered.com/app/3831700/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3831700/4003d0f518283ef81e83032f233d612044bfd6a1/header.jpg?t=1776964687",
-        "Date": "May 29, 2026",
-        "AddedDate": "2026-05-29",
-        "AddedTimestamp": 1780057710.7600784,
+        "Date": "Aug 14, 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786715185.224554,
         "MatchedTags": [
             "tower defense"
         ]
@@ -49197,7 +49197,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4533690/",
-        "Site": "",
+        "Site": "https://draculascave.co/games/the-wizard-of-gloss/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4533690/f22e978d90af6d98efee6bb76d9572c0f3024a65/header.jpg?t=1777883600",
         "Date": "Coming soon",
         "AddedDate": "2026-05-04",
@@ -81517,9 +81517,9 @@
         "URL": "https://store.steampowered.com/app/4823390/",
         "Site": "https://www.dinomoregames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4823390/0cd8e2af04d5188ebae6b7ab40d26897f1720f37/header.jpg?t=1781168876",
-        "Date": "Sep 4, 2026",
-        "AddedDate": "2026-07-20",
-        "AddedTimestamp": 1784553685.454637,
+        "Date": "Sep 28, 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786715256.7490728,
         "MatchedTags": [
             "management"
         ]
@@ -96855,8 +96855,9 @@
         "AddedDate": "2026-07-27",
         "AddedTimestamp": 1785165530.8955588,
         "MatchedTags": [
-            "resource management",
+            "tower defense",
             "strategy",
+            "resource management",
             "base building"
         ]
     },
@@ -141904,9 +141905,9 @@
         "URL": "https://store.steampowered.com/app/5076500/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076500/45b313e59a7d3268e9a1eb6ae4d50e6740dfbee3/header.jpg?t=1786668995",
-        "Date": "Q4 2026",
+        "Date": "Aug 31, 2026",
         "AddedDate": "2026-08-14",
-        "AddedTimestamp": 1786675881.7598166,
+        "AddedTimestamp": 1786715341.6691651,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -142452,11 +142453,14 @@
         "URL": "https://store.steampowered.com/app/5040900/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5040900/a28934fee6b50cd250652958da6af33e38ee2c3f/header.jpg?t=1786697569",
-        "Date": "September 2026",
+        "Date": "November 2026",
         "AddedDate": "2026-08-14",
-        "AddedTimestamp": 1786702906.259665,
+        "AddedTimestamp": 1786715317.0282652,
         "MatchedTags": [
-            "strategy"
+            "management",
+            "economy",
+            "strategy",
+            "resource management"
         ]
     },
     "5074630": {
@@ -142546,6 +142550,80 @@
         "Date": "Coming soon",
         "AddedDate": "2026-08-14",
         "AddedTimestamp": 1786708932.0669124,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4457370": {
+        "Title": "Farm Simulator 2026",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4457370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4457370/082ca6016541a9db92bcd038edaf886c37edaeb7/header.jpg?t=1786708929",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786715202.28635,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4545260": {
+        "Title": "DRONECOM",
+        "Email": "",
+        "Discord": "https://discord.gg/MMzQCeQPfG",
+        "URL": "https://store.steampowered.com/app/4545260/",
+        "Site": "https://dronecomgame.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4545260/c4a2f7530c451545cafc7adc6adf820532d05c0a/header.jpg?t=1786713588",
+        "Date": "2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786715218.2558303,
+        "MatchedTags": [
+            "real time tactics",
+            "strategy",
+            "tactical"
+        ]
+    },
+    "5055960": {
+        "Title": "We Are Sisters",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5055960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5055960/b0b4a817705ebabeeae6a2449b21daf5278ba915/header.jpg?t=1786709636",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786715328.4284866,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "5077160": {
+        "Title": "FOTBackrooms",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5077160/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5077160/6ac7c203e022040d6f4817f3f05dbcb6a9aa6827/header.jpg?t=1786711087",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786715343.6722355,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "5078890": {
+        "Title": "EndlessRain",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5078890/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5078890/5057a3b33897011cf8a57cd0a8373b9f46a37107/header.jpg?t=1786713161",
+        "Date": "Aug 27, 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786715346.1494486,
         "MatchedTags": [
             "strategy"
         ]
