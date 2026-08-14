@@ -39526,11 +39526,11 @@
         "AddedDate": "2026-08-13",
         "AddedTimestamp": 1786662332.7735813,
         "MatchedTags": [
-            "management",
             "resource management",
-            "strategy",
+            "management",
             "economy",
-            "turn-based strategy"
+            "turn-based strategy",
+            "strategy"
         ]
     },
     "4659090": {
@@ -69954,9 +69954,9 @@
         "URL": "https://store.steampowered.com/app/1864570/",
         "Site": "https://mediatale.games",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1864570/561011ea3aedefdd60d95f76b2a58e13c78629ff/header.jpg?t=1780231417",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-03",
-        "AddedTimestamp": 1785772483.933069,
+        "Date": "Sep 24, 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786747377.1556463,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -116402,9 +116402,9 @@
         "URL": "https://store.steampowered.com/app/4973340/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4973340/c764bd577cc413cd3349192c4301c7ca7bd8a907/header.jpg?t=1784586949",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-20",
-        "AddedTimestamp": 1784589606.0094864,
+        "Date": "Aug 21, 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786747444.1348214,
         "MatchedTags": [
             "strategy",
             "turn-based combat"
@@ -143178,6 +143178,38 @@
             "tactical",
             "real time tactics",
             "economy"
+        ]
+    },
+    "4432750": {
+        "Title": "BDSM Shop Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4432750/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4432750/a1f09b07cdcf42508a06c6d5a68d72e07056bcf7/header.jpg?t=1786745347",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786747391.9487762,
+        "MatchedTags": [
+            "management",
+            "economy"
+        ]
+    },
+    "5066540": {
+        "Title": "Law Firm Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5066540/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5066540/e49a78de51ba22507c93cb53fe464813a126f9e2/header.jpg?t=1786744481",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786747455.2821925,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "resource management",
+            "base building"
         ]
     }
 }
