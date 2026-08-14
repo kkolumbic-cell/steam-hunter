@@ -45630,9 +45630,9 @@
         "URL": "https://store.steampowered.com/app/4631570/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631570/e58fcb1c24b5cec3ff96fdbd55185399e12c890e/header.jpg?t=1777487143",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-29",
-        "AddedTimestamp": 1777488690.4677112,
+        "Date": "Q3 2030",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786665691.7257633,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -78870,9 +78870,9 @@
         "URL": "https://store.steampowered.com/app/4695950/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4695950/24a88d701ace1318dc536c090d27bf4ec993fed3/header.jpg?t=1780992142",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-08",
-        "AddedTimestamp": 1783549126.2490928,
+        "Date": "January 2027",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786665694.8623745,
         "MatchedTags": [
             "management"
         ]
@@ -135215,9 +135215,9 @@
         "URL": "https://store.steampowered.com/app/5041950/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5041950/65decf7442ea74a5e5b27674a4494004ab732dee/header.jpg?t=1786116961",
-        "Date": "Nov 27, 2026",
-        "AddedDate": "2026-08-13",
-        "AddedTimestamp": 1786634433.5748332,
+        "Date": "Nov 13, 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786665724.343239,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -141452,9 +141452,9 @@
         "URL": "https://store.steampowered.com/app/5042070/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5042070/c7731c0c39c1e9db9374bfdc92c9c90a05f11ea5/header.jpg?t=1786655201",
-        "Date": "Aug 25, 2026",
-        "AddedDate": "2026-08-13",
-        "AddedTimestamp": 1786655348.6078687,
+        "Date": "Oct 15, 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786665727.5982342,
         "MatchedTags": [
             "economy",
             "management",
@@ -141513,9 +141513,9 @@
         "URL": "https://store.steampowered.com/app/4841820/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4841820/e3de9cee3f912bea4ad42db4412f504656b37f4a/header.jpg?t=1786658576",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-13",
-        "AddedTimestamp": 1786658782.0900834,
+        "Date": "February 2027",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786665700.1696587,
         "MatchedTags": [
             "horror"
         ]
@@ -141669,6 +141669,82 @@
         "MatchedTags": [
             "tactical",
             "strategy"
+        ]
+    },
+    "4629640": {
+        "Title": "Office Anomaly",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4629640/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4629640/2e1f890e590e6c71afe3a225e6b78a1b11b11aba/header.jpg?t=1786663053",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786665688.9629333,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5046850": {
+        "Title": "Stellar Nursery",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5046850/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5046850/d09d0375eb729ccfddc7bc09aea9be3c62a2090d/header.jpg?t=1786664871",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786665730.004525,
+        "MatchedTags": [
+            "colony sim",
+            "resource management",
+            "city builder"
+        ]
+    },
+    "5061160": {
+        "Title": "I Have Bingo But Cannot Scream",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5061160/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5061160/0a1461af13f4bbbcc46e5bb89ae2d11705b5e58b/header.jpg?t=1786664012",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786665737.4099133,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5063070": {
+        "Title": "NodeFantasy - A Path-Connecting Management RPG",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5063070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5063070/f92d3cbc776aa4c1fd91d02daada8e022fdae8c6/header.jpg?t=1786665192",
+        "Date": "Sep 3, 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786665740.7576644,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "5076310": {
+        "Title": "Cry Wolf",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5076310/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5076310/b777d85d93ea913d3dfb89abb19081cf2591905d/header.jpg?t=1786663434",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786665746.4031348,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
         ]
     }
 }
