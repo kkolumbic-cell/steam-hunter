@@ -32776,9 +32776,9 @@
         "URL": "https://store.steampowered.com/app/3640200/",
         "Site": "https://stripedpanda.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3640200/cfc3aa438d35284aea9e5081add3d968061e9653/header.jpg?t=1776358026",
-        "Date": "2026",
-        "AddedDate": "2026-04-16",
-        "AddedTimestamp": 1776358191.057527,
+        "Date": "September 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786743798.7983253,
         "MatchedTags": [
             "strategy",
             "real time tactics"
@@ -33379,9 +33379,9 @@
         "URL": "https://store.steampowered.com/app/4570020/",
         "Site": "https://rottengenerationstudios.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4570020/9eb7fcfb8f41d9a6fc69be891426d79af5bb37f0/header.jpg?t=1776378502",
-        "Date": "Sep 28, 2026",
-        "AddedDate": "2026-07-27",
-        "AddedTimestamp": 1785138881.8074827,
+        "Date": "Oct 28, 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786743827.7544858,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -102586,20 +102586,6 @@
             "tactical"
         ]
     },
-    "4442780": {
-        "Title": "Bunny Flags",
-        "Email": "",
-        "Discord": "https://discord.gg/dBBKaKRFF",
-        "URL": "https://store.steampowered.com/app/4442780/",
-        "Site": "https://www.rocostagames.com",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4442780/c9d7ebbedbdc378191c86c39744342897a3d1700/header.jpg?t=1783299134",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-06",
-        "AddedTimestamp": 1783312872.5993128,
-        "MatchedTags": [
-            "strategy"
-        ]
-    },
     "4500990": {
         "Title": "Day Zero",
         "Email": "",
@@ -124250,14 +124236,14 @@
     },
     "5004190": {
         "Title": "Eden - World Builder",
-        "Email": "worlds@edengame.net, support@edengame.net, astronautchimp@gmail.com, general@edengame.net",
+        "Email": "general@edengame.net, worlds@edengame.net, astronautchimp@gmail.com, support@edengame.net",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/5004190/",
         "Site": "http://edengame.net",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5004190/465ced5387d1b220ca28fb94de7092c595026055/header.jpg?t=1785268837",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-29",
-        "AddedTimestamp": 1785296805.4456828,
+        "Date": "Aug 14, 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786743877.8595908,
         "MatchedTags": [
             "city builder"
         ]
@@ -143114,9 +143100,9 @@
         "URL": "https://store.steampowered.com/app/5003810/",
         "Site": "https://www.ruinwritten.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5003810/12e87577c591c9a1dae40957ca5c054e7d3bdede/header.jpg?t=1786738967",
-        "Date": "Nov 2, 2026",
+        "Date": "Coming soon",
         "AddedDate": "2026-08-14",
-        "AddedTimestamp": 1786740576.808168,
+        "AddedTimestamp": 1786743874.5624907,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -143140,6 +143126,58 @@
             "tower defense",
             "tactical rpg",
             "base building"
+        ]
+    },
+    "1862300": {
+        "Title": "Catch The Train",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/1862300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1862300/8c32df973ab3502fb759b6dba8c4066cc504f770/header.jpg?t=1786740537",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786743796.3413482,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "3763080": {
+        "Title": "Rogue Reels",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3763080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3763080/a3019446d79487bbf364933d35a9ffb70435dd18/header.jpg?t=1786741191",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786743802.2384772,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "5079040": {
+        "Title": "Cult Defense",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5079040/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5079040/b35546804f6ae96806c37582c665df5a8b115e79/header.jpg?t=1786740541",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786743900.1861138,
+        "MatchedTags": [
+            "tower defense",
+            "base building",
+            "resource management",
+            "strategy",
+            "management",
+            "tactical",
+            "real time tactics",
+            "economy"
         ]
     }
 }
