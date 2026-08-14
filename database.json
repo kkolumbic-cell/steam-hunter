@@ -60937,9 +60937,9 @@
         "URL": "https://store.steampowered.com/app/4194250/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194250/42c545e753066c2e59a3fa54a2acdc65e1e24e6d/header.jpg?t=1779277507",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-20",
-        "AddedTimestamp": 1779278679.32712,
+        "Date": "To be announced",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786730963.1046789,
         "MatchedTags": [
             "strategy"
         ]
@@ -81450,9 +81450,9 @@
         "URL": "https://store.steampowered.com/app/4783340/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4783340/9f564aa0b0297bb250fc837ccdbc4623ee309bb3/header.jpg?t=1781161759",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-11",
-        "AddedTimestamp": 1781178817.4312556,
+        "Date": "Aug 14, 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786731014.2243304,
         "MatchedTags": [
             "turn-based strategy",
             "strategy"
@@ -86815,9 +86815,9 @@
         "URL": "https://store.steampowered.com/app/4826200/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4826200/26d7ca79861dbe14348337959ca16a5cb3b75568/header.jpg?t=1781615908",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-13",
-        "AddedTimestamp": 1786655255.8692653,
+        "Date": "Aug 14, 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786731017.6490145,
         "MatchedTags": [
             "management",
             "economy"
@@ -121214,9 +121214,9 @@
         "URL": "https://store.steampowered.com/app/4908010/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4908010/f86bd31db6c9aae778d3ada0103d22786f1c7c6e/header.jpg?t=1784913456",
-        "Date": "Aug 14, 2026",
-        "AddedDate": "2026-07-24",
-        "AddedTimestamp": 1784915733.450649,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786731033.2811413,
         "MatchedTags": [
             "turn-based tactics",
             "strategy"
@@ -142938,6 +142938,67 @@
         "AddedTimestamp": 1786727764.0656672,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4644750": {
+        "Title": "Veil of the Black Ark",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4644750/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4644750/5b20b4421ad1bbd8a166ed0535ec4678a904a753/header.jpg?t=1786730280",
+        "Date": "2027",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786730984.658751,
+        "MatchedTags": [
+            "survival horror",
+            "horror"
+        ]
+    },
+    "4675790": {
+        "Title": "CARRRDS",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4675790/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4675790/4aa74a0a2fbb029fb43037ffeda2596d80532dbd/header.jpg?t=1786729270",
+        "Date": "August 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786730989.8203464,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "turn-based tactics"
+        ]
+    },
+    "5060530": {
+        "Title": "Ribbit Robber",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5060530/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5060530/435d5e9a639dd2ed211b4969e010990e4efb16e9/header.jpg?t=1786730768",
+        "Date": "2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786731075.7759092,
+        "MatchedTags": [
+            "tactical",
+            "strategy"
+        ]
+    },
+    "5082020": {
+        "Title": "\u6df1\u591c\u95b2\u89a7 Midnight Reading\uff1aShowa Echoes",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5082020/",
+        "Site": "https://zipangames.blog.fc2.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5082020/2d3eb5ca6525a46b45f65b2c5faffc9e1a3deb30/header.jpg?t=1786729970",
+        "Date": "2027",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786731096.6245122,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
