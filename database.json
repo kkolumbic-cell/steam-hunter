@@ -78914,9 +78914,9 @@
         "URL": "https://store.steampowered.com/app/4798110/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4798110/5b97e6ba4a50a8a65d1da7d40be3055a7c1efbac/header.jpg?t=1780982715",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-12",
-        "AddedTimestamp": 1781304673.87944,
+        "Date": "Aug 26, 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786750810.7429965,
         "MatchedTags": [
             "economy",
             "resource management",
@@ -103255,14 +103255,14 @@
         "URL": "https://store.steampowered.com/app/4637090/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4637090/13513ccce7b5bab7b37efe66d5130988d0426484/header.jpg?t=1783372934",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-07-06",
-        "AddedTimestamp": 1783377580.8286572,
+        "Date": "November 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786750799.2249362,
         "MatchedTags": [
             "economy",
+            "strategy",
             "management",
-            "resource management",
-            "strategy"
+            "resource management"
         ]
     },
     "4760340": {
@@ -140128,9 +140128,9 @@
         "URL": "https://store.steampowered.com/app/5071650/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5071650/96c64629298f8ed9e94c472a62cc5b64e249ae22/header.jpg?t=1786574401",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-08-12",
-        "AddedTimestamp": 1786575916.349903,
+        "Date": "Oct 28, 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786750859.6107945,
         "MatchedTags": [
             "strategy"
         ]
@@ -143210,6 +143210,64 @@
             "economy",
             "resource management",
             "base building"
+        ]
+    },
+    "4942320": {
+        "Title": "Nebulon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4942320/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4942320/911e94e746f6a2608ee4754e7bfe01b2899d5487/header.jpg?t=1786747742",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786750826.0346687,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5014290": {
+        "Title": "Shell as Hard as Steel",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5014290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5014290/9a68f491b347ee0301dddcb959db23ee408cfb8e/header.jpg?t=1786747512",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786750842.419373,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5055250": {
+        "Title": "Midnight Haunting",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5055250/",
+        "Site": "http://www.oznastudio.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5055250/a9c8aa631f58eaaf620ab6f48cc587958ef425cd/header.jpg?t=1786750098",
+        "Date": "2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786750856.6374767,
+        "MatchedTags": [
+            "survival horror"
+        ]
+    },
+    "5082760": {
+        "Title": "Guttering Light",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5082760/",
+        "Site": "https://gutteringlight.com/#home",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5082760/0d768f2ec6d1fbcea23ea788f335c56d3ee7d1cd/header.jpg?t=1786748053",
+        "Date": "November 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786750868.2470717,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
         ]
     }
 }
