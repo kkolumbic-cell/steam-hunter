@@ -19342,7 +19342,7 @@
     },
     "4539060": {
         "Title": "Grimshaw's Blotto",
-        "Email": "",
+        "Email": "ghost@coldboot.studio",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4539060/",
         "Site": "https://coldboot.studio",
@@ -32791,9 +32791,9 @@
         "URL": "https://store.steampowered.com/app/4268870/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4268870/c799ac4516f496ae80a3683235622a02e4cf7848/header.jpg?t=1776351970",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-11",
-        "AddedTimestamp": 1786415386.966307,
+        "Date": "Aug 25, 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786734999.4704077,
         "MatchedTags": [
             "strategy",
             "real time tactics"
@@ -70835,22 +70835,6 @@
             "strategy",
             "horror",
             "psychological horror"
-        ]
-    },
-    "4341400": {
-        "Title": "TUNG",
-        "Email": "",
-        "Discord": "https://discord.gg/GgRk9Ww3ce",
-        "URL": "https://store.steampowered.com/app/4341400/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4341400/80b51905ea100c8437c11e8e455c2d0b993e2448/header.jpg?t=1780323236",
-        "Date": "Aug 11, 2026",
-        "AddedDate": "2026-08-12",
-        "AddedTimestamp": 1786517088.2809663,
-        "MatchedTags": [
-            "horror",
-            "psychological horror",
-            "survival horror"
         ]
     },
     "4393710": {
@@ -142999,6 +142983,98 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4025930": {
+        "Title": "Tower Craft",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4025930/",
+        "Site": "https://geccom.com/ezy-studios/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4025930/d18787788f9a564092cccd55a9a4e3a47b4dc48e/header.jpg?t=1786731569",
+        "Date": "May 3, 2027",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786734991.7072434,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "4870690": {
+        "Title": "OMEGA: The Dead Planet",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4870690/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4870690/f9faf3838d5c68ece453764c94962cfdd9919123/header.jpg?t=1786734067",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786735041.421766,
+        "MatchedTags": [
+            "survival horror",
+            "horror"
+        ]
+    },
+    "4950540": {
+        "Title": "Nezumi no Dice",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4950540/",
+        "Site": "https://jackwilds.co.uk",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4950540/e302814e0c58c50990f629fe2f08fa98825d5a62/header.jpg?t=1786733047",
+        "Date": "Sep 29, 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786735059.431347,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "5044610": {
+        "Title": "Hell apartment",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5044610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5044610/80267ba27a9e01bbcc441873353bc426a38a23b2/header.jpg?t=1786731485",
+        "Date": "Aug 25, 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786735087.9797332,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5075670": {
+        "Title": "SPFY ME!",
+        "Email": "moises@martinez.sh",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5075670/",
+        "Site": "https://martinez.sh/spfyme",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5075670/914983584bcdde4e15f34e75ba9f8091ce64f20b/header.jpg?t=1786733221",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786735106.707923,
+        "MatchedTags": [
+            "management",
+            "strategy",
+            "grand strategy"
+        ]
+    },
+    "5081680": {
+        "Title": "Tribal Survival",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5081680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5081680/3b6f22f46418c8cccd7207b1dbb15473a29a400b/header.jpg?t=1786731797",
+        "Date": "TBA",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786735109.6586878,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "resource management"
         ]
     }
 }
