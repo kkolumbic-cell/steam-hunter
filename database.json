@@ -82849,9 +82849,9 @@
         "URL": "https://store.steampowered.com/app/4667900/",
         "Site": "https://deadframeinteractive.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4667900/cb32e8cf74f875e3674e87857fe876561fd9fb86/header.jpg?t=1781256570",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-06-17",
-        "AddedTimestamp": 1781712589.6576066,
+        "Date": "To be announced",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786727649.7928388,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -103914,17 +103914,17 @@
     },
     "4914340": {
         "Title": "Someone's Here",
-        "Email": "press@papustudio.com, business@papustudio.com, contact@papustudio.com",
+        "Email": "business@papustudio.com, press@papustudio.com, contact@papustudio.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4914340/",
         "Site": "https://papustudio.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4914340/b0e5cde602716e0f952bf5cb22ff23c62e6b0d55/header.jpg?t=1783436260",
-        "Date": "Aug 13, 2026",
-        "AddedDate": "2026-07-21",
-        "AddedTimestamp": 1784635460.9887624,
+        "Date": "Aug 14, 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786727685.4604006,
         "MatchedTags": [
-            "psychological horror",
             "horror",
+            "psychological horror",
             "survival horror"
         ]
     },
@@ -126644,9 +126644,9 @@
         "URL": "https://store.steampowered.com/app/3363620/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3363620/73219fb16ca36420ba27597cada7f32d700496e5/header.jpg?t=1785432700",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-30",
-        "AddedTimestamp": 1785437309.0448432,
+        "Date": "Aug 14, 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786727606.216768,
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
@@ -131303,9 +131303,9 @@
         "URL": "https://store.steampowered.com/app/5033550/",
         "Site": "https://www.murdercartel.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5033550/3ff1acbb9df6a73bee4a31218fe4864276370a1c/header.jpg?t=1785865894",
-        "Date": "Aug 25, 2026",
-        "AddedDate": "2026-08-04",
-        "AddedTimestamp": 1785866968.746816,
+        "Date": "Sep 30, 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786727740.6156445,
         "MatchedTags": [
             "tactical rpg",
             "resource management"
@@ -132998,9 +132998,9 @@
         "URL": "https://store.steampowered.com/app/5032330/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5032330/2e544187865270e4395b38f263633b71e6e6bc22/header.jpg?t=1785964536",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-08-06",
-        "AddedTimestamp": 1785987904.173647,
+        "Date": "Oct 28, 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786727738.2754116,
         "MatchedTags": [
             "base building",
             "strategy",
@@ -141905,9 +141905,9 @@
         "URL": "https://store.steampowered.com/app/5076500/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076500/45b313e59a7d3268e9a1eb6ae4d50e6740dfbee3/header.jpg?t=1786668995",
-        "Date": "Aug 31, 2026",
+        "Date": "Sep 30, 2026",
         "AddedDate": "2026-08-14",
-        "AddedTimestamp": 1786715341.6691651,
+        "AddedTimestamp": 1786727758.778862,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -142845,6 +142845,99 @@
             "resource management",
             "colony sim",
             "tower defense"
+        ]
+    },
+    "4984180": {
+        "Title": "Planet Flipper",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4984180/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4984180/cdf02d7d433dfd0afa8d6858e556ac40420b77c1/header.jpg?t=1786726978",
+        "Date": "TBA",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786727706.2476118,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "5006730": {
+        "Title": "Between Wolves",
+        "Email": "",
+        "Discord": "https://discord.com/invite/8rRaPC9cQ5",
+        "URL": "https://store.steampowered.com/app/5006730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5006730/c6ebe24585dfcc4780acaed9fdbe13ba920b2fd3/header.jpg?t=1786726716",
+        "Date": "TBA",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786727719.286348,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5022430": {
+        "Title": "Vanguard Fusion",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5022430/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5022430/8ae90e9e83980a14c5c3639a8273ebdd36ce23b2/header.jpg?t=1786726847",
+        "Date": "TBA",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786727724.295993,
+        "MatchedTags": [
+            "tower defense",
+            "strategy",
+            "real time tactics",
+            "tactical rpg",
+            "tactical"
+        ]
+    },
+    "5060620": {
+        "Title": "Fire and Dark Stars",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5060620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5060620/e0fd3b700f21ab3467aa0ea753d8c0bb011ff625/header.jpg?t=1786725215",
+        "Date": "December 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786727743.5878797,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy"
+        ]
+    },
+    "5067420": {
+        "Title": "Demon's March",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5067420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5067420/8b8e08529f5d3811169fd2dcd43808222e7a334a/header.jpg?t=1786725438",
+        "Date": "Q2 2027",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786727751.762693,
+        "MatchedTags": [
+            "turn-based combat",
+            "resource management"
+        ]
+    },
+    "5080290": {
+        "Title": "Cardrooms",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5080290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5080290/2fbbe0bdd4df9b47c1af0396bece6185a83cabe9/header.jpg?t=1786724959",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-14",
+        "AddedTimestamp": 1786727764.0656672,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
