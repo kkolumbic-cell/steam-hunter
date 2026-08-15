@@ -8456,9 +8456,9 @@
         "URL": "https://store.steampowered.com/app/4516190/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516190/79fd6a70cb9b8f2c375761810eec7d66e0d61b70/header.jpg?t=1773687189",
-        "Date": "Sep 14, 2026",
-        "AddedDate": "2026-06-06",
-        "AddedTimestamp": 1780748382.262485,
+        "Date": "Oct 13, 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786804955.0260427,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -32925,6 +32925,8 @@
         "MatchedTags": [
             "turn-based combat",
             "turn-based strategy",
+            "tactical rpg",
+            "turn-based tactics",
             "strategy"
         ]
     },
@@ -71747,7 +71749,7 @@
     "4705670": {
         "Title": "ALL OUT WAR",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/ssBSer9Rd",
         "URL": "https://store.steampowered.com/app/4705670/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4705670/b6961b4c62dc983c4494aa0d2ac0592d4d3fc462/header.jpg?t=1780368463",
@@ -71755,7 +71757,9 @@
         "AddedDate": "2026-08-08",
         "AddedTimestamp": 1786222221.6563964,
         "MatchedTags": [
-            "strategy"
+            "strategy",
+            "tactical",
+            "resource management"
         ]
     },
     "4729050": {
@@ -80960,7 +80964,7 @@
     "4826380": {
         "Title": "ULTIDARK",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/jqaeTEM8ej",
         "URL": "https://store.steampowered.com/app/4826380/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4826380/4a6ff83131e786cee4660e76758eb5bd47cb46fc/header.jpg?t=1781117574",
@@ -90411,9 +90415,9 @@
         "URL": "https://store.steampowered.com/app/4674770/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4674770/8b0dfb433cad16871a34b47a4c76c0a2bf1925c2/header.jpg?t=1781893361",
-        "Date": "Oct 27, 2026",
-        "AddedDate": "2026-07-06",
-        "AddedTimestamp": 1783364851.6876047,
+        "Date": "Feb 23, 2027",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786804961.9795446,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -143999,6 +144003,53 @@
         "MatchedTags": [
             "strategy",
             "resource management"
+        ]
+    },
+    "5045640": {
+        "Title": "Brazilian LAN House 2003",
+        "Email": "hello@monkeylogic.dk",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5045640/",
+        "Site": "https://www.monkeylogic.dk",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5045640/1a954ae052eb797f638cef1402b409de4085a939/header.jpg?t=1786801720",
+        "Date": "2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786805017.6647458,
+        "MatchedTags": [
+            "resource management",
+            "management"
+        ]
+    },
+    "5071420": {
+        "Title": "FreshSheets",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5071420/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5071420/ab8cdd4176ca015d507978c233bc1bfd8222e6a3/header.jpg?t=1786801601",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786805023.1909885,
+        "MatchedTags": [
+            "management",
+            "economy"
+        ]
+    },
+    "5074650": {
+        "Title": "Memento Resonance",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5074650/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5074650/81600ad0239c4773ec5d35d9d71be1a7deadbcc6/header.jpg?t=1786803469",
+        "Date": "November 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786805029.071571,
+        "MatchedTags": [
+            "turn-based strategy",
+            "turn-based combat",
+            "strategy",
+            "tactical"
         ]
     }
 }
