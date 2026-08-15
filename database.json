@@ -13225,7 +13225,6 @@
             "strategy",
             "grand strategy",
             "management",
-            "tactical",
             "resource management"
         ]
     },
@@ -143395,7 +143394,7 @@
     },
     "5083730": {
         "Title": "Capitalize",
-        "Email": "vous@gmail.com, studiojlgames@gmail.com",
+        "Email": "studiojlgames@gmail.com, vous@gmail.com",
         "Discord": "https://discord.gg/GrrxC7W2gT",
         "URL": "https://store.steampowered.com/app/5083730/",
         "Site": "https://jlgamesstudio.com",
@@ -143669,7 +143668,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/3770490/",
-        "Site": "",
+        "Site": "https://suspectnone.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3770490/90a3dddb345383b1d4af24036c78e433a35ee29d/header.jpg?t=1786775025",
         "Date": "2027",
         "AddedDate": "2026-08-15",
@@ -143985,6 +143984,21 @@
         "MatchedTags": [
             "psychological horror",
             "horror"
+        ]
+    },
+    "5083290": {
+        "Title": "Neighbor Craft",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5083290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5083290/3b68dcddc871e2c779b4a49fc5dd97d61f673803/header.jpg?t=1786800417",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786801608.1972482,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
         ]
     }
 }
