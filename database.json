@@ -28114,9 +28114,9 @@
         "URL": "https://store.steampowered.com/app/4507460/",
         "Site": "http://valkyrieraid.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4507460/d23a1d7b095522eb2a37b048c84f9063f449ac72/header.jpg?t=1775869232",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-05-11",
-        "AddedTimestamp": 1778502315.310258,
+        "Date": "2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786819806.7746906,
         "MatchedTags": [
             "tactical"
         ]
@@ -106354,9 +106354,9 @@
         "URL": "https://store.steampowered.com/app/4902060/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4902060/b7fdd85c1c1f2afc8229abe24876bff8af20c216/header.jpg?t=1783601493",
-        "Date": "July 2026",
-        "AddedDate": "2026-07-09",
-        "AddedTimestamp": 1783613745.1785028,
+        "Date": "Aug 15, 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786819833.0580606,
         "MatchedTags": [
             "horror"
         ]
@@ -144233,6 +144233,96 @@
         "AddedTimestamp": 1786815521.7145925,
         "MatchedTags": [
             "strategy",
+            "resource management"
+        ]
+    },
+    "4979730": {
+        "Title": "Void Walkers X64",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4979730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4979730/dbfd696d0044aa133dca32ddfb6b919e94a0d9c7/header.jpg?t=1786815864",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786819842.5223658,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5052100": {
+        "Title": "Wake Inside",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5052100/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5052100/679b10d94dfddb67986a94470ca8839bfdee67e7/header.jpg?t=1786817975",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786819870.372222,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "5070110": {
+        "Title": "Descry",
+        "Email": "",
+        "Discord": "https://discord.gg/r99aYy4X",
+        "URL": "https://store.steampowered.com/app/5070110/",
+        "Site": "https://descry.grelkagames.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5070110/a7d7a66885d93834c7930830d3c17a7eb318ed17/header.jpg?t=1786815780",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786819875.2787278,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "tactical",
+            "turn-based combat"
+        ]
+    },
+    "5073290": {
+        "Title": "Vlad Voievod Dracula The Crusaders Tomb",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5073290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5073290/83c6975678705359e2919a5aec4db871c0fb81be/header.jpg?t=1786816757",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786819878.1484838,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5088970": {
+        "Title": "Soul Finders",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5088970/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5088970/2089bc9aecd2478eefa106a003ccff82676ab82b/header.jpg?t=1786815581",
+        "Date": "October 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786819887.4878817,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5093280": {
+        "Title": "Aim Clicker",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5093280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5093280/96be2c2ea2d78ea56657e85697ec366868e47fa5/header.jpg?t=1786817061",
+        "Date": "Aug 27, 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786819889.5498228,
+        "MatchedTags": [
+            "management",
+            "economy",
             "resource management"
         ]
     }
