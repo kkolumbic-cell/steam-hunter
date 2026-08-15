@@ -77935,11 +77935,11 @@
         "AddedDate": "2026-06-08",
         "AddedTimestamp": 1780920942.8586648,
         "MatchedTags": [
-            "strategy",
             "tower defense",
+            "strategy",
+            "base building",
             "economy",
-            "management",
-            "base building"
+            "management"
         ]
     },
     "3860380": {
@@ -117891,9 +117891,9 @@
         "URL": "https://store.steampowered.com/app/4215680/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4215680/b4b84e119ad98a8cbfd218485dab019328888337/header.jpg?t=1784681112",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-22",
-        "AddedTimestamp": 1784692225.934994,
+        "Date": "2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786808247.0755155,
         "MatchedTags": [
             "tactical"
         ]
@@ -144050,6 +144050,49 @@
             "turn-based combat",
             "strategy",
             "tactical"
+        ]
+    },
+    "4943150": {
+        "Title": "Kaperfahrt",
+        "Email": "kleinodgames@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4943150/",
+        "Site": "https://kleinodgames.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4943150/3212910d1269e4370f5d02d62d8d455f28b4c328/header.jpg?t=1786808164",
+        "Date": "Dec 1, 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786808281.4199584,
+        "MatchedTags": [
+            "economy",
+            "strategy"
+        ]
+    },
+    "4972300": {
+        "Title": "Screw IT",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4972300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4972300/79e4d660e5ec8f16b470ed9f9a57143070e252f8/header.jpg?t=1786807453",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786808295.0513391,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "5066460": {
+        "Title": "Star Corsairs: Fractured Frontier",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5066460/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5066460/3cad8e477d70819819e54be6dc68c29a5b03a525/header.jpg?t=1786805179",
+        "Date": "August 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786808318.725632,
+        "MatchedTags": [
+            "economy"
         ]
     }
 }
