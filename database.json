@@ -992,7 +992,7 @@
     },
     "4485830": {
         "Title": "Compound Interest",
-        "Email": "",
+        "Email": "ghost@coldboot.studio",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4485830/",
         "Site": "https://coldboot.studio",
@@ -73388,10 +73388,11 @@
         "URL": "https://store.steampowered.com/app/4604690/",
         "Site": "https://impress.games/press-kit/koolkat/inure",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4604690/c5f5f11109dfbb0eba20499a8df85e6b2c0a6913/header.jpg?t=1780507130",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-03",
-        "AddedTimestamp": 1780507548.90585,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786826515.2915394,
         "MatchedTags": [
+            "survival horror",
             "psychological horror",
             "horror"
         ]
@@ -99671,7 +99672,9 @@
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
-            "turn-based tactics"
+            "turn-based tactics",
+            "turn-based combat",
+            "tactical"
         ]
     },
     "4883100": {
@@ -111988,9 +111991,9 @@
         "URL": "https://store.steampowered.com/app/4909040/",
         "Site": "https://www.eternalplayoffice.com/dungeoncrawler",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4909040/5da680697f3897ae76117c3f721c84e5e4dc5624/header.jpg?t=1784139613",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-07-15",
-        "AddedTimestamp": 1784144413.3919647,
+        "Date": "Aug 15, 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786826539.567743,
         "MatchedTags": [
             "turn-based strategy",
             "tactical rpg",
@@ -142699,7 +142702,8 @@
         "AddedDate": "2026-08-14",
         "AddedTimestamp": 1786720347.029546,
         "MatchedTags": [
-            "strategy"
+            "strategy",
+            "resource management"
         ]
     },
     "503540": {
@@ -144395,9 +144399,9 @@
         "URL": "https://store.steampowered.com/app/5053460/",
         "Site": "https://3cats.studio",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5053460/2c9903b03200824b0598c4575620c802c09af142/header.jpg?t=1786821183",
-        "Date": "TBA",
+        "Date": "Coming soon",
         "AddedDate": "2026-08-15",
-        "AddedTimestamp": 1786822689.671108,
+        "AddedTimestamp": 1786826565.9163585,
         "MatchedTags": [
             "management",
             "psychological horror"
@@ -144435,6 +144439,103 @@
             "economy",
             "management",
             "strategy"
+        ]
+    },
+    "3727980": {
+        "Title": "Nation",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3727980/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3727980/65ee9ea771990e8bdec966282fd906d0a9d19b16/header.jpg?t=1786823217",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786826499.3027442,
+        "MatchedTags": [
+            "strategy",
+            "colony sim",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4924650": {
+        "Title": "Ashen of Thrones",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4924650/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924650/d42b8ec4368510909f918e8bd18413cc3bfee476/header.jpg?t=1786823322",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786826541.96756,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "tactical rpg",
+            "real time tactics"
+        ]
+    },
+    "4956420": {
+        "Title": "Scrappy TD",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4956420/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4956420/6adb21d81ba778727f4884f4c110f6c8bd04fb15/header.jpg?t=1786824694",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786826547.9058776,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "real time tactics",
+            "tactical",
+            "base building",
+            "resource management"
+        ]
+    },
+    "5077870": {
+        "Title": "Slender Signal Loss",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5077870/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5077870/66b3105e8a4dc7ac83541fb3d732de68455317f0/header.jpg?t=1786822951",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786826576.7034822,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5089170": {
+        "Title": "The Last Match",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5089170/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5089170/db04d2ab82af911f3c32b44eae16fb852c34a8f0/header.jpg?t=1786822694",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786826589.928169,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5091370": {
+        "Title": "Sticks & Strings",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5091370/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5091370/22ef374cfa67abb86dbbaf198e0196e80e0740c4/header.jpg?t=1786823529",
+        "Date": "Aug 31, 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786826595.1796327,
+        "MatchedTags": [
+            "tactical"
         ]
     }
 }
