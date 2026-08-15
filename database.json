@@ -9584,10 +9584,10 @@
     },
     "4526420": {
         "Title": "Amarta: Kingdom of Shadows",
-        "Email": "",
+        "Email": "ronald@amartagame.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4526420/",
-        "Site": "",
+        "Site": "https://amartagame.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4526420/4a9dc15a706dc8f4119cfa102b0618a035c27bee/header.jpg?t=1773803428",
         "Date": "Aug 21, 2026",
         "AddedDate": "2026-08-07",
@@ -143678,6 +143678,97 @@
         "MatchedTags": [
             "economy",
             "tactical"
+        ]
+    },
+    "3770490": {
+        "Title": "Suspect None",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3770490/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3770490/90a3dddb345383b1d4af24036c78e433a35ee29d/header.jpg?t=1786775025",
+        "Date": "2027",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786777169.2994397,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4879480": {
+        "Title": "KUKULBAN",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4879480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4879480/2fb12fcb08dcfd1c26b93850c8ff0f5d9247e868/header.jpg?t=1786776662",
+        "Date": "TBA",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786777194.941614,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5038010": {
+        "Title": "Barrel Chess",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5038010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5038010/1338c5aaa00560ddca48e86ada60a0bc4f6453bb/header.jpg?t=1786775238",
+        "Date": "Aug 30, 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786777221.7135756,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "5063210": {
+        "Title": "Last Bastion Protocol",
+        "Email": "",
+        "Discord": "https://discord.gg/aFruHE5SFq",
+        "URL": "https://store.steampowered.com/app/5063210/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5063210/06b0f940ba7574c76af3e0d6430ab30b794f88dd/header.jpg?t=1786773438",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786777231.1901748,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "5073630": {
+        "Title": "Backrooms: Misstep",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5073630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5073630/6fe24f3f37005cd3fcf9228420886a546bff3ee3/header.jpg?t=1786775135",
+        "Date": "2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786777242.0299256,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "5083560": {
+        "Title": "Coindrop Dungeon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5083560/",
+        "Site": "https://csvgames.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5083560/05c60eae96079ae8d566f540c3c2d8c92b525646/header.jpg?t=1786774556",
+        "Date": "November 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786777244.8761744,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
         ]
     }
 }
