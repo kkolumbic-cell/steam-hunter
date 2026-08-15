@@ -73170,9 +73170,8 @@
         "AddedDate": "2026-06-24",
         "AddedTimestamp": 1782313853.2587037,
         "MatchedTags": [
-            "strategy",
             "turn-based strategy",
-            "turn-based tactics"
+            "strategy"
         ]
     },
     "4576560": {
@@ -93767,7 +93766,8 @@
         "AddedDate": "2026-07-09",
         "AddedTimestamp": 1783599391.7742743,
         "MatchedTags": [
-            "strategy"
+            "strategy",
+            "horror"
         ]
     },
     "3801070": {
@@ -144536,6 +144536,40 @@
         "AddedTimestamp": 1786826595.1796327,
         "MatchedTags": [
             "tactical"
+        ]
+    },
+    "5084410": {
+        "Title": "Journey TD",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5084410/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5084410/90da4a25ad04bd306a3852f3379c5cc171a569f1/header.jpg?t=1786828026",
+        "Date": "November 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786829885.7334642,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "tactical",
+            "resource management"
+        ]
+    },
+    "5091340": {
+        "Title": "Reveria: Act 1",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5091340/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5091340/7d2db06ff47a6369f8264283ad22928fa5d1f924/header.jpg?t=1786827904",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786829888.2615147,
+        "MatchedTags": [
+            "turn-based strategy",
+            "tactical rpg",
+            "tactical",
+            "turn-based tactics"
         ]
     }
 }
