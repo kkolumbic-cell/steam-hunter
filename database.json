@@ -9518,9 +9518,9 @@
         "URL": "https://store.steampowered.com/app/4463170/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4463170/b7ad130921f7bafe8ae325d97523fbad1d85a1a6/header.jpg?t=1773792451",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-22",
-        "AddedTimestamp": 1784692253.0263867,
+        "Date": "2027",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786822624.895584,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -49370,9 +49370,9 @@
         "URL": "https://store.steampowered.com/app/4540570/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4540570/d205a7a5b551a3a363594d5a46c42acf5978c2a8/header.jpg?t=1777906532",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-04",
-        "AddedTimestamp": 1777908273.3100262,
+        "Date": "Aug 15, 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786822630.6200705,
         "MatchedTags": [
             "resource management",
             "base building",
@@ -144324,6 +144324,117 @@
             "management",
             "economy",
             "resource management"
+        ]
+    },
+    "4859750": {
+        "Title": "Roadbound",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4859750/",
+        "Site": "https://www.simulix.ch",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4859750/d5b13bd11eb5c7818d9701122f21d5e4b1089615/header.jpg?t=1786821143",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786822640.8554554,
+        "MatchedTags": [
+            "economy",
+            "strategy"
+        ]
+    },
+    "4944520": {
+        "Title": "Battle-Index",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4944520/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4944520/0c7be0e3865c581777d0d4bf9812099ccc01fc6d/header.jpg?t=1786822600",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786822649.6999547,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "turn-based combat",
+            "turn-based strategy"
+        ]
+    },
+    "5010630": {
+        "Title": "Tunebound",
+        "Email": "main@bluesunflowergames.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5010630/",
+        "Site": "https://bluesunflowergames.com/tunebound",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5010630/c91d6ff046303101b5ce657462c05a44dd374e47/header.jpg?t=1786819990",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786822667.0901659,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "5050370": {
+        "Title": "Gun Shop: Tidy Up",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5050370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5050370/fed47bf4e93c09a0301a942ba4f27ee029378d67/header.jpg?t=1786821537",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786822683.8592823,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "5053460": {
+        "Title": "The Previous Owner",
+        "Email": "info@3cats.studio",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5053460/",
+        "Site": "https://3cats.studio",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5053460/2c9903b03200824b0598c4575620c802c09af142/header.jpg?t=1786821183",
+        "Date": "TBA",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786822689.671108,
+        "MatchedTags": [
+            "management",
+            "psychological horror"
+        ]
+    },
+    "5057770": {
+        "Title": "StoneEra",
+        "Email": "",
+        "Discord": "https://discord.gg/Cwa5Te3ffZ",
+        "URL": "https://store.steampowered.com/app/5057770/",
+        "Site": "https://stoneera.online",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5057770/27a28af21e1b1c21703815045d4d19907aa30177/header.jpg?t=1786822357",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786822692.4843786,
+        "MatchedTags": [
+            "colony sim",
+            "city builder",
+            "strategy",
+            "base building",
+            "resource management"
+        ]
+    },
+    "5090060": {
+        "Title": "Starlathe",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5090060/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5090060/24165a0af83ce00a4ca3e825506fa4bd607328df/header.jpg?t=1786819997",
+        "Date": "TBA",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786822714.0398016,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "strategy"
         ]
     }
 }
