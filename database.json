@@ -65176,7 +65176,7 @@
     "4745980": {
         "Title": "Cow",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/SD254t4Agx",
         "URL": "https://store.steampowered.com/app/4745980/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4745980/cd46c014e43e648da40eaa5a2aa24a25a3446eb4/header.jpg?t=1779813727",
@@ -124132,9 +124132,9 @@
         "URL": "https://store.steampowered.com/app/4969240/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4969240/82207e5ae7174fa784933225d403b5b9d6b1a757/header.jpg?t=1785265200",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-28",
-        "AddedTimestamp": 1785271164.7756395,
+        "Date": "October 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786815504.5418122,
         "MatchedTags": [
             "real time tactics",
             "strategy"
@@ -144219,6 +144219,21 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "5041630": {
+        "Title": "2048 3D: Rebuilt",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5041630/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5041630/4231238cd590d47654cb9391c2c0808dd4e90c6b/header.jpg?t=1786812314",
+        "Date": "August 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786815521.7145925,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
         ]
     }
 }
