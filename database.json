@@ -51201,9 +51201,9 @@
         "URL": "https://store.steampowered.com/app/4671900/",
         "Site": "https://www.fallenhorseentertainment.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4671900/36a5bff1a59036a207a91b6cd121ae2680a23105/header.jpg?t=1778007222",
-        "Date": "Oct 26, 2026",
-        "AddedDate": "2026-06-08",
-        "AddedTimestamp": 1780947564.4129317,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786798887.4669993,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -70508,9 +70508,9 @@
         "URL": "https://store.steampowered.com/app/4787190/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4787190/3464b5840a0ce9a2df1e29abfbc1cd611deea527/header.jpg?t=1780289911",
-        "Date": "Aug 13, 2026",
-        "AddedDate": "2026-07-16",
-        "AddedTimestamp": 1784212013.1667209,
+        "Date": "Aug 15, 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786798894.1483095,
         "MatchedTags": [
             "strategy",
             "base building",
@@ -101065,10 +101065,10 @@
         "AddedDate": "2026-08-07",
         "AddedTimestamp": 1786062188.046181,
         "MatchedTags": [
-            "management",
             "economy",
-            "strategy",
-            "resource management"
+            "management",
+            "resource management",
+            "strategy"
         ]
     },
     "4906760": {
@@ -143970,6 +143970,21 @@
             "base building",
             "resource management",
             "tower defense"
+        ]
+    },
+    "5013470": {
+        "Title": "Chatting ChurroBun",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5013470/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5013470/5fc5e7f6f7daa9e6a63743ecce74223887b3ae1c/header.jpg?t=1786798065",
+        "Date": "October 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786798934.2367952,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
         ]
     }
 }
