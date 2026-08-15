@@ -105653,9 +105653,9 @@
         "URL": "https://store.steampowered.com/app/4809720/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4809720/2abc45fe2510268dd354e3f1d46846d3aa9a5054/header.jpg?t=1783548764",
-        "Date": "To be announced",
-        "AddedDate": "2026-07-31",
-        "AddedTimestamp": 1785473163.275902,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786772632.1132317,
         "MatchedTags": [
             "tower defense",
             "strategy",
@@ -142034,9 +142034,9 @@
         "URL": "https://store.steampowered.com/app/5009520/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5009520/f616374206bac2576ee8b272bb81db703d044c7b/header.jpg?t=1786679022",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-14",
-        "AddedTimestamp": 1786684051.294783,
+        "Date": "Aug 27, 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786772639.8715825,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -142100,9 +142100,9 @@
         "URL": "https://store.steampowered.com/app/5045930/",
         "Site": "https://daniling.org/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5045930/4d4da15d7b2b0384d93e502bca6a4ca46fc4152f/header.jpg?t=1786676336",
-        "Date": "Aug 31, 2026",
-        "AddedDate": "2026-08-14",
-        "AddedTimestamp": 1786684074.8657553,
+        "Date": "Aug 28, 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786772658.2620199,
         "MatchedTags": [
             "strategy",
             "economy",
@@ -143599,6 +143599,85 @@
             "management",
             "resource management",
             "economy"
+        ]
+    },
+    "4885410": {
+        "Title": "Garaged Crypto Miner",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4885410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4885410/7c40b681e1c31d1d801dae20c8aeb1c703fca72f/header.jpg?t=1786770954",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786772634.5618508,
+        "MatchedTags": [
+            "grand strategy",
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4936880": {
+        "Title": "Cell-Grinder: APOPTOSIS",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4936880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4936880/717732af14885e304f514facf04595a48f79ae45/header.jpg?t=1786771757",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786772636.6985278,
+        "MatchedTags": [
+            "strategy",
+            "horror"
+        ]
+    },
+    "5046730": {
+        "Title": "Gamophobia",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5046730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5046730/d710ea331ce110ef5af685735cb0fd04b7feb7aa/header.jpg?t=1786771249",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786772661.0472767,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "5066610": {
+        "Title": "Villages on Wheels",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5066610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5066610/54766327b28e00311e2f61eba47157d29e36e5f5/header.jpg?t=1786771510",
+        "Date": "Q2 2027",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786772663.912961,
+        "MatchedTags": [
+            "strategy",
+            "base building",
+            "tower defense",
+            "tactical",
+            "resource management"
+        ]
+    },
+    "5077080": {
+        "Title": "Mall Tidy Up Frenemies",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5077080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5077080/3947d54412a121cecd4a397c8dd9b1509c2ad7a3/header.jpg?t=1786771753",
+        "Date": "Aug 28, 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786772668.9762013,
+        "MatchedTags": [
+            "economy",
+            "tactical"
         ]
     }
 }
