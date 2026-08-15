@@ -116723,9 +116723,9 @@
         "URL": "https://store.steampowered.com/app/4301720/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4301720/40b00b1b9d0449a199c0147320cd04470802ffe2/header.jpg?t=1784613863",
-        "Date": "October 2026",
-        "AddedDate": "2026-08-07",
-        "AddedTimestamp": 1786061895.975254,
+        "Date": "Oct 22, 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786763255.5719376,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -116994,7 +116994,7 @@
     "4971940": {
         "Title": "Spook'd",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/7bDQCqUQCu",
         "URL": "https://store.steampowered.com/app/4971940/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4971940/4c9a338fff85784ab7b6ae39e9fe0d4012998c04/header.jpg?t=1784616911",
@@ -117383,7 +117383,7 @@
     "4961280": {
         "Title": "Idlepunk - Ghost Link",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/VtqdPytCc",
         "URL": "https://store.steampowered.com/app/4961280/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4961280/cab9afc662f17e0d7885e549dc63d1ecbdc1c520/header.jpg?t=1784651822",
@@ -122487,9 +122487,9 @@
         "URL": "https://store.steampowered.com/app/4952150/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4952150/a6ff49151d153007a3be5e7b0a1b9ee271544ad5/header.jpg?t=1785068071",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-26",
-        "AddedTimestamp": 1785074408.2139533,
+        "Date": "Aug 27, 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786763296.8253243,
         "MatchedTags": [
             "strategy",
             "turn-based combat"
@@ -127181,9 +127181,9 @@
         "URL": "https://store.steampowered.com/app/4960260/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960260/e2bcfbd95d4f85fee2521bcf9d324df0559b550c/header.jpg?t=1785478644",
-        "Date": "Aug 14, 2026",
-        "AddedDate": "2026-08-01",
-        "AddedTimestamp": 1785618747.3375807,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786763302.2553236,
         "MatchedTags": [
             "strategy",
             "tactical"
@@ -142785,9 +142785,9 @@
     "5070260": {
         "Title": "MISFORTUNATE",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/MSPtmTwrCT",
         "URL": "https://store.steampowered.com/app/5070260/",
-        "Site": "",
+        "Site": "https://www.shapyragames.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5070260/ef95077cd32e5348a314639deaec3669b92aad6d/header.jpg?t=1786723119",
         "Date": "Coming soon",
         "AddedDate": "2026-08-14",
@@ -143423,6 +143423,104 @@
         "MatchedTags": [
             "management",
             "economy"
+        ]
+    },
+    "4359170": {
+        "Title": "Bratki",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4359170/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4359170/19f776739ef031b097f227f24458cfad45bbc3da/header.jpg?t=1786760847",
+        "Date": "Aug 14, 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786763258.5288396,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical",
+            "turn-based combat"
+        ]
+    },
+    "5019840": {
+        "Title": "Stelvyr: Colony Defense",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5019840/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5019840/41651a20700156db63730d4790523acc89c05b06/header.jpg?t=1786760631",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786763317.432697,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "colony sim",
+            "tower defense",
+            "real time tactics",
+            "resource management",
+            "base building"
+        ]
+    },
+    "5030360": {
+        "Title": "AbyssMachine",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5030360/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5030360/ebcffe17e60c9d8a5538263193e9d238544b43fa/header.jpg?t=1786760989",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786763320.7874436,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5044350": {
+        "Title": "Tick Walk",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5044350/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044350/876567e0532997e1abb184c7339842f2ae7f7f26/header.jpg?t=1786760785",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786763331.274259,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "tactical"
+        ]
+    },
+    "5045550": {
+        "Title": "Tales of Immortal Cultivation",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5045550/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5045550/cdc50150cfb418e22ad6c0506e54be7bc55013d1/header.jpg?t=1786760036",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786763333.6802654,
+        "MatchedTags": [
+            "turn-based strategy"
+        ]
+    },
+    "5082620": {
+        "Title": "Rules for Thee",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5082620/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5082620/380c66ed31d47d3dd3fa6ae1475778083076d11c/header.jpg?t=1786762688",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786763354.1288407,
+        "MatchedTags": [
+            "strategy",
+            "management"
         ]
     }
 }
