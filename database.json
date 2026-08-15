@@ -143021,9 +143021,9 @@
         "URL": "https://store.steampowered.com/app/5044610/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5044610/80267ba27a9e01bbcc441873353bc426a38a23b2/header.jpg?t=1786731485",
-        "Date": "Aug 25, 2026",
-        "AddedDate": "2026-08-14",
-        "AddedTimestamp": 1786735087.9797332,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786766236.7320538,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -143521,6 +143521,36 @@
         "MatchedTags": [
             "strategy",
             "management"
+        ]
+    },
+    "5057360": {
+        "Title": "Across the Dark",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5057360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5057360/5742e591feb4811020b492971e7582040725f58c/header.jpg?t=1786765409",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786766238.6382284,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5062710": {
+        "Title": "Dustium",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5062710/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5062710/7c2d5c21b1849c76e2fd89580f6b7d04d5358cba/header.jpg?t=1786765815",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786766241.2039964,
+        "MatchedTags": [
+            "turn-based strategy",
+            "strategy",
+            "turn-based combat"
         ]
     }
 }
