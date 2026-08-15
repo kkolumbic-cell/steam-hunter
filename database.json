@@ -92807,9 +92807,9 @@
         "URL": "https://store.steampowered.com/app/4068400/",
         "Site": "https://whysostudios.ca",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4068400/37bc534559b3866350417fe4aa0124340cc5fe17/header.jpg?t=1782230268",
-        "Date": "Q1 2027",
-        "AddedDate": "2026-06-23",
-        "AddedTimestamp": 1782233003.6362305,
+        "Date": "To be announced",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786837005.1198068,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -144634,6 +144634,88 @@
             "strategy",
             "management",
             "resource management"
+        ]
+    },
+    "4897130": {
+        "Title": "The Curse of Stuzhiy",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4897130/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4897130/bae4bdcfaab382bb201d9752e88ce34b3123f316/header.jpg?t=1786835574",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786837034.9029837,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5028230": {
+        "Title": "Legacy of the Ark: Beneath the Broken Sky",
+        "Email": "",
+        "Discord": "https://discord.gg/UZCW9c62Th",
+        "URL": "https://store.steampowered.com/app/5028230/",
+        "Site": "https://brandonmysliwiec.com/games/beneath-the-broken-sky/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5028230/d8bb8f4b6d8bc555b40317eb7515f8d69a998686/header.jpg?t=1786834261",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786837050.3601851,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "colony sim",
+            "economy",
+            "management"
+        ]
+    },
+    "5051340": {
+        "Title": "Toilet 101",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5051340/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5051340/a5096e4ecd399811a92af29a85d9c26821c570c7/header.jpg?t=1786836295",
+        "Date": "August 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786837067.4711478,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5057820": {
+        "Title": "Colosseum Infection",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5057820/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5057820/cb83816c4ec7e84138b81ed492911e3e0534bb0d/header.jpg?t=1786836660",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786837072.1634648,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "turn-based strategy",
+            "turn-based tactics",
+            "resource management"
+        ]
+    },
+    "5066290": {
+        "Title": "CyberCon: Cybersecurity Tycoon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5066290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5066290/249f0d35b25af988e3c7e93a52f77b39eb10b51a/header.jpg?t=1786835133",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786837077.402108,
+        "MatchedTags": [
+            "economy",
+            "resource management",
+            "base building",
+            "management"
         ]
     }
 }
