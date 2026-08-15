@@ -7289,9 +7289,9 @@
         "URL": "https://store.steampowered.com/app/4492500/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492500/39c32db8a3d108b4bce552953b5b4b74f2e7ec4c/header.jpg?t=1773418207",
-        "Date": "2026",
-        "AddedDate": "2026-03-13",
-        "AddedTimestamp": 1773421192.790425,
+        "Date": "Nov 1, 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786833649.424635,
         "MatchedTags": [
             "strategy"
         ]
@@ -144570,6 +144570,70 @@
             "tactical rpg",
             "tactical",
             "turn-based tactics"
+        ]
+    },
+    "4670270": {
+        "Title": "Dokimon Quest: II",
+        "Email": "yanakorpgs@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4670270/",
+        "Site": "https://www.yanakorpgs.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4670270/d7e0e9454aa74880188d8e3e802f61aeec223661/header.jpg?t=1786833235",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786833662.7705011,
+        "MatchedTags": [
+            "turn-based combat",
+            "turn-based tactics"
+        ]
+    },
+    "5062230": {
+        "Title": "Epoch Forge",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5062230/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5062230/a636d3022ddcc7c543307f3343d01c55695c4a99/header.jpg?t=1786832791",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786833686.857064,
+        "MatchedTags": [
+            "base building",
+            "real time tactics",
+            "colony sim",
+            "resource management",
+            "strategy"
+        ]
+    },
+    "5067390": {
+        "Title": "GRIDMINE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5067390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5067390/1c0234bb70ad0caefa9f232777d45315e9cde0ff/header.jpg?t=1786831371",
+        "Date": "Sep 25, 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786833690.251034,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "5075960": {
+        "Title": "AI tycoon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5075960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5075960/00cd11650a2e4e78f92535e3774e5ce76ac897fc/header.jpg?t=1786832794",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786833692.872118,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management"
         ]
     }
 }
