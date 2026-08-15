@@ -23743,10 +23743,10 @@
         "AddedDate": "2026-07-14",
         "AddedTimestamp": 1784038562.971419,
         "MatchedTags": [
+            "horror",
             "strategy",
             "psychological horror",
-            "economy",
-            "management"
+            "economy"
         ]
     },
     "4553500": {
@@ -84952,9 +84952,9 @@
         "URL": "https://store.steampowered.com/app/4683860/",
         "Site": "https://calmariagame.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4683860/420466a345355ae3dcd7b31ccca24fe0d7dad1b8/header.jpg?t=1781469590",
-        "Date": "Jul 12, 2027",
-        "AddedDate": "2026-07-05",
-        "AddedTimestamp": 1783275498.356127,
+        "Date": "Nov 10, 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786790577.4507415,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -92634,9 +92634,9 @@
         "URL": "https://store.steampowered.com/app/4742720/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4742720/28879cb7c5e01b2ffd04ce0b8336c72d35fee85f/header.jpg?t=1782217810",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-23",
-        "AddedTimestamp": 1782222605.0757565,
+        "Date": "Aug 20, 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786790580.2849967,
         "MatchedTags": [
             "strategy"
         ]
@@ -126520,9 +126520,9 @@
         "URL": "https://store.steampowered.com/app/4987740/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4987740/cda705c4cbbb538dce92e201f5fcff792836c67e/header.jpg?t=1785429212",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-30",
-        "AddedTimestamp": 1785430583.205912,
+        "Date": "Aug 15, 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786790602.3984253,
         "MatchedTags": [
             "strategy",
             "economy",
@@ -143863,6 +143863,65 @@
         "AddedTimestamp": 1786787093.6291063,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4677860": {
+        "Title": "The Spectacular Evermore",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4677860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4677860/402b59c5b6a97e6bbf44c48d4456faaa7979845e/header.jpg?t=1786787798",
+        "Date": "2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786790574.4289176,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5005510": {
+        "Title": "YOU MUST SLEEP: Ravenous Nightmares",
+        "Email": "",
+        "Discord": "https://discord.com/invite/VXFNuCtPmG",
+        "URL": "https://store.steampowered.com/app/5005510/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5005510/28b19207734fe7ff9208a891e7ebb5e46537511e/header.jpg?t=1786789656",
+        "Date": "2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786790604.4154181,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "5019040": {
+        "Title": "Driving After Work : Cafe Guilt",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5019040/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5019040/d3bc492f48443555606deaca844fac34364104e2/header.jpg?t=1786788284",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786790611.5414948,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5058340": {
+        "Title": "Lanebound",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5058340/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5058340/1100a359e02c4fc9dc5180f78de2c231ccb22c41/header.jpg?t=1786787008",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786790621.0802205,
+        "MatchedTags": [
+            "tactical rpg"
         ]
     }
 }
