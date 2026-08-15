@@ -128508,9 +128508,9 @@
         "URL": "https://store.steampowered.com/app/4737040/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4737040/97d9ef8b4c4d0ab536b94e8a6e5d91e69b3f584c/header.jpg?t=1785568309",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-01",
-        "AddedTimestamp": 1785576188.8072484,
+        "Date": "Aug 15, 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786787040.44437,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -143788,6 +143788,81 @@
             "strategy",
             "management",
             "economy"
+        ]
+    },
+    "5015000": {
+        "Title": "Crafty Idle",
+        "Email": "",
+        "Discord": "https://discord.gg/vPTaA8vDsC",
+        "URL": "https://store.steampowered.com/app/5015000/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5015000/0f255b4d7ca2bc4b2aa7af4c9b95aafff74ca4dc/header.jpg?t=1786785570",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786787064.7557545,
+        "MatchedTags": [
+            "resource management",
+            "strategy"
+        ]
+    },
+    "5068000": {
+        "Title": "Rogue Space Convoy",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5068000/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5068000/ca63f27520deed8d3ccdcd0e5d811ff78e5e43dd/header.jpg?t=1786785743",
+        "Date": "2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786787077.6495206,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "5076870": {
+        "Title": "Shifting Gears",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5076870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5076870/1a3019f01d86bf10d0c59f87d8cb94936e114f2c/header.jpg?t=1786784495",
+        "Date": "TBA",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786787082.634106,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5081020": {
+        "Title": "Wall of Symbols",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5081020/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5081020/528406df49511964b77f36f8710e53e53e5c1597/header.jpg?t=1786784332",
+        "Date": "2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786787090.9283535,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "tower defense",
+            "turn-based combat",
+            "turn-based strategy"
+        ]
+    },
+    "5084870": {
+        "Title": "Judge SIM 2 Precedent",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5084870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5084870/00b71b363ead412f004c776f6f40064b19d4b3b2/header.jpg?t=1786784833",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786787093.6291063,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
