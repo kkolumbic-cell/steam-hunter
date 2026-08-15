@@ -113019,9 +113019,9 @@
         "URL": "https://store.steampowered.com/app/4957620/",
         "Site": "https://chillingmoose.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4957620/6f2737d8a78fbff34cff9e1a80e4a2a925860f65/header.jpg?t=1784216064",
-        "Date": "Aug 17, 2026",
-        "AddedDate": "2026-07-16",
-        "AddedTimestamp": 1784220399.1232748,
+        "Date": "Aug 15, 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786783679.1921346,
         "MatchedTags": [
             "real time tactics"
         ]
@@ -123245,9 +123245,9 @@
         "URL": "https://store.steampowered.com/app/4958640/",
         "Site": "https://ruthlessreturns.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4958640/097e98262e17b4ff6aa3725442e2764a6eb22e72/header.jpg?t=1785186503",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-14",
-        "AddedTimestamp": 1786720274.49102,
+        "Date": "Aug 15, 2026",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786783682.8025963,
         "MatchedTags": [
             "strategy",
             "economy",
@@ -143769,6 +143769,25 @@
             "strategy",
             "turn-based strategy",
             "turn-based combat"
+        ]
+    },
+    "3185500": {
+        "Title": "Wilderness Survey",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3185500/",
+        "Site": "https://space.bilibili.com/364387143",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3185500/81d2d6f0c5e9fda7df24bfd3e05efbac7d4cde8e/header.jpg?t=1786783540",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-15",
+        "AddedTimestamp": 1786783626.7387645,
+        "MatchedTags": [
+            "colony sim",
+            "city builder",
+            "base building",
+            "strategy",
+            "management",
+            "economy"
         ]
     }
 }
