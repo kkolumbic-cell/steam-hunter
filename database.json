@@ -107726,7 +107726,7 @@
     },
     "4881490": {
         "Title": "FinSim",
-        "Email": "support@finsimgame.com, talk@finsimgame.com",
+        "Email": "talk@finsimgame.com, support@finsimgame.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4881490/",
         "Site": "https://finsimgame.com",
@@ -131172,9 +131172,9 @@
         "URL": "https://store.steampowered.com/app/5019590/",
         "Site": "https://x.com/opaqueindiedev",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5019590/f7007b9ae3f909934051878c6107a06ff52db3f1/header.jpg?t=1785866479",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-04",
-        "AddedTimestamp": 1785866944.2239377,
+        "Date": "2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786870199.9763253,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -144970,6 +144970,50 @@
             "strategy",
             "turn-based tactics",
             "turn-based combat"
+        ]
+    },
+    "5053230": {
+        "Title": "Fortune Factory",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5053230/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5053230/a1b3b77b34dd7e2e3d04741b5b8bcb07a1d6ee6e/header.jpg?t=1786867687",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786870204.3117096,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "resource management"
+        ]
+    },
+    "5054480": {
+        "Title": "The Last Lunch",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5054480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5054480/35e52bc9f61603026d108a58681d3460ab273d3d/header.jpg?t=1786866484",
+        "Date": "2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786870207.1904223,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "5089960": {
+        "Title": "Meridian Archive",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5089960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5089960/fd9db5ce4e662c55fadff52550dfed0bd9be9a6e/header.jpg?t=1786869196",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786870215.2650275,
+        "MatchedTags": [
+            "psychological horror"
         ]
     }
 }
