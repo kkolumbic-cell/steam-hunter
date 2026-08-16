@@ -131941,9 +131941,9 @@
         "URL": "https://store.steampowered.com/app/4998540/",
         "Site": "https://slayseansavetheworld.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4998540/2abe35009f9c5e1643a775a927a1393a8906a8be/header.jpg?t=1785901784",
-        "Date": "November 2026",
-        "AddedDate": "2026-08-05",
-        "AddedTimestamp": 1785912350.052109,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786866496.8942618,
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
@@ -144939,6 +144939,36 @@
             "turn-based tactics",
             "turn-based strategy",
             "tactical",
+            "turn-based combat"
+        ]
+    },
+    "5073100": {
+        "Title": "Cyber Classics Collection",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5073100/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5073100/6e18e6cc45336df963c2f99837c9c1a2b1be7b99/header.jpg?t=1786866092",
+        "Date": "Aug 31, 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786866504.724434,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5077820": {
+        "Title": "Starhand",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5077820/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5077820/65eac6174950a1c25a6d501a381cba468f7d8cb9/header.jpg?t=1786865676",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786866506.7009702,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
             "turn-based combat"
         ]
     }
