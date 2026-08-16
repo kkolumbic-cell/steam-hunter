@@ -68746,9 +68746,9 @@
         "URL": "https://store.steampowered.com/app/4765580/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4765580/503f29e6fc49f50d1735a82c0fb9ff1bf6878546/header.jpg?t=1780058727",
-        "Date": "Jun 12, 2026",
-        "AddedDate": "2026-05-31",
-        "AddedTimestamp": 1780259720.4674158,
+        "Date": "Aug 15, 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786863730.322088,
         "MatchedTags": [
             "strategy"
         ]
@@ -144903,6 +144903,41 @@
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
+            "tactical",
+            "turn-based combat"
+        ]
+    },
+    "5019460": {
+        "Title": "Car D Game",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5019460/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5019460/45d8d0db0b81dd175ff20c1760b1e44ae56c28ee/header.jpg?t=1786863496",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786863738.8206298,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "5073840": {
+        "Title": "Starwood: Lantern",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5073840/",
+        "Site": "https://starwood-battlegrounds.coronalmagic.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5073840/82d0c12de2286ab0cf644e7e84b411eb013087fb/header.jpg?t=1786859601",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786863751.526581,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
             "tactical",
             "turn-based combat"
         ]
