@@ -74369,9 +74369,9 @@
         "URL": "https://store.steampowered.com/app/4656770/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4656770/5e5ab8d19b72d4a3ecdf387d030682a899351454/header.jpg?t=1780556583",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-04",
-        "AddedTimestamp": 1780563901.9222453,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786894731.3393884,
         "MatchedTags": [
             "strategy"
         ]
@@ -76260,9 +76260,9 @@
         "URL": "https://store.steampowered.com/app/4783460/",
         "Site": "https://doubleskunk.kerrberry.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4783460/5ef61a2c89c9afaace1d79fdd0c7623fbefb69d1/header.jpg?t=1780685719",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-05",
-        "AddedTimestamp": 1780690729.8745134,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786894739.5872734,
         "MatchedTags": [
             "strategy",
             "turn-based combat"
@@ -79315,9 +79315,9 @@
         "URL": "https://store.steampowered.com/app/4815980/",
         "Site": "https://impress.games/press-kit/invantage-studios/return-to-planet-zoveka",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4815980/6cd42c4908b69aa49efed2d2451e1e0604b2d995/header.jpg?t=1781015361",
-        "Date": "Oct 28, 2026",
-        "AddedDate": "2026-07-27",
-        "AddedTimestamp": 1785152673.144314,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786894741.848725,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -95138,9 +95138,9 @@
         "URL": "https://store.steampowered.com/app/4781380/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4781380/ac183100686afa1a70d6724b3930cb7bac85aea4/header.jpg?t=1782440306",
-        "Date": "August 2026",
-        "AddedDate": "2026-06-26",
-        "AddedTimestamp": 1782455595.3515372,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786894737.0605342,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -125842,9 +125842,9 @@
         "URL": "https://store.steampowered.com/app/4557390/",
         "Site": "https://www.goblinsandgunslingers.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557390/da5a98df3d2085b08bedaa499c332ccf2df7e425/header.jpg?t=1785382923",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-30",
-        "AddedTimestamp": 1785393821.400706,
+        "Date": "Aug 16, 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786894722.4474878,
         "MatchedTags": [
             "strategy"
         ]
@@ -145119,6 +145119,50 @@
         "AddedTimestamp": 1786891379.2927756,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4940060": {
+        "Title": "Toll of Y",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4940060/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4940060/e9b957d9aade26356424ccb6622632c7d0880b59/header.jpg?t=1786893499",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786894767.4134095,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "5034280": {
+        "Title": "SHHH: Don't Wake the House",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5034280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5034280/4d1460bdf9958fe4026486b7d473ea7e5ef15cf4/header.jpg?t=1786891933",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786894788.7325268,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5083790": {
+        "Title": "Dokimon: The Living Soil",
+        "Email": "yanakorpgs@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5083790/",
+        "Site": "https://www.yanakorpgs.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5083790/b278168f4af7d7c0e19f6b1313a5ca71dba08d05/header.jpg?t=1786894126",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786894813.1319232,
+        "MatchedTags": [
+            "turn-based tactics",
+            "city builder",
+            "colony sim"
         ]
     }
 }
