@@ -58604,9 +58604,9 @@
         "URL": "https://store.steampowered.com/app/4656810/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4656810/682b14aa0cb5cebd3e0a3fb17cabdcbebd7d1110/header.jpg?t=1778798972",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-12",
-        "AddedTimestamp": 1781247547.5464578,
+        "Date": "October 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786923379.5739675,
         "MatchedTags": [
             "psychological horror",
             "horror",
@@ -137013,9 +137013,9 @@
         "URL": "https://store.steampowered.com/app/5013050/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5013050/72b2294b6b99c2c2b4881c97d8ddef957bf8c87c/header.jpg?t=1786379792",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-10",
-        "AddedTimestamp": 1786382060.2266212,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786923392.3069503,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -145306,6 +145306,36 @@
             "survival horror",
             "psychological horror",
             "horror"
+        ]
+    },
+    "2892070": {
+        "Title": "UnderDeep",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2892070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2892070/035e09a6c14479e8b29c70a97f9078807433d324/header.jpg?t=1786922486",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786923355.5995216,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4946100": {
+        "Title": "SIDExLINES",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4946100/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4946100/51e183046b9a67d219fc2d7357483f38cd84afb6/header.jpg?t=1786923175",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786923389.1691916,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
         ]
     }
 }
