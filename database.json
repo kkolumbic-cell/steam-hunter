@@ -43513,9 +43513,9 @@
         "URL": "https://store.steampowered.com/app/4613340/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613340/a6f7068b24736014ecf180e06a73f3d787d66b55/header.jpg?t=1777332238",
-        "Date": "Sep 23, 2026",
-        "AddedDate": "2026-07-13",
-        "AddedTimestamp": 1783942306.9778607,
+        "Date": "Sep 28, 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786880226.0170934,
         "MatchedTags": [
             "strategy",
             "management",
@@ -81646,9 +81646,9 @@
         "URL": "https://store.steampowered.com/app/4725220/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4725220/f5af48a0ec5ffc27ba013554a5859ced2a14456d/header.jpg?t=1781182611",
-        "Date": "November 2026",
-        "AddedDate": "2026-08-11",
-        "AddedTimestamp": 1786415442.315074,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786880239.498764,
         "MatchedTags": [
             "economy",
             "strategy",
@@ -87811,9 +87811,9 @@
         "URL": "https://store.steampowered.com/app/4831310/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4831310/fcad849eee820da42f1c236bd4b328e995c373a1/header.jpg?t=1781681385",
-        "Date": "Coming soon",
+        "Date": "Aug 16, 2026",
         "AddedDate": "2026-08-16",
-        "AddedTimestamp": 1786876990.2879272,
+        "AddedTimestamp": 1786880241.551696,
         "MatchedTags": [
             "colony sim",
             "strategy"
@@ -124507,9 +124507,9 @@
         "URL": "https://store.steampowered.com/app/4989110/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4989110/cfd603e5ef3b2c791e53f7219661babf61e9e6bb/header.jpg?t=1785290452",
-        "Date": "To be announced",
-        "AddedDate": "2026-07-29",
-        "AddedTimestamp": 1785296790.7267432,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786880264.2649672,
         "MatchedTags": [
             "management",
             "economy"
@@ -124924,9 +124924,9 @@
         "URL": "https://store.steampowered.com/app/4924870/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924870/2a3082ddb8e3649122b95ddee8cd958e46460f56/header.jpg?t=1785337829",
-        "Date": "Nov 9, 2026",
-        "AddedDate": "2026-07-31",
-        "AddedTimestamp": 1785485558.7051172,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786880249.0684166,
         "MatchedTags": [
             "economy",
             "resource management"
@@ -143543,12 +143543,9 @@
         "AddedDate": "2026-08-15",
         "AddedTimestamp": 1786769375.0469556,
         "MatchedTags": [
-            "strategy",
+            "base building",
             "horror",
-            "survival horror",
-            "resource management",
-            "economy",
-            "base building"
+            "survival horror"
         ]
     },
     "4955820": {
@@ -145014,6 +145011,20 @@
         "AddedTimestamp": 1786870215.2650275,
         "MatchedTags": [
             "psychological horror"
+        ]
+    },
+    "5049580": {
+        "Title": "Neosis Echoes",
+        "Email": "",
+        "Discord": "https://discord.gg/Q6PsEF3Q4h",
+        "URL": "https://store.steampowered.com/app/5049580/",
+        "Site": "https://www.neosisgame.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5049580/6a7c687db8f4f309cd956c0d31a2ae03733bd0d8/header.jpg?t=1786880079",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786880269.6425211,
+        "MatchedTags": [
+            "base building"
         ]
     }
 }
