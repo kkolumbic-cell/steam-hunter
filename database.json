@@ -72945,9 +72945,9 @@
         "URL": "https://store.steampowered.com/app/4620670/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4620670/63df10dad17d8f298015c389a509da36eac999f5/header.jpg?t=1780458314",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-08-11",
-        "AddedTimestamp": 1786449577.0181355,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786859144.4764614,
         "MatchedTags": [
             "psychological horror",
             "resource management"
@@ -118277,7 +118277,8 @@
         "AddedTimestamp": 1784721987.1313896,
         "MatchedTags": [
             "horror",
-            "psychological horror"
+            "psychological horror",
+            "survival horror"
         ]
     },
     "4956600": {
@@ -120913,9 +120914,9 @@
         "URL": "https://store.steampowered.com/app/4991240/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991240/599bdb26528be2cbb987e6c985d8ecaf61ca4012/header.jpg?t=1784892191",
-        "Date": "Sep 3, 2026",
-        "AddedDate": "2026-08-05",
-        "AddedTimestamp": 1785965794.6588721,
+        "Date": "Sep 10, 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786859174.55769,
         "MatchedTags": [
             "resource management"
         ]
@@ -144887,6 +144888,23 @@
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
+        ]
+    },
+    "5009400": {
+        "Title": "K\u00fd Gi\u1edbi",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5009400/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5009400/05e503dd9288fad0a224fbb67fe66571c636b463/header.jpg?t=1786857682",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786859182.6633422,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "tactical",
+            "turn-based combat"
         ]
     }
 }
