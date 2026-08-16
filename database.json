@@ -114616,20 +114616,6 @@
             "tactical"
         ]
     },
-    "4940570": {
-        "Title": "1 HP DUNGEON",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4940570/",
-        "Site": "",
-        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4940570/fcde1e8ee1f74df0885b9aa0c0d42be2270de339/header.jpg?t=1784412580",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-28",
-        "AddedTimestamp": 1785271132.279263,
-        "MatchedTags": [
-            "tactical rpg"
-        ]
-    },
     "4970720": {
         "Title": "Rail Guard",
         "Email": "info@pixelifact.com",
@@ -128531,9 +128517,9 @@
         "URL": "https://store.steampowered.com/app/4867340/",
         "Site": "https://www.lionandotter.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4867340/753026d80d61b797cc637174763046c33b522851/header.jpg?t=1785568197",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-01",
-        "AddedTimestamp": 1785576218.0082405,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786845624.1363065,
         "MatchedTags": [
             "tower defense",
             "strategy",
@@ -136776,9 +136762,9 @@
         "URL": "https://store.steampowered.com/app/4896610/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4896610/49247d8cb1f465866489c83b4585f93838568d6a/header.jpg?t=1786356164",
-        "Date": "TBA",
-        "AddedDate": "2026-08-10",
-        "AddedTimestamp": 1786358322.9039755,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786845629.3621485,
         "MatchedTags": [
             "horror"
         ]
@@ -137010,7 +136996,8 @@
         "AddedDate": "2026-08-10",
         "AddedTimestamp": 1786382048.0836298,
         "MatchedTags": [
-            "survival horror"
+            "survival horror",
+            "horror"
         ]
     },
     "5013050": {
@@ -144385,9 +144372,9 @@
         "URL": "https://store.steampowered.com/app/5050370/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5050370/fed47bf4e93c09a0301a942ba4f27ee029378d67/header.jpg?t=1786821537",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-08-15",
-        "AddedTimestamp": 1786822683.8592823,
+        "Date": "Sep 1, 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786845672.4216158,
         "MatchedTags": [
             "resource management"
         ]
@@ -144716,6 +144703,116 @@
             "resource management",
             "base building",
             "management"
+        ]
+    },
+    "4646640": {
+        "Title": "Capitol Diktatoria",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4646640/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4646640/2f9d7ee3716dc80a37a938b90aad50f6a6b147ae/header.jpg?t=1786839362",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786845597.1012173,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4904200": {
+        "Title": "Civitas: World Simulator",
+        "Email": "",
+        "Discord": "https://discord.gg/Z3pdNGUXDk",
+        "URL": "https://store.steampowered.com/app/4904200/",
+        "Site": "https://play-civitas.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4904200/f1a5929008a4441e21157305d271b95dba5ab12c/header.jpg?t=1786844817",
+        "Date": "TBA",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786845631.4740314,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy"
+        ]
+    },
+    "4979920": {
+        "Title": "Checkmate Rush",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4979920/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4979920/98a79cf370367b804721636741874076b496fbd9/header.jpg?t=1786838628",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786845649.2696989,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5039260": {
+        "Title": "Total Synthesis",
+        "Email": "support@sinter-labs.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5039260/",
+        "Site": "https://www.sinter-labs.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5039260/765c92ec7d00aed4df0b2af05b9bf99e3f8beef2/header.jpg?t=1786837301",
+        "Date": "August 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786845661.3174648,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "5062880": {
+        "Title": "Close the Sky",
+        "Email": "",
+        "Discord": "https://discord.gg/JGFDEzKXaX",
+        "URL": "https://store.steampowered.com/app/5062880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5062880/65e8c3e4bb68f3e6d52e5d3fed439b139939bdec/header.jpg?t=1786841504",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786845674.353028,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tower defense",
+            "base building",
+            "resource management",
+            "management",
+            "economy",
+            "tactical"
+        ]
+    },
+    "5080520": {
+        "Title": "Gas Station Simulator",
+        "Email": "",
+        "Discord": "https://discord.gg/7Ec6WMXdt",
+        "URL": "https://store.steampowered.com/app/5080520/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5080520/755623d2bec71b6805209c745fa45cd3f4bdd62e/header.jpg?t=1786842567",
+        "Date": "December 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786845679.1678195,
+        "MatchedTags": [
+            "management",
+            "resource management"
+        ]
+    },
+    "5090670": {
+        "Title": "Beach Manager Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5090670/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5090670/b5c177f84461c12bfebb2a77df3c18f203cac939/header.jpg?t=1786840548",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786845684.4862165,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
