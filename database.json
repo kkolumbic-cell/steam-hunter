@@ -31286,9 +31286,9 @@
         "URL": "https://store.steampowered.com/app/3426310/",
         "Site": "https://jailbreakthegame.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3426310/001282fc0f5b899e1e0d37dcc911c4a4325d92c4/header.jpg?t=1776254532",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-15",
-        "AddedTimestamp": 1776261980.8947988,
+        "Date": "2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786901781.1011875,
         "MatchedTags": [
             "colony sim"
         ]
@@ -130934,9 +130934,9 @@
         "URL": "https://store.steampowered.com/app/5027540/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5027540/2e06f500bad049b40bc15862e3e669b63ffd4ac6/header.jpg?t=1785857617",
-        "Date": "2026",
-        "AddedDate": "2026-08-04",
-        "AddedTimestamp": 1785858235.0170918,
+        "Date": "Jan 19, 2027",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786901835.043059,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -138103,7 +138103,7 @@
         "Email": "",
         "Discord": "https://discord.gg/WfNxFTs6Xy",
         "URL": "https://store.steampowered.com/app/5042390/",
-        "Site": "",
+        "Site": "https://thewindyproject.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5042390/41a5501172ef1d0206ddcaf0d997fac597f515a0/header.jpg?t=1786450848",
         "Date": "2027",
         "AddedDate": "2026-08-12",
@@ -142702,13 +142702,14 @@
         "URL": "https://store.steampowered.com/app/503540/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/503540/10c930066b1460b2145ce515750f35770eaeb32b/header.jpg?t=1786722660",
-        "Date": "2026",
-        "AddedDate": "2026-08-14",
-        "AddedTimestamp": 1786723668.3850121,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786901778.6376574,
         "MatchedTags": [
+            "resource management",
             "strategy",
-            "management",
-            "resource management"
+            "base building",
+            "management"
         ]
     },
     "4763920": {
@@ -145179,6 +145180,37 @@
             "strategy",
             "turn-based tactics",
             "turn-based combat"
+        ]
+    },
+    "3937470": {
+        "Title": "Sally Face 2",
+        "Email": "",
+        "Discord": "https://discord.com/invite/dzdBCCX",
+        "URL": "https://store.steampowered.com/app/3937470/",
+        "Site": "http://portablemoose.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3937470/dd99845ce80ad49c4ef0668163aff13c17c3ae3d/header.jpg?t=1786900086",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786901783.8131616,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5018670": {
+        "Title": "Cabin Heart",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5018670/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5018670/88864798adbc5b0ee3c66e7c3701c58fd9245eb9/header.jpg?t=1786899291",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786901831.7055724,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
         ]
     }
 }
