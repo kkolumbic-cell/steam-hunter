@@ -94936,9 +94936,9 @@
         "URL": "https://store.steampowered.com/app/4802140/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4802140/ff2c48903df726351fa885abb7c904801a1b2409/header.jpg?t=1782433422",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-12",
-        "AddedTimestamp": 1786547867.4279885,
+        "Date": "Q4 2028",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786916230.3437014,
         "MatchedTags": [
             "psychological horror",
             "survival horror"
@@ -105049,7 +105049,7 @@
     "4906320": {
         "Title": "Fog'n'Silence",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/pjsTagmH",
         "URL": "https://store.steampowered.com/app/4906320/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4906320/893d8ce11f98f4ba882da120bb8844fb97f4a8f1/header.jpg?t=1783515052",
@@ -145228,6 +145228,52 @@
         "AddedTimestamp": 1786906224.9590394,
         "MatchedTags": [
             "management"
+        ]
+    },
+    "4214910": {
+        "Title": "Nuclear Engineer Tycoon",
+        "Email": "info@studioask.tech",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4214910/",
+        "Site": "https://www.studioask.tech",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4214910/499ca7147c72fefd8e614471fee3b01adc81c1b9/header.jpg?t=1786913820",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786916203.2012975,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "management",
+            "base building",
+            "resource management"
+        ]
+    },
+    "5044760": {
+        "Title": "SALT SWEEPER",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5044760/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044760/6b49a0de7a1e80f2202fe0fd450cf49cbc4b6860/header.jpg?t=1786913194",
+        "Date": "December 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786916260.6614342,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "5060410": {
+        "Title": "What Iron Cannot Hold",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5060410/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5060410/f50e33bf684bce9d8c697ea389acc5a7e3945b21/header.jpg?t=1786914244",
+        "Date": "2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786916263.15061,
+        "MatchedTags": [
+            "resource management"
         ]
     }
 }
