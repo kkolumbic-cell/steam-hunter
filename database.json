@@ -7040,7 +7040,7 @@
     },
     "4361980": {
         "Title": "Veneer V\u00f8lt",
-        "Email": "support@kindiespirits.com, hello@kindiespirits.com",
+        "Email": "hello@kindiespirits.com, support@kindiespirits.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4361980/",
         "Site": "https://www.kindiespirits.com",
@@ -38504,15 +38504,16 @@
     },
     "4635010": {
         "Title": "Dead Saints Parade",
-        "Email": "",
+        "Email": "jho@jhorro.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4635010/",
-        "Site": "",
+        "Site": "https://www.jhorro.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4635010/4d9ae073f4f7e59a6e4973e66c3ba7e09ef1a44c/header.jpg?t=1776889935",
         "Date": "Q2 2027",
         "AddedDate": "2026-04-22",
         "AddedTimestamp": 1776892338.5617473,
         "MatchedTags": [
+            "horror",
             "psychological horror"
         ]
     },
@@ -63263,9 +63264,9 @@
         "URL": "https://store.steampowered.com/app/4731830/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4731830/273e19185561e1c3d4d17f80535942821026974c/header.jpg?t=1779484529",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-22",
-        "AddedTimestamp": 1779485907.224144,
+        "Date": "Sep 16, 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786919985.6891754,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -109436,7 +109437,7 @@
     },
     "4926400": {
         "Title": "Numble",
-        "Email": "support@playwithk.de, info@playwithk.de",
+        "Email": "info@playwithk.de, support@playwithk.de",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4926400/",
         "Site": "https://www.playwithk.de/en/projects/",
@@ -145274,6 +145275,37 @@
         "AddedTimestamp": 1786916263.15061,
         "MatchedTags": [
             "resource management"
+        ]
+    },
+    "3008730": {
+        "Title": "Fable's End Online",
+        "Email": "info@dragonleafgaming.com",
+        "Discord": "https://discord.gg/789yW3fA",
+        "URL": "https://store.steampowered.com/app/3008730/",
+        "Site": "https://www.dragonleafgaming.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3008730/345a3a377a78b7e7d3d442c6aab409e38b99753b/header.jpg?t=1786918580",
+        "Date": "TBA",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786919963.2666225,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "5077620": {
+        "Title": "Superposition",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5077620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5077620/c9a3fac44cdc81fa1a7a085192c077c8eb141366/header.jpg?t=1786918789",
+        "Date": "Aug 21, 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786920013.6997235,
+        "MatchedTags": [
+            "survival horror",
+            "psychological horror",
+            "horror"
         ]
     }
 }
