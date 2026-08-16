@@ -59546,7 +59546,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4690030/",
-        "Site": "",
+        "Site": "https://www.weapergame.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4690030/28726a9dc3c3e1a8aa2bf79bca5af987cc8c6a59/header.jpg?t=1778957928",
         "Date": "October 2026",
         "AddedDate": "2026-05-16",
@@ -84941,9 +84941,9 @@
         "URL": "https://store.steampowered.com/app/4525860/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4525860/d1e16c65046230dabf703258fc4bc216c615e454/header.jpg?t=1781464166",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-14",
-        "AddedTimestamp": 1781467237.3666475,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786898682.5443335,
         "MatchedTags": [
             "economy",
             "management"
@@ -124138,9 +124138,9 @@
         "URL": "https://store.steampowered.com/app/4983380/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4983380/2d93dca2977055316ee0429e0988fa6ed349115b/header.jpg?t=1785267806",
-        "Date": "November 2026",
-        "AddedDate": "2026-07-28",
-        "AddedTimestamp": 1785271172.485802,
+        "Date": "December 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786898732.6683156,
         "MatchedTags": [
             "management"
         ]
@@ -127461,9 +127461,9 @@
         "URL": "https://store.steampowered.com/app/4995330/",
         "Site": "https://plushtrapa670.wixsite.com/fwugsoftware/dogs-of-the-dark",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4995330/db4d4cdd47d0e1aa40b0e619549e0f967efee782/header.jpg?t=1785500157",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-31",
-        "AddedTimestamp": 1785503410.101099,
+        "Date": "Aug 16, 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786898741.5255635,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -145163,6 +145163,22 @@
             "turn-based tactics",
             "city builder",
             "colony sim"
+        ]
+    },
+    "5066420": {
+        "Title": "Grim Looters",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5066420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5066420/4d21fc347b591bea801ea1a3f460c09527eaae68/header.jpg?t=1786896012",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786898763.5536313,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based combat"
         ]
     }
 }
