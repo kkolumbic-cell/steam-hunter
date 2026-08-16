@@ -34604,9 +34604,9 @@
         "URL": "https://store.steampowered.com/app/4593860/",
         "Site": "https://hetocode.fi",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4593860/9b0ed4ead0f386c62ad4fd00e27c074e23d8ca9d/header.jpg?t=1776500830",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-18",
-        "AddedTimestamp": 1776503218.358035,
+        "Date": "Sep 25, 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786885418.4473624,
         "MatchedTags": [
             "strategy",
             "tower defense"
@@ -120414,9 +120414,9 @@
         "AddedDate": "2026-07-27",
         "AddedTimestamp": 1785172415.8318584,
         "MatchedTags": [
-            "strategy",
             "turn-based tactics",
-            "turn-based strategy"
+            "turn-based strategy",
+            "strategy"
         ]
     },
     "3444440": {
@@ -136833,9 +136833,9 @@
         "URL": "https://store.steampowered.com/app/1416510/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1416510/6efdfcf16c1f4e0a7c8ebfde117a853bb2515122/header.jpg?t=1786367942",
-        "Date": "TBA",
-        "AddedDate": "2026-08-10",
-        "AddedTimestamp": 1786369586.831001,
+        "Date": "To be announced",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786885399.4981954,
         "MatchedTags": [
             "city builder",
             "strategy",
@@ -143208,7 +143208,7 @@
     "5014290": {
         "Title": "Shell as Hard as Steel",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/9NjhsJCcDG",
         "URL": "https://store.steampowered.com/app/5014290/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5014290/9a68f491b347ee0301dddcb959db23ee408cfb8e/header.jpg?t=1786747512",
@@ -143707,7 +143707,7 @@
         "Email": "",
         "Discord": "https://discord.gg/aFruHE5SFq",
         "URL": "https://store.steampowered.com/app/5063210/",
-        "Site": "",
+        "Site": "https://last-bastion-protocol.de",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5063210/06b0f940ba7574c76af3e0d6430ab30b794f88dd/header.jpg?t=1786773438",
         "Date": "Coming soon",
         "AddedDate": "2026-08-15",
@@ -145025,6 +145025,56 @@
         "AddedTimestamp": 1786880269.6425211,
         "MatchedTags": [
             "base building"
+        ]
+    },
+    "5022610": {
+        "Title": "Ash Run '84",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5022610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5022610/9196409e7e17118199394c12c75167c623d123dd/header.jpg?t=1786881165",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786885474.5272963,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg",
+            "turn-based tactics",
+            "turn-based strategy",
+            "turn-based combat",
+            "tactical"
+        ]
+    },
+    "5043760": {
+        "Title": "Questris",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5043760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5043760/262a88e69e0df1231a77b0d1806c84179c177915/header.jpg?t=1786881144",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786885486.3033242,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "5069130": {
+        "Title": "Magna Conquest",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5069130/",
+        "Site": "https://www.youtube.com/@magnaconquest",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5069130/ea61d9b25a9d4d980ab7aacc22b725bf6b032b68/header.jpg?t=1786884418",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786885504.0427036,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "real time tactics"
         ]
     }
 }
