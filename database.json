@@ -127598,9 +127598,9 @@
         "URL": "https://store.steampowered.com/app/4919240/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4919240/43b4b1bbb205cacbb83cae212ab5ae3b66d2a0b3/header.jpg?t=1785509620",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-31",
-        "AddedTimestamp": 1785512019.2064438,
+        "Date": "Aug 16, 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786891366.194177,
         "MatchedTags": [
             "strategy"
         ]
@@ -145090,6 +145090,35 @@
         "AddedTimestamp": 1786888030.9128819,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4901810": {
+        "Title": "HakoAtama",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4901810/",
+        "Site": "https://www.mutsupro.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4901810/e85a240831599dd3bf7dbff64ffade33e39e1074/header.jpg?t=1786891258",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786891354.7125635,
+        "MatchedTags": [
+            "survival horror",
+            "horror"
+        ]
+    },
+    "5008690": {
+        "Title": "Aftergreen",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5008690/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5008690/4cf465a86364bc831531d3a2bfc7e715943f3fab/header.jpg?t=1786888908",
+        "Date": "2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786891379.2927756,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
