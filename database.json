@@ -11672,9 +11672,9 @@
         "URL": "https://store.steampowered.com/app/4413250/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4413250/6eedab21c396c98d716a6c417ebb022868b92d79/header.jpg?t=1774054053",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-05-20",
-        "AddedTimestamp": 1779266205.5035584,
+        "Date": "Q2 2027",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786850099.768485,
         "MatchedTags": [
             "strategy"
         ]
@@ -26398,7 +26398,7 @@
     "4519480": {
         "Title": "Outposters",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/BbeqAkh6c",
         "URL": "https://store.steampowered.com/app/4519480/",
         "Site": "https://capuchin.games/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4519480/d66dabef8c15ff02fb123ca7bbe16c9317b51b27/header.jpg?t=1775762687",
@@ -144813,6 +144813,65 @@
         "AddedTimestamp": 1786845684.4862165,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "5042030": {
+        "Title": "North Bay Protocol",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5042030/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5042030/17e6a08e7bce37d47dbd9174eeb3e7fa85bbcc92/header.jpg?t=1786847255",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786850147.3631701,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5056120": {
+        "Title": "Holy Relic Shop Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5056120/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5056120/e9d82319a5de72d2c50148f5b8864776f2bdd3ec/header.jpg?t=1786848341",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786850152.6442442,
+        "MatchedTags": [
+            "management",
+            "economy"
+        ]
+    },
+    "5081570": {
+        "Title": "Distinct Sudoku",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5081570/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5081570/2e8b16b2889cbfa5d8a20ebfaa9ca4f2c89b70fc/header.jpg?t=1786847129",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786850169.0179641,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5086810": {
+        "Title": "\u9b3c\u7262\u95dc",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5086810/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5086810/fd6bac00a84c92e421bc449387f76ae527ac4b23/header.jpg?t=1786848041",
+        "Date": "Aug 26, 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786850172.068444,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
         ]
     }
 }
