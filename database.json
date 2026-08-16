@@ -92901,9 +92901,9 @@
         "URL": "https://store.steampowered.com/app/4847780/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4847780/da34f3cdbe25927890ba3187e8ed6184ef4202ca/header.jpg?t=1782225495",
-        "Date": "September 2026",
-        "AddedDate": "2026-06-23",
-        "AddedTimestamp": 1782233214.9451392,
+        "Date": "Sep 1, 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786853057.79174,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -117092,9 +117092,9 @@
         "URL": "https://store.steampowered.com/app/4952800/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4952800/890061ae4fcacf3403e74ef369d57612c51b6ab4/header.jpg?t=1784628078",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-21",
-        "AddedTimestamp": 1784635491.1952784,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786853071.9987862,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -144872,6 +144872,21 @@
             "strategy",
             "turn-based strategy",
             "turn-based combat"
+        ]
+    },
+    "5074820": {
+        "Title": "Dragon Era: Rogue Slots",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5074820/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5074820/ee7787664bc648de29e160a5e83111301a1f51d6/header.jpg?t=1786850241",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-16",
+        "AddedTimestamp": 1786853092.083432,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
         ]
     }
 }
