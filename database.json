@@ -42488,9 +42488,9 @@
         "URL": "https://store.steampowered.com/app/4659340/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4659340/8be97d94fb4f048895fa27d5ef461296d07863b1/header.jpg?t=1777290628",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-11",
-        "AddedTimestamp": 1786476505.830177,
+        "Date": "Aug 18, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1787010022.3458202,
         "MatchedTags": [
             "resource management",
             "economy",
@@ -47255,22 +47255,6 @@
         "AddedTimestamp": 1785679108.8547118,
         "MatchedTags": [
             "strategy"
-        ]
-    },
-    "3883650": {
-        "Title": "Lexomancer",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/3883650/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3883650/6318c3fcf9e606a589d03b23c364edd4b1ce6c7f/header.jpg?t=1777587469",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-30",
-        "AddedTimestamp": 1777590729.1252935,
-        "MatchedTags": [
-            "turn-based tactics",
-            "resource management",
-            "turn-based strategy"
         ]
     },
     "4355180": {
@@ -102919,9 +102903,9 @@
         "URL": "https://store.steampowered.com/app/4909300/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4909300/8add4a1a643181fcb83a21c2cfbdd36a139d681e/header.jpg?t=1783353886",
-        "Date": "Q1 2027",
-        "AddedDate": "2026-07-06",
-        "AddedTimestamp": 1783355686.2368457,
+        "Date": "Q2 2027",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1787010037.068965,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -107352,9 +107336,9 @@
         "URL": "https://store.steampowered.com/app/4214060/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4214060/b2e3ac77707e6a1bfef802e821c5538332b51811/header.jpg?t=1783693967",
-        "Date": "TBA",
-        "AddedDate": "2026-07-10",
-        "AddedTimestamp": 1783695821.183599,
+        "Date": "Aug 17, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1787010013.2341254,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -128184,9 +128168,9 @@
         "URL": "https://store.steampowered.com/app/4000970/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000970/b08f6a10a0dcab4ab18d4a20f6590f88f3bbbfed/header.jpg?t=1785547338",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-13",
-        "AddedTimestamp": 1786579219.7122774,
+        "Date": "Aug 17, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1787010008.001822,
         "MatchedTags": [
             "strategy",
             "psychological horror"
@@ -130760,9 +130744,9 @@
         "URL": "https://store.steampowered.com/app/4445000/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4445000/1101264553a599837693cbdb759f75f1208a8f4a/header.jpg?t=1785856592",
-        "Date": "Aug 21, 2026",
-        "AddedDate": "2026-08-08",
-        "AddedTimestamp": 1786208038.5821545,
+        "Date": "August 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1787010020.3340986,
         "MatchedTags": [
             "strategy",
             "horror",
@@ -147121,6 +147105,20 @@
             "strategy",
             "real time tactics",
             "tactical"
+        ]
+    },
+    "5080810": {
+        "Title": "Yatai 8",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5080810/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5080810/9fcdb6d86f755a5495ddd4557c8102f37cdee593/header.jpg?t=1787008164",
+        "Date": "Oct 14, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1787010067.2269883,
+        "MatchedTags": [
+            "psychological horror"
         ]
     }
 }
