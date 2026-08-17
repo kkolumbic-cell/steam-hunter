@@ -24214,7 +24214,7 @@
     "4583150": {
         "Title": "Greda Inferno",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/csK2cW47qz",
         "URL": "https://store.steampowered.com/app/4583150/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4583150/425d81d85af0c3d3148b7d8706f286d20f549a37/header.jpg?t=1775586931",
@@ -40470,7 +40470,7 @@
     },
     "4625290": {
         "Title": "Incident Archives - Flight 882",
-        "Email": "business@astronixgames.com, hello@astronixgames.com, support@astronixgames.com",
+        "Email": "support@astronixgames.com, business@astronixgames.com, hello@astronixgames.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4625290/",
         "Site": "https://www.astronixgames.com/",
@@ -59362,9 +59362,9 @@
         "URL": "https://store.steampowered.com/app/4712270/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4712270/1967a638645c18d70466dd84f5445f3f2b970743/header.jpg?t=1778890610",
-        "Date": "September 2026",
-        "AddedDate": "2026-05-16",
-        "AddedTimestamp": 1778904335.673068,
+        "Date": "Aug 17, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1787003072.3337417,
         "MatchedTags": [
             "turn-based strategy",
             "turn-based tactics",
@@ -62889,9 +62889,9 @@
         "URL": "https://store.steampowered.com/app/4702540/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4702540/3cdd42e7795c30630f2bff55f4293f91fd8aebe9/header.jpg?t=1779463146",
-        "Date": "Aug 17, 2026",
-        "AddedDate": "2026-08-11",
-        "AddedTimestamp": 1786482436.6664035,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1787003068.0359848,
         "MatchedTags": [
             "management"
         ]
@@ -115965,9 +115965,9 @@
         "URL": "https://store.steampowered.com/app/4970660/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4970660/65fc1b3e9fd607d0c42de336bc32c20b6dd09bff/header.jpg?t=1784568025",
-        "Date": "Sep 4, 2026",
-        "AddedDate": "2026-08-11",
-        "AddedTimestamp": 1786461584.2034464,
+        "Date": "Sep 10, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1787003101.551333,
         "MatchedTags": [
             "strategy"
         ]
@@ -146951,6 +146951,112 @@
         "Date": "Nov 2, 2026",
         "AddedDate": "2026-08-17",
         "AddedTimestamp": 1786999702.4455204,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4765600": {
+        "Title": "The Ronin: Samurai Gunslinger",
+        "Email": "",
+        "Discord": "https://discord.gg/sAfJjBvAgR",
+        "URL": "https://store.steampowered.com/app/4765600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4765600/f817d71122b8e0f80b08a034d794ab8227a0a0ed/header.jpg?t=1787002106",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1787003077.203055,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4978960": {
+        "Title": "MixUp!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4978960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4978960/0987e799111b83cd6a42d5372f725ab1cbd284d7/header.jpg?t=1786999971",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1787003104.1851757,
+        "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "5007120": {
+        "Title": "TD VOID",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5007120/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5007120/f681a4deec47072891de67030b490816fffeb15b/header.jpg?t=1786999687",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1787003116.6189177,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "base building"
+        ]
+    },
+    "5023200": {
+        "Title": "Gladatora",
+        "Email": "",
+        "Discord": "https://discord.gg/TGQp2XvD2b",
+        "URL": "https://store.steampowered.com/app/5023200/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5023200/b36ce4019f3dd047c497ac880af9c9f3400ec0d9/header.jpg?t=1786999719",
+        "Date": "Sep 4, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1787003127.7316434,
+        "MatchedTags": [
+            "turn-based strategy"
+        ]
+    },
+    "5046950": {
+        "Title": "Phantasm Cube",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5046950/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5046950/58b5e93f3f1780b6bc08a505b1e2008e72cb4645/header.jpg?t=1787002172",
+        "Date": "2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1787003137.3952844,
+        "MatchedTags": [
+            "resource management",
+            "base building",
+            "management",
+            "colony sim",
+            "strategy"
+        ]
+    },
+    "5096770": {
+        "Title": "War.exe",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5096770/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5096770/99268fedfb309c03c72e3acdcf561dce377c8795/header.jpg?t=1787002932",
+        "Date": "2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1787003164.5929973,
+        "MatchedTags": [
+            "resource management",
+            "strategy"
+        ]
+    },
+    "5098280": {
+        "Title": "RIGGED2EXPLODE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5098280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5098280/718f7760bc25022aabb7ccbbaa6db3b014432d36/header.jpg?t=1787002299",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1787003166.741693,
         "MatchedTags": [
             "tactical"
         ]
