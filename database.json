@@ -3434,9 +3434,9 @@
         "URL": "https://store.steampowered.com/app/4136430/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4136430/ed98d9d7edd099f41037027115db61e937a4b0ef/header.jpg?t=1772863976",
-        "Date": "Aug 6, 2026",
-        "AddedDate": "2026-07-22",
-        "AddedTimestamp": 1784721874.6647067,
+        "Date": "6 Aug, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786967040.9008772,
         "MatchedTags": [
             "turn-based tactics",
             "turn-based strategy",
@@ -36519,9 +36519,9 @@
         "URL": "https://store.steampowered.com/app/4576740/",
         "Site": "https://triomatica.games",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4576740/446a93d8e032c0dde244f3c6c612ff16953ecc72/header.jpg?t=1776760871",
-        "Date": "Aug 17, 2026",
-        "AddedDate": "2026-07-16",
-        "AddedTimestamp": 1784211960.7999828,
+        "Date": "17 Aug, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786967052.26113,
         "MatchedTags": [
             "strategy",
             "tactical"
@@ -116997,8 +116997,8 @@
         "AddedDate": "2026-07-21",
         "AddedTimestamp": 1784627161.1268024,
         "MatchedTags": [
-            "strategy",
-            "tactical"
+            "tactical",
+            "strategy"
         ]
     },
     "4972200": {
@@ -119681,9 +119681,9 @@
         "URL": "https://store.steampowered.com/app/4950880/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4950880/ea50fb9db019a12cf209d0d7d9b4627540fafdfd/header.jpg?t=1784811786",
-        "Date": "Aug 6, 2026",
-        "AddedDate": "2026-07-24",
-        "AddedTimestamp": 1784894317.6723833,
+        "Date": "6 Aug, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786967083.0426524,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -128554,9 +128554,9 @@
         "URL": "https://store.steampowered.com/app/4936830/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4936830/75d47e087f648bcfed4dea70e88e350f20971580/header.jpg?t=1785575347",
-        "Date": "Aug 16, 2026",
-        "AddedDate": "2026-08-01",
-        "AddedTimestamp": 1785576257.7499418,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786967080.3826752,
         "MatchedTags": [
             "strategy"
         ]
@@ -129883,9 +129883,9 @@
         "URL": "https://store.steampowered.com/app/4707390/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707390/6ba04586226b00b41775c0173742162f9ff13e9a/header.jpg?t=1785791230",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-03",
-        "AddedTimestamp": 1785792714.473186,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786967061.1885188,
         "MatchedTags": [
             "strategy",
             "tower defense"
@@ -142677,9 +142677,9 @@
         "URL": "https://store.steampowered.com/app/5081690/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5081690/85dd8af84daad1fb7969c977e613b68a2d35870f/header.jpg?t=1786719495",
-        "Date": "Sep 1, 2026",
-        "AddedDate": "2026-08-14",
-        "AddedTimestamp": 1786720347.029546,
+        "Date": "1 Sep, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786967128.2182975,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -145924,6 +145924,70 @@
         "AddedTimestamp": 1786963887.1332433,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4126750": {
+        "Title": "GrimHold",
+        "Email": "",
+        "Discord": "https://discord.gg/Z4c2PNkRwn",
+        "URL": "https://store.steampowered.com/app/4126750/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126750/ca83653ed637ecaab77f5c30009883d3b0289d57/header.jpg?t=1786964857",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786967037.8753812,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat",
+            "tactical"
+        ]
+    },
+    "5038420": {
+        "Title": "I Hear the Forest",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5038420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5038420/92e95c5a551ad95f42e4a87f7dd9ce7a926f1e79/header.jpg?t=1786964734",
+        "Date": "2027",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786967105.3949873,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5038470": {
+        "Title": "Job Burnout",
+        "Email": "podobainteractive@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5038470/",
+        "Site": "https://x.com/podoba_interact",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5038470/863a86f0f0e6598c9179a6fedf73969a067cee13/header.jpg?t=1786964754",
+        "Date": "2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786967108.4764667,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "5043400": {
+        "Title": "Digging Dudes",
+        "Email": "",
+        "Discord": "https://discord.com/invite/Ufp3DuWzAZ",
+        "URL": "https://store.steampowered.com/app/5043400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5043400/85159717a440e80afe61969cd93a05e2c47e2a8f/header.jpg?t=1786966016",
+        "Date": "2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786967121.6918106,
+        "MatchedTags": [
+            "management",
+            "colony sim",
+            "resource management"
         ]
     }
 }
