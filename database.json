@@ -7259,9 +7259,9 @@
         "URL": "https://store.steampowered.com/app/3921010/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3921010/57358f3516c4c1fc6c4751dbf4e747585ace699a/header.jpg?t=1773418491",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-13",
-        "AddedTimestamp": 1773421173.3069355,
+        "Date": "2027",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786936511.5236764,
         "MatchedTags": [
             "real time tactics",
             "strategy"
@@ -76545,9 +76545,9 @@
         "URL": "https://store.steampowered.com/app/4778320/",
         "Site": "https://aiya-desire.vnlworks.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4778320/7bc6f0b7955d8fa78dbc6e24f2be66511e6688b3/header.jpg?t=1780725483",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-22",
-        "AddedTimestamp": 1782131461.3759258,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786936528.039009,
         "MatchedTags": [
             "horror"
         ]
@@ -122171,9 +122171,9 @@
         "URL": "https://store.steampowered.com/app/4781060/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4781060/e8588b84e5e8f2c162063b71a5b75efc55590264/header.jpg?t=1784990103",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-25",
-        "AddedTimestamp": 1784993422.3246713,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786936531.5003633,
         "MatchedTags": [
             "strategy",
             "grand strategy",
@@ -141763,20 +141763,6 @@
             "turn-based combat"
         ]
     },
-    "5029730": {
-        "Title": "\u30cf\u30a4\u30d6\u30e9\u30b7\u30eb\u306e\u9b54\u738b",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/5029730/",
-        "Site": "",
-        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5029730/dfac898f83c94a0eb6f5b679aadbd3b1b104c996/header.jpg?t=1786667967",
-        "Date": "2027",
-        "AddedDate": "2026-08-14",
-        "AddedTimestamp": 1786675831.7671022,
-        "MatchedTags": [
-            "turn-based combat"
-        ]
-    },
     "5039820": {
         "Title": "\u307c\u304f\u305f\u3061\u306e\u6b8b\u97ff",
         "Email": "",
@@ -145379,6 +145365,50 @@
         "AddedTimestamp": 1786931944.1416104,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4895580": {
+        "Title": "PROVENANCE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4895580/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895580/6a09a882b81e8755e9ee00fc9b93dfeab39d60c9/header.jpg?t=1786935777",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786936552.9969583,
+        "MatchedTags": [
+            "economy",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4919340": {
+        "Title": "DON'T MAKE A SOUND",
+        "Email": "postmaster@avggames.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4919340/",
+        "Site": "https://avggames.com/DONT-MAKE-A-SOUND/official-website/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4919340/3e748bd8e3f725b33594889d022342a9746f3b78/header.jpg?t=1786932051",
+        "Date": "2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786936555.3575797,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4976640": {
+        "Title": "Fengshen: Immortal Reborn",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4976640/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4976640/82772865288feb3058176532a3286c087eacba48/header.jpg?t=1786932601",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786936564.743622,
+        "MatchedTags": [
+            "tactical rpg"
         ]
     }
 }
