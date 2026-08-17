@@ -67034,9 +67034,9 @@
         "URL": "https://store.steampowered.com/app/4746960/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4746960/c38e5731863b0d1df3aaead6f8b07a9783d08b26/header.jpg?t=1779969753",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-16",
-        "AddedTimestamp": 1786876987.8403347,
+        "Date": "Aug 17, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786995917.0473137,
         "MatchedTags": [
             "horror"
         ]
@@ -86822,7 +86822,9 @@
         "MatchedTags": [
             "strategy",
             "tactical",
-            "turn-based combat"
+            "turn-based combat",
+            "turn-based strategy",
+            "tactical rpg"
         ]
     },
     "4831750": {
@@ -122934,9 +122936,9 @@
         "URL": "https://store.steampowered.com/app/4810260/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4810260/0f127702becfdb43fd481c8b2e2850e38254874b/header.jpg?t=1785174948",
-        "Date": "Aug 21, 2026",
-        "AddedDate": "2026-07-27",
-        "AddedTimestamp": 1785178292.8102417,
+        "Date": "Aug 17, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786995934.0296655,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -134915,9 +134917,9 @@
         "URL": "https://store.steampowered.com/app/4898750/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4898750/c42991effdafc13b72d30eff13476cccc617e5ec/header.jpg?t=1786111607",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-07",
-        "AddedTimestamp": 1786115522.345564,
+        "Date": "Aug 21, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786995952.7225828,
         "MatchedTags": [
             "resource management",
             "management"
@@ -136133,9 +136135,9 @@
         "URL": "https://store.steampowered.com/app/5050070/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5050070/7e0085b84c910815c202e02f0c975a4a3d04d200/header.jpg?t=1786187473",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-08-11",
-        "AddedTimestamp": 1786456115.0086753,
+        "Date": "Aug 22, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786995980.1877406,
         "MatchedTags": [
             "turn-based tactics"
         ]
@@ -140393,9 +140395,9 @@
         "URL": "https://store.steampowered.com/app/4998980/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4998980/e4387176f97fe745770edab34a7f1077e13cf123/header.jpg?t=1786594461",
-        "Date": "To be announced",
-        "AddedDate": "2026-08-13",
-        "AddedTimestamp": 1786597812.2969677,
+        "Date": "October 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786995973.755748,
         "MatchedTags": [
             "resource management"
         ]
@@ -146780,6 +146782,86 @@
             "strategy",
             "turn-based tactics",
             "turn-based combat"
+        ]
+    },
+    "4844830": {
+        "Title": "Nexus: Quantum Industries",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4844830/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4844830/7866a12a8775437c21a3f9e1a74554feda749968/header.jpg?t=1786994559",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786995946.9648983,
+        "MatchedTags": [
+            "resource management",
+            "management",
+            "strategy"
+        ]
+    },
+    "4939530": {
+        "Title": "ByteBuddies",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4939530/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4939530/168b1549e39de95f5f10876b90303c9732d3db2c/header.jpg?t=1786995808",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786995958.6808853,
+        "MatchedTags": [
+            "survival horror",
+            "horror",
+            "psychological horror",
+            "resource management"
+        ]
+    },
+    "4947760": {
+        "Title": "I Think I Killed Someone",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4947760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4947760/7c6469fa67d7282cf68aace770936e868a864554/header.jpg?t=1786994705",
+        "Date": "2027",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786995961.87333,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "5069510": {
+        "Title": "The Offering",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5069510/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5069510/7e30d5aba1da4ef1f5b29a8d05a400c0c1b8512e/header.jpg?t=1786993518",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786995994.7385108,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "resource management",
+            "management"
+        ]
+    },
+    "5092140": {
+        "Title": "American Gold Rush",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5092140/",
+        "Site": "https://www.kvayo.io/american-gold-rush.html",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5092140/8a5b3a4fb93b09add8ddf3a050c8a7f09071ac1f/header.jpg?t=1786995668",
+        "Date": "November 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786995997.6557214,
+        "MatchedTags": [
+            "economy",
+            "management"
         ]
     }
 }
