@@ -21161,11 +21161,10 @@
         "AddedTimestamp": 1784752387.044477,
         "MatchedTags": [
             "resource management",
-            "strategy",
             "economy",
-            "colony sim",
             "management",
-            "tactical"
+            "tactical",
+            "strategy"
         ]
     },
     "4552160": {
@@ -40734,10 +40733,8 @@
         "AddedDate": "2026-07-25",
         "AddedTimestamp": 1785008186.5567026,
         "MatchedTags": [
-            "strategy",
-            "city builder",
-            "economy",
             "management",
+            "economy",
             "resource management"
         ]
     },
@@ -104148,7 +104145,7 @@
     "4536760": {
         "Title": "Southern Lights: Broken Frequency",
         "Email": "info@glynos-interactive.com",
-        "Discord": "",
+        "Discord": "https://discord.com/invite/yX7QcqNDm",
         "URL": "https://store.steampowered.com/app/4536760/",
         "Site": "https://glynos-interactive.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4536760/61a797b6ad5b5cc2a52a3967c68ce1f578b0d9b2/header.jpg?t=1783452180",
@@ -113152,11 +113149,10 @@
         "AddedDate": "2026-07-31",
         "AddedTimestamp": 1785495778.988914,
         "MatchedTags": [
-            "strategy",
-            "turn-based strategy",
             "turn-based tactics",
-            "tactical",
-            "turn-based combat"
+            "turn-based strategy",
+            "turn-based combat",
+            "strategy"
         ]
     },
     "4926090": {
@@ -138021,7 +138017,8 @@
             "turn-based strategy",
             "grand strategy",
             "turn-based tactics",
-            "tactical"
+            "tactical",
+            "strategy"
         ]
     },
     "4947510": {
@@ -138481,9 +138478,9 @@
         "URL": "https://store.steampowered.com/app/5044080/",
         "Site": "https://www.hatsteelgames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5044080/de613ea2eee7e0d6849c9d3ac4c99afe5095f479/header.jpg?t=1786473148",
-        "Date": "2026",
-        "AddedDate": "2026-08-15",
-        "AddedTimestamp": 1786780037.818377,
+        "Date": "Dec 10, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786978130.2489111,
         "MatchedTags": [
             "horror"
         ]
@@ -146140,6 +146137,88 @@
         "Date": "Coming soon",
         "AddedDate": "2026-08-17",
         "AddedTimestamp": 1786974998.9294171,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4955960": {
+        "Title": "Space Industry",
+        "Email": "",
+        "Discord": "https://discord.gg/3xYpsAFRy8",
+        "URL": "https://store.steampowered.com/app/4955960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4955960/2572bc4e7dd86b9ce0e42c6fa7c155a6b1da954f/header.jpg?t=1786976601",
+        "Date": "Dec 4, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786978111.3447435,
+        "MatchedTags": [
+            "strategy",
+            "base building",
+            "management",
+            "economy"
+        ]
+    },
+    "4973040": {
+        "Title": "Technologia",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4973040/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4973040/ae44fc920bbeb538d5cedb5553ae905be187e4a1/header.jpg?t=1786977593",
+        "Date": "2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786978117.3581612,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "colony sim",
+            "turn-based combat",
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "5012120": {
+        "Title": "Bow & Banner",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5012120/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5012120/48b8f4922fdce60202c30e7f7b6fba41b25265ba/header.jpg?t=1786974977",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786978121.3808029,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5020540": {
+        "Title": "Tanto",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5020540/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5020540/13499b2311b1617635ae3a9e17297f304b6ac9e2/header.jpg?t=1786977492",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786978124.615887,
+        "MatchedTags": [
+            "horror",
+            "strategy",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "5085180": {
+        "Title": "Blind Gavel",
+        "Email": "",
+        "Discord": "https://discord.gg/wZ3ACd4h4A",
+        "URL": "https://store.steampowered.com/app/5085180/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5085180/f85090cf4bde76d6c6d8846feb9e6eba8c0c7aea/header.jpg?t=1786976808",
+        "Date": "Nov 3, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786978149.8926306,
         "MatchedTags": [
             "strategy"
         ]
