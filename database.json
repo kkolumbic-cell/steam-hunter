@@ -117667,9 +117667,9 @@
         "URL": "https://store.steampowered.com/app/4964410/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4964410/b8d2a426bda2969c64a990c8fe64ff3931f2a3ac/header.jpg?t=1784662084",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-21",
-        "AddedTimestamp": 1784666433.28826,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786960869.821589,
         "MatchedTags": [
             "resource management"
         ]
@@ -129388,9 +129388,9 @@
         "URL": "https://store.steampowered.com/app/4683320/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4683320/98a15da094b05f4caa7ce0f06307c149d30b8829/header.jpg?t=1785766672",
-        "Date": "To be announced",
-        "AddedDate": "2026-08-03",
-        "AddedTimestamp": 1785772618.2097795,
+        "Date": "Aug 17, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786960841.9461362,
         "MatchedTags": [
             "strategy"
         ]
@@ -130296,9 +130296,9 @@
         "URL": "https://store.steampowered.com/app/4977140/",
         "Site": "https://meridianstudios.games",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4977140/807b3f8f4b0d403a900ef2e7ca5fd82f63fa8408/header.jpg?t=1785819659",
-        "Date": "Aug 19, 2026",
-        "AddedDate": "2026-08-04",
-        "AddedTimestamp": 1785825889.428973,
+        "Date": "Aug 17, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786960873.228962,
         "MatchedTags": [
             "strategy"
         ]
@@ -144070,9 +144070,9 @@
         "URL": "https://store.steampowered.com/app/5066460/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5066460/3cad8e477d70819819e54be6dc68c29a5b03a525/header.jpg?t=1786805179",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-15",
-        "AddedTimestamp": 1786808318.725632,
+        "Date": "Aug 28, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786960906.9981456,
         "MatchedTags": [
             "economy"
         ]
@@ -144718,9 +144718,9 @@
         "URL": "https://store.steampowered.com/app/4904200/",
         "Site": "https://play-civitas.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4904200/f1a5929008a4441e21157305d271b95dba5ab12c/header.jpg?t=1786844817",
-        "Date": "TBA",
-        "AddedDate": "2026-08-16",
-        "AddedTimestamp": 1786845631.4740314,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786960862.0036693,
         "MatchedTags": [
             "strategy",
             "grand strategy"
@@ -145804,6 +145804,53 @@
         "MatchedTags": [
             "tactical rpg",
             "tactical"
+        ]
+    },
+    "4782550": {
+        "Title": "EXTERM",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4782550/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4782550/2c1e3e4e1666135cb11207b6848d8667d9daaf09/header.jpg?t=1786958401",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786960851.4719567,
+        "MatchedTags": [
+            "survival horror"
+        ]
+    },
+    "4909780": {
+        "Title": "Medium Rare",
+        "Email": "",
+        "Discord": "https://discord.gg/TTKvPF9qUF",
+        "URL": "https://store.steampowered.com/app/4909780/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4909780/e5a63f89b51e36f277abfaba622ea494129a446f/header.jpg?t=1786957928",
+        "Date": "2027",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786960864.497889,
+        "MatchedTags": [
+            "survival horror",
+            "horror",
+            "turn-based combat",
+            "psychological horror",
+            "turn-based tactics",
+            "turn-based strategy"
+        ]
+    },
+    "4929820": {
+        "Title": "Sal Terrae: in search of SALT",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4929820/",
+        "Site": "https://playsalterrae.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4929820/4f8db15f5361edb009735c01c309eb5e16e84912/header.jpg?t=1786959429",
+        "Date": "Q4 2028",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786960866.972103,
+        "MatchedTags": [
+            "resource management"
         ]
     }
 }
