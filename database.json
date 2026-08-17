@@ -112903,9 +112903,9 @@
         "URL": "https://store.steampowered.com/app/4597230/",
         "Site": "https://spellsandsploobies.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4597230/a26fdf57441a90509333b8853a653b96a7eac69e/header.jpg?t=1784212218",
-        "Date": "Dec 31, 2026",
-        "AddedDate": "2026-07-16",
-        "AddedTimestamp": 1784220237.0350559,
+        "Date": "Dec 31, 2027",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1787006686.7331853,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -113778,9 +113778,9 @@
         "URL": "https://store.steampowered.com/app/4913850/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4913850/f4675d72071a6f8202ecceebdec5b3e95f09cbf6/header.jpg?t=1784304503",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-17",
-        "AddedTimestamp": 1784309674.778895,
+        "Date": "Aug 21, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1787006708.8492346,
         "MatchedTags": [
             "strategy",
             "horror",
@@ -129494,9 +129494,9 @@
         "URL": "https://store.steampowered.com/app/4900320/",
         "Site": "https://yipe5.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4900320/015fdc1394e9add4c51b46625bc4ae7414cb5a6b/header.jpg?t=1785773282",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-03",
-        "AddedTimestamp": 1785780636.9017704,
+        "Date": "Aug 17, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1787006705.4010248,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -147058,6 +147058,68 @@
         "AddedDate": "2026-08-17",
         "AddedTimestamp": 1787003166.741693,
         "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "5052220": {
+        "Title": "LIMINAL ROOMS",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5052220/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052220/ce917ebe92a175f985009c34349dbe6870bf8688/header.jpg?t=1787004808",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1787006727.1651282,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5077530": {
+        "Title": "Blacksite Lazarus",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5077530/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5077530/ce48bf2cebf9ef409ba9e8f67045f0036d18e6dc/header.jpg?t=1787004923",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1787006735.0970244,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror",
+            "tactical"
+        ]
+    },
+    "5078760": {
+        "Title": "Uncosy",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5078760/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5078760/a8501104f20e1ce43345f396cd8a1042902b4d8f/header.jpg?t=1787006091",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1787006737.9724984,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "5079800": {
+        "Title": "Medieval - Embers of War 2",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5079800/",
+        "Site": "https://www.evil-bunneh.com/projects",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5079800/d28b82b0216f10514a31bcfd35e6f44bca1d65ad/header.jpg?t=1787004400",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1787006743.2089398,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
             "tactical"
         ]
     }
