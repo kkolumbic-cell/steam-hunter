@@ -42663,9 +42663,9 @@
         "URL": "https://store.steampowered.com/app/3335490/",
         "Site": "https://www.youtube.com/@SkyFabGame",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3335490/bb58405ddce01d649a7e7282e94e7e12499fa62b/header.jpg?t=1777307532",
-        "Date": "Aug 17, 2026",
-        "AddedDate": "2026-08-16",
-        "AddedTimestamp": 1786912871.9642668,
+        "Date": "Oct 27, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786999598.407849,
         "MatchedTags": [
             "base building",
             "economy",
@@ -114176,9 +114176,9 @@
         "URL": "https://store.steampowered.com/app/4933760/",
         "Site": "https://fleetfall.co/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4933760/129d085540d955e4204585b05d2f6200b8270c79/header.jpg?t=1784330606",
-        "Date": "Aug 14, 2026",
-        "AddedDate": "2026-08-01",
-        "AddedTimestamp": 1785613063.766212,
+        "Date": "Aug 17, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786999670.7115965,
         "MatchedTags": [
             "strategy",
             "real time tactics",
@@ -127207,9 +127207,9 @@
         "URL": "https://store.steampowered.com/app/5013740/",
         "Site": "https://www.moodforgames.com/games/aviator/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5013740/f7217f4bebb9d1348a585989caf75bfd3af9c472/header.jpg?t=1785480414",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-31",
-        "AddedTimestamp": 1785485642.890735,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786999684.099947,
         "MatchedTags": [
             "strategy",
             "management",
@@ -131127,14 +131127,14 @@
         "Email": "",
         "Discord": "https://discord.com/invite/KpsYVHEeD4",
         "URL": "https://store.steampowered.com/app/5007470/",
-        "Site": "",
+        "Site": "https://nestunion.org",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5007470/6ca0e1789c0e5310b13df7efea600192dc95e31b/header.jpg?t=1785863246",
         "Date": "Q4 2026",
         "AddedDate": "2026-08-04",
         "AddedTimestamp": 1785866926.4608881,
         "MatchedTags": [
-            "psychological horror",
-            "horror"
+            "horror",
+            "psychological horror"
         ]
     },
     "5011680": {
@@ -144957,7 +144957,8 @@
         "AddedDate": "2026-08-16",
         "AddedTimestamp": 1786870207.1904223,
         "MatchedTags": [
-            "psychological horror"
+            "psychological horror",
+            "horror"
         ]
     },
     "5089960": {
@@ -146459,8 +146460,7 @@
         "AddedTimestamp": 1786993201.1256967,
         "MatchedTags": [
             "horror",
-            "psychological horror",
-            "strategy"
+            "psychological horror"
         ]
     },
     "3919780": {
@@ -146862,6 +146862,97 @@
         "MatchedTags": [
             "economy",
             "management"
+        ]
+    },
+    "3629920": {
+        "Title": "Starfort",
+        "Email": "hey@starfort.org",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3629920/",
+        "Site": "https://www.starfort.org/games",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629920/4f2c332a0936440172484ddbcf525123650ca543/header.jpg?t=1786998481",
+        "Date": "Nov 5, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786999601.594457,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "tactical",
+            "base building",
+            "resource management"
+        ]
+    },
+    "4775350": {
+        "Title": "Reliquary",
+        "Email": "",
+        "Discord": "https://discord.gg/aFNqAu3m4Q",
+        "URL": "https://store.steampowered.com/app/4775350/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4775350/65bca13867537baf21c95503c81d9cc5a9dd668f/header.jpg?t=1786997521",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786999643.956072,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "4926710": {
+        "Title": "Metal Detecting Days",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4926710/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4926710/51ae462c97ffee67cf1f4e5f7420778917ad79ac/header.jpg?t=1786999370",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786999667.4003983,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "5033480": {
+        "Title": "SCP - Containment Breach Revival",
+        "Email": "",
+        "Discord": "https://discord.gg/rarnCP68Dk",
+        "URL": "https://store.steampowered.com/app/5033480/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5033480/d6c345bd347f43fc2617e281e79d38632c1f6f32/header.jpg?t=1786997978",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786999693.0044358,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "5037160": {
+        "Title": "Ombre",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5037160/",
+        "Site": "https://www.miragemakers.com/ombre",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037160/a4e8d0a85a551267c07553cf9d5f9327c16bb0ad/header.jpg?t=1786997425",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786999699.5664425,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "5038720": {
+        "Title": "Iron Void : Silent Space",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5038720/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5038720/eda2b51208153dc8248bdcc509e93572de165c4a/header.jpg?t=1786997906",
+        "Date": "Nov 2, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786999702.4455204,
+        "MatchedTags": [
+            "tactical"
         ]
     }
 }
