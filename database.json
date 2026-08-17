@@ -48363,9 +48363,9 @@
         "URL": "https://store.steampowered.com/app/4657320/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4657320/df540ef0bf6fb6fcda579536e5ff54524a877d16/header.jpg?t=1777671947",
-        "Date": "2026",
-        "AddedDate": "2026-06-22",
-        "AddedTimestamp": 1782131390.1926932,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786974950.5870821,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -142677,9 +142677,9 @@
         "URL": "https://store.steampowered.com/app/5081690/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5081690/85dd8af84daad1fb7969c977e613b68a2d35870f/header.jpg?t=1786719495",
-        "Date": "1 Sep, 2026",
+        "Date": "Sep 1, 2026",
         "AddedDate": "2026-08-17",
-        "AddedTimestamp": 1786967128.2182975,
+        "AddedTimestamp": 1786975024.8275151,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -145993,7 +145993,7 @@
     "4749570": {
         "Title": "Steel Core",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/s5KUZAGDyP",
         "URL": "https://store.steampowered.com/app/4749570/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4749570/99dc0e5d412fee97cf379a42e0adee6b69620f3b/header.jpg?t=1786971357",
@@ -146066,6 +146066,80 @@
         "Date": "TBA",
         "AddedDate": "2026-08-17",
         "AddedTimestamp": 1786972317.780269,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "720190": {
+        "Title": "Wizards",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/720190/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720190/71a5b98a76336fd59b936459d72b260e116afd41/header.jpg?t=1786973454",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786974938.858468,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4916010": {
+        "Title": "Shorted",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4916010/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4916010/2ee430c96629e4c47fc743473ee825e21738aea4/header.jpg?t=1786972601",
+        "Date": "2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786974985.4645112,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4993240": {
+        "Title": "Moorko",
+        "Email": "support@rapid-snail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4993240/",
+        "Site": "https://rapid-snail.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4993240/a11b11e66104d02918641acf1b5fb6bbd026caa5/header.jpg?t=1786974319",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786974991.5304794,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg"
+        ]
+    },
+    "5001620": {
+        "Title": "The Hall That Devours",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5001620/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001620/8e1b91be0c0bf16635ac7ed649ce657e46b2f7ab/header.jpg?t=1786974055",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786974995.7552729,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5009290": {
+        "Title": "NARNOK: Feed Grommy Candy",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5009290/",
+        "Site": "https://narnok.com/gromintler",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5009290/1767174c015cb572e46f77cb3c893c52d82f47eb/header.jpg?t=1786974298",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786974998.9294171,
         "MatchedTags": [
             "strategy"
         ]
