@@ -13907,9 +13907,9 @@
         "URL": "https://store.steampowered.com/app/4537800/",
         "Site": "https://www.catiregamesstudio.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4537800/9c62ef7dceb3c83ab0965c1f65c73e8e9f0cc5c5/header.jpg?t=1774428159",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-29",
-        "AddedTimestamp": 1785319185.259729,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786981445.1331785,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -41341,9 +41341,9 @@
         "URL": "https://store.steampowered.com/app/4656560/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4656560/6782f6bcf0a267a7e239864b8e172070f5fbf05d/header.jpg?t=1777067499",
-        "Date": "2026",
-        "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1777068279.7576628,
+        "Date": "Oct 15, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786981464.6710353,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -108143,21 +108143,6 @@
             "turn-based combat"
         ]
     },
-    "4899860": {
-        "Title": "Doinaka de Reversi",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4899860/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4899860/98344a9450f2a97f60944bccea36a65f943ff805/header.jpg?t=1783731082",
-        "Date": "October 2026",
-        "AddedDate": "2026-07-11",
-        "AddedTimestamp": 1783741607.7441428,
-        "MatchedTags": [
-            "strategy",
-            "turn-based tactics"
-        ]
-    },
     "4918680": {
         "Title": "LEXICON",
         "Email": "support@tsquaredgames.com",
@@ -113530,9 +113515,9 @@
         "URL": "https://store.steampowered.com/app/4805960/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4805960/92547fa28ed46dbaf8d0cb7ee96cd2169e539c6d/header.jpg?t=1784296960",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-20",
-        "AddedTimestamp": 1784589541.316375,
+        "Date": "Oct 27, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786981477.6351068,
         "MatchedTags": [
             "economy"
         ]
@@ -120411,9 +120396,9 @@
         "URL": "https://store.steampowered.com/app/2401490/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401490/78afc7cb4099e179c66f367b745f6245fc857a47/header.jpg?t=1784862109",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-07-27",
-        "AddedTimestamp": 1785172415.8318584,
+        "Date": "Aug 17, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786981401.167101,
         "MatchedTags": [
             "turn-based tactics",
             "turn-based strategy",
@@ -145458,10 +145443,10 @@
     },
     "3999950": {
         "Title": "Frozen Echo",
-        "Email": "",
+        "Email": "silentwishstudio@gmail.com",
         "Discord": "https://discord.gg/86m6aH8jXG",
         "URL": "https://store.steampowered.com/app/3999950/",
-        "Site": "",
+        "Site": "https://drive.google.com/drive/u/0/folders/1UF8Bo6pgytubni0ktZ4rDUX3R0W2bPJW",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3999950/d1fd05299b4eea7d57612380ae3afe2274fd1f74/header.jpg?t=1786950037",
         "Date": "Coming soon",
         "AddedDate": "2026-08-17",
@@ -146221,6 +146206,99 @@
         "AddedTimestamp": 1786978149.8926306,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4624920": {
+        "Title": "HYPERDROP: A Pachinko Roguelite",
+        "Email": "",
+        "Discord": "https://discord.gg/pTy5qKz5su",
+        "URL": "https://store.steampowered.com/app/4624920/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4624920/d6cc450b50962b9335596cdda26ac7da96e22f01/header.jpg?t=1786980154",
+        "Date": "2027",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786981459.2312016,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4805970": {
+        "Title": "The Kept Fire",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4805970/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4805970/b626953df85e34e8e0853d89b120a0cf502b9434/header.jpg?t=1786979689",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786981480.896349,
+        "MatchedTags": [
+            "psychological horror",
+            "survival horror",
+            "horror",
+            "resource management"
+        ]
+    },
+    "4953150": {
+        "Title": "Fiducia: Rent The World",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4953150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4953150/702a4bb12bd91b3f0f8fd44556e1f10ee57f120d/header.jpg?t=1786980634",
+        "Date": "Aug 31, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786981515.9706547,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "real time tactics",
+            "grand strategy"
+        ]
+    },
+    "4983470": {
+        "Title": "aliveCAPTCHA",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4983470/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4983470/19fc77577156112932ca830b0f2869f71b2dc744/header.jpg?t=1786979496",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786981528.1279,
+        "MatchedTags": [
+            "psychological horror",
+            "horror",
+            "survival horror"
+        ]
+    },
+    "5019420": {
+        "Title": "AutomaticBox",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5019420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5019420/cdf08910c591cf11bb2ad4bce7d30784837c1e4e/header.jpg?t=1786980405",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786981538.710121,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5089240": {
+        "Title": "Kritsana",
+        "Email": "",
+        "Discord": "https://discord.gg/JnPtt23erZ",
+        "URL": "https://store.steampowered.com/app/5089240/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5089240/e12a029206fe1011489d1d3357d8cbdceb7e321f/header.jpg?t=1786978824",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786981573.9050512,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
