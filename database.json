@@ -16397,8 +16397,8 @@
         "AddedTimestamp": 1774641254.510055,
         "MatchedTags": [
             "horror",
-            "psychological horror",
-            "survival horror"
+            "survival horror",
+            "psychological horror"
         ]
     },
     "2735270": {
@@ -35408,9 +35408,9 @@
         "URL": "https://store.steampowered.com/app/3628390/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3628390/cf03fea9400344713e8d90c94eb309a8d5efec83/header.jpg?t=1776680916",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-20",
-        "AddedTimestamp": 1776685423.8762753,
+        "Date": "Sep 17, 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786957413.1394136,
         "MatchedTags": [
             "base building"
         ]
@@ -61091,9 +61091,9 @@
         "URL": "https://store.steampowered.com/app/4262460/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/32c49fa08f4e94b46b57b41e5e03bcb99b3d9e28/header.jpg?t=1779284042",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-20",
-        "AddedTimestamp": 1779292701.3440902,
+        "Date": "2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786957419.3466473,
         "MatchedTags": [
             "base building",
             "tactical"
@@ -86713,9 +86713,9 @@
         "AddedDate": "2026-06-16",
         "AddedTimestamp": 1781630939.3171897,
         "MatchedTags": [
+            "economy",
             "management",
-            "psychological horror",
-            "resource management"
+            "psychological horror"
         ]
     },
     "4806800": {
@@ -145690,6 +145690,120 @@
             "strategy",
             "resource management",
             "economy"
+        ]
+    },
+    "4376030": {
+        "Title": "Failover",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4376030/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4376030/6c877ec5405bc18f7e9d55206be503db1bfd81be/header.jpg?t=1786951681",
+        "Date": "2027",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786957425.649531,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "management",
+            "resource management",
+            "base building",
+            "tactical",
+            "tower defense"
+        ]
+    },
+    "4415570": {
+        "Title": "The Sky Project: Land of Noris",
+        "Email": "entharielgames@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4415570/",
+        "Site": "https://entharielgames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4415570/bc8416256ba221331a7b7c83dc1efb06cd0b526e/header.jpg?t=1786955447",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786957429.7919233,
+        "MatchedTags": [
+            "turn-based strategy",
+            "tactical rpg",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4957870": {
+        "Title": "Shadow Wake",
+        "Email": "",
+        "Discord": "https://discord.gg/A6ZK8nVau",
+        "URL": "https://store.steampowered.com/app/4957870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4957870/c8f90196ad4b67d38bb603e8d41bc012bf05e071/header.jpg?t=1786951925",
+        "Date": "2027",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786957510.3899603,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "5006260": {
+        "Title": "Carpetorium: A Carpet-Cleaning Purgatory",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5006260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5006260/cc7ddec21b31610fba769faddaea341689e09089/header.jpg?t=1786953298",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786957527.9642096,
+        "MatchedTags": [
+            "resource management",
+            "management"
+        ]
+    },
+    "5020850": {
+        "Title": "The Last Few",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5020850/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5020850/b8ca147425e284df129c1c719f2a8c598e601912/header.jpg?t=1786953080",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786957535.5233274,
+        "MatchedTags": [
+            "colony sim",
+            "base building",
+            "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "5028150": {
+        "Title": "Sarco",
+        "Email": "",
+        "Discord": "https://discord.gg/pjsTagmH",
+        "URL": "https://store.steampowered.com/app/5028150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5028150/49165b35ea470af079fca2c2cadde438c40b3d0a/header.jpg?t=1786951520",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786957538.175953,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5032690": {
+        "Title": "Ground Drone Operator: Ground Robotic System Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5032690/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5032690/1e438bafe49cc409434db77a43b59e8f9583091e/header.jpg?t=1786954023",
+        "Date": "Q2 2027",
+        "AddedDate": "2026-08-17",
+        "AddedTimestamp": 1786957540.62881,
+        "MatchedTags": [
+            "tactical rpg",
+            "tactical"
         ]
     }
 }
