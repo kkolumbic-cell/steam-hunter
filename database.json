@@ -119933,9 +119933,9 @@
         "URL": "https://store.steampowered.com/app/4316870/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4316870/0ebec871f1e78324d92fcf4b08cd4c235ef70424/header.jpg?t=1784825518",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-23",
-        "AddedTimestamp": 1784831957.376442,
+        "Date": "Aug 17, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787025649.030813,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -139038,10 +139038,13 @@
         "AddedDate": "2026-08-12",
         "AddedTimestamp": 1786517203.9003942,
         "MatchedTags": [
+            "turn-based combat",
             "tactical rpg",
             "turn-based tactics",
-            "tactical",
-            "base building"
+            "management",
+            "base building",
+            "resource management",
+            "strategy"
         ]
     },
     "3816120": {
@@ -147361,6 +147364,70 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4178620": {
+        "Title": "Trainrot",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4178620/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4178620/2bf5c037a4e4027ae0b0f2fa9df8ff5a6724a5f6/header.jpg?t=1787022981",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787025643.854866,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4335680": {
+        "Title": "Neuville",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4335680/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4335680/c07998afecaa4d84bf16634620080244b7b3284e/header.jpg?t=1787023360",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787025651.4570417,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "4590580": {
+        "Title": "The Completionist: 1980-1989",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4590580/",
+        "Site": "https://thecompletionistgame.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4590580/4fe018a799742c27532f58c5b0e4c7efe52b5500/header.jpg?t=1787024727",
+        "Date": "Sep 29, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787025659.8869166,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "5079690": {
+        "Title": "Grim Wanderings Reborn",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5079690/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5079690/898d4c77c2919131f0bb79d8885bff7fb96b853b/header.jpg?t=1787025314",
+        "Date": "Sep 14, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787025715.0527081,
+        "MatchedTags": [
+            "tactical rpg",
+            "turn-based tactics",
+            "turn-based combat",
+            "tactical"
         ]
     }
 }
