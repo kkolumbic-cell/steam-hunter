@@ -132741,9 +132741,9 @@
         "URL": "https://store.steampowered.com/app/5039000/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5039000/42ec98610863ca1af5107e37abb262a36a28cdaf/header.jpg?t=1785952125",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-08-17",
-        "AddedTimestamp": 1786985486.6898713,
+        "Date": "Aug 27, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787085879.3157635,
         "MatchedTags": [
             "strategy",
             "grand strategy",
@@ -141506,7 +141506,7 @@
     "5060600": {
         "Title": "Shady Contractor",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/xfhN2N9mZ",
         "URL": "https://store.steampowered.com/app/5060600/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5060600/74fb897f72542caaf067941852a0548c99c62628/header.jpg?t=1786657770",
@@ -148691,6 +148691,148 @@
             "management",
             "economy",
             "strategy",
+            "resource management"
+        ]
+    },
+    "1524280": {
+        "Title": "Abyss Campus",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/1524280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1524280/d437253054d4c592429c75234b0e8719ced59322/header.jpg?t=1787085323",
+        "Date": "2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787085797.9858375,
+        "MatchedTags": [
+            "strategy",
+            "horror"
+        ]
+    },
+    "4563970": {
+        "Title": "The Wall Must Hold",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4563970/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4563970/07edb86c29772eed8291adf168219031e6725acb/header.jpg?t=1787082334",
+        "Date": "TBA",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787085818.0692413,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "tactical"
+        ]
+    },
+    "5027410": {
+        "Title": "Lunokhod",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5027410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5027410/62cafd5a03dd81fc8dbab36e79b69e09157c5e0d/header.jpg?t=1787084836",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787085867.8674352,
+        "MatchedTags": [
+            "strategy",
+            "base building",
+            "economy",
+            "colony sim",
+            "management"
+        ]
+    },
+    "5031780": {
+        "Title": "Extraordinary",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5031780/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5031780/b3a698fa6a230e3e283405ef5a3f5e2e99a12cb3/header.jpg?t=1787082951",
+        "Date": "TBA",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787085873.61228,
+        "MatchedTags": [
+            "survival horror",
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5069250": {
+        "Title": "The Rift Trader",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5069250/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5069250/b1a9be255f97b84d0c104d22ec263d69aed24972/header.jpg?t=1787083582",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787085893.424691,
+        "MatchedTags": [
+            "management",
+            "strategy",
+            "resource management",
+            "economy"
+        ]
+    },
+    "5080650": {
+        "Title": "March of the Red Queen",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5080650/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5080650/0073000d28710a2d0d8e6ec914c3c7034852a189/header.jpg?t=1787085077",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787085901.2422857,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "5083410": {
+        "Title": "Tales of Pagodia",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5083410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5083410/f621a62581d5b27001b9c0dc7e9ebea2d92aa56a/header.jpg?t=1787083679",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787085903.8981104,
+        "MatchedTags": [
+            "city builder"
+        ]
+    },
+    "5086360": {
+        "Title": "FRAMEOUT",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5086360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5086360/5d818256ab93dda24f951cd2072e0a415dbf365c/header.jpg?t=1787082546",
+        "Date": "TBA",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787085907.024835,
+        "MatchedTags": [
+            "tower defense",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "5095520": {
+        "Title": "VIP Scandal Patrol",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5095520/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5095520/0413894f7e3e6d8a9d50aa95af7a8608142abb7e/header.jpg?t=1787085301",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787085910.167317,
+        "MatchedTags": [
+            "management",
             "resource management"
         ]
     }
