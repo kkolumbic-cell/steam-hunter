@@ -178,14 +178,14 @@
         "URL": "https://store.steampowered.com/app/4409920/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4409920/519ba27bac4a4b3f09da273d9a5d8287bb7c0bdc/header.jpg?t=1772611522",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-16",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-18",
         "MatchedTags": [
             "tower defense",
             "strategy",
             "tactical"
         ],
-        "AddedTimestamp": 1781630644.702971
+        "AddedTimestamp": 1787068169.936127
     },
     "4413360": {
         "Title": "Bigfoot Hunting",
@@ -50909,10 +50909,12 @@
         "AddedDate": "2026-05-05",
         "AddedTimestamp": 1778000548.2031639,
         "MatchedTags": [
-            "strategy",
             "turn-based strategy",
+            "strategy",
             "turn-based tactics",
-            "turn-based combat"
+            "turn-based combat",
+            "tactical rpg",
+            "tactical"
         ]
     },
     "4697190": {
@@ -54041,8 +54043,8 @@
         "AddedDate": "2026-05-08",
         "AddedTimestamp": 1778265971.3494892,
         "MatchedTags": [
-            "horror",
-            "psychological horror"
+            "psychological horror",
+            "horror"
         ]
     },
     "4623300": {
@@ -85121,9 +85123,9 @@
         "URL": "https://store.steampowered.com/app/4597500/",
         "Site": "https://www.gencointeractive.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4597500/cec01e53ce6d49a84a52f9669ddac9d7e84a8487/header.jpg?t=1781522522",
-        "Date": "Aug 13, 2026",
-        "AddedDate": "2026-07-11",
-        "AddedTimestamp": 1783728729.770275,
+        "Date": "Aug 18, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787068185.7882798,
         "MatchedTags": [
             "management",
             "resource management",
@@ -108804,9 +108806,9 @@
         "URL": "https://store.steampowered.com/app/4859270/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4859270/a68bdbe102edddf02d53f597882c13608982a6f8/header.jpg?t=1783925148",
-        "Date": "Aug 18, 2026",
-        "AddedDate": "2026-07-31",
-        "AddedTimestamp": 1785473179.7719443,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787068213.0141313,
         "MatchedTags": [
             "strategy",
             "tower defense"
@@ -111655,9 +111657,9 @@
         "URL": "https://store.steampowered.com/app/4837480/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4837480/02ba522375a45d50fc423509cbb4de3aba7198bc/header.jpg?t=1784132082",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-15",
-        "AddedTimestamp": 1784137311.4807565,
+        "Date": "Aug 18, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787068206.918742,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -146249,9 +146251,9 @@
         "URL": "https://store.steampowered.com/app/5089240/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5089240/e12a029206fe1011489d1d3357d8cbdceb7e321f/header.jpg?t=1786978824",
-        "Date": "October 2026",
+        "Date": "Oct 27, 2026",
         "AddedDate": "2026-08-18",
-        "AddedTimestamp": 1787022730.4133213,
+        "AddedTimestamp": 1787068266.8780596,
         "MatchedTags": [
             "psychological horror",
             "survival horror",
@@ -148160,6 +148162,111 @@
             "strategy",
             "turn-based strategy",
             "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "2196010": {
+        "Title": "Evergrind",
+        "Email": "",
+        "Discord": "https://discord.gg/drybmDNyCz",
+        "URL": "https://store.steampowered.com/app/2196010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2196010/d895cb73fc92b139069d297f52896f8848a7f048/header.jpg?t=1787066578",
+        "Date": "October 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787068145.878512,
+        "MatchedTags": [
+            "management",
+            "resource management"
+        ]
+    },
+    "3406860": {
+        "Title": "TheoSync",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3406860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3406860/ad691bc3509bde783759b9b97bfc18445d8b1193/header.jpg?t=1787068149",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787068157.1613116,
+        "MatchedTags": [
+            "psychological horror",
+            "tactical"
+        ]
+    },
+    "4916840": {
+        "Title": "Sanguine Shock",
+        "Email": "",
+        "Discord": "https://discord.gg/5bPzeAkJm2",
+        "URL": "https://store.steampowered.com/app/4916840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4916840/30edecd8d065bba2d1df35ee13c8cbeb0b9554db/header.jpg?t=1787065450",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787068220.5797856,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5060660": {
+        "Title": "The 8 O'clock Block",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5060660/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5060660/73e5615e3597ee142ab086aa7a50a94daef06143/header.jpg?t=1787066038",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787068253.060711,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5068520": {
+        "Title": "RPG System",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5068520/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5068520/0c5e9643b419c69e7c9c8ff8bb7f0078890d34e1/header.jpg?t=1787065892",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787068257.3204746,
+        "MatchedTags": [
+            "tactical rpg",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "5076300": {
+        "Title": "Final Bulwark: Zombie Tide Defense",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5076300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5076300/6fe65039375a87d35d46d6b04817fdb638e8e05d/header.jpg?t=1787067802",
+        "Date": "2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787068260.0769904,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "base building"
+        ]
+    },
+    "5091770": {
+        "Title": "Ascend from Dis",
+        "Email": "",
+        "Discord": "https://discord.com/invite/TGpJEH3x4b",
+        "URL": "https://store.steampowered.com/app/5091770/",
+        "Site": "https://www.youtube.com/@AscendFromDis",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5091770/8ee5502ba8d0e62c432b73f2beaac12dd4c44e29/header.jpg?t=1787066867",
+        "Date": "Mar 1, 2027",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787068269.7771378,
+        "MatchedTags": [
+            "strategy",
             "turn-based combat"
         ]
     }
