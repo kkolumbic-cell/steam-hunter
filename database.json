@@ -113301,9 +113301,9 @@
         "URL": "https://store.steampowered.com/app/4938410/",
         "Site": "https://www.puzala.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4938410/140d69b0c12a7f7254f89d71a34d6c36b70e439a/header.jpg?t=1784257472",
-        "Date": "Aug 31, 2026",
-        "AddedDate": "2026-08-03",
-        "AddedTimestamp": 1785732663.757067,
+        "Date": "Sep 13, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787022685.9008207,
         "MatchedTags": [
             "strategy"
         ]
@@ -116350,9 +116350,9 @@
         "URL": "https://store.steampowered.com/app/4937120/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4937120/15ca58887242415838540a0736fd532f5d0cf365/header.jpg?t=1784589411",
-        "Date": "2026",
-        "AddedDate": "2026-07-20",
-        "AddedTimestamp": 1784589587.8209665,
+        "Date": "Aug 23, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787022683.0576503,
         "MatchedTags": [
             "horror"
         ]
@@ -136164,9 +136164,9 @@
         "URL": "https://store.steampowered.com/app/5021000/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5021000/afdf3c22951a1aa9ca9162cf41b3641d35780fca/header.jpg?t=1786207841",
-        "Date": "Aug 27, 2026",
-        "AddedDate": "2026-08-17",
-        "AddedTimestamp": 1786939724.6537025,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787022696.6126804,
         "MatchedTags": [
             "strategy"
         ]
@@ -146250,9 +146250,9 @@
         "URL": "https://store.steampowered.com/app/5089240/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5089240/e12a029206fe1011489d1d3357d8cbdceb7e321f/header.jpg?t=1786978824",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-08-17",
-        "AddedTimestamp": 1786981573.9050512,
+        "Date": "October 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787022730.4133213,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -147269,6 +147269,98 @@
         "AddedTimestamp": 1787018165.1410427,
         "MatchedTags": [
             "resource management"
+        ]
+    },
+    "3776020": {
+        "Title": "Card Make Arena",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3776020/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3776020/71e3f2654756961c9c81a150924de42016a1df01/header.jpg?t=1787018412",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787022642.473584,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "5032360": {
+        "Title": "Dronerush",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5032360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5032360/ff5f1779a5c3dea6ed9779c9df4a50696b025631/header.jpg?t=1787021392",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787022702.9178452,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "5050970": {
+        "Title": "Dwarf Wars",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5050970/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5050970/709862f721af727d6fc8b5cb6ffd460139d01522/header.jpg?t=1787019265",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787022711.8661225,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "real time tactics"
+        ]
+    },
+    "5069370": {
+        "Title": "\u9694\u96e2\u75c5\u9662",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5069370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5069370/7f51bcc916172970d93d1848b66f01bfef100452/header.jpg?t=1787022616",
+        "Date": "TBA",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787022719.5796175,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5089510": {
+        "Title": "Gearbound",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5089510/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5089510/c9c08f784ef9acc86d1294d9259849c7e65aaa43/header.jpg?t=1787018709",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787022732.743235,
+        "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "5090260": {
+        "Title": "Pierline",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5090260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5090260/8d0397708a88abb71f093b91d0f9938d5b5ce1d5/header.jpg?t=1787022185",
+        "Date": "Sep 7, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787022735.0138738,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
