@@ -610,9 +610,9 @@
         "URL": "https://store.steampowered.com/app/4452390/",
         "Site": "https://www.firewooddigital.com/moonlight",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4452390/d8a51be4de94492b14524e632ce0bb7faa674ab7/header.jpg?t=1772648805",
-        "Date": "To be announced",
-        "AddedDate": "2026-03-04",
-        "AddedTimestamp": 1772651298.7526608,
+        "Date": "2027",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787053463.6508255,
         "MatchedTags": [
             "horror",
             "management"
@@ -116378,9 +116378,9 @@
         "URL": "https://store.steampowered.com/app/4414530/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4414530/b968e2346f542c3fbe3d37b9466ab9c2e215ef79/header.jpg?t=1784597312",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-21",
-        "AddedTimestamp": 1784605684.9986806,
+        "Date": "Aug 18, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787053458.070312,
         "MatchedTags": [
             "horror"
         ]
@@ -131863,7 +131863,7 @@
         "Email": "",
         "Discord": "https://discord.com/invite/rfaRm8aYHt",
         "URL": "https://store.steampowered.com/app/4847330/",
-        "Site": "",
+        "Site": "https://www.novanoom.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4847330/07c76d5d25e9c5dc89fd9d93e993d155d1f3d426/header.jpg?t=1785910906",
         "Date": "2027",
         "AddedDate": "2026-08-05",
@@ -138834,9 +138834,9 @@
         "URL": "https://store.steampowered.com/app/3832760/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832760/a6bbe75e8196229897cb7cf625c8715601660e87/header.jpg?t=1786510309",
-        "Date": "Q1 2027",
-        "AddedDate": "2026-08-12",
-        "AddedTimestamp": 1786511107.7605734,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787053445.686814,
         "MatchedTags": [
             "strategy"
         ]
@@ -147791,6 +147791,65 @@
             "strategy",
             "resource management",
             "management"
+        ]
+    },
+    "848380": {
+        "Title": "In My Name",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/848380/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/848380/f719b26dacd5be25ff081faa8cc933fd42d42f25/header.jpg?t=1787052512",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787053439.7202604,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "3236810": {
+        "Title": "Rakshas",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3236810/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3236810/0b6c1f86fead0b124273817561cee73414440a72/header.jpg?t=1787051732",
+        "Date": "Aug 27, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787053442.2988374,
+        "MatchedTags": [
+            "survival horror",
+            "horror"
+        ]
+    },
+    "3898710": {
+        "Title": "GORE TANK",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3898710/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3898710/459ffadce482e2fa79490983680cd2546405c63b/header.jpg?t=1787050728",
+        "Date": "2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787053447.8614898,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "4992530": {
+        "Title": "The Hunted",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4992530/",
+        "Site": "https://unforgivingworlds.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4992530/fa7758093ecbe109ca62fc03972ada424c3646dd/header.jpg?t=1787052035",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787053510.7543695,
+        "MatchedTags": [
+            "survival horror"
         ]
     }
 }
