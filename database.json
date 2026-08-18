@@ -82639,9 +82639,9 @@
         "URL": "https://store.steampowered.com/app/4807960/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4807960/52cd97f1d8f15c57d69b1c6331e7caf3b4a34ea9/header.jpg?t=1781245328",
-        "Date": "Sep 2, 2026",
-        "AddedDate": "2026-08-12",
-        "AddedTimestamp": 1786524150.7368665,
+        "Date": "3 Sep, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787032109.7675993,
         "MatchedTags": [
             "strategy",
             "turn-based combat"
@@ -90046,9 +90046,9 @@
         "URL": "https://store.steampowered.com/app/4707190/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707190/84e3a1adf0f3df25674a2717403bfdfc22a836aa/header.jpg?t=1781874180",
-        "Date": "To be announced",
-        "AddedDate": "2026-06-19",
-        "AddedTimestamp": 1781885941.1914651,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787032101.079339,
         "MatchedTags": [
             "resource management",
             "tactical rpg",
@@ -120734,9 +120734,9 @@
         "URL": "https://store.steampowered.com/app/4988670/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4988670/187e9656499a24399918ab1915c7859e5dd77252/header.jpg?t=1784873371",
-        "Date": "Aug 20, 2026",
-        "AddedDate": "2026-07-24",
-        "AddedTimestamp": 1784875399.343333,
+        "Date": "20 Aug, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787032123.8218083,
         "MatchedTags": [
             "tower defense"
         ]
@@ -139412,9 +139412,9 @@
         "URL": "https://store.steampowered.com/app/5054880/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5054880/bde4e25f90880f16483751c0703e07b9b3badb62/header.jpg?t=1786540309",
-        "Date": "Aug 27, 2026",
-        "AddedDate": "2026-08-13",
-        "AddedTimestamp": 1786622632.589404,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787032140.9355152,
         "MatchedTags": [
             "turn-based tactics",
             "real time tactics",
@@ -146161,9 +146161,9 @@
         "URL": "https://store.steampowered.com/app/5085180/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5085180/f85090cf4bde76d6c6d8846feb9e6eba8c0c7aea/header.jpg?t=1786976808",
-        "Date": "Nov 3, 2026",
-        "AddedDate": "2026-08-17",
-        "AddedTimestamp": 1786978149.8926306,
+        "Date": "3 Nov, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787032152.194192,
         "MatchedTags": [
             "strategy"
         ]
@@ -146257,8 +146257,9 @@
         "AddedDate": "2026-08-18",
         "AddedTimestamp": 1787022730.4133213,
         "MatchedTags": [
-            "horror",
-            "psychological horror"
+            "psychological horror",
+            "survival horror",
+            "horror"
         ]
     },
     "3254300": {
@@ -147504,6 +147505,70 @@
         "AddedTimestamp": 1787029004.502743,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4288910": {
+        "Title": "Reborn Soul",
+        "Email": "",
+        "Discord": "https://discord.gg/mu2PhncuQP",
+        "URL": "https://store.steampowered.com/app/4288910/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4288910/4ede09448cb06650f76a2ef15e7352fbbf45e985/header.jpg?t=1787031377",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787032091.5224903,
+        "MatchedTags": [
+            "psychological horror",
+            "horror",
+            "survival horror"
+        ]
+    },
+    "5045700": {
+        "Title": "Barb",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5045700/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5045700/b9d7727546c9e4d5976121e6182f9d28d030d250/header.jpg?t=1787029784",
+        "Date": "3 Sep, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787032138.6728578,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "5067500": {
+        "Title": "Dead Famous",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5067500/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5067500/0df4250560825d26cfc7131dd9196715033e44f9/header.jpg?t=1787029568",
+        "Date": "TBA",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787032146.6074207,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "horror",
+            "resource management",
+            "economy",
+            "turn-based strategy"
+        ]
+    },
+    "5099340": {
+        "Title": "Keep Fire 2",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5099340/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5099340/54e4d2120474b33ed13cf2e184412d0d962a1311/header.jpg?t=1787029638",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787032158.5952003,
+        "MatchedTags": [
+            "horror",
+            "tactical"
         ]
     }
 }
