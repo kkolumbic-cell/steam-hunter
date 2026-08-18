@@ -58276,9 +58276,9 @@
         "URL": "https://store.steampowered.com/app/4700090/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4700090/c0cfed0b809c09aafffbfde3ba6d9e7a39eba822/header.jpg?t=1778779461",
-        "Date": "October 2026",
-        "AddedDate": "2026-07-20",
-        "AddedTimestamp": 1784580211.303376,
+        "Date": "November 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787079593.8763921,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -91914,9 +91914,9 @@
         "URL": "https://store.steampowered.com/app/4861910/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4861910/edcf0825f1a3e5349d36efc6ca95b2fc2d45c449/header.jpg?t=1782156988",
-        "Date": "2026",
-        "AddedDate": "2026-07-13",
-        "AddedTimestamp": 1783972535.0760372,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787079611.3299735,
         "MatchedTags": [
             "strategy",
             "management"
@@ -105004,9 +105004,9 @@
         "URL": "https://store.steampowered.com/app/4903810/",
         "Site": "https://thousandward.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4903810/cb1c01c2d6dda54d5400655e64ba55c1fdae5be4/header.jpg?t=1783520403",
-        "Date": "Aug 27, 2026",
-        "AddedDate": "2026-07-08",
-        "AddedTimestamp": 1783521959.7362478,
+        "Date": "2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787079620.6190045,
         "MatchedTags": [
             "tactical rpg",
             "turn-based strategy",
@@ -121788,9 +121788,9 @@
         "URL": "https://store.steampowered.com/app/4991370/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4991370/395ea9508fdc47ad6d0f8ae8ea3248b78c721ebe/header.jpg?t=1784950858",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-25",
-        "AddedTimestamp": 1784951079.4178734,
+        "Date": "December 2027",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787079649.50906,
         "MatchedTags": [
             "management",
             "economy",
@@ -145786,9 +145786,9 @@
         "URL": "https://store.steampowered.com/app/4929820/",
         "Site": "https://playsalterrae.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4929820/4f8db15f5361edb009735c01c309eb5e16e84912/header.jpg?t=1786959429",
-        "Date": "Q4 2028",
-        "AddedDate": "2026-08-17",
-        "AddedTimestamp": 1786960866.972103,
+        "Date": "To be announced",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787079628.6103234,
         "MatchedTags": [
             "resource management"
         ]
@@ -148515,6 +148515,113 @@
             "economy",
             "strategy",
             "resource management",
+            "management"
+        ]
+    },
+    "1816880": {
+        "Title": "EXIT 2",
+        "Email": "",
+        "Discord": "https://discord.gg/Yq4yMegf74",
+        "URL": "https://store.steampowered.com/app/1816880/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1816880/559e4671d5653abc0ba8f0d784bac5a64e32b56b/header.jpg?t=1787076127",
+        "Date": "Dec 7, 2021",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787079537.9672105,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4824910": {
+        "Title": "Tabernacle",
+        "Email": "",
+        "Discord": "https://discord.gg/AT2kmk9ktv",
+        "URL": "https://store.steampowered.com/app/4824910/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824910/76f862c6a6366e34ca48ea4945b2429adc8c133e/header.jpg?t=1787078424",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787079608.9996676,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5003470": {
+        "Title": "Dreadlight",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5003470/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5003470/e7426ebcd564c0de731340e8682eb0b4d95a192c/header.jpg?t=1787075554",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787079657.8560052,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5008070": {
+        "Title": "Space Trader Corps",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5008070/",
+        "Site": "https://www.spacetradercorps.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5008070/b4fa87179f1c9c78c4c6e7a0fa2f8d65606f52b3/header.jpg?t=1787079367",
+        "Date": "Sep 1, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787079660.4452245,
+        "MatchedTags": [
+            "colony sim",
+            "economy",
+            "base building"
+        ]
+    },
+    "5072440": {
+        "Title": "Idland",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5072440/",
+        "Site": "https://nextframestudio.com.br",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5072440/b8ae709c7c4f25914849cf00515af62d77296f9b/header.jpg?t=1787079551",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787079682.7477698,
+        "MatchedTags": [
+            "city builder",
+            "colony sim",
+            "resource management",
+            "management"
+        ]
+    },
+    "5084700": {
+        "Title": "Omniscient",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5084700/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5084700/8b6a5f851e22a72a732e6e4d19820d6a4db217ae/header.jpg?t=1787076498",
+        "Date": "TBA",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787079690.2663429,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5098890": {
+        "Title": "Benders In Space",
+        "Email": "mendlogames@protonmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5098890/",
+        "Site": "https://mendlo.github.io/mendlo-games/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5098890/354280ec43caae0202bb6099b94ef8462d265737/header.jpg?t=1787075220",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787079705.6581743,
+        "MatchedTags": [
+            "colony sim",
+            "base building",
+            "economy",
             "management"
         ]
     }
