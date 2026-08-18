@@ -22987,9 +22987,9 @@
         "URL": "https://store.steampowered.com/app/3142910/",
         "Site": "https://drive.google.com/drive/folders/1TFj6x5msAtcsiodf7D-qtEeW3icbc2qN?usp=sharing",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3142910/36bb9250eb272c7ed6cf278a1ff2d593755f2005/header.jpg?t=1775464598",
-        "Date": "2026",
-        "AddedDate": "2026-04-06",
-        "AddedTimestamp": 1775468542.7453964,
+        "Date": "2027",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787039797.2864134,
         "MatchedTags": [
             "economy"
         ]
@@ -74536,7 +74536,7 @@
     "4141900": {
         "Title": "The Corrupted",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/m57M7k8cBS",
         "URL": "https://store.steampowered.com/app/4141900/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4141900/2bcdccb7f0cb069dbe693dbec1e5af8229e60177/header.jpg?t=1780567265",
@@ -74625,7 +74625,7 @@
     },
     "4770940": {
         "Title": "Clairvoyage: The Lighthouse",
-        "Email": "",
+        "Email": "niilo@volpesoftware.com",
         "Discord": "https://discord.gg/cRVkxZnYK",
         "URL": "https://store.steampowered.com/app/4770940/",
         "Site": "https://volpesoftware.com/",
@@ -102058,9 +102058,9 @@
         "URL": "https://store.steampowered.com/app/4880720/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4880720/951dd8177c96d837fe5de4efa9ad235bcd84fbba/header.jpg?t=1783165927",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-08-13",
-        "AddedTimestamp": 1786603705.4286277,
+        "Date": "Nov 24, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787039833.4122028,
         "MatchedTags": [
             "economy",
             "management"
@@ -131265,9 +131265,9 @@
         "URL": "https://store.steampowered.com/app/4187420/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4187420/2af7ade43f33f141c73573fb87cf13508c38975d/header.jpg?t=1785872346",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-04",
-        "AddedTimestamp": 1785873505.197138,
+        "Date": "Aug 18, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787039809.5770283,
         "MatchedTags": [
             "city builder",
             "strategy"
@@ -133232,9 +133232,9 @@
         "URL": "https://store.steampowered.com/app/4879900/",
         "Site": "https://grimsorrow.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4879900/17b02ff6129c1447b6424a129201f59e03795236/header.jpg?t=1785991410",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-06",
-        "AddedTimestamp": 1786030673.5428927,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787039829.7095437,
         "MatchedTags": [
             "strategy"
         ]
@@ -146489,9 +146489,9 @@
         "URL": "https://store.steampowered.com/app/4948380/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4948380/09686e39755c3578f6be558c45162309f4cd34ad/header.jpg?t=1786986080",
-        "Date": "TBA",
-        "AddedDate": "2026-08-17",
-        "AddedTimestamp": 1786989012.6476922,
+        "Date": "2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787039845.674221,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -147645,6 +147645,58 @@
             "strategy",
             "management",
             "economy",
+            "resource management"
+        ]
+    },
+    "4966070": {
+        "Title": "BioBioBio: Creatures OS",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4966070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4966070/99fbd77ec129055122452aeccf444af22c9fac0c/header.jpg?t=1787039199",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787039851.466075,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "economy",
+            "resource management"
+        ]
+    },
+    "5052390": {
+        "Title": "Wyrdane",
+        "Email": "",
+        "Discord": "https://discord.gg/qdBEjrsdEw",
+        "URL": "https://store.steampowered.com/app/5052390/",
+        "Site": "https://wyrdane.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5052390/a81fd195ff70ff5467defb899bd729612cb06c19/header.jpg?t=1787039664",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787039871.5147045,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "5079900": {
+        "Title": "sussy babies: reborn",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5079900/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5079900/0941cb3213939b5961e5c267cf6d6189c0164271/header.jpg?t=1787039110",
+        "Date": "Sep 1, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787039879.487836,
+        "MatchedTags": [
+            "horror",
+            "strategy",
+            "psychological horror",
+            "survival horror",
             "resource management"
         ]
     }
