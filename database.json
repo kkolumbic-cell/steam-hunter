@@ -3500,9 +3500,9 @@
         "URL": "https://store.steampowered.com/app/4379210/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4379210/98956abeb0bf7ce1408d43e7d7b8a2eeb7e0370b/header.jpg?t=1772869930",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-05-09",
-        "AddedTimestamp": 1778299152.6835217,
+        "Date": "Q4 2027",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787036839.9699388,
         "MatchedTags": [
             "survival horror",
             "psychological horror",
@@ -33682,12 +33682,11 @@
         "AddedDate": "2026-08-11",
         "AddedTimestamp": 1786468627.6702273,
         "MatchedTags": [
-            "strategy",
-            "city builder",
-            "tower defense",
-            "real time tactics",
             "base building",
-            "resource management"
+            "resource management",
+            "strategy",
+            "tower defense",
+            "real time tactics"
         ]
     },
     "4614050": {
@@ -45379,9 +45378,9 @@
         "URL": "https://store.steampowered.com/app/4672980/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4672980/58db8727e8796c6d0f3a8694c3810fa0ef7363e8/header.jpg?t=1777461052",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-07",
-        "AddedTimestamp": 1780850794.7525108,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787036858.1806774,
         "MatchedTags": [
             "resource management",
             "strategy",
@@ -95095,9 +95094,9 @@
         "URL": "https://store.steampowered.com/app/4751410/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4751410/96f31aa770eb134fec52fb5cbacf33e2fb69ad31/header.jpg?t=1782441686",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-26",
-        "AddedTimestamp": 1782455584.111168,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787036866.1907544,
         "MatchedTags": [
             "strategy"
         ]
@@ -116539,8 +116538,6 @@
         "AddedDate": "2026-07-21",
         "AddedTimestamp": 1784605892.4198797,
         "MatchedTags": [
-            "strategy",
-            "city builder",
             "resource management"
         ]
     },
@@ -141573,9 +141570,9 @@
         "URL": "https://store.steampowered.com/app/5073470/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5073470/da631b95cde261a859d75227613f55630abb22f4/header.jpg?t=1786660472",
-        "Date": "November 2026",
-        "AddedDate": "2026-08-13",
-        "AddedTimestamp": 1786662388.2307627,
+        "Date": "Oct 30, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787036951.4292154,
         "MatchedTags": [
             "tactical",
             "strategy"
@@ -146298,9 +146295,9 @@
         "URL": "https://store.steampowered.com/app/4026590/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4026590/0cd16953166b7033996752a83a113fb25d4e46d6/header.jpg?t=1786985251",
-        "Date": "TBA",
-        "AddedDate": "2026-08-17",
-        "AddedTimestamp": 1786985330.128403,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787036824.1306598,
         "MatchedTags": [
             "strategy",
             "real time tactics",
@@ -147280,7 +147277,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/3776020/",
-        "Site": "",
+        "Site": "https://playism.com/game/card-make-arena/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3776020/71e3f2654756961c9c81a150924de42016a1df01/header.jpg?t=1787018412",
         "Date": "To be announced",
         "AddedDate": "2026-08-18",
@@ -147569,6 +147566,86 @@
         "MatchedTags": [
             "horror",
             "tactical"
+        ]
+    },
+    "4793530": {
+        "Title": "Remains on the bus",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4793530/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4793530/a8238a72d21841432e23f83c30bd623df0ea4e62/header.jpg?t=1787036108",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787036873.718569,
+        "MatchedTags": [
+            "psychological horror",
+            "horror",
+            "survival horror"
+        ]
+    },
+    "5029190": {
+        "Title": "The Clues",
+        "Email": "",
+        "Discord": "https://discord.gg/8NB22q8gm",
+        "URL": "https://store.steampowered.com/app/5029190/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5029190/e2ab0e2fa7f5fff96a236f00dbef535eb98b802f/header.jpg?t=1787032877",
+        "Date": "Sep 30, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787036925.9404738,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5054520": {
+        "Title": "the Cellarer",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5054520/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5054520/5fe790524f16fb1d7dfc27c86931fd5dd3d10251/header.jpg?t=1787035192",
+        "Date": "TBA",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787036940.764486,
+        "MatchedTags": [
+            "strategy",
+            "base building",
+            "resource management",
+            "management",
+            "city builder",
+            "economy"
+        ]
+    },
+    "5072920": {
+        "Title": "Labyrinth of Reverie",
+        "Email": "",
+        "Discord": "https://discord.com/invite/H9ZkcX3aKW",
+        "URL": "https://store.steampowered.com/app/5072920/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5072920/0553d5cd1e135ddc5cd2fec02c01af3af9c0a414/header.jpg?t=1787033602",
+        "Date": "Oct 9, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787036948.751546,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "5095790": {
+        "Title": "Auction Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5095790/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5095790/f4ec73ef646b37b3aa6ac3ec984c92a888aabd3e/header.jpg?t=1787036299",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787036961.849567,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "economy",
+            "resource management"
         ]
     }
 }
