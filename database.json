@@ -110324,9 +110324,9 @@
         "URL": "https://store.steampowered.com/app/4897650/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4897650/1d88a917a7e1783c97296a0a1d7dc712eadd1f4a/header.jpg?t=1784049722",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-14",
-        "AddedTimestamp": 1784050683.6261313,
+        "Date": "Aug 18, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787093137.00901,
         "MatchedTags": [
             "strategy"
         ]
@@ -119895,7 +119895,7 @@
     "4966620": {
         "Title": "This mountain? Got it from my gramps.",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/CVz5wY9HC",
         "URL": "https://store.steampowered.com/app/4966620/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4966620/605ca529ff0bddfc857eafcc18e6c085ab1be863/header.jpg?t=1784824573",
@@ -148906,6 +148906,98 @@
             "turn-based tactics",
             "economy",
             "management"
+        ]
+    },
+    "5029440": {
+        "Title": "CLICKONAUT",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5029440/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5029440/6da6c52a1c3b1ba5bdb0075f3da51c265e3b8755/header.jpg?t=1787092973",
+        "Date": "December 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787093160.5022418,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5083130": {
+        "Title": "Siege of Incrementalia",
+        "Email": "",
+        "Discord": "https://discord.gg/MJRsfCXQSx",
+        "URL": "https://store.steampowered.com/app/5083130/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5083130/1ae065f64be79236c352e293ba5c0607d08b1d1d/header.jpg?t=1787092100",
+        "Date": "December 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787093180.7714646,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management",
+            "economy"
+        ]
+    },
+    "5088130": {
+        "Title": "Discentia Firmata",
+        "Email": "",
+        "Discord": "https://discord.gg/aWyy9rjHV3",
+        "URL": "https://store.steampowered.com/app/5088130/",
+        "Site": "https://DiscentiaFirmata",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5088130/432196ad7c700a76af705027c9615fd18b55c0f4/header.jpg?t=1787091912",
+        "Date": "2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787093183.729462,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "5091610": {
+        "Title": "Tolerance",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5091610/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5091610/78c98d137b6944a2aa4d4ba3b1d4f2f044803fbf/header.jpg?t=1787089346",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787093186.8792667,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "5099210": {
+        "Title": "The Welcome Inn",
+        "Email": "",
+        "Discord": "https://discord.com/invite/DvcdpJj6ns",
+        "URL": "https://store.steampowered.com/app/5099210/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5099210/19881d7101f659a779fd61c2741ac886fc096510/header.jpg?t=1787090376",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787093189.9259653,
+        "MatchedTags": [
+            "management",
+            "resource management",
+            "economy",
+            "base building"
+        ]
+    },
+    "5103720": {
+        "Title": "Tell me Your Tale",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5103720/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5103720/048965cda8e49b4b35faba2b4dbcef884b074f27/header.jpg?t=1787092234",
+        "Date": "Nov 3, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787093194.3399677,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
