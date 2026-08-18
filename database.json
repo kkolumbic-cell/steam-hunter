@@ -96517,7 +96517,7 @@
     "4843460": {
         "Title": "Aethyr Idle",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/kbSmrXnBmQ",
         "URL": "https://store.steampowered.com/app/4843460/",
         "Site": "https://aethyridle.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4843460/f229a83f67fa7b768fe8208854498c866e0aecb6/header.jpg?t=1782543650",
@@ -111736,10 +111736,10 @@
         "AddedDate": "2026-07-15",
         "AddedTimestamp": 1784137343.662936,
         "MatchedTags": [
-            "survival horror",
             "strategy",
             "horror",
-            "psychological horror"
+            "psychological horror",
+            "survival horror"
         ]
     },
     "4917740": {
@@ -146002,9 +146002,9 @@
         "URL": "https://store.steampowered.com/app/5087640/",
         "Site": "https://soldiercats.drsteknoloji.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5087640/156bfcb59643b039a8fc7afc7856f32e22075cb4/header.jpg?t=1786970550",
-        "Date": "TBA",
-        "AddedDate": "2026-08-17",
-        "AddedTimestamp": 1786972317.780269,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787050243.3511899,
         "MatchedTags": [
             "strategy"
         ]
@@ -147115,9 +147115,9 @@
         "URL": "https://store.steampowered.com/app/4516960/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4516960/844ded792fb8c7f789a2582d6d8898764fa95d3d/header.jpg?t=1787015689",
-        "Date": "Dec 7, 2026",
+        "Date": "December 2026",
         "AddedDate": "2026-08-18",
-        "AddedTimestamp": 1787018034.291349,
+        "AddedTimestamp": 1787050192.889196,
         "MatchedTags": [
             "resource management",
             "management",
@@ -147745,6 +147745,52 @@
         "MatchedTags": [
             "horror",
             "survival horror"
+        ]
+    },
+    "4461470": {
+        "Title": "Dark Offering",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4461470/",
+        "Site": "https://www.darkoffering.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4461470/8b278988a01b2e7d5d9ca6f3d48f2b07d68250cf/header.jpg?t=1787048756",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787050189.5958383,
+        "MatchedTags": [
+            "turn-based combat",
+            "turn-based strategy"
+        ]
+    },
+    "5054190": {
+        "Title": "Mermade",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5054190/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5054190/db30a28364aed64bae9a0ac98eefcce19dc0eae6/header.jpg?t=1787047025",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787050238.176076,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5080620": {
+        "Title": "Scroll Shop",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5080620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5080620/cb5751a2e3b60ddb4513d95bf95b5585124ed235/header.jpg?t=1787046826",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787050240.5021985,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "management"
         ]
     }
 }
