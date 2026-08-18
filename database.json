@@ -29902,9 +29902,9 @@
         "AddedDate": "2026-07-06",
         "AddedTimestamp": 1783312899.5909111,
         "MatchedTags": [
-            "strategy",
             "turn-based strategy",
-            "psychological horror"
+            "turn-based tactics",
+            "real time tactics"
         ]
     },
     "4595910": {
@@ -125610,9 +125610,9 @@
         "URL": "https://store.steampowered.com/app/4359020/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4359020/bed74a876a3840c63076b759039d22a4f597db9d/header.jpg?t=1785371496",
-        "Date": "November 2026",
-        "AddedDate": "2026-08-13",
-        "AddedTimestamp": 1786641395.3729756,
+        "Date": "Nov 11, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787028910.2113917,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -139248,9 +139248,9 @@
         "URL": "https://store.steampowered.com/app/4838650/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4838650/afcc3b9cc5865239af8cf7855bfd624a737dc7c0/header.jpg?t=1786531075",
-        "Date": "Nov 2, 2026",
-        "AddedDate": "2026-08-14",
-        "AddedTimestamp": 1786675750.790334,
+        "Date": "Dec 7, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787028941.411445,
         "MatchedTags": [
             "turn-based strategy",
             "turn-based tactics"
@@ -143657,9 +143657,9 @@
         "URL": "https://store.steampowered.com/app/5063210/",
         "Site": "https://last-bastion-protocol.de",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5063210/06b0f940ba7574c76af3e0d6430ab30b794f88dd/header.jpg?t=1786773438",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-15",
-        "AddedTimestamp": 1786777231.1901748,
+        "Date": "Sep 9, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787028998.728995,
         "MatchedTags": [
             "strategy",
             "tower defense"
@@ -146350,8 +146350,8 @@
         "AddedDate": "2026-08-17",
         "AddedTimestamp": 1786985460.2120326,
         "MatchedTags": [
-            "psychological horror",
             "horror",
+            "psychological horror",
             "survival horror"
         ]
     },
@@ -147428,6 +147428,82 @@
             "turn-based tactics",
             "turn-based combat",
             "tactical"
+        ]
+    },
+    "5019720": {
+        "Title": "\u7edd\u7075  Ashen Spirit",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5019720/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5019720/021de3e7ab8cb06ea55ac6828184f638f342e7d0/header.jpg?t=1787026537",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787028982.220992,
+        "MatchedTags": [
+            "turn-based tactics",
+            "tactical rpg"
+        ]
+    },
+    "5048900": {
+        "Title": "BEAM Inc.",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5048900/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5048900/d2aeb428e1e31674d788240f4c576dbbddf9a041/header.jpg?t=1787027135",
+        "Date": "Oct 28, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787028985.1534545,
+        "MatchedTags": [
+            "resource management",
+            "strategy",
+            "management"
+        ]
+    },
+    "5060490": {
+        "Title": "Jin Ping Mei: Qinghe Reverie",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5060490/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5060490/0d5d2688a1c01fa9fc141cd13cda54869a614586/header.jpg?t=1787027976",
+        "Date": "October 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787028995.565392,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management",
+            "economy"
+        ]
+    },
+    "5098450": {
+        "Title": "MidnightAsh",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5098450/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5098450/f3a990ef4950df9f7804467fe2b1391322f25d84/header.jpg?t=1787027651",
+        "Date": "TBA",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787029001.7878394,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "5099760": {
+        "Title": "PROBATION: EXTENDED COVERAGE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5099760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5099760/33722bb19fcea96e2db6555c55cacdd623d02d2d/header.jpg?t=1787026821",
+        "Date": "Nov 1, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787029004.502743,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
