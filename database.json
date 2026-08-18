@@ -10711,9 +10711,9 @@
         "URL": "https://store.steampowered.com/app/4434580/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434580/899f5aa4400b4126254b84560962d6d4c30a5797/header.jpg?t=1773916152",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-19",
-        "AddedTimestamp": 1773918210.1436577,
+        "Date": "Nov 4, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787043368.2215972,
         "MatchedTags": [
             "colony sim",
             "base building",
@@ -113300,9 +113300,9 @@
         "URL": "https://store.steampowered.com/app/4938410/",
         "Site": "https://www.puzala.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4938410/140d69b0c12a7f7254f89d71a34d6c36b70e439a/header.jpg?t=1784257472",
-        "Date": "Sep 13, 2026",
+        "Date": "Sep 14, 2026",
         "AddedDate": "2026-08-18",
-        "AddedTimestamp": 1787022685.9008207,
+        "AddedTimestamp": 1787043403.946487,
         "MatchedTags": [
             "strategy"
         ]
@@ -113581,9 +113581,9 @@
         "URL": "https://store.steampowered.com/app/1565490/",
         "Site": "https://trainstationtycoon.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1565490/31ad035e2270a667a7ab030b747cb26ee8a741c0/header.jpg?t=1784300133",
-        "Date": "Sep 1, 2026",
-        "AddedDate": "2026-07-17",
-        "AddedTimestamp": 1784302954.0261776,
+        "Date": "Oct 1, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787043352.3758056,
         "MatchedTags": [
             "management"
         ]
@@ -147698,6 +147698,53 @@
             "psychological horror",
             "survival horror",
             "resource management"
+        ]
+    },
+    "4679490": {
+        "Title": "Mirrorbane",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4679490/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4679490/c7f723399663a48dac13318d2d08ca089e4ef8a0/header.jpg?t=1787041660",
+        "Date": "November 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787043387.403738,
+        "MatchedTags": [
+            "turn-based combat",
+            "strategy"
+        ]
+    },
+    "4929050": {
+        "Title": "Pantheon Tactics",
+        "Email": "",
+        "Discord": "https://discord.gg/4JNUCG8hP",
+        "URL": "https://store.steampowered.com/app/4929050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4929050/a7d77df86dfd2e89813e85f3ef31091621b7e1e8/header.jpg?t=1787041731",
+        "Date": "Oct 1, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787043401.1499813,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "turn-based combat",
+            "turn-based strategy"
+        ]
+    },
+    "5055530": {
+        "Title": "The Last Curse",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5055530/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5055530/7673013f52f87dd18f91d49343419ddf327977c3/header.jpg?t=1787040712",
+        "Date": "TBA",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787043443.0888622,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
         ]
     }
 }
