@@ -41441,8 +41441,7 @@
         "AddedDate": "2026-04-24",
         "AddedTimestamp": 1777075027.0234203,
         "MatchedTags": [
-            "strategy",
-            "tactical"
+            "strategy"
         ]
     },
     "4662680": {
@@ -77584,8 +77583,8 @@
     },
     "4102480": {
         "Title": "Vampire: The Masquerade \u2014 ETERNAL WHISPERS",
-        "Email": "business@flyosgames.com, info@flyosgames.com, rh@flyosgames.com",
-        "Discord": "",
+        "Email": "rh@flyosgames.com, info@flyosgames.com, business@flyosgames.com",
+        "Discord": "https://discord.gg/r7rmpxFuqf",
         "URL": "https://store.steampowered.com/app/4102480/",
         "Site": "https://www.flyosgames.com/pages/video-game",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4102480/86788c5913dec2300f21826984a5c91aa55fec73/header.jpg?t=1780864534",
@@ -85102,7 +85101,7 @@
     },
     "4564690": {
         "Title": "Rootknot",
-        "Email": "daring.deevs@gmail.com",
+        "Email": "yasaman@daringdeevs.com, narges@daringdeevs.com, info@daringdeevs.com",
         "Discord": "https://discord.gg/ZAEaW728",
         "URL": "https://store.steampowered.com/app/4564690/",
         "Site": "https://daringdeevs.com/",
@@ -122580,7 +122579,7 @@
     "4889640": {
         "Title": "Save Me, Hero!",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/eKemPAUWz",
         "URL": "https://store.steampowered.com/app/4889640/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4889640/7d8691a24d02d049c6115e7ce3bf0c82efefbc03/header.jpg?t=1785121818",
@@ -130978,9 +130977,9 @@
         "URL": "https://store.steampowered.com/app/4959190/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4959190/5aa645ec9949e051f636ad9d9c2123c1b4088db1/header.jpg?t=1785863167",
-        "Date": "To be announced",
-        "AddedDate": "2026-08-04",
-        "AddedTimestamp": 1785866864.190526,
+        "Date": "Aug 18, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787058756.2027164,
         "MatchedTags": [
             "tactical"
         ]
@@ -145567,9 +145566,9 @@
         "AddedDate": "2026-08-17",
         "AddedTimestamp": 1786951215.7179368,
         "MatchedTags": [
-            "strategy",
             "psychological horror",
-            "horror"
+            "horror",
+            "management"
         ]
     },
     "5000540": {
@@ -147850,6 +147849,150 @@
         "AddedTimestamp": 1787053510.7543695,
         "MatchedTags": [
             "survival horror"
+        ]
+    },
+    "4247260": {
+        "Title": "NightRunner",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4247260/",
+        "Site": "https://play.nightrunnergame.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4247260/16b5ee3c1aea4100655c96ffad7207e1e6fa48a8/header.jpg?t=1787058081",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787058684.3495238,
+        "MatchedTags": [
+            "tower defense",
+            "horror",
+            "management",
+            "tactical",
+            "base building"
+        ]
+    },
+    "4650980": {
+        "Title": "My Friend, the Wickhorn",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4650980/",
+        "Site": "https://dragonkeystudio.com/mailing-list",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4650980/412806ee8cbe104be3444cd5b14349e167817a4f/header.jpg?t=1787054882",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787058715.5390632,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4657210": {
+        "Title": "Undershroom",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4657210/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4657210/9ff59d6e19540428cac5bf31f7a07e04997470f7/header.jpg?t=1787057094",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787058718.3179398,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5016300": {
+        "Title": "Bottle Immortal",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5016300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5016300/e22970807a2b851f093e6607552cd1ef5cad8b9f/header.jpg?t=1787056409",
+        "Date": "Aug 31, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787058777.9769094,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg",
+            "turn-based strategy",
+            "turn-based combat",
+            "base building"
+        ]
+    },
+    "5046360": {
+        "Title": "Technocene: Down and Out on Ganymede",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5046360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5046360/95a05fc531bda31be9feadf1f2547404e80abcf1/header.jpg?t=1787057134",
+        "Date": "TBA",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787058802.2820785,
+        "MatchedTags": [
+            "economy",
+            "resource management"
+        ]
+    },
+    "5053660": {
+        "Title": "Mazlide",
+        "Email": "support-mazlide@gauthierpl.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5053660/",
+        "Site": "https://gauthierpl.com/mazlide/en/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5053660/242103204dd1f11d332bc948ee1c10a85362f699/header.jpg?t=1787054863",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787058805.6399145,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "5059950": {
+        "Title": "VORA",
+        "Email": "",
+        "Discord": "https://discord.gg/c7naSs4q9S",
+        "URL": "https://store.steampowered.com/app/5059950/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5059950/44b657c1d91d369506fde24be5c4a22ed442d62c/header.jpg?t=1787055568",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787058813.200128,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "5068280": {
+        "Title": "Angkor",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5068280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5068280/9a2f7357595a74bf755582555a065ee778ced40a/header.jpg?t=1787057332",
+        "Date": "2027",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787058818.6497934,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "economy",
+            "management",
+            "base building",
+            "resource management"
+        ]
+    },
+    "5080030": {
+        "Title": "SEC//SIM \u2014 Security Engineer Simulation",
+        "Email": "contact@sasoriken-games.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5080030/",
+        "Site": "https://sasoriken-games.com/games/secsim/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5080030/fbf8d84cf86d3431b787906c2004756554afccb5/header.jpg?t=1787056912",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787058832.942652,
+        "MatchedTags": [
+            "strategy",
+            "management"
         ]
     }
 }
