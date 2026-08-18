@@ -14790,9 +14790,9 @@
         "URL": "https://store.steampowered.com/app/4550500/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4550500/29ba3302de6d69162cbeb0ac38278c046ffa6a65/header.jpg?t=1774494624",
-        "Date": "Aug 19, 2026",
+        "Date": "Aug 18, 2026",
         "AddedDate": "2026-08-18",
-        "AddedTimestamp": 1787046727.8652053,
+        "AddedTimestamp": 1787089303.699012,
         "MatchedTags": [
             "strategy"
         ]
@@ -25851,9 +25851,9 @@
         "URL": "https://store.steampowered.com/app/4581600/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4581600/d8a29bbd44fa6d00a1fcdb7b7b8e5f04f6041c30/header.jpg?t=1775741661",
-        "Date": "2026",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775744310.0811546,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787089307.916082,
         "MatchedTags": [
             "strategy"
         ]
@@ -37026,11 +37026,9 @@
         "AddedTimestamp": 1778000231.3971605,
         "MatchedTags": [
             "strategy",
-            "turn-based strategy",
-            "turn-based tactics",
-            "economy",
             "resource management",
-            "turn-based combat"
+            "turn-based strategy",
+            "economy"
         ]
     },
     "4498300": {
@@ -118445,7 +118443,7 @@
     "4970310": {
         "Title": "Tides of Empires",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/KrdUGGtGa",
         "URL": "https://store.steampowered.com/app/4970310/",
         "Site": "https://atomicpixelgames.itch.io/tides-of-empires",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4970310/eec496ba592b71391d6f78fa0ce3efef0674ce78/header.jpg?t=1784724561",
@@ -148494,9 +148492,9 @@
         "URL": "https://store.steampowered.com/app/5049230/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5049230/3c82aa79b9db29fd69a37559793c57d108a8d251/header.jpg?t=1787072412",
-        "Date": "TBA",
+        "Date": "To be announced",
         "AddedDate": "2026-08-18",
-        "AddedTimestamp": 1787075274.3715384,
+        "AddedTimestamp": 1787089358.7852519,
         "MatchedTags": [
             "horror"
         ]
@@ -148834,6 +148832,80 @@
         "MatchedTags": [
             "management",
             "resource management"
+        ]
+    },
+    "4856770": {
+        "Title": "CASE VERIDIAN",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4856770/",
+        "Site": "https://www.skyfoster.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4856770/35af00982d4bf9ff9ce2663ac6085df9dc6b3561/header.jpg?t=1787088847",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787089332.0134077,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4973070": {
+        "Title": "Hollowtone",
+        "Email": "",
+        "Discord": "https://discord.gg/PYPmrK8Frw",
+        "URL": "https://store.steampowered.com/app/4973070/",
+        "Site": "https://ferryfolkstudio.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4973070/5d16a34cecd9e6b4124e91a86f06f62918ffd5e4/header.jpg?t=1787086507",
+        "Date": "Q2 2027",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787089342.8957407,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5033250": {
+        "Title": "Maze of Astra",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5033250/",
+        "Site": "https://mazeofastra.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5033250/bd53d63e10d85eff391c32c33aa8bc67a60b9375/header.jpg?t=1787086559",
+        "Date": "TBA",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787089351.6672723,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5061860": {
+        "Title": "Casino Dealer Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5061860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5061860/a254895f2a518e03ea84833ee1c58fa2142f1de2/header.jpg?t=1787087338",
+        "Date": "November 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787089365.1314898,
+        "MatchedTags": [
+            "management",
+            "strategy"
+        ]
+    },
+    "5069470": {
+        "Title": "The 3310 Paradox",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5069470/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5069470/7911219be0981d2e3cce79ba47314aef8005ed3a/header.jpg?t=1787086461",
+        "Date": "Aug 20, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787089368.4614928,
+        "MatchedTags": [
+            "turn-based tactics",
+            "economy",
+            "management"
         ]
     }
 }
