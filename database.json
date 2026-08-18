@@ -79149,9 +79149,9 @@
         "URL": "https://store.steampowered.com/app/4727660/",
         "Site": "https://where-to-official.netlify.app",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4727660/0879e07a7ddb898b7e29b7a5e6334a7200891343/header.jpg?t=1781015765",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-07",
-        "AddedTimestamp": 1786100971.0542111,
+        "Date": "Aug 27, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787064978.0444243,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -117644,9 +117644,9 @@
         "URL": "https://store.steampowered.com/app/4969200/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4969200/ced187a5a2f19e9e690b8cd3d0f336382b2a1f3d/header.jpg?t=1784663636",
-        "Date": "TBA",
-        "AddedDate": "2026-07-21",
-        "AddedTimestamp": 1784666440.3194711,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787065024.1611562,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -148067,6 +148067,98 @@
         "MatchedTags": [
             "turn-based strategy",
             "strategy",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "1916200": {
+        "Title": "Entitled",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/1916200/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1916200/af11431d8f6237a46ed889f8c9bd8c478681e25a/header.jpg?t=1787063639",
+        "Date": "Oct 7, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787064933.436115,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4968100": {
+        "Title": "Fiducia: Own The World",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4968100/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4968100/ba6c744d0e8cc27cfd65ea485b5ac4e9770929b6/header.jpg?t=1787063665",
+        "Date": "October 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787065021.209063,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "real time tactics",
+            "grand strategy"
+        ]
+    },
+    "5032100": {
+        "Title": "Open Headcount: A Corporate-Hell Roguelike",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5032100/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5032100/98636754705890be8d6900656fee06924352c7bf/header.jpg?t=1787064893",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787065055.440729,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "5066320": {
+        "Title": "Pointless Climb",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5066320/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5066320/20f1cc0678af6c4ec4d56873cd95718391cf6207/header.jpg?t=1787065002",
+        "Date": "Oct 28, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787065062.9845653,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "5074320": {
+        "Title": "Dream City Psyche",
+        "Email": "",
+        "Discord": "https://discord.gg/v8K8kMdfaj",
+        "URL": "https://store.steampowered.com/app/5074320/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5074320/0be23f66659357f97e55eaeb426bed1024c20465/header.jpg?t=1787062315",
+        "Date": "December 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787065065.6680195,
+        "MatchedTags": [
+            "psychological horror",
+            "turn-based combat"
+        ]
+    },
+    "5089180": {
+        "Title": "Dungeon of the Forgotten",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5089180/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5089180/7d8cee2e7feeb24259be99a0b5e0e2ccf65123f6/header.jpg?t=1787063682",
+        "Date": "TBA",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787065072.7499359,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
             "turn-based tactics",
             "turn-based combat"
         ]
