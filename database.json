@@ -36922,7 +36922,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4604300/",
-        "Site": "",
+        "Site": "https://pngtriads.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4604300/8e36759f454a4acd4bcbef4f72be8ddd88393682/header.jpg?t=1776783464",
         "Date": "2026",
         "AddedDate": "2026-04-21",
@@ -105796,9 +105796,9 @@
         "URL": "https://store.steampowered.com/app/4900720/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4900720/d73027dd56de821192781791bcaee59d8f450cba/header.jpg?t=1783550250",
-        "Date": "To be announced",
-        "AddedDate": "2026-07-28",
-        "AddedTimestamp": 1785241090.261878,
+        "Date": "Aug 18, 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787082279.801464,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -118467,9 +118467,9 @@
         "URL": "https://store.steampowered.com/app/4972870/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4972870/d85e63f412de4a2c51d4ec8a84e6eca75d7df439/header.jpg?t=1784725991",
-        "Date": "Oct 1, 2026",
-        "AddedDate": "2026-07-22",
-        "AddedTimestamp": 1784730430.8227367,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787082289.5604603,
         "MatchedTags": [
             "turn-based strategy",
             "turn-based tactics",
@@ -136463,9 +136463,9 @@
         "URL": "https://store.steampowered.com/app/4847650/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4847650/4baedb9e92d54d9e305637df36b534beb362df75/header.jpg?t=1786279106",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-09",
-        "AddedTimestamp": 1786281483.591596,
+        "Date": "2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787082274.3652167,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -148623,6 +148623,75 @@
             "base building",
             "economy",
             "management"
+        ]
+    },
+    "4696850": {
+        "Title": "Somnesis: The PSX Tapes",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4696850/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4696850/15c73cd1115aa667f8e95861d9f66d6094ed55bd/header.jpg?t=1787079674",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787082256.3713462,
+        "MatchedTags": [
+            "psychological horror",
+            "survival horror",
+            "horror"
+        ]
+    },
+    "4955760": {
+        "Title": "Odin's Fate",
+        "Email": "",
+        "Discord": "https://discord.gg/stVyJ9DgfU",
+        "URL": "https://store.steampowered.com/app/4955760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4955760/b4e6d4f8dfbfcb9990d4764ca7f6a17a9c2eff2c/header.jpg?t=1787081839",
+        "Date": "2027",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787082287.2002661,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tower defense",
+            "tactical",
+            "resource management"
+        ]
+    },
+    "5100020": {
+        "Title": "Horde Up Ahead",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5100020/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5100020/ff345c4148fe5165a0d524311725d6e5b05b5e5b/header.jpg?t=1787079558",
+        "Date": "November 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787082325.625389,
+        "MatchedTags": [
+            "tower defense",
+            "strategy"
+        ]
+    },
+    "5105360": {
+        "Title": "Fjordal",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5105360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5105360/ee0a30a20e195ed991551a2e752412b1530cc5b4/header.jpg?t=1787081598",
+        "Date": "November 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787082328.242988,
+        "MatchedTags": [
+            "colony sim",
+            "base building",
+            "city builder",
+            "management",
+            "economy",
+            "strategy",
+            "resource management"
         ]
     }
 }
