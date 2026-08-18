@@ -33572,9 +33572,9 @@
         "URL": "https://store.steampowered.com/app/4329670/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4329670/4197a81a5568dfc61b50c2918648818283babd37/header.jpg?t=1776403557",
-        "Date": "Coming soon",
+        "Date": "Aug 18, 2026",
         "AddedDate": "2026-08-18",
-        "AddedTimestamp": 1787071865.4225311,
+        "AddedTimestamp": 1787075184.494206,
         "MatchedTags": [
             "management",
             "strategy"
@@ -148424,6 +148424,98 @@
             "strategy",
             "turn-based tactics",
             "turn-based combat"
+        ]
+    },
+    "4836790": {
+        "Title": "SONAR",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4836790/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4836790/871047cefd88b8647a8e6ff491ba845290e5f2e6/header.jpg?t=1787073976",
+        "Date": "2027",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787075220.7991226,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4893190": {
+        "Title": "SideTower",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4893190/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4893190/8d0919ec914879eee48bc3e0d6324ce96e0aa8b3/header.jpg?t=1787074923",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787075225.7161596,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "real time tactics",
+            "base building",
+            "management",
+            "tactical"
+        ]
+    },
+    "4896850": {
+        "Title": "Emory Cole & The Secret at Greymar Point",
+        "Email": "info@emorycole.com",
+        "Discord": "https://discord.gg/pGA9tGNx2",
+        "URL": "https://store.steampowered.com/app/4896850/",
+        "Site": "https://emorycole.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4896850/83c43500722660c0619709701dec13bd70ba46ba/header.jpg?t=1787072385",
+        "Date": "Q2 2027",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787075227.9736307,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4905660": {
+        "Title": "Catskill Mine: 10,000ft Below",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4905660/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4905660/88784193183af61d0c4a87817e88744624b84c90/header.jpg?t=1787074965",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787075230.865959,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5049230": {
+        "Title": "FIND THE CAKE!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5049230/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5049230/3c82aa79b9db29fd69a37559793c57d108a8d251/header.jpg?t=1787072412",
+        "Date": "TBA",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787075274.3715384,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5089040": {
+        "Title": "Shadow Bridge",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5089040/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5089040/cee3ddb7028d3e3cdb8b8f65bea948bff7ecdea6/header.jpg?t=1787074824",
+        "Date": "TBA",
+        "AddedDate": "2026-08-18",
+        "AddedTimestamp": 1787075287.76202,
+        "MatchedTags": [
+            "economy",
+            "strategy",
+            "resource management",
+            "management"
         ]
     }
 }
