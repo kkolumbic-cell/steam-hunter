@@ -40467,14 +40467,14 @@
     },
     "4625290": {
         "Title": "Incident Archives - Flight 882",
-        "Email": "business@astronixgames.com, support@astronixgames.com, hello@astronixgames.com",
+        "Email": "hello@astronixgames.com, support@astronixgames.com, business@astronixgames.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4625290/",
         "Site": "https://www.astronixgames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4625290/20bbf2f4bee6f4dc6fb09807f0ed90e7454afefd/header.jpg?t=1777032348",
-        "Date": "Coming soon",
+        "Date": "Aug 19, 2026",
         "AddedDate": "2026-08-19",
-        "AddedTimestamp": 1787123329.5854897,
+        "AddedTimestamp": 1787139861.236408,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -138443,9 +138443,9 @@
         "URL": "https://store.steampowered.com/app/5044080/",
         "Site": "https://www.hatsteelgames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5044080/de613ea2eee7e0d6849c9d3ac4c99afe5095f479/header.jpg?t=1786473148",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-17",
-        "AddedTimestamp": 1786993330.6664765,
+        "Date": "Dec 10, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787139906.0391667,
         "MatchedTags": [
             "horror"
         ]
@@ -148341,9 +148341,9 @@
         "URL": "https://store.steampowered.com/app/4958150/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4958150/aad69b3dadd867afcf3cde057b33a8b08d27ed61/header.jpg?t=1787069588",
-        "Date": "TBA",
-        "AddedDate": "2026-08-18",
-        "AddedTimestamp": 1787071928.0129256,
+        "Date": "To be announced",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787139889.2670496,
         "MatchedTags": [
             "strategy",
             "management",
@@ -150081,6 +150081,52 @@
         "MatchedTags": [
             "psychological horror",
             "survival horror"
+        ]
+    },
+    "4053650": {
+        "Title": "The Lunacy: That Game About a Cult",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4053650/",
+        "Site": "https://abovethedesk.games/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4053650/07d6330a0909603ac965b5d0e4f330d48b3645e7/header.jpg?t=1787139131",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787139827.469714,
+        "MatchedTags": [
+            "base building",
+            "management",
+            "strategy",
+            "city builder"
+        ]
+    },
+    "5087600": {
+        "Title": "Office Stress",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5087600/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5087600/b8e6996e3b580ea04b75959c1407884a336e9d57/header.jpg?t=1787137942",
+        "Date": "Sep 1, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787139919.2152658,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "5088240": {
+        "Title": "UnHuman",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5088240/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5088240/49978d0507b00c1373cf1ea7e25f09e0b11585bd/header.jpg?t=1787137831",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787139922.0313265,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
