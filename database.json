@@ -41024,10 +41024,10 @@
     },
     "4650720": {
         "Title": "Deadhand Theater",
-        "Email": "",
+        "Email": "bagtrackgames@gmail.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4650720/",
-        "Site": "",
+        "Site": "https://bagtrackgames.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4650720/502209c49ad8834332d2b8a554b3a6cd636c6c41/header.jpg?t=1777056519",
         "Date": "To be announced",
         "AddedDate": "2026-05-12",
@@ -142082,7 +142082,8 @@
         "MatchedTags": [
             "management",
             "strategy",
-            "base building"
+            "base building",
+            "resource management"
         ]
     },
     "5003060": {
@@ -143142,9 +143143,9 @@
         "URL": "https://store.steampowered.com/app/4942320/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4942320/911e94e746f6a2608ee4754e7bfe01b2899d5487/header.jpg?t=1786747742",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-14",
-        "AddedTimestamp": 1786750826.0346687,
+        "Date": "Aug 30, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787109269.2486413,
         "MatchedTags": [
             "strategy"
         ]
@@ -149418,7 +149419,7 @@
     "5096600": {
         "Title": "Highways & Co.",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.com/invite/j35fZQuTNd",
         "URL": "https://store.steampowered.com/app/5096600/",
         "Site": "https://highwaysco.app",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5096600/40cada74b4e8f4710ea77b3611927525a04e1760/header.jpg?t=1787103359",
@@ -149442,6 +149443,130 @@
         "AddedTimestamp": 1787104767.8827837,
         "MatchedTags": [
             "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "3943670": {
+        "Title": "Stakeroom: The Final",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3943670/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3943670/f4d0000dd1329ebc26b2f7d9a21841b5168180f0/header.jpg?t=1787106634",
+        "Date": "Dec 17, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787109218.5359924,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "5016990": {
+        "Title": "Desktop Forge",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5016990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5016990/8f6f6dd8eec6bdb0e49ee882b70d25721b4a43ac/header.jpg?t=1787109014",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787109299.7834566,
+        "MatchedTags": [
+            "management",
+            "resource management",
+            "strategy",
+            "economy"
+        ]
+    },
+    "5032820": {
+        "Title": "Powder Inc.",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5032820/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5032820/4ca29fc2ba184697fe57832a099d08cf96d8a125/header.jpg?t=1787107669",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787109302.6709633,
+        "MatchedTags": [
+            "management",
+            "city builder",
+            "strategy",
+            "economy",
+            "colony sim"
+        ]
+    },
+    "5048500": {
+        "Title": "pachinko streetscape",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5048500/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5048500/c3a66d7806c0af885faf085b744323c26fe6368f/header.jpg?t=1787107544",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787109316.8513772,
+        "MatchedTags": [
+            "strategy",
+            "base building",
+            "tower defense"
+        ]
+    },
+    "5076490": {
+        "Title": "Whodunit Sudoku",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5076490/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5076490/ad870e87dcc2cf156b8e88ac11a66d23e46dc84e/header.jpg?t=1787105830",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787109339.5506868,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "5083020": {
+        "Title": "404\u6f2b\u6e38\u8005",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5083020/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5083020/8fca1c03e4ed87e6a248b253862a86a843565a8a/header.jpg?t=1787106021",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787109345.063803,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5087590": {
+        "Title": "RouteScript",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5087590/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5087590/a5cb4ac8053940c857b26b8657ff9c4cb7876ae7/header.jpg?t=1787107551",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787109347.2980816,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5097290": {
+        "Title": "Garden Pressure",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5097290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5097290/ce7431d309f0fffcf6d2cc26c8af10d391f2c92e/header.jpg?t=1787108820",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787109358.4577355,
+        "MatchedTags": [
             "management",
             "resource management"
         ]
