@@ -33334,7 +33334,7 @@
     "4631120": {
         "Title": "Dead Hand",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/audpTarZW",
         "URL": "https://store.steampowered.com/app/4631120/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4631120/23b47d5c5d5919c93cbe1f32923c30f8ac2ab724/header.jpg?t=1776372310",
@@ -66175,9 +66175,9 @@
         "URL": "https://store.steampowered.com/app/4713660/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4713660/ba401d24acbadb791f116f1329b64fd2e15ca18b/header.jpg?t=1779917174",
-        "Date": "Nov 1, 2026",
-        "AddedDate": "2026-08-13",
-        "AddedTimestamp": 1786603700.0744696,
+        "Date": "Dec 1, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787126205.4899552,
         "MatchedTags": [
             "turn-based tactics",
             "turn-based strategy",
@@ -124934,9 +124934,9 @@
         "URL": "https://store.steampowered.com/app/4993560/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4993560/acb5a483d6727cbd684373b9ca617c067b052daf/header.jpg?t=1785329077",
-        "Date": "Q1 2027",
-        "AddedDate": "2026-08-04",
-        "AddedTimestamp": 1785873678.886988,
+        "Date": "2027",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787126229.2738411,
         "MatchedTags": [
             "economy",
             "resource management"
@@ -136522,9 +136522,9 @@
         "URL": "https://store.steampowered.com/app/5041740/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5041740/dcaf3b0353ad9dc10bf7299277821204e731d2cf/header.jpg?t=1786285135",
-        "Date": "August 2026",
+        "Date": "Q3 2026",
         "AddedDate": "2026-08-19",
-        "AddedTimestamp": 1787118565.4545176,
+        "AddedTimestamp": 1787126234.734634,
         "MatchedTags": [
             "strategy",
             "tactical",
@@ -147637,9 +147637,9 @@
         "URL": "https://store.steampowered.com/app/5095790/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5095790/f4ec73ef646b37b3aa6ac3ec984c92a888aabd3e/header.jpg?t=1787036299",
-        "Date": "September 2026",
-        "AddedDate": "2026-08-18",
-        "AddedTimestamp": 1787036961.849567,
+        "Date": "November 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787126251.4074829,
         "MatchedTags": [
             "strategy",
             "management",
@@ -149832,6 +149832,53 @@
         "MatchedTags": [
             "horror",
             "survival horror"
+        ]
+    },
+    "5038140": {
+        "Title": "An Unreasonable Number of Zombies",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5038140/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5038140/f8724c3f01ba3de768740c4162806f4bf8f1c159/header.jpg?t=1787124409",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787126232.6716175,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "resource management"
+        ]
+    },
+    "5065700": {
+        "Title": "DiceRoll",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5065700/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5065700/85490916a14eef80de246f7d8542491557d8365b/header.jpg?t=1787125441",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787126239.956448,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5096250": {
+        "Title": "Bubblecore: Survivors",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5096250/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5096250/c93e0c1ec628e47e2947c73f95c755c6f4575cc8/header.jpg?t=1787124561",
+        "Date": "Sep 3, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787126253.6983619,
+        "MatchedTags": [
+            "tower defense",
+            "city builder",
+            "real time tactics",
+            "resource management"
         ]
     }
 }
