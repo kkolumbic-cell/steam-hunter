@@ -30198,9 +30198,9 @@
         "URL": "https://store.steampowered.com/app/3464150/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3464150/9c4014d935fd32f33640649dc5eaf924a6b923ec/header.jpg?t=1776176025",
-        "Date": "TBA",
-        "AddedDate": "2026-04-14",
-        "AddedTimestamp": 1776176094.9820008,
+        "Date": "To be announced",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787182779.8375545,
         "MatchedTags": [
             "horror"
         ]
@@ -106896,24 +106896,6 @@
             "turn-based tactics"
         ]
     },
-    "4844280": {
-        "Title": "Auto Cats",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4844280/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4844280/f9f23083390a10c6c6d1b5ddaf0b252b2d3b7052/header.jpg?t=1783652875",
-        "Date": "Oct 1, 2026",
-        "AddedDate": "2026-07-18",
-        "AddedTimestamp": 1784416378.7928023,
-        "MatchedTags": [
-            "strategy",
-            "turn-based strategy",
-            "tactical",
-            "turn-based combat",
-            "turn-based tactics"
-        ]
-    },
     "4888520": {
         "Title": "Pixel Three Kingdoms: Zombie Dungeon",
         "Email": "",
@@ -113742,9 +113724,9 @@
         "URL": "https://store.steampowered.com/app/4913850/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4913850/f4675d72071a6f8202ecceebdec5b3e95f09cbf6/header.jpg?t=1784304503",
-        "Date": "Aug 21, 2026",
-        "AddedDate": "2026-08-17",
-        "AddedTimestamp": 1787006708.8492346,
+        "Date": "Aug 19, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787182799.4144173,
         "MatchedTags": [
             "strategy",
             "horror",
@@ -124437,7 +124419,7 @@
     "4982850": {
         "Title": "Captive 3000",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/BYrdqcNEAy",
         "URL": "https://store.steampowered.com/app/4982850/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4982850/40c74380c1d9c662ca695e108d6dc4fc767f0b91/header.jpg?t=1785293204",
@@ -126274,9 +126256,9 @@
         "URL": "https://store.steampowered.com/app/5009620/",
         "Site": "https://www.gloomhallow.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5009620/0a088113c05e5aa44df53876845958ab275f775a/header.jpg?t=1785420885",
-        "Date": "Sep 10, 2026",
-        "AddedDate": "2026-07-30",
-        "AddedTimestamp": 1785422347.452923,
+        "Date": "September 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787182817.428616,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -148797,9 +148779,9 @@
         "URL": "https://store.steampowered.com/app/5086360/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5086360/5d818256ab93dda24f951cd2072e0a415dbf365c/header.jpg?t=1787082546",
-        "Date": "TBA",
-        "AddedDate": "2026-08-18",
-        "AddedTimestamp": 1787085907.024835,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787182834.0665376,
         "MatchedTags": [
             "tower defense",
             "strategy",
@@ -151298,6 +151280,35 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "5097300": {
+        "Title": "PUSH MID",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5097300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5097300/27fa9eda73076a32447ce896bc3860a962d88f6c/header.jpg?t=1787179537",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787182840.459163,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "5103290": {
+        "Title": "LOAGRITE: The Flightless Bird",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5103290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5103290/ee0b53e9572ef0f584739b65919daf7da7b7ada4/header.jpg?t=1787182110",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787182845.3040574,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
