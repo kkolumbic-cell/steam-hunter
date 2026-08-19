@@ -124390,8 +124390,7 @@
         "AddedDate": "2026-08-18",
         "AddedTimestamp": 1787018014.7076154,
         "MatchedTags": [
-            "tower defense",
-            "strategy"
+            "tower defense"
         ]
     },
     "4940050": {
@@ -135609,7 +135608,7 @@
     "5046840": {
         "Title": "TowOrbs",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/ZaSacZBJD3",
         "URL": "https://store.steampowered.com/app/5046840/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5046840/53fe995a17584a613e11cbe917ac0d48061574fe/header.jpg?t=1786140046",
@@ -149569,6 +149568,68 @@
         "MatchedTags": [
             "management",
             "resource management"
+        ]
+    },
+    "4985620": {
+        "Title": "Tarot Gambit",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4985620/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4985620/c647f47c7200aa04f29507309b4b7dbdb87b07df/header.jpg?t=1787110788",
+        "Date": "Aug 30, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787112236.3035858,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "5039960": {
+        "Title": "Seven Nights With Hanako",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5039960/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5039960/028525f430d10e3ccddcb935987153d258eb5cde/header.jpg?t=1787110104",
+        "Date": "October 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787112255.1942205,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "5050200": {
+        "Title": "Luck for Sale - \uc300\uba39 \uc2dc\ubbac\ub808\uc774\ud130",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5050200/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5050200/38a3d33b30716c867a3fd14992c234f92052f1d2/header.jpg?t=1787111332",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787112262.0599988,
+        "MatchedTags": [
+            "colony sim",
+            "management",
+            "economy"
+        ]
+    },
+    "5050660": {
+        "Title": "The House on Grisewood",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5050660/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5050660/dbdc56f74996415d0bb35dba8888cefc9af84b2a/header.jpg?t=1787110502",
+        "Date": "TBA",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787112264.1285555,
+        "MatchedTags": [
+            "survival horror",
+            "horror"
         ]
     }
 }
