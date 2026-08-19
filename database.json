@@ -7686,12 +7686,11 @@
         "AddedTimestamp": 1773485283.791206,
         "MatchedTags": [
             "turn-based tactics",
-            "tactical rpg",
             "strategy",
             "turn-based strategy",
             "turn-based combat",
-            "tactical",
-            "management"
+            "management",
+            "tactical"
         ]
     },
     "4484540": {
@@ -37621,9 +37620,9 @@
         "URL": "https://store.steampowered.com/app/4615950/",
         "Site": "https://rbgamestudio.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4615950/91c1b5bc815a886b6bd1a93e53601af7e1056e38/header.jpg?t=1776820393",
-        "Date": "Aug 14, 2026",
-        "AddedDate": "2026-08-10",
-        "AddedTimestamp": 1786344205.5691981,
+        "Date": "Aug 19, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787158178.3862805,
         "MatchedTags": [
             "turn-based tactics",
             "strategy",
@@ -71580,21 +71579,6 @@
             "tower defense"
         ]
     },
-    "4740010": {
-        "Title": "Bodian's Bay Wash",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4740010/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4740010/7372a825954f758555441c9d3758dd86bbaf08a0/header.jpg?t=1780352678",
-        "Date": "Jul 16, 2026",
-        "AddedDate": "2026-07-16",
-        "AddedTimestamp": 1784232833.9582858,
-        "MatchedTags": [
-            "management",
-            "resource management"
-        ]
-    },
     "4751190": {
         "Title": "DEGENERATE STAR",
         "Email": "",
@@ -79285,8 +79269,7 @@
         "MatchedTags": [
             "strategy",
             "tactical rpg",
-            "management",
-            "tactical"
+            "management"
         ]
     },
     "4815980": {
@@ -127959,9 +127942,9 @@
         "URL": "https://store.steampowered.com/app/5012340/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5012340/bbf20ded5a4e3b65777cb550fef03552216c08c8/header.jpg?t=1785514913",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-07-31",
-        "AddedTimestamp": 1785520939.4960525,
+        "Date": "Aug 19, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787158249.712282,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -133506,9 +133489,9 @@
         "URL": "https://store.steampowered.com/app/5010520/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5010520/88ebc82b2f368792a62f4c20b174af2dcc9000bc/header.jpg?t=1786015043",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-06",
-        "AddedTimestamp": 1786018971.7541928,
+        "Date": "Aug 20, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787158246.4579127,
         "MatchedTags": [
             "economy",
             "management",
@@ -138447,7 +138430,8 @@
         "AddedTimestamp": 1787139906.0391667,
         "MatchedTags": [
             "horror",
-            "management"
+            "psychological horror",
+            "survival horror"
         ]
     },
     "5061820": {
@@ -141507,9 +141491,9 @@
         "URL": "https://store.steampowered.com/app/5060600/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5060600/74fb897f72542caaf067941852a0548c99c62628/header.jpg?t=1786657770",
-        "Date": "To be announced",
-        "AddedDate": "2026-08-13",
-        "AddedTimestamp": 1786658842.6222708,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787158280.9009962,
         "MatchedTags": [
             "economy",
             "management",
@@ -147881,8 +147865,8 @@
         "AddedDate": "2026-08-18",
         "AddedTimestamp": 1787058715.5390632,
         "MatchedTags": [
-            "horror",
-            "psychological horror"
+            "psychological horror",
+            "horror"
         ]
     },
     "4657210": {
@@ -147907,9 +147891,9 @@
         "URL": "https://store.steampowered.com/app/5016300/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5016300/e22970807a2b851f093e6607552cd1ef5cad8b9f/header.jpg?t=1787056409",
-        "Date": "Aug 31, 2026",
-        "AddedDate": "2026-08-18",
-        "AddedTimestamp": 1787058777.9769094,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787158251.8663287,
         "MatchedTags": [
             "strategy",
             "tactical rpg",
@@ -150572,6 +150556,107 @@
         "MatchedTags": [
             "turn-based tactics",
             "strategy"
+        ]
+    },
+    "4881420": {
+        "Title": "En Garde Gambit",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4881420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4881420/9f04874b2796ca0f17aedbae24ead9522ef53f63/header.jpg?t=1787155896",
+        "Date": "November 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787158218.2329721,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based combat",
+            "turn-based strategy"
+        ]
+    },
+    "4990220": {
+        "Title": "Armoured Combat",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4990220/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4990220/3bc3b60c2df77e67dd6b139b4fc3fe46c3c68226/header.jpg?t=1787156467",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787158236.7304628,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat",
+            "tactical"
+        ]
+    },
+    "4998840": {
+        "Title": "Spellarium 14 Collector's Edition",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4998840/",
+        "Site": "https://www.facebook.com/lgtsia/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4998840/9f12909e09ed45ce8143b8ef37180c6c701e669a/header.jpg?t=1787155624",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787158241.53171,
+        "MatchedTags": [
+            "city builder"
+        ]
+    },
+    "5050110": {
+        "Title": "Money Wars : Modern Ages",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5050110/",
+        "Site": "https://mwma.earthquick.dev/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5050110/bbb78dde34100b6f979ac998213205b9e5421a57/header.jpg?t=1787155494",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787158275.5177639,
+        "MatchedTags": [
+            "strategy",
+            "colony sim",
+            "grand strategy",
+            "turn-based strategy",
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "5078570": {
+        "Title": "Throne & Conquest: King Arthur",
+        "Email": "",
+        "Discord": "https://discord.com/invite/P4CKMjGstY",
+        "URL": "https://store.steampowered.com/app/5078570/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5078570/5089bc1f72fc9fb0466c1c7cd9aa8af8f1b8fee0/header.jpg?t=1787157812",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787158294.5101507,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "management",
+            "tactical"
+        ]
+    },
+    "5100350": {
+        "Title": "Fungus Co.",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5100350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5100350/a2dc422e62de382b12c864458c13cfb7096a6f99/header.jpg?t=1787157703",
+        "Date": "2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787158299.8181224,
+        "MatchedTags": [
+            "colony sim",
+            "strategy",
+            "resource management"
         ]
     }
 }
