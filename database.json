@@ -8512,7 +8512,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4475520/",
-        "Site": "",
+        "Site": "http://skinface.net/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4475520/ffbf41ddae77944065d9b9f4c874951bdfebc5cb/header.jpg?t=1773689698",
         "Date": "To be announced",
         "AddedDate": "2026-03-16",
@@ -72709,7 +72709,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4779490/",
-        "Site": "",
+        "Site": "https://underfang.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4779490/c347129c2cb61b0c6a6363f71797e060f83c582b/header.jpg?t=1780435397",
         "Date": "Coming soon",
         "AddedDate": "2026-06-30",
@@ -88341,9 +88341,9 @@
         "URL": "https://store.steampowered.com/app/4806940/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4806940/2ce7ed11250f0eaf22440edf0f28092234e7b49a/header.jpg?t=1781730134",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-17",
-        "AddedTimestamp": 1781731572.306633,
+        "Date": "Sep 11, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787168686.64311,
         "MatchedTags": [
             "management",
             "resource management",
@@ -125820,9 +125820,9 @@
         "URL": "https://store.steampowered.com/app/4931450/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931450/98d1e854a09cbbff3aa8361a9887406f48b0c7fc/header.jpg?t=1785390565",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-30",
-        "AddedTimestamp": 1785393893.3441935,
+        "Date": "Q3 2027",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787168694.8253233,
         "MatchedTags": [
             "resource management"
         ]
@@ -136941,9 +136941,9 @@
         "URL": "https://store.steampowered.com/app/4993250/",
         "Site": "https://x.com/CHARLESVICTUS",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4993250/b7d0360a6ed0d9e3bc64905f9a77378d4790e907/header.jpg?t=1786380603",
-        "Date": "Sep 10, 2026",
-        "AddedDate": "2026-08-10",
-        "AddedTimestamp": 1786382048.0836298,
+        "Date": "Sep 25, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787168705.856784,
         "MatchedTags": [
             "survival horror",
             "horror"
@@ -141367,7 +141367,7 @@
     },
     "5075160": {
         "Title": "Utaburg",
-        "Email": "you@gmail.com, twoj@gmail.com",
+        "Email": "twoj@gmail.com, you@gmail.com",
         "Discord": "https://discord.gg/XhJRzDzUwf",
         "URL": "https://store.steampowered.com/app/5075160/",
         "Site": "https://utaburg.com/",
@@ -150797,6 +150797,140 @@
         "MatchedTags": [
             "management",
             "resource management"
+        ]
+    },
+    "5024800": {
+        "Title": "Sorry, That Notice Guarantees Nothing",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5024800/",
+        "Site": "https://stngn.raonware.kr",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5024800/05d19b575876b78112c3a91cc826599e0a0fd7b9/header.jpg?t=1787168565",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787168717.313447,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "5028640": {
+        "Title": "Nordic Lake",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5028640/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5028640/408f8fd699e0bc5ffde7d23814d5b53cc89a62c8/header.jpg?t=1787166499",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787168720.7957904,
+        "MatchedTags": [
+            "colony sim",
+            "management",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "5073070": {
+        "Title": "Bonehaven",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5073070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5073070/bd2a439e122aa0ab7a4c72a05709e4c2d09560aa/header.jpg?t=1787166514",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787168735.4518797,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "resource management"
+        ]
+    },
+    "5081480": {
+        "Title": "Black Market INC.",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5081480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5081480/f9a58613db989e75380a204bf245a2aa8721a135/header.jpg?t=1787166179",
+        "Date": "Nov 12, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787168748.909983,
+        "MatchedTags": [
+            "colony sim",
+            "base building",
+            "economy",
+            "management",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "5090630": {
+        "Title": "Lanternfall",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5090630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5090630/45c6b08dfae355375b2eb80bdfb30babe59b4a59/header.jpg?t=1787166571",
+        "Date": "Oct 28, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787168757.3866858,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "economy",
+            "tactical"
+        ]
+    },
+    "5099410": {
+        "Title": "Cargo Tempo",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5099410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5099410/66b19fafee4f47abf77a0e8b12e73f6b0d32123a/header.jpg?t=1787166359",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787168762.7972677,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "turn-based tactics",
+            "management",
+            "tactical",
+            "resource management"
+        ]
+    },
+    "5101180": {
+        "Title": "The World's Shortest Horror Game",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5101180/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5101180/c76893736678ca2f0e489156ebd948bfad8e53fe/header.jpg?t=1787168357",
+        "Date": "Oct 22, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787168765.5667417,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5114920": {
+        "Title": "Beggar Simulator: Istanbul",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5114920/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5114920/86aa41c743a07ac164b57b666ff913afb648d0d0/header.jpg?t=1787168544",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787168772.0284991,
+        "MatchedTags": [
+            "resource management",
+            "economy"
         ]
     }
 }
