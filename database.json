@@ -40467,14 +40467,14 @@
     },
     "4625290": {
         "Title": "Incident Archives - Flight 882",
-        "Email": "support@astronixgames.com, business@astronixgames.com, hello@astronixgames.com",
+        "Email": "business@astronixgames.com, support@astronixgames.com, hello@astronixgames.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4625290/",
         "Site": "https://www.astronixgames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4625290/20bbf2f4bee6f4dc6fb09807f0ed90e7454afefd/header.jpg?t=1777032348",
-        "Date": "Aug 18, 2026",
-        "AddedDate": "2026-08-10",
-        "AddedTimestamp": 1786351999.1468775,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787123329.5854897,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -79266,9 +79266,9 @@
         "URL": "https://store.steampowered.com/app/4803530/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4803530/4495a29724bbf8be23c25b37be627bb27923e4ea/header.jpg?t=1781016763",
-        "Date": "Aug 26, 2026",
-        "AddedDate": "2026-07-26",
-        "AddedTimestamp": 1785074364.000237,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787123344.5248768,
         "MatchedTags": [
             "strategy",
             "horror"
@@ -119186,9 +119186,9 @@
         "URL": "https://store.steampowered.com/app/4877960/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4877960/825d0db87820183ad6c07edea93fb60a9112ee8d/header.jpg?t=1784776867",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-25",
-        "AddedTimestamp": 1785008253.667046,
+        "Date": "Aug 18, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787123372.9813883,
         "MatchedTags": [
             "horror"
         ]
@@ -137351,7 +137351,7 @@
     "4855600": {
         "Title": "IronFire Idle Defense",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/WSJf7pdfDq",
         "URL": "https://store.steampowered.com/app/4855600/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855600/65dc9356f4ded5c4d510842c4043549f3f341f80/header.jpg?t=1786414454",
@@ -140728,7 +140728,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/5034610/",
-        "Site": "",
+        "Site": "https://www.drbowlatzo.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5034610/7df17f7f1a4721613102ede4cc73407f3ae5855f/header.jpg?t=1786613392",
         "Date": "Aug 27, 2026",
         "AddedDate": "2026-08-13",
@@ -149739,6 +149739,99 @@
         "AddedTimestamp": 1787118576.5884361,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4499020": {
+        "Title": "Caravan Manager",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4499020/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4499020/19c94c709f4e89805516e2455d3ea3baa18d5997/header.jpg?t=1787120778",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787123314.0534074,
+        "MatchedTags": [
+            "resource management",
+            "strategy",
+            "economy",
+            "management"
+        ]
+    },
+    "5050080": {
+        "Title": "Mine Mine Mine",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5050080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5050080/dbafa3b164b7d187478739a93f80327e5b959de9/header.jpg?t=1787120562",
+        "Date": "Oct 30, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787123410.2162664,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5051760": {
+        "Title": "OMFG: The Fate of Mortals",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5051760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5051760/9588709fb3423f0cb7138ac84c46b7bcba23f2f2/header.jpg?t=1787122215",
+        "Date": "TBA",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787123414.5517566,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "5060950": {
+        "Title": "Equilibrium Co",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5060950/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5060950/84a421097d9a6675b4353fe7ff183268ceb5a4fd/header.jpg?t=1787118844",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787123419.6277168,
+        "MatchedTags": [
+            "city builder",
+            "strategy",
+            "economy",
+            "management",
+            "turn-based strategy",
+            "resource management"
+        ]
+    },
+    "5063630": {
+        "Title": "Serene Cultivation",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5063630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5063630/27f4ac2923df27e05c6f217c2c72e28a33d9c458/header.jpg?t=1787120940",
+        "Date": "TBA",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787123429.9976976,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "5069550": {
+        "Title": "Don't Stop Mike",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5069550/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5069550/a41a291627c1cbe6647cb85836aeb4234f9c2f1a/header.jpg?t=1787120813",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787123432.4209275,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
         ]
     }
 }
