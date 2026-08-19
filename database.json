@@ -84582,9 +84582,9 @@
         "URL": "https://store.steampowered.com/app/4829360/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4829360/23be3ed59a5b6579a4cdf5e0efb2ff90ff563d75/header.jpg?t=1781379607",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-13",
-        "AddedTimestamp": 1781383376.8202944,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787133142.6402013,
         "MatchedTags": [
             "tower defense",
             "strategy",
@@ -113871,9 +113871,9 @@
         "URL": "https://store.steampowered.com/app/4881950/",
         "Site": "https://mk-industries.de/index.php",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4881950/1c90683cf6b221b0d8e275b9f03e959c7575e1ce/header.jpg?t=1784313069",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-28",
-        "AddedTimestamp": 1785197585.5258014,
+        "Date": "Aug 19, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787133150.3745556,
         "MatchedTags": [
             "horror"
         ]
@@ -140686,9 +140686,9 @@
         "URL": "https://store.steampowered.com/app/4739480/",
         "Site": "https://limeless.games/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4739480/e4ad8a5605b105dc597df141adc5e7605935945e/header.jpg?t=1786616765",
-        "Date": "TBA",
-        "AddedDate": "2026-08-13",
-        "AddedTimestamp": 1786617041.939596,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787133137.2040436,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -147953,9 +147953,9 @@
         "URL": "https://store.steampowered.com/app/5059950/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5059950/44b657c1d91d369506fde24be5c4a22ed442d62c/header.jpg?t=1787055568",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-18",
-        "AddedTimestamp": 1787058813.200128,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787133171.1562362,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -148748,9 +148748,9 @@
         "URL": "https://store.steampowered.com/app/5031780/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5031780/b3a698fa6a230e3e283405ef5a3f5e2e99a12cb3/header.jpg?t=1787082951",
-        "Date": "TBA",
-        "AddedDate": "2026-08-18",
-        "AddedTimestamp": 1787085873.61228,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787133166.2049503,
         "MatchedTags": [
             "survival horror",
             "horror",
@@ -149911,6 +149911,64 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "5001590": {
+        "Title": "Production Zero",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5001590/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5001590/342a62ef42c7736418cf7918c729cf199c097964/header.jpg?t=1787132189",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787133159.5896983,
+        "MatchedTags": [
+            "base building",
+            "management",
+            "resource management"
+        ]
+    },
+    "5076910": {
+        "Title": "ZedFall: Outbreak",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5076910/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5076910/a9f623d4bfababb730d11be4601b73fbc7ca73c8/header.jpg?t=1787131288",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787133173.8523088,
+        "MatchedTags": [
+            "tower defense"
+        ]
+    },
+    "5101570": {
+        "Title": "Neverscape",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5101570/",
+        "Site": "https://www.ingenious-studios.com/games/neverscape",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5101570/f5e06c7b1c46eb380e884afa5664aa51701ca32a/header.jpg?t=1787132325",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787133183.7750328,
+        "MatchedTags": [
+            "tactical rpg"
+        ]
+    },
+    "5106580": {
+        "Title": "LootPanic",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5106580/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5106580/1cb413eb69866602e704c1114fbfe32edcdb0344/header.jpg?t=1787130992",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787133187.3245332,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
