@@ -9980,9 +9980,9 @@
         "URL": "https://store.steampowered.com/app/4309040/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4309040/883c3ed1e3200429c7a6bc0c21a2c9d17356db13/header.jpg?t=1773850382",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-18",
-        "AddedTimestamp": 1773854347.0265388,
+        "Date": "Sep 14, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787129813.4947948,
         "MatchedTags": [
             "resource management",
             "management"
@@ -10695,9 +10695,9 @@
         "URL": "https://store.steampowered.com/app/4311360/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4311360/4df2b7d8b9a5bdd4e70ea1b2e95e6f32294040ed/header.jpg?t=1773917752",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-10",
-        "AddedTimestamp": 1775829109.9399319,
+        "Date": "Sep 14, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787129819.6747906,
         "MatchedTags": [
             "strategy",
             "management",
@@ -17523,9 +17523,9 @@
         "URL": "https://store.steampowered.com/app/4311570/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4311570/e31f5ef34e4c257ae571de85672cfd27aff048ed/header.jpg?t=1774797677",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-29",
-        "AddedTimestamp": 1774799266.0134547,
+        "Date": "Sep 14, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787129822.2059777,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -19815,9 +19815,9 @@
         "URL": "https://store.steampowered.com/app/4311340/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4311340/73d4f3b38f13bee5b3862e858822315ea6995691/header.jpg?t=1775040269",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-01",
-        "AddedTimestamp": 1775042104.571777,
+        "Date": "Sep 14, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787129816.6071062,
         "MatchedTags": [
             "strategy",
             "tactical",
@@ -39556,9 +39556,9 @@
         "URL": "https://store.steampowered.com/app/4098070/",
         "Site": "https://lumenariastudios.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4098070/e9a40cd3aa2ee75bc57f08b96a2f7f5c9a7bff50/header.jpg?t=1776972056",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-13",
-        "AddedTimestamp": 1783984552.858353,
+        "Date": "September 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787129809.0475974,
         "MatchedTags": [
             "strategy",
             "real time tactics"
@@ -100488,10 +100488,10 @@
     },
     "4874440": {
         "Title": "Ultrablight",
-        "Email": "",
+        "Email": "contact@ironballs.games",
         "Discord": "https://discord.gg/m8dKU6hQ5A",
         "URL": "https://store.steampowered.com/app/4874440/",
-        "Site": "",
+        "Site": "https://ironballs.games/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4874440/9de440b7a66aebc75fea941a74fbef9603de11b8/header.jpg?t=1783017549",
         "Date": "Coming soon",
         "AddedDate": "2026-07-02",
@@ -133030,9 +133030,9 @@
         "URL": "https://store.steampowered.com/app/4608890/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4608890/bf6febf21a478533a9ee8e7b08c0a9553774a223/header.jpg?t=1785982696",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-06",
-        "AddedTimestamp": 1785987723.9381428,
+        "Date": "Aug 19, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787129836.7697835,
         "MatchedTags": [
             "resource management",
             "strategy"
@@ -145418,9 +145418,9 @@
         "URL": "https://store.steampowered.com/app/3999950/",
         "Site": "https://drive.google.com/drive/u/0/folders/1UF8Bo6pgytubni0ktZ4rDUX3R0W2bPJW",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3999950/d1fd05299b4eea7d57612380ae3afe2274fd1f74/header.jpg?t=1786950037",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-17",
-        "AddedTimestamp": 1786972118.1571317,
+        "Date": "Q4 2027",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787129806.0832517,
         "MatchedTags": [
             "strategy",
             "survival horror"
@@ -149879,6 +149879,38 @@
             "city builder",
             "real time tactics",
             "resource management"
+        ]
+    },
+    "5071460": {
+        "Title": "Iron Reborn \u2013 Battle of the Bots",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5071460/",
+        "Site": "https://teemetal.de",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5071460/a14c9233198aa48dd59a75d5f081f3997c8e51f0/header.jpg?t=1787126783",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787129884.7254536,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical"
+        ]
+    },
+    "5101490": {
+        "Title": "8 Days at the Motel",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5101490/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5101490/d175f014e897525c004bf5c57f15b1311b91aa9f/header.jpg?t=1787126711",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787129901.8193355,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
