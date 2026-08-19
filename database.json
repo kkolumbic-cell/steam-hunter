@@ -81889,7 +81889,7 @@
     "4831140": {
         "Title": "\u738b\u56fd\u68cb\u5883",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/qBUFJ7Vf6",
         "URL": "https://store.steampowered.com/app/4831140/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4831140/70de9ebe6fd257c1c0cf6b318c85ab9d3a80cbc7/header.jpg?t=1781191443",
@@ -136522,9 +136522,9 @@
         "URL": "https://store.steampowered.com/app/5041740/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5041740/dcaf3b0353ad9dc10bf7299277821204e731d2cf/header.jpg?t=1786285135",
-        "Date": "Aug 20, 2026",
-        "AddedDate": "2026-08-09",
-        "AddedTimestamp": 1786287363.661075,
+        "Date": "August 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787118565.4545176,
         "MatchedTags": [
             "strategy",
             "tactical",
@@ -147540,9 +147540,9 @@
         "URL": "https://store.steampowered.com/app/5067500/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5067500/0df4250560825d26cfc7131dd9196715033e44f9/header.jpg?t=1787029568",
-        "Date": "TBA",
-        "AddedDate": "2026-08-18",
-        "AddedTimestamp": 1787032146.6074207,
+        "Date": "To be announced",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787118573.9207957,
         "MatchedTags": [
             "strategy",
             "management",
@@ -149725,6 +149725,20 @@
             "turn-based tactics",
             "turn-based combat",
             "tactical"
+        ]
+    },
+    "5082210": {
+        "Title": "Six Feet Under: The Mortician\u2019s Last Stand",
+        "Email": "roguedogindie@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5082210/",
+        "Site": "https://roguedogindie.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5082210/9b0053f7740bff4880aed8549be999dbb0b1681a/header.jpg?t=1787116392",
+        "Date": "October 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787118576.5884361,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
