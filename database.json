@@ -65325,7 +65325,7 @@
     "4667030": {
         "Title": "Knightfall Idle",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/xEABpdhD7V",
         "URL": "https://store.steampowered.com/app/4667030/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4667030/7d4dcf4aaf6b9054ebc4bf07d121fb0bdb5f1a25/header.jpg?t=1779823685",
@@ -81237,9 +81237,9 @@
         "URL": "https://store.steampowered.com/app/4688870/",
         "Site": "https://threefrauds.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4688870/732abbb5a2ac677c8886bbb69ad7c69f388dcf53/header.jpg?t=1781159983",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-06-11",
-        "AddedTimestamp": 1781161755.5221505,
+        "Date": "Nov 3, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787115286.1131465,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -149630,6 +149630,101 @@
         "MatchedTags": [
             "survival horror",
             "horror"
+        ]
+    },
+    "4859670": {
+        "Title": "Cosmic Ascent",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4859670/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4859670/7098f229d4b7d91f680d294a29ba1816e91a8172/header.jpg?t=1787113015",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787115308.2754083,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "base building",
+            "colony sim"
+        ]
+    },
+    "4989230": {
+        "Title": "Baryum",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4989230/",
+        "Site": "https://dams-labs.net/baryum",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4989230/8719c44d2830fa27175d5a92470fa4d44faf387f/header.jpg?t=1787113440",
+        "Date": "Sep 8, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787115322.681394,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "5000280": {
+        "Title": "DUNGEON AI DRAGON",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5000280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5000280/df6d1309ec93fb9b189d92112d30aaa7635bbe56/header.jpg?t=1787114054",
+        "Date": "August 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787115333.4346743,
+        "MatchedTags": [
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "5094940": {
+        "Title": "Cardsharp",
+        "Email": "",
+        "Discord": "https://discord.gg/Xy9nj4jtWd",
+        "URL": "https://store.steampowered.com/app/5094940/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5094940/61c64e010e13a0cc72aa33d05bc11b0e43d453ea/header.jpg?t=1787115254",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787115366.72877,
+        "MatchedTags": [
+            "horror",
+            "strategy"
+        ]
+    },
+    "5099260": {
+        "Title": "Desktop Monsters",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5099260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5099260/a153b4a1820edad31449a88354b809eb07342e74/header.jpg?t=1787113744",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787115376.1839616,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "management",
+            "resource management"
+        ]
+    },
+    "5105140": {
+        "Title": "Death Knell",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5105140/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5105140/14d21e9a0f7fcb5e1294f6c83a43e2789fb8e8c6/header.jpg?t=1787113081",
+        "Date": "Q3 2027",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787115379.3810844,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based combat",
+            "tactical"
         ]
     }
 }
