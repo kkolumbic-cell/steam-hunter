@@ -4733,9 +4733,9 @@
         "URL": "https://store.steampowered.com/app/4433940/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4433940/368a6199224e47d3db4797b707bc23a378d9af89/header.jpg?t=1773120827",
-        "Date": "To be announced",
-        "AddedDate": "2026-03-10",
-        "AddedTimestamp": 1773122471.4604707,
+        "Date": "Q4 2027",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787179513.2079437,
         "MatchedTags": [
             "tower defense",
             "strategy",
@@ -7288,9 +7288,9 @@
         "URL": "https://store.steampowered.com/app/4492500/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492500/39c32db8a3d108b4bce552953b5b4b74f2e7ec4c/header.jpg?t=1773418207",
-        "Date": "Nov 1, 2026",
-        "AddedDate": "2026-08-15",
-        "AddedTimestamp": 1786833649.424635,
+        "Date": "Nov 8, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787179515.6970785,
         "MatchedTags": [
             "strategy"
         ]
@@ -66998,11 +66998,12 @@
         "AddedDate": "2026-05-28",
         "AddedTimestamp": 1779972571.1568038,
         "MatchedTags": [
-            "city builder",
             "colony sim",
-            "resource management",
+            "tower defense",
             "base building",
-            "strategy"
+            "strategy",
+            "management",
+            "economy"
         ]
     },
     "4746960": {
@@ -109123,9 +109124,9 @@
         "URL": "https://store.steampowered.com/app/4792370/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4792370/6151b8fdf8fc94f76b58118202bb0dc005897f9b/header.jpg?t=1783966831",
-        "Date": "March 2027",
-        "AddedDate": "2026-07-13",
-        "AddedTimestamp": 1783972439.0876167,
+        "Date": "Jan 18, 2027",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787179544.2700348,
         "MatchedTags": [
             "management",
             "base building"
@@ -128870,9 +128871,9 @@
         "URL": "https://store.steampowered.com/app/4716690/",
         "Site": "https://www.ankagames.tr",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4716690/502b7b47fdcfd362d1f7fcbc86a19b0b6f376da6/header.jpg?t=1785616764",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-01",
-        "AddedTimestamp": 1785618704.4368734,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787179534.1486387,
         "MatchedTags": [
             "horror"
         ]
@@ -151268,6 +151269,35 @@
             "strategy",
             "survival horror",
             "horror"
+        ]
+    },
+    "5028770": {
+        "Title": "SUPERBOLT",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5028770/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5028770/4d6d3c52eec4a6ce797159fb262eacee312931a3/header.jpg?t=1787176961",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787179568.4667847,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "5083960": {
+        "Title": "Pixel Nightshift: The Vesta Protocol",
+        "Email": "northlightstudios25@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5083960/",
+        "Site": "https://northlightpixels.pages.dev/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5083960/21f1a9225aaae4196c4be71a30baa0383b2a1198/header.jpg?t=1787177604",
+        "Date": "Oct 27, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787179594.2301435,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
