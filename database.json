@@ -87838,7 +87838,9 @@
         "AddedTimestamp": 1783006508.918383,
         "MatchedTags": [
             "grand strategy",
-            "strategy"
+            "strategy",
+            "economy",
+            "resource management"
         ]
     },
     "4374390": {
@@ -99940,9 +99942,9 @@
         "AddedDate": "2026-07-20",
         "AddedTimestamp": 1784589563.0046802,
         "MatchedTags": [
+            "economy",
             "management",
-            "resource management",
-            "economy"
+            "resource management"
         ]
     },
     "4894820": {
@@ -117023,9 +117025,9 @@
         "URL": "https://store.steampowered.com/app/4952170/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4952170/eab5161ad9da4f37c03ca094a343f6148702ea2e/header.jpg?t=1784628587",
-        "Date": "Sep 30, 2026",
-        "AddedDate": "2026-08-11",
-        "AddedTimestamp": 1786434058.7714243,
+        "Date": "September 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787165850.828784,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -120264,9 +120266,9 @@
         "URL": "https://store.steampowered.com/app/4989070/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4989070/3b5ec5d08e45edc1433fa899b9e17261cfb1d2c8/header.jpg?t=1784844867",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-07-23",
-        "AddedTimestamp": 1784845109.0634964,
+        "Date": "December 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787165861.3035061,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -140874,9 +140876,9 @@
         "URL": "https://store.steampowered.com/app/5044220/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5044220/2613559c48dc1232caa376320ffdfc71c5d6d857/header.jpg?t=1786626263",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-08-13",
-        "AddedTimestamp": 1786629253.274979,
+        "Date": "Sep 11, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787165887.6405175,
         "MatchedTags": [
             "economy",
             "management",
@@ -144922,8 +144924,8 @@
         "AddedDate": "2026-08-16",
         "AddedTimestamp": 1786870207.1904223,
         "MatchedTags": [
-            "psychological horror",
-            "horror"
+            "horror",
+            "psychological horror"
         ]
     },
     "5089960": {
@@ -149730,9 +149732,9 @@
         "URL": "https://store.steampowered.com/app/4499020/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4499020/19c94c709f4e89805516e2455d3ea3baa18d5997/header.jpg?t=1787120778",
-        "Date": "To be announced",
+        "Date": "Coming soon",
         "AddedDate": "2026-08-19",
-        "AddedTimestamp": 1787123314.0534074,
+        "AddedTimestamp": 1787165781.806339,
         "MatchedTags": [
             "resource management",
             "strategy",
@@ -150714,6 +150716,85 @@
         "MatchedTags": [
             "real time tactics",
             "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4699560": {
+        "Title": "Anomaly Sector",
+        "Email": "",
+        "Discord": "https://discord.gg/W7TPUWsyBE",
+        "URL": "https://store.steampowered.com/app/4699560/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4699560/6ed03cc0bfbb58abb3f77c8c2eb94908abc6a247/header.jpg?t=1787163092",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787165800.211256,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5078860": {
+        "Title": "Text Shelter",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5078860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5078860/2e209a8333be6a9d99f1d5e284b003abe1be3b7d/header.jpg?t=1787162119",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787165914.652747,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "base building"
+        ]
+    },
+    "5094220": {
+        "Title": "The Horror Tutorial",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5094220/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5094220/f7df4de9f584b82ac15e3d319624b190b48f1a48/header.jpg?t=1787165072",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787165922.8641844,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "5110140": {
+        "Title": "Plinko Mining",
+        "Email": "info@pixelifact.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5110140/",
+        "Site": "https://pixelifact.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5110140/e7e35858432ce68cf5d879b1b022ff8453d32a7c/header.jpg?t=1787165344",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787165930.6635187,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "5114030": {
+        "Title": "Retro TV Tycoon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5114030/",
+        "Site": "https://xirosstudio.com/retrotvtycoon/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5114030/b0aae65447f9cb481a51cfcd156e5f75bcae0e38/header.jpg?t=1787165200",
+        "Date": "Nov 6, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787165934.0813296,
+        "MatchedTags": [
             "management",
             "resource management"
         ]
