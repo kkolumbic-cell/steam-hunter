@@ -4739,10 +4739,9 @@
         "MatchedTags": [
             "tower defense",
             "strategy",
-            "turn-based strategy",
             "resource management",
-            "tactical",
-            "turn-based combat"
+            "turn-based strategy",
+            "tactical"
         ]
     },
     "4502680": {
@@ -87099,7 +87098,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4734860/",
-        "Site": "",
+        "Site": "https://inner-demons.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4734860/00cedd7ea650cf5fdd3e8105baab8732a630a67c/header.jpg?t=1781640530",
         "Date": "To be announced",
         "AddedDate": "2026-06-16",
@@ -89305,9 +89304,9 @@
         "URL": "https://store.steampowered.com/app/4853740/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4853740/b2f1dba53f2b5c702de54740f723fdd5777c18bf/header.jpg?t=1781804889",
-        "Date": "August 2026",
-        "AddedDate": "2026-06-18",
-        "AddedTimestamp": 1781815414.4784806,
+        "Date": "Aug 19, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787151395.4444067,
         "MatchedTags": [
             "colony sim",
             "strategy",
@@ -90899,7 +90898,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4840720/",
-        "Site": "",
+        "Site": "https://sf-iamnokaok.itch.io/childuhtaron",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4840720/465cba0f60acc19f67c92e8c262f4d45cf28d4b3/header.jpg?t=1781963021",
         "Date": "Coming soon",
         "AddedDate": "2026-06-20",
@@ -115327,9 +115326,9 @@
         "URL": "https://store.steampowered.com/app/4819300/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819300/cf824c74e7393bbe0e0aec4c7e2a1d6efc6077a0/header.jpg?t=1784535289",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-20",
-        "AddedTimestamp": 1784546257.8063,
+        "Date": "Aug 19, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787151380.5003388,
         "MatchedTags": [
             "resource management",
             "strategy"
@@ -133844,8 +133843,9 @@
         "AddedDate": "2026-08-06",
         "AddedTimestamp": 1786030838.7901618,
         "MatchedTags": [
-            "strategy",
             "tower defense",
+            "strategy",
+            "management",
             "tactical"
         ]
     },
@@ -138447,7 +138447,8 @@
         "AddedDate": "2026-08-19",
         "AddedTimestamp": 1787139906.0391667,
         "MatchedTags": [
-            "horror"
+            "horror",
+            "management"
         ]
     },
     "5061820": {
@@ -150064,8 +150065,8 @@
         "AddedDate": "2026-08-19",
         "AddedTimestamp": 1787136656.9338179,
         "MatchedTags": [
-            "strategy",
-            "economy"
+            "economy",
+            "strategy"
         ]
     },
     "5099450": {
@@ -150349,6 +150350,68 @@
         "MatchedTags": [
             "psychological horror",
             "horror"
+        ]
+    },
+    "4669580": {
+        "Title": "Auditum",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4669580/",
+        "Site": "https://auditum.astrava.games",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4669580/3bd0c17dee4dfb7eaf0182f59c1fa236d4587cd1/header.jpg?t=1787149712",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787151360.1052248,
+        "MatchedTags": [
+            "survival horror",
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "5077550": {
+        "Title": "Ancient Duel",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5077550/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5077550/477b3351c4501e12f4aa10efe4fb257749896abb/header.jpg?t=1787151063",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787151455.3693042,
+        "MatchedTags": [
+            "turn-based strategy",
+            "strategy",
+            "tactical"
+        ]
+    },
+    "5110480": {
+        "Title": "4096 Space Traders Era",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5110480/",
+        "Site": "https://pix-arts.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5110480/b59ba2f5a5ba581abc9462eb6c5cb2f1530a5da4/header.jpg?t=1787151002",
+        "Date": "Aug 27, 2026",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787151468.9294703,
+        "MatchedTags": [
+            "strategy",
+            "economy"
+        ]
+    },
+    "5111530": {
+        "Title": "NO CLEAN, NO EXIT",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5111530/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5111530/c3e27fe8f3bd4329225bada1a1d9a7afa9bf16f6/header.jpg?t=1787150849",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-19",
+        "AddedTimestamp": 1787151473.1701646,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
         ]
     }
 }
