@@ -110739,9 +110739,9 @@
         "URL": "https://store.steampowered.com/app/4901100/",
         "Site": "https://edgeofthefold.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4901100/0668cb3e5de60975587a08c03a2da7cf07aa49d6/header.jpg?t=1784072913",
-        "Date": "Aug 20, 2026",
-        "AddedDate": "2026-07-15",
-        "AddedTimestamp": 1784074106.5695024,
+        "Date": "Aug 19, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787204908.5378826,
         "MatchedTags": [
             "economy"
         ]
@@ -149084,9 +149084,9 @@
         "URL": "https://store.steampowered.com/app/5071360/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5071360/287724b7f340b8c59ce7bc3c06ab3442d430bf82/header.jpg?t=1787094451",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-18",
-        "AddedTimestamp": 1787096490.8072016,
+        "Date": "Nov 18, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787204946.4116626,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -151628,6 +151628,77 @@
         "MatchedTags": [
             "tactical",
             "turn-based combat"
+        ]
+    },
+    "4812370": {
+        "Title": "How To Ride Elevators Like A Human",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4812370/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4812370/0bef8e213f348f21e682e952023cdfa15adb8a1e/header.jpg?t=1787201761",
+        "Date": "November 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787204899.7164469,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4910110": {
+        "Title": "LostControl",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4910110/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4910110/b5faf88c68950b621d0307751f3dddb08e82e5c8/header.jpg?t=1787203820",
+        "Date": "TBA",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787204910.8703418,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5010240": {
+        "Title": "RESET-0: Entropy Architect",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5010240/",
+        "Site": "https://metaphorprojects.link/reset0/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5010240/0f31984ed3e314c87e4dfb194cba26a8b6e3eea4/header.jpg?t=1787201938",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787204929.4089165,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "5030960": {
+        "Title": "PAWN SHIFT",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5030960/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5030960/fa89ebf3973d13eabad0169ba6216b7a1974a2c1/header.jpg?t=1787202287",
+        "Date": "2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787204935.8285174,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5114970": {
+        "Title": "Let's Tidy Up! Backrooms",
+        "Email": "",
+        "Discord": "https://discord.gg/juB2mwDr45",
+        "URL": "https://store.steampowered.com/app/5114970/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5114970/f08e02b8bd92c72b0b51ca6d6766277202aafa01/header.jpg?t=1787203054",
+        "Date": "October 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787204961.2100375,
+        "MatchedTags": [
+            "psychological horror"
         ]
     }
 }
