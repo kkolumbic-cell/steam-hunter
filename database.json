@@ -6232,9 +6232,9 @@
         "URL": "https://store.steampowered.com/app/4457420/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4457420/06279825cd0b1a5835625d481db10d4993d75860/header.jpg?t=1773292116",
-        "Date": "2026",
-        "AddedDate": "2026-05-26",
-        "AddedTimestamp": 1779832749.574007,
+        "Date": "Mar 30, 2027",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787212701.2872062,
         "MatchedTags": [
             "base building",
             "tower defense",
@@ -18679,9 +18679,9 @@
         "URL": "https://store.steampowered.com/app/4508220/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4508220/171ff5d0e2426d47b89ca19bec86658ed65fd291/header.jpg?t=1774940167",
-        "Date": "2026",
-        "AddedDate": "2026-03-31",
-        "AddedTimestamp": 1774943149.8186076,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787212704.0808876,
         "MatchedTags": [
             "strategy"
         ]
@@ -76654,9 +76654,9 @@
         "URL": "https://store.steampowered.com/app/4786800/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4786800/6710d76fd74dc0239d367384f4308244a2f2b600/header.jpg?t=1780733580",
-        "Date": "Sep 24, 2026",
-        "AddedDate": "2026-08-17",
-        "AddedTimestamp": 1786972190.864241,
+        "Date": "Oct 28, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787212718.530368,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -133384,9 +133384,9 @@
         "URL": "https://store.steampowered.com/app/5015570/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5015570/b2e99dd05c76ddf926c8833f1fef0442768fed28/header.jpg?t=1786005590",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-06",
-        "AddedTimestamp": 1786010677.8337667,
+        "Date": "Aug 20, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787212750.2018888,
         "MatchedTags": [
             "strategy",
             "management",
@@ -139771,9 +139771,9 @@
         "URL": "https://store.steampowered.com/app/5060750/",
         "Site": "https://linktr.ee/sonsofwelder",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5060750/f0a5658ca22a3ca12416fca962351936a688580c/header.jpg?t=1786560440",
-        "Date": "Sep 30, 2026",
-        "AddedDate": "2026-08-12",
-        "AddedTimestamp": 1786563058.5358794,
+        "Date": "Oct 30, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787212763.2974358,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -151807,6 +151807,69 @@
             "resource management",
             "base building",
             "management"
+        ]
+    },
+    "4825730": {
+        "Title": "My Friends Below",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4825730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4825730/99b10a1fa22999347ca610293a42292d1ff17e67/header.jpg?t=1787210755",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787212726.1917973,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4915560": {
+        "Title": "Carbon Rain",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4915560/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4915560/b151246a02afdd1ed2ba6ae605bb4f272dce419b/header.jpg?t=1787210939",
+        "Date": "2027",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787212733.913491,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4986690": {
+        "Title": "Bottlecappers",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4986690/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4986690/9d23690f6f9e14abd22aad2a2e814775837956c7/header.jpg?t=1787212483",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787212741.9484425,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "colony sim",
+            "economy",
+            "management",
+            "base building",
+            "resource management"
+        ]
+    },
+    "5116390": {
+        "Title": "Newton Street",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5116390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5116390/e91878640f83922c9aa92483110bf2bd92226c13/header.jpg?t=1787210570",
+        "Date": "Jun 30, 2027",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787212782.1889148,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
