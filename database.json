@@ -81802,7 +81802,7 @@
         "AddedTimestamp": 1781195812.4427202,
         "MatchedTags": [
             "horror",
-            "survival horror"
+            "psychological horror"
         ]
     },
     "4820610": {
@@ -132803,9 +132803,9 @@
         "URL": "https://store.steampowered.com/app/5011470/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5011470/f67bcb963e73ba6c47623a803c3d6253db5336b7/header.jpg?t=1785959840",
-        "Date": "Aug 26, 2026",
-        "AddedDate": "2026-08-05",
-        "AddedTimestamp": 1785965812.0107174,
+        "Date": "Aug 20, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787266062.1288056,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -153106,6 +153106,77 @@
             "resource management",
             "turn-based strategy",
             "economy"
+        ]
+    },
+    "4181300": {
+        "Title": "Die Diver",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4181300/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4181300/9ec25ccd6777cf97f13b3d11e4c0afe04378ed56/header.jpg?t=1787265627",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787266016.105585,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4195340": {
+        "Title": "Path of Idle Immortals",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4195340/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195340/0ced4c4ba44da570fb0560be908468cc971632de/header.jpg?t=1787265494",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787266018.2943802,
+        "MatchedTags": [
+            "management",
+            "economy"
+        ]
+    },
+    "4509530": {
+        "Title": "Dead Margin",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4509530/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4509530/c587382ae5e296d0964905870ae6082e6f601e89/header.jpg?t=1787263598",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787266035.3261383,
+        "MatchedTags": [
+            "survival horror"
+        ]
+    },
+    "5120680": {
+        "Title": "Dead & Delicious",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5120680/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5120680/86f1e707908a0f8053ec3f10cea6c08f8ca3db6d/header.jpg?t=1787265907",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787266088.3846228,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "5122530": {
+        "Title": "Water Sort:Alchemy",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5122530/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5122530/9facee25dd6fb224e5d937420bc2de6b1f96fe98/header.jpg?t=1787264214",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787266091.494956,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
