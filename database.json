@@ -25925,6 +25925,7 @@
         "AddedDate": "2026-05-21",
         "AddedTimestamp": 1779340917.9020073,
         "MatchedTags": [
+            "management",
             "economy"
         ]
     },
@@ -41434,6 +41435,8 @@
         "AddedDate": "2026-04-24",
         "AddedTimestamp": 1777075027.0234203,
         "MatchedTags": [
+            "psychological horror",
+            "horror",
             "strategy"
         ]
     },
@@ -98059,9 +98062,9 @@
         "URL": "https://store.steampowered.com/app/4824880/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4824880/caa7cea8f992c0425996c6caf6f0871e99374ab5/header.jpg?t=1782795920",
-        "Date": "To be announced",
-        "AddedDate": "2026-06-30",
-        "AddedTimestamp": 1782801364.8854654,
+        "Date": "Aug 20, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787258964.9504075,
         "MatchedTags": [
             "management",
             "resource management"
@@ -117439,7 +117442,7 @@
     "3620580": {
         "Title": "Dreamix",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/uRvVTK48c",
         "URL": "https://store.steampowered.com/app/3620580/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3620580/695add4d5cb0996c89f667f07af07265587cae67/header.jpg?t=1784665767",
@@ -131577,9 +131580,9 @@
         "URL": "https://store.steampowered.com/app/4985160/",
         "Site": "https://goodlytrials.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4985160/5ca48c5e9d623c9a5ff4672fb36063f8ade46a3e/header.jpg?t=1785898224",
-        "Date": "Aug 18, 2026",
-        "AddedDate": "2026-08-05",
-        "AddedTimestamp": 1785912341.1976414,
+        "Date": "August 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787258992.4338188,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -137838,9 +137841,9 @@
         "URL": "https://store.steampowered.com/app/4565010/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4565010/b53a0a77e986c37bef7645c8561ac52844b98d0b/header.jpg?t=1786453097",
-        "Date": "To be announced",
-        "AddedDate": "2026-08-11",
-        "AddedTimestamp": 1786455936.4725354,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787258935.1076195,
         "MatchedTags": [
             "strategy"
         ]
@@ -139046,9 +139049,9 @@
         "URL": "https://store.steampowered.com/app/4992640/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4992640/61372ce3a8264ea4797798987c833d5e0289cf72/header.jpg?t=1786520608",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-08-12",
-        "AddedTimestamp": 1786524195.2555313,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787258995.643997,
         "MatchedTags": [
             "management",
             "economy",
@@ -150927,9 +150930,9 @@
         "URL": "https://store.steampowered.com/app/4356680/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4356680/c7c32a91f84b75b99d4a7267a3f416eabc389363/header.jpg?t=1787169474",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-19",
-        "AddedTimestamp": 1787172519.1556613,
+        "Date": "Sep 18, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787258926.2771938,
         "MatchedTags": [
             "survival horror"
         ]
@@ -152924,6 +152927,136 @@
         "MatchedTags": [
             "horror",
             "strategy"
+        ]
+    },
+    "4740260": {
+        "Title": "Echo Ridge",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4740260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4740260/fd4eaf41d10a10a4b2796441b58ec07f5abd6330/header.jpg?t=1787258739",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787258952.8807323,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4968640": {
+        "Title": "Japanese Ramen Simulator",
+        "Email": "",
+        "Discord": "https://discord.gg/sXJ9XbmUnb",
+        "URL": "https://store.steampowered.com/app/4968640/",
+        "Site": "https://wilddog.jp/japaneseramensimulator",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4968640/473d0eef8af341a191a8aba02d443ec570cc6977/header.jpg?t=1787255658",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787258984.4497218,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "5061680": {
+        "Title": "PegPot",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5061680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5061680/a040a34f05918be2100ea43da882af04941aedb9/header.jpg?t=1787258341",
+        "Date": "Sep 3, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787259013.2667153,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5062000": {
+        "Title": "Dwarven Outpost Incremental",
+        "Email": "",
+        "Discord": "https://discord.gg/yR8gQPDwf9",
+        "URL": "https://store.steampowered.com/app/5062000/",
+        "Site": "https://www.dwarvenoutpost.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5062000/4b4cacda1afa4684de0b4977923e0bbaeb51d066/header.jpg?t=1787257616",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787259015.7208993,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "5077680": {
+        "Title": "Last Exit Diner: The Last Train",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5077680/",
+        "Site": "https://lastexitdiner.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5077680/e76c48fef64076dfc7e4c1029cfed97386b62215/header.jpg?t=1787257097",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787259018.8349972,
+        "MatchedTags": [
+            "tower defense",
+            "strategy"
+        ]
+    },
+    "5087510": {
+        "Title": "Brew & Boom",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5087510/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5087510/d0629ae4c777794ad84dc95a9ddb37f9f3b1ec83/header.jpg?t=1787258113",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787259026.447653,
+        "MatchedTags": [
+            "resource management",
+            "economy"
+        ]
+    },
+    "5092320": {
+        "Title": "God Complex",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5092320/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5092320/e50cefa31ef6449ae7f5490d93e93d965aeef536/header.jpg?t=1787257231",
+        "Date": "October 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787259031.7199895,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5119060": {
+        "Title": "ARCHEIO: Night Shift",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5119060/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5119060/2b74d559cb052cc7605baab894cb0dd3636dfc1e/header.jpg?t=1787257075",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787259043.4114056,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "5119840": {
+        "Title": "Blackpaw",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5119840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5119840/7848af817dfb4f468cd237b806fc0b50b23a5b86/header.jpg?t=1787255783",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787259046.587893,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
