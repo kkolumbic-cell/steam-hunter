@@ -85350,8 +85350,7 @@
         "AddedDate": "2026-06-15",
         "AddedTimestamp": 1781546674.546138,
         "MatchedTags": [
-            "base building",
-            "resource management"
+            "base building"
         ]
     },
     "4429930": {
@@ -151903,6 +151902,83 @@
             "management",
             "strategy",
             "resource management"
+        ]
+    },
+    "4766910": {
+        "Title": "Project Angels 2 - Visual Novel",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4766910/",
+        "Site": "https://nijigames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4766910/ea2a5fda3fc0c180cb57914de920b7d9845ed7af/header.jpg?t=1787218295",
+        "Date": "TBA",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787219526.3616462,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "5002290": {
+        "Title": "Survivor Files - 571",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5002290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5002290/fd42faae99f7cfd1d8bed3030ac0b69bd9068746/header.jpg?t=1787218220",
+        "Date": "TBA",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787219569.3546467,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "5035300": {
+        "Title": "Between Jobs : Fixer Sim",
+        "Email": "",
+        "Discord": "https://discord.gg/CEDDJYTv4n",
+        "URL": "https://store.steampowered.com/app/5035300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5035300/c6fcdbe7c809b223d7f59edc6cdab09e9a584b76/header.jpg?t=1787217986",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787219580.1432734,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management"
+        ]
+    },
+    "5093370": {
+        "Title": "Yin\u2011Yang Mirror",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5093370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5093370/e3e2693c3c8dcc80bb989db6cb6884571d79132f/header.jpg?t=1787218884",
+        "Date": "TBA",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787219601.5603988,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "5112000": {
+        "Title": "Folder Folder Folder",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5112000/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5112000/cdb1591a94d6ae2572d0c4442548ff1ba568de0a/header.jpg?t=1787217146",
+        "Date": "2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787219603.5550911,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
         ]
     }
 }
