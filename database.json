@@ -85472,8 +85472,7 @@
         "MatchedTags": [
             "strategy",
             "colony sim",
-            "management",
-            "grand strategy"
+            "management"
         ]
     },
     "4772730": {
@@ -97396,9 +97395,9 @@
         "URL": "https://store.steampowered.com/app/4895060/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895060/65a829ffe775c672526931fd98bb526a5df5d8ad/header.jpg?t=1782713569",
-        "Date": "August 2026",
-        "AddedDate": "2026-06-29",
-        "AddedTimestamp": 1782716910.4714136,
+        "Date": "Aug 28, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787262367.6739562,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -153057,6 +153056,56 @@
         "AddedTimestamp": 1787259046.587893,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4657790": {
+        "Title": "All Who Wander",
+        "Email": "awwrpg@gmail.com",
+        "Discord": "https://discord.gg/Yy6vKRYdDr",
+        "URL": "https://store.steampowered.com/app/4657790/",
+        "Site": "https://pknexus.app/presskits/all-who-wander?t=1772669223424",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4657790/149e7223b4d97dc6b6f68d255fb6968cf3f1c4a1/header.jpg?t=1787260790",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787262338.840426,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "5116620": {
+        "Title": "Grumpy Hero Grinder",
+        "Email": "",
+        "Discord": "https://discord.com/invite/n8eke7zEQX",
+        "URL": "https://store.steampowered.com/app/5116620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5116620/25799912ac6209b4468e6a40366f3afe43b48e83/header.jpg?t=1787261165",
+        "Date": "2027",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787262402.23326,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "base building",
+            "resource management",
+            "tactical"
+        ]
+    },
+    "5118720": {
+        "Title": "Serial Founder",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5118720/",
+        "Site": "http://serialfounder.games/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5118720/7b4650773f36604fe36952506543f778851b33b8/header.jpg?t=1787259048",
+        "Date": "November 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787262405.2487895,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "turn-based strategy",
+            "economy"
         ]
     }
 }
