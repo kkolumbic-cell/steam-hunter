@@ -10558,8 +10558,7 @@
         "AddedDate": "2026-04-05",
         "AddedTimestamp": 1775408161.614598,
         "MatchedTags": [
-            "tower defense",
-            "survival horror"
+            "tower defense"
         ]
     },
     "4298700": {
@@ -100744,10 +100743,11 @@
         "AddedDate": "2026-07-03",
         "AddedTimestamp": 1783064504.8761425,
         "MatchedTags": [
-            "strategy",
             "city builder",
             "management",
             "base building",
+            "colony sim",
+            "strategy",
             "resource management"
         ]
     },
@@ -117365,13 +117365,13 @@
     "4943220": {
         "Title": "Just Anomaly: Hospital",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.com/invite/eFdErZkDH9",
         "URL": "https://store.steampowered.com/app/4943220/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4943220/9b346cee9d631946d7e64cd2c20b0e4a9efc26f7/header.jpg?t=1784652561",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-13",
-        "AddedTimestamp": 1786603714.9303374,
+        "Date": "Aug 20, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787190858.2575514,
         "MatchedTags": [
             "psychological horror",
             "horror",
@@ -121365,7 +121365,8 @@
         "AddedDate": "2026-07-24",
         "AddedTimestamp": 1784928584.1700065,
         "MatchedTags": [
-            "horror"
+            "horror",
+            "strategy"
         ]
     },
     "1946770": {
@@ -130073,6 +130074,7 @@
         "AddedDate": "2026-08-04",
         "AddedTimestamp": 1785815032.3573797,
         "MatchedTags": [
+            "strategy",
             "management"
         ]
     },
@@ -141760,9 +141762,9 @@
         "URL": "https://store.steampowered.com/app/5076500/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076500/45b313e59a7d3268e9a1eb6ae4d50e6740dfbee3/header.jpg?t=1786668995",
-        "Date": "Sep 30, 2026",
-        "AddedDate": "2026-08-14",
-        "AddedTimestamp": 1786727758.778862,
+        "Date": "Sep 3, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787190911.2737956,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -146622,9 +146624,9 @@
         "URL": "https://store.steampowered.com/app/4892100/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4892100/be524705bb85993ee4144e454c033955289d6733/header.jpg?t=1786992465",
-        "Date": "TBA",
-        "AddedDate": "2026-08-17",
-        "AddedTimestamp": 1786993250.433232,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787190843.7354925,
         "MatchedTags": [
             "management"
         ]
@@ -149386,7 +149388,7 @@
     },
     "5096600": {
         "Title": "Highways & Co.",
-        "Email": "",
+        "Email": "highwaysandco@gmail.com",
         "Discord": "https://discord.com/invite/j35fZQuTNd",
         "URL": "https://store.steampowered.com/app/5096600/",
         "Site": "https://highwaysco.app",
@@ -151309,6 +151311,175 @@
         "AddedTimestamp": 1787182845.3040574,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4509930": {
+        "Title": "SCP: Overrun",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4509930/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4509930/c9d818bd41686b0e0176b9986e0bc93d6c195c1d/header.jpg?t=1787183854",
+        "Date": "Apr 1, 2036",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787190814.4758422,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "management",
+            "resource management"
+        ]
+    },
+    "4880390": {
+        "Title": "Clash of Lands",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4880390/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4880390/0fa6d649db446acdd61d507f1e408bb5d7095fde/header.jpg?t=1787189993",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787190841.588824,
+        "MatchedTags": [
+            "resource management",
+            "management",
+            "strategy"
+        ]
+    },
+    "4892530": {
+        "Title": "Project Longshot",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4892530/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4892530/f18f391ae62b984101511f94c515e80d1fc9649a/header.jpg?t=1787189979",
+        "Date": "Q2 2027",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787190847.0512738,
+        "MatchedTags": [
+            "colony sim",
+            "base building"
+        ]
+    },
+    "4965700": {
+        "Title": "Cheap Tattoo",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4965700/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965700/563fe268072d5888f371875ba0844d05fc0305ac/header.jpg?t=1787183715",
+        "Date": "Sep 18, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787190863.8472643,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "5043190": {
+        "Title": "Silent Tracks",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5043190/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5043190/9297fdabe673d2b35d80c6ed2febae42e69f9911/header.jpg?t=1787189917",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787190891.46298,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "5044730": {
+        "Title": "The woods",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5044730/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044730/045a0e842b8e8323a4f6e9770e8159c3b10b703a/header.jpg?t=1787185175",
+        "Date": "Aug 27, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787190893.5000534,
+        "MatchedTags": [
+            "psychological horror",
+            "resource management"
+        ]
+    },
+    "5064290": {
+        "Title": "No More Pain",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5064290/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5064290/4f78f466f67a18ea523c4eb39b25d680d729bf4e/header.jpg?t=1787189065",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787190905.096598,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "5094050": {
+        "Title": "Ridge Hold",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5094050/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094050/2d434279cce46ae85c464512bbf3695f780b8c28/header.jpg?t=1787184077",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787190919.6100705,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "real time tactics",
+            "base building"
+        ]
+    },
+    "5100520": {
+        "Title": "Ashworth",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5100520/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5100520/16a43a32d3c93e72494526db1b7fedbfc303acca/header.jpg?t=1787188441",
+        "Date": "TBA",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787190924.8824198,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "5106690": {
+        "Title": "Hundred Fires: OPEN VECTOR \u2014 Episode 1",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5106690/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5106690/055e67174bdb83e51263aef2f7364b798535efb9/header.jpg?t=1787185425",
+        "Date": "Oct 1, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787190927.782709,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5109640": {
+        "Title": "Gas Station Horror",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5109640/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109640/6048c469c3583a0f156ec60d3c3a70445a9bbd01/header.jpg?t=1787188461",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787190933.3338935,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
         ]
     }
 }
