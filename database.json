@@ -58416,7 +58416,8 @@
         "AddedTimestamp": 1782251628.1219516,
         "MatchedTags": [
             "tactical",
-            "strategy"
+            "strategy",
+            "turn-based strategy"
         ]
     },
     "4106470": {
@@ -76654,9 +76655,9 @@
         "URL": "https://store.steampowered.com/app/4786800/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4786800/6710d76fd74dc0239d367384f4308244a2f2b600/header.jpg?t=1780733580",
-        "Date": "Oct 28, 2026",
+        "Date": "Coming soon",
         "AddedDate": "2026-08-20",
-        "AddedTimestamp": 1787212718.530368,
+        "AddedTimestamp": 1787216314.76834,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -82751,9 +82752,9 @@
         "URL": "https://store.steampowered.com/app/4109820/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4109820/f30b323639b844779b1a5d938eb2592c69a36e2a/header.jpg?t=1781262496",
-        "Date": "TBA",
-        "AddedDate": "2026-06-12",
-        "AddedTimestamp": 1781262653.6988297,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787216280.3698187,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -128991,9 +128992,9 @@
         "URL": "https://store.steampowered.com/app/4084350/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084350/f7857a2004c340f21a41b10a5564184da586f1a2/header.jpg?t=1785662117",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-05",
-        "AddedTimestamp": 1785932312.7004576,
+        "Date": "Aug 17, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787216278.1268125,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -133727,7 +133728,7 @@
     "5019060": {
         "Title": "Twenty One Points",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/G3h4qXvmu",
         "URL": "https://store.steampowered.com/app/5019060/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5019060/25ba8ce7a9cbc4f685bddab1ebb3d9c0711ea7c9/header.jpg?t=1786020047",
@@ -151870,6 +151871,38 @@
         "AddedTimestamp": 1787212782.1889148,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4939280": {
+        "Title": "Etched",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4939280/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4939280/388263856884f2f45d2902c9844c3c6de9a34533/header.jpg?t=1787213801",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787216329.501158,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5112960": {
+        "Title": "Scherbenmark: The Old Mine",
+        "Email": "",
+        "Discord": "https://discord.gg/Z6MSezS",
+        "URL": "https://store.steampowered.com/app/5112960/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5112960/18c5bfb4799350935b13306463dd3b4df30e3ddb/header.jpg?t=1787213079",
+        "Date": "2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787216371.3927102,
+        "MatchedTags": [
+            "colony sim",
+            "base building",
+            "management",
+            "strategy",
+            "resource management"
         ]
     }
 }
