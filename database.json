@@ -47666,9 +47666,9 @@
         "URL": "https://store.steampowered.com/app/3240110/",
         "Site": "https://www.techturtlesgames.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240110/6ec8921b670406f2d9e43a4d819185023c452e31/header.jpg?t=1777641951",
-        "Date": "2026",
-        "AddedDate": "2026-05-01",
-        "AddedTimestamp": 1777643742.645444,
+        "Date": "2027",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787231552.0156438,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -48702,9 +48702,9 @@
         "URL": "https://store.steampowered.com/app/4630890/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4630890/13e65d658e49ede9345b14220e7be2bdd161eec3/header.jpg?t=1777718845",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-06",
-        "AddedTimestamp": 1786030595.157406,
+        "Date": "Aug 20, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787231602.4354184,
         "MatchedTags": [
             "colony sim"
         ]
@@ -71381,10 +71381,9 @@
         "AddedDate": "2026-07-01",
         "AddedTimestamp": 1782888496.133057,
         "MatchedTags": [
-            "strategy",
-            "colony sim",
             "tower defense",
-            "base building"
+            "base building",
+            "strategy"
         ]
     },
     "4789970": {
@@ -97303,9 +97302,9 @@
         "URL": "https://store.steampowered.com/app/4546960/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4546960/fa16538dfa0bd51aaa9f76f5ad84337f162d20de/header.jpg?t=1782708689",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-29",
-        "AddedTimestamp": 1782716732.8509521,
+        "Date": "Sep 18, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787231591.7953718,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -134518,9 +134517,9 @@
         "URL": "https://store.steampowered.com/app/4958580/",
         "Site": "https://www.thesevenwilldie.com?from=steam",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4958580/f0253da6cd2e2c7655809a8cefe5efb82c539600/header.jpg?t=1786077793",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-07",
-        "AddedTimestamp": 1786081990.592719,
+        "Date": "Aug 20, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787231664.3597946,
         "MatchedTags": [
             "horror"
         ]
@@ -145986,9 +145985,9 @@
         "URL": "https://store.steampowered.com/app/4916010/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4916010/2ee430c96629e4c47fc743473ee825e21738aea4/header.jpg?t=1786972601",
-        "Date": "2026",
-        "AddedDate": "2026-08-17",
-        "AddedTimestamp": 1786974985.4645112,
+        "Date": "November 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787231647.728712,
         "MatchedTags": [
             "strategy",
             "management",
@@ -152152,6 +152151,96 @@
         "AddedTimestamp": 1787226403.0464256,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4240900": {
+        "Title": "Vice Club Simulator",
+        "Email": "",
+        "Discord": "https://discord.gg/pm9XxesyB",
+        "URL": "https://store.steampowered.com/app/4240900/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4240900/27ca5cd4e17fdf1cbcfcef1ae4ae1e8d3a48d65d/header.jpg?t=1787229076",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787231566.6782157,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "resource management",
+            "strategy"
+        ]
+    },
+    "4764080": {
+        "Title": "Silent Roots",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4764080/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4764080/9e264c60f1a6b91d1928c87d3c0e1ab91c71c115/header.jpg?t=1787227941",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787231623.1795676,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4867850": {
+        "Title": "Wayfallen",
+        "Email": "hello@wayfallen.com",
+        "Discord": "https://discord.gg/h8yXDnDJRb",
+        "URL": "https://store.steampowered.com/app/4867850/",
+        "Site": "https://wayfallen.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4867850/2eff88f8ea068bef8b1384dc0b199b19808ca2fb/header.jpg?t=1787228844",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787231640.1052516,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "base building"
+        ]
+    },
+    "5010700": {
+        "Title": "Flip & Shop Simulator: Prologue",
+        "Email": "",
+        "Discord": "https://discord.gg/VgsEBBqfyF",
+        "URL": "https://store.steampowered.com/app/5010700/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5010700/fd2e23e891453d2d9ea1fee42843be14e92cbd98/header.jpg?t=1787226944",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787231680.7121103,
+        "MatchedTags": [
+            "management",
+            "economy"
+        ]
+    },
+    "5114890": {
+        "Title": "Deep Core Protocol",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5114890/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5114890/722978f95bccc684feccaca13fd549c2ece03e9a/header.jpg?t=1787230471",
+        "Date": "Sep 2, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787231731.3154573,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "5117120": {
+        "Title": "Blackmere",
+        "Email": "casayona.team@gmail.com, info@casayonastudio.com",
+        "Discord": "https://discord.gg/7EvdC8MybM",
+        "URL": "https://store.steampowered.com/app/5117120/",
+        "Site": "https://casayonastudio.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5117120/e1cec8f536c19591ea4877da0563ee79cc9a2de2/header.jpg?t=1787230423",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787231734.0846267,
+        "MatchedTags": [
+            "survival horror"
         ]
     }
 }
