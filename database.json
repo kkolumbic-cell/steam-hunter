@@ -71138,8 +71138,7 @@
         "AddedDate": "2026-06-01",
         "AddedTimestamp": 1780352277.0930138,
         "MatchedTags": [
-            "strategy",
-            "base building"
+            "strategy"
         ]
     },
     "4155330": {
@@ -106807,9 +106806,9 @@
         "URL": "https://store.steampowered.com/app/4932460/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4932460/4ffee6d4c14137a91211d78eaa78ddd8a4dd8c15/header.jpg?t=1783630485",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-09",
-        "AddedTimestamp": 1783633794.7327113,
+        "Date": "Aug 20, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787252550.2636454,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -133370,9 +133369,9 @@
         "URL": "https://store.steampowered.com/app/5007970/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5007970/b8242d5df7040b035305576b994aa7d1996ed6d1/header.jpg?t=1786002305",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-06",
-        "AddedTimestamp": 1786010668.4724002,
+        "Date": "Aug 20, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787252572.0455449,
         "MatchedTags": [
             "resource management"
         ]
@@ -141553,9 +141552,9 @@
         "URL": "https://store.steampowered.com/app/5046850/",
         "Site": "https://portiaplays.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5046850/d09d0375eb729ccfddc7bc09aea9be3c62a2090d/header.jpg?t=1786664871",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-08-14",
-        "AddedTimestamp": 1786665730.004525,
+        "Date": "November 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787252589.317972,
         "MatchedTags": [
             "colony sim",
             "resource management",
@@ -152668,6 +152667,128 @@
             "strategy",
             "management",
             "resource management"
+        ]
+    },
+    "3640830": {
+        "Title": "VICIOUS CIRCLE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3640830/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3640830/2e84230b72e990881d8e656c18c04fe7bf7904fe/header.jpg?t=1787250319",
+        "Date": "Nov 25, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787252484.2215521,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4018980": {
+        "Title": "Faraway Galaxy",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4018980/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4018980/a13adc3b65cc630914c3ee6e522f555f2658fdb1/header.jpg?t=1787249534",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787252492.1302042,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4354400": {
+        "Title": "Railyard Master",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4354400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4354400/f7fd3b19c29a8db8a9c539a16a342c7417f03262/header.jpg?t=1787248859",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787252503.2663267,
+        "MatchedTags": [
+            "management",
+            "strategy",
+            "economy"
+        ]
+    },
+    "4387050": {
+        "Title": "SCP Tower",
+        "Email": "",
+        "Discord": "https://discord.gg/9cDxUQECg",
+        "URL": "https://store.steampowered.com/app/4387050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4387050/b44357eaa4cc48eb1ab38f5a62df29d5b8d075eb/header.jpg?t=1787251353",
+        "Date": "Nov 27, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787252506.637342,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "4516040": {
+        "Title": "Fallen Forest: Echoes Within",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4516040/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4516040/b56de62911bb6774bb305efa9f9b589b21d336e2/header.jpg?t=1787252455",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787252513.4482825,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4534580": {
+        "Title": "Civis: The Eternal City",
+        "Email": "",
+        "Discord": "https://discord.gg/dMcQ59EzgQ",
+        "URL": "https://store.steampowered.com/app/4534580/",
+        "Site": "https://swamprabbitlabs.com/civis/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4534580/ee0b4e80b033c9e7c108954b145d2b8a654bf86d/header.jpg?t=1787251100",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787252515.504629,
+        "MatchedTags": [
+            "management",
+            "strategy",
+            "grand strategy",
+            "resource management"
+        ]
+    },
+    "4861000": {
+        "Title": "Confession of murder",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4861000/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4861000/d64fa7ca04423ca6bfa3509dc0b638635c6852aa/header.jpg?t=1787251500",
+        "Date": "TBA",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787252542.4690614,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "5002680": {
+        "Title": "Klaus Veen's Bastards",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5002680/",
+        "Site": "https://www.klausveen.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5002680/6eeaf011fa911c4dfe4d3cd3e74ab67196ecb497/header.jpg?t=1787250735",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787252565.825584,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
         ]
     }
 }
