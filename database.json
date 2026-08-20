@@ -18975,9 +18975,9 @@
         "URL": "https://store.steampowered.com/app/4561840/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4561840/b07476b734df1c3ea67449c86d353c000a64decc/header.jpg?t=1774978105",
-        "Date": "2026",
-        "AddedDate": "2026-03-31",
-        "AddedTimestamp": 1774980675.186481,
+        "Date": "2027",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787255283.9773648,
         "MatchedTags": [
             "strategy",
             "horror",
@@ -151126,7 +151126,7 @@
     "4112120": {
         "Title": "Willows: A Dream of Shadows",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/EtK5kby4Yu",
         "URL": "https://store.steampowered.com/app/4112120/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4112120/70cdaf631670317ef6873e16c95c4a8f6fc36fb3/header.jpg?t=1787173097",
@@ -152789,6 +152789,141 @@
             "strategy",
             "turn-based strategy",
             "turn-based tactics"
+        ]
+    },
+    "4886900": {
+        "Title": "The Override Protocol",
+        "Email": "overrideai2026@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4886900/",
+        "Site": "https://www.overridegame.ai",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4886900/bee55c943b1e5e293c3eee6ee46886e628b1be8e/header.jpg?t=1787254852",
+        "Date": "Sep 17, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787255311.6485224,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "resource management",
+            "tactical"
+        ]
+    },
+    "4887370": {
+        "Title": "Maria IV: A Cozy Botanical Sim",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4887370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4887370/d6eb4e093da0fcddd3da234d256b6e22d7c371f7/header.jpg?t=1787253274",
+        "Date": "TBA",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787255315.2132757,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "resource management",
+            "base building"
+        ]
+    },
+    "4993000": {
+        "Title": "S.A.C.K. - Survive and Choose Knowledge",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4993000/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4993000/c386621a7fc319bfeb9d631c21a24a760c9bf368/header.jpg?t=1787253961",
+        "Date": "TBA",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787255333.8613641,
+        "MatchedTags": [
+            "tower defense"
+        ]
+    },
+    "5050980": {
+        "Title": "Hitherto: School of Swordcery and Shieldjuration",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5050980/",
+        "Site": "https://goodberry.games",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5050980/18b42611692d883c6e903e6c682a6c54ad4baecb/header.jpg?t=1787254995",
+        "Date": "Sep 10, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787255349.3069131,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "5066910": {
+        "Title": "Trialborn",
+        "Email": "",
+        "Discord": "https://discord.gg/XyJF97W3MY",
+        "URL": "https://store.steampowered.com/app/5066910/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5066910/0033ff6ae71cc4e249e080fe468b2a781c998908/header.jpg?t=1787253281",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787255359.9197838,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5084190": {
+        "Title": "Ciao Pizza: Cooking Chaos",
+        "Email": "",
+        "Discord": "https://discord.gg/NdDESZJFgU",
+        "URL": "https://store.steampowered.com/app/5084190/",
+        "Site": "https://axlplay.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5084190/b4deaefc5f5c6df526d2a4ea675bea9853dc689a/header.jpg?t=1787253112",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787255373.022061,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "5085800": {
+        "Title": "CronoPunk",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5085800/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5085800/c3b8d6307ac8094ada7392aafe4f94471c378f26/header.jpg?t=1787252491",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787255376.2623491,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5107590": {
+        "Title": "ANT SIMULATOR: stock market game",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5107590/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5107590/5fe44b6c00982dcbe4e5712888c96e9af77072d9/header.jpg?t=1787255212",
+        "Date": "Sep 4, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787255379.1148596,
+        "MatchedTags": [
+            "strategy",
+            "economy"
+        ]
+    },
+    "5119340": {
+        "Title": "Verdict",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5119340/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5119340/c8c7d66430547a74bb1dde690a34f5fe9b9e0c2a/header.jpg?t=1787253893",
+        "Date": "December 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787255387.6877832,
+        "MatchedTags": [
+            "horror",
+            "strategy"
         ]
     }
 }
