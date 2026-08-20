@@ -40462,7 +40462,7 @@
     },
     "4625290": {
         "Title": "Incident Archives - Flight 882",
-        "Email": "hello@astronixgames.com, support@astronixgames.com, business@astronixgames.com",
+        "Email": "business@astronixgames.com, hello@astronixgames.com, support@astronixgames.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4625290/",
         "Site": "https://www.astronixgames.com/",
@@ -96313,7 +96313,8 @@
         "AddedDate": "2026-06-27",
         "AddedTimestamp": 1782540336.5704875,
         "MatchedTags": [
-            "strategy"
+            "horror",
+            "resource management"
         ]
     },
     "4862920": {
@@ -117642,9 +117643,9 @@
         "URL": "https://store.steampowered.com/app/4977070/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4977070/1d36456ed86d9c3d3f1052ed67878edbf2a5554e/header.jpg?t=1784664084",
-        "Date": "Aug 31, 2026",
-        "AddedDate": "2026-07-21",
-        "AddedTimestamp": 1784666452.6547225,
+        "Date": "2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787201763.7695756,
         "MatchedTags": [
             "turn-based combat",
             "turn-based tactics",
@@ -151596,6 +151597,36 @@
         "AddedDate": "2026-08-20",
         "AddedTimestamp": 1787198521.2240245,
         "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "4930980": {
+        "Title": "Garage: Tidy Up!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4930980/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4930980/131d31a674b1a1b2af89cf218743e7f741350d49/header.jpg?t=1787198756",
+        "Date": "Sep 16, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787201751.6617935,
+        "MatchedTags": [
+            "psychological horror",
+            "resource management"
+        ]
+    },
+    "5113550": {
+        "Title": "SOGUL: Den of the Deep",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5113550/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5113550/940514d317ec3c02b6c74a121266391bf4dfc92e/header.jpg?t=1787200137",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787201792.5288012,
+        "MatchedTags": [
+            "tactical",
             "turn-based combat"
         ]
     }
