@@ -106643,9 +106643,9 @@
         "URL": "https://store.steampowered.com/app/4668880/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668880/1cddedf79988ee77d2fd389bfaa3ad30df4d1d52/header.jpg?t=1783625866",
-        "Date": "To be announced",
-        "AddedDate": "2026-07-09",
-        "AddedTimestamp": 1783627637.688996,
+        "Date": "2027",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787226309.4720485,
         "MatchedTags": [
             "horror"
         ]
@@ -128955,7 +128955,7 @@
     },
     "4996780": {
         "Title": "BLACK STACK",
-        "Email": "support@blackglassassembly.com",
+        "Email": "support@blackglassassembly.com, privacy@blackglassassembly.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4996780/",
         "Site": "https://blackglassassembly.com",
@@ -152012,6 +152012,146 @@
             "turn-based strategy",
             "tactical rpg",
             "turn-based tactics"
+        ]
+    },
+    "4899670": {
+        "Title": "Very Human Doctor",
+        "Email": "info@freemind.games",
+        "Discord": "https://discord.com/invite/Ev42djcSNH",
+        "URL": "https://store.steampowered.com/app/4899670/",
+        "Site": "http://www.freemind.games",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4899670/d0a6267f587e18bbbede2882748958533a099d34/header.jpg?t=1787223898",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787226329.3932734,
+        "MatchedTags": [
+            "management",
+            "resource management"
+        ]
+    },
+    "5011050": {
+        "Title": "IDUN Rogue",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5011050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5011050/48b596f3e9db8a0b38664a607f2fa6508ea1afaf/header.jpg?t=1787224099",
+        "Date": "2027",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787226355.0461106,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "5028210": {
+        "Title": "Granny Horror House",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5028210/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5028210/4807fb80a266f97717366b5cc27bb0bac8a90a6d/header.jpg?t=1787223938",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787226362.7072103,
+        "MatchedTags": [
+            "strategy",
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "5048110": {
+        "Title": "Jade Master: Chronicle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5048110/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5048110/e277d883f98ccdfed652dc9f12ff5a17dc4434fc/header.jpg?t=1787223635",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787226368.1987321,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "5073320": {
+        "Title": "Service Equals Survival",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5073320/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5073320/f52cfc8c59295e125b2922f218b3e2d3feb40548/header.jpg?t=1787224258",
+        "Date": "Sep 1, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787226386.3346014,
+        "MatchedTags": [
+            "tower defense",
+            "strategy"
+        ]
+    },
+    "5074700": {
+        "Title": "Windward Isles",
+        "Email": "",
+        "Discord": "https://discord.gg/C4djSVR93E",
+        "URL": "https://store.steampowered.com/app/5074700/",
+        "Site": "https://meridianstudios.games",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5074700/2a612f563791916a441335a70f0954360ab72d2e/header.jpg?t=1787223760",
+        "Date": "Aug 28, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787226389.2981985,
+        "MatchedTags": [
+            "strategy",
+            "economy"
+        ]
+    },
+    "5078840": {
+        "Title": "Grimoire of Hecate : Tower of Starlight",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5078840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5078840/0a503c658ad9fc5bea3a2e56dd91864b7963ee92/header.jpg?t=1787226074",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787226392.5207553,
+        "MatchedTags": [
+            "turn-based combat",
+            "turn-based strategy",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "5100550": {
+        "Title": "ManiWheel",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5100550/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5100550/5dd07c4370a5c73f70ef7f459e60705f2feb5f5b/header.jpg?t=1787223348",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787226398.0635858,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "5113890": {
+        "Title": "2in1",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5113890/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5113890/587c635c8efee1e014a94fde0302aef1a6926951/header.jpg?t=1787225421",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787226403.0464256,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
