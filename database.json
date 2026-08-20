@@ -144797,8 +144797,8 @@
         "AddedDate": "2026-08-16",
         "AddedTimestamp": 1786853092.083432,
         "MatchedTags": [
-            "strategy",
-            "turn-based strategy"
+            "turn-based strategy",
+            "strategy"
         ]
     },
     "5009400": {
@@ -149692,8 +149692,8 @@
         "AddedDate": "2026-08-19",
         "AddedTimestamp": 1787115379.3810844,
         "MatchedTags": [
-            "strategy",
             "turn-based tactics",
+            "strategy",
             "turn-based combat",
             "tactical"
         ]
@@ -151480,6 +151480,65 @@
         "MatchedTags": [
             "psychological horror",
             "horror"
+        ]
+    },
+    "4438170": {
+        "Title": "Riskline",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4438170/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4438170/42899dab1444bf4e2bb9ff3be6a4dfca1f202aef/header.jpg?t=1787194527",
+        "Date": "TBA",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787195492.1796424,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5075190": {
+        "Title": "Vangrid",
+        "Email": "",
+        "Discord": "https://discord.gg/24XhaRVgw",
+        "URL": "https://store.steampowered.com/app/5075190/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5075190/39d33f24e9c380bcf6973d329c602baa9881cb76/header.jpg?t=1787195393",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787195567.3836195,
+        "MatchedTags": [
+            "strategy",
+            "base building"
+        ]
+    },
+    "5086560": {
+        "Title": "Tank Battle Classic",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5086560/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5086560/9564b5924898164ad9be7eb705888cb31240a24b/header.jpg?t=1787194475",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787195572.3225727,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "5098180": {
+        "Title": "the Kingdom Fallen",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5098180/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5098180/0c20ae784a1992ba7e43d5de19140dbfd4ef62ab/header.jpg?t=1787192272",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787195576.898217,
+        "MatchedTags": [
+            "real time tactics",
+            "strategy",
+            "tower defense"
         ]
     }
 }
