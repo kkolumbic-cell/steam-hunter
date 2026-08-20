@@ -89948,9 +89948,9 @@
         "URL": "https://store.steampowered.com/app/4106590/",
         "Site": "https://frozenextinction.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4106590/e89a11608fbc1105e562398aee18c65db8be3f70/header.jpg?t=1781884773",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-19",
-        "AddedTimestamp": 1781885759.8116415,
+        "Date": "Q3 2027",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787248041.504887,
         "MatchedTags": [
             "strategy",
             "base building"
@@ -119228,9 +119228,9 @@
         "URL": "https://store.steampowered.com/app/4971630/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4971630/896c0bec6ecc67f9909b828a448c87e5412901db/header.jpg?t=1784768021",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-30",
-        "AddedTimestamp": 1785437494.8900838,
+        "Date": "Aug 20, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787248098.0061886,
         "MatchedTags": [
             "resource management",
             "strategy"
@@ -127897,9 +127897,9 @@
         "URL": "https://store.steampowered.com/app/5003290/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5003290/322bc9a781c5ce175178f6d37a2b7184f3ab5d8f/header.jpg?t=1785520550",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-31",
-        "AddedTimestamp": 1785539981.577893,
+        "Date": "Aug 20, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787248107.9767253,
         "MatchedTags": [
             "strategy"
         ]
@@ -130388,9 +130388,9 @@
         "URL": "https://store.steampowered.com/app/4951890/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4951890/2976e679c3dfb7a5a4e0943b12fb928cbd69ed9e/header.jpg?t=1785828641",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-04",
-        "AddedTimestamp": 1785837758.1600857,
+        "Date": "Aug 20, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787248095.69288,
         "MatchedTags": [
             "strategy"
         ]
@@ -131906,7 +131906,8 @@
         "AddedDate": "2026-08-05",
         "AddedTimestamp": 1785912388.3321898,
         "MatchedTags": [
-            "turn-based combat"
+            "turn-based combat",
+            "resource management"
         ]
     },
     "4531320": {
@@ -133919,9 +133920,9 @@
         "URL": "https://store.steampowered.com/app/4763580/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4763580/296b470f8a769dbadb1d3cea2fa2d402833aad7c/header.jpg?t=1786039741",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-07",
-        "AddedTimestamp": 1786062108.6478138,
+        "Date": "Aug 20, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787248064.3445253,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -149069,9 +149070,9 @@
         "URL": "https://store.steampowered.com/app/5071360/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5071360/287724b7f340b8c59ce7bc3c06ab3442d430bf82/header.jpg?t=1787094451",
-        "Date": "Nov 18, 2026",
+        "Date": "Coming soon",
         "AddedDate": "2026-08-20",
-        "AddedTimestamp": 1787204946.4116626,
+        "AddedTimestamp": 1787248122.602548,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -152541,6 +152542,132 @@
         "MatchedTags": [
             "strategy",
             "grand strategy"
+        ]
+    },
+    "2635970": {
+        "Title": "The Last Days in Arnhem",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2635970/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2635970/cfd089d92c16c2000d1c693287c6b405b357674d/header.jpg?t=1787247297",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787248030.1015356,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "tactical",
+            "turn-based combat"
+        ]
+    },
+    "4562860": {
+        "Title": "Extracto Proviso",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4562860/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4562860/ed25ec1cf0a0b194e4b7a9a0062906af097a8ce6/header.jpg?t=1787247120",
+        "Date": "Jan 1, 2027",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787248047.4820957,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "colony sim",
+            "base building"
+        ]
+    },
+    "4825060": {
+        "Title": "Mining Guild Idle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4825060/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4825060/ca802a0dc9a3b37e6e124de4c7ef1236a2a06133/header.jpg?t=1787246816",
+        "Date": "Oct 28, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787248067.579295,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4887970": {
+        "Title": "Borrowed Flesh",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4887970/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4887970/81e285dd42af190fe035a1df558c3739cba9356a/header.jpg?t=1787247205",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787248073.1201499,
+        "MatchedTags": [
+            "strategy",
+            "horror",
+            "turn-based tactics",
+            "psychological horror",
+            "turn-based combat"
+        ]
+    },
+    "4944470": {
+        "Title": "Proxxy",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4944470/",
+        "Site": "https://proxxygame.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4944470/5cd47e9a4e31c3391c4a456406730ccb9e267153/header.jpg?t=1787245582",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787248091.4785597,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5038060": {
+        "Title": "Medieval Bust",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5038060/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5038060/0d1f4fc0b9ca90208fe3faa922b304ff292ee7f7/header.jpg?t=1787246877",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787248116.46558,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5109530": {
+        "Title": "Vitro : Bloodstream",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5109530/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109530/f7538467b3df0c413af0b148d978ee92b4babcd4/header.jpg?t=1787247123",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787248131.8200648,
+        "MatchedTags": [
+            "management",
+            "resource management"
+        ]
+    },
+    "5115810": {
+        "Title": "ONE MORE TERM",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5115810/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5115810/6bd581f90802b802b51e6b432ce4a6687c95894a/header.jpg?t=1787245464",
+        "Date": "Nov 5, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787248136.9061065,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management"
         ]
     }
 }
