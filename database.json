@@ -16207,10 +16207,7 @@
         "AddedDate": "2026-07-10",
         "AddedTimestamp": 1783657048.6157684,
         "MatchedTags": [
-            "economy",
-            "management",
-            "resource management",
-            "strategy"
+            "resource management"
         ]
     },
     "4551030": {
@@ -127574,9 +127571,9 @@
         "URL": "https://store.steampowered.com/app/4970020/",
         "Site": "https://crookedcats.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4970020/fa66d3e72bcc2f3095fae7cc8a812dc68fb3143d/header.jpg?t=1785511633",
-        "Date": "Q1 2027",
-        "AddedDate": "2026-08-01",
-        "AddedTimestamp": 1785556558.3640904,
+        "Date": "January 2027",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787269373.060124,
         "MatchedTags": [
             "turn-based tactics",
             "strategy",
@@ -145061,9 +145058,7 @@
         "AddedDate": "2026-08-16",
         "AddedTimestamp": 1786894813.1319232,
         "MatchedTags": [
-            "turn-based tactics",
-            "city builder",
-            "colony sim"
+            "turn-based tactics"
         ]
     },
     "5066420": {
@@ -153177,6 +153172,82 @@
         "AddedTimestamp": 1787266091.494956,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4802890": {
+        "Title": "LIMINAL",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4802890/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4802890/3255170add215d14ebe7ba15b81b5a9975f22539/header.jpg?t=1787267700",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787269354.7634387,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror",
+            "resource management",
+            "turn-based combat"
+        ]
+    },
+    "4884940": {
+        "Title": "Feathered Citadel",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4884940/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4884940/d0f7da07ecf52ba901612240a3b04af3c6bd23a8/header.jpg?t=1787266692",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787269360.0169795,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5069580": {
+        "Title": "Spray to Grail",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5069580/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5069580/dcb7b4139ff71f79767342ca32a17d8f9b530d24/header.jpg?t=1787268960",
+        "Date": "TBA",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787269383.6568623,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "5086750": {
+        "Title": "Item TD",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5086750/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5086750/aa94254ddf5df4cb333557c717a959fdbefc1e7d/header.jpg?t=1787268530",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787269396.6627014,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "5104370": {
+        "Title": "Neironaut",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5104370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5104370/dae9443c0dd6471caadb31a78610ad3c3f2494b4/header.jpg?t=1787266489",
+        "Date": "2027",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787269408.7083938,
+        "MatchedTags": [
+            "resource management",
+            "turn-based combat"
         ]
     }
 }
