@@ -73928,9 +73928,9 @@
         "URL": "https://store.steampowered.com/app/4490850/",
         "Site": "https://golden-fleece.carrd.co/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4490850/480831a3ead5ac8f28fa411767e821bf84994528/header.jpg?t=1780530391",
-        "Date": "Oct 26, 2026",
-        "AddedDate": "2026-07-01",
-        "AddedTimestamp": 1782939407.002828,
+        "Date": "Oct 7, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787222968.6530385,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -100759,9 +100759,9 @@
         "URL": "https://store.steampowered.com/app/4848080/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4848080/4723deb6f20eb1a8e17789e6d6e13b9746a15ac8/header.jpg?t=1783041167",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-09",
-        "AddedTimestamp": 1786250345.6029289,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787223006.6834283,
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
@@ -108190,9 +108190,9 @@
         "URL": "https://store.steampowered.com/app/4772010/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4772010/78a974a7b6284d9059422ba2aa720cff4998d182/header.jpg?t=1783754562",
-        "Date": "Aug 19, 2026",
-        "AddedDate": "2026-07-11",
-        "AddedTimestamp": 1783760440.5802176,
+        "Date": "Aug 20, 2026",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787222995.3726518,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -143115,8 +143115,9 @@
         "AddedDate": "2026-08-14",
         "AddedTimestamp": 1786750842.419373,
         "MatchedTags": [
+            "psychological horror",
             "horror",
-            "psychological horror"
+            "survival horror"
         ]
     },
     "5055250": {
@@ -151429,9 +151430,9 @@
         "URL": "https://store.steampowered.com/app/5100520/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5100520/16a43a32d3c93e72494526db1b7fedbfc303acca/header.jpg?t=1787188441",
-        "Date": "TBA",
+        "Date": "Coming soon",
         "AddedDate": "2026-08-20",
-        "AddedTimestamp": 1787190924.8824198,
+        "AddedTimestamp": 1787223048.5746913,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -151957,9 +151958,9 @@
         "URL": "https://store.steampowered.com/app/5093370/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5093370/e3e2693c3c8dcc80bb989db6cb6884571d79132f/header.jpg?t=1787218884",
-        "Date": "TBA",
+        "Date": "To be announced",
         "AddedDate": "2026-08-20",
-        "AddedTimestamp": 1787219601.5603988,
+        "AddedTimestamp": 1787223042.2841282,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -151979,6 +151980,38 @@
         "MatchedTags": [
             "psychological horror",
             "horror"
+        ]
+    },
+    "4698500": {
+        "Title": "One Coffee At A Time",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4698500/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4698500/f23b2d596f1b983f09af0b1863879e25396a4614/header.jpg?t=1787221759",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787222987.4177592,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "resource management"
+        ]
+    },
+    "5066830": {
+        "Title": "Dungeon Explorers 2",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5066830/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5066830/49d6654a15361a754879797ae83400116bb1326e/header.jpg?t=1787220670",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-20",
+        "AddedTimestamp": 1787223031.7988205,
+        "MatchedTags": [
+            "turn-based strategy",
+            "tactical rpg",
+            "turn-based tactics"
         ]
     }
 }
