@@ -134667,9 +134667,9 @@
         "URL": "https://store.steampowered.com/app/4779400/",
         "Site": "https://5aces.co.uk/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4779400/efb26bb955e88d2adb2d174293fa040770504562/header.jpg?t=1786094997",
-        "Date": "Aug 28, 2026",
-        "AddedDate": "2026-08-07",
-        "AddedTimestamp": 1786100985.0665326,
+        "Date": "Aug 21, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787345011.5362134,
         "MatchedTags": [
             "real time tactics",
             "strategy",
@@ -154910,6 +154910,77 @@
         "MatchedTags": [
             "psychological horror",
             "horror"
+        ]
+    },
+    "4093200": {
+        "Title": "Buggos: Death Squad",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4093200/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4093200/737ef294ed1db9669e3d35b80969e59320aa0224/header.jpg?t=1787341841",
+        "Date": "January 2027",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787344985.728791,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "4633940": {
+        "Title": "King's Three",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4633940/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4633940/d10dce275b514621697806d8aa57a74295717b9f/header.jpg?t=1787342261",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787345001.092808,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4973240": {
+        "Title": "Amazing Sumo Boat Adventure",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4973240/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4973240/43f99bd78f6dc575149a43434858e2e26e9124d3/header.jpg?t=1787344371",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787345043.946025,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "5075520": {
+        "Title": "Enterprise Employer",
+        "Email": "",
+        "Discord": "https://discord.gg/ug4PYsg2g9",
+        "URL": "https://store.steampowered.com/app/5075520/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5075520/8e3d271dadb902442a77e4a2be5261019c7f5ca1/header.jpg?t=1787342123",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787345081.2073257,
+        "MatchedTags": [
+            "management",
+            "economy"
+        ]
+    },
+    "5098380": {
+        "Title": "First Move: Classic Games Collection",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5098380/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5098380/67f433cdf328292aaa2abeb165b31374f83da16a/header.jpg?t=1787342407",
+        "Date": "Aug 25, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787345092.9937987,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
