@@ -8395,9 +8395,9 @@
         "URL": "https://store.steampowered.com/app/4495180/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4495180/7ff672c7806c0581e5c84e252fbaa4ee260dd88c/header.jpg?t=1773687147",
-        "Date": "Mar 30, 2026",
-        "AddedDate": "2026-03-30",
-        "AddedTimestamp": 1774869579.4708958,
+        "Date": "Aug 21, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787318015.6268408,
         "MatchedTags": [
             "tactical rpg",
             "turn-based combat"
@@ -38420,9 +38420,9 @@
         "URL": "https://store.steampowered.com/app/4623600/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4623600/9d937ebfe617a5f4ef26506555f450d72ffb62b8/header.jpg?t=1776882503",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-06-20",
-        "AddedTimestamp": 1781944220.83886,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787318034.576787,
         "MatchedTags": [
             "strategy",
             "psychological horror"
@@ -63160,7 +63160,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4730130/",
-        "Site": "",
+        "Site": "https://aitatdd.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4730130/51f05154b6ab129fc0ca5a5a2ca9824e7a20c7d6/header.jpg?t=1779478847",
         "Date": "Coming soon",
         "AddedDate": "2026-05-22",
@@ -102719,9 +102719,9 @@
         "URL": "https://store.steampowered.com/app/4345390/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4345390/d8765cb24b627b758b20c2acd46dc4bdb3fff0df/header.jpg?t=1783351758",
-        "Date": "Aug 28, 2026",
-        "AddedDate": "2026-08-08",
-        "AddedTimestamp": 1786186373.0947118,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787318005.2083642,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -106699,9 +106699,9 @@
         "URL": "https://store.steampowered.com/app/4778330/",
         "Site": "https://redsluggames.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778330/9102cecce121ea0189e194e34d498fd0c5fda8dc/header.jpg?t=1783628954",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-09",
-        "AddedTimestamp": 1783633715.644606,
+        "Date": "To be announced",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787318058.3172903,
         "MatchedTags": [
             "resource management"
         ]
@@ -107364,7 +107364,8 @@
         "AddedDate": "2026-07-10",
         "AddedTimestamp": 1783695973.1164932,
         "MatchedTags": [
-            "horror"
+            "horror",
+            "psychological horror"
         ]
     },
     "4866460": {
@@ -129933,8 +129934,10 @@
         "AddedDate": "2026-08-04",
         "AddedTimestamp": 1785814850.9436336,
         "MatchedTags": [
+            "real time tactics",
+            "management",
             "strategy",
-            "real time tactics"
+            "horror"
         ]
     },
     "4939350": {
@@ -146075,10 +146078,10 @@
     },
     "5085180": {
         "Title": "Blind Gavel",
-        "Email": "",
+        "Email": "info@strongbowgames.com",
         "Discord": "https://discord.gg/wZ3ACd4h4A",
         "URL": "https://store.steampowered.com/app/5085180/",
-        "Site": "",
+        "Site": "https://strongbowgames.com/games/blind-gavel",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5085180/f85090cf4bde76d6c6d8846feb9e6eba8c0c7aea/header.jpg?t=1786976808",
         "Date": "Nov 3, 2026",
         "AddedDate": "2026-08-21",
@@ -151067,10 +151070,13 @@
         "URL": "https://store.steampowered.com/app/5108980/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5108980/13745d505bc5b434fb3db9a20f03aa7e32501c43/header.jpg?t=1787170021",
-        "Date": "Coming soon",
+        "Date": "Sep 1, 2026",
         "AddedDate": "2026-08-21",
-        "AddedTimestamp": 1787277722.1831284,
+        "AddedTimestamp": 1787318188.0935376,
         "MatchedTags": [
+            "turn-based strategy",
+            "turn-based combat",
+            "turn-based tactics",
             "strategy"
         ]
     },
@@ -153827,6 +153833,177 @@
         "MatchedTags": [
             "strategy",
             "tactical"
+        ]
+    },
+    "3882930": {
+        "Title": "C.R.E.O.",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3882930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3882930/dd5accf46f93dce7a59ed059176b23cb5d1b8200/header.jpg?t=1787317018",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787317989.3825006,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "4827540": {
+        "Title": "Galactic Simulator 3",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4827540/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4827540/46f16dba1378f58987722c44192815ea98c482f4/header.jpg?t=1787315021",
+        "Date": "Nov 26, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787318067.5140798,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4838670": {
+        "Title": "Heroll: IF",
+        "Email": "",
+        "Discord": "https://discord.gg/rsjDTPRNqt",
+        "URL": "https://store.steampowered.com/app/4838670/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4838670/56dcd5487d7a0a8938908b76d8d9c793dafca59b/header.jpg?t=1787314967",
+        "Date": "Nov 2, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787318072.329859,
+        "MatchedTags": [
+            "tactical rpg",
+            "turn-based combat"
+        ]
+    },
+    "5037110": {
+        "Title": "Economicon",
+        "Email": "",
+        "Discord": "https://discord.gg/cJKYNuFwR",
+        "URL": "https://store.steampowered.com/app/5037110/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5037110/ec58b34f0338f92e1d58eca8e03f72e359539258/header.jpg?t=1787317229",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787318137.5784605,
+        "MatchedTags": [
+            "resource management",
+            "economy",
+            "strategy",
+            "city builder",
+            "management"
+        ]
+    },
+    "5049780": {
+        "Title": "World of Stars",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5049780/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5049780/5fd20ad0e4d1c41d8964a89666fee7770b3d146c/header.jpg?t=1787316771",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787318144.5170953,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "grand strategy",
+            "management",
+            "tactical",
+            "economy"
+        ]
+    },
+    "5056230": {
+        "Title": "AFTERMATH: Bunker Trader",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5056230/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5056230/d8ec4b3481ba32119673918975b6a10f5169bb29/header.jpg?t=1787317615",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787318149.692872,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "base building",
+            "resource management"
+        ]
+    },
+    "5085990": {
+        "Title": "UNKNOWN EGG",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5085990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5085990/86d681cf714786fa976dd8b7d2effd349347379d/header.jpg?t=1787312776",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787318175.8119845,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "5100960": {
+        "Title": "Projekt Gartenzwerg",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5100960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5100960/6ca482f7516785e4d5f405fa07c37b0c4b4bac29/header.jpg?t=1787317307",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787318185.1227236,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5111640": {
+        "Title": "Will This Do?",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5111640/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5111640/392ab7237e5fca8fda51f287906a56adb2a45aac/header.jpg?t=1787315221",
+        "Date": "TBA",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787318190.9886038,
+        "MatchedTags": [
+            "economy",
+            "management"
+        ]
+    },
+    "5117210": {
+        "Title": "Roads Beneath The Crown",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5117210/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5117210/11e6136415334e3e1adc97772bda2105077fc20f/header.jpg?t=1787313559",
+        "Date": "October 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787318196.423778,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "economy",
+            "city builder"
+        ]
+    },
+    "5122680": {
+        "Title": "Monkey With A Gun",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5122680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5122680/64a6a3a86ddfcff13a54a24399d389b053b2f887/header.jpg?t=1787314612",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787318202.1148388,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
