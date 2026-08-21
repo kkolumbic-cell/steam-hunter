@@ -52449,7 +52449,7 @@
     },
     "4653910": {
         "Title": "Bone Stuff",
-        "Email": "hello@kaznos.com, support@kaznos.com, press@kaznos.com, business@kaznos.com",
+        "Email": "business@kaznos.com, press@kaznos.com, support@kaznos.com, hello@kaznos.com",
         "Discord": "https://discord.gg/nEBVkKaGsk",
         "URL": "https://store.steampowered.com/app/4653910/",
         "Site": "https://www.kaznos.com/tr",
@@ -63959,9 +63959,9 @@
         "URL": "https://store.steampowered.com/app/4359910/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4359910/6e8996858902a90295308774672824c98e89aaea/header.jpg?t=1779715015",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-15",
-        "AddedTimestamp": 1784157235.1026783,
+        "Date": "Aug 21, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787352234.7438545,
         "MatchedTags": [
             "management"
         ]
@@ -91529,9 +91529,9 @@
         "URL": "https://store.steampowered.com/app/4802100/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4802100/f2193303f90d1a963b1257e7d8e4a51f125961f1/header.jpg?t=1782145240",
-        "Date": "Oct 1, 2026",
-        "AddedDate": "2026-07-01",
-        "AddedTimestamp": 1782924225.0372849,
+        "Date": "Dec 4, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787352264.8009043,
         "MatchedTags": [
             "horror",
             "turn-based combat"
@@ -121241,9 +121241,9 @@
         "URL": "https://store.steampowered.com/app/3504270/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3504270/65358c725f92240b4c0f15eb8647ec5a230cc31d/header.jpg?t=1784920178",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-24",
-        "AddedTimestamp": 1784922530.4441462,
+        "Date": "Aug 21, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787352229.325366,
         "MatchedTags": [
             "tactical"
         ]
@@ -137655,9 +137655,9 @@
         "URL": "https://store.steampowered.com/app/5054010/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5054010/3a84fe9ad23b61478ecb69d044a50453c3671de0/header.jpg?t=1786438404",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-11",
-        "AddedTimestamp": 1786439856.8506317,
+        "Date": "Aug 26, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787352293.5646784,
         "MatchedTags": [
             "tactical"
         ]
@@ -154986,7 +154986,7 @@
     "4684120": {
         "Title": "It Was Not a Suicide",
         "Email": "poisonicstudio@gmail.com",
-        "Discord": "",
+        "Discord": "https://discord.gg/hn3wuVHF3U",
         "URL": "https://store.steampowered.com/app/4684120/",
         "Site": "https://poisonicstudio.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4684120/ea2d195ea1418762a73b653484920f27bc4f8509/header.jpg?t=1787347448",
@@ -155030,6 +155030,68 @@
             "turn-based combat",
             "psychological horror",
             "horror"
+        ]
+    },
+    "4709910": {
+        "Title": "Wrathline",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4709910/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4709910/c56dfbc07e1769a604fd9bb90ffb4c90b7571cb6/header.jpg?t=1787350961",
+        "Date": "TBA",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787352258.5790644,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "real time tactics"
+        ]
+    },
+    "5053310": {
+        "Title": "Speed RPG",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5053310/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5053310/a9121bb81e0a051feb61d513dff2d2c9f401cf4b/header.jpg?t=1787351787",
+        "Date": "2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787352290.0711749,
+        "MatchedTags": [
+            "turn-based combat",
+            "turn-based tactics"
+        ]
+    },
+    "5091900": {
+        "Title": "Prigod Idle",
+        "Email": "prigodgames@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5091900/",
+        "Site": "https://prigodgames.github.io/PrigodGames/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5091900/f0bf65584269665a3b4f4824cf3557a8afc95b5d/header.jpg?t=1787351137",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787352301.8113894,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "5097530": {
+        "Title": "SIGNOS: AI Robot Builder",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5097530/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5097530/a9a03605240ace396a0f7003cd41f7e7cb2739a8/header.jpg?t=1787349179",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787352304.1029947,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical"
         ]
     }
 }
