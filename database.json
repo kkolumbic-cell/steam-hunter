@@ -30578,9 +30578,9 @@
         "URL": "https://store.steampowered.com/app/4580600/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4580600/ebe3000b3c2cac63726b69b7dbed437ffcc70ab1/header.jpg?t=1776186418",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-14",
-        "AddedTimestamp": 1776188251.2666492,
+        "Date": "Sep 13, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787334469.0934305,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -95621,9 +95621,9 @@
         "AddedDate": "2026-08-11",
         "AddedTimestamp": 1786486021.5026538,
         "MatchedTags": [
-            "resource management",
+            "economy",
             "management",
-            "economy"
+            "resource management"
         ]
     },
     "4265580": {
@@ -138379,9 +138379,9 @@
         "URL": "https://store.steampowered.com/app/5044080/",
         "Site": "https://www.hatsteelgames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5044080/de613ea2eee7e0d6849c9d3ac4c99afe5095f479/header.jpg?t=1786473148",
-        "Date": "Dec 10, 2026",
-        "AddedDate": "2026-08-19",
-        "AddedTimestamp": 1787139906.0391667,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787334540.405382,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -149318,8 +149318,8 @@
         "AddedDate": "2026-08-19",
         "AddedTimestamp": 1787104748.8001475,
         "MatchedTags": [
-            "management",
             "economy",
+            "management",
             "resource management"
         ]
     },
@@ -154439,6 +154439,128 @@
         "MatchedTags": [
             "turn-based strategy",
             "turn-based combat",
+            "strategy"
+        ]
+    },
+    "5006680": {
+        "Title": "Project Athanor",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5006680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5006680/25b1c713ab75458e4d3e963f887559dfd28d3282/header.jpg?t=1787332130",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787334520.0988815,
+        "MatchedTags": [
+            "city builder",
+            "management",
+            "strategy"
+        ]
+    },
+    "5033530": {
+        "Title": "The Crown",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5033530/",
+        "Site": "https://www.wearthecrown.net",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5033530/c0f975212e30572ceb5096aee85f0a54ed3bd175/header.jpg?t=1787332784",
+        "Date": "Jul 1, 2027",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787334534.644768,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5046970": {
+        "Title": "\u865e\u5dde\u7684\u7f6a\u7f8a",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5046970/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5046970/c8aecf9d0c262a4fa05bfaf97cb912144b28c36b/header.jpg?t=1787333391",
+        "Date": "2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787334544.4245083,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "5059020": {
+        "Title": "Towerburst",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5059020/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5059020/5667970979ecc8772729a2fa6d92ca137d853f38/header.jpg?t=1787333636",
+        "Date": "2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787334547.0433412,
+        "MatchedTags": [
+            "tower defense",
+            "strategy"
+        ]
+    },
+    "5087330": {
+        "Title": "Firework Store Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5087330/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5087330/29933ba6600446bb8443f50184d3311f6b52d128/header.jpg?t=1787333215",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787334580.417033,
+        "MatchedTags": [
+            "management",
+            "resource management"
+        ]
+    },
+    "5118620": {
+        "Title": "Dead Man's Gulch",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5118620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5118620/ce4e92273aaf9c3d394f43a34eb135a2be787c3b/header.jpg?t=1787334101",
+        "Date": "October 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787334600.8271837,
+        "MatchedTags": [
+            "tower defense",
+            "strategy",
+            "base building",
+            "management",
+            "tactical",
+            "resource management"
+        ]
+    },
+    "5120290": {
+        "Title": "Night Alley : \u0e15\u0e23\u0e2d\u0e01\u0e25\u0e27\u0e07 \u0e14\u0e27\u0e07\u0e14\u0e31\u0e1a",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5120290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5120290/73dc5ed07ff250607470280e15ccb240131bd7fd/header.jpg?t=1787333846",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787334604.001021,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5128530": {
+        "Title": "OVERQUOTA",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5128530/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5128530/e52ccb0a61be291b1cc5f730ab6b9ca42d300e02/header.jpg?t=1787333019",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787334609.0102522,
+        "MatchedTags": [
             "strategy"
         ]
     }
