@@ -88409,22 +88409,6 @@
             "resource management"
         ]
     },
-    "4855760": {
-        "Title": "Tung Tung Tung Survival",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4855760/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4855760/8822df4546a5be10535de02a12e9df6731717242/header.jpg?t=1781728455",
-        "Date": "Jul 16, 2026",
-        "AddedDate": "2026-06-29",
-        "AddedTimestamp": 1782757688.553064,
-        "MatchedTags": [
-            "psychological horror",
-            "horror",
-            "survival horror"
-        ]
-    },
     "2765990": {
         "Title": "Skullf!",
         "Email": "",
@@ -119269,9 +119253,9 @@
         "URL": "https://store.steampowered.com/app/4982060/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4982060/9ae291b5039506278e57e639300fe351078c12eb/header.jpg?t=1784766267",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-07-23",
-        "AddedTimestamp": 1784778846.507409,
+        "Date": "Oct 26, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787288206.596477,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -153458,6 +153442,69 @@
         "MatchedTags": [
             "strategy",
             "colony sim"
+        ]
+    },
+    "4274410": {
+        "Title": "ApocalypseHQ",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4274410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4274410/4182069d98d50ded8505a34b2cc6339531e80df7/header.jpg?t=1787284531",
+        "Date": "2027",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787288143.4570267,
+        "MatchedTags": [
+            "colony sim",
+            "economy",
+            "strategy",
+            "management",
+            "base building",
+            "turn-based strategy",
+            "resource management"
+        ]
+    },
+    "4716000": {
+        "Title": "\u6b22\u8fce\u7ee7\u7eed\u4e0a\u73ed (Welcome Back to Work)",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4716000/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4716000/1d5538e5c723e08e523bbd362fef141fdcef9055/header.jpg?t=1787283063",
+        "Date": "Dec 30, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787288168.6478777,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "4966240": {
+        "Title": "Sable of Y",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4966240/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4966240/9f5dc53f5aa3bd2b5cd6482e64cf702cccbc55c0/header.jpg?t=1787283018",
+        "Date": "Aug 24, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787288203.3036933,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "5122740": {
+        "Title": "Nine Islands",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5122740/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5122740/16ff8daeebf79b18d6964c000bac6754ddff9523/header.jpg?t=1787284312",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787288248.9373267,
+        "MatchedTags": [
+            "base building"
         ]
     }
 }
