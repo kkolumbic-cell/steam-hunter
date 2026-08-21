@@ -39119,9 +39119,9 @@
         "URL": "https://store.steampowered.com/app/4538080/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4538080/9937436a2b3a6a808f89dab0e70fc8cb2afd190a/header.jpg?t=1776949156",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-23",
-        "AddedTimestamp": 1776953697.887781,
+        "Date": "Oct 29, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787331226.6258616,
         "MatchedTags": [
             "resource management",
             "strategy"
@@ -49012,9 +49012,9 @@
         "URL": "https://store.steampowered.com/app/4633960/",
         "Site": "https://www.nbgamesusa.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4633960/40a2b1f45af41ad23c8f0c6ce110c927da781215/header.jpg?t=1777826854",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-03",
-        "AddedTimestamp": 1777828215.5915632,
+        "Date": "Aug 21, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787331236.928048,
         "MatchedTags": [
             "strategy"
         ]
@@ -80474,7 +80474,7 @@
     },
     "4819030": {
         "Title": "Deal Flipper",
-        "Email": "",
+        "Email": "info@roovelstudio.com",
         "Discord": "https://discord.gg/AfCYRBqE6D",
         "URL": "https://store.steampowered.com/app/4819030/",
         "Site": "https://roovelstudio.com/",
@@ -80483,11 +80483,9 @@
         "AddedDate": "2026-06-10",
         "AddedTimestamp": 1781102035.9537997,
         "MatchedTags": [
-            "strategy",
-            "economy",
             "management",
-            "resource management",
-            "tactical"
+            "economy",
+            "resource management"
         ]
     },
     "4389390": {
@@ -133440,10 +133438,10 @@
     },
     "5010520": {
         "Title": "KERF: Sawmill Tycoon",
-        "Email": "",
+        "Email": "mgdbstudio@gmail.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/5010520/",
-        "Site": "",
+        "Site": "https://mgdbstudio.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5010520/88ebc82b2f368792a62f4c20b174af2dcc9000bc/header.jpg?t=1786015043",
         "Date": "Aug 20, 2026",
         "AddedDate": "2026-08-19",
@@ -135123,7 +135121,6 @@
             "strategy",
             "turn-based combat",
             "survival horror",
-            "tactical",
             "horror"
         ]
     },
@@ -136008,9 +136005,9 @@
         "URL": "https://store.steampowered.com/app/4935570/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4935570/f37e84df3b9eab5296bfda36ad030de7f40807e8/header.jpg?t=1786189254",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-08",
-        "AddedTimestamp": 1786189541.730854,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787331272.0735934,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -145532,9 +145529,9 @@
         "URL": "https://store.steampowered.com/app/5039320/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5039320/9b473111d55183ce634142c46c11db2b431d96f0/header.jpg?t=1786949636",
-        "Date": "To be announced",
-        "AddedDate": "2026-08-17",
-        "AddedTimestamp": 1786951238.9233084,
+        "Date": "2027",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787331328.0396876,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -154334,6 +154331,115 @@
             "turn-based strategy",
             "tactical",
             "turn-based tactics"
+        ]
+    },
+    "4330500": {
+        "Title": "Zone Idle",
+        "Email": "",
+        "Discord": "https://discord.com/invite/zQsv7wAdVb",
+        "URL": "https://store.steampowered.com/app/4330500/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4330500/e28de95a917335f96b1760a21ecc648973f64d13/header.jpg?t=1787328260",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787331210.2095659,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4794590": {
+        "Title": "Gemfall",
+        "Email": "",
+        "Discord": "https://discord.gg/MA6G23tUa9",
+        "URL": "https://store.steampowered.com/app/4794590/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4794590/bcd7d48010e5b60db80d03b3e35e1d4de8d0ba91/header.jpg?t=1787330412",
+        "Date": "TBA",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787331248.473806,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "5037360": {
+        "Title": "Great Town Business: Life, Living & Luxuries",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5037360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5037360/dd549483d0efff23af055259648fb346a0ff50cb/header.jpg?t=1787331133",
+        "Date": "Nov 12, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787331321.671844,
+        "MatchedTags": [
+            "management",
+            "resource management"
+        ]
+    },
+    "5088420": {
+        "Title": "Under the Rust",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5088420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5088420/6571ff5fe76b77c5ed77aceeb3ee27f5c7512218/header.jpg?t=1787328657",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787331353.5536978,
+        "MatchedTags": [
+            "colony sim",
+            "strategy",
+            "resource management",
+            "tactical rpg",
+            "turn-based tactics",
+            "management"
+        ]
+    },
+    "5101780": {
+        "Title": "Carve The Cave Together",
+        "Email": "",
+        "Discord": "https://discord.gg/2qgMYhmBrW",
+        "URL": "https://store.steampowered.com/app/5101780/",
+        "Site": "https://www.gooder.games/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5101780/d389128f6654381a462452e96a680ccd56088c5e/header.jpg?t=1787329567",
+        "Date": "Nov 10, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787331361.548758,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "5108150": {
+        "Title": "MORTAROT",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5108150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5108150/6ddbc8fe4083bd863d0ad61444284ed8cbe0bb0b/header.jpg?t=1787328162",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787331366.2863686,
+        "MatchedTags": [
+            "strategy",
+            "horror"
+        ]
+    },
+    "5122550": {
+        "Title": "Larina",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5122550/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5122550/336572d077dce23afc8341aed4c0fc42b38ffc30/header.jpg?t=1787327863",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787331379.0777578,
+        "MatchedTags": [
+            "turn-based strategy",
+            "turn-based combat",
+            "strategy"
         ]
     }
 }
