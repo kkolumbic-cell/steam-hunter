@@ -45133,9 +45133,9 @@
         "URL": "https://store.steampowered.com/app/4009170/",
         "Site": "https://www.obrum.io/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4009170/782d324baf511d87d74cf5de8db5a5e7fc8c283a/header.jpg?t=1777450396",
-        "Date": "Jun 30, 2026",
-        "AddedDate": "2026-05-19",
-        "AddedTimestamp": 1779218346.2873354,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787324100.6564324,
         "MatchedTags": [
             "strategy",
             "tactical"
@@ -101215,9 +101215,9 @@
         "URL": "https://store.steampowered.com/app/4908080/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4908080/cabf0214bfc762ce909b0cc20b3bdc3625e1c2ff/header.jpg?t=1783090511",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-07-03",
-        "AddedTimestamp": 1783092688.7190354,
+        "Date": "Aug 21, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787324191.1258943,
         "MatchedTags": [
             "economy"
         ]
@@ -112072,9 +112072,9 @@
         "URL": "https://store.steampowered.com/app/4951430/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4951430/a6245a0944c7086d5629aab316a49fc3a9e77937/header.jpg?t=1784153526",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-15",
-        "AddedTimestamp": 1784157323.9424531,
+        "Date": "Aug 21, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787324200.8779986,
         "MatchedTags": [
             "turn-based tactics",
             "strategy",
@@ -121285,9 +121285,9 @@
         "URL": "https://store.steampowered.com/app/4889010/",
         "Site": "https://dragondropper.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4889010/5a7aef6ce9dfbdb22b1b634c739b33f596472da0/header.jpg?t=1784922007",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-07-24",
-        "AddedTimestamp": 1784922650.1795416,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787324181.0182486,
         "MatchedTags": [
             "tactical rpg",
             "turn-based tactics",
@@ -153690,9 +153690,9 @@
         "URL": "https://store.steampowered.com/app/4968500/",
         "Site": "https://hemiogenic.com/jamaican-ludi/support.html",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4968500/058b55d59fa55b7faf145df8f98eec7717d60f6a/header.jpg?t=1787304122",
-        "Date": "TBA",
+        "Date": "Coming soon",
         "AddedDate": "2026-08-21",
-        "AddedTimestamp": 1787306054.5584037,
+        "AddedTimestamp": 1787324203.758323,
         "MatchedTags": [
             "strategy"
         ]
@@ -154049,11 +154049,197 @@
         "URL": "https://store.steampowered.com/app/5069740/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5069740/04bace0ddf552e29536ad3c627ab69d8819d4aa2/header.jpg?t=1787319487",
-        "Date": "October 2026",
+        "Date": "November 2026",
         "AddedDate": "2026-08-21",
-        "AddedTimestamp": 1787320915.1811247,
+        "AddedTimestamp": 1787324235.571149,
         "MatchedTags": [
             "horror",
+            "psychological horror"
+        ]
+    },
+    "1897660": {
+        "Title": "The Main Menu",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/1897660/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1897660/065324a6d7ddebf3bc87fe89c36326abf39a940e/header.jpg?t=1787321805",
+        "Date": "TBA",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787324088.4216263,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "3065200": {
+        "Title": "Tide Terminal",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3065200/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065200/18703e70a65455d71b8ce66fa68b615f24ab44c1/header.jpg?t=1787323210",
+        "Date": "August 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787324094.4527273,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "economy"
+        ]
+    },
+    "4420150": {
+        "Title": "The Elevator Game",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4420150/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4420150/83c527762f72c5addf0384c699fc51d6ce75e95b/header.jpg?t=1787322954",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787324115.2389567,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "5016070": {
+        "Title": "Genetic Survivors",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5016070/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5016070/524cc97d1d565935d1a89ef7c86051474d8db508/header.jpg?t=1787321777",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787324219.2038462,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5062700": {
+        "Title": "Trick Or Terror",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5062700/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5062700/33f09e971e461490f8551a0601ce95d96d04b07a/header.jpg?t=1787322268",
+        "Date": "Jun 12, 2028",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787324232.9675095,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "5073720": {
+        "Title": "Terran Dawn",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5073720/",
+        "Site": "https://terrandawn.eu/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5073720/88ecfe99df166e70d4cda5431ceea4aeb7fde511/header.jpg?t=1787320979",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787324241.3311186,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "economy"
+        ]
+    },
+    "5089560": {
+        "Title": "Electronics Depot Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5089560/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5089560/1d5db6c80d35df041a25405070919a72537dc64a/header.jpg?t=1787323507",
+        "Date": "Sep 2, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787324249.6878016,
+        "MatchedTags": [
+            "resource management",
+            "base building"
+        ]
+    },
+    "5112150": {
+        "Title": "Steel Wolverines: Modern Armored Combat",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5112150/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5112150/8cb81c6ce71ac89384bb56f9a0336cc79562bbd9/header.jpg?t=1787323734",
+        "Date": "2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787324258.0481339,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "tactical",
+            "turn-based strategy",
+            "turn-based combat",
+            "management",
+            "resource management"
+        ]
+    },
+    "5113390": {
+        "Title": "Dark Tower Defense",
+        "Email": "",
+        "Discord": "https://discord.gg/nY5EteY35z",
+        "URL": "https://store.steampowered.com/app/5113390/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5113390/d392db18d1db1a1e0ebd3abccd7cb8c91654f470/header.jpg?t=1787322819",
+        "Date": "TBA",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787324260.6220849,
+        "MatchedTags": [
+            "strategy",
+            "tower defense"
+        ]
+    },
+    "5116140": {
+        "Title": "Bleak Coordinates",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5116140/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5116140/bcb8c072dd1e82419589535bd545375172fb53c9/header.jpg?t=1787323493",
+        "Date": "TBA",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787324264.1354618,
+        "MatchedTags": [
+            "survival horror",
+            "horror"
+        ]
+    },
+    "5117980": {
+        "Title": "Final Armada",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5117980/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5117980/2a1a277533b63f7cb0c1c121a4019cac81a0c79b/header.jpg?t=1787323126",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787324268.400862,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg"
+        ]
+    },
+    "5120820": {
+        "Title": "Grumble Burger",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5120820/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5120820/9e5f0ce29718b4f19c1695aaec2f15c3dd398f19/header.jpg?t=1787323038",
+        "Date": "2027",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787324272.7913556,
+        "MatchedTags": [
             "psychological horror"
         ]
     }
