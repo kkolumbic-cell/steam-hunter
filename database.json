@@ -71598,9 +71598,9 @@
         "URL": "https://store.steampowered.com/app/4755920/",
         "Site": "https://landandcastles.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4755920/1649e3b449f10534f58791440123c2c5d46a83ce/header.jpg?t=1780356269",
-        "Date": "Aug 21, 2026",
-        "AddedDate": "2026-08-13",
-        "AddedTimestamp": 1786597753.3242807,
+        "Date": "August 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787282287.4639254,
         "MatchedTags": [
             "strategy",
             "tactical",
@@ -101136,7 +101136,7 @@
     "4693120": {
         "Title": "Norselings",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/8CcAMzv3u6",
         "URL": "https://store.steampowered.com/app/4693120/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4693120/38f3e8bdd5b14dc95f287702e80cbfd832776db1/header.jpg?t=1783090503",
@@ -124114,9 +124114,9 @@
         "URL": "https://store.steampowered.com/app/4997110/",
         "Site": "https://onlylogic.games/stone-to-stars/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4997110/0d6407b6c0c74c15e08428bea2f1000acb5659c6/header.jpg?t=1785266254",
-        "Date": "2026",
-        "AddedDate": "2026-08-16",
-        "AddedTimestamp": 1786909033.5631256,
+        "Date": "December 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787282316.323761,
         "MatchedTags": [
             "colony sim",
             "city builder",
@@ -136472,9 +136472,9 @@
         "URL": "https://store.steampowered.com/app/5041740/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5041740/dcaf3b0353ad9dc10bf7299277821204e731d2cf/header.jpg?t=1786285135",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-08-19",
-        "AddedTimestamp": 1787126234.734634,
+        "Date": "Aug 31, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787282328.5389454,
         "MatchedTags": [
             "strategy",
             "tactical",
@@ -153400,6 +153400,64 @@
             "resource management",
             "turn-based tactics",
             "tactical"
+        ]
+    },
+    "4146800": {
+        "Title": "MAZIN",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4146800/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4146800/f6f79c5922febf23fe5f734915d8084b95e7f4ff/header.jpg?t=1787277710",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787282272.9637103,
+        "MatchedTags": [
+            "survival horror",
+            "strategy"
+        ]
+    },
+    "4929960": {
+        "Title": "Within The Experiments",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4929960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4929960/69c45f04fc83a7caabf61779e4dbafa6bdf03afa/header.jpg?t=1787277782",
+        "Date": "2027",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787282295.91257,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "5075230": {
+        "Title": "Museum 8",
+        "Email": "immersedplayer@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5075230/",
+        "Site": "https://immersedplayer.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5075230/3f939b2fe440648f005e82b75f3e67f8463a6826/header.jpg?t=1787278787",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787282344.627902,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5105000": {
+        "Title": "Vinland: 1000",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5105000/",
+        "Site": "https://scalarstudios.site/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5105000/d6b24eea66f5c65325fccd32860ecfd69dd2b74e/header.jpg?t=1787278870",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787282358.5518172,
+        "MatchedTags": [
+            "strategy",
+            "colony sim"
         ]
     }
 }
