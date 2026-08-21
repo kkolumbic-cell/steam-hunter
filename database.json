@@ -77959,9 +77959,9 @@
         "URL": "https://store.steampowered.com/app/4584840/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4584840/b883b7cddc3cd5f49e5ca94e68479771bcf27787/header.jpg?t=1780923608",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-08",
-        "AddedTimestamp": 1780936325.1310132,
+        "Date": "Aug 21, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787302789.4088736,
         "MatchedTags": [
             "turn-based strategy",
             "turn-based tactics"
@@ -153615,6 +153615,66 @@
             "strategy",
             "turn-based tactics",
             "turn-based strategy"
+        ]
+    },
+    "4949450": {
+        "Title": "UnderForged",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4949450/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4949450/82fa428c8f3d0c47bcc73b2e4e44a2beb2a5b355/header.jpg?t=1787301908",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787302808.3555737,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "5091060": {
+        "Title": "Corrupta",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5091060/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5091060/c7ac436db57d21e96948ef971941192a473c1d01/header.jpg?t=1787302143",
+        "Date": "TBA",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787302846.1847374,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "5107900": {
+        "Title": "Trash Island",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5107900/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107900/4586d4a643cc10bda1a814eab68c8fd768b2cb4d/header.jpg?t=1787302289",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787302851.7572272,
+        "MatchedTags": [
+            "economy",
+            "resource management"
+        ]
+    },
+    "5120160": {
+        "Title": "Proximity",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5120160/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5120160/6274cd2255159e8b04b3c20a3eb7e9cfab028af6/header.jpg?t=1787300947",
+        "Date": "Sep 4, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787302856.35231,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "tactical"
         ]
     }
 }
