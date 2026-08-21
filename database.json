@@ -32880,7 +32880,7 @@
     "4595960": {
         "Title": "Blooming in Budbury",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/KuAf4EPRk8",
         "URL": "https://store.steampowered.com/app/4595960/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4595960/f5287bb2198dad375a55ded2a15a7ee93349efe0/header.jpg?t=1776351536",
@@ -56629,7 +56629,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4654510/",
-        "Site": "",
+        "Site": "https://holodrum.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4654510/e53385c3737a11a2041b73e29f773964faa24b9a/header.jpg?t=1778645274",
         "Date": "Jun 11, 2026",
         "AddedDate": "2026-06-12",
@@ -125617,9 +125617,9 @@
         "URL": "https://store.steampowered.com/app/4978110/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4978110/89115b2daba1d972c7fa9149f4e13150b3108312/header.jpg?t=1785382281",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-07-30",
-        "AddedTimestamp": 1785382601.27749,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787299197.4238548,
         "MatchedTags": [
             "tactical"
         ]
@@ -135081,9 +135081,9 @@
         "URL": "https://store.steampowered.com/app/4734650/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4734650/d716c7bc7b6af633e7cf7ef9e8cf4466e4b61ac9/header.jpg?t=1786121146",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-07",
-        "AddedTimestamp": 1786122617.719452,
+        "Date": "Aug 21, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787299182.2457666,
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
@@ -135443,9 +135443,9 @@
         "URL": "https://store.steampowered.com/app/5031550/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5031550/73e79830a2aa096ee5288a790c30aabde3da4121/header.jpg?t=1786137967",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-07",
-        "AddedTimestamp": 1786139883.9335234,
+        "Date": "Aug 21, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787299207.904958,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -147528,9 +147528,9 @@
         "URL": "https://store.steampowered.com/app/5054520/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5054520/5fe790524f16fb1d7dfc27c86931fd5dd3d10251/header.jpg?t=1787035192",
-        "Date": "TBA",
-        "AddedDate": "2026-08-18",
-        "AddedTimestamp": 1787036940.764486,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787299217.2747219,
         "MatchedTags": [
             "strategy",
             "base building",
@@ -153458,9 +153458,9 @@
         "URL": "https://store.steampowered.com/app/4716000/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4716000/1d5538e5c723e08e523bbd362fef141fdcef9055/header.jpg?t=1787283063",
-        "Date": "Dec 30, 2026",
+        "Date": "Q1 2027",
         "AddedDate": "2026-08-21",
-        "AddedTimestamp": 1787288168.6478777,
+        "AddedTimestamp": 1787299179.927823,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -153585,6 +153585,36 @@
             "management",
             "economy",
             "tactical"
+        ]
+    },
+    "2640020": {
+        "Title": "Monkey",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2640020/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2640020/d8d0c609a33c13e2a1e4d94c69930005ace58889/header.jpg?t=1787297037",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787299148.7198522,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4915300": {
+        "Title": "CARDCRAFTER",
+        "Email": "",
+        "Discord": "https://discord.gg/DmXnGbxzzk",
+        "URL": "https://store.steampowered.com/app/4915300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4915300/fc8c71534cd5970b5310cddeb1b90f8e25d1e6ea/header.jpg?t=1787297777",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787299190.3148592,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy"
         ]
     }
 }
