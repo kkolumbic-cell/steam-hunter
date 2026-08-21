@@ -97288,8 +97288,8 @@
         "AddedDate": "2026-08-20",
         "AddedTimestamp": 1787231591.7953718,
         "MatchedTags": [
-            "horror",
-            "psychological horror"
+            "psychological horror",
+            "horror"
         ]
     },
     "4763570": {
@@ -144754,21 +144754,6 @@
             "turn-based combat"
         ]
     },
-    "5074820": {
-        "Title": "Dragon Era: Rogue Slots",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/5074820/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5074820/ee7787664bc648de29e160a5e83111301a1f51d6/header.jpg?t=1786850241",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-08-16",
-        "AddedTimestamp": 1786853092.083432,
-        "MatchedTags": [
-            "turn-based strategy",
-            "strategy"
-        ]
-    },
     "5009400": {
         "Title": "K\u00fd Gi\u1edbi",
         "Email": "",
@@ -147463,9 +147448,9 @@
         "URL": "https://store.steampowered.com/app/5045700/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5045700/b9d7727546c9e4d5976121e6182f9d28d030d250/header.jpg?t=1787029784",
-        "Date": "3 Sep, 2026",
-        "AddedDate": "2026-08-18",
-        "AddedTimestamp": 1787032138.6728578,
+        "Date": "Sep 1, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787291411.653684,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -153505,6 +153490,58 @@
         "AddedTimestamp": 1787288248.9373267,
         "MatchedTags": [
             "base building"
+        ]
+    },
+    "4691280": {
+        "Title": "Echoes: Unforgotten",
+        "Email": "",
+        "Discord": "https://discord.gg/hbRnwN6KG",
+        "URL": "https://store.steampowered.com/app/4691280/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4691280/67a2f32d75cc121831793f332c4f5d4de62b7148/header.jpg?t=1787290154",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787291393.0077624,
+        "MatchedTags": [
+            "strategy",
+            "colony sim",
+            "real time tactics",
+            "economy",
+            "tactical",
+            "resource management"
+        ]
+    },
+    "5029830": {
+        "Title": "Survival Fund Manager",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5029830/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5029830/3181920f5c69497c7e771a35aaef4096683d3596/header.jpg?t=1787288873",
+        "Date": "November 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787291408.3123918,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "tactical",
+            "turn-based tactics"
+        ]
+    },
+    "5113760": {
+        "Title": "Echo Mates",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5113760/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5113760/2b764f74f7e07eac468ffa380c84166348e91814/header.jpg?t=1787288406",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787291428.3812838,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
         ]
     }
 }
