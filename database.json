@@ -103537,9 +103537,9 @@
         "URL": "https://store.steampowered.com/app/4915000/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4915000/9670bf3243454bb4f04bc650bbbd24bab3ed1ff9/header.jpg?t=1783388233",
-        "Date": "Q1 2027",
-        "AddedDate": "2026-07-07",
-        "AddedTimestamp": 1783401074.7250907,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787309433.9184885,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -115798,9 +115798,9 @@
         "URL": "https://store.steampowered.com/app/4897980/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4897980/9ea8f24e7fe9b5860f408124105522cdb82ea4ff/header.jpg?t=1784570702",
-        "Date": "Aug 31, 2026",
-        "AddedDate": "2026-07-20",
-        "AddedTimestamp": 1784571855.1420627,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787309425.1726298,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -153732,6 +153732,22 @@
         "AddedTimestamp": 1787306108.2011821,
         "MatchedTags": [
             "strategy",
+            "resource management"
+        ]
+    },
+    "5058650": {
+        "Title": "LullaBye-Bye",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5058650/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5058650/ad00b2684993d006a22c73bd8dc49566a396ae2f/header.jpg?t=1787309433",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787309454.7518265,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
             "resource management"
         ]
     }
