@@ -120829,9 +120829,9 @@
         "URL": "https://store.steampowered.com/app/4991240/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991240/599bdb26528be2cbb987e6c985d8ecaf61ca4012/header.jpg?t=1784892191",
-        "Date": "Sep 10, 2026",
-        "AddedDate": "2026-08-16",
-        "AddedTimestamp": 1786859174.55769,
+        "Date": "Sep 17, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787306066.4915755,
         "MatchedTags": [
             "resource management"
         ]
@@ -123511,7 +123511,7 @@
     "4969750": {
         "Title": "Space Circle",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/UXSfbe6d9E",
         "URL": "https://store.steampowered.com/app/4969750/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4969750/616eecc8a1c55e41e3e4384d81846f39c563f560/header.jpg?t=1785228860",
@@ -132137,9 +132137,9 @@
         "URL": "https://store.steampowered.com/app/4962240/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4962240/e16e9b0b0d4aca0f5fa1b9db74f133a38fa79030/header.jpg?t=1785927824",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-05",
-        "AddedTimestamp": 1785932431.3380053,
+        "Date": "Aug 21, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787306051.6195803,
         "MatchedTags": [
             "management",
             "resource management",
@@ -143885,9 +143885,9 @@
         "URL": "https://store.steampowered.com/app/5045640/",
         "Site": "https://www.monkeylogic.dk",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5045640/1a954ae052eb797f638cef1402b409de4085a939/header.jpg?t=1786801720",
-        "Date": "2026",
-        "AddedDate": "2026-08-15",
-        "AddedTimestamp": 1786805017.6647458,
+        "Date": "September 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787306079.503119,
         "MatchedTags": [
             "resource management",
             "management"
@@ -153675,6 +153675,64 @@
             "turn-based tactics",
             "turn-based strategy",
             "tactical"
+        ]
+    },
+    "4968500": {
+        "Title": "Jamaican Ludi",
+        "Email": "support@hemiogenic.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4968500/",
+        "Site": "https://hemiogenic.com/jamaican-ludi/support.html",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4968500/058b55d59fa55b7faf145df8f98eec7717d60f6a/header.jpg?t=1787304122",
+        "Date": "TBA",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787306054.5584037,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5021740": {
+        "Title": "Starworks Inc.",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5021740/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5021740/e64db4cc7dbaf85a7009d03172489ef421d79a98/header.jpg?t=1787304370",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787306076.6154683,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "5070380": {
+        "Title": "AFTERMATH",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5070380/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5070380/32f61f4a707ef66cde8fc80474cbae37e3339452/header.jpg?t=1787303470",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787306084.2868297,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5123580": {
+        "Title": "Alienshire",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5123580/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5123580/8c1112314da36a2938e42fb2ace88bda91977b3c/header.jpg?t=1787303789",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787306108.2011821,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
         ]
     }
 }
