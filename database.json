@@ -10218,9 +10218,9 @@
         "URL": "https://store.steampowered.com/app/4520010/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4520010/0dada70c4c99ee575fc7af1787ed137240620640/header.jpg?t=1773862852",
-        "Date": "Aug 21, 2026",
-        "AddedDate": "2026-08-08",
-        "AddedTimestamp": 1786225663.8443303,
+        "Date": "Aug 20, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787296170.3505173,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -17961,7 +17961,9 @@
         "AddedDate": "2026-08-11",
         "AddedTimestamp": 1786468578.610609,
         "MatchedTags": [
-            "horror"
+            "survival horror",
+            "turn-based tactics",
+            "tactical"
         ]
     },
     "4556450": {
@@ -29844,9 +29846,9 @@
         "URL": "https://store.steampowered.com/app/4585020/",
         "Site": "https://www.hackastan.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4585020/e05028975284febbf0449e39b8c14628afd27a07/header.jpg?t=1776119947",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-13",
-        "AddedTimestamp": 1776121505.1345263,
+        "Date": "Nov 10, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787296179.668621,
         "MatchedTags": [
             "turn-based combat",
             "strategy"
@@ -37679,9 +37681,9 @@
         "URL": "https://store.steampowered.com/app/4388150/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4388150/0267a28a44712891cff3d774ac566600ed62aac5/header.jpg?t=1776833975",
-        "Date": "2026",
-        "AddedDate": "2026-04-22",
-        "AddedTimestamp": 1776838346.6901348,
+        "Date": "Aug 20, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787296163.0725005,
         "MatchedTags": [
             "tower defense",
             "strategy",
@@ -41536,9 +41538,9 @@
         "URL": "https://store.steampowered.com/app/4180510/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180510/b26254999254074d612ec842652f5a8fcef5db79/header.jpg?t=1777092789",
-        "Date": "Oct 1, 2026",
-        "AddedDate": "2026-05-03",
-        "AddedTimestamp": 1777798704.38182,
+        "Date": "Oct 2, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787296160.2544625,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -111332,9 +111334,9 @@
         "URL": "https://store.steampowered.com/app/4938570/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4938570/59f023ee26ca7d174fe4138257651602efbd9043/header.jpg?t=1784121500",
-        "Date": "2026",
-        "AddedDate": "2026-07-30",
-        "AddedTimestamp": 1785404775.4012952,
+        "Date": "Aug 20, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787296222.5493515,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -120660,9 +120662,9 @@
         "URL": "https://store.steampowered.com/app/4985650/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4985650/dca6c7cddf7a2cf8776ce95a4badafebcac0262a/header.jpg?t=1784874145",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-13",
-        "AddedTimestamp": 1786634377.1790428,
+        "Date": "Aug 21, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787296235.6524105,
         "MatchedTags": [
             "turn-based tactics",
             "strategy",
@@ -132888,9 +132890,9 @@
         "URL": "https://store.steampowered.com/app/5037170/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037170/a22e8143e4863fc1224d8bb9fe84fdb51a06b785/header.jpg?t=1785965775",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-05",
-        "AddedTimestamp": 1785965835.7720313,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787296256.0156047,
         "MatchedTags": [
             "economy",
             "resource management",
@@ -153542,6 +153544,47 @@
             "horror",
             "survival horror",
             "psychological horror"
+        ]
+    },
+    "4840750": {
+        "Title": "Oil Sheik: Dominion",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4840750/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4840750/5beedbe317a7ae5379edb84614d6f909c70c948a/header.jpg?t=1787295118",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787296205.4523976,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "economy",
+            "tactical",
+            "base building",
+            "turn-based combat"
+        ]
+    },
+    "5064050": {
+        "Title": "Hexfall - Swarm Defense (SD)",
+        "Email": "schatzl.its@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5064050/",
+        "Site": "https://schits.at",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5064050/b78e7e78f83c31632594dd9bda3df1c16d2fa6a3/header.jpg?t=1787295510",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787296260.4474273,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "base building",
+            "resource management",
+            "management",
+            "economy",
+            "tactical"
         ]
     }
 }
