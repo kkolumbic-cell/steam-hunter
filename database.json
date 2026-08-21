@@ -46548,8 +46548,8 @@
         "AddedTimestamp": 1780763779.0546618,
         "MatchedTags": [
             "economy",
-            "management",
-            "resource management"
+            "strategy",
+            "management"
         ]
     },
     "3908100": {
@@ -155092,6 +155092,69 @@
             "turn-based strategy",
             "turn-based tactics",
             "tactical"
+        ]
+    },
+    "4539850": {
+        "Title": "Magic Portals",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4539850/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4539850/ce13bf88ab2af4dbf829750f1cb334c8e42147d7/header.jpg?t=1787354664",
+        "Date": "Nov 3, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787355702.248466,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4883880": {
+        "Title": "CATHODE",
+        "Email": "",
+        "Discord": "https://discord.gg/TVcXy22GUe",
+        "URL": "https://store.steampowered.com/app/4883880/",
+        "Site": "https://starcatgames.ltd/home",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4883880/6d18388797f452c1543715bbf4d0616dd1b90ae4/header.jpg?t=1787352781",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787355729.1254623,
+        "MatchedTags": [
+            "tower defense",
+            "strategy",
+            "base building",
+            "resource management"
+        ]
+    },
+    "4980910": {
+        "Title": "Project RedTeam: Contract Offensive",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4980910/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4980910/1188b9a63a248164e9cec188592e6876036a8e74/header.jpg?t=1787354695",
+        "Date": "Oct 15, 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787355740.2098122,
+        "MatchedTags": [
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical rpg",
+            "strategy",
+            "tactical"
+        ]
+    },
+    "5089210": {
+        "Title": "Granny - Welcome Home",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5089210/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5089210/f43b88b4b5efe29016b7e2efc2af04f805c7ff52/header.jpg?t=1787352868",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787355750.8516276,
+        "MatchedTags": [
+            "survival horror"
         ]
     }
 }
