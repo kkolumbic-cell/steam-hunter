@@ -17650,10 +17650,10 @@
     },
     "4540010": {
         "Title": "Business Defence",
-        "Email": "",
+        "Email": "contact@bachgenbusinessboy.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4540010/",
-        "Site": "",
+        "Site": "https://bachgenbusinessboy.com/#page-2",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4540010/ba3906a0f700fb44ff0db60836449f084c6214ba/header.jpg?t=1774862722",
         "Date": "Aug 28, 2026",
         "AddedDate": "2026-06-22",
@@ -39942,9 +39942,9 @@
         "URL": "https://store.steampowered.com/app/3750300/",
         "Site": "https://entropygames.carrd.co/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3750300/022d3f010d95504c8385f582dabfd0a7833b5024/header.jpg?t=1776986636",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-05-15",
-        "AddedTimestamp": 1778855821.150933,
+        "Date": "To be announced",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787320825.889363,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -66236,9 +66236,9 @@
         "URL": "https://store.steampowered.com/app/4769110/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4769110/e25eef29d15d7d0818b65e5aec30fa091b8b2bde/header.jpg?t=1779916539",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-27",
-        "AddedTimestamp": 1779920143.7760963,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787320862.6523666,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -154004,6 +154004,57 @@
         "AddedTimestamp": 1787318202.1148388,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4291550": {
+        "Title": "Pathways Lost:\u2028 Reclaim",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4291550/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4291550/198e08a0e2b7c3c84f8956f8755ce4da2d2f533e/header.jpg?t=1787320774",
+        "Date": "2027",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787320845.6540124,
+        "MatchedTags": [
+            "tower defense",
+            "strategy",
+            "tactical rpg",
+            "tactical",
+            "real time tactics",
+            "base building"
+        ]
+    },
+    "5030590": {
+        "Title": "Worldline Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5030590/",
+        "Site": "https://tanukicode.dev/worldline-simulator",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5030590/5bf07561b6ad1eed8369f03997b76e7f7ecfa66b/header.jpg?t=1787319470",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787320903.6063936,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "turn-based tactics",
+            "tactical"
+        ]
+    },
+    "5069740": {
+        "Title": "Look Both Ways",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5069740/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5069740/04bace0ddf552e29536ad3c627ab69d8819d4aa2/header.jpg?t=1787319487",
+        "Date": "October 2026",
+        "AddedDate": "2026-08-21",
+        "AddedTimestamp": 1787320915.1811247,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
