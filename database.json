@@ -82159,8 +82159,9 @@
         "AddedDate": "2026-06-11",
         "AddedTimestamp": 1781207475.0567634,
         "MatchedTags": [
-            "real time tactics",
-            "turn-based strategy"
+            "turn-based strategy",
+            "strategy",
+            "turn-based combat"
         ]
     },
     "4825610": {
@@ -142587,9 +142588,9 @@
         "URL": "https://store.steampowered.com/app/503540/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/503540/10c930066b1460b2145ce515750f35770eaeb32b/header.jpg?t=1786722660",
-        "Date": "Q1 2027",
-        "AddedDate": "2026-08-16",
-        "AddedTimestamp": 1786901778.6376574,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787384854.625405,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -154812,9 +154813,9 @@
         "URL": "https://store.steampowered.com/app/4372590/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4372590/ba6c108f8360cbba2f745c15a32cea960e961e70/header.jpg?t=1787340621",
-        "Date": "2027",
-        "AddedDate": "2026-08-21",
-        "AddedTimestamp": 1787341180.8956907,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787384859.8317885,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -155462,6 +155463,20 @@
             "psychological horror",
             "horror",
             "survival horror"
+        ]
+    },
+    "4353840": {
+        "Title": "Hooky",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4353840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4353840/962388fdb75f096259da3bb1b7b37e782223846e/header.jpg?t=1787384459",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787384856.7512758,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
