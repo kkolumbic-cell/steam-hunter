@@ -72219,9 +72219,9 @@
         "URL": "https://store.steampowered.com/app/4741590/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4741590/957e22067bc7f69b5bc883ed45b2ab40505f6364/header.jpg?t=1780416211",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-06-02",
-        "AddedTimestamp": 1780419747.6129475,
+        "Date": "Oct 28, 2026",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787409671.0174634,
         "MatchedTags": [
             "strategy",
             "economy",
@@ -114329,9 +114329,9 @@
         "URL": "https://store.steampowered.com/app/4938590/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4938590/a85d648fff66490d2c94c83f8c63654d51806279/header.jpg?t=1784351526",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-18",
-        "AddedTimestamp": 1784355713.514364,
+        "Date": "Q3 2027",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787409704.0125778,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -116357,9 +116357,9 @@
         "URL": "https://store.steampowered.com/app/4859340/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4859340/7372df3d341c6eadd8e01abc216c8c16ebeeaf5c/header.jpg?t=1784590182",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-14",
-        "AddedTimestamp": 1786740549.5009735,
+        "Date": "Aug 25, 2026",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787409685.1763375,
         "MatchedTags": [
             "horror"
         ]
@@ -155623,6 +155623,21 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "5100320": {
+        "Title": "The Rumble Pit",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5100320/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5100320/860f614d3a8834925724112bb91f315d7b21431c/header.jpg?t=1787409049",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787409740.4482582,
+        "MatchedTags": [
+            "management",
+            "strategy"
         ]
     }
 }
