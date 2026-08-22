@@ -135983,10 +135983,10 @@
         "AddedDate": "2026-08-08",
         "AddedTimestamp": 1786182990.5610025,
         "MatchedTags": [
-            "strategy",
             "turn-based tactics",
             "turn-based combat",
-            "tactical"
+            "tactical rpg",
+            "strategy"
         ]
     },
     "5029990": {
@@ -138276,9 +138276,9 @@
         "URL": "https://store.steampowered.com/app/4906820/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4906820/5231f389e2e32ef9ae0ad545db923d7a801060e5/header.jpg?t=1786470880",
-        "Date": "Aug 25, 2026",
-        "AddedDate": "2026-08-11",
-        "AddedTimestamp": 1786471891.8134868,
+        "Date": "August 2026",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787371137.822624,
         "MatchedTags": [
             "strategy"
         ]
@@ -154513,9 +154513,9 @@
         "URL": "https://store.steampowered.com/app/5087330/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5087330/29933ba6600446bb8443f50184d3311f6b52d128/header.jpg?t=1787333215",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-21",
-        "AddedTimestamp": 1787334580.417033,
+        "Date": "To be announced",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787371155.4711561,
         "MatchedTags": [
             "management",
             "resource management"
@@ -155267,6 +155267,52 @@
             "horror",
             "strategy",
             "turn-based strategy"
+        ]
+    },
+    "5086720": {
+        "Title": "Embrace Of The Embers",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5086720/",
+        "Site": "https://avggames.com/EmbraceOfTheEmber/official-website",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5086720/df5149ae2e64fe0b6558b0c1ace22b043a64d7d5/header.jpg?t=1787369436",
+        "Date": "TBA",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787371151.3600585,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5094420": {
+        "Title": "Tactical Squad",
+        "Email": "",
+        "Discord": "https://discord.gg/BgRM82u6Z",
+        "URL": "https://store.steampowered.com/app/5094420/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5094420/0018505da8fbd65b9af2c287f475ffa95cc9a1b9/header.jpg?t=1787370730",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787371160.4841473,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "tactical",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "5096450": {
+        "Title": "For My Kingdom",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5096450/",
+        "Site": "https://www.clawmindgames.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5096450/2601c17d2924d069094eb8080d9942af5ae0ceef/header.jpg?t=1787369160",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787371166.2405696,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
