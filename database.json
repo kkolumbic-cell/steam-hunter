@@ -149273,9 +149273,9 @@
         "URL": "https://store.steampowered.com/app/5061870/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5061870/6b907b15c73fe878fbd760c7480bbc3700311d61/header.jpg?t=1787102082",
-        "Date": "October 2026",
-        "AddedDate": "2026-08-19",
-        "AddedTimestamp": 1787104728.3634155,
+        "Date": "December 2026",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787377491.260282,
         "MatchedTags": [
             "horror"
         ]
@@ -155343,6 +155343,36 @@
         "MatchedTags": [
             "city builder",
             "management"
+        ]
+    },
+    "4768000": {
+        "Title": "Grey Zone Company Simulator",
+        "Email": "support@drowsycatstudio.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4768000/",
+        "Site": "https://drowsycatstudio.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4768000/2c84757fda25702b7f23fbb9995acf97790f5f13/header.jpg?t=1787376655",
+        "Date": "Dec 31, 2026",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787377467.3164265,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "management"
+        ]
+    },
+    "4890690": {
+        "Title": "AVIK",
+        "Email": "",
+        "Discord": "https://discord.gg/bGAjwzqgaD",
+        "URL": "https://store.steampowered.com/app/4890690/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4890690/42d3a0efb3d4213f8db3e6fb326b30ba32d66bbf/header.jpg?t=1787377287",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787377481.5828385,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
