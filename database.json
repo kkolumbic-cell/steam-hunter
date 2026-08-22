@@ -18933,9 +18933,9 @@
         "URL": "https://store.steampowered.com/app/3946950/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3946950/dd28df7ab23cfcc16999828363cce2338f832b3c/header.jpg?t=1774978959",
-        "Date": "Aug 21, 2026",
-        "AddedDate": "2026-07-01",
-        "AddedTimestamp": 1782933191.838406,
+        "Date": "Aug 26, 2026",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787416972.7925365,
         "MatchedTags": [
             "resource management"
         ]
@@ -65812,7 +65812,7 @@
     "3877830": {
         "Title": "Beachside Cafe Simulator",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/PTZre9Cxc",
         "URL": "https://store.steampowered.com/app/3877830/",
         "Site": "https://grumpyduckgames.carrd.co/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3877830/da16c304272a0a23a0892c971cb5870d28da0127/header.jpg?t=1779880396",
@@ -135834,9 +135834,9 @@
         "URL": "https://store.steampowered.com/app/5010500/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5010500/7440923b2d6808755cf11296fa07d4645b40edb7/header.jpg?t=1786169311",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-08",
-        "AddedTimestamp": 1786173488.6685672,
+        "Date": "Aug 22, 2026",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787417051.3748977,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -155687,6 +155687,71 @@
             "survival horror",
             "psychological horror",
             "horror"
+        ]
+    },
+    "2517430": {
+        "Title": "horonox",
+        "Email": "contact@leastfixpoint.games",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2517430/",
+        "Site": "https://leastfixpoint.games/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2517430/6e6d0ed4b705dd5ffce9198679d28925c479c06b/header.jpg?t=1787413316",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787416966.0633104,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4962370": {
+        "Title": "Incremental Wars",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4962370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4962370/955569d5c4bf80c2cc38cf054d3dc53c7cbe20e9/header.jpg?t=1787416880",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787417031.391217,
+        "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "5042510": {
+        "Title": "Combat Orders '42",
+        "Email": "",
+        "Discord": "https://discord.com/invite/kMbdJee7R4",
+        "URL": "https://store.steampowered.com/app/5042510/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5042510/4820a2b246a7ec48e086b9482a0543d16ca44ccc/header.jpg?t=1787414680",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787417053.811528,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical"
+        ]
+    },
+    "5077360": {
+        "Title": "CARDUNGEON",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5077360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5077360/bd02b10f1271a9d5f950227c89c3a78b0c3f5e05/header.jpg?t=1787413928",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787417064.8834283,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "turn-based combat",
+            "tactical"
         ]
     }
 }
