@@ -68897,7 +68897,7 @@
     "4769400": {
         "Title": "Just a stroll in the forest",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/JGsDMUAfb",
         "URL": "https://store.steampowered.com/app/4769400/",
         "Site": "https://vanislegames.ca/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4769400/e03fa24cb4fd1a9348f710cd5ad39802c43bc505/header.jpg?t=1780075672",
@@ -94406,7 +94406,7 @@
     "4814910": {
         "Title": "BetWUni",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/sSWzfxVTun",
         "URL": "https://store.steampowered.com/app/4814910/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4814910/0173e343faa705e083dd15d1c17ddc4c55844e75/header.jpg?t=1782384688",
@@ -147507,9 +147507,8 @@
         "AddedDate": "2026-08-18",
         "AddedTimestamp": 1787036873.718569,
         "MatchedTags": [
-            "psychological horror",
             "horror",
-            "survival horror"
+            "psychological horror"
         ]
     },
     "5029190": {
@@ -155373,6 +155372,96 @@
         "AddedTimestamp": 1787377481.5828385,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4606550": {
+        "Title": "Rust & Reveal: Restoration Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4606550/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4606550/a5656c6ae97e55079ddcf3031da1c8b3bf6e5c75/header.jpg?t=1787379691",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787382073.4205186,
+        "MatchedTags": [
+            "economy",
+            "resource management",
+            "management"
+        ]
+    },
+    "4801240": {
+        "Title": "Memes Battle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4801240/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4801240/e41755978b23f28c34c616df8a9cfd3146480c9a/header.jpg?t=1787380365",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787382086.3946474,
+        "MatchedTags": [
+            "turn-based combat"
+        ]
+    },
+    "5096550": {
+        "Title": "Seven Lines",
+        "Email": "",
+        "Discord": "https://discord.gg/NdYpDWGrn",
+        "URL": "https://store.steampowered.com/app/5096550/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5096550/091ac6d1e7d808d980af8240a4cc360a87e19fa4/header.jpg?t=1787379864",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787382136.5706446,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5117630": {
+        "Title": "Gamble Hunters",
+        "Email": "im@ashur.team",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5117630/",
+        "Site": "https://ashur.team",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5117630/df3ddd59a70dc237ec5dac16aa0250c129bb802a/header.jpg?t=1787378814",
+        "Date": "January 2027",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787382143.8176134,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "5119600": {
+        "Title": "Good Dirt",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5119600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5119600/5c759d589c4c143b8442c69ddc4ba4ce340aa0bb/header.jpg?t=1787381326",
+        "Date": "TBA",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787382151.3637838,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "resource management"
+        ]
+    },
+    "5130260": {
+        "Title": "The Night Route",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5130260/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5130260/f08ce830780dc6d5fc037e14c6f9be258c532438/header.jpg?t=1787380993",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787382153.7810485,
+        "MatchedTags": [
+            "psychological horror",
+            "horror",
+            "survival horror"
         ]
     }
 }
