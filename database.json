@@ -107166,6 +107166,7 @@
         "AddedDate": "2026-07-10",
         "AddedTimestamp": 1783685599.1548598,
         "MatchedTags": [
+            "psychological horror",
             "horror"
         ]
     },
@@ -136073,10 +136074,11 @@
         "AddedDate": "2026-08-08",
         "AddedTimestamp": 1786194928.0900915,
         "MatchedTags": [
-            "strategy",
+            "grand strategy",
             "economy",
-            "real time tactics",
-            "management"
+            "management",
+            "strategy",
+            "tactical"
         ]
     },
     "4968580": {
@@ -143860,9 +143862,9 @@
         "URL": "https://store.steampowered.com/app/5013470/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5013470/5fc5e7f6f7daa9e6a63743ecce74223887b3ae1c/header.jpg?t=1786798065",
-        "Date": "October 2026",
-        "AddedDate": "2026-08-15",
-        "AddedTimestamp": 1786798934.2367952,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787391880.2637022,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -155490,6 +155492,38 @@
         "AddedTimestamp": 1787388614.920532,
         "MatchedTags": [
             "resource management"
+        ]
+    },
+    "5078600": {
+        "Title": "Load Factor",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5078600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5078600/8f68e4a10cc10856d0026078dd6e754ffea0c611/header.jpg?t=1787391180",
+        "Date": "2026",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787391893.310468,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "economy",
+            "management"
+        ]
+    },
+    "5079730": {
+        "Title": "Long Watch",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5079730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5079730/dc3efaf1db7606cf1387f346d3180b4314f27032/header.jpg?t=1787389205",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787391896.130278,
+        "MatchedTags": [
+            "resource management",
+            "management"
         ]
     }
 }
