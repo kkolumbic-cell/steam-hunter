@@ -2213,11 +2213,11 @@
         "AddedTimestamp": 1783928487.158393,
         "MatchedTags": [
             "grand strategy",
+            "strategy",
             "turn-based tactics",
             "economy",
             "resource management",
-            "tactical",
-            "strategy"
+            "tactical"
         ]
     },
     "4255420": {
@@ -8031,9 +8031,9 @@
         "URL": "https://store.steampowered.com/app/3107490/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107490/cb1f66a2e9f1d72defd6577341da417c84c42f36/header.jpg?t=1773662164",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-16",
-        "AddedTimestamp": 1773662324.641511,
+        "Date": "To be announced",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787441794.000297,
         "MatchedTags": [
             "psychological horror",
             "survival horror"
@@ -114143,9 +114143,9 @@
         "URL": "https://store.steampowered.com/app/4959960/",
         "Site": "https://missroot.com/zone-sweeper",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4959960/403e72ca9858674d6f7c2eeece17b42c665d1a69/header.jpg?t=1784337748",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-18",
-        "AddedTimestamp": 1784345895.6169493,
+        "Date": "Aug 22, 2026",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787441822.8948677,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -119372,9 +119372,9 @@
         "URL": "https://store.steampowered.com/app/4984900/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4984900/af3b645726a259a3d9b07e974992011a1c7f3b48/header.jpg?t=1784778782",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-23",
-        "AddedTimestamp": 1784789000.3244288,
+        "Date": "Aug 22, 2026",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787441828.6987395,
         "MatchedTags": [
             "strategy"
         ]
@@ -155914,12 +155914,42 @@
         "URL": "https://store.steampowered.com/app/5107740/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107740/b96c367f5f30d59c0af241ee1c193bac59205157/header.jpg?t=1787436218",
-        "Date": "Sep 10, 2026",
+        "Date": "September 2026",
         "AddedDate": "2026-08-22",
-        "AddedTimestamp": 1787438514.3048291,
+        "AddedTimestamp": 1787441850.1214519,
         "MatchedTags": [
             "management",
             "turn-based combat"
+        ]
+    },
+    "4982520": {
+        "Title": "UNDERSTAR: Dig Below, Rise Above",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4982520/",
+        "Site": "https://nextgen.run/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4982520/94c972bb899563902b8aea1000c0b3fd6836f700/header.jpg?t=1787440852",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787441825.318349,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "5111140": {
+        "Title": "GRIDLOCK GAMBIT",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5111140/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5111140/0ed27d5f381f2ce98d9d60d6249b13135c27e855/header.jpg?t=1787440583",
+        "Date": "TBA",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787441853.2218537,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "tactical"
         ]
     }
 }
