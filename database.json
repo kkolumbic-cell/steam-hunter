@@ -15176,7 +15176,7 @@
     },
     "4548190": {
         "Title": "Ironfront Express",
-        "Email": "support@monstertheater.games, contact@monstertheater.games",
+        "Email": "contact@monstertheater.games, support@monstertheater.games",
         "Discord": "https://discord.gg/pNTaNYwUVv",
         "URL": "https://store.steampowered.com/app/4548190/",
         "Site": "https://monstertheater.games",
@@ -42560,9 +42560,9 @@
         "URL": "https://store.steampowered.com/app/4637580/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4637580/9d04801908ef96aa3ff8e1f6b176a1df40062ccc/header.jpg?t=1777298013",
-        "Date": "2026",
-        "AddedDate": "2026-04-27",
-        "AddedTimestamp": 1777300213.5200684,
+        "Date": "Aug 21, 2026",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787363537.134017,
         "MatchedTags": [
             "horror"
         ]
@@ -92736,9 +92736,9 @@
         "URL": "https://store.steampowered.com/app/4865360/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4865360/f88edd1ff947d5bbefb6fede09462d17d9c5a87c/header.jpg?t=1782214363",
-        "Date": "November 2026",
-        "AddedDate": "2026-08-01",
-        "AddedTimestamp": 1785584226.569019,
+        "Date": "Nov 4, 2026",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787363577.514476,
         "MatchedTags": [
             "management",
             "strategy",
@@ -93095,7 +93095,10 @@
         "AddedDate": "2026-06-23",
         "AddedTimestamp": 1782242594.4802713,
         "MatchedTags": [
-            "base building"
+            "base building",
+            "strategy",
+            "tower defense",
+            "turn-based combat"
         ]
     },
     "4775200": {
@@ -121814,9 +121817,9 @@
         "URL": "https://store.steampowered.com/app/4993340/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4993340/b7a0c37c1af567ad5af226d01a6004cf74cada09/header.jpg?t=1784958201",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-08-05",
-        "AddedTimestamp": 1785901122.9836593,
+        "Date": "Aug 31, 2026",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787363610.2659378,
         "MatchedTags": [
             "strategy",
             "survival horror",
@@ -142143,9 +142146,9 @@
         "URL": "https://store.steampowered.com/app/5027590/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5027590/e731e809361bf242520dc4057acd15f9660b93ff/header.jpg?t=1786695191",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-08-14",
-        "AddedTimestamp": 1786696925.253075,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787363618.9662035,
         "MatchedTags": [
             "strategy"
         ]
@@ -155155,6 +155158,83 @@
         "AddedTimestamp": 1787355750.8516276,
         "MatchedTags": [
             "survival horror"
+        ]
+    },
+    "4883070": {
+        "Title": "Andrew Labreck's Eden Within",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4883070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4883070/507a09d118a559b28a3fe45f7cd54868a000309d/header.jpg?t=1787358019",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787363580.0947807,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "4891930": {
+        "Title": "Virtual Kombat",
+        "Email": "",
+        "Discord": "https://discord.gg/6UnFcDwfw9",
+        "URL": "https://store.steampowered.com/app/4891930/",
+        "Site": "https://virtualkombat.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4891930/3138ed695838286837a0d22328d5752700f28862/header.jpg?t=1787358545",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787363588.3823168,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4918340": {
+        "Title": "Esperitz Quest",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4918340/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4918340/d5409b7b3d6bdcc395127de1e389fd4e536b1df1/header.jpg?t=1787357832",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787363591.4103458,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "5070200": {
+        "Title": "Video Game Store Simulator",
+        "Email": "",
+        "Discord": "https://discord.gg/MYxSQG3yWH",
+        "URL": "https://store.steampowered.com/app/5070200/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5070200/5f7fbd47ce478898c57ab327acf3d6458140aa9a/header.jpg?t=1787363450",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787363626.2916327,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "resource management"
+        ]
+    },
+    "5127480": {
+        "Title": "Blue Water Builders",
+        "Email": "",
+        "Discord": "https://discord.gg/SpHYKgX7t4",
+        "URL": "https://store.steampowered.com/app/5127480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5127480/e04902af5f6b9cf4af20c3430b8c821316adf5ee/header.jpg?t=1787361545",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787363653.3700445,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management",
+            "base building",
+            "resource management"
         ]
     }
 }
