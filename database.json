@@ -416,10 +416,7 @@
         "AddedDate": "2026-08-12",
         "AddedTimestamp": 1786492914.6340313,
         "MatchedTags": [
-            "base building",
-            "resource management",
-            "management",
-            "city builder"
+            "strategy"
         ]
     },
     "3882520": {
@@ -2216,7 +2213,6 @@
         "AddedTimestamp": 1783928487.158393,
         "MatchedTags": [
             "grand strategy",
-            "colony sim",
             "turn-based tactics",
             "economy",
             "resource management",
@@ -12477,9 +12473,9 @@
         "URL": "https://store.steampowered.com/app/4513380/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513380/7b004aee13a961da97055fbf462567b54933b5be/header.jpg?t=1774298460",
-        "Date": "October 2026",
+        "Date": "September 2026",
         "AddedDate": "2026-08-22",
-        "AddedTimestamp": 1787368148.290192,
+        "AddedTimestamp": 1787438460.152063,
         "MatchedTags": [
             "strategy",
             "management",
@@ -106455,9 +106451,9 @@
         "URL": "https://store.steampowered.com/app/4870060/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4870060/b6dc307914749ddd06dfbade07c94828a5c84160/header.jpg?t=1783617859",
-        "Date": "2026",
-        "AddedDate": "2026-07-09",
-        "AddedTimestamp": 1783620859.3313751,
+        "Date": "Aug 22, 2026",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787438480.5597005,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -131011,8 +131007,8 @@
         "AddedDate": "2026-08-04",
         "AddedTimestamp": 1785866917.474293,
         "MatchedTags": [
-            "resource management",
             "base building",
+            "resource management",
             "survival horror",
             "management"
         ]
@@ -154153,9 +154149,9 @@
         "URL": "https://store.steampowered.com/app/5113390/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5113390/d392db18d1db1a1e0ebd3abccd7cb8c91654f470/header.jpg?t=1787322819",
-        "Date": "TBA",
-        "AddedDate": "2026-08-21",
-        "AddedTimestamp": 1787324260.6220849,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787438516.7496655,
         "MatchedTags": [
             "strategy",
             "tower defense"
@@ -155909,6 +155905,21 @@
         "MatchedTags": [
             "base building",
             "resource management"
+        ]
+    },
+    "5107740": {
+        "Title": "PhDing in the UK",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5107740/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107740/b96c367f5f30d59c0af241ee1c193bac59205157/header.jpg?t=1787436218",
+        "Date": "Sep 10, 2026",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787438514.3048291,
+        "MatchedTags": [
+            "management",
+            "turn-based combat"
         ]
     }
 }
