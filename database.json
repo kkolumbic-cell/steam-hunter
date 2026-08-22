@@ -24178,20 +24178,6 @@
             "horror"
         ]
     },
-    "4579750": {
-        "Title": "Idle Knight",
-        "Email": "",
-        "Discord": "https://discord.com/invite/DEdF8V8dSn",
-        "URL": "https://store.steampowered.com/app/4579750/",
-        "Site": "",
-        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579750/f90b9ed070f1bd831acf579b2c54c227b40ea9ec/header.jpg?t=1775583339",
-        "Date": "Jun 15, 2026",
-        "AddedDate": "2026-06-16",
-        "AddedTimestamp": 1781568267.6590133,
-        "MatchedTags": [
-            "strategy"
-        ]
-    },
     "4583080": {
         "Title": "Condition Unknown",
         "Email": "",
@@ -25866,8 +25852,8 @@
         "AddedDate": "2026-04-30",
         "AddedTimestamp": 1777550121.7028844,
         "MatchedTags": [
-            "strategy",
-            "tower defense"
+            "tower defense",
+            "strategy"
         ]
     },
     "4586090": {
@@ -84176,7 +84162,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4794120/",
-        "Site": "",
+        "Site": "https://www.glowstickentertainment.com/games",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4794120/7fe8e6342b683ea51e2136e82f3b24e89145bc92/header.jpg?t=1781321291",
         "Date": "Q1 2027",
         "AddedDate": "2026-07-30",
@@ -100238,9 +100224,9 @@
         "URL": "https://store.steampowered.com/app/4243240/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4243240/fd27a249f33a4d8851fc91a6c6cfd01bb76d7d94/header.jpg?t=1783009946",
-        "Date": "To be announced",
-        "AddedDate": "2026-07-02",
-        "AddedTimestamp": 1783015409.7123427,
+        "Date": "Nov 24, 2026",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787420282.8300982,
         "MatchedTags": [
             "management",
             "tactical rpg"
@@ -114363,8 +114349,8 @@
         "AddedTimestamp": 1787338786.785866,
         "MatchedTags": [
             "real time tactics",
-            "strategy",
             "tactical",
+            "strategy",
             "resource management"
         ]
     },
@@ -125044,9 +125030,9 @@
         "URL": "https://store.steampowered.com/app/4988040/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4988040/bfd8d6f3ad6b1749d6fbb4ccbb36bccdb652dc44/header.jpg?t=1785340576",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-07-29",
-        "AddedTimestamp": 1785347014.2640471,
+        "Date": "Nov 10, 2026",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787420360.857055,
         "MatchedTags": [
             "strategy"
         ]
@@ -125344,9 +125330,9 @@
         "URL": "https://store.steampowered.com/app/5007300/",
         "Site": "https://eitrisolutionsllc.com/app-development",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5007300/1a184e10fa88d50b283a32080855936b1bb16b56/header.jpg?t=1785355072",
-        "Date": "November 2026",
-        "AddedDate": "2026-07-29",
-        "AddedTimestamp": 1785359778.9282446,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787420372.5603538,
         "MatchedTags": [
             "strategy"
         ]
@@ -148583,7 +148569,8 @@
         "AddedTimestamp": 1787082325.625389,
         "MatchedTags": [
             "tower defense",
-            "strategy"
+            "strategy",
+            "base building"
         ]
     },
     "5105360": {
@@ -150198,9 +150185,9 @@
         "URL": "https://store.steampowered.com/app/5107370/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107370/aec7be48f996dd92e256117cb165a7b68f045a1c/header.jpg?t=1787143162",
-        "Date": "Q1 2027",
-        "AddedDate": "2026-08-19",
-        "AddedTimestamp": 1787145344.5138404,
+        "Date": "Q2 2027",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787420404.585016,
         "MatchedTags": [
             "management"
         ]
@@ -155752,6 +155739,67 @@
             "turn-based strategy",
             "turn-based combat",
             "tactical"
+        ]
+    },
+    "5000170": {
+        "Title": "BORE",
+        "Email": "",
+        "Discord": "https://discord.gg/brnrvEjcdQ",
+        "URL": "https://store.steampowered.com/app/5000170/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5000170/ec51c7b964b8ab873499deb71d85e30e45eed801/header.jpg?t=1787419786",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787420370.0687084,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "5008270": {
+        "Title": "Os Segredos de Ezequiel",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5008270/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5008270/ba63e397f5a4ac9d23c58ac97976ac5ed0a742b9/header.jpg?t=1787420085",
+        "Date": "TBA",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787420375.8703523,
+        "MatchedTags": [
+            "tactical",
+            "turn-based strategy",
+            "tactical rpg"
+        ]
+    },
+    "5096100": {
+        "Title": "Siegecrawler",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5096100/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5096100/b6665c16c96617a708f65b67c29864c85a665acc/header.jpg?t=1787419608",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787420397.371286,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5118760": {
+        "Title": "Family Business",
+        "Email": "",
+        "Discord": "https://discord.gg/XCHFBvFwu",
+        "URL": "https://store.steampowered.com/app/5118760/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5118760/7d8697848353341e09bd56c8be70b5e3c22cc0de/header.jpg?t=1787417976",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787420406.8718283,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
