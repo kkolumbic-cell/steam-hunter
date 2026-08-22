@@ -138,11 +138,12 @@
         "URL": "https://store.steampowered.com/app/4480380/",
         "Site": "http://hsretrogames.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4480380/55b6680d9d73a92250a2ad17f272e80fe959a0fe/header.jpg?t=1772600090",
-        "Date": "To be announced",
-        "AddedDate": "2026-03-04",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-22",
         "MatchedTags": [
             "horror"
-        ]
+        ],
+        "AddedTimestamp": 1787374320.2032542
     },
     "4455090": {
         "Title": "Travellers Inbetween",
@@ -155313,6 +155314,35 @@
         "AddedTimestamp": 1787371166.2405696,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "3382130": {
+        "Title": "Time Champions",
+        "Email": "",
+        "Discord": "https://discord.gg/pc8QxGEuEM",
+        "URL": "https://store.steampowered.com/app/3382130/",
+        "Site": "https://subscribepage.io/time-champions",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3382130/1bdfef3e418c764fe64ba2144ae9b9f564deac78/header.jpg?t=1787371243",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787374313.8973246,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5088850": {
+        "Title": "Landloop",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5088850/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5088850/91906f9397b15c3639f5e7bf27f07d8b35bdc642/header.jpg?t=1787372620",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787374362.643604,
+        "MatchedTags": [
+            "city builder",
+            "management"
         ]
     }
 }
