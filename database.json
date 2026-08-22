@@ -16239,7 +16239,11 @@
         "MatchedTags": [
             "strategy",
             "tower defense",
-            "economy"
+            "economy",
+            "tactical",
+            "resource management",
+            "real time tactics",
+            "management"
         ]
     },
     "4555950": {
@@ -74084,9 +74088,9 @@
         "URL": "https://store.steampowered.com/app/4610940/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4610940/36968a3047f28b04096165d4d1cd51cf4484dc7b/header.jpg?t=1780547272",
-        "Date": "2026",
-        "AddedDate": "2026-06-04",
-        "AddedTimestamp": 1780549856.6118796,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787424636.1741543,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -101435,9 +101439,9 @@
         "URL": "https://store.steampowered.com/app/4872850/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4872850/697f8f0819f4e960aae30a7cd9d083e316075700/header.jpg?t=1783100981",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-03",
-        "AddedTimestamp": 1783108414.558052,
+        "Date": "2027",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787424659.5221174,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -151876,9 +151880,8 @@
         "AddedDate": "2026-08-21",
         "AddedTimestamp": 1787277653.5998802,
         "MatchedTags": [
-            "psychological horror",
-            "horror",
-            "survival horror"
+            "survival horror",
+            "horror"
         ]
     },
     "5035300": {
@@ -155764,9 +155767,9 @@
         "URL": "https://store.steampowered.com/app/5008270/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5008270/ba63e397f5a4ac9d23c58ac97976ac5ed0a742b9/header.jpg?t=1787420085",
-        "Date": "TBA",
+        "Date": "Coming soon",
         "AddedDate": "2026-08-22",
-        "AddedTimestamp": 1787420375.8703523,
+        "AddedTimestamp": 1787424688.915165,
         "MatchedTags": [
             "tactical",
             "turn-based strategy",
@@ -155800,6 +155803,49 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4777100": {
+        "Title": "Garrick's Hollow",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4777100/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4777100/155ba87408cb7159d2e9af9f94f1f33ad987cac6/header.jpg?t=1787424012",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787424646.4069965,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "5022050": {
+        "Title": "Indoor Shrimp Farming Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5022050/",
+        "Site": "https://indoorshrimpfarmingsimulator.tumblr.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5022050/4207e47ebceac248dc03acf8e00baf6f3da0a4c9/header.jpg?t=1787424302",
+        "Date": "Nov 18, 2026",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787424701.5082312,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "5040820": {
+        "Title": "Mirror Backrooms",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5040820/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5040820/24181b33b611cf0558dde4a5c2f1836d240c6381/header.jpg?t=1787423553",
+        "Date": "Oct 27, 2026",
+        "AddedDate": "2026-08-22",
+        "AddedTimestamp": 1787424704.841576,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
         ]
     }
 }
