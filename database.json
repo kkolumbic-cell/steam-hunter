@@ -91907,9 +91907,9 @@
         "URL": "https://store.steampowered.com/app/2628810/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2628810/6e814e707b0bf5ca6a7cfec2e37b085fd2214eab/header.jpg?t=1782163557",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-22",
-        "AddedTimestamp": 1782169039.3961413,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787506602.3365493,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -100104,14 +100104,14 @@
     },
     "4892800": {
         "Title": "BALL BOY Simulator",
-        "Email": "jiayuanhongyilang@gmail.com, njiayuanhongyilang@gmail.com",
+        "Email": "njiayuanhongyilang@gmail.com, jiayuanhongyilang@gmail.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4892800/",
         "Site": "https://x.com/ebachan_manga",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4892800/9eb72ae945e76df9fb246c15afba7ffcfaef9fcd/header.jpg?t=1782998298",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-02",
-        "AddedTimestamp": 1783006561.1278296,
+        "Date": "Aug 31, 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787506636.7904694,
         "MatchedTags": [
             "survival horror",
             "horror"
@@ -136365,9 +136365,9 @@
         "URL": "https://store.steampowered.com/app/5017260/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5017260/3b9b49255a571cc5570adb5381c888c24e144b63/header.jpg?t=1786271341",
-        "Date": "TBA",
-        "AddedDate": "2026-08-09",
-        "AddedTimestamp": 1786272871.3000364,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787506651.4756777,
         "MatchedTags": [
             "tower defense",
             "base building"
@@ -156554,6 +156554,22 @@
             "strategy",
             "turn-based strategy",
             "turn-based tactics"
+        ]
+    },
+    "1188960": {
+        "Title": "Send & Defend",
+        "Email": "",
+        "Discord": "https://discord.gg/W2RQnHJSUa",
+        "URL": "https://store.steampowered.com/app/1188960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1188960/f0cc397d3135598ea2f69a49f999be6904ae914a/header.jpg?t=1787505495",
+        "Date": "2027",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787506600.1820693,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tower defense"
         ]
     }
 }
