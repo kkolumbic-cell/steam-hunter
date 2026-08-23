@@ -80454,9 +80454,9 @@
         "URL": "https://store.steampowered.com/app/4819030/",
         "Site": "https://roovelstudio.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4819030/ece73443b090dfc77f26b8b075afced7cf63b0f7/header.jpg?t=1781094298",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-10",
-        "AddedTimestamp": 1781102035.9537997,
+        "Date": "Nov 2, 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787517733.0131366,
         "MatchedTags": [
             "management",
             "economy",
@@ -93432,9 +93432,9 @@
         "URL": "https://store.steampowered.com/app/4785630/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4785630/42eb3d6f04aeebfaa495436102a638b7cf09ee3a/header.jpg?t=1782254013",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-23",
-        "AddedTimestamp": 1782257538.1716216,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787517729.8695078,
         "MatchedTags": [
             "survival horror"
         ]
@@ -94685,7 +94685,7 @@
     "4867910": {
         "Title": "Red Lake",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/vvdfEUPyg",
         "URL": "https://store.steampowered.com/app/4867910/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4867910/241eb6f4ee19a3d2f1ca74b81bbf2370386a3792/header.jpg?t=1782417918",
@@ -102495,9 +102495,9 @@
         "URL": "https://store.steampowered.com/app/4877170/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4877170/8ebeb02bb660c497cec3122b39748ab4380c91ce/header.jpg?t=1783289647",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-18",
-        "AddedTimestamp": 1787096438.9900124,
+        "Date": "Aug 18, 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787517741.21567,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -125192,9 +125192,9 @@
         "URL": "https://store.steampowered.com/app/5006600/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5006600/d8c79ea98846201e611f0f84cba3f8256eef5f68/header.jpg?t=1785350330",
-        "Date": "Jan 22, 2027",
-        "AddedDate": "2026-07-29",
-        "AddedTimestamp": 1785354573.312324,
+        "Date": "Jan 24, 2027",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787517763.0302665,
         "MatchedTags": [
             "colony sim",
             "base building",
@@ -156630,6 +156630,94 @@
             "strategy",
             "turn-based strategy",
             "turn-based tactics"
+        ]
+    },
+    "4689670": {
+        "Title": "Roll of Chaos",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4689670/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4689670/12ab1d97c669b97a8364e5cbbe0e718928a855a3/header.jpg?t=1787515148",
+        "Date": "Oct 30, 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787517722.1673617,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "4958310": {
+        "Title": "Era of Tribes",
+        "Email": "",
+        "Discord": "https://discord.com/invite/6y9jaTFcKX",
+        "URL": "https://store.steampowered.com/app/4958310/",
+        "Site": "https://blackbeacongames.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4958310/21156c74d41351581a4d10bbde2be00afff9ab83/header.jpg?t=1787515232",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787517749.665236,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5032610": {
+        "Title": "We Become Legion",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5032610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5032610/c630b09df52f40411bc197276ae4bfd5ffd76f74/header.jpg?t=1787516607",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787517771.344801,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5091680": {
+        "Title": "Marbled Memories",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5091680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5091680/7bfa5a4bf7084460a0a3c90eba5e9cf07cbc53af/header.jpg?t=1787517009",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787517785.2578511,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "5117520": {
+        "Title": "Dude, Trust Me",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5117520/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5117520/ac30c83e7ea38ce5a96e7342155382ae8594ca41/header.jpg?t=1787514887",
+        "Date": "November 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787517791.884228,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5124920": {
+        "Title": "KOLUN",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5124920/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5124920/bb79b54f04f85e3e18fce8a3feb12c6aa4b6b858/header.jpg?t=1787514933",
+        "Date": "Nov 6, 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787517794.0078666,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
