@@ -132732,9 +132732,9 @@
         "URL": "https://store.steampowered.com/app/4967210/",
         "Site": "https://systemtwo.games/games/hot-seat-triage/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4967210/1dbe4200df562366842e2254148e634b59fd1e95/header.jpg?t=1785962465",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-05",
-        "AddedTimestamp": 1785965784.774276,
+        "Date": "October 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787481845.1614866,
         "MatchedTags": [
             "strategy",
             "management",
@@ -142989,9 +142989,9 @@
         "URL": "https://store.steampowered.com/app/3763080/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3763080/a3019446d79487bbf364933d35a9ffb70435dd18/header.jpg?t=1786741191",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-14",
-        "AddedTimestamp": 1786743802.2384772,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787481812.5427272,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -153660,9 +153660,9 @@
         "URL": "https://store.steampowered.com/app/5021740/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5021740/e64db4cc7dbaf85a7009d03172489ef421d79a98/header.jpg?t=1787304370",
-        "Date": "Q1 2027",
-        "AddedDate": "2026-08-21",
-        "AddedTimestamp": 1787306076.6154683,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787481852.7024794,
         "MatchedTags": [
             "resource management"
         ]
@@ -156290,6 +156290,20 @@
         "MatchedTags": [
             "management",
             "economy",
+            "resource management"
+        ]
+    },
+    "5062970": {
+        "Title": "Incremental Pachinko Heaven",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5062970/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5062970/5c4217cf0b984e4c38822d16dd02cc463b5dc208/header.jpg?t=1787478646",
+        "Date": "2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787481866.9461963,
+        "MatchedTags": [
             "resource management"
         ]
     }
