@@ -56524,9 +56524,9 @@
         "URL": "https://store.steampowered.com/app/4710800/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4710800/e1523c7bcd6c03ce63e9653fcbc694ad86c4bfe1/header.jpg?t=1778631148",
-        "Date": "Coming soon",
-        "AddedDate": "2026-05-13",
-        "AddedTimestamp": 1778631327.9787216,
+        "Date": "October 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787499554.9735453,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -57423,9 +57423,9 @@
         "URL": "https://store.steampowered.com/app/4671560/",
         "Site": "https://picobellum.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4671560/6558c2eab333d67da724eea2cb2a06616f23cf57/header.jpg?t=1778701050",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-05-13",
-        "AddedTimestamp": 1778705880.8238301,
+        "Date": "To be announced",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787499549.5949316,
         "MatchedTags": [
             "strategy",
             "grand strategy"
@@ -155988,7 +155988,7 @@
         "Email": "",
         "Discord": "https://discord.gg/seTpERhFQF",
         "URL": "https://store.steampowered.com/app/4920890/",
-        "Site": "",
+        "Site": "https://impress.games/press-kit/superkitowiec/the-ignition-protocol",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920890/a7243272b329cece9737b875f6cad401362a6554/header.jpg?t=1787446667",
         "Date": "Q1 2027",
         "AddedDate": "2026-08-23",
@@ -156399,6 +156399,51 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4912530": {
+        "Title": "Vanguard Monsters",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4912530/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4912530/9972e838154f1a75cbf41cad3b0219a63341a094/header.jpg?t=1787498242",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787499573.373523,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "5070490": {
+        "Title": "PhD Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5070490/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5070490/1fe1d985aaca86b8972f8c892d83c8c9d76ade37/header.jpg?t=1787497391",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787499612.1463363,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "5126560": {
+        "Title": "Knick",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5126560/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5126560/ba57db2269ca5713dfb7c2585444472ab3cee5f6/header.jpg?t=1787499420",
+        "Date": "October 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787499624.953782,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
