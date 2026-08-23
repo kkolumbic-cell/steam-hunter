@@ -32925,8 +32925,8 @@
         "AddedDate": "2026-04-16",
         "AddedTimestamp": 1776358337.3585014,
         "MatchedTags": [
-            "economy",
             "management",
+            "economy",
             "resource management"
         ]
     },
@@ -112126,9 +112126,9 @@
         "URL": "https://store.steampowered.com/app/4827750/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4827750/194a83f900263740667817485705c7643ef6e552/header.jpg?t=1784171495",
-        "Date": "December 2026",
-        "AddedDate": "2026-08-02",
-        "AddedTimestamp": 1785699431.1017072,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787464041.241143,
         "MatchedTags": [
             "management",
             "resource management"
@@ -154020,9 +154020,9 @@
         "URL": "https://store.steampowered.com/app/1897660/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1897660/065324a6d7ddebf3bc87fe89c36326abf39a940e/header.jpg?t=1787321805",
-        "Date": "TBA",
-        "AddedDate": "2026-08-21",
-        "AddedTimestamp": 1787324088.4216263,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787464027.1180422,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -156165,6 +156165,20 @@
             "strategy",
             "management",
             "tactical"
+        ]
+    },
+    "4934990": {
+        "Title": "SUPERANCHOR",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4934990/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4934990/f6e48a0445f2d7d1606b037216c534ab949e8164/header.jpg?t=1787463592",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787464049.536576,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
