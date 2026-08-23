@@ -19476,9 +19476,9 @@
         "URL": "https://store.steampowered.com/app/4528230/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4528230/2d8cf0cc3adc2aefcee7bdeeabff9a3d645059fe/header.jpg?t=1775007519",
-        "Date": "Nov 3, 2026",
-        "AddedDate": "2026-05-15",
-        "AddedTimestamp": 1778844716.679059,
+        "Date": "Dec 2, 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787496171.2154546,
         "MatchedTags": [
             "strategy"
         ]
@@ -88500,9 +88500,9 @@
         "URL": "https://store.steampowered.com/app/4797110/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4797110/8ca467d94bab6f5f4aec5c1fee72969ef16ce7b1/header.jpg?t=1781757193",
-        "Date": "September 2026",
-        "AddedDate": "2026-08-16",
-        "AddedTimestamp": 1786906190.4108596,
+        "Date": "Sep 11, 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787496179.6644769,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -138694,9 +138694,9 @@
         "URL": "https://store.steampowered.com/app/4378290/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4378290/d25feffc9dd3ea180bbc98521099add3d8634a77/header.jpg?t=1786495317",
-        "Date": "Nov 13, 2026",
-        "AddedDate": "2026-08-16",
-        "AddedTimestamp": 1786908997.6145399,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787496167.996699,
         "MatchedTags": [
             "horror"
         ]
@@ -149287,8 +149287,8 @@
         "AddedDate": "2026-08-19",
         "AddedTimestamp": 1787104748.8001475,
         "MatchedTags": [
-            "economy",
             "management",
+            "economy",
             "resource management"
         ]
     },
@@ -156384,6 +156384,21 @@
         "MatchedTags": [
             "strategy",
             "economy"
+        ]
+    },
+    "5102730": {
+        "Title": "Silent Signal",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5102730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5102730/f584a54a4ecbe79efc0548b52103a9c8c3692bee/header.jpg?t=1787496045",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787496228.411334,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
