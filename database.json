@@ -92270,9 +92270,9 @@
         "URL": "https://store.steampowered.com/app/4115370/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115370/8734aab40c90d4a97662bb05aff088fc6496bd8c/header.jpg?t=1782209380",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-02",
-        "AddedTimestamp": 1782972657.798276,
+        "Date": "Sep 7, 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787468586.550153,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -136600,9 +136600,9 @@
         "URL": "https://store.steampowered.com/app/4981360/",
         "Site": "https://www.qiyutian.cn",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4981360/02e572d56599a417d14028a90830a38a95a96110/header.jpg?t=1786348159",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-10",
-        "AddedTimestamp": 1786352079.808294,
+        "Date": "Sep 4, 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787468613.372275,
         "MatchedTags": [
             "strategy"
         ]
@@ -148302,9 +148302,9 @@
         "URL": "https://store.steampowered.com/app/5100760/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5100760/5629ec2309ab86bef5d288514c0343043c3068dd/header.jpg?t=1787071648",
-        "Date": "Sep 13, 2026",
-        "AddedDate": "2026-08-18",
-        "AddedTimestamp": 1787071989.4827304,
+        "Date": "Nov 1, 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787468637.074227,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -154464,7 +154464,7 @@
     "5087330": {
         "Title": "Firework Store Simulator",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/wgspf2EkFb",
         "URL": "https://store.steampowered.com/app/5087330/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5087330/29933ba6600446bb8443f50184d3311f6b52d128/header.jpg?t=1787333215",
@@ -154531,9 +154531,9 @@
         "URL": "https://store.steampowered.com/app/2265280/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2265280/3b9ab63a55a777cc3140996050b23f5338b9d11f/header.jpg?t=1787338045",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-21",
-        "AddedTimestamp": 1787338681.965242,
+        "Date": "Nov 5, 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787468583.2689834,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -156179,6 +156179,53 @@
         "AddedTimestamp": 1787464049.536576,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "5091570": {
+        "Title": "T-Shirt Kingdom",
+        "Email": "",
+        "Discord": "https://discord.gg/qxEHaHDV4",
+        "URL": "https://store.steampowered.com/app/5091570/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5091570/7a079341e7235ac31ae150a2599f00808ced0aaf/header.jpg?t=1787466305",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787468634.740633,
+        "MatchedTags": [
+            "strategy",
+            "economy"
+        ]
+    },
+    "5103050": {
+        "Title": "Chaos Chess",
+        "Email": "",
+        "Discord": "https://discord.gg/pS2AUdpbsV",
+        "URL": "https://store.steampowered.com/app/5103050/",
+        "Site": "https://www.chaoschessgame.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5103050/8aa8f448f2d8e6f4e9db47a76bff1fbaff594bd4/header.jpg?t=1787464833",
+        "Date": "October 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787468639.280388,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical rpg",
+            "turn-based combat"
+        ]
+    },
+    "5134850": {
+        "Title": "What Lies Beneath",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5134850/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5134850/e6748ba01f302d023dd70cb7e0576a36e57524f5/header.jpg?t=1787464799",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787468642.324304,
+        "MatchedTags": [
+            "horror"
         ]
     }
 }
