@@ -138563,9 +138563,9 @@
         "URL": "https://store.steampowered.com/app/5061410/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5061410/16ca65906ab31295460c9c81f873038e483634ce/header.jpg?t=1786488527",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-11",
-        "AddedTimestamp": 1786489610.6456823,
+        "Date": "Sep 1, 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787460886.570832,
         "MatchedTags": [
             "strategy",
             "turn-based combat",
@@ -156118,6 +156118,53 @@
         "MatchedTags": [
             "strategy",
             "resource management"
+        ]
+    },
+    "4914970": {
+        "Title": "The Winery - Winemaking Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4914970/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4914970/e5e39958b7a8d3d752cc58c15ede3abc2a8c27ee/header.jpg?t=1787458263",
+        "Date": "Nov 4, 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787460865.5779989,
+        "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "5048280": {
+        "Title": "Netherworld: Blood Moon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5048280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5048280/3a04f8e3b28f5704c95f408ec2698456426b7f35/header.jpg?t=1787456472",
+        "Date": "2027",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787460879.662628,
+        "MatchedTags": [
+            "psychological horror",
+            "survival horror",
+            "horror"
+        ]
+    },
+    "5123410": {
+        "Title": "Roads of Da Vinci: In Search of Origins",
+        "Email": "",
+        "Discord": "https://discord.gg/VxAERSqDDD",
+        "URL": "https://store.steampowered.com/app/5123410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5123410/92466e8ae36a79bdbcd33bd2fb3939bc3218565f/header.jpg?t=1787457397",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787460905.2344806,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "tactical"
         ]
     }
 }
