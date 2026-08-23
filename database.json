@@ -8079,9 +8079,9 @@
         "URL": "https://store.steampowered.com/app/3919690/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3919690/4a3e4b1cd084b1a95a6a0a5b490f916b4155e27e/header.jpg?t=1773664364",
-        "Date": "Apr 18, 2026",
-        "AddedDate": "2026-04-19",
-        "AddedTimestamp": 1776578959.8183331,
+        "Date": "Aug 23, 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787490234.4911923,
         "MatchedTags": [
             "management",
             "economy"
@@ -30550,9 +30550,9 @@
         "URL": "https://store.steampowered.com/app/4580600/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4580600/ebe3000b3c2cac63726b69b7dbed437ffcc70ab1/header.jpg?t=1776186418",
-        "Date": "Sep 13, 2026",
-        "AddedDate": "2026-08-21",
-        "AddedTimestamp": 1787334469.0934305,
+        "Date": "Sep 14, 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787490258.0493495,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -62630,9 +62630,9 @@
         "URL": "https://store.steampowered.com/app/4750540/",
         "Site": "https://yikongames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4750540/99ef60f27155c2f1261378a5d0df2068cedb73d0/header.jpg?t=1779408424",
-        "Date": "To be announced",
-        "AddedDate": "2026-05-22",
-        "AddedTimestamp": 1779424988.553604,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787490267.8144267,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -65883,9 +65883,9 @@
     "4564040": {
         "Title": "OfMiceAndMechs",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/z5QfwfzWCn",
         "URL": "https://store.steampowered.com/app/4564040/",
-        "Site": "",
+        "Site": "https://ofmiceandmechs.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4564040/fa6305c9608ef8be590d475c0e1378aea89783ff/header.jpg?t=1779896657",
         "Date": "To be announced",
         "AddedDate": "2026-05-27",
@@ -101925,7 +101925,7 @@
     "4911010": {
         "Title": "Citadels - Shadow City",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/5PFbkxVrJ",
         "URL": "https://store.steampowered.com/app/4911010/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4911010/10d9323e997874027f552c96b44e365ed4f04bcd/header.jpg?t=1783147888",
@@ -106477,7 +106477,10 @@
         "MatchedTags": [
             "strategy",
             "tower defense",
-            "real time tactics"
+            "real time tactics",
+            "base building",
+            "resource management",
+            "economy"
         ]
     },
     "4908340": {
@@ -127093,7 +127096,7 @@
     "5013740": {
         "Title": "Aviator",
         "Email": "hello@moodforgames.com",
-        "Discord": "",
+        "Discord": "https://discord.gg/sqRkyZpYj2",
         "URL": "https://store.steampowered.com/app/5013740/",
         "Site": "https://www.moodforgames.com/games/aviator/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5013740/f7217f4bebb9d1348a585989caf75bfd3af9c472/header.jpg?t=1785480414",
@@ -156350,6 +156353,36 @@
         "MatchedTags": [
             "strategy",
             "tactical"
+        ]
+    },
+    "5088380": {
+        "Title": "The Sounding Dark",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5088380/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5088380/517105bd500b39deb5d10731512b2feec4c3debe/header.jpg?t=1787489594",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787490361.7658231,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "5127680": {
+        "Title": "BRAINFREEZE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5127680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5127680/9e323c8356b1a4588bd278b51173901eab9f2dd2/header.jpg?t=1787488782",
+        "Date": "Nov 10, 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787490368.9232206,
+        "MatchedTags": [
+            "strategy",
+            "economy"
         ]
     }
 }
