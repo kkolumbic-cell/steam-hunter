@@ -106471,9 +106471,9 @@
         "URL": "https://store.steampowered.com/app/4886460/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4886460/6c6536e0061e0f8ba25861509d0e84a24bdc5e30/header.jpg?t=1783618982",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-07-09",
-        "AddedTimestamp": 1783620875.6644936,
+        "Date": "Aug 23, 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787485077.438776,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -114612,9 +114612,9 @@
         "URL": "https://store.steampowered.com/app/4961110/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4961110/a923fc276d479b1ad8cd70587d9cc5eb192ab79c/header.jpg?t=1784441905",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-19",
-        "AddedTimestamp": 1784443522.3285275,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787485086.98902,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -156305,6 +156305,51 @@
         "AddedTimestamp": 1787481866.9461963,
         "MatchedTags": [
             "resource management"
+        ]
+    },
+    "3701290": {
+        "Title": "Endless Harvest!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3701290/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701290/81d4146131f7bc67fe1ef947eb365a52b06f18fa/header.jpg?t=1787482704",
+        "Date": "Q4 2030",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787485033.8335376,
+        "MatchedTags": [
+            "economy",
+            "resource management"
+        ]
+    },
+    "5044480": {
+        "Title": "\u5929\u547d\u5bf9\u51b3\u00b7\u4e09\u56fd(TIANMING: Three Kingdoms)",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5044480/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044480/fc1b5d6a4f66cac5cf9db95f6d0e5f88f02704fe/header.jpg?t=1787482317",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787485093.641478,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "5067830": {
+        "Title": "Minefield: Rupture",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5067830/",
+        "Site": "https://minefieldrupture.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067830/07fd0fafe2494a85aaa423764cab63a05a4b09ca/header.jpg?t=1787482544",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787485103.0716398,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
         ]
     }
 }
