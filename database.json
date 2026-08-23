@@ -2514,9 +2514,9 @@
         "URL": "https://store.steampowered.com/app/2449610/",
         "Site": "https://ryan-mcdougall.itch.io/planetfall-endless-wave-early-playtest",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2449610/c1e45b0872850cd3586b5494f391068c843e70d9/header.jpg?t=1772802222",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-24",
-        "AddedTimestamp": 1774347039.8481002,
+        "Date": "To be announced",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787524820.816403,
         "MatchedTags": [
             "management",
             "resource management"
@@ -47797,9 +47797,9 @@
         "URL": "https://store.steampowered.com/app/4607560/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4607560/688e87cf34e0e590a0a98222c4a3faa5bea3253d/header.jpg?t=1777644315",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-06-07",
-        "AddedTimestamp": 1780811631.366816,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787524843.0369596,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -81829,9 +81829,9 @@
         "URL": "https://store.steampowered.com/app/4826490/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4826490/9e43e97046f1fa1dcb0c06d307608593344dc9a2/header.jpg?t=1781179441",
-        "Date": "2026",
-        "AddedDate": "2026-07-13",
-        "AddedTimestamp": 1783955820.08128,
+        "Date": "2027",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787524854.737434,
         "MatchedTags": [
             "strategy",
             "turn-based combat",
@@ -124528,9 +124528,9 @@
         "URL": "https://store.steampowered.com/app/4998010/",
         "Site": "https://party-tycoon.com?ref=steam",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4998010/87a91cee105659a83ef9160f229a8843cbe5af00/header.jpg?t=1785301842",
-        "Date": "November 2026",
-        "AddedDate": "2026-08-10",
-        "AddedTimestamp": 1786395983.5454671,
+        "Date": "January 2027",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787524877.13057,
         "MatchedTags": [
             "management",
             "economy",
@@ -156802,6 +156802,81 @@
             "management",
             "city builder",
             "base building"
+        ]
+    },
+    "4202980": {
+        "Title": "Fragile Heroes",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4202980/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4202980/8ba22c514971dbb85d630fcb039727d5133e9e39/header.jpg?t=1787524042",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787524831.4314547,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "tactical rpg",
+            "turn-based combat"
+        ]
+    },
+    "4298730": {
+        "Title": "Catching Breaks",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4298730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4298730/d9ad57a3f641546a8fc8cd541710b24e50e510cc/header.jpg?t=1787521861",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787524834.265868,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4999000": {
+        "Title": "Gnomes Vs Knights",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4999000/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4999000/6c3fcdd41776722cc98d8f555f9077833cae0b07/header.jpg?t=1787524141",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787524879.6094382,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5098540": {
+        "Title": "TDG: Tower Defense",
+        "Email": "hello@rubblelinegames.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5098540/",
+        "Site": "https://rubblelinegames.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5098540/7294258461b7928a0fe7530a51f8566d0f686b15/header.jpg?t=1787522480",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787524902.2169566,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "tactical"
+        ]
+    },
+    "5099120": {
+        "Title": "Falk",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5099120/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5099120/75de8acc37f928b21b69e98c14b6431539d460f9/header.jpg?t=1787524110",
+        "Date": "Sep 7, 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787524904.8423743,
+        "MatchedTags": [
+            "psychological horror"
         ]
     }
 }
