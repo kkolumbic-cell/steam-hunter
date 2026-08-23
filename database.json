@@ -25324,11 +25324,12 @@
         "URL": "https://store.steampowered.com/app/4487460/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4487460/1b11d9c478799ad3c4bb1d9ce2d601b574f0210a/header.jpg?t=1775702981",
-        "Date": "2026",
-        "AddedDate": "2026-04-09",
-        "AddedTimestamp": 1775705453.4622884,
+        "Date": "Sep 4, 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787492822.4230447,
         "MatchedTags": [
-            "horror"
+            "horror",
+            "psychological horror"
         ]
     },
     "4530340": {
@@ -35143,9 +35144,9 @@
         "URL": "https://store.steampowered.com/app/4585250/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4585250/90ab445b784fe10aeff4f095c11fffbdb6da7b7c/header.jpg?t=1776601392",
-        "Date": "September 2026",
-        "AddedDate": "2026-04-19",
-        "AddedTimestamp": 1776605803.413055,
+        "Date": "November 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787492827.9150949,
         "MatchedTags": [
             "tactical",
             "real time tactics"
@@ -89229,7 +89230,6 @@
         "MatchedTags": [
             "turn-based tactics",
             "strategy",
-            "tower defense",
             "turn-based strategy"
         ]
     },
@@ -133428,9 +133428,10 @@
         "AddedDate": "2026-08-19",
         "AddedTimestamp": 1787158246.4579127,
         "MatchedTags": [
-            "economy",
             "management",
+            "economy",
             "base building",
+            "resource management",
             "strategy"
         ]
     },
@@ -136501,9 +136502,9 @@
         "URL": "https://store.steampowered.com/app/5043720/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5043720/f9785916ea6ebf420ebc65dd17a687577a2e9f6c/header.jpg?t=1786293949",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-09",
-        "AddedTimestamp": 1786294668.6274025,
+        "Date": "Aug 23, 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787492862.6944497,
         "MatchedTags": [
             "strategy"
         ]
@@ -147738,7 +147739,7 @@
         "AddedTimestamp": 1787053447.8614898,
         "MatchedTags": [
             "horror",
-            "survival horror"
+            "psychological horror"
         ]
     },
     "4992530": {
