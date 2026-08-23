@@ -25069,6 +25069,8 @@
         "AddedDate": "2026-04-14",
         "AddedTimestamp": 1776181542.6530511,
         "MatchedTags": [
+            "resource management",
+            "management",
             "strategy"
         ]
     },
@@ -68524,11 +68526,9 @@
         "AddedDate": "2026-05-29",
         "AddedTimestamp": 1780073882.8062649,
         "MatchedTags": [
-            "city builder",
-            "base building",
-            "resource management",
             "management",
-            "strategy"
+            "base building",
+            "resource management"
         ]
     },
     "4660700": {
@@ -134831,9 +134831,9 @@
         "URL": "https://store.steampowered.com/app/4993060/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4993060/05f5e4e7bcc80967d6af3048dff9da54aec5fdd1/header.jpg?t=1786111473",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-07",
-        "AddedTimestamp": 1786115551.8848147,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787513906.784235,
         "MatchedTags": [
             "management",
             "resource management",
@@ -156599,6 +156599,37 @@
         "MatchedTags": [
             "management",
             "economy"
+        ]
+    },
+    "4985040": {
+        "Title": "Symbiosis: Criticality",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4985040/",
+        "Site": "https://brehmdig.itch.io",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4985040/98e7a7c7140d6d803f7ef577f29971b5192a348d/header.jpg?t=1787511917",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787513903.0850713,
+        "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "5025870": {
+        "Title": "DEPTH STRIKE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5025870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5025870/cd46fb4f5db0ca97252c83131449d91c3844aeb3/header.jpg?t=1787512758",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787513916.2591543,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
         ]
     }
 }
