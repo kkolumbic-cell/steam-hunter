@@ -14029,9 +14029,9 @@
         "URL": "https://store.steampowered.com/app/4428330/",
         "Site": "https://www.744interactive.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4428330/b6dc41e781e088c2e1c76cd2161f7d94faa4eff2/header.jpg?t=1774439739",
-        "Date": "To be announced",
-        "AddedDate": "2026-03-25",
-        "AddedTimestamp": 1774439913.9998515,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787521071.5696473,
         "MatchedTags": [
             "base building",
             "resource management"
@@ -65138,9 +65138,9 @@
         "URL": "https://store.steampowered.com/app/4745980/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4745980/cd46c014e43e648da40eaa5a2aa24a25a3446eb4/header.jpg?t=1779813727",
-        "Date": "Aug 17, 2026",
-        "AddedDate": "2026-08-07",
-        "AddedTimestamp": 1786103992.2352343,
+        "Date": "Aug 23, 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787521077.1962478,
         "MatchedTags": [
             "tactical"
         ]
@@ -142362,8 +142362,9 @@
         "AddedDate": "2026-08-17",
         "AddedTimestamp": 1786972288.823467,
         "MatchedTags": [
-            "strategy",
-            "management"
+            "management",
+            "resource management",
+            "strategy"
         ]
     },
     "4457370": {
@@ -156718,6 +156719,89 @@
         "AddedTimestamp": 1787517794.0078666,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4952950": {
+        "Title": "Battle Of Dots: Last Stand",
+        "Email": "",
+        "Discord": "https://discord.gg/JqgdgFrWmy",
+        "URL": "https://store.steampowered.com/app/4952950/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4952950/21caba2abca01979bd3fa794c1efc753a13acdda/header.jpg?t=1787518364",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787521092.0319273,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "grand strategy",
+            "colony sim",
+            "economy"
+        ]
+    },
+    "4993360": {
+        "Title": "Rest Assured",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4993360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4993360/599c04bf42ffc7964a6c6aadf20bd4b646604674/header.jpg?t=1787520425",
+        "Date": "TBA",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787521104.201315,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "5011700": {
+        "Title": "Galithia",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5011700/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5011700/86ac26b48f6468f04497e04247187842c7b2c038/header.jpg?t=1787520449",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787521109.6003559,
+        "MatchedTags": [
+            "turn-based combat",
+            "turn-based strategy",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "5133830": {
+        "Title": "UNDERSKIN",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5133830/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5133830/63e9874ee1409a9f133df1d5cf23e5c0de4813b3/header.jpg?t=1787517759",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787521122.0891974,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5134520": {
+        "Title": "Timber & Fortune",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5134520/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5134520/ad766a031efec610bcd0e62e9e306906d8c218c2/header.jpg?t=1787519001",
+        "Date": "Nov 12, 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787521124.2932258,
+        "MatchedTags": [
+            "resource management",
+            "economy",
+            "management",
+            "city builder",
+            "base building"
         ]
     }
 }
