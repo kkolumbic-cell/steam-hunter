@@ -21922,8 +21922,7 @@
             "real time tactics",
             "strategy",
             "resource management",
-            "tactical",
-            "economy"
+            "tactical"
         ]
     },
     "4525340": {
@@ -56083,9 +56082,9 @@
         "URL": "https://store.steampowered.com/app/4699020/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4699020/d8462fa95f0d179b9e8af75a8a09fb122e843fc7/header.jpg?t=1778595625",
-        "Date": "2026",
-        "AddedDate": "2026-08-16",
-        "AddedTimestamp": 1786906184.7112217,
+        "Date": "Oct 28, 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787478302.4625566,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -135602,7 +135601,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/5045430/",
-        "Site": "",
+        "Site": "https://bsky.app/profile/pekomaro.bsky.social",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5045430/04aba3e78af1854deae732b5e9b58e3c80aa4acb/header.jpg?t=1786153167",
         "Date": "Nov 5, 2026",
         "AddedDate": "2026-08-09",
@@ -155250,10 +155249,10 @@
         "AddedTimestamp": 1787371160.4841473,
         "MatchedTags": [
             "turn-based tactics",
-            "strategy",
-            "tactical",
             "turn-based strategy",
-            "turn-based combat"
+            "turn-based combat",
+            "strategy",
+            "tactical"
         ]
     },
     "5096450": {
@@ -156276,6 +156275,22 @@
             "turn-based tactics",
             "economy",
             "management"
+        ]
+    },
+    "4926780": {
+        "Title": "Moon Shop Simulator",
+        "Email": "",
+        "Discord": "https://discord.gg/7SjpvV4",
+        "URL": "https://store.steampowered.com/app/4926780/",
+        "Site": "https://www.hakkah-studio.com/en/moonshopsimulator.html",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4926780/2a6500ed771ff80affcedde2a855eb4f44537da6/header.jpg?t=1787476898",
+        "Date": "Sep 9, 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787478319.0261428,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "resource management"
         ]
     }
 }
