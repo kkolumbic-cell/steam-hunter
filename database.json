@@ -104331,9 +104331,9 @@
         "URL": "https://store.steampowered.com/app/4919380/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4919380/0a13fcffdcdb9d8d73b815bbfc117d84c9352710/header.jpg?t=1783462432",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-07",
-        "AddedTimestamp": 1783463630.6590815,
+        "Date": "Oct 1, 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787528255.4688954,
         "MatchedTags": [
             "economy"
         ]
@@ -105521,9 +105521,9 @@
         "URL": "https://store.steampowered.com/app/4920750/",
         "Site": "https://saqred.games/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920750/2510025f6e5c59d9caef3c0e95abd0585561adee/header.jpg?t=1783539275",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-08",
-        "AddedTimestamp": 1783543242.0163617,
+        "Date": "Sep 20, 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787528258.3322618,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -156877,6 +156877,36 @@
         "AddedTimestamp": 1787524904.8423743,
         "MatchedTags": [
             "psychological horror"
+        ]
+    },
+    "4873650": {
+        "Title": "Incinerator Inc",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4873650/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4873650/8f5a88583d8abf3292af551ca70381d53ccd833c/header.jpg?t=1787527582",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787528245.8728642,
+        "MatchedTags": [
+            "economy"
+        ]
+    },
+    "4884060": {
+        "Title": "The Sin of Ritter",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4884060/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4884060/fab6fd681b470fac07c30ec8e48eeb5a7000c579/header.jpg?t=1787527716",
+        "Date": "Oct 27, 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787528248.5633473,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
         ]
     }
 }
