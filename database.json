@@ -88502,9 +88502,9 @@
         "URL": "https://store.steampowered.com/app/4797110/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4797110/8ca467d94bab6f5f4aec5c1fee72969ef16ce7b1/header.jpg?t=1781757193",
-        "Date": "Sep 11, 2026",
+        "Date": "October 2026",
         "AddedDate": "2026-08-23",
-        "AddedTimestamp": 1787496179.6644769,
+        "AddedTimestamp": 1787511109.3733037,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -146395,9 +146395,9 @@
         "URL": "https://store.steampowered.com/app/4948380/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4948380/09686e39755c3578f6be558c45162309f4cd34ad/header.jpg?t=1786986080",
-        "Date": "2026",
-        "AddedDate": "2026-08-18",
-        "AddedTimestamp": 1787039845.674221,
+        "Date": "September 2026",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787511130.7464044,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -156570,6 +156570,35 @@
             "strategy",
             "real time tactics",
             "tower defense"
+        ]
+    },
+    "4868880": {
+        "Title": "The Medieval Journey",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4868880/",
+        "Site": "https://themedievaljourney.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4868880/554610b1257b646300111d032218d15db7aade84/header.jpg?t=1787509442",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787511116.8528607,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "4953920": {
+        "Title": "WerkstattManager \u2013 Uncle Karl's Legacy",
+        "Email": "",
+        "Discord": "https://discord.gg/gdW2Fdgbk",
+        "URL": "https://store.steampowered.com/app/4953920/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4953920/eea147760b71752d90312b0246640eace8868250/header.jpg?t=1787510832",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-23",
+        "AddedTimestamp": 1787511133.504964,
+        "MatchedTags": [
+            "management",
+            "economy"
         ]
     }
 }
