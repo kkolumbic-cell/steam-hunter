@@ -44864,13 +44864,13 @@
         "URL": "https://store.steampowered.com/app/4626050/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4626050/8b5f907282b4c0be02dd24bb3316532dbc4bb2be/header.jpg?t=1777434656",
-        "Date": "September 2026",
-        "AddedDate": "2026-07-07",
-        "AddedTimestamp": 1783413936.2589881,
+        "Date": "November 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787587095.4885137,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
-            "tower defense"
+            "base building"
         ]
     },
     "4637810": {
@@ -98258,14 +98258,14 @@
     },
     "4794660": {
         "Title": "Trade the Crash",
-        "Email": "privacy@playthecrash.com, support@playthecrash.com",
+        "Email": "support@playthecrash.com, privacy@playthecrash.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4794660/",
         "Site": "https://playthecrash.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4794660/f76ff29d48607bd783288ec5c9d623e98bed63f5/header.jpg?t=1782822838",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-10",
-        "AddedTimestamp": 1786352014.3587818,
+        "Date": "August 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787587114.447355,
         "MatchedTags": [
             "strategy",
             "economy",
@@ -131603,7 +131603,8 @@
         "AddedDate": "2026-08-05",
         "AddedTimestamp": 1785901137.3104439,
         "MatchedTags": [
-            "strategy"
+            "strategy",
+            "turn-based strategy"
         ]
     },
     "5005910": {
@@ -148665,9 +148666,9 @@
         "URL": "https://store.steampowered.com/app/5069250/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5069250/b1a9be255f97b84d0c104d22ec263d69aed24972/header.jpg?t=1787083582",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-18",
-        "AddedTimestamp": 1787085893.424691,
+        "Date": "To be announced",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787587180.4361036,
         "MatchedTags": [
             "management",
             "strategy",
@@ -151812,9 +151813,9 @@
         "URL": "https://store.steampowered.com/app/5116390/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5116390/e91878640f83922c9aa92483110bf2bd92226c13/header.jpg?t=1787210570",
-        "Date": "Jun 30, 2027",
-        "AddedDate": "2026-08-20",
-        "AddedTimestamp": 1787212782.1889148,
+        "Date": "Q2 2027",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787587204.3274503,
         "MatchedTags": [
             "horror"
         ]
@@ -157542,6 +157543,95 @@
             "base building",
             "management",
             "resource management"
+        ]
+    },
+    "4452120": {
+        "Title": "Jingle Balls",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4452120/",
+        "Site": "https://www.lootbagstudios.net/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4452120/43b488980a97a1183677720e7bc258af60cec774/header.jpg?t=1787585077",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787587085.5635922,
+        "MatchedTags": [
+            "survival horror"
+        ]
+    },
+    "4980370": {
+        "Title": "Vixens of Valor",
+        "Email": "",
+        "Discord": "https://discord.gg/neWsr8f9fq",
+        "URL": "https://store.steampowered.com/app/4980370/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4980370/33a7565ce82bcf82c7c3ac2d3768586ce9f8ceaa/header.jpg?t=1787583782",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787587146.4716716,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5001900": {
+        "Title": "Unknown at This Address",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5001900/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5001900/5e1e037081b58cf356a11bebeb0521d3d97baf3d/header.jpg?t=1787586919",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787587162.6222992,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5081700": {
+        "Title": "Sylva's Blessing",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5081700/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5081700/e676eaca535a8ee1561b94bfd393961b40572891/header.jpg?t=1787585271",
+        "Date": "Aug 27, 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787587192.1507995,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "5133640": {
+        "Title": "State Of Fear: The Final Shift",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5133640/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5133640/1e4e891d529d4306198ad5d62a349a9b8938e1fc/header.jpg?t=1787586015",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787587209.7650325,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5135070": {
+        "Title": "Nightshift; Nowhere",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5135070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5135070/276be99dd58a8f45c77dd539e371c36169c4522d/header.jpg?t=1787585577",
+        "Date": "Oct 30, 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787587215.7188332,
+        "MatchedTags": [
+            "survival horror",
+            "horror",
+            "psychological horror"
         ]
     }
 }
