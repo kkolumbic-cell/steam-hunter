@@ -33143,9 +33143,9 @@
         "URL": "https://store.steampowered.com/app/4490150/",
         "Site": "https://noranagaleash.wixsite.com/roaring-sheep-studio/blank-3",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4490150/307e86c99b56de9e184695d4e3c5283b3865bca4/header.jpg?t=1776369194",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-16",
-        "AddedTimestamp": 1776370128.085589,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787590670.6063805,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -44864,9 +44864,9 @@
         "URL": "https://store.steampowered.com/app/4626050/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4626050/8b5f907282b4c0be02dd24bb3316532dbc4bb2be/header.jpg?t=1777434656",
-        "Date": "November 2026",
+        "Date": "Nov 2, 2026",
         "AddedDate": "2026-08-24",
-        "AddedTimestamp": 1787587095.4885137,
+        "AddedTimestamp": 1787590698.4510648,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -59517,7 +59517,7 @@
     },
     "4661850": {
         "Title": "EQUILIBRIUM",
-        "Email": "support@obliquoncorporation.com, creators@obliquoncorporation.com, partnerships@obliquoncorporation.com, press@obliquoncorporation.com",
+        "Email": "creators@obliquoncorporation.com, press@obliquoncorporation.com, support@obliquoncorporation.com, partnerships@obliquoncorporation.com",
         "Discord": "https://discord.gg/wVqG5FNZMJ",
         "URL": "https://store.steampowered.com/app/4661850/",
         "Site": "https://www.obliquoncorporation.com/",
@@ -120876,7 +120876,8 @@
         "AddedDate": "2026-07-24",
         "AddedTimestamp": 1784902651.8864288,
         "MatchedTags": [
-            "turn-based combat"
+            "turn-based combat",
+            "turn-based tactics"
         ]
     },
     "3615310": {
@@ -135062,21 +135063,6 @@
             "psychological horror"
         ]
     },
-    "4734650": {
-        "Title": "Chinese Bar Love Simulation Game",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/4734650/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4734650/d716c7bc7b6af633e7cf7ef9e8cf4466e4b61ac9/header.jpg?t=1786121146",
-        "Date": "Aug 21, 2026",
-        "AddedDate": "2026-08-21",
-        "AddedTimestamp": 1787299182.2457666,
-        "MatchedTags": [
-            "strategy",
-            "turn-based tactics"
-        ]
-    },
     "4933930": {
         "Title": "A Wizard-Chess Tournament",
         "Email": "",
@@ -136898,9 +136884,9 @@
         "URL": "https://store.steampowered.com/app/5013050/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5013050/72b2294b6b99c2c2b4881c97d8ddef957bf8c87c/header.jpg?t=1786379792",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-08-16",
-        "AddedTimestamp": 1786923392.3069503,
+        "Date": "August 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787590759.9888816,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -139897,11 +139883,11 @@
         "AddedDate": "2026-08-12",
         "AddedTimestamp": 1786568866.143024,
         "MatchedTags": [
+            "economy",
+            "management",
             "strategy",
             "tactical",
-            "resource management",
-            "economy",
-            "management"
+            "resource management"
         ]
     },
     "5070360": {
@@ -143550,9 +143536,9 @@
         "URL": "https://store.steampowered.com/app/4879480/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4879480/2fb12fcb08dcfd1c26b93850c8ff0f5d9247e868/header.jpg?t=1786776662",
-        "Date": "TBA",
-        "AddedDate": "2026-08-15",
-        "AddedTimestamp": 1786777194.941614,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787590737.553432,
         "MatchedTags": [
             "strategy"
         ]
@@ -157632,6 +157618,68 @@
             "survival horror",
             "horror",
             "psychological horror"
+        ]
+    },
+    "4372600": {
+        "Title": "Fables of the Kingdom 3",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4372600/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4372600/6bcc0920c9bca5f97bca0f0041be60f1fcd0efcb/header.jpg?t=1787588440",
+        "Date": "2027",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787590667.8309994,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "base building",
+            "management"
+        ]
+    },
+    "4596310": {
+        "Title": "Outer Flame",
+        "Email": "info@outerflamegame.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4596310/",
+        "Site": "https://www.outerflamegame.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596310/07669d0d491d910d321f37ebc3a6778e57587ea8/header.jpg?t=1787590414",
+        "Date": "Nov 1, 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787590689.8094435,
+        "MatchedTags": [
+            "turn-based tactics"
+        ]
+    },
+    "5092630": {
+        "Title": "Pawn of the Pit",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5092630/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5092630/97ecacf513ab79b1eec8891914ec4593c505d070/header.jpg?t=1787590392",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787590785.980115,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "turn-based tactics"
+        ]
+    },
+    "5099830": {
+        "Title": "StarWorks",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5099830/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5099830/a29f64335b636298ad82d99c28b522685df7b4a2/header.jpg?t=1787589388",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787590792.7250354,
+        "MatchedTags": [
+            "resource management",
+            "management"
         ]
     }
 }
