@@ -4381,7 +4381,7 @@
         "MatchedTags": [
             "psychological horror",
             "horror",
-            "grand strategy"
+            "strategy"
         ]
     },
     "4501170": {
@@ -37511,7 +37511,7 @@
     "4192680": {
         "Title": "7 Trials",
         "Email": "newcore@newcoregames.com",
-        "Discord": "",
+        "Discord": "https://discord.gg/ZYebWn4DG",
         "URL": "https://store.steampowered.com/app/4192680/",
         "Site": "https://www.newcoregames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4192680/cb8c251fd6b6b299be1b747bc51a9bde1264ec07/header.jpg?t=1776826132",
@@ -79409,9 +79409,9 @@
         "URL": "https://store.steampowered.com/app/4720080/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4720080/554e1e5a39e56f9c84ca24625b8659a0c05fba6f/header.jpg?t=1781026908",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-09",
-        "AddedTimestamp": 1781029624.3346024,
+        "Date": "Aug 23, 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787536780.1617439,
         "MatchedTags": [
             "base building"
         ]
@@ -81613,12 +81613,12 @@
         "URL": "https://store.steampowered.com/app/4741790/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4741790/a8a3a309604bccdfd0f7c2b579b04426a2f170a4/header.jpg?t=1781191015",
-        "Date": "2026",
-        "AddedDate": "2026-06-11",
-        "AddedTimestamp": 1781195680.149145,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787536787.1879842,
         "MatchedTags": [
-            "strategy",
             "real time tactics",
+            "strategy",
             "horror"
         ]
     },
@@ -120430,9 +120430,9 @@
         "URL": "https://store.steampowered.com/app/4932620/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4932620/51e28f5f1e71793d0021dc50e85c6a38804252e0/header.jpg?t=1784860930",
-        "Date": "Aug 24, 2026",
-        "AddedDate": "2026-07-24",
-        "AddedTimestamp": 1784864981.5008445,
+        "Date": "Aug 23, 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787536838.7421477,
         "MatchedTags": [
             "strategy"
         ]
@@ -143366,8 +143366,8 @@
         "AddedDate": "2026-08-15",
         "AddedTimestamp": 1786763354.1288407,
         "MatchedTags": [
-            "strategy",
-            "management"
+            "management",
+            "strategy"
         ]
     },
     "5057360": {
@@ -156907,6 +156907,42 @@
             "horror",
             "psychological horror",
             "survival horror"
+        ]
+    },
+    "4890620": {
+        "Title": "CONQUISTA: Tide of Wills",
+        "Email": "",
+        "Discord": "https://discord.gg/WAGy2WsvHU",
+        "URL": "https://store.steampowered.com/app/4890620/",
+        "Site": "https://shueisha-games.com/games/conquista-tide-of-wills/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4890620/91bd64702ccc38312fc3e66511bf1985bcdca64f/header.jpg?t=1787530709",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787536819.686414,
+        "MatchedTags": [
+            "strategy",
+            "colony sim",
+            "real time tactics",
+            "city builder",
+            "tactical rpg",
+            "tactical",
+            "management"
+        ]
+    },
+    "5114740": {
+        "Title": "Don't Wake the King",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5114740/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5114740/28164f4500c3b5e785c8d7876b04bf51e0413605/header.jpg?t=1787535983",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787536886.2493677,
+        "MatchedTags": [
+            "survival horror",
+            "psychological horror",
+            "horror"
         ]
     }
 }
