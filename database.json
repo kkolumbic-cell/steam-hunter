@@ -73614,9 +73614,9 @@
         "URL": "https://store.steampowered.com/app/4800470/",
         "Site": "https://www.mobaroid.jp",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4800470/51dd948b302ae51eb94be6501c118bf0888047b1/header.jpg?t=1780496757",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-03",
-        "AddedTimestamp": 1780507860.6502872,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787580483.9438868,
         "MatchedTags": [
             "strategy",
             "colony sim",
@@ -115866,8 +115866,8 @@
         "AddedDate": "2026-07-20",
         "AddedTimestamp": 1784571916.7394059,
         "MatchedTags": [
-            "horror",
-            "psychological horror"
+            "psychological horror",
+            "horror"
         ]
     },
     "4970660": {
@@ -141432,9 +141432,9 @@
         "URL": "https://store.steampowered.com/app/5060600/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5060600/74fb897f72542caaf067941852a0548c99c62628/header.jpg?t=1786657770",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-19",
-        "AddedTimestamp": 1787158280.9009962,
+        "Date": "November 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787580572.6918852,
         "MatchedTags": [
             "economy",
             "management",
@@ -157480,6 +157480,37 @@
             "city builder",
             "base building",
             "resource management"
+        ]
+    },
+    "4847200": {
+        "Title": "Starbase Tactics",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4847200/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847200/e874abd540f20361364b52a4984f81a20059051c/header.jpg?t=1787579957",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787580492.1703851,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "base building",
+            "resource management"
+        ]
+    },
+    "5126340": {
+        "Title": "Runecast",
+        "Email": "",
+        "Discord": "https://discord.gg/Vbyqkejf2",
+        "URL": "https://store.steampowered.com/app/5126340/",
+        "Site": "https://dotsmith.vercel.app/#obra-01",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5126340/09b738c17e953ad7dd90ed3bb22a8da3e165d6f2/header.jpg?t=1787578122",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787580592.1816118,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
