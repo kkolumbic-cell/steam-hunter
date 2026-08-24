@@ -55449,10 +55449,10 @@
     },
     "4699010": {
         "Title": "Anatolian Horror Stories : Curse In Bayramdere",
-        "Email": "",
+        "Email": "kalelaimeke@gmail.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4699010/",
-        "Site": "",
+        "Site": "https://sites.google.com/view/tomrisecegames/ana-sayfa",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699010/d751b89cb37f6134293a25e7f93bb94c6580d48a/header.jpg?t=1778535175",
         "Date": "Jun 1, 2026",
         "AddedDate": "2026-06-01",
@@ -70854,9 +70854,9 @@
         "URL": "https://store.steampowered.com/app/4618460/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4618460/e95ff8fd12913c4cd006cc403733c6589dc292a5/header.jpg?t=1780323162",
-        "Date": "June 2026",
-        "AddedDate": "2026-06-01",
-        "AddedTimestamp": 1780338163.1791873,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787593735.4198399,
         "MatchedTags": [
             "strategy"
         ]
@@ -93522,9 +93522,9 @@
         "URL": "https://store.steampowered.com/app/4747490/",
         "Site": "https://www.supergeckogames.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4747490/b02e532ce16160f827d4cd6d3a299438bc4e369d/header.jpg?t=1782274838",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-07-23",
-        "AddedTimestamp": 1784825400.636096,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787593756.249549,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -134836,9 +134836,9 @@
         "URL": "https://store.steampowered.com/app/4993060/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4993060/05f5e4e7bcc80967d6af3048dff9da54aec5fdd1/header.jpg?t=1786111473",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-08-23",
-        "AddedTimestamp": 1787513906.784235,
+        "Date": "Aug 24, 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787593804.2379444,
         "MatchedTags": [
             "management",
             "resource management",
@@ -157196,9 +157196,9 @@
         "URL": "https://store.steampowered.com/app/5105830/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5105830/f720d6ba519f63d6ed574892a5891d444d82fcf7/header.jpg?t=1787556552",
-        "Date": "TBA",
+        "Date": "To be announced",
         "AddedDate": "2026-08-24",
-        "AddedTimestamp": 1787556740.9566894,
+        "AddedTimestamp": 1787593843.8976247,
         "MatchedTags": [
             "resource management"
         ]
@@ -157680,6 +157680,56 @@
         "MatchedTags": [
             "resource management",
             "management"
+        ]
+    },
+    "3997770": {
+        "Title": "Battle Runes of Metalaria",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3997770/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3997770/3e9e86f3d5b4a22a12371442071650118dee0362/header.jpg?t=1787593193",
+        "Date": "Sep 6, 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787593715.742939,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
+        ]
+    },
+    "5132250": {
+        "Title": "1200 BC",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5132250/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5132250/86bde48316a920db8e93ce671a113e35daa14652/header.jpg?t=1787591681",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787593849.175268,
+        "MatchedTags": [
+            "colony sim",
+            "city builder",
+            "management",
+            "economy",
+            "base building",
+            "resource management"
+        ]
+    },
+    "5135920": {
+        "Title": "The Last Stash",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5135920/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5135920/ee49d09c4cf512b2372ffd14e0afabf964253226/header.jpg?t=1787590756",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787593854.8821392,
+        "MatchedTags": [
+            "management",
+            "resource management",
+            "economy"
         ]
     }
 }
