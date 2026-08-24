@@ -65226,7 +65226,7 @@
     "2248300": {
         "Title": "Concrete Abyss",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/Cge2vXSkDr",
         "URL": "https://store.steampowered.com/app/2248300/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2248300/479a2b754b761202745fdfface507e5827a474c2/header.jpg?t=1779818608",
@@ -77077,7 +77077,7 @@
     "4774420": {
         "Title": "Recursion: Alignment",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/cH3bRzyCtA",
         "URL": "https://store.steampowered.com/app/4774420/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4774420/12e35e1c77391d23aa8a8a2eeed28636cece4bd6/header.jpg?t=1780808774",
@@ -101798,9 +101798,9 @@
         "URL": "https://store.steampowered.com/app/4912540/",
         "Site": "https://www.facebook.com/profile.php?id=100066795213149",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4912540/e3c7be910cfeab4607af7db69d017ded791f543d/header.jpg?t=1783135839",
-        "Date": "September 2026",
-        "AddedDate": "2026-07-04",
-        "AddedTimestamp": 1783138034.6573348,
+        "Date": "Sep 2, 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787550964.2596557,
         "MatchedTags": [
             "strategy",
             "city builder",
@@ -103267,9 +103267,8 @@
         "MatchedTags": [
             "colony sim",
             "base building",
-            "city builder",
-            "strategy",
-            "resource management"
+            "resource management",
+            "strategy"
         ]
     },
     "3093740": {
@@ -110757,7 +110756,7 @@
     "4827960": {
         "Title": "BLACK WALLS",
         "Email": "contact@magicvangames.com",
-        "Discord": "",
+        "Discord": "https://discord.gg/gwJEYQJsx",
         "URL": "https://store.steampowered.com/app/4827960/",
         "Site": "https://www.magicvangames.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4827960/15887174491b14bb37182f6cff5d07aa32f54405/header.jpg?t=1784079593",
@@ -134712,9 +134711,9 @@
         "URL": "https://store.steampowered.com/app/4579760/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4579760/7b6b16683315be190704d710714debcc38f9c5e6/header.jpg?t=1786104184",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-07",
-        "AddedTimestamp": 1786110121.6605747,
+        "Date": "September 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787550927.6437263,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -147234,9 +147233,9 @@
         "URL": "https://store.steampowered.com/app/5069370/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5069370/7f51bcc916172970d93d1848b66f01bfef100452/header.jpg?t=1787022616",
-        "Date": "TBA",
-        "AddedDate": "2026-08-18",
-        "AddedTimestamp": 1787022719.5796175,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787550991.9787252,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -157085,6 +157084,20 @@
             "turn-based strategy",
             "strategy",
             "management"
+        ]
+    },
+    "3967150": {
+        "Title": "BrinkBreakers",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3967150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3967150/0c69dad2e4cd5d000f84bb972f5ae1cd783d5420/header.jpg?t=1787547850",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787550918.8286452,
+        "MatchedTags": [
+            "turn-based strategy"
         ]
     }
 }
