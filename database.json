@@ -33143,9 +33143,9 @@
         "URL": "https://store.steampowered.com/app/4490150/",
         "Site": "https://noranagaleash.wixsite.com/roaring-sheep-studio/blank-3",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4490150/307e86c99b56de9e184695d4e3c5283b3865bca4/header.jpg?t=1776369194",
-        "Date": "Coming soon",
+        "Date": "Aug 24, 2026",
         "AddedDate": "2026-08-24",
-        "AddedTimestamp": 1787590670.6063805,
+        "AddedTimestamp": 1787604625.814973,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -137298,9 +137298,9 @@
         "URL": "https://store.steampowered.com/app/5026670/",
         "Site": "https://no-one-pray-in-ovruch.netlify.app/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5026670/5f77d3134d4878d2265ef095911bc685e12559e2/header.jpg?t=1786406647",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-08-12",
-        "AddedTimestamp": 1786503032.2857032,
+        "Date": "Aug 24, 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787604693.7319536,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -138563,9 +138563,9 @@
         "AddedDate": "2026-08-23",
         "AddedTimestamp": 1787460886.570832,
         "MatchedTags": [
-            "strategy",
             "turn-based combat",
-            "turn-based strategy"
+            "turn-based strategy",
+            "strategy"
         ]
     },
     "4306020": {
@@ -140275,9 +140275,9 @@
         "URL": "https://store.steampowered.com/app/4958080/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4958080/94dbd8770d2b0e30ba897a754904a9e842186092/header.jpg?t=1786594477",
-        "Date": "Aug 27, 2026",
-        "AddedDate": "2026-08-13",
-        "AddedTimestamp": 1786597793.2568083,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787604677.961578,
         "MatchedTags": [
             "strategy"
         ]
@@ -145935,8 +145935,8 @@
         "AddedTimestamp": 1787231647.728712,
         "MatchedTags": [
             "strategy",
-            "management",
-            "resource management"
+            "resource management",
+            "management"
         ]
     },
     "4993240": {
@@ -157922,6 +157922,86 @@
         "MatchedTags": [
             "horror",
             "survival horror"
+        ]
+    },
+    "3453430": {
+        "Title": "Rush Your Band",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3453430/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3453430/c2c1cb1ce84bf0778123ea2463b593114ff46191/header.jpg?t=1787604217",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787604618.545665,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4908980": {
+        "Title": "Aethercrypt",
+        "Email": "",
+        "Discord": "https://discord.gg/EYX66QqAx4",
+        "URL": "https://store.steampowered.com/app/4908980/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4908980/df88842d386805aa827bf14541cd84705b6c1e65/header.jpg?t=1787601923",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787604668.5104625,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "turn-based combat"
+        ]
+    },
+    "4992870": {
+        "Title": "Defeat the Boss",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4992870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4992870/b6e72e79ace0aec48f219f29e9148fb8db2b4c79/header.jpg?t=1787601752",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787604685.4577656,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management",
+            "tactical"
+        ]
+    },
+    "5082050": {
+        "Title": "Ghostward",
+        "Email": "mahandastudios64@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5082050/",
+        "Site": "https://www.64mahandastudios.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5082050/ed5c93de39e739545e1cc4be911047f5bb3eabf2/header.jpg?t=1787604072",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787604710.1220083,
+        "MatchedTags": [
+            "strategy",
+            "horror",
+            "tactical",
+            "survival horror"
+        ]
+    },
+    "5104770": {
+        "Title": "Death Bag",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5104770/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5104770/c078e9bbbfc10b9db6227c644efa772fa6fefa79/header.jpg?t=1787602438",
+        "Date": "Oct 28, 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787604716.785092,
+        "MatchedTags": [
+            "strategy",
+            "horror"
         ]
     }
 }
