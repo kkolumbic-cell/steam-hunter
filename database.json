@@ -78326,9 +78326,9 @@
         "URL": "https://store.steampowered.com/app/4804380/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4804380/4977224894041430297ca9410fea3f4f92c289c0/header.jpg?t=1780943337",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-08",
-        "AddedTimestamp": 1780947665.1927707,
+        "Date": "Aug 24, 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787607973.575358,
         "MatchedTags": [
             "strategy",
             "grand strategy",
@@ -103986,9 +103986,9 @@
         "URL": "https://store.steampowered.com/app/4894100/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4894100/680cd377c0a18cd94280e512f9507f15894cc6a6/header.jpg?t=1783448027",
-        "Date": "Sep 9, 2026",
-        "AddedDate": "2026-07-08",
-        "AddedTimestamp": 1783543209.3578818,
+        "Date": "Sep 16, 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787607987.0937657,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -122990,9 +122990,9 @@
         "URL": "https://store.steampowered.com/app/4892010/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4892010/b376894eb88c95e07aed81590866ada9c35d863d/header.jpg?t=1785182011",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-27",
-        "AddedTimestamp": 1785185161.6908276,
+        "Date": "August 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787607984.2670748,
         "MatchedTags": [
             "strategy",
             "economy"
@@ -132536,7 +132536,7 @@
     "4770790": {
         "Title": "Orbital Margins",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/5XNJ99Ghkn",
         "URL": "https://store.steampowered.com/app/4770790/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4770790/c2122b7412a4980e3665b2559e5c14fb03096188/header.jpg?t=1785952236",
@@ -132582,9 +132582,9 @@
         "URL": "https://store.steampowered.com/app/4994180/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4994180/82a1178e32a50399f8cb954fee95cd7d08063550/header.jpg?t=1785949263",
-        "Date": "TBA",
-        "AddedDate": "2026-08-05",
-        "AddedTimestamp": 1785952694.3715808,
+        "Date": "To be announced",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787608022.4760814,
         "MatchedTags": [
             "economy",
             "management",
@@ -158002,6 +158002,65 @@
         "MatchedTags": [
             "strategy",
             "horror"
+        ]
+    },
+    "4716880": {
+        "Title": "Balingo",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4716880/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4716880/823f4fd6aff5ea6b08990ce6b360a0b7b8722eb8/header.jpg?t=1787605923",
+        "Date": "TBA",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787607961.115173,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "5023250": {
+        "Title": "The Mannequin Forest",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5023250/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5023250/45bf37e1d715b9dea131c53d754f4167d32905a7/header.jpg?t=1787607891",
+        "Date": "October 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787608027.1460845,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5036970": {
+        "Title": "AFKTower",
+        "Email": "",
+        "Discord": "https://discord.gg/hMjgjBqagQ",
+        "URL": "https://store.steampowered.com/app/5036970/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5036970/bc45e67abf043addfead4a0c4b5eee29cc6f1526/header.jpg?t=1787605662",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787608035.5132082,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5109570": {
+        "Title": "The Hairy Man",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5109570/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109570/d7756e77b0c8b714455316412ef33cea99a99da0/header.jpg?t=1787606331",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787608062.1040602,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
         ]
     }
 }
