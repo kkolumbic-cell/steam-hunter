@@ -88502,9 +88502,9 @@
         "URL": "https://store.steampowered.com/app/4797110/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4797110/8ca467d94bab6f5f4aec5c1fee72969ef16ce7b1/header.jpg?t=1781757193",
-        "Date": "October 2026",
-        "AddedDate": "2026-08-23",
-        "AddedTimestamp": 1787511109.3733037,
+        "Date": "Oct 30, 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787541528.5329738,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -113228,9 +113228,9 @@
         "URL": "https://store.steampowered.com/app/4938410/",
         "Site": "https://www.puzala.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4938410/140d69b0c12a7f7254f89d71a34d6c36b70e439a/header.jpg?t=1784257472",
-        "Date": "Sep 14, 2026",
-        "AddedDate": "2026-08-18",
-        "AddedTimestamp": 1787043403.946487,
+        "Date": "Aug 23, 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787541564.6202526,
         "MatchedTags": [
             "strategy"
         ]
@@ -116992,10 +116992,11 @@
         "AddedDate": "2026-08-16",
         "AddedTimestamp": 1786853071.9987862,
         "MatchedTags": [
-            "strategy",
-            "turn-based strategy",
             "turn-based tactics",
-            "management",
+            "tactical rpg",
+            "psychological horror",
+            "turn-based strategy",
+            "strategy",
             "resource management"
         ]
     },
@@ -152117,9 +152118,9 @@
         "URL": "https://store.steampowered.com/app/4764080/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4764080/9e264c60f1a6b91d1928c87d3c0e1ab91c71c115/header.jpg?t=1787227941",
-        "Date": "September 2026",
-        "AddedDate": "2026-08-20",
-        "AddedTimestamp": 1787231623.1795676,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787541524.205914,
         "MatchedTags": [
             "horror"
         ]
@@ -156943,6 +156944,84 @@
             "survival horror",
             "psychological horror",
             "horror"
+        ]
+    },
+    "4924120": {
+        "Title": "bet you won't",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4924120/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4924120/64df9dc4cf1e732945727ffdc9e880c166d8ec6f/header.jpg?t=1787538179",
+        "Date": "TBA",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787541553.6131868,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "5051130": {
+        "Title": "Neon Horde",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5051130/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5051130/a536795561240efc2489867c56adb4c001f1ea24/header.jpg?t=1787539761",
+        "Date": "Nov 10, 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787541602.4586194,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5061380": {
+        "Title": "New Dawn Protocol",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5061380/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5061380/8ff999614363bbe1fdbb98d5ff09bcff0da5f899/header.jpg?t=1787538454",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787541605.3602343,
+        "MatchedTags": [
+            "colony sim",
+            "economy",
+            "strategy",
+            "management",
+            "base building",
+            "resource management"
+        ]
+    },
+    "5064300": {
+        "Title": "Wuxia Survivor: Return",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5064300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5064300/99ca421e49c5ee2bb0f4afc447c39781c51118fb/header.jpg?t=1787537199",
+        "Date": "Oct 21, 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787541607.4576437,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5126350": {
+        "Title": "Listening Post: Typing Tower Defense",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5126350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5126350/62e2ff2d186bb305ce022149c23df32baf22545f/header.jpg?t=1787539498",
+        "Date": "November 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787541636.6121252,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "resource management"
         ]
     }
 }
