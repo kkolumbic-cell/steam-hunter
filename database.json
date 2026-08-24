@@ -106074,9 +106074,9 @@
         "URL": "https://store.steampowered.com/app/4873200/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4873200/36f35ebaee0cae6aa58f46cdd81dba10d6c934f2/header.jpg?t=1783590210",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-09",
-        "AddedTimestamp": 1783599547.4623716,
+        "Date": "Aug 28, 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787565965.108757,
         "MatchedTags": [
             "resource management",
             "economy"
@@ -137221,9 +137221,9 @@
         "URL": "https://store.steampowered.com/app/5000810/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5000810/32a2cf1cf08fdbf076eac514849d12c332713623/header.jpg?t=1786397376",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-08-12",
-        "AddedTimestamp": 1786563041.4636872,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787565987.4193482,
         "MatchedTags": [
             "management",
             "economy"
@@ -156891,7 +156891,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4873650/",
-        "Site": "",
+        "Site": "https://www.incineratorinc.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4873650/8f5a88583d8abf3292af551ca70381d53ccd833c/header.jpg?t=1787527582",
         "Date": "Coming soon",
         "AddedDate": "2026-08-23",
@@ -157261,6 +157261,68 @@
         "AddedTimestamp": 1787562492.808717,
         "MatchedTags": [
             "tactical"
+        ]
+    },
+    "5049900": {
+        "Title": "\u661f\u6708\u5927\u9646\uff1a\u653e\u7f6e\u5e1d\u56fd",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5049900/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5049900/08b17a043d82ec983980c80f74efb1f70e751f06/header.jpg?t=1787562549",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787565995.329121,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "5076210": {
+        "Title": "Every Man for Himself and God Against All or, for a shorter name: TimeLeft",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5076210/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5076210/4ad36e79ae0d24c023007cdc0a2f234e9c03be7b/header.jpg?t=1787565240",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787566002.1341379,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "tactical"
+        ]
+    },
+    "5080490": {
+        "Title": "Mai Trang",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5080490/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5080490/ba5335e079e922c52a268f14af07fe5a0c74b95f/header.jpg?t=1787564643",
+        "Date": "August 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787566005.2502785,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "5115240": {
+        "Title": "STILLTRACE",
+        "Email": "",
+        "Discord": "https://discord.gg/Xcd3DBjFY",
+        "URL": "https://store.steampowered.com/app/5115240/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5115240/32250c02f934ee7f770aa04f237d6ec4fcbe229b/header.jpg?t=1787564678",
+        "Date": "Sep 15, 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787566016.392448,
+        "MatchedTags": [
+            "tower defense",
+            "tactical",
+            "resource management"
         ]
     }
 }
