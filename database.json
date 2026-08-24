@@ -17467,9 +17467,9 @@
         "URL": "https://store.steampowered.com/app/4277150/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4277150/a6fab391815d3f95320cda175c1651073a561b9d/header.jpg?t=1774773957",
-        "Date": "2026",
-        "AddedDate": "2026-03-29",
-        "AddedTimestamp": 1774774789.184089,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787568920.670819,
         "MatchedTags": [
             "strategy",
             "tactical",
@@ -68403,7 +68403,7 @@
     },
     "3199880": {
         "Title": "Airport Contraband: Prologue",
-        "Email": "info@drago-entertainment.com, polandinfo@drago-entertainment.com",
+        "Email": "polandinfo@drago-entertainment.com, info@drago-entertainment.com",
         "Discord": "https://discord.gg/dragoent",
         "URL": "https://store.steampowered.com/app/3199880/",
         "Site": "https://drago-entertainment.com/",
@@ -93373,9 +93373,9 @@
         "URL": "https://store.steampowered.com/app/4875270/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4875270/6261d0166e35a0ae490c6e25a84b41ac307de607/header.jpg?t=1782247179",
-        "Date": "Aug 9, 2026",
-        "AddedDate": "2026-07-17",
-        "AddedTimestamp": 1784288643.26564,
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787568943.150184,
         "MatchedTags": [
             "horror",
             "resource management",
@@ -109612,9 +109612,9 @@
         "URL": "https://store.steampowered.com/app/4876820/",
         "Site": "https://corsgames.com",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876820/7d51e6569f425d74171b5d625f9c495bdf9db977/header.jpg?t=1783987866",
-        "Date": "January 2027",
-        "AddedDate": "2026-07-25",
-        "AddedTimestamp": 1785017562.8841314,
+        "Date": "Jan 12, 2027",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787568946.4582877,
         "MatchedTags": [
             "economy",
             "management",
@@ -157323,6 +157323,51 @@
             "tower defense",
             "tactical",
             "resource management"
+        ]
+    },
+    "3250900": {
+        "Title": "Stack Epoch",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3250900/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3250900/ef98bef0da93b22ced618ee84e2a93590e1c7a1a/header.jpg?t=1787567667",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787568918.2434168,
+        "MatchedTags": [
+            "colony sim",
+            "management",
+            "resource management"
+        ]
+    },
+    "4907070": {
+        "Title": "S T A R E",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4907070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4907070/da21c4a29ba34ae4a72ef0c2fad9037643806824/header.jpg?t=1787566250",
+        "Date": "October 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787568952.4359474,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5117230": {
+        "Title": "Spell Death",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5117230/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5117230/9826772835711302726b8b7490f16ca9336d01d8/header.jpg?t=1787566755",
+        "Date": "November 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787568982.0317428,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
         ]
     }
 }
