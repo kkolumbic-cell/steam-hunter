@@ -9943,9 +9943,9 @@
         "URL": "https://store.steampowered.com/app/4485120/",
         "Site": "https://www.wobblegoat.com/games/nordfolk",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4485120/36f47fec9dab998a8da7fbcf3d3d1a8df53c1971/header.jpg?t=1773843843",
-        "Date": "Q1 2027",
-        "AddedDate": "2026-08-12",
-        "AddedTimestamp": 1786568729.8258944,
+        "Date": "March 2027",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787600834.6407778,
         "MatchedTags": [
             "strategy",
             "colony sim",
@@ -28166,9 +28166,9 @@
         "URL": "https://store.steampowered.com/app/4606970/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606970/fc080d9a0b3b3f632c43a5be5bcde7c9b03d104e/header.jpg?t=1775873816",
-        "Date": "Q2 2026",
-        "AddedDate": "2026-04-11",
-        "AddedTimestamp": 1775877796.560325,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787600837.1648135,
         "MatchedTags": [
             "strategy",
             "city builder",
@@ -117117,7 +117117,7 @@
         "Email": "",
         "Discord": "https://discord.gg/VMZD9B7M7w",
         "URL": "https://store.steampowered.com/app/1444990/",
-        "Site": "",
+        "Site": "https://praxion7.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1444990/f539709a87999a3061bba62933b7b9b574e10de0/header.jpg?t=1784650947",
         "Date": "Coming soon",
         "AddedDate": "2026-07-21",
@@ -146031,7 +146031,8 @@
         "AddedDate": "2026-08-17",
         "AddedTimestamp": 1786978121.3808029,
         "MatchedTags": [
-            "strategy"
+            "strategy",
+            "tactical"
         ]
     },
     "5020540": {
@@ -157874,6 +157875,53 @@
             "strategy",
             "turn-based strategy",
             "turn-based combat"
+        ]
+    },
+    "5036540": {
+        "Title": "HAS With Friends",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5036540/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5036540/d231e89d198e9e2012b8b90daf17ab0d9b104572/header.jpg?t=1787599197",
+        "Date": "Sep 28, 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787600888.9898486,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "tactical",
+            "management",
+            "turn-based tactics"
+        ]
+    },
+    "5074410": {
+        "Title": "MURABO",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5074410/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5074410/000ff6329202ca4541ae1310eb1777752a8d6c4d/header.jpg?t=1787599433",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787600894.3995595,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5131020": {
+        "Title": "Where's The Restroom?",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5131020/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5131020/581f0658f85e38dd0fb305c06b46b6bfe109ea77/header.jpg?t=1787600515",
+        "Date": "TBA",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787600913.7023518,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
         ]
     }
 }
