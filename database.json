@@ -64139,9 +64139,9 @@
         "URL": "https://store.steampowered.com/app/4423390/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4423390/f046592e11c455fcd76290ca3ba4092cdfe6d9cd/header.jpg?t=1779734672",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-05-25",
-        "AddedTimestamp": 1779739249.7381482,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787614716.3485422,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -137611,9 +137611,9 @@
         "URL": "https://store.steampowered.com/app/5041180/",
         "Site": "https://playultracode.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5041180/5c37305567ed842cd0a337aaf69dde0d9312f4e0/header.jpg?t=1786436419",
-        "Date": "TBA",
-        "AddedDate": "2026-08-11",
-        "AddedTimestamp": 1786439850.8290627,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787614778.709515,
         "MatchedTags": [
             "strategy",
             "base building",
@@ -158163,6 +158163,51 @@
             "turn-based strategy",
             "tactical rpg",
             "turn-based tactics"
+        ]
+    },
+    "4746990": {
+        "Title": "Rogue Trail",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4746990/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4746990/c7422c93c1c5d124db0389b102f8ab7dbddc2659/header.jpg?t=1787612591",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787614734.939432,
+        "MatchedTags": [
+            "management",
+            "resource management"
+        ]
+    },
+    "5091530": {
+        "Title": "OVERTHINKING",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5091530/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5091530/3e0f64b86eb5d201bdf7778ea58870c6fdcadc33/header.jpg?t=1787611659",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787614787.3552358,
+        "MatchedTags": [
+            "strategy",
+            "psychological horror"
+        ]
+    },
+    "5130890": {
+        "Title": "Parasomnia",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5130890/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5130890/4bf5914ca219a72db74637805ad754b11eb50db9/header.jpg?t=1787611666",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787614801.8387866,
+        "MatchedTags": [
+            "psychological horror",
+            "strategy"
         ]
     }
 }
