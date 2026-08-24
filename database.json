@@ -2413,9 +2413,9 @@
         "URL": "https://store.steampowered.com/app/4429290/",
         "Site": "https://TheIncentiveProgram.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4429290/34e76ceacd33b9a1718747ec2860a8d09b93a4c9/header.jpg?t=1772784578",
-        "Date": "November 2026",
-        "AddedDate": "2026-07-01",
-        "AddedTimestamp": 1782913333.6269069,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787571960.2968879,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -31750,9 +31750,9 @@
         "URL": "https://store.steampowered.com/app/4576270/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576270/c4395e3a7d657a59138cf1c0698cf6a880fcee35/header.jpg?t=1776278136",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-04-15",
-        "AddedTimestamp": 1776282338.684852,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787571970.5020936,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -49680,9 +49680,9 @@
         "URL": "https://store.steampowered.com/app/4694270/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4694270/a96a6efcd5b39531bd36b022227236eec345f1ea/header.jpg?t=1777911553",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-05-04",
-        "AddedTimestamp": 1777917364.8781989,
+        "Date": "Sep 21, 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787571980.4228783,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -52260,7 +52260,6 @@
         "AddedDate": "2026-05-06",
         "AddedTimestamp": 1778094286.8023212,
         "MatchedTags": [
-            "strategy",
             "turn-based combat"
         ]
     },
@@ -68403,7 +68402,7 @@
     },
     "3199880": {
         "Title": "Airport Contraband: Prologue",
-        "Email": "polandinfo@drago-entertainment.com, info@drago-entertainment.com",
+        "Email": "info@drago-entertainment.com, polandinfo@drago-entertainment.com",
         "Discord": "https://discord.gg/dragoent",
         "URL": "https://store.steampowered.com/app/3199880/",
         "Site": "https://drago-entertainment.com/",
@@ -111273,13 +111272,13 @@
         "URL": "https://store.steampowered.com/app/4755250/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4755250/bedcb6dd053deb34221ab4ea1f8c0b50255d74dc/header.jpg?t=1784124176",
-        "Date": "Oct 20, 2026",
-        "AddedDate": "2026-08-03",
-        "AddedTimestamp": 1785780592.339846,
+        "Date": "Oct 27, 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787571983.1353614,
         "MatchedTags": [
             "horror",
-            "psychological horror",
-            "survival horror"
+            "survival horror",
+            "psychological horror"
         ]
     },
     "4895070": {
@@ -153410,9 +153409,9 @@
     "4274410": {
         "Title": "ApocalypseHQ",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.com/invite/NyhbrNXMp",
         "URL": "https://store.steampowered.com/app/4274410/",
-        "Site": "",
+        "Site": "https://godwishgames.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4274410/4182069d98d50ded8505a34b2cc6339531e80df7/header.jpg?t=1787284531",
         "Date": "2027",
         "AddedDate": "2026-08-21",
@@ -157368,6 +157367,39 @@
         "MatchedTags": [
             "strategy",
             "turn-based combat"
+        ]
+    },
+    "5023810": {
+        "Title": "Revenance",
+        "Email": "",
+        "Discord": "https://discord.com/invite/77FqJbcddp",
+        "URL": "https://store.steampowered.com/app/5023810/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5023810/fa0e256cb2f7cb7e3e72d651bd121473d3de1d4b/header.jpg?t=1787571163",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787572003.5947194,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror",
+            "strategy"
+        ]
+    },
+    "5090830": {
+        "Title": "Game Dev Dynasty",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5090830/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5090830/c58b69a9616959688713d840e90b151dd2981d3f/header.jpg?t=1787568936",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787572016.905201,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "economy"
         ]
     }
 }
