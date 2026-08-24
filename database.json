@@ -40566,9 +40566,9 @@
         "URL": "https://store.steampowered.com/app/4628680/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4628680/d3dc476e92172d085620cc091f1cc1ead6ef4c0e/header.jpg?t=1777037960",
-        "Date": "TBA",
-        "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1777039914.7288797,
+        "Date": "To be announced",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787577352.5968394,
         "MatchedTags": [
             "horror"
         ]
@@ -68402,7 +68402,7 @@
     },
     "3199880": {
         "Title": "Airport Contraband: Prologue",
-        "Email": "info@drago-entertainment.com, polandinfo@drago-entertainment.com",
+        "Email": "polandinfo@drago-entertainment.com, info@drago-entertainment.com",
         "Discord": "https://discord.gg/dragoent",
         "URL": "https://store.steampowered.com/app/3199880/",
         "Site": "https://drago-entertainment.com/",
@@ -110719,9 +110719,9 @@
         "URL": "https://store.steampowered.com/app/4927540/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4927540/f407e31b5748fe09244bfccfd73ab5f0fe9dacca/header.jpg?t=1784072901",
-        "Date": "December 2026",
-        "AddedDate": "2026-07-15",
-        "AddedTimestamp": 1784074112.4159832,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787577394.5316882,
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
@@ -142496,9 +142496,9 @@
         "URL": "https://store.steampowered.com/app/5058230/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5058230/273dcef036e33818a468fa2fbb0b0304168d1e43/header.jpg?t=1786718700",
-        "Date": "TBA",
-        "AddedDate": "2026-08-14",
-        "AddedTimestamp": 1786720319.8801193,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787577443.4322746,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -145049,8 +145049,8 @@
         "AddedDate": "2026-08-16",
         "AddedTimestamp": 1786901783.8131616,
         "MatchedTags": [
-            "horror",
-            "psychological horror"
+            "psychological horror",
+            "horror"
         ]
     },
     "5018670": {
@@ -157400,6 +157400,86 @@
             "strategy",
             "management",
             "economy"
+        ]
+    },
+    "4367660": {
+        "Title": "Sacred Land",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4367660/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4367660/d886cc2744152d71cd505d40495f8678c8429a19/header.jpg?t=1787575733",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787577338.8724258,
+        "MatchedTags": [
+            "tactical",
+            "turn-based tactics",
+            "tower defense"
+        ]
+    },
+    "4882590": {
+        "Title": "Dino Roars",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4882590/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4882590/d7753aeab8d60303432a30f81be4b397a2ba7ddd/header.jpg?t=1787575403",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787577388.8878412,
+        "MatchedTags": [
+            "resource management",
+            "base building",
+            "survival horror"
+        ]
+    },
+    "4931290": {
+        "Title": "Cargo Rush Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4931290/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931290/cb67c150b2755de48459dc1085a7646cc02282ec/header.jpg?t=1787576769",
+        "Date": "TBA",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787577399.870477,
+        "MatchedTags": [
+            "management",
+            "strategy",
+            "economy",
+            "resource management"
+        ]
+    },
+    "5048870": {
+        "Title": "Scopa Sweep",
+        "Email": "info@staticfiregames.com",
+        "Discord": "https://discord.gg/AYpEgYTuPy",
+        "URL": "https://store.steampowered.com/app/5048870/",
+        "Site": "https://www.staticfiregames.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5048870/0393497dd0ea87330eccd0212a39e008655531f4/header.jpg?t=1787573784",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787577439.392725,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5072640": {
+        "Title": "Fab.exe",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5072640/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5072640/7bfdc047d950c1cc5623cdbce8a40e595c6ee3ed/header.jpg?t=1787571949",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-24",
+        "AddedTimestamp": 1787577452.6591623,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "base building",
+            "resource management"
         ]
     }
 }
