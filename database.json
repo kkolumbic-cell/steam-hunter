@@ -38943,9 +38943,9 @@
         "URL": "https://store.steampowered.com/app/4046370/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4046370/d8791e85157bac43cc73086e1aba58d63adde31d/header.jpg?t=1776938356",
-        "Date": "Coming soon",
+        "Date": "Aug 25, 2026",
         "AddedDate": "2026-08-25",
-        "AddedTimestamp": 1787636996.5204275,
+        "AddedTimestamp": 1787648537.1978133,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -76843,9 +76843,9 @@
         "URL": "https://store.steampowered.com/app/4308420/",
         "Site": "https://arizona-sunshine.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4308420/efdd952517dca2bbe84428c381d023ce71cc3c1d/header.jpg?t=1780773077",
-        "Date": "2026",
-        "AddedDate": "2026-06-06",
-        "AddedTimestamp": 1780778186.563241,
+        "Date": "2027",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787648545.843076,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -133949,7 +133949,7 @@
     "4914650": {
         "Title": "Crownfront",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/wNjfSyJZv7",
         "URL": "https://store.steampowered.com/app/4914650/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4914650/678a6461a00cb981a50e6ba8d05116e51f3a42a4/header.jpg?t=1786049147",
@@ -137629,9 +137629,9 @@
         "URL": "https://store.steampowered.com/app/5054010/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5054010/3a84fe9ad23b61478ecb69d044a50453c3671de0/header.jpg?t=1786438404",
-        "Date": "Aug 26, 2026",
-        "AddedDate": "2026-08-21",
-        "AddedTimestamp": 1787352293.5646784,
+        "Date": "Aug 25, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787648628.9407024,
         "MatchedTags": [
             "tactical"
         ]
@@ -138276,9 +138276,9 @@
         "URL": "https://store.steampowered.com/app/5038730/",
         "Site": "https://zhdabiao.github.io/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5038730/262dce5b287983f88b566a4f542292b0dbc374b1/header.jpg?t=1786469248",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-11",
-        "AddedTimestamp": 1786471930.338037,
+        "Date": "Aug 25, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787648626.7980852,
         "MatchedTags": [
             "strategy",
             "economy"
@@ -145285,7 +145285,7 @@
     "4602770": {
         "Title": "Tower of Genn",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/vXs2PFj6UD",
         "URL": "https://store.steampowered.com/app/4602770/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4602770/1f80ffabe22ef96721c9218117811643c6b69cc9/header.jpg?t=1786944067",
@@ -149799,8 +149799,8 @@
         "AddedDate": "2026-08-19",
         "AddedTimestamp": 1787129901.8193355,
         "MatchedTags": [
-            "horror",
-            "psychological horror"
+            "psychological horror",
+            "horror"
         ]
     },
     "5001590": {
@@ -158012,9 +158012,9 @@
         "URL": "https://store.steampowered.com/app/4716880/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4716880/823f4fd6aff5ea6b08990ce6b360a0b7b8722eb8/header.jpg?t=1787605923",
-        "Date": "TBA",
-        "AddedDate": "2026-08-24",
-        "AddedTimestamp": 1787607961.115173,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787648579.24432,
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
@@ -158942,6 +158942,67 @@
             "strategy",
             "tower defense",
             "tactical"
+        ]
+    },
+    "4886440": {
+        "Title": "Shoot the Shit",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4886440/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886440/6306ebc09652a66a746a3b2e83348515320d20f5/header.jpg?t=1787646974",
+        "Date": "TBA",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787648597.466087,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "turn-based tactics"
+        ]
+    },
+    "5094510": {
+        "Title": "Deliwhere?",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5094510/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094510/c2d8788f429eb01c72969dd3cc4eab964532540f/header.jpg?t=1787646241",
+        "Date": "TBA",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787648637.4044323,
+        "MatchedTags": [
+            "resource management",
+            "tactical"
+        ]
+    },
+    "5128320": {
+        "Title": "THE BUTCHER WARD",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5128320/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5128320/dd5de67ea5d613201fb31371d91548dcb86f538c/header.jpg?t=1787646439",
+        "Date": "November 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787648645.4976664,
+        "MatchedTags": [
+            "horror",
+            "resource management"
+        ]
+    },
+    "5137440": {
+        "Title": "TimeKov",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5137440/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5137440/e611d8c0d7c05fd0da8cb8ed8dc8ef44b0e9e098/header.jpg?t=1787647828",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787648653.6674173,
+        "MatchedTags": [
+            "management",
+            "base building"
         ]
     }
 }
