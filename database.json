@@ -59151,9 +59151,9 @@
         "URL": "https://store.steampowered.com/app/4637990/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4637990/ba3d733ad55dd0ca57dab30a3885358597f253ed/header.jpg?t=1778875392",
-        "Date": "2026",
-        "AddedDate": "2026-05-15",
-        "AddedTimestamp": 1778877404.3664212,
+        "Date": "Dec 11, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787627674.2193666,
         "MatchedTags": [
             "management"
         ]
@@ -138246,9 +138246,9 @@
         "URL": "https://store.steampowered.com/app/4906820/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4906820/5231f389e2e32ef9ae0ad545db923d7a801060e5/header.jpg?t=1786470880",
-        "Date": "Aug 25, 2026",
-        "AddedDate": "2026-08-22",
-        "AddedTimestamp": 1787398658.5302458,
+        "Date": "August 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787627695.4531405,
         "MatchedTags": [
             "strategy"
         ]
@@ -144725,9 +144725,9 @@
         "URL": "https://store.steampowered.com/app/5086810/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5086810/fd6bac00a84c92e421bc449387f76ae527ac4b23/header.jpg?t=1786848041",
-        "Date": "Aug 26, 2026",
-        "AddedDate": "2026-08-16",
-        "AddedTimestamp": 1786850172.068444,
+        "Date": "August 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787627746.4721677,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -158389,6 +158389,141 @@
         "AddedTimestamp": 1787623006.4563274,
         "MatchedTags": [
             "tactical"
+        ]
+    },
+    "4766190": {
+        "Title": "Cannabis Clicker",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4766190/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4766190/24a41083f678f4fa6242ca84f1f919b18daa2dcc/header.jpg?t=1787625444",
+        "Date": "Sep 9, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787627679.9140093,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "4989970": {
+        "Title": "Domignomes",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4989970/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4989970/331a589155d090256ee78b7ed0a071222de1cfca/header.jpg?t=1787623153",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787627704.844318,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5040400": {
+        "Title": "Road to Millionaire \u2013 Investing",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5040400/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5040400/05048ac7623bac40d82a9a47b2f695d52f6029d4/header.jpg?t=1787625327",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787627724.4842196,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "5056840": {
+        "Title": "Toybox Tactics",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5056840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5056840/6d82973993d61f80fd9cf9ff7ba2480fbce90faa/header.jpg?t=1787624512",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787627733.276231,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "real time tactics",
+            "tactical"
+        ]
+    },
+    "5068890": {
+        "Title": "\u4ece\u524d\u6709\u5ea7\u5c71",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5068890/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5068890/59083575015fd924e20b20ed70b14c0f86d23f3a/header.jpg?t=1787626909",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787627736.2496173,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "5124760": {
+        "Title": "August Star",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5124760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5124760/efe0db7f2bdf073a1f57517ac570e23059a6bff1/header.jpg?t=1787624941",
+        "Date": "Sep 9, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787627773.3813243,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5127030": {
+        "Title": "Audionaut",
+        "Email": "",
+        "Discord": "https://discord.gg/XAgX8muMDd",
+        "URL": "https://store.steampowered.com/app/5127030/",
+        "Site": "https://art.thief.games",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5127030/a20c8c2bf1f53eb383d6c2ce0293f59290af3979/header.jpg?t=1787627036",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787627775.6658082,
+        "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "5133790": {
+        "Title": "CatstaC",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5133790/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5133790/e644983eec2e3550854a28a730f75aadacd1e862/header.jpg?t=1787626637",
+        "Date": "TBA",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787627781.778077,
+        "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "5142170": {
+        "Title": "VHS Chaos",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5142170/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5142170/5a96a2260963dd00153cdc3e9b39e11ef3022bd2/header.jpg?t=1787623982",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787627786.175429,
+        "MatchedTags": [
+            "resource management"
         ]
     }
 }
