@@ -35805,9 +35805,9 @@
         "URL": "https://store.steampowered.com/app/4625300/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4625300/ab7411c9bfcb5b0499c2f14f62eeb4b9e14efdab/header.jpg?t=1776712509",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-04-22",
-        "AddedTimestamp": 1776867193.0712504,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787651608.6163719,
         "MatchedTags": [
             "resource management",
             "base building"
@@ -44007,14 +44007,14 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4508110/",
-        "Site": "",
+        "Site": "https://cyberlifestudios.fr",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4508110/a12d8aa9e5683ab984d5478a74ac203bec979705/header.jpg?t=1777367200",
         "Date": "Coming soon",
         "AddedDate": "2026-04-28",
         "AddedTimestamp": 1777368985.625778,
         "MatchedTags": [
-            "real time tactics",
-            "strategy"
+            "strategy",
+            "resource management"
         ]
     },
     "4576430": {
@@ -80755,9 +80755,9 @@
         "URL": "https://store.steampowered.com/app/4819820/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4819820/5909efb8f8f3bdf977d883f86b7c4372c8bc1a88/header.jpg?t=1781114586",
-        "Date": "August 2026",
-        "AddedDate": "2026-06-10",
-        "AddedTimestamp": 1781115331.7501884,
+        "Date": "Aug 28, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787651628.7616851,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -97191,10 +97191,10 @@
         "AddedDate": "2026-07-15",
         "AddedTimestamp": 1784116340.2667792,
         "MatchedTags": [
-            "strategy",
+            "economy",
             "management",
-            "resource management",
-            "economy"
+            "strategy",
+            "resource management"
         ]
     },
     "4884440": {
@@ -126819,9 +126819,9 @@
         "URL": "https://store.steampowered.com/app/3652670/",
         "Site": "https://internationaltradingleague.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3652670/cc44a748b005d4970b32136687e33a0659730398/header.jpg?t=1785468979",
-        "Date": "Aug 10, 2026",
-        "AddedDate": "2026-07-31",
-        "AddedTimestamp": 1785473043.498359,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787651583.5581217,
         "MatchedTags": [
             "city builder",
             "management"
@@ -137841,9 +137841,9 @@
         "URL": "https://store.steampowered.com/app/4804130/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4804130/8a695231e4d11a833c58afda5bd86b71fc5b3d0d/header.jpg?t=1786450286",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-11",
-        "AddedTimestamp": 1786455983.2745993,
+        "Date": "Aug 25, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787651625.6103015,
         "MatchedTags": [
             "horror"
         ]
@@ -154671,12 +154671,12 @@
         "URL": "https://store.steampowered.com/app/5058740/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5058740/c7d3539f95c56ca78700fc8c823d6d31975e53ec/header.jpg?t=1787336177",
-        "Date": "Aug 28, 2026",
-        "AddedDate": "2026-08-21",
-        "AddedTimestamp": 1787338821.8475218,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787651685.585796,
         "MatchedTags": [
-            "resource management",
             "economy",
+            "resource management",
             "management"
         ]
     },
@@ -156691,9 +156691,9 @@
     "5117520": {
         "Title": "Dude, Trust Me",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/A5MYdE9BXJ",
         "URL": "https://store.steampowered.com/app/5117520/",
-        "Site": "",
+        "Site": "https://dudetrustmegame.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5117520/ac30c83e7ea38ce5a96e7342155382ae8594ca41/header.jpg?t=1787514887",
         "Date": "November 2026",
         "AddedDate": "2026-08-23",
@@ -159003,6 +159003,77 @@
         "MatchedTags": [
             "management",
             "base building"
+        ]
+    },
+    "4005930": {
+        "Title": "Guard of Rho",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4005930/",
+        "Site": "https://guardofrho.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4005930/de716a542a064d2fa790551e12b85a3bb605fc21/header.jpg?t=1787651082",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787651589.304924,
+        "MatchedTags": [
+            "grand strategy",
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4957250": {
+        "Title": "Rad New World",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4957250/",
+        "Site": "https://88mmgames.wixsite.com/welcome",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4957250/aa32116863f65701a1cba112842ac36ebe528672/header.jpg?t=1787650868",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787651649.528869,
+        "MatchedTags": [
+            "strategy",
+            "tactical rpg",
+            "turn-based combat",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "5125290": {
+        "Title": "Not Ready for Service",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5125290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5125290/f07611e459c5001affc3e4989b9649044ee887ae/header.jpg?t=1787648665",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787651706.9701195,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "turn-based combat",
+            "tactical"
+        ]
+    },
+    "5132680": {
+        "Title": "Dominions of War",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5132680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5132680/d7f28724c41c5ed4c6077ffeceadda2e3ece2680/header.jpg?t=1787651568",
+        "Date": "TBA",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787651711.7704825,
+        "MatchedTags": [
+            "strategy",
+            "grand strategy",
+            "real time tactics",
+            "tactical rpg",
+            "economy",
+            "tactical"
         ]
     }
 }
