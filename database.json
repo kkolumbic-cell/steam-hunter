@@ -117194,10 +117194,10 @@
     },
     "4923090": {
         "Title": "Rent Due",
-        "Email": "",
+        "Email": "contact@dynyxinteractive.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4923090/",
-        "Site": "",
+        "Site": "https://dynyxinteractive.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4923090/39dffe76c9a9759243dca119dbf2215f6e071d2f/header.jpg?t=1784644523",
         "Date": "Aug 4, 2026",
         "AddedDate": "2026-07-22",
@@ -160023,6 +160023,40 @@
         "AddedTimestamp": 1787687666.5085053,
         "MatchedTags": [
             "strategy",
+            "colony sim"
+        ]
+    },
+    "4921760": {
+        "Title": "Heroes Of Might And Magic III",
+        "Email": "",
+        "Discord": "https://discord.gg/GH9WuADJE",
+        "URL": "https://store.steampowered.com/app/4921760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4921760/54b7d427668c3d073853251d990ec3d6c195171d/header.jpg?t=1787687741",
+        "Date": "Aug 25, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787691056.8565333,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "5067050": {
+        "Title": "Capital City",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5067050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5067050/d99d3c0d38e912ac79a8c5c9d0bf8c7b424ef319/header.jpg?t=1787689235",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787691083.679852,
+        "MatchedTags": [
+            "city builder",
+            "economy",
+            "strategy",
+            "resource management",
+            "management",
             "colony sim"
         ]
     }
