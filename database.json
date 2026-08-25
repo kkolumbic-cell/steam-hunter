@@ -65172,9 +65172,9 @@
         "URL": "https://store.steampowered.com/app/4761550/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4761550/ec85b30f4616bf99f79e61ccc07c8b6813e7a236/header.jpg?t=1779813735",
-        "Date": "Sep 15, 2026",
-        "AddedDate": "2026-08-12",
-        "AddedTimestamp": 1786524145.586368,
+        "Date": "Sep 23, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787698077.4980009,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -82263,10 +82263,9 @@
         "AddedDate": "2026-08-25",
         "AddedTimestamp": 1787680095.968696,
         "MatchedTags": [
-            "base building",
-            "resource management",
             "management",
-            "strategy"
+            "strategy",
+            "resource management"
         ]
     },
     "4761790": {
@@ -89368,9 +89367,9 @@
         "URL": "https://store.steampowered.com/app/4690110/",
         "Site": "https://www.galactummeridian.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4690110/65fd779c5353e5bea1507c69ba69e0f6c7b33fae/header.jpg?t=1781820349",
-        "Date": "2026",
-        "AddedDate": "2026-06-18",
-        "AddedTimestamp": 1781824214.1303258,
+        "Date": "Sep 1, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787698073.4292655,
         "MatchedTags": [
             "strategy",
             "grand strategy",
@@ -101445,9 +101444,9 @@
         "URL": "https://store.steampowered.com/app/4890980/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4890980/2b775d4a0c56525fc58bd63e78340c766f41a390/header.jpg?t=1783101680",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-03",
-        "AddedTimestamp": 1783108426.0733159,
+        "Date": "Aug 25, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787698085.93385,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -113851,9 +113850,9 @@
         "URL": "https://store.steampowered.com/app/4931860/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4931860/c199259e70b2450a590421a217cbe2293c95c6b4/header.jpg?t=1784315175",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-07-17",
-        "AddedTimestamp": 1784317014.8933916,
+        "Date": "Aug 25, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787698087.942897,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -138597,9 +138596,9 @@
         "URL": "https://store.steampowered.com/app/4989020/",
         "Site": "https://digitable.life/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4989020/52533a01404cad8d9c742ccf890c0eefceb6e2d4/header.jpg?t=1786492509",
-        "Date": "Aug 28, 2026",
-        "AddedDate": "2026-08-12",
-        "AddedTimestamp": 1786492926.2252753,
+        "Date": "Aug 25, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787698099.2627666,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -155416,9 +155415,9 @@
         "URL": "https://store.steampowered.com/app/5078600/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5078600/8f68e4a10cc10856d0026078dd6e754ffea0c611/header.jpg?t=1787391180",
-        "Date": "2026",
-        "AddedDate": "2026-08-22",
-        "AddedTimestamp": 1787391893.310468,
+        "Date": "Sep 5, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787698110.573832,
         "MatchedTags": [
             "strategy",
             "grand strategy",
@@ -160269,6 +160268,36 @@
         "MatchedTags": [
             "psychological horror",
             "survival horror",
+            "strategy"
+        ]
+    },
+    "5134430": {
+        "Title": "Heist to Meet You",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5134430/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5134430/9e99cb35579a0e719138543890f98eaa4579d9f4/header.jpg?t=1787695296",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787698119.0890808,
+        "MatchedTags": [
+            "strategy",
+            "economy"
+        ]
+    },
+    "5142970": {
+        "Title": "Tower of Annihilation: Welcome to Hell",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5142970/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5142970/2d2b59ac6d527459ba02e222266ccca73bd4084f/header.jpg?t=1787696395",
+        "Date": "Mar 9, 2027",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787698125.5363383,
+        "MatchedTags": [
+            "tactical rpg",
             "strategy"
         ]
     }
