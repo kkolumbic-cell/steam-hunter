@@ -68403,7 +68403,7 @@
     },
     "3199880": {
         "Title": "Airport Contraband: Prologue",
-        "Email": "info@drago-entertainment.com, polandinfo@drago-entertainment.com",
+        "Email": "polandinfo@drago-entertainment.com, info@drago-entertainment.com",
         "Discord": "https://discord.gg/dragoent",
         "URL": "https://store.steampowered.com/app/3199880/",
         "Site": "https://drago-entertainment.com/",
@@ -155029,9 +155029,9 @@
         "URL": "https://store.steampowered.com/app/5091900/",
         "Site": "https://prigodgames.github.io/PrigodGames/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5091900/f0bf65584269665a3b4f4824cf3557a8afc95b5d/header.jpg?t=1787351137",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-21",
-        "AddedTimestamp": 1787352301.8113894,
+        "Date": "Nov 4, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787658438.45908,
         "MatchedTags": [
             "tactical"
         ]
@@ -156543,9 +156543,9 @@
         "URL": "https://store.steampowered.com/app/5113910/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5113910/f998d1053537cfe81219bd72920f8f9b3970c4b0/header.jpg?t=1787502818",
-        "Date": "TBA",
-        "AddedDate": "2026-08-23",
-        "AddedTimestamp": 1787503551.3258762,
+        "Date": "To be announced",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787658441.19147,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -159088,6 +159088,39 @@
         "AddedTimestamp": 1787655172.1597788,
         "MatchedTags": [
             "turn-based tactics"
+        ]
+    },
+    "4338300": {
+        "Title": "Cardcraft",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4338300/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4338300/3e2036026f2e49988d1ad0fe86b63478cabd195e/header.jpg?t=1787656778",
+        "Date": "December 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787658360.6818864,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics",
+            "tactical",
+            "turn-based combat"
+        ]
+    },
+    "5124080": {
+        "Title": "Blackbeam",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5124080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5124080/c6eaeb74542cf8ecf10deeb9cb8e5a8c91ae8c5c/header.jpg?t=1787656356",
+        "Date": "February 2027",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787658445.6869326,
+        "MatchedTags": [
+            "base building",
+            "resource management"
         ]
     }
 }
