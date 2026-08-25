@@ -31300,7 +31300,7 @@
     },
     "4218360": {
         "Title": "Wall World Strategy",
-        "Email": "publishing@alawar.com, bizdev@alawar.com, hr@alawar.com, pr@alawar.com",
+        "Email": "hr@alawar.com, publishing@alawar.com, bizdev@alawar.com, pr@alawar.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4218360/",
         "Site": "https://alawar.com/",
@@ -38943,9 +38943,9 @@
         "URL": "https://store.steampowered.com/app/4046370/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4046370/d8791e85157bac43cc73086e1aba58d63adde31d/header.jpg?t=1776938356",
-        "Date": "Aug 24, 2026",
-        "AddedDate": "2026-07-22",
-        "AddedTimestamp": 1784713206.742428,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787636996.5204275,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -62851,9 +62851,9 @@
         "URL": "https://store.steampowered.com/app/4702540/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4702540/3cdd42e7795c30630f2bff55f4293f91fd8aebe9/header.jpg?t=1779463146",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-17",
-        "AddedTimestamp": 1787003068.0359848,
+        "Date": "Aug 24, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787637029.1183631,
         "MatchedTags": [
             "management"
         ]
@@ -137421,9 +137421,9 @@
         "URL": "https://store.steampowered.com/app/4830660/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4830660/0a3875dc9eec1ba26f23025eb2eb9c2cccb50a19/header.jpg?t=1786427674",
-        "Date": "Aug 25, 2026",
-        "AddedDate": "2026-08-11",
-        "AddedTimestamp": 1786443369.787286,
+        "Date": "Aug 24, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787637039.983461,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -155251,9 +155251,9 @@
         "AddedDate": "2026-08-22",
         "AddedTimestamp": 1787371160.4841473,
         "MatchedTags": [
-            "turn-based tactics",
             "turn-based strategy",
             "turn-based combat",
+            "turn-based tactics",
             "strategy",
             "tactical"
         ]
@@ -158374,9 +158374,9 @@
         "AddedTimestamp": 1787622991.483611,
         "MatchedTags": [
             "strategy",
-            "tactical",
+            "turn-based combat",
             "turn-based tactics",
-            "turn-based combat"
+            "tactical"
         ]
     },
     "5141710": {
@@ -158692,6 +158692,115 @@
             "horror",
             "psychological horror",
             "survival horror"
+        ]
+    },
+    "4557880": {
+        "Title": "The End of Allegoria",
+        "Email": "",
+        "Discord": "https://discord.gg/tJ8v2ebCeW",
+        "URL": "https://store.steampowered.com/app/4557880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4557880/ee87c9c95fb92d2670b40a8f0d9b0038b5118543/header.jpg?t=1787636563",
+        "Date": "2027",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787637012.004557,
+        "MatchedTags": [
+            "turn-based tactics",
+            "tactical rpg",
+            "turn-based combat",
+            "turn-based strategy",
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4936670": {
+        "Title": "La Mano Pachona",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4936670/",
+        "Site": "https://www.lamanopachona.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4936670/6f543a37942b003cae8186d09be5e92b07df46b3/header.jpg?t=1787634772",
+        "Date": "Oct 1, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787637045.2273993,
+        "MatchedTags": [
+            "turn-based tactics"
+        ]
+    },
+    "5039790": {
+        "Title": "The Attending",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5039790/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5039790/154718646363bcffad43e5e38b218e1e0d500aab/header.jpg?t=1787633871",
+        "Date": "TBA",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787637055.2906613,
+        "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "5064670": {
+        "Title": "Doomsday Wildflower",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5064670/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5064670/5a3bed6aa668e3e5056d3e53e816a630aab28608/header.jpg?t=1787635989",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787637062.9529095,
+        "MatchedTags": [
+            "city builder",
+            "tactical",
+            "management",
+            "resource management"
+        ]
+    },
+    "5109520": {
+        "Title": "Swinging Pier Clean Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5109520/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5109520/1be4fde869e2a7a13b438d93a36565af628be963/header.jpg?t=1787635218",
+        "Date": "TBA",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787637085.2745688,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "resource management"
+        ]
+    },
+    "5129690": {
+        "Title": "Blova",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5129690/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5129690/97be2642606d3b0fc2a0d22ec9d6a87ae7dee57c/header.jpg?t=1787636733",
+        "Date": "Sep 2, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787637098.0486882,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5143760": {
+        "Title": "The Largest Organism",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5143760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5143760/86e19fd531f803b0b8ff51b1882c4ec7161cbae8/header.jpg?t=1787634116",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787637112.5226374,
+        "MatchedTags": [
+            "resource management"
         ]
     }
 }
