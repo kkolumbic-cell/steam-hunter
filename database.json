@@ -9342,12 +9342,12 @@
         "URL": "https://store.steampowered.com/app/4519930/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4519930/24c8c880217fe396f90a9b7c2888d1d8186be2e0/header.jpg?t=1773783174",
-        "Date": "2026",
-        "AddedDate": "2026-06-09",
-        "AddedTimestamp": 1781007499.6707234,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787670498.0415337,
         "MatchedTags": [
             "survival horror",
-            "psychological horror",
+            "horror",
             "resource management"
         ]
     },
@@ -34602,7 +34602,7 @@
     },
     "4605200": {
         "Title": "Hero of the Kingdom IV",
-        "Email": "press@lonelytroops.com, team@lonelytroops.com, business@lonelytroops.com, support@lonelytroops.com",
+        "Email": "team@lonelytroops.com, support@lonelytroops.com, press@lonelytroops.com, business@lonelytroops.com",
         "Discord": "https://discord.gg/mkqF3ahHE8",
         "URL": "https://store.steampowered.com/app/4605200/",
         "Site": "https://www.lonelytroops.com/hotk4/index.htm",
@@ -61346,7 +61346,6 @@
         "AddedDate": "2026-07-07",
         "AddedTimestamp": 1783458001.1342597,
         "MatchedTags": [
-            "survival horror",
             "horror"
         ]
     },
@@ -126400,9 +126399,9 @@
         "URL": "https://store.steampowered.com/app/4991540/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4991540/93f509e186de7a89573ce80220062bd578078580/header.jpg?t=1785429332",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-30",
-        "AddedTimestamp": 1785437517.7745702,
+        "Date": "Aug 25, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787670551.6918957,
         "MatchedTags": [
             "tower defense",
             "strategy"
@@ -130375,9 +130374,9 @@
         "URL": "https://store.steampowered.com/app/4973680/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4973680/ec6f9dfb70c5e344ed1165d51819509da1cb3aeb/header.jpg?t=1785831987",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-04",
-        "AddedTimestamp": 1785837773.8119144,
+        "Date": "Aug 25, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787670544.8747282,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -159361,6 +159360,126 @@
             "strategy",
             "turn-based strategy",
             "turn-based tactics"
+        ]
+    },
+    "5041010": {
+        "Title": "The Final Exhibit",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5041010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5041010/d92d5ebdf5fdcef22e6a9351bc6138f191abc288/header.jpg?t=1787668906",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787670572.4894288,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "5060480": {
+        "Title": "Laurus",
+        "Email": "press@playlaurus.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5060480/",
+        "Site": "https://playlaurus.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5060480/fe63e1e0c66a5e84cb131d482a174e3030bc0c1a/header.jpg?t=1787668838",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787670592.1518764,
+        "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "5071780": {
+        "Title": "Click Bait",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5071780/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5071780/a603b8a8ccd844c9dedbf46a7bf3028962fe7764/header.jpg?t=1787670596",
+        "Date": "Feb 16, 2027",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787670601.7406967,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5108480": {
+        "Title": "Disbond",
+        "Email": "",
+        "Discord": "https://discord.gg/DnYdwtRyC",
+        "URL": "https://store.steampowered.com/app/5108480/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5108480/30cfa97b32554cee0a358dbcd91fd7293aeb0b61/header.jpg?t=1787669329",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787670619.2575436,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5109630": {
+        "Title": "Orbit Anomaly",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5109630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5109630/3de70c34a8bbe3523a1322939e95f298d5bd691b/header.jpg?t=1787668321",
+        "Date": "TBA",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787670624.4189742,
+        "MatchedTags": [
+            "horror",
+            "resource management"
+        ]
+    },
+    "5120070": {
+        "Title": "Wheel Street",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5120070/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5120070/e1fadeb99f1479253297921f2fcbecdd088c2d11/header.jpg?t=1787668878",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787670629.144914,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "turn-based strategy",
+            "economy"
+        ]
+    },
+    "5128190": {
+        "Title": "Conehead : Earth Zero",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5128190/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5128190/50b4001768cee23357ac5b72e3b06a9296d7cd4a/header.jpg?t=1787667322",
+        "Date": "October 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787670635.461142,
+        "MatchedTags": [
+            "horror",
+            "resource management"
+        ]
+    },
+    "5142500": {
+        "Title": "MataOno",
+        "Email": "",
+        "Discord": "https://discord.gg/eJkwtxSetg",
+        "URL": "https://store.steampowered.com/app/5142500/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5142500/8b19080720165460686c419d6ddc41f8be3cb00e/header.jpg?t=1787669364",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787670644.9503992,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
         ]
     }
 }
