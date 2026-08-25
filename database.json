@@ -28142,7 +28142,9 @@
         "AddedDate": "2026-08-05",
         "AddedTimestamp": 1785923905.8401442,
         "MatchedTags": [
-            "strategy"
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy"
         ]
     },
     "4592990": {
@@ -144807,9 +144809,9 @@
         "URL": "https://store.steampowered.com/app/5077820/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5077820/65eac6174950a1c25a6d501a381cba468f7d8cb9/header.jpg?t=1786865676",
-        "Date": "September 2026",
-        "AddedDate": "2026-08-16",
-        "AddedTimestamp": 1786866506.7009702,
+        "Date": "November 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787633790.8599741,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -158646,6 +158648,50 @@
         "MatchedTags": [
             "strategy",
             "turn-based tactics"
+        ]
+    },
+    "5025610": {
+        "Title": "AXIS FALL",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5025610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5025610/6ff29145231e37f2d69ce9aa4b8aa0f37198f04a/header.jpg?t=1787632422",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787633777.2154655,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5068650": {
+        "Title": "Mather",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5068650/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5068650/d2e6c7d9ad0fb762695a4ace6ff38b3129232cd2/header.jpg?t=1787632914",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787633783.3119185,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5094080": {
+        "Title": "Beneath Europa",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5094080/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5094080/a64909f5177f5ae9d1a3a20f57f2b70a327eb174/header.jpg?t=1787633058",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787633798.7012908,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
         ]
     }
 }
