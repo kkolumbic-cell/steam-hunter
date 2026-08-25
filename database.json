@@ -68403,7 +68403,7 @@
     },
     "3199880": {
         "Title": "Airport Contraband: Prologue",
-        "Email": "polandinfo@drago-entertainment.com, info@drago-entertainment.com",
+        "Email": "info@drago-entertainment.com, polandinfo@drago-entertainment.com",
         "Discord": "https://discord.gg/dragoent",
         "URL": "https://store.steampowered.com/app/3199880/",
         "Site": "https://drago-entertainment.com/",
@@ -89927,8 +89927,8 @@
         "AddedDate": "2026-07-27",
         "AddedTimestamp": 1785152564.8415935,
         "MatchedTags": [
-            "base building",
-            "management"
+            "management",
+            "base building"
         ]
     },
     "4627110": {
@@ -138450,9 +138450,9 @@
         "URL": "https://store.steampowered.com/app/5022810/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5022810/2c790c26539bb804f7d6f4609566da9693d18e51/header.jpg?t=1786482472",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-11",
-        "AddedTimestamp": 1786482505.217916,
+        "Date": "Aug 25, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787655156.0260096,
         "MatchedTags": [
             "horror",
             "tower defense",
@@ -138865,9 +138865,9 @@
         "URL": "https://store.steampowered.com/app/4947390/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4947390/a141ba9bbc752e69648f3839e711993303e2c9f8/header.jpg?t=1786516476",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-14",
-        "AddedTimestamp": 1786684020.2812834,
+        "Date": "Aug 25, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787655135.7950497,
         "MatchedTags": [
             "turn-based tactics",
             "turn-based strategy",
@@ -159024,7 +159024,7 @@
     "4957250": {
         "Title": "Rad New World",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/uFaZg5DY8M",
         "URL": "https://store.steampowered.com/app/4957250/",
         "Site": "https://88mmgames.wixsite.com/welcome",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4957250/aa32116863f65701a1cba112842ac36ebe528672/header.jpg?t=1787650868",
@@ -159074,6 +159074,20 @@
             "tactical rpg",
             "economy",
             "tactical"
+        ]
+    },
+    "5116880": {
+        "Title": "CATAL CARTA",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5116880/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5116880/ea5cae275ab575678398a8539ffb09576dfd4fcd/header.jpg?t=1787652650",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787655172.1597788,
+        "MatchedTags": [
+            "turn-based tactics"
         ]
     }
 }
