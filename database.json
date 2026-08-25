@@ -138290,9 +138290,9 @@
         "URL": "https://store.steampowered.com/app/4900970/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4900970/93d3caaaa9516e6a65b635fe06f91c9139ec26c5/header.jpg?t=1786472769",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-13",
-        "AddedTimestamp": 1786589509.9009435,
+        "Date": "Aug 28, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787630685.1609757,
         "MatchedTags": [
             "resource management",
             "strategy"
@@ -144617,9 +144617,9 @@
         "URL": "https://store.steampowered.com/app/5039260/",
         "Site": "https://www.sinter-labs.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5039260/765c92ec7d00aed4df0b2af05b9bf99e3f8beef2/header.jpg?t=1786837301",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-16",
-        "AddedTimestamp": 1786845661.3174648,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787630697.6530573,
         "MatchedTags": [
             "strategy",
             "turn-based combat"
@@ -149263,9 +149263,9 @@
         "URL": "https://store.steampowered.com/app/5074010/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5074010/99e1dc3e0b57045461a5a625b38bff89251cea52/header.jpg?t=1787104243",
-        "Date": "To be announced",
-        "AddedDate": "2026-08-19",
-        "AddedTimestamp": 1787104745.8795426,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787630714.26469,
         "MatchedTags": [
             "turn-based tactics",
             "strategy",
@@ -158524,6 +158524,128 @@
         "AddedTimestamp": 1787627786.175429,
         "MatchedTags": [
             "resource management"
+        ]
+    },
+    "5057560": {
+        "Title": "The Ascendant Sect",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5057560/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5057560/e5106cf6011ac53d6ae0b3883540276119f0a464/header.jpg?t=1787629290",
+        "Date": "Sep 11, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787630703.7914114,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "5065190": {
+        "Title": "\u6d4a\u6d41 (MuddyStream)",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5065190/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5065190/811ff4b1787199cee36162fa2d48cfcb248f6e53/header.jpg?t=1787628450",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787630709.0999093,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5096220": {
+        "Title": "Defend the Dragon Palace!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5096220/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5096220/76ff796d494d3d3552903a69f0e5847b89e5d0ed/header.jpg?t=1787627825",
+        "Date": "Aug 31, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787630723.3180575,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "real time tactics"
+        ]
+    },
+    "5097000": {
+        "Title": "RiftQuake: The Adventures of Princess Puffins and the Puffins Gang",
+        "Email": "kim@fromzerollc.com, kevin@fromzerollc.com, lucie@fromzerollc.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5097000/",
+        "Site": "https://www.fromzerollc.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5097000/fbe5c8f7de6bc2b212245c3d4f98ff4fc523e9bc/header.jpg?t=1787629199",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787630728.9769673,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "base building"
+        ]
+    },
+    "5111010": {
+        "Title": "Time Train",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5111010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5111010/b537e08e8bd33ecf160d67d7a22ba7d007e01f06/header.jpg?t=1787628408",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787630737.1086922,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "5125170": {
+        "Title": "Popcorn & Premieren",
+        "Email": "info@jodelsoft.de",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5125170/",
+        "Site": "https://jodelsoft.de",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5125170/e87a5ad799eaa9c9a8bd9d22b48972b11ccc0174/header.jpg?t=1787629973",
+        "Date": "Sep 16, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787630745.4089289,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "economy",
+            "resource management"
+        ]
+    },
+    "5134230": {
+        "Title": "Roulette Simulator 2027",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5134230/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5134230/2fe930fecb2d598c48b264edfc7d2ac5659e7ab2/header.jpg?t=1787628955",
+        "Date": "Sep 7, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787630753.7698395,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5141490": {
+        "Title": "Stealthmate: A chess puzzle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5141490/",
+        "Site": "https://thelatelab.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5141490/818826158c09bf941be4811ea46de22b309a3bc4/header.jpg?t=1787629903",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787630756.643834,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
         ]
     }
 }
