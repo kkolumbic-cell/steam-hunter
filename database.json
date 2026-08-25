@@ -41985,7 +41985,7 @@
     "4631470": {
         "Title": "Where It Happened",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/YgA7NJ34p5",
         "URL": "https://store.steampowered.com/app/4631470/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631470/ae7bdcf0b4df051d2f56a1a2c94c21e5c66ec48c/header.jpg?t=1777187571",
@@ -65204,9 +65204,9 @@
         "URL": "https://store.steampowered.com/app/4767390/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4767390/985582f3f3d18f30408b3d9d40cf91d145edec14/header.jpg?t=1779811378",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-05-26",
-        "AddedTimestamp": 1779814991.9193013,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787644848.0926733,
         "MatchedTags": [
             "strategy"
         ]
@@ -133000,9 +133000,9 @@
         "URL": "https://store.steampowered.com/app/4791820/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4791820/3e00be230f13dbe420af89749dde19677ef2b7a6/header.jpg?t=1785975123",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-08-06",
-        "AddedTimestamp": 1785987765.6299088,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787644851.5678995,
         "MatchedTags": [
             "strategy"
         ]
@@ -138759,9 +138759,9 @@
         "URL": "https://store.steampowered.com/app/5023820/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5023820/693617ac400625c620346cb3d18aa6cf52200c84/header.jpg?t=1786506606",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-13",
-        "AddedTimestamp": 1786610919.9635818,
+        "Date": "Aug 25, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787644887.2227073,
         "MatchedTags": [
             "strategy",
             "grand strategy",
@@ -147353,9 +147353,9 @@
         "URL": "https://store.steampowered.com/app/5048900/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5048900/d2aeb428e1e31674d788240f4c576dbbddf9a041/header.jpg?t=1787027135",
-        "Date": "2026",
-        "AddedDate": "2026-08-18",
-        "AddedTimestamp": 1787071964.7406864,
+        "Date": "Oct 28, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787644893.988362,
         "MatchedTags": [
             "resource management",
             "strategy",
@@ -153017,8 +153017,8 @@
         "AddedDate": "2026-08-20",
         "AddedTimestamp": 1787262402.23326,
         "MatchedTags": [
-            "strategy",
             "tower defense",
+            "strategy",
             "base building",
             "resource management",
             "tactical"
@@ -158910,6 +158910,38 @@
             "strategy",
             "turn-based combat",
             "resource management"
+        ]
+    },
+    "4962560": {
+        "Title": "Eclesiar",
+        "Email": "",
+        "Discord": "https://discord.gg/eUEQxDAzyf",
+        "URL": "https://store.steampowered.com/app/4962560/",
+        "Site": "https://eclesiar.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4962560/0120140eb1b63f40d0f71afe493c9dad7ce3759b/header.jpg?t=1787642086",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787644874.2148678,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "management"
+        ]
+    },
+    "5125310": {
+        "Title": "STARVAULT",
+        "Email": "",
+        "Discord": "https://discord.gg/starvaultvr",
+        "URL": "https://store.steampowered.com/app/5125310/",
+        "Site": "https://starvaultvr.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5125310/609648b5615b1b4527c1d2793ce72ee5a827d639/header.jpg?t=1787644555",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787644928.9004667,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "tactical"
         ]
     }
 }
