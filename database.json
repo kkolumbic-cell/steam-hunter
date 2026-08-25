@@ -37944,7 +37944,9 @@
         "AddedDate": "2026-04-22",
         "AddedTimestamp": 1776867186.5049148,
         "MatchedTags": [
-            "strategy"
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
         ]
     },
     "4642770": {
@@ -39188,9 +39190,9 @@
         "URL": "https://store.steampowered.com/app/1064300/",
         "Site": "https://dau.game/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1064300/0cb955af685ab52b5c397b1138f4158fee776227/header.jpg?t=1776958322",
-        "Date": "To be announced",
-        "AddedDate": "2026-07-26",
-        "AddedTimestamp": 1785107802.3452082,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787677073.9185948,
         "MatchedTags": [
             "strategy",
             "management",
@@ -60638,9 +60640,9 @@
         "URL": "https://store.steampowered.com/app/4731210/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4731210/1b29275031c48f4ce769d1eaed35fef5c64c97d7/header.jpg?t=1779219465",
-        "Date": "August 2026",
-        "AddedDate": "2026-05-19",
-        "AddedTimestamp": 1779227368.3625195,
+        "Date": "Aug 25, 2026",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787677152.4288445,
         "MatchedTags": [
             "survival horror",
             "resource management"
@@ -61282,9 +61284,9 @@
         "URL": "https://store.steampowered.com/app/4385740/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4385740/100e0e1dd7c1b2d11bcbd87402e865fe01bc46ba/header.jpg?t=1779296244",
-        "Date": "Sep 15, 2026",
-        "AddedDate": "2026-06-12",
-        "AddedTimestamp": 1781296126.8196182,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787677102.1559627,
         "MatchedTags": [
             "psychological horror",
             "survival horror",
@@ -153665,6 +153667,7 @@
         "AddedDate": "2026-08-23",
         "AddedTimestamp": 1787481852.7024794,
         "MatchedTags": [
+            "economy",
             "resource management"
         ]
     },
@@ -159556,6 +159559,52 @@
             "strategy",
             "tactical rpg",
             "horror"
+        ]
+    },
+    "4073840": {
+        "Title": "Roll or Die",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4073840/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4073840/a9fed670d44c5eda079b04ba2bc1b9029ccf0193/header.jpg?t=1787674679",
+        "Date": "January 2027",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787677082.8496895,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based combat",
+            "turn-based strategy"
+        ]
+    },
+    "4888150": {
+        "Title": "Masters of the Universe\u2122: Legends Unite",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4888150/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4888150/bf11d53ccbacf0429cb3ef67a964d71cedc62ab7/header.jpg?t=1787676920",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787677172.8657818,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5057070": {
+        "Title": "Sound of Space",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5057070/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5057070/4541f19ec3e566eb2a48e38a455bebdff35ec5b4/header.jpg?t=1787674604",
+        "Date": "2027",
+        "AddedDate": "2026-08-25",
+        "AddedTimestamp": 1787677192.8056576,
+        "MatchedTags": [
+            "economy",
+            "management"
         ]
     }
 }
