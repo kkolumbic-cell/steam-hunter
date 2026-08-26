@@ -70247,11 +70247,12 @@
         "URL": "https://store.steampowered.com/app/4595220/",
         "Site": "https://gotaroukun.games.yami.net/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4595220/dbe099fde14a055b2d16981131d14483013f34be/header.jpg?t=1780288485",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-01",
-        "AddedTimestamp": 1780291147.761386,
+        "Date": "Aug 27, 2026",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787731334.199669,
         "MatchedTags": [
-            "horror"
+            "horror",
+            "survival horror"
         ]
     },
     "4595280": {
@@ -103872,7 +103873,7 @@
     "3095250": {
         "Title": "Hare House",
         "Email": "gabagoogamesltd@gmail.com",
-        "Discord": "",
+        "Discord": "https://discord.gg/pz6SUSynwQ",
         "URL": "https://store.steampowered.com/app/3095250/",
         "Site": "https://www.gabagoogames.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3095250/8c7ac76e5ab611afef76f07639c0e3baf15f3c8f/header.jpg?t=1783444772",
@@ -130076,9 +130077,9 @@
         "URL": "https://store.steampowered.com/app/1538210/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1538210/92b33eb44738538c5470dc048878d89026fc95a8/header.jpg?t=1785818116",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-04",
-        "AddedTimestamp": 1785825742.786909,
+        "Date": "August 2026",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787731306.863678,
         "MatchedTags": [
             "colony sim",
             "strategy",
@@ -139886,9 +139887,9 @@
         "URL": "https://store.steampowered.com/app/5070360/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5070360/3f6d28a857bb2f043f90fcbf8c4b44177f9c783b/header.jpg?t=1786564414",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-12",
-        "AddedTimestamp": 1786568872.0949626,
+        "Date": "Aug 26, 2026",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787731366.8264847,
         "MatchedTags": [
             "horror"
         ]
@@ -159496,9 +159497,9 @@
         "URL": "https://store.steampowered.com/app/5120080/",
         "Site": "https://klaracode.dev/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5120080/3c7d06b5e5be961a12da68bc57bd95c04b2e853e/header.jpg?t=1787673741",
-        "Date": "Sep 21, 2026",
-        "AddedDate": "2026-08-25",
-        "AddedTimestamp": 1787674029.720705,
+        "Date": "Nov 17, 2026",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787731380.9725738,
         "MatchedTags": [
             "strategy",
             "tower defense",
@@ -160995,6 +160996,85 @@
         "AddedTimestamp": 1787728355.8783247,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "2959460": {
+        "Title": "Matelotes",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2959460/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2959460/34d723f2c401e71c65725e525e8152e38db080e9/header.jpg?t=1787730963",
+        "Date": "2027",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787731310.350552,
+        "MatchedTags": [
+            "strategy",
+            "tactical"
+        ]
+    },
+    "4834110": {
+        "Title": "RuinBlade",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4834110/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4834110/30a84ae41e90af3104fc85aae9a2bf31d3bdb0e1/header.jpg?t=1787728661",
+        "Date": "TBA",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787731344.6956902,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "5047980": {
+        "Title": "RiftBlade: WarCards",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5047980/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5047980/86849fbdc115dcb6fb54b9c83ca7a3d079938d6b/header.jpg?t=1787729272",
+        "Date": "January 2027",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787731360.2215037,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "turn-based tactics"
+        ]
+    },
+    "5089650": {
+        "Title": "Before the First Fire",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5089650/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5089650/25beb5817f9e25650643831c2c5b3f30906ac54f/header.jpg?t=1787730567",
+        "Date": "June 2027",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787731372.3632572,
+        "MatchedTags": [
+            "colony sim",
+            "management",
+            "base building"
+        ]
+    },
+    "5146720": {
+        "Title": "Fickle Allies",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5146720/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5146720/8cfc0602ff8526adda91fb56e8ac0cb9a7a525e3/header.jpg?t=1787729774",
+        "Date": "September 2026",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787731383.734518,
+        "MatchedTags": [
+            "strategy",
+            "horror",
+            "tactical",
+            "survival horror",
+            "resource management"
         ]
     }
 }
