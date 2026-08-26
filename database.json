@@ -115599,9 +115599,9 @@
         "URL": "https://store.steampowered.com/app/4956550/",
         "Site": "https://www.zyphorstudios.com/games/la1VQy4iPCqYgIoU0DjI",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4956550/c3467d3090ffdff025d75d8b34b5f041e8857dd1/header.jpg?t=1784562619",
-        "Date": "Coming soon",
-        "AddedDate": "2026-07-20",
-        "AddedTimestamp": 1784563609.6554596,
+        "Date": "To be announced",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787723520.143194,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -117695,9 +117695,9 @@
         "URL": "https://store.steampowered.com/app/4935330/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4935330/7a14551ab9d7692fb9ff25a0143056667c4ad679/header.jpg?t=1784668550",
-        "Date": "To be announced",
-        "AddedDate": "2026-07-21",
-        "AddedTimestamp": 1784672066.215879,
+        "Date": "December 2026",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787723517.0670633,
         "MatchedTags": [
             "psychological horror",
             "survival horror",
@@ -153189,7 +153189,7 @@
     "5020610": {
         "Title": "Record of Chaos - Korean Chapter",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/VE9K7GVnQa",
         "URL": "https://store.steampowered.com/app/5020610/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5020610/f98ba03d69c50819088af75debe948d731173ab7/header.jpg?t=1787270028",
@@ -160796,6 +160796,52 @@
             "strategy",
             "tactical",
             "turn-based strategy"
+        ]
+    },
+    "4875230": {
+        "Title": "Wings of the Western Front",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4875230/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4875230/da9c96968985c2cb69dd85e4cb83012288a81989/header.jpg?t=1787722449",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787723512.813103,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "5053960": {
+        "Title": "GamingCouch.com",
+        "Email": "gc.community@gamingcouch.com",
+        "Discord": "https://discord.gg/UqSX9ZGz5u",
+        "URL": "https://store.steampowered.com/app/5053960/",
+        "Site": "https://gamingcouch.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053960/8fc2b5bdf859ba8f9e19077e2a62921cf4ec996d/header.jpg?t=1787720639",
+        "Date": "TBA",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787723545.8113356,
+        "MatchedTags": [
+            "real time tactics"
+        ]
+    },
+    "5079170": {
+        "Title": "\u706b\u7bad\u5de5\u5382 Rocket Factory",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5079170/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5079170/7a23954097891219234ea4785c8d22f4847d4841/header.jpg?t=1787722937",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787723549.1560247,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "management",
+            "city builder",
+            "economy"
         ]
     }
 }
