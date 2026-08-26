@@ -29612,9 +29612,9 @@
         "URL": "https://store.steampowered.com/app/4606100/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4606100/3634d50142597adbd34fb70f60b439a90f656b7c/header.jpg?t=1776108419",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-13",
-        "AddedTimestamp": 1776109373.061668,
+        "Date": "2026",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787735108.4628959,
         "MatchedTags": [
             "strategy"
         ]
@@ -39434,9 +39434,9 @@
         "URL": "https://store.steampowered.com/app/4536920/",
         "Site": "https://flameheadgames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4536920/e56ea4513550800fea774ffdf5f4f16bde6e28f4/header.jpg?t=1776965461",
-        "Date": "To be announced",
-        "AddedDate": "2026-04-23",
-        "AddedTimestamp": 1776966562.101659,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787735099.3625145,
         "MatchedTags": [
             "tower defense",
             "turn-based strategy",
@@ -67178,11 +67178,13 @@
         "AddedDate": "2026-06-23",
         "AddedTimestamp": 1782222575.9505532,
         "MatchedTags": [
-            "strategy",
             "city builder",
-            "economy",
+            "base building",
+            "colony sim",
             "management",
-            "resource management"
+            "economy",
+            "resource management",
+            "strategy"
         ]
     },
     "4702610": {
@@ -68404,7 +68406,7 @@
     },
     "3199880": {
         "Title": "Airport Contraband: Prologue",
-        "Email": "polandinfo@drago-entertainment.com, info@drago-entertainment.com",
+        "Email": "info@drago-entertainment.com, polandinfo@drago-entertainment.com",
         "Discord": "https://discord.gg/dragoent",
         "URL": "https://store.steampowered.com/app/3199880/",
         "Site": "https://drago-entertainment.com/",
@@ -87062,9 +87064,9 @@
         "AddedDate": "2026-06-16",
         "AddedTimestamp": 1781645038.2725747,
         "MatchedTags": [
-            "psychological horror",
+            "horror",
             "survival horror",
-            "horror"
+            "psychological horror"
         ]
     },
     "4764410": {
@@ -95039,9 +95041,9 @@
         "URL": "https://store.steampowered.com/app/4751410/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4751410/96f31aa770eb134fec52fb5cbacf33e2fb69ad31/header.jpg?t=1782441686",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-08-18",
-        "AddedTimestamp": 1787036866.1907544,
+        "Date": "Sep 8, 2026",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787735122.7286887,
         "MatchedTags": [
             "strategy"
         ]
@@ -111045,9 +111047,9 @@
         "URL": "https://store.steampowered.com/app/4753470/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4753470/95fc374c088602173ce2a94a79b50a5143b5d13c/header.jpg?t=1784106332",
-        "Date": "2026",
-        "AddedDate": "2026-07-15",
-        "AddedTimestamp": 1784107477.0163856,
+        "Date": "2027",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787735125.6542382,
         "MatchedTags": [
             "strategy",
             "economy",
@@ -153828,11 +153830,11 @@
         "AddedTimestamp": 1787318144.5170953,
         "MatchedTags": [
             "strategy",
-            "real time tactics",
             "grand strategy",
-            "management",
+            "real time tactics",
             "tactical",
-            "economy"
+            "economy",
+            "management"
         ]
     },
     "5056230": {
@@ -161075,6 +161077,51 @@
             "tactical",
             "survival horror",
             "resource management"
+        ]
+    },
+    "4911460": {
+        "Title": "Violence of Action",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4911460/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4911460/f92700289aa3c9757eeb34b368bc79950bff7c7c/header.jpg?t=1787732486",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787735143.0705106,
+        "MatchedTags": [
+            "strategy",
+            "tactical",
+            "resource management"
+        ]
+    },
+    "5070060": {
+        "Title": "Robokitties: MEGASTRUCTURE",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5070060/",
+        "Site": "https://artemdreadwire.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5070060/27d61e3c30b675727cf2aefd7232575cd9be2d99/header.jpg?t=1787734560",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787735165.953911,
+        "MatchedTags": [
+            "horror",
+            "resource management"
+        ]
+    },
+    "5146200": {
+        "Title": "Greenhouse: Tidy Up!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5146200/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5146200/bdf9714d1a6e2fdea631710b2605769c158797a5/header.jpg?t=1787732913",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787735191.6935983,
+        "MatchedTags": [
+            "tactical"
         ]
     }
 }
