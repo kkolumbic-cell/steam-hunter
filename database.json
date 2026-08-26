@@ -43951,9 +43951,9 @@
         "URL": "https://store.steampowered.com/app/4668870/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4668870/a7d859581285bdb132e4abbacd721f09dcf22ba9/header.jpg?t=1777356461",
-        "Date": "September 2026",
-        "AddedDate": "2026-06-29",
-        "AddedTimestamp": 1782735174.9273288,
+        "Date": "Sep 15, 2026",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787744845.945043,
         "MatchedTags": [
             "management",
             "base building",
@@ -73174,9 +73174,9 @@
         "URL": "https://store.steampowered.com/app/4684610/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4684610/a0c30875440de63a651b4d953654afc0545ea3dc/header.jpg?t=1780488113",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-07-05",
-        "AddedTimestamp": 1783275502.0893655,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787744850.459833,
         "MatchedTags": [
             "turn-based combat"
         ]
@@ -106690,7 +106690,8 @@
         "AddedTimestamp": 1786972202.7063234,
         "MatchedTags": [
             "horror",
-            "survival horror"
+            "survival horror",
+            "psychological horror"
         ]
     },
     "4896360": {
@@ -140118,9 +140119,9 @@
         "URL": "https://store.steampowered.com/app/5042570/",
         "Site": "https://uwirrldent.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5042570/d53a27bc096fad0f4d34f3fdfff25f6c1281c9f4/header.jpg?t=1786587087",
-        "Date": "August 2026",
-        "AddedDate": "2026-08-13",
-        "AddedTimestamp": 1786589585.88894,
+        "Date": "Aug 26, 2026",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787744887.4779463,
         "MatchedTags": [
             "base building",
             "resource management"
@@ -161141,6 +161142,88 @@
             "management",
             "real time tactics",
             "tactical"
+        ]
+    },
+    "5006470": {
+        "Title": "Oniria Dreamscapes",
+        "Email": "",
+        "Discord": "https://discord.gg/T4e9FBZ",
+        "URL": "https://store.steampowered.com/app/5006470/",
+        "Site": "https://oniria.world/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5006470/7d80fa60dc9d46aaea19a5deeee1b66d4275d8d0/header.jpg?t=1787742036",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787744880.532418,
+        "MatchedTags": [
+            "strategy",
+            "city builder",
+            "management",
+            "colony sim"
+        ]
+    },
+    "5138980": {
+        "Title": "NO KING IN HELL",
+        "Email": "contact@sasoriken-games.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5138980/",
+        "Site": "https://sasoriken-games.com/games/makai-srpg/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5138980/6fc72c3f00d2ac770a8a75862316564e79115164/header.jpg?t=1787742863",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787744911.5711305,
+        "MatchedTags": [
+            "tactical rpg",
+            "turn-based tactics",
+            "turn-based strategy",
+            "strategy",
+            "tactical"
+        ]
+    },
+    "5139780": {
+        "Title": "Devour & Evolve",
+        "Email": "contact@sasoriken-games.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5139780/",
+        "Site": "https://sasoriken-games.com/games/devour-and-evolve/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5139780/ae441cf41f054ccdb2d52f805da4d7d628b82c66/header.jpg?t=1787742881",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787744914.3556213,
+        "MatchedTags": [
+            "turn-based combat",
+            "strategy",
+            "tactical"
+        ]
+    },
+    "5141410": {
+        "Title": "Steel Stalker",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5141410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5141410/d0f06397a001bac642f6c1a28b986a1fdddb7ef5/header.jpg?t=1787744662",
+        "Date": "TBA",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787744917.7834227,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "5142800": {
+        "Title": "Human Hunter",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5142800/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5142800/7df242f2cbdd2cb95353525ed39a2f4c9a348602/header.jpg?t=1787744242",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787744920.4279726,
+        "MatchedTags": [
+            "strategy",
+            "horror",
+            "psychological horror"
         ]
     }
 }
