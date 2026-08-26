@@ -40645,9 +40645,9 @@
         "URL": "https://store.steampowered.com/app/4545480/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4545480/0b4be84155e9f10c869a2f67c8d80b5bf3b54f30/header.jpg?t=1777044041",
-        "Date": "2026",
-        "AddedDate": "2026-04-24",
-        "AddedTimestamp": 1777045245.4850304,
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787738356.811451,
         "MatchedTags": [
             "horror"
         ]
@@ -77397,9 +77397,9 @@
         "URL": "https://store.steampowered.com/app/4745080/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4745080/f7fdefdab74ea9384ab4fd91ea5677926d7ea63a/header.jpg?t=1780854647",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-13",
-        "AddedTimestamp": 1781345392.4042182,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787738367.2177818,
         "MatchedTags": [
             "strategy"
         ]
@@ -120804,9 +120804,9 @@
         "URL": "https://store.steampowered.com/app/4991240/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991240/599bdb26528be2cbb987e6c985d8ecaf61ca4012/header.jpg?t=1784892191",
-        "Date": "Sep 17, 2026",
-        "AddedDate": "2026-08-21",
-        "AddedTimestamp": 1787306066.4915755,
+        "Date": "Sep 24, 2026",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787738402.1399488,
         "MatchedTags": [
             "resource management"
         ]
@@ -139119,9 +139119,9 @@
         "URL": "https://store.steampowered.com/app/5058070/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5058070/86052ad5afef2cb3604ee15bfc9329fad1600d00/header.jpg?t=1786529413",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-08-12",
-        "AddedTimestamp": 1786530651.3464274,
+        "Date": "Aug 26, 2026",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787738415.191548,
         "MatchedTags": [
             "strategy"
         ]
@@ -159883,9 +159883,9 @@
         "URL": "https://store.steampowered.com/app/3809850/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809850/38beba33271cfcbe7b61964c8f49e003d7aab0b3/header.jpg?t=1787686380",
-        "Date": "To be announced",
-        "AddedDate": "2026-08-25",
-        "AddedTimestamp": 1787687542.5138474,
+        "Date": "2027",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787738348.6403518,
         "MatchedTags": [
             "strategy",
             "turn-based strategy"
@@ -161122,6 +161122,21 @@
         "AddedTimestamp": 1787735191.6935983,
         "MatchedTags": [
             "tactical"
+        ]
+    },
+    "5131760": {
+        "Title": "Dice After Dark",
+        "Email": "",
+        "Discord": "https://discord.gg/qCpmxVNU6F",
+        "URL": "https://store.steampowered.com/app/5131760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5131760/28a65f60f270191ae7c72ad2683e45aa75d93d16/header.jpg?t=1787737036",
+        "Date": "Nov 6, 2026",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787738438.2848473,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat"
         ]
     }
 }
