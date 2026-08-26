@@ -56583,9 +56583,9 @@
         "URL": "https://store.steampowered.com/app/4491130/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4491130/15aea01e1afcdd23f8cddda7fd21edd595f12e48/header.jpg?t=1778633218",
-        "Date": "Oct 7, 2026",
-        "AddedDate": "2026-07-18",
-        "AddedTimestamp": 1784345723.0133102,
+        "Date": "Oct 18, 2026",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787728259.150265,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -81110,7 +81110,8 @@
         "AddedDate": "2026-06-11",
         "AddedTimestamp": 1781142217.5943205,
         "MatchedTags": [
-            "economy"
+            "economy",
+            "management"
         ]
     },
     "4824290": {
@@ -129113,7 +129114,7 @@
     "4911480": {
         "Title": "Playworlds",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/Y9StcK9YFP",
         "URL": "https://store.steampowered.com/app/4911480/",
         "Site": "https://playworlds.ai",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4911480/549b741a174608da1aef6a2c05e84f3146c827be/header.jpg?t=1785725532",
@@ -148719,9 +148720,9 @@
         "URL": "https://store.steampowered.com/app/5033250/",
         "Site": "https://mazeofastra.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5033250/bd53d63e10d85eff391c32c33aa8bc67a60b9375/header.jpg?t=1787086559",
-        "Date": "TBA",
-        "AddedDate": "2026-08-18",
-        "AddedTimestamp": 1787089351.6672723,
+        "Date": "To be announced",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787728310.3726249,
         "MatchedTags": [
             "strategy"
         ]
@@ -151068,9 +151069,9 @@
         "URL": "https://store.steampowered.com/app/5044800/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044800/fc56e3dad1449e6f686181bb1e77b568ee1768d0/header.jpg?t=1787175184",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-19",
-        "AddedTimestamp": 1787175918.6352878,
+        "Date": "Nov 17, 2026",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787728315.25372,
         "MatchedTags": [
             "economy"
         ]
@@ -158803,7 +158804,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4858850/",
-        "Site": "",
+        "Site": "https://glacialsiltstudios.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4858850/0daceef91d19712c89ff2491bf0e758d11322d97/header.jpg?t=1787638460",
         "Date": "Coming soon",
         "AddedDate": "2026-08-25",
@@ -160842,6 +160843,158 @@
             "management",
             "city builder",
             "economy"
+        ]
+    },
+    "4683100": {
+        "Title": "Porkanoid",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4683100/",
+        "Site": "https://www.porkanoid.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4683100/4b91188db3da800835847fd9a602431d74dbae41/header.jpg?t=1787724427",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787728269.192981,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "4718660": {
+        "Title": "Slightly Used Sorcery",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4718660/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4718660/072f7a5ab3390bb04a6ee64e0a3942c34f75d5c3/header.jpg?t=1787724375",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787728275.6297941,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "resource management",
+            "management"
+        ]
+    },
+    "4895030": {
+        "Title": "Backrooms Clicker",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4895030/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4895030/4f091c950c86465fe787abcc5b98f30a350fe658/header.jpg?t=1787726308",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787728294.3926256,
+        "MatchedTags": [
+            "horror",
+            "management",
+            "resource management"
+        ]
+    },
+    "4963110": {
+        "Title": "Chilling\u3000Gooey\u3000Internet\u3000Cafe",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4963110/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4963110/74963d01b00ed1dce0543e3cffa8392e944df7c9/header.jpg?t=1787728076",
+        "Date": "TBA",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787728299.6567256,
+        "MatchedTags": [
+            "survival horror",
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4991730": {
+        "Title": "Skill Hiding",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4991730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4991730/36ff6d4e4672014e00b52f439381d9538d7def86/header.jpg?t=1787727657",
+        "Date": "Sep 30, 2026",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787728307.3675623,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "5056630": {
+        "Title": "Last Ditch Effort",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5056630/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5056630/84e3a393d7cad06b02a2bba9e0cbd534a0660df8/header.jpg?t=1787725354",
+        "Date": "2027",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787728323.2211573,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "5081350": {
+        "Title": "Mapborn",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5081350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5081350/a1031528284696955bd64fa1a44d798bf5fae159/header.jpg?t=1787724668",
+        "Date": "Coming soon",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787728325.4054215,
+        "MatchedTags": [
+            "grand strategy",
+            "strategy"
+        ]
+    },
+    "5102710": {
+        "Title": "BTR Ringfall",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5102710/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5102710/12e234f9690f2e9f7c5d4fa64a9ad62a52cb365a/header.jpg?t=1787724149",
+        "Date": "Sep 15, 2026",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787728334.6512423,
+        "MatchedTags": [
+            "strategy",
+            "tower defense",
+            "real time tactics",
+            "resource management"
+        ]
+    },
+    "5118330": {
+        "Title": "Decontamination Protocol",
+        "Email": "",
+        "Discord": "https://discord.gg/Bcbyxxya",
+        "URL": "https://store.steampowered.com/app/5118330/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5118330/9bff1c8be0e968ecae9fb4ba9ce2195c73192a06/header.jpg?t=1787724062",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787728343.734822,
+        "MatchedTags": [
+            "strategy",
+            "psychological horror"
+        ]
+    },
+    "5144320": {
+        "Title": "Hotel Purgatory",
+        "Email": "",
+        "Discord": "https://discord.com/invite/GQ7uWf8bUE",
+        "URL": "https://store.steampowered.com/app/5144320/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5144320/68a89f431dbdc8f5a5b9b9b333a9724ae2204297/header.jpg?t=1787723896",
+        "Date": "To be announced",
+        "AddedDate": "2026-08-26",
+        "AddedTimestamp": 1787728355.8783247,
+        "MatchedTags": [
+            "strategy"
         ]
     }
 }
