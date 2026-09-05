@@ -469,9 +469,9 @@
         "URL": "https://store.steampowered.com/app/793780/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/793780/ae342317130cc18537acfb5907eaa76d53a7d64d/header.jpg?t=1772640567",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-05-09",
-        "AddedTimestamp": 1778360663.1503928,
+        "Date": "To be announced",
+        "AddedDate": "2026-09-05",
+        "AddedTimestamp": 1788635009.7221713,
         "MatchedTags": [
             "survival horror"
         ]
@@ -23889,7 +23889,8 @@
         "AddedTimestamp": 1775570547.2037473,
         "MatchedTags": [
             "strategy",
-            "real time tactics"
+            "real time tactics",
+            "resource management"
         ]
     },
     "4418720": {
@@ -49153,9 +49154,9 @@
         "URL": "https://store.steampowered.com/app/4256670/",
         "Site": "https://sgradegames.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4256670/c1be1a76a033e0d4a030ad737de06ebf30c194b2/header.jpg?t=1777896750",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-05-04",
-        "AddedTimestamp": 1777899467.7078736,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-09-05",
+        "AddedTimestamp": 1788635029.8236678,
         "MatchedTags": [
             "management",
             "economy"
@@ -109302,14 +109303,14 @@
     },
     "4926400": {
         "Title": "Numble",
-        "Email": "info@playwithk.de, support@playwithk.de",
+        "Email": "support@playwithk.de, info@playwithk.de",
         "Discord": "https://discord.gg/FgXCkqp6zM",
         "URL": "https://store.steampowered.com/app/4926400/",
         "Site": "https://www.playwithk.de/en/projects/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4926400/be1ce478750998e88fb358bfe9ee5e4fb02ef7dd/header.jpg?t=1783969194",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-08-28",
-        "AddedTimestamp": 1787943573.9419198,
+        "Date": "Sep 5, 2026",
+        "AddedDate": "2026-09-05",
+        "AddedTimestamp": 1788635121.6622884,
         "MatchedTags": [
             "strategy"
         ]
@@ -140829,7 +140830,8 @@
         "AddedTimestamp": 1786634421.9227016,
         "MatchedTags": [
             "horror",
-            "psychological horror"
+            "psychological horror",
+            "survival horror"
         ]
     },
     "5044880": {
@@ -150571,9 +150573,9 @@
         "URL": "https://store.steampowered.com/app/5028640/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5028640/408f8fd699e0bc5ffde7d23814d5b53cc89a62c8/header.jpg?t=1787166499",
-        "Date": "Q1 2027",
-        "AddedDate": "2026-08-19",
-        "AddedTimestamp": 1787168720.7957904,
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-05",
+        "AddedTimestamp": 1788635141.7090676,
         "MatchedTags": [
             "colony sim",
             "management",
@@ -180217,6 +180219,51 @@
             "tower defense",
             "strategy",
             "resource management"
+        ]
+    },
+    "4906930": {
+        "Title": "Department 98",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4906930/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4906930/44d3646d9b9d5478397d1deb1fd6fcfde7b2ca4d/header.jpg?t=1788630459",
+        "Date": "December 2026",
+        "AddedDate": "2026-09-05",
+        "AddedTimestamp": 1788635108.3018224,
+        "MatchedTags": [
+            "psychological horror",
+            "management"
+        ]
+    },
+    "4923040": {
+        "Title": "The Obsessive Shadow: Former Residents",
+        "Email": "pablo@pmhinteractive.com",
+        "Discord": "https://discord.gg/JQeVqHEgt6",
+        "URL": "https://store.steampowered.com/app/4923040/",
+        "Site": "https://pmhinteractive.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4923040/cb63600cae4293756476390d2a5b304e54a0d6f2/header.jpg?t=1788629636",
+        "Date": "2027",
+        "AddedDate": "2026-09-05",
+        "AddedTimestamp": 1788635113.1174974,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5154830": {
+        "Title": "FEEDSTOCK",
+        "Email": "",
+        "Discord": "https://discord.gg/Ebn6XEPa2F",
+        "URL": "https://store.steampowered.com/app/5154830/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5154830/d249eb3b5171ee8bc7949fb30eef171924f92717/header.jpg?t=1788628917",
+        "Date": "October 2026",
+        "AddedDate": "2026-09-05",
+        "AddedTimestamp": 1788635178.7797515,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
         ]
     }
 }
