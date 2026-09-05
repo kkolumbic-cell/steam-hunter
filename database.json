@@ -61297,9 +61297,9 @@
         "URL": "https://store.steampowered.com/app/4730320/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4730320/403ed1654608bd829de2d9bd8f59749113be76f7/header.jpg?t=1779296122",
-        "Date": "Nov 27, 2026",
-        "AddedDate": "2026-08-14",
-        "AddedTimestamp": 1786740538.005017,
+        "Date": "Jan 19, 2027",
+        "AddedDate": "2026-09-05",
+        "AddedTimestamp": 1788570063.3881376,
         "MatchedTags": [
             "strategy"
         ]
@@ -80961,9 +80961,9 @@
         "URL": "https://store.steampowered.com/app/4685520/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4685520/fb1f4ad6acb15ce59e75364e6fbd071d2a4d41a8/header.jpg?t=1781128613",
-        "Date": "2026",
-        "AddedDate": "2026-06-10",
-        "AddedTimestamp": 1781132362.1744885,
+        "Date": "Sep 4, 2026",
+        "AddedDate": "2026-09-05",
+        "AddedTimestamp": 1788570057.5394897,
         "MatchedTags": [
             "horror"
         ]
@@ -109488,9 +109488,9 @@
         "URL": "https://store.steampowered.com/app/4908300/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4908300/b2cdc3dfdd7ff7b36d34f50086e2a65fb0634301/header.jpg?t=1783974319",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-26",
-        "AddedTimestamp": 1787709703.782816,
+        "Date": "Sep 4, 2026",
+        "AddedDate": "2026-09-05",
+        "AddedTimestamp": 1788570079.9057426,
         "MatchedTags": [
             "strategy"
         ]
@@ -144185,7 +144185,7 @@
     "5090060": {
         "Title": "Starlathe",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/ZBEqyVzj27",
         "URL": "https://store.steampowered.com/app/5090060/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5090060/24165a0af83ce00a4ca3e825506fa4bd607328df/header.jpg?t=1786819997",
@@ -146768,7 +146768,8 @@
         "AddedDate": "2026-09-03",
         "AddedTimestamp": 1788475212.9841206,
         "MatchedTags": [
-            "turn-based strategy"
+            "turn-based strategy",
+            "management"
         ]
     },
     "5046950": {
@@ -174045,18 +174046,18 @@
     },
     "5161410": {
         "Title": "Liminal Depths",
-        "Email": "",
+        "Email": "info@crookedkrown.com",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/5161410/",
-        "Site": "",
+        "Site": "https://crookedkrown.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5161410/366f8a329e779db1e7e6c3bdcf0da39c21c17915/header.jpg?t=1788285068",
-        "Date": "To be announced",
-        "AddedDate": "2026-09-01",
-        "AddedTimestamp": 1788288230.3371592,
+        "Date": "2027",
+        "AddedDate": "2026-09-05",
+        "AddedTimestamp": 1788570196.1089253,
         "MatchedTags": [
             "horror",
-            "psychological horror",
             "survival horror",
+            "psychological horror",
             "management"
         ]
     },
@@ -174523,9 +174524,9 @@
         "URL": "https://store.steampowered.com/app/5131110/",
         "Site": "https://selahattin.dev",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5131110/bf4780d226ae180518c2c44023021fa685e1bd60/header.jpg?t=1788306232",
-        "Date": "November 2026",
-        "AddedDate": "2026-09-02",
-        "AddedTimestamp": 1788308423.0594923,
+        "Date": "Nov 11, 2026",
+        "AddedDate": "2026-09-05",
+        "AddedTimestamp": 1788570168.6273193,
         "MatchedTags": [
             "management",
             "economy",
@@ -178143,6 +178144,7 @@
         "AddedDate": "2026-09-04",
         "AddedTimestamp": 1788501652.729979,
         "MatchedTags": [
+            "tower defense",
             "strategy"
         ]
     },
@@ -178394,9 +178396,9 @@
         "URL": "https://store.steampowered.com/app/5144970/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5144970/c0bc4a808ca04ffc8b74cb9fbf08e3a130730ba9/header.jpg?t=1788516674",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-09-04",
-        "AddedTimestamp": 1788521396.5507567,
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-05",
+        "AddedTimestamp": 1788570186.386053,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -179541,6 +179543,108 @@
             "strategy",
             "real time tactics",
             "tactical"
+        ]
+    },
+    "3079390": {
+        "Title": "Farming and fighting on Island",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3079390/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079390/1fd232aa379555878538cbc6687a61878ae5df7e/header.jpg?t=1788565137",
+        "Date": "Q4 2027",
+        "AddedDate": "2026-09-05",
+        "AddedTimestamp": 1788570025.8857493,
+        "MatchedTags": [
+            "base building",
+            "resource management"
+        ]
+    },
+    "4631580": {
+        "Title": "Escape from Deadville",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4631580/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631580/f41ef9337d7c1108afaa9b75e0e1bda5c08643dd/header.jpg?t=1788569978",
+        "Date": "TBA",
+        "AddedDate": "2026-09-05",
+        "AddedTimestamp": 1788570052.06158,
+        "MatchedTags": [
+            "base building"
+        ]
+    },
+    "4803370": {
+        "Title": "Fonda del Diablo",
+        "Email": "nahir.f@dreamsofheaven-games.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4803370/",
+        "Site": "https://dreamsofheaven-games.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803370/c9f33c3536af327738641a2f29b33f48dab68ea5/header.jpg?t=1788562312",
+        "Date": "To be announced",
+        "AddedDate": "2026-09-05",
+        "AddedTimestamp": 1788570074.2323198,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4974820": {
+        "Title": "No ESC",
+        "Email": "",
+        "Discord": "https://discord.com/invite/cyAsWKnqUS",
+        "URL": "https://store.steampowered.com/app/4974820/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4974820/a3bec4b3b461534aadcaea73aa751a996bc64ffa/header.jpg?t=1788567562",
+        "Date": "Oct 28, 2026",
+        "AddedDate": "2026-09-05",
+        "AddedTimestamp": 1788570097.4051397,
+        "MatchedTags": [
+            "survival horror",
+            "horror"
+        ]
+    },
+    "5121930": {
+        "Title": "Carnival Stand Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5121930/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5121930/927f8fb035a24cdbc3cb43cbb64185e082620c55/header.jpg?t=1788566937",
+        "Date": "Feb 2, 2027",
+        "AddedDate": "2026-09-05",
+        "AddedTimestamp": 1788570159.403318,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "5199870": {
+        "Title": "IT MOVES! - Build Your Own Robot",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5199870/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5199870/81a239cf74b8f1617a505195edc341b2721db690/header.jpg?t=1788562701",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-09-05",
+        "AddedTimestamp": 1788570214.728346,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5202710": {
+        "Title": "Perfumer's Life Simulator",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5202710/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5202710/a73394a64ec682f4842569c5f24a16cce12d9686/header.jpg?t=1788563353",
+        "Date": "November 2026",
+        "AddedDate": "2026-09-05",
+        "AddedTimestamp": 1788570218.1679056,
+        "MatchedTags": [
+            "economy",
+            "resource management",
+            "management"
         ]
     }
 }
