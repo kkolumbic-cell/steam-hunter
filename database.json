@@ -40338,9 +40338,9 @@
         "URL": "https://store.steampowered.com/app/4635030/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4635030/e44ffac188fd3da846415b0d9af23452f01aad94/header.jpg?t=1777019217",
-        "Date": "Q1 2027",
-        "AddedDate": "2026-05-04",
-        "AddedTimestamp": 1777917303.3759441,
+        "Date": "2027",
+        "AddedDate": "2026-09-06",
+        "AddedTimestamp": 1788686952.9953272,
         "MatchedTags": [
             "strategy",
             "horror"
@@ -41971,9 +41971,9 @@
         "URL": "https://store.steampowered.com/app/4631470/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631470/ae7bdcf0b4df051d2f56a1a2c94c21e5c66ec48c/header.jpg?t=1777187571",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-06-24",
-        "AddedTimestamp": 1782302591.9153907,
+        "Date": "October 2026",
+        "AddedDate": "2026-09-06",
+        "AddedTimestamp": 1788686950.6982594,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -110863,7 +110863,8 @@
         "AddedTimestamp": 1784086862.9885848,
         "MatchedTags": [
             "strategy",
-            "turn-based combat"
+            "turn-based combat",
+            "turn-based strategy"
         ]
     },
     "3168950": {
@@ -118096,9 +118097,9 @@
         "URL": "https://store.steampowered.com/app/4744700/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4744700/4729b4beabf5433c35b1a7817ea15384ad4f25f9/header.jpg?t=1784717987",
-        "Date": "Nov 26, 2026",
-        "AddedDate": "2026-09-01",
-        "AddedTimestamp": 1788287872.9801772,
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-06",
+        "AddedTimestamp": 1788686977.5999496,
         "MatchedTags": [
             "survival horror"
         ]
@@ -119441,9 +119442,9 @@
         "URL": "https://store.steampowered.com/app/4758150/",
         "Site": "https://paahtimo.games/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4758150/dcec71d4201d09b412e493dead219a705cd7f165/header.jpg?t=1784807212",
-        "Date": "To be announced",
-        "AddedDate": "2026-07-23",
-        "AddedTimestamp": 1784808300.3379412,
+        "Date": "Nov 16, 2026",
+        "AddedDate": "2026-09-06",
+        "AddedTimestamp": 1788686983.2239637,
         "MatchedTags": [
             "turn-based combat",
             "turn-based strategy"
@@ -147715,9 +147716,9 @@
         "URL": "https://store.steampowered.com/app/5068280/",
         "Site": "https://trippybento.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5068280/9a2f7357595a74bf755582555a065ee778ced40a/header.jpg?t=1787057332",
-        "Date": "November 2026",
-        "AddedDate": "2026-09-02",
-        "AddedTimestamp": 1788308374.088115,
+        "Date": "Sep 18, 2026",
+        "AddedDate": "2026-09-06",
+        "AddedTimestamp": 1788687052.9929957,
         "MatchedTags": [
             "city builder",
             "colony sim",
@@ -180473,6 +180474,140 @@
         "AddedTimestamp": 1788670020.0286162,
         "MatchedTags": [
             "strategy"
+        ]
+    },
+    "4745610": {
+        "Title": "The One I Saw",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4745610/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4745610/962877d7cb28d988be85ede597e10b4ee8c1cde1/header.jpg?t=1788683560",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-06",
+        "AddedTimestamp": 1788686980.821692,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "4955940": {
+        "Title": "Go Fish: The Card Game?",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4955940/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4955940/df22d01314255db1688a7b24d893c8733c38d0ae/header.jpg?t=1788674050",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-06",
+        "AddedTimestamp": 1788687026.930976,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4960960": {
+        "Title": "Armored clash",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4960960/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4960960/c02256505f93880a928e85b800194a508e0a54da/header.jpg?t=1788675049",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-06",
+        "AddedTimestamp": 1788687032.4739149,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "5136120": {
+        "Title": "Off the Clock: 13/F",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5136120/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5136120/31152d2f37a1fbc4b479a9bce06f501c03f8bdba/header.jpg?t=1788682703",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-06",
+        "AddedTimestamp": 1788687081.389997,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "5161560": {
+        "Title": "A Bun Above",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5161560/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5161560/c077013c1d33604369b143f995ad12c18c1c0b67/header.jpg?t=1788686443",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-09-06",
+        "AddedTimestamp": 1788687096.1455812,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5167010": {
+        "Title": "By Royal Request",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5167010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5167010/062b8371f7c508bd1feedd85f026987b854934f1/header.jpg?t=1788675546",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-06",
+        "AddedTimestamp": 1788687101.996805,
+        "MatchedTags": [
+            "strategy",
+            "management",
+            "resource management"
+        ]
+    },
+    "5174890": {
+        "Title": "Midas: Eoru",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5174890/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5174890/d79d20d64c7b13b59cee79299a8452b48915246e/header.jpg?t=1788677281",
+        "Date": "2026",
+        "AddedDate": "2026-09-06",
+        "AddedTimestamp": 1788687109.9353192,
+        "MatchedTags": [
+            "psychological horror",
+            "horror"
+        ]
+    },
+    "5188740": {
+        "Title": "Master of Arms",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5188740/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5188740/9d5d393ec7dfd316cc1cf36b94a30451f682487b/header.jpg?t=1788686332",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-09-06",
+        "AddedTimestamp": 1788687119.3963869,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "5207010": {
+        "Title": "Gateholt",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5207010/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5207010/54785c15e0e08d4f267e25226defd06395ed221b/header.jpg?t=1788671098",
+        "Date": "October 2026",
+        "AddedDate": "2026-09-06",
+        "AddedTimestamp": 1788687134.8728507,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
         ]
     }
 }
