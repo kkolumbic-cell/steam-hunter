@@ -13220,9 +13220,9 @@
         "URL": "https://store.steampowered.com/app/3226380/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3226380/f43ed4690443aaaef4ffd02270528c6863bf0083/header.jpg?t=1774374395",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-24",
-        "AddedTimestamp": 1774375899.7116783,
+        "Date": "Sep 6, 2026",
+        "AddedDate": "2026-09-06",
+        "AddedTimestamp": 1788722059.5409203,
         "MatchedTags": [
             "strategy",
             "horror"
@@ -65861,12 +65861,11 @@
         "URL": "https://store.steampowered.com/app/4067820/",
         "Site": "https://drive.google.com/drive/folders/1qjAbI7x3U3Bl98PrZ1QJb9LaAoBDycQa",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4067820/f7d81910ae7693b62d273855f518a955273fd0db/header.jpg?t=1779895825",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-05-27",
-        "AddedTimestamp": 1779900642.0713723,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-09-06",
+        "AddedTimestamp": 1788722063.0561264,
         "MatchedTags": [
             "strategy",
-            "psychological horror",
             "resource management",
             "horror"
         ]
@@ -69901,9 +69900,9 @@
         "URL": "https://store.steampowered.com/app/1864570/",
         "Site": "https://mediatale.games",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1864570/561011ea3aedefdd60d95f76b2a58e13c78629ff/header.jpg?t=1780231417",
-        "Date": "Sep 24, 2026",
-        "AddedDate": "2026-08-14",
-        "AddedTimestamp": 1786747377.1556463,
+        "Date": "Oct 19, 2026",
+        "AddedDate": "2026-09-06",
+        "AddedTimestamp": 1788722050.5435152,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -73711,7 +73710,8 @@
         "AddedTimestamp": 1780522509.4626393,
         "MatchedTags": [
             "horror",
-            "psychological horror"
+            "psychological horror",
+            "survival horror"
         ]
     },
     "4759420": {
@@ -98757,9 +98757,9 @@
         "URL": "https://store.steampowered.com/app/4896520/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4896520/a1bb1c72986215549cda95069005f4bc2d1a06c0/header.jpg?t=1782845938",
-        "Date": "August 2026",
-        "AddedDate": "2026-07-06",
-        "AddedTimestamp": 1783355668.40015,
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-06",
+        "AddedTimestamp": 1788722166.5019386,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -155680,13 +155680,12 @@
         "AddedDate": "2026-08-26",
         "AddedTimestamp": 1787750476.7097454,
         "MatchedTags": [
-            "strategy",
-            "city builder",
-            "tower defense",
             "real time tactics",
-            "tactical",
             "base building",
-            "resource management"
+            "resource management",
+            "tower defense",
+            "strategy",
+            "tactical"
         ]
     },
     "4651720": {
@@ -160658,9 +160657,9 @@
         "URL": "https://store.steampowered.com/app/5139300/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5139300/083b32c93a3bf3bd6707a86d1099c8134d1ce8b0/header.jpg?t=1787716380",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-09-03",
-        "AddedTimestamp": 1788415056.6538503,
+        "Date": "November 2026",
+        "AddedDate": "2026-09-06",
+        "AddedTimestamp": 1788722231.490113,
         "MatchedTags": [
             "strategy"
         ]
@@ -180811,6 +180810,95 @@
         "AddedTimestamp": 1788714704.9809017,
         "MatchedTags": [
             "turn-based combat"
+        ]
+    },
+    "2830780": {
+        "Title": "The Candyman: Legacy",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2830780/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2830780/9efdce29a63a9e6310bff6217091981c805eee13/header.jpg?t=1788720043",
+        "Date": "Oct 9, 2026",
+        "AddedDate": "2026-09-06",
+        "AddedTimestamp": 1788722057.5129707,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4809290": {
+        "Title": "Who's the Cheater?",
+        "Email": "",
+        "Discord": "https://discord.gg/WkWngfKRab",
+        "URL": "https://store.steampowered.com/app/4809290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4809290/84cebd80f230547810e4fd180391c6e5953c3f37/header.jpg?t=1788715512",
+        "Date": "December 2026",
+        "AddedDate": "2026-09-06",
+        "AddedTimestamp": 1788722142.842982,
+        "MatchedTags": [
+            "real time tactics"
+        ]
+    },
+    "4955170": {
+        "Title": "Bonespire",
+        "Email": "",
+        "Discord": "https://discord.gg/akuparagames",
+        "URL": "https://store.steampowered.com/app/4955170/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4955170/fd01e5d1e0c8cba733cee3e8e6f8a527849246cb/header.jpg?t=1788720738",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-06",
+        "AddedTimestamp": 1788722171.0981398,
+        "MatchedTags": [
+            "resource management",
+            "base building"
+        ]
+    },
+    "5133660": {
+        "Title": "Idle Commander",
+        "Email": "",
+        "Discord": "https://discord.gg/Z6zF3hRTpZ",
+        "URL": "https://store.steampowered.com/app/5133660/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5133660/99d7e83175f15a5423b65de337a79be4ad8c0ea5/header.jpg?t=1788721191",
+        "Date": "February 2027",
+        "AddedDate": "2026-09-06",
+        "AddedTimestamp": 1788722228.6857164,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5176520": {
+        "Title": "Down to Floor Zero",
+        "Email": "",
+        "Discord": "https://discord.gg/zGB4qJuHe8",
+        "URL": "https://store.steampowered.com/app/5176520/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5176520/29d02ddd391e97f6578725f7b8d66ed48cfd6298/header.jpg?t=1788721037",
+        "Date": "Dec 10, 2026",
+        "AddedDate": "2026-09-06",
+        "AddedTimestamp": 1788722239.3304882,
+        "MatchedTags": [
+            "survival horror",
+            "resource management",
+            "horror"
+        ]
+    },
+    "5200500": {
+        "Title": "Hatter by Night",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5200500/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5200500/6d9e4c87e92f248f44cb9c69207eaf807f20f3c0/header.jpg?t=1788720808",
+        "Date": "2026",
+        "AddedDate": "2026-09-06",
+        "AddedTimestamp": 1788722248.475234,
+        "MatchedTags": [
+            "survival horror",
+            "horror",
+            "psychological horror"
         ]
     }
 }
