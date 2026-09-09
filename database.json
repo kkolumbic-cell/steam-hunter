@@ -58358,9 +58358,9 @@
         "URL": "https://store.steampowered.com/app/4699060/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699060/113b512532da21b8e9d32d88b9e0bb788638b188/header.jpg?t=1778782959",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-05-15",
-        "AddedTimestamp": 1778833179.1016755,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-09-09",
+        "AddedTimestamp": 1788913111.6211681,
         "MatchedTags": [
             "turn-based strategy",
             "turn-based tactics",
@@ -85567,9 +85567,9 @@
         "URL": "https://store.steampowered.com/app/4840010/",
         "Site": "https://feldsparc.com/fathom-reach/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840010/ea01a405e8d89e59985f1e4037445aa43cf126ee/header.jpg?t=1781537150",
-        "Date": "Oct 27, 2026",
-        "AddedDate": "2026-09-07",
-        "AddedTimestamp": 1788824020.1581302,
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-09",
+        "AddedTimestamp": 1788913146.9556887,
         "MatchedTags": [
             "strategy",
             "base building"
@@ -113771,9 +113771,9 @@
         "URL": "https://store.steampowered.com/app/4898790/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4898790/b9e15ab7a91d958e339fa444236ec6cc9656c351/header.jpg?t=1784311725",
-        "Date": "Sep 9, 2026",
-        "AddedDate": "2026-08-31",
-        "AddedTimestamp": 1788207407.3539536,
+        "Date": "2026",
+        "AddedDate": "2026-09-09",
+        "AddedTimestamp": 1788913160.4935417,
         "MatchedTags": [
             "strategy",
             "resource management"
@@ -114113,8 +114113,8 @@
         "AddedDate": "2026-08-26",
         "AddedTimestamp": 1787750433.2641933,
         "MatchedTags": [
-            "turn-based combat",
-            "strategy"
+            "strategy",
+            "turn-based combat"
         ]
     },
     "4965050": {
@@ -117574,10 +117574,9 @@
             "turn-based combat",
             "turn-based tactics",
             "tactical rpg",
-            "strategy",
-            "turn-based strategy",
             "base building",
-            "tactical"
+            "tactical",
+            "turn-based strategy"
         ]
     },
     "1491270": {
@@ -154865,10 +154864,10 @@
     },
     "4539850": {
         "Title": "Magic Portals",
-        "Email": "",
+        "Email": "hello@rtforge.eu",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4539850/",
-        "Site": "",
+        "Site": "https://rtforge.eu/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4539850/ce13bf88ab2af4dbf829750f1cb334c8e42147d7/header.jpg?t=1787354664",
         "Date": "Nov 3, 2026",
         "AddedDate": "2026-08-21",
@@ -157177,9 +157176,9 @@
         "URL": "https://store.steampowered.com/app/5023810/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5023810/fa0e256cb2f7cb7e3e72d651bd121473d3de1d4b/header.jpg?t=1787571163",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-24",
-        "AddedTimestamp": 1787572003.5947194,
+        "Date": "Apr 2, 20000",
+        "AddedDate": "2026-09-09",
+        "AddedTimestamp": 1788913208.8352392,
         "MatchedTags": [
             "horror",
             "survival horror",
@@ -162866,9 +162865,9 @@
         "URL": "https://store.steampowered.com/app/4985690/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4985690/da1f0a0b23ebab3209269c778c8fb286759ac6a9/header.jpg?t=1787810152",
-        "Date": "Aug 31, 2026",
-        "AddedDate": "2026-08-27",
-        "AddedTimestamp": 1787824909.313791,
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-09",
+        "AddedTimestamp": 1788913187.1569128,
         "MatchedTags": [
             "turn-based strategy",
             "turn-based tactics",
@@ -171653,7 +171652,7 @@
     "5011760": {
         "Title": "CHUM Fishing",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/CJdeCv7He",
         "URL": "https://store.steampowered.com/app/5011760/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5011760/0b0dbfe00dab7d0e4814db6e880ed1956300b4a2/header.jpg?t=1788201458",
@@ -182893,6 +182892,83 @@
             "turn-based strategy",
             "management",
             "base building"
+        ]
+    },
+    "4995590": {
+        "Title": "GoE: Escaping the Garden of Eden",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4995590/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4995590/fa90fe15a1694a6ba38ec2fea177ead6a4a704db/header.jpg?t=1788904751",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-09",
+        "AddedTimestamp": 1788913198.7627342,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "turn-based strategy",
+            "base building",
+            "turn-based combat",
+            "management"
+        ]
+    },
+    "5070580": {
+        "Title": "\u548c\u5b50",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5070580/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5070580/ea89b21d32f7ee59e1e8674e7021aea896b54dfb/header.jpg?t=1788911599",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-09",
+        "AddedTimestamp": 1788913238.8802168,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5105650": {
+        "Title": "Love, Death & My Daughter",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5105650/",
+        "Site": "https://geismgame.com/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5105650/8a9fec149a177937c2c88df9649861f9ac73d5e6/header.jpg?t=1788912219",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-09-09",
+        "AddedTimestamp": 1788913258.9425783,
+        "MatchedTags": [
+            "psychological horror"
+        ]
+    },
+    "5195200": {
+        "Title": "Engagement",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5195200/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5195200/83c68a86e953e9c117d4f81932be18836591bcfe/header.jpg?t=1788905855",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-09-09",
+        "AddedTimestamp": 1788913297.05448,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics"
+        ]
+    },
+    "5217730": {
+        "Title": "MARGIN: Raj Minerals",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5217730/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5217730/57cca86ba2826b3ebf7cc9d10d04fd9842c1d231/header.jpg?t=1788911853",
+        "Date": "TBA",
+        "AddedDate": "2026-09-09",
+        "AddedTimestamp": 1788913309.2011952,
+        "MatchedTags": [
+            "management",
+            "economy"
         ]
     }
 }
