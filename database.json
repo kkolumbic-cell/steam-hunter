@@ -3127,9 +3127,9 @@
         "URL": "https://store.steampowered.com/app/3936340/",
         "Site": "https://impress.games/press-kit/mondbekker/hell-wait",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3936340/a429813374132309ee2a54bfd32c99ad5d1a2d68/header.jpg?t=1772829804",
-        "Date": "2026",
-        "AddedDate": "2026-03-06",
-        "AddedTimestamp": 1772830146.0707383,
+        "Date": "Nov 9, 2026",
+        "AddedDate": "2026-09-11",
+        "AddedTimestamp": 1789166265.0416348,
         "MatchedTags": [
             "turn-based strategy",
             "strategy"
@@ -17212,9 +17212,9 @@
         "URL": "https://store.steampowered.com/app/4535320/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4535320/8153a3c0276bf8642870ffcc3ea808a7695b6f75/header.jpg?t=1774707216",
-        "Date": "Coming soon",
-        "AddedDate": "2026-03-28",
-        "AddedTimestamp": 1774709588.8665385,
+        "Date": "Sep 11, 2026",
+        "AddedDate": "2026-09-11",
+        "AddedTimestamp": 1789166285.3217325,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -48527,9 +48527,9 @@
         "URL": "https://store.steampowered.com/app/4676940/",
         "Site": "https://parcyval.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4676940/bde4bf62b8a7d0be95c11906b99fe734363c4920/header.jpg?t=1777701298",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-07-02",
-        "AddedTimestamp": 1782972722.0043848,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-09-11",
+        "AddedTimestamp": 1789166297.5800066,
         "MatchedTags": [
             "economy",
             "management",
@@ -112719,7 +112719,6 @@
         "AddedTimestamp": 1787970006.7271256,
         "MatchedTags": [
             "economy",
-            "strategy",
             "resource management"
         ]
     },
@@ -123941,8 +123940,10 @@
         "AddedDate": "2026-07-28",
         "AddedTimestamp": 1785271122.3378105,
         "MatchedTags": [
+            "management",
             "strategy",
-            "management"
+            "base building",
+            "resource management"
         ]
     },
     "4950700": {
@@ -130591,7 +130592,7 @@
     "4792380": {
         "Title": "Dread Line: Metro",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/sqAFmeX22M",
         "URL": "https://store.steampowered.com/app/4792380/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4792380/98f3e865f4fff3ae976481fb3bd75216a2a5f17a/header.jpg?t=1785855907",
@@ -136746,9 +136747,9 @@
         "AddedDate": "2026-08-10",
         "AddedTimestamp": 1786381999.5715456,
         "MatchedTags": [
-            "strategy",
+            "turn-based tactics",
             "tactical",
-            "turn-based tactics"
+            "strategy"
         ]
     },
     "4860080": {
@@ -163603,9 +163604,9 @@
         "URL": "https://store.steampowered.com/app/4802190/",
         "Site": "https://www.scoundrelcardgame.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4802190/e04b406428e9949d6c514b0c873606a9d275367a/header.jpg?t=1787839390",
-        "Date": "Q3 2026",
-        "AddedDate": "2026-08-27",
-        "AddedTimestamp": 1787863309.4734259,
+        "Date": "Sep 11, 2026",
+        "AddedDate": "2026-09-11",
+        "AddedTimestamp": 1789166314.9701233,
         "MatchedTags": [
             "strategy",
             "turn-based combat"
@@ -180282,9 +180283,9 @@
         "URL": "https://store.steampowered.com/app/5164660/",
         "Site": "https://www.enterthegamestudio.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5164660/d162d37ef0010deb37d42225904c1a2836791410/header.jpg?t=1788651473",
-        "Date": "Sep 17, 2026",
-        "AddedDate": "2026-09-05",
-        "AddedTimestamp": 1788652740.2706957,
+        "Date": "September 2026",
+        "AddedDate": "2026-09-11",
+        "AddedTimestamp": 1789166420.3617175,
         "MatchedTags": [
             "strategy",
             "tower defense"
@@ -182782,7 +182783,7 @@
     },
     "5167250": {
         "Title": "MINTHAVEN: A TCG Life Sim",
-        "Email": "",
+        "Email": "papernookgames@gmail.com",
         "Discord": "https://discord.gg/tesU3PdTz",
         "URL": "https://store.steampowered.com/app/5167250/",
         "Site": "https://papernookgames.com/",
@@ -188000,6 +188001,140 @@
         "MatchedTags": [
             "strategy",
             "tower defense"
+        ]
+    },
+    "3363910": {
+        "Title": "You Have Been Deleted",
+        "Email": "",
+        "Discord": "https://discord.gg/p9KvfxVk6Q",
+        "URL": "https://store.steampowered.com/app/3363910/",
+        "Site": "http://ehlersvideo.com",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3363910/ab8dc24f764e3087fe5edbaeeed66f8818d2ba97/header.jpg?t=1789164799",
+        "Date": "To be announced",
+        "AddedDate": "2026-09-11",
+        "AddedTimestamp": 1789166248.8188744,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "4902350": {
+        "Title": "Split Ride",
+        "Email": "",
+        "Discord": "https://discord.gg/y3tHSajkR ",
+        "URL": "https://store.steampowered.com/app/4902350/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4902350/ea2638934a742029bb394b5ea88d02c4171841e8/header.jpg?t=1789158317",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-11",
+        "AddedTimestamp": 1789166343.9718559,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "5072600": {
+        "Title": "Family Time",
+        "Email": "",
+        "Discord": "https://discord.com/invite/X7pxCef6QB",
+        "URL": "https://store.steampowered.com/app/5072600/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5072600/4584069ef5af5221d75a0e82de25155ea32a61d7/header.jpg?t=1789160617",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-09-11",
+        "AddedTimestamp": 1789166395.3662925,
+        "MatchedTags": [
+            "colony sim",
+            "base building"
+        ]
+    },
+    "5141340": {
+        "Title": "Parallax Kaal",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5141340/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5141340/75fccba4a44072ec5835bbd9efeaf20ea2a46b03/header.jpg?t=1789164648",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-11",
+        "AddedTimestamp": 1789166411.8344548,
+        "MatchedTags": [
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "5185520": {
+        "Title": "Fortryv",
+        "Email": "",
+        "Discord": "https://discord.com/invite/EhHcvqQDwr",
+        "URL": "https://store.steampowered.com/app/5185520/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5185520/6de76a4bcabcf88c0e952fde3fb57cbd2120e914/header.jpg?t=1789161727",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-11",
+        "AddedTimestamp": 1789166444.387187,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5191770": {
+        "Title": "Station-14",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5191770/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191770/191388de997e3418cdabb9cf78e3fec316fc4e0e/header.jpg?t=1789159708",
+        "Date": "October 2026",
+        "AddedDate": "2026-09-11",
+        "AddedTimestamp": 1789166447.7145152,
+        "MatchedTags": [
+            "horror",
+            "psychological horror",
+            "survival horror"
+        ]
+    },
+    "5208420": {
+        "Title": "Duel Baccarat",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5208420/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5208420/a7ee5d734139d791a61724fd8939a17f755a31f0/header.jpg?t=1789160345",
+        "Date": "Sep 29, 2026",
+        "AddedDate": "2026-09-11",
+        "AddedTimestamp": 1789166459.0459402,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5230220": {
+        "Title": "Lexicon Odyssey ~~A Japanese-Learning RPG~~",
+        "Email": "",
+        "Discord": "https://discord.gg/sKCJcgCnf4",
+        "URL": "https://store.steampowered.com/app/5230220/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5230220/f87d2e0ffa22b4aa8764b7cbc9a378c0576250ae/header.jpg?t=1789157699",
+        "Date": "Q3 2026",
+        "AddedDate": "2026-09-11",
+        "AddedTimestamp": 1789166472.904947,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "5234410": {
+        "Title": "The Long Freeze",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5234410/",
+        "Site": "https://pixelsgraphicdesign.com/games/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5234410/04da073ff94da1696287c3f45b83297b7f4bdb13/header.jpg?t=1789158501",
+        "Date": "Nov 29, 2027",
+        "AddedDate": "2026-09-11",
+        "AddedTimestamp": 1789166478.428738,
+        "MatchedTags": [
+            "strategy",
+            "horror",
+            "survival horror"
         ]
     }
 }
