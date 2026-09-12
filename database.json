@@ -42199,9 +42199,9 @@
         "URL": "https://store.steampowered.com/app/4553110/",
         "Site": "https://www.elternity.net",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4553110/b4524004c235a32a1f1c6701cd734a0a403fdeea/header.jpg?t=1777231197",
-        "Date": "2027",
-        "AddedDate": "2026-09-02",
-        "AddedTimestamp": 1788348243.8957205,
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789222303.3285503,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -64705,6 +64705,7 @@
         "AddedDate": "2026-05-26",
         "AddedTimestamp": 1779785217.9555352,
         "MatchedTags": [
+            "horror",
             "psychological horror"
         ]
     },
@@ -90411,10 +90412,10 @@
         "AddedDate": "2026-08-08",
         "AddedTimestamp": 1786168727.3369105,
         "MatchedTags": [
-            "colony sim",
-            "strategy",
+            "base building",
             "management",
-            "base building"
+            "colony sim",
+            "strategy"
         ]
     },
     "4835840": {
@@ -143117,9 +143118,9 @@
         "URL": "https://store.steampowered.com/app/5083730/",
         "Site": "https://jlgamesstudio.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5083730/8b6ccb5724775ff2d6e68f7c59a9d034b844d3ad/header.jpg?t=1786752706",
-        "Date": "Coming soon",
-        "AddedDate": "2026-09-10",
-        "AddedTimestamp": 1789080046.1992218,
+        "Date": "September 2026",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789222434.6692855,
         "MatchedTags": [
             "management",
             "economy"
@@ -151228,8 +151229,8 @@
         "AddedTimestamp": 1787195576.898217,
         "MatchedTags": [
             "real time tactics",
-            "strategy",
-            "tower defense"
+            "tactical rpg",
+            "strategy"
         ]
     },
     "4691050": {
@@ -169262,9 +169263,9 @@
         "URL": "https://store.steampowered.com/app/5131120/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5131120/8391f92ed0eee9ce6309c8405551af51e716b007/header.jpg?t=1788071741",
-        "Date": "September 2026",
-        "AddedDate": "2026-08-30",
-        "AddedTimestamp": 1788072499.38041,
+        "Date": "Sep 12, 2026",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789222470.1587973,
         "MatchedTags": [
             "strategy",
             "economy"
@@ -178004,9 +178005,9 @@
         "URL": "https://store.steampowered.com/app/5198270/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5198270/e727a9626164fe04743fad1341193a61f654258f/header.jpg?t=1788483613",
-        "Date": "Nov 19, 2026",
-        "AddedDate": "2026-09-06",
-        "AddedTimestamp": 1788702468.735521,
+        "Date": "Nov 11, 2026",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789222515.7272239,
         "MatchedTags": [
             "strategy",
             "base building",
@@ -180479,20 +180480,6 @@
         "MatchedTags": [
             "psychological horror",
             "horror"
-        ]
-    },
-    "5161560": {
-        "Title": "A Bun Above",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/5161560/",
-        "Site": "",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5161560/c077013c1d33604369b143f995ad12c18c1c0b67/header.jpg?t=1788686443",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-09-06",
-        "AddedTimestamp": 1788687096.1455812,
-        "MatchedTags": [
-            "strategy"
         ]
     },
     "5167010": {
@@ -183126,7 +183113,8 @@
         "AddedTimestamp": 1788933995.9157712,
         "MatchedTags": [
             "horror",
-            "psychological horror"
+            "psychological horror",
+            "survival horror"
         ]
     },
     "5183080": {
@@ -187653,20 +187641,6 @@
             "psychological horror"
         ]
     },
-    "5172250": {
-        "Title": "Remain /// IAMAI",
-        "Email": "info@snowflakers.net",
-        "Discord": "https://discord.gg/67HegYEJba",
-        "URL": "https://store.steampowered.com/app/5172250/",
-        "Site": "https://snowflakers.net/",
-        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5172250/7c3f4fbef7be78cb40367993cb63adf2d0b111ed/header.jpg?t=1789143030",
-        "Date": "Q1 2027",
-        "AddedDate": "2026-09-11",
-        "AddedTimestamp": 1789144813.534001,
-        "MatchedTags": [
-            "psychological horror"
-        ]
-    },
     "5201260": {
         "Title": "Alchemy Master",
         "Email": "",
@@ -188703,6 +188677,84 @@
         "MatchedTags": [
             "horror",
             "psychological horror"
+        ]
+    },
+    "4919170": {
+        "Title": "Myriad",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4919170/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4919170/d626832d32cbdfa8d316e32fb6a53cd9e1c9f09a/header.jpg?t=1789218562",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789222372.848924,
+        "MatchedTags": [
+            "strategy",
+            "horror"
+        ]
+    },
+    "5120750": {
+        "Title": "FIVE STAT FRENZY!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5120750/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5120750/d4ebdebc4d6ca9b8a51728a0a68945c6d6fd6be0/header.jpg?t=1789222054",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789222459.6671834,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics",
+            "tactical"
+        ]
+    },
+    "5174560": {
+        "Title": "Motive Power",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5174560/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5174560/326d9eb081a92a43d6f37a812df6a050d1f0334c/header.jpg?t=1789217729",
+        "Date": "November 2026",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789222495.5737844,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "resource management"
+        ]
+    },
+    "5202260": {
+        "Title": "OFF SOUNDINGS",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5202260/",
+        "Site": "https://dot2real.com/off-soundings/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5202260/2dca404c77d04dd2f50c414557651aacdfaec6d6/header.jpg?t=1789217011",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789222521.189485,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "real time tactics"
+        ]
+    },
+    "5236400": {
+        "Title": "\u65e0\u5195\u4e4b\u9f99 | Uncrowned Dragon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5236400/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5236400/72e708f8e4df42e9a53f7f83e3c9177d8f8886d3/header.jpg?t=1789220849",
+        "Date": "December 2028",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789222541.8891215,
+        "MatchedTags": [
+            "turn-based tactics",
+            "strategy"
         ]
     }
 }
