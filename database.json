@@ -153570,9 +153570,9 @@
         "URL": "https://store.steampowered.com/app/5116270/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5116270/4bde8fff224eac1bff20438b01a191655319f4dc/header.jpg?t=1787311159",
-        "Date": "September 2026",
-        "AddedDate": "2026-08-21",
-        "AddedTimestamp": 1787312759.8578658,
+        "Date": "2026",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789175547.6956692,
         "MatchedTags": [
             "strategy",
             "tactical"
@@ -157660,9 +157660,9 @@
         "URL": "https://store.steampowered.com/app/5134070/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5134070/6fe9cd7ac998c1fbabc6847799819de3cb2f37ff/header.jpg?t=1787597236",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-24",
-        "AddedTimestamp": 1787598301.1249588,
+        "Date": "Oct 28, 2026",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789175561.3281121,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -167113,8 +167113,10 @@
         "AddedDate": "2026-09-06",
         "AddedTimestamp": 1788669928.2849283,
         "MatchedTags": [
-            "strategy",
-            "horror"
+            "horror",
+            "survival horror",
+            "psychological horror",
+            "strategy"
         ]
     },
     "5071920": {
@@ -168802,9 +168804,9 @@
         "URL": "https://store.steampowered.com/app/5046670/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5046670/dc0e08a1f2bd5dd31a7a98a7ee58a50a7d3f1618/header.jpg?t=1788038080",
-        "Date": "TBA",
-        "AddedDate": "2026-08-29",
-        "AddedTimestamp": 1788040155.0995493,
+        "Date": "2027",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789175520.8824842,
         "MatchedTags": [
             "turn-based strategy",
             "turn-based tactics"
@@ -168985,9 +168987,9 @@
         "URL": "https://store.steampowered.com/app/5122630/",
         "Site": "https://babia.games",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5122630/0f0a90bfd12456d8569677976d4422d5199e0aec/header.jpg?t=1788042151",
-        "Date": "Oct 27, 2026",
-        "AddedDate": "2026-08-30",
-        "AddedTimestamp": 1788132890.5242562,
+        "Date": "Nov 2, 2026",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789175550.3669436,
         "MatchedTags": [
             "colony sim",
             "base building",
@@ -178034,9 +178036,9 @@
         "URL": "https://store.steampowered.com/app/4850130/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4850130/a4447f925411ad879ce85abb0979c42d7710545a/header.jpg?t=1788490465",
-        "Date": "2027",
-        "AddedDate": "2026-09-04",
-        "AddedTimestamp": 1788501571.9826293,
+        "Date": "To be announced",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789175439.8452983,
         "MatchedTags": [
             "psychological horror"
         ]
@@ -182502,9 +182504,9 @@
         "URL": "https://store.steampowered.com/app/5084910/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5084910/c2c332275ee40a47d0e7a2a2b27f4047bf1d2fad/header.jpg?t=1788885378",
-        "Date": "Coming soon",
-        "AddedDate": "2026-09-08",
-        "AddedTimestamp": 1788893454.2207897,
+        "Date": "Sep 22, 2026",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789175542.0422516,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
@@ -188135,6 +188137,141 @@
             "strategy",
             "horror",
             "survival horror"
+        ]
+    },
+    "4890360": {
+        "Title": "Hollow Cedar",
+        "Email": "",
+        "Discord": "https://discord.gg/4D9CTMnUBC",
+        "URL": "https://store.steampowered.com/app/4890360/",
+        "Site": "https://www.hollowcedar.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4890360/6490d40cd1ccc6bb20a84964796467a3f3ac69b2/header.jpg?t=1789167866",
+        "Date": "To be announced",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789175454.2499795,
+        "MatchedTags": [
+            "base building",
+            "resource management"
+        ]
+    },
+    "4913720": {
+        "Title": "The Sixth Sin",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4913720/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4913720/c49057d9c4a35e3049c3799bb1d73d65325664dc/header.jpg?t=1789167982",
+        "Date": "Sep 30, 2026",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789175469.861381,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "4917830": {
+        "Title": "Airstrike Protocol",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4917830/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4917830/a41e934b6036ec97adfb5dd63e60765a7bd681b5/header.jpg?t=1789169874",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789175473.120348,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4988230": {
+        "Title": "WWII Commanders",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4988230/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4988230/cd6e6439c3d26d27bf0e8eb13acd1d41f82a3234/header.jpg?t=1789169880",
+        "Date": "November 2026",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789175500.0992703,
+        "MatchedTags": [
+            "tactical rpg",
+            "turn-based tactics",
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "5003210": {
+        "Title": "Creewe!",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5003210/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5003210/fc7a3b65b7a0d061e3a05d7885da696667837138/header.jpg?t=1789175262",
+        "Date": "TBA",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789175502.3290112,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "5110620": {
+        "Title": "The Crooked Hand",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5110620/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5110620/08fc887da1864579aa4778b5c0b5365c769320b4/header.jpg?t=1789175178",
+        "Date": "Sep 17, 2026",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789175544.9255362,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
+        ]
+    },
+    "5188280": {
+        "Title": "My First Ant Farm",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5188280/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5188280/16a016d002bd6826cc6a29a3cdd996972ee739d4/header.jpg?t=1789169228",
+        "Date": "Sep 30, 2026",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789175582.2257137,
+        "MatchedTags": [
+            "colony sim"
+        ]
+    },
+    "5212390": {
+        "Title": "The Hollow Grounds",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5212390/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5212390/b0507396ebce85f391b2c9a0f3314adf4d4aa2dc/header.jpg?t=1789167756",
+        "Date": "2026",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789175593.658765,
+        "MatchedTags": [
+            "strategy",
+            "economy",
+            "base building"
+        ]
+    },
+    "5230500": {
+        "Title": "TALLY",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5230500/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5230500/07e1de9a506c7db90badeb690cabced55e654810/header.jpg?t=1789167315",
+        "Date": "2027",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789175609.4436831,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
         ]
     }
 }
