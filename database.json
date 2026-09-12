@@ -41518,9 +41518,9 @@
         "URL": "https://store.steampowered.com/app/4180510/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180510/b26254999254074d612ec842652f5a8fcef5db79/header.jpg?t=1777092789",
-        "Date": "Oct 27, 2026",
-        "AddedDate": "2026-08-31",
-        "AddedTimestamp": 1788220440.9228976,
+        "Date": "Oct 26, 2026",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789241190.1904385,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -43139,9 +43139,9 @@
         "URL": "https://store.steampowered.com/app/4661600/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4661600/a9751b8409ad907f38a2cab9f73daaa7a03ddbee/header.jpg?t=1777320887",
-        "Date": "2026",
-        "AddedDate": "2026-04-27",
-        "AddedTimestamp": 1777321280.321902,
+        "Date": "2027",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789241222.3401537,
         "MatchedTags": [
             "real time tactics",
             "tactical rpg",
@@ -131040,7 +131040,7 @@
     "5033550": {
         "Title": "Murdercartel",
         "Email": "admin@murdercartel.com",
-        "Discord": "",
+        "Discord": "https://discord.gg/WRyZvp5fQd",
         "URL": "https://store.steampowered.com/app/5033550/",
         "Site": "https://www.murdercartel.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5033550/3ff1acbb9df6a73bee4a31218fe4864276370a1c/header.jpg?t=1785865894",
@@ -141832,9 +141832,9 @@
         "URL": "https://store.steampowered.com/app/5069320/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5069320/ccef2ff06c07410d1e5ad7f5b203aa77c23c1607/header.jpg?t=1786683032",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-14",
-        "AddedTimestamp": 1786684089.8665345,
+        "Date": "Dec 6, 2026",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789241324.282774,
         "MatchedTags": [
             "strategy",
             "economy",
@@ -143415,9 +143415,9 @@
         "URL": "https://store.steampowered.com/app/5038010/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5038010/1338c5aaa00560ddca48e86ada60a0bc4f6453bb/header.jpg?t=1786775238",
-        "Date": "Aug 30, 2026",
-        "AddedDate": "2026-08-15",
-        "AddedTimestamp": 1786777221.7135756,
+        "Date": "Sep 12, 2026",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789241301.0331974,
         "MatchedTags": [
             "strategy",
             "turn-based tactics",
@@ -161893,7 +161893,7 @@
     "371640": {
         "Title": "Mercyrail: Havenbound",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/5dJ4jXQy8P",
         "URL": "https://store.steampowered.com/app/371640/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/371640/5c25cee9775b10560023cdd0902806fe80b17eed/header.jpg?t=1787769969",
@@ -167881,9 +167881,9 @@
         "URL": "https://store.steampowered.com/app/5166890/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5166890/81594a838ddc70bb81f9f9b3a777e1f1edbbc110/header.jpg?t=1787986749",
-        "Date": "September 2026",
-        "AddedDate": "2026-09-11",
-        "AddedTimestamp": 1789144800.3411236,
+        "Date": "2026",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789241363.7387857,
         "MatchedTags": [
             "tactical"
         ]
@@ -184399,9 +184399,9 @@
         "URL": "https://store.steampowered.com/app/5222360/",
         "Site": "https://therealfather.github.io/INSIDERSGames/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5222360/d2ebd8127e00d46009fa1648b22465021800e1ea/header.jpg?t=1788973465",
-        "Date": "Sep 27, 2026",
-        "AddedDate": "2026-09-10",
-        "AddedTimestamp": 1789058539.521222,
+        "Date": "Sep 28, 2026",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789241388.3281822,
         "MatchedTags": [
             "strategy",
             "management",
@@ -188879,6 +188879,38 @@
         "MatchedTags": [
             "strategy",
             "tower defense"
+        ]
+    },
+    "4922180": {
+        "Title": "Payday Poker",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4922180/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4922180/2234d40ca49a60a3dc1da1148769e2260d4e34f9/header.jpg?t=1789236176",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789241261.6186647,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5080410": {
+        "Title": "Cinema Tycoon",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5080410/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5080410/3a288c271d91237d9617677c9e779ed1bfa26786/header.jpg?t=1789235913",
+        "Date": "Oct 30, 2026",
+        "AddedDate": "2026-09-12",
+        "AddedTimestamp": 1789241339.483531,
+        "MatchedTags": [
+            "economy",
+            "strategy",
+            "management",
+            "base building",
+            "resource management"
         ]
     }
 }
