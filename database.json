@@ -138349,9 +138349,9 @@
         "AddedDate": "2026-08-11",
         "AddedTimestamp": 1786482512.224858,
         "MatchedTags": [
+            "turn-based combat",
             "strategy",
-            "turn-based tactics",
-            "turn-based combat"
+            "turn-based tactics"
         ]
     },
     "5046250": {
@@ -146545,7 +146545,7 @@
     },
     "5069510": {
         "Title": "The Offering",
-        "Email": "hello@naviandigital.com, press@naviandigital.com, support@naviandigital.com",
+        "Email": "support@naviandigital.com, hello@naviandigital.com, press@naviandigital.com",
         "Discord": "https://discord.gg/fgk97CxyRn",
         "URL": "https://store.steampowered.com/app/5069510/",
         "Site": "https://naviandigital.com/",
@@ -152848,9 +152848,9 @@
         "URL": "https://store.steampowered.com/app/4509530/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4509530/c587382ae5e296d0964905870ae6082e6f601e89/header.jpg?t=1787263598",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-20",
-        "AddedTimestamp": 1787266035.3261383,
+        "Date": "Sep 18, 2026",
+        "AddedDate": "2026-09-13",
+        "AddedTimestamp": 1789261417.378021,
         "MatchedTags": [
             "survival horror"
         ]
@@ -153163,8 +153163,8 @@
         "AddedDate": "2026-08-21",
         "AddedTimestamp": 1787282358.5518172,
         "MatchedTags": [
-            "strategy",
-            "colony sim"
+            "colony sim",
+            "strategy"
         ]
     },
     "4274410": {
@@ -156816,7 +156816,7 @@
     "4652440": {
         "Title": "ANONYMOUS CARD",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/CUSDUvZHu5",
         "URL": "https://store.steampowered.com/app/4652440/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4652440/a3adddab43f3f16c0d9c16ed756cc0971e6559ca/header.jpg?t=1787542103",
@@ -170169,7 +170169,7 @@
     "5154590": {
         "Title": "Wipe Them Out!",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/k24J522mp6",
         "URL": "https://store.steampowered.com/app/5154590/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5154590/58e70d848a760baaf6264925c877b79a49851a04/header.jpg?t=1788126042",
@@ -188924,6 +188924,89 @@
         "AddedTimestamp": 1789251698.0253518,
         "MatchedTags": [
             "turn-based combat"
+        ]
+    },
+    "3412220": {
+        "Title": "Eras Showdown",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3412220/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3412220/6840f78ca62939b14494a23a89b32e49bfa418d5/header.jpg?t=1789251803",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-13",
+        "AddedTimestamp": 1789261401.8988008,
+        "MatchedTags": [
+            "turn-based combat",
+            "turn-based tactics",
+            "tactical rpg",
+            "strategy",
+            "tactical"
+        ]
+    },
+    "5120570": {
+        "Title": "Panda Gambler",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5120570/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5120570/23c6a34a0438c45b12a58e2a1321d477cb88d352/header.jpg?t=1789255951",
+        "Date": "Nov 16, 2026",
+        "AddedDate": "2026-09-13",
+        "AddedTimestamp": 1789261517.7765095,
+        "MatchedTags": [
+            "tactical rpg",
+            "strategy"
+        ]
+    },
+    "5160530": {
+        "Title": "Knowlands: Battle of Wits",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5160530/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5160530/7fa1787e02b25b5d74c83abb31c5e26e40eb57c7/header.jpg?t=1789260403",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-09-13",
+        "AddedTimestamp": 1789261535.9670522,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tactical"
+        ]
+    },
+    "5230200": {
+        "Title": "Deepworks",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5230200/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5230200/bb04ff3c095e58ab583e2ac2c80da57731bac445/header.jpg?t=1789259762",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-13",
+        "AddedTimestamp": 1789261559.1533847,
+        "MatchedTags": [
+            "tower defense",
+            "strategy",
+            "base building",
+            "colony sim",
+            "resource management",
+            "management"
+        ]
+    },
+    "5239600": {
+        "Title": "My Zombies Are Hungry",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5239600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5239600/d2242805b7599834d62e4dc3a1c127fc8558312b/header.jpg?t=1789259124",
+        "Date": "September 2026",
+        "AddedDate": "2026-09-13",
+        "AddedTimestamp": 1789261561.2247393,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
         ]
     }
 }
