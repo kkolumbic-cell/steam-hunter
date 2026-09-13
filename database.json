@@ -12436,8 +12436,8 @@
         "AddedTimestamp": 1777088037.91168,
         "MatchedTags": [
             "turn-based tactics",
-            "turn-based strategy",
             "tactical rpg",
+            "turn-based strategy",
             "strategy",
             "turn-based combat",
             "tactical"
@@ -14537,9 +14537,9 @@
         "URL": "https://store.steampowered.com/app/4362370/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4362370/0eb349efd89d40d6a075453b678c00e6b407d08f/header.jpg?t=1774469572",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-08-29",
-        "AddedTimestamp": 1788013905.3964348,
+        "Date": "Nov 20, 2026",
+        "AddedDate": "2026-09-13",
+        "AddedTimestamp": 1789280032.0288932,
         "MatchedTags": [
             "strategy",
             "economy",
@@ -93354,9 +93354,9 @@
         "URL": "https://store.steampowered.com/app/4245170/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4245170/dc92a53e0a5f104d15bde0bb32b49bdbb05596da/header.jpg?t=1782255163",
-        "Date": "February 2027",
-        "AddedDate": "2026-09-04",
-        "AddedTimestamp": 1788501455.4062939,
+        "Date": "2027",
+        "AddedDate": "2026-09-13",
+        "AddedTimestamp": 1789280026.1413562,
         "MatchedTags": [
             "horror",
             "survival horror"
@@ -101092,9 +101092,9 @@
         "URL": "https://store.steampowered.com/app/4891720/",
         "Site": "https://www.patreon.com/c/ruviancs/membership",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4891720/e8452b2f1ca81b4874362d68afa553813d7d0e3d/header.jpg?t=1783091234",
-        "Date": "2026",
-        "AddedDate": "2026-07-03",
-        "AddedTimestamp": 1783092674.8204315,
+        "Date": "October 2026",
+        "AddedDate": "2026-09-13",
+        "AddedTimestamp": 1789280088.3611429,
         "MatchedTags": [
             "real time tactics"
         ]
@@ -150877,7 +150877,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/5044800/",
-        "Site": "",
+        "Site": "https://thesingularitystudios.itch.io/leeway",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044800/fc56e3dad1449e6f686181bb1e77b568ee1768d0/header.jpg?t=1787175184",
         "Date": "Nov 17, 2026",
         "AddedDate": "2026-08-26",
@@ -174059,7 +174059,9 @@
         "AddedTimestamp": 1788288266.724137,
         "MatchedTags": [
             "horror",
-            "survival horror"
+            "psychological horror",
+            "survival horror",
+            "strategy"
         ]
     },
     "3214580": {
@@ -180245,9 +180247,8 @@
         "MatchedTags": [
             "horror",
             "resource management",
-            "management",
-            "psychological horror",
-            "economy"
+            "economy",
+            "management"
         ]
     },
     "5138000": {
@@ -187023,14 +187024,13 @@
         "URL": "https://store.steampowered.com/app/5230100/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5230100/9f6cb11b62ab0cf55795ebad76a98aa81c41d223/header.jpg?t=1789101276",
-        "Date": "December 2026",
-        "AddedDate": "2026-09-11",
-        "AddedTimestamp": 1789106986.3757672,
+        "Date": "Dec 1, 2026",
+        "AddedDate": "2026-09-13",
+        "AddedTimestamp": 1789280260.5705762,
         "MatchedTags": [
-            "strategy",
             "economy",
+            "strategy",
             "management",
-            "turn-based tactics",
             "resource management"
         ]
     },
@@ -189006,6 +189006,115 @@
         "AddedTimestamp": 1789261561.2247393,
         "MatchedTags": [
             "strategy",
+            "resource management"
+        ]
+    },
+    "4968570": {
+        "Title": "The Last Days Of Ming",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4968570/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4968570/9db7ea4bde524beec27358d53343885b30a82e63/header.jpg?t=1789268447",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-13",
+        "AddedTimestamp": 1789280120.098802,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat"
+        ]
+    },
+    "5139870": {
+        "Title": "Inhabitant: A Family Curse",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5139870/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5139870/54b7638f6dba1814f28ebc41a819a70a86215045/header.jpg?t=1789263887",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-13",
+        "AddedTimestamp": 1789280179.0398579,
+        "MatchedTags": [
+            "psychological horror",
+            "survival horror",
+            "horror"
+        ]
+    },
+    "5140650": {
+        "Title": "Tech Chaos",
+        "Email": "",
+        "Discord": "https://discord.gg/MScNzftQ6N",
+        "URL": "https://store.steampowered.com/app/5140650/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5140650/1994d6dfc5058e82991b0df5fd8dc858d766c9b6/header.jpg?t=1789272239",
+        "Date": "Sep 28, 2026",
+        "AddedDate": "2026-09-13",
+        "AddedTimestamp": 1789280182.1368833,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "5192020": {
+        "Title": "Vestibule",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5192020/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5192020/ab7bc2813f0c03c75991c5785016493f2993e06e/header.jpg?t=1789262501",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-13",
+        "AddedTimestamp": 1789280221.9656034,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based combat",
+            "resource management"
+        ]
+    },
+    "5197820": {
+        "Title": "GRIMLIFE",
+        "Email": "realityengine.games@gmail.com",
+        "Discord": "https://discord.com/invite/Be4baw2XfE",
+        "URL": "https://store.steampowered.com/app/5197820/",
+        "Site": "https://www.grimlife.io/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5197820/aa64925d03c63cef2dc9f5ff288add353e54925e/header.jpg?t=1789271958",
+        "Date": "2027",
+        "AddedDate": "2026-09-13",
+        "AddedTimestamp": 1789280227.8810713,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "5215160": {
+        "Title": "Corporate Corp Incorporated",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5215160/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5215160/4b95b7c58bdd98fb74a68156631fa1a0cec9a9bc/header.jpg?t=1789270408",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-13",
+        "AddedTimestamp": 1789280236.0505972,
+        "MatchedTags": [
+            "management"
+        ]
+    },
+    "5233860": {
+        "Title": "\u9918\u71fc\u4e4b\u8ecd EmbersOfWar",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5233860/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5233860/9f5e183a5d7a6632c0cb7e9682e14c22ff12befb/header.jpg?t=1789270278",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-09-13",
+        "AddedTimestamp": 1789280265.7310252,
+        "MatchedTags": [
+            "strategy",
+            "real time tactics",
+            "tactical",
             "resource management"
         ]
     }
