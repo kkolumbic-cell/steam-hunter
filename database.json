@@ -158954,9 +158954,9 @@
         "URL": "https://store.steampowered.com/app/4948940/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4948940/9ca398a9595a2161d1178c2a34e235b86ecca845/header.jpg?t=1787663369",
-        "Date": "Coming soon",
-        "AddedDate": "2026-08-25",
-        "AddedTimestamp": 1787663727.515875,
+        "Date": "Nov 10, 2026",
+        "AddedDate": "2026-09-15",
+        "AddedTimestamp": 1789435968.212032,
         "MatchedTags": [
             "real time tactics",
             "tower defense",
@@ -177310,9 +177310,9 @@
         "URL": "https://store.steampowered.com/app/5132180/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5132180/8467a1508eac59c2a5f823c522e6e1d8dafe6258/header.jpg?t=1788451873",
-        "Date": "Sep 16, 2026",
-        "AddedDate": "2026-09-10",
-        "AddedTimestamp": 1789002572.0911736,
+        "Date": "September 2026",
+        "AddedDate": "2026-09-15",
+        "AddedTimestamp": 1789436010.8645666,
         "MatchedTags": [
             "strategy"
         ]
@@ -182133,9 +182133,9 @@
         "URL": "https://store.steampowered.com/app/5142630/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5142630/e58b5af9ba951f606791f23fe2efb51a2dabf77b/header.jpg?t=1788831141",
-        "Date": "September 2026",
-        "AddedDate": "2026-09-08",
-        "AddedTimestamp": 1788842759.1100523,
+        "Date": "Sep 20, 2026",
+        "AddedDate": "2026-09-15",
+        "AddedTimestamp": 1789436016.1796088,
         "MatchedTags": [
             "strategy",
             "management",
@@ -190674,6 +190674,156 @@
         "MatchedTags": [
             "strategy",
             "tower defense"
+        ]
+    },
+    "2997680": {
+        "Title": "Swords and Cavalry",
+        "Email": "",
+        "Discord": "https://discord.gg/hatkJHwzXr",
+        "URL": "https://store.steampowered.com/app/2997680/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2997680/fff7f100af537db8239b55840606aebd7def2388/header.jpg?t=1789432483",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-15",
+        "AddedTimestamp": 1789435868.458865,
+        "MatchedTags": [
+            "strategy",
+            "management"
+        ]
+    },
+    "4619050": {
+        "Title": "Poggle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4619050/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4619050/537ebd1352b0f21dfde6adc295c42b9dcc013593/header.jpg?t=1789434141",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-15",
+        "AddedTimestamp": 1789435905.654542,
+        "MatchedTags": [
+            "strategy",
+            "economy"
+        ]
+    },
+    "4893690": {
+        "Title": "Market Fit",
+        "Email": "contact@bobystudios.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4893690/",
+        "Site": "https://bobystudios.com/#1",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4893690/1738f7a1c08cd2f5f1d93f1fd9be0f4666c6dcaf/header.jpg?t=1789430315",
+        "Date": "To be announced",
+        "AddedDate": "2026-09-15",
+        "AddedTimestamp": 1789435947.4415212,
+        "MatchedTags": [
+            "economy",
+            "management",
+            "resource management",
+            "turn-based strategy",
+            "strategy"
+        ]
+    },
+    "5171600": {
+        "Title": "Kipopy: Photocard Collector",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5171600/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5171600/b521f40df228b80a51aff225841d36e00d40cd48/header.jpg?t=1789431178",
+        "Date": "2027",
+        "AddedDate": "2026-09-15",
+        "AddedTimestamp": 1789436023.402436,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "5174580": {
+        "Title": "BANNER PROTOCOL",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5174580/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5174580/ce8c17cf158b4a90c50065eb9d4f5f68633caaa2/header.jpg?t=1789430569",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-15",
+        "AddedTimestamp": 1789436027.807961,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5193290": {
+        "Title": "Rustbrook",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5193290/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5193290/d3b5745e8296d95a15bb6ed123815410ebc2faa8/header.jpg?t=1789430960",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-15",
+        "AddedTimestamp": 1789436037.78069,
+        "MatchedTags": [
+            "strategy",
+            "economy"
+        ]
+    },
+    "5230450": {
+        "Title": "Colorsong",
+        "Email": "",
+        "Discord": "https://discord.com/invite/CujAfXU3ZS",
+        "URL": "https://store.steampowered.com/app/5230450/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5230450/d52dadbff0373fad596297835ae9530752256171/header.jpg?t=1789434027",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-09-15",
+        "AddedTimestamp": 1789436059.6506948,
+        "MatchedTags": [
+            "resource management"
+        ]
+    },
+    "5238790": {
+        "Title": "Everlasting Curse",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5238790/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5238790/9a0318a43fc5757a9120327e4fdd1ff59dd0fe0e/header.jpg?t=1789430291",
+        "Date": "Nov 30, 2026",
+        "AddedDate": "2026-09-15",
+        "AddedTimestamp": 1789436062.8995905,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5244840": {
+        "Title": "FallChess: Wizard's Chess",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5244840/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5244840/ef9edb6ce9ced4c5b7bafdea613ba0bc90161af4/header.jpg?t=1789432117",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-15",
+        "AddedTimestamp": 1789436067.4679813,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "5248190": {
+        "Title": "Hell Healers",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5248190/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5248190/c20a3879b185c4cfbb1fe995bd78441cf33f4fc8/header.jpg?t=1789430681",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-15",
+        "AddedTimestamp": 1789436072.5061321,
+        "MatchedTags": [
+            "strategy",
+            "horror"
         ]
     }
 }
