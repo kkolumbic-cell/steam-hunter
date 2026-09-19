@@ -89011,8 +89011,8 @@
         "AddedTimestamp": 1781815326.9237158,
         "MatchedTags": [
             "survival horror",
-            "horror",
-            "psychological horror"
+            "psychological horror",
+            "horror"
         ]
     },
     "4802240": {
@@ -125397,9 +125397,8 @@
         "AddedDate": "2026-08-18",
         "AddedTimestamp": 1787028910.2113917,
         "MatchedTags": [
-            "horror",
             "psychological horror",
-            "survival horror"
+            "horror"
         ]
     },
     "4475480": {
@@ -185528,9 +185527,9 @@
         "URL": "https://store.steampowered.com/app/5165000/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5165000/74e1de10f3fea82d004470f1f59b8fdf323e22c6/header.jpg?t=1789048962",
-        "Date": "Coming soon",
-        "AddedDate": "2026-09-10",
-        "AddedTimestamp": 1789058389.1304424,
+        "Date": "Sep 24, 2026",
+        "AddedDate": "2026-09-19",
+        "AddedTimestamp": 1789850819.547251,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -191045,9 +191044,9 @@
         "URL": "https://store.steampowered.com/app/5099730/",
         "Site": "https://funkjonas.github.io/NoLuckLeft/impressum.html",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5099730/e12c170d5c3307a4d6449281531a6815465e74fb/header.jpg?t=1789469947",
-        "Date": "11 Mar, 2027",
+        "Date": "Mar 11, 2027",
         "AddedDate": "2026-09-19",
-        "AddedTimestamp": 1789780456.1164706,
+        "AddedTimestamp": 1789850799.7135715,
         "MatchedTags": [
             "strategy"
         ]
@@ -193628,13 +193627,12 @@
         "URL": "https://store.steampowered.com/app/5244650/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5244650/2e32396ccde50179acebc50fe6b3a8e62fb1632a/header.jpg?t=1789601591",
-        "Date": "Coming soon",
-        "AddedDate": "2026-09-17",
-        "AddedTimestamp": 1789608713.379245,
+        "Date": "October 2026",
+        "AddedDate": "2026-09-19",
+        "AddedTimestamp": 1789850854.0101955,
         "MatchedTags": [
             "strategy",
             "turn-based strategy",
-            "grand strategy",
             "resource management",
             "tactical"
         ]
@@ -194770,7 +194768,7 @@
     "3343280": {
         "Title": "Trenchhold TD",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/zx9r2FAvw",
         "URL": "https://store.steampowered.com/app/3343280/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3343280/8b813df1b8cbb00aaa4cf29986b7344619759e65/header.jpg?t=1789678487",
@@ -195949,9 +195947,9 @@
         "URL": "https://store.steampowered.com/app/5263510/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5263510/9052f2adca9f8a3b43fa1cd26a0993cd42d893e9/header.jpg?t=1789748141",
-        "Date": "29 Oct, 2026",
+        "Date": "Oct 29, 2026",
         "AddedDate": "2026-09-19",
-        "AddedTimestamp": 1789780524.7361684,
+        "AddedTimestamp": 1789850866.1614003,
         "MatchedTags": [
             "strategy"
         ]
@@ -197162,9 +197160,43 @@
         "URL": "https://store.steampowered.com/app/5267360/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5267360/2eb734dd287f0df73726468b8fec8f2f97fdf9a5/header.jpg?t=1789829711",
-        "Date": "September 2026",
+        "Date": "Coming soon",
         "AddedDate": "2026-09-19",
-        "AddedTimestamp": 1789841315.3246765,
+        "AddedTimestamp": 1789850869.6025336,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5037660": {
+        "Title": "Shire Kings",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5037660/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5037660/479360cb1269f466e8a691182d2d0abeaf5f4cce/header.jpg?t=1789843799",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-19",
+        "AddedTimestamp": 1789850786.1125495,
+        "MatchedTags": [
+            "real time tactics",
+            "city builder",
+            "colony sim",
+            "strategy",
+            "base building",
+            "economy",
+            "management"
+        ]
+    },
+    "5271750": {
+        "Title": "Hexed Hand",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5271750/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5271750/7a1bc26cdb5be450683b43cf5d7d70e191b61122/header.jpg?t=1789845590",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-19",
+        "AddedTimestamp": 1789850873.0068455,
         "MatchedTags": [
             "strategy"
         ]
