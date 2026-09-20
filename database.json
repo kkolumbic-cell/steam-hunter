@@ -86782,8 +86782,7 @@
         "AddedDate": "2026-07-05",
         "AddedTimestamp": 1783225965.6791577,
         "MatchedTags": [
-            "psychological horror",
-            "survival horror"
+            "psychological horror"
         ]
     },
     "4841870": {
@@ -103085,9 +103084,9 @@
         "URL": "https://store.steampowered.com/app/4897000/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4897000/aaa186c05c3467f965d7a77fef8acd663433341c/header.jpg?t=1783375922",
-        "Date": "Nov 11, 2026",
-        "AddedDate": "2026-07-10",
-        "AddedTimestamp": 1783657226.9240348,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-09-20",
+        "AddedTimestamp": 1789866821.9348893,
         "MatchedTags": [
             "horror"
         ]
@@ -145789,8 +145788,8 @@
         "AddedDate": "2026-08-17",
         "AddedTimestamp": 1786978121.3808029,
         "MatchedTags": [
-            "strategy",
-            "tactical"
+            "tactical",
+            "strategy"
         ]
     },
     "5020540": {
@@ -153157,9 +153156,9 @@
         "URL": "https://store.steampowered.com/app/4691280/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4691280/67a2f32d75cc121831793f332c4f5d4de62b7148/header.jpg?t=1787290154",
-        "Date": "September 2026",
-        "AddedDate": "2026-08-31",
-        "AddedTimestamp": 1788207212.545023,
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-20",
+        "AddedTimestamp": 1789866794.230303,
         "MatchedTags": [
             "strategy",
             "resource management",
@@ -191025,7 +191024,7 @@
     "5013290": {
         "Title": "Idle King: Loot Together",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/3Ed2sV8bx",
         "URL": "https://store.steampowered.com/app/5013290/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5013290/2ff65e576ce3d2036910f3bd44fab1b8d3a7edcc/header.jpg?t=1789479524",
@@ -195771,9 +195770,9 @@
         "URL": "https://store.steampowered.com/app/5150240/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5150240/2bf32430f12ec098845f1e8c85a73060977f187c/header.jpg?t=1789742128",
-        "Date": "October 2026",
-        "AddedDate": "2026-09-18",
-        "AddedTimestamp": 1789749315.0715296,
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-20",
+        "AddedTimestamp": 1789866858.2430587,
         "MatchedTags": [
             "horror",
             "psychological horror",
@@ -196166,9 +196165,9 @@
         "URL": "https://store.steampowered.com/app/5236910/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5236910/fabcf98e34be478f57459ece02fc8709f32db033/header.jpg?t=1789760000",
-        "Date": "Sep 21, 2026",
-        "AddedDate": "2026-09-18",
-        "AddedTimestamp": 1789760712.3056757,
+        "Date": "September 2026",
+        "AddedDate": "2026-09-20",
+        "AddedTimestamp": 1789866885.0640051,
         "MatchedTags": [
             "horror",
             "psychological horror"
@@ -196386,9 +196385,9 @@
         "URL": "https://store.steampowered.com/app/5246520/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5246520/f4ec16df3aca1bb70ff6603d4e36eafb8cc867b7/header.jpg?t=1789770034",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-09-18",
-        "AddedTimestamp": 1789771346.6516316,
+        "Date": "Oct 1, 2026",
+        "AddedDate": "2026-09-20",
+        "AddedTimestamp": 1789866887.8458006,
         "MatchedTags": [
             "strategy"
         ]
@@ -197269,6 +197268,99 @@
             "resource management",
             "management",
             "colony sim"
+        ]
+    },
+    "3045640": {
+        "Title": "Water Walls",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/3045640/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045640/bddb3b1eca0d8c4b65d2dec9a7d81b13d84bec6e/header.jpg?t=1789860989",
+        "Date": "March 2027",
+        "AddedDate": "2026-09-20",
+        "AddedTimestamp": 1789866765.4241302,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "4815280": {
+        "Title": "REQUIEM",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4815280/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4815280/37876b2c48d45b120105642433eb2ae564aa8e9b/header.jpg?t=1789864471",
+        "Date": "September 2026",
+        "AddedDate": "2026-09-20",
+        "AddedTimestamp": 1789866808.510572,
+        "MatchedTags": [
+            "strategy",
+            "resource management",
+            "colony sim"
+        ]
+    },
+    "5211910": {
+        "Title": "Voyager III",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5211910/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5211910/15541ed23b20631103a79023f8e0382abc6bd8ae/header.jpg?t=1789863874",
+        "Date": "Oct 31, 2026",
+        "AddedDate": "2026-09-20",
+        "AddedTimestamp": 1789866875.1462138,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5233540": {
+        "Title": "Go",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5233540/",
+        "Site": "https://www.pixeldance.xyz/site",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5233540/5c8f93e23bfd48718dbd5743beeb56abfe4a623f/header.jpg?t=1789862726",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-20",
+        "AddedTimestamp": 1789866880.8495266,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy"
+        ]
+    },
+    "5265060": {
+        "Title": "A Little Robot's Journey",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5265060/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5265060/98361d9be20246729105673b4f537db966009ffd/header.jpg?t=1789865449",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-20",
+        "AddedTimestamp": 1789866891.2261326,
+        "MatchedTags": [
+            "base building",
+            "resource management"
+        ]
+    },
+    "5266080": {
+        "Title": "Fragrance - The Second Story of Princess and Knight",
+        "Email": "5secondsmail@gmail.com",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5266080/",
+        "Site": "https://www.tsicgames.com/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266080/d513004771fc7245329f32334146b553bccdff23/header.jpg?t=1789862675",
+        "Date": "September 2026",
+        "AddedDate": "2026-09-20",
+        "AddedTimestamp": 1789866893.9781685,
+        "MatchedTags": [
+            "strategy",
+            "turn-based combat",
+            "turn-based strategy",
+            "tactical rpg",
+            "turn-based tactics"
         ]
     }
 }
