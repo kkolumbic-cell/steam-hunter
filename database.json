@@ -85052,9 +85052,9 @@
         "URL": "https://store.steampowered.com/app/4696800/",
         "Site": "https://standardproceduregame.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4696800/8b8cc70ac44b6bd97297cb8ab628f4a7a807be3d/header.jpg?t=1781519311",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-06-15",
-        "AddedTimestamp": 1781527817.3627539,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-09-21",
+        "AddedTimestamp": 1789953036.9253948,
         "MatchedTags": [
             "horror"
         ]
@@ -103099,9 +103099,9 @@
         "URL": "https://store.steampowered.com/app/4898600/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4898600/2ab341d3fdf08b0fa8337b0f29c268c80d05f04d/header.jpg?t=1783372231",
-        "Date": "February 2027",
-        "AddedDate": "2026-07-06",
-        "AddedTimestamp": 1783377616.164452,
+        "Date": "2027",
+        "AddedDate": "2026-09-21",
+        "AddedTimestamp": 1789953063.4192417,
         "MatchedTags": [
             "horror"
         ]
@@ -119119,6 +119119,7 @@
         "AddedDate": "2026-08-21",
         "AddedTimestamp": 1787288206.596477,
         "MatchedTags": [
+            "horror",
             "psychological horror"
         ]
     },
@@ -124968,9 +124969,9 @@
         "URL": "https://store.steampowered.com/app/4380860/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4380860/642d05660c4f1e2b46f2d4a3acdbe30c8748d239/header_alt_assets_0.jpg?t=1785349114",
-        "Date": "2026",
-        "AddedDate": "2026-07-29",
-        "AddedTimestamp": 1785354368.428113,
+        "Date": "Nov 16, 2026",
+        "AddedDate": "2026-09-21",
+        "AddedTimestamp": 1789953002.2689064,
         "MatchedTags": [
             "strategy",
             "tactical"
@@ -125376,9 +125377,9 @@
         "URL": "https://store.steampowered.com/app/4113430/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4113430/8d5e4694dab3a38be257a9ee98639db3c4ad40d5/header.jpg?t=1785377265",
-        "Date": "Q4 2026",
-        "AddedDate": "2026-07-30",
-        "AddedTimestamp": 1785382425.7899137,
+        "Date": "Q1 2027",
+        "AddedDate": "2026-09-21",
+        "AddedTimestamp": 1789952986.190199,
         "MatchedTags": [
             "strategy",
             "management",
@@ -139218,7 +139219,7 @@
     "4984970": {
         "Title": "Submundus",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/3SFT4n6srM",
         "URL": "https://store.steampowered.com/app/4984970/",
         "Site": "https://tabulaforge.com.br/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4984970/4c0522c3d917c3cd9ca7984fe952b2f16c6fd721/header.jpg?t=1786545195",
@@ -162121,9 +162122,9 @@
         "URL": "https://store.steampowered.com/app/4830110/",
         "Site": "https://ashenstudios.com/did-you-see-that",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4830110/b1c8ca340456fe16c702f3ea6d0b338064149965/header.jpg?t=1787781013",
-        "Date": "October 2026",
-        "AddedDate": "2026-08-26",
-        "AddedTimestamp": 1787787668.9131124,
+        "Date": "2026",
+        "AddedDate": "2026-09-21",
+        "AddedTimestamp": 1789953049.8465006,
         "MatchedTags": [
             "psychological horror",
             "horror"
@@ -173022,9 +173023,9 @@
         "URL": "https://store.steampowered.com/app/4965660/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4965660/b49995a54ee0846d57ec933c7218d4d35d2004f4/header.jpg?t=1788240224",
-        "Date": "Coming soon",
-        "AddedDate": "2026-09-01",
-        "AddedTimestamp": 1788257858.1711388,
+        "Date": "Q4 2026",
+        "AddedDate": "2026-09-21",
+        "AddedTimestamp": 1789953085.8525262,
         "MatchedTags": [
             "resource management",
             "strategy",
@@ -179577,9 +179578,9 @@
         "URL": "https://store.steampowered.com/app/4910360/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4910360/3d8c0700c78f5715f97c02de38d769e447bfafcf/header.jpg?t=1788580537",
-        "Date": "Nov 10, 2026",
-        "AddedDate": "2026-09-20",
-        "AddedTimestamp": 1789885457.9008772,
+        "Date": "Oct 27, 2026",
+        "AddedDate": "2026-09-21",
+        "AddedTimestamp": 1789953068.748587,
         "MatchedTags": [
             "horror",
             "management"
@@ -197900,6 +197901,51 @@
         "AddedTimestamp": 1789943592.7825394,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "4908680": {
+        "Title": "Cryptwake",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4908680/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908680/76f24dc8d299786cdf57abc9b62d39b6ccc9d6ef/header.jpg?t=1789943485",
+        "Date": "2027",
+        "AddedDate": "2026-09-21",
+        "AddedTimestamp": 1789953066.5674355,
+        "MatchedTags": [
+            "horror"
+        ]
+    },
+    "5186770": {
+        "Title": "Passenger Zero",
+        "Email": "hello@redzet.games, press@redzet.games",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5186770/",
+        "Site": "https://redzet.games/",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5186770/c889c72b5cb09a49e1a70c63f1ec9cbc881bfacf/header.jpg?t=1789951405",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-21",
+        "AddedTimestamp": 1789953148.18086,
+        "MatchedTags": [
+            "horror",
+            "survival horror"
+        ]
+    },
+    "5235910": {
+        "Title": "Whisperborne",
+        "Email": "",
+        "Discord": "https://discord.gg/Bd53x7DEFJ",
+        "URL": "https://store.steampowered.com/app/5235910/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5235910/0e6d5e685f079f70b307a1a66091b5a4369f5f25/header.jpg?t=1789948561",
+        "Date": "Q1 2027",
+        "AddedDate": "2026-09-21",
+        "AddedTimestamp": 1789953163.7710414,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "tactical rpg"
         ]
     }
 }
