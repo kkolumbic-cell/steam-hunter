@@ -129273,7 +129273,7 @@
         "Email": "",
         "Discord": "",
         "URL": "https://store.steampowered.com/app/4999040/",
-        "Site": "",
+        "Site": "https://icecoastrevival.com/",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4999040/467be86d5c3e5ccf54f8040f9f28e08daf61e4c8/header.jpg?t=1785773003",
         "Date": "Aug 18, 2026",
         "AddedDate": "2026-08-18",
@@ -164544,9 +164544,9 @@
         "URL": "https://store.steampowered.com/app/4985180/",
         "Site": "https://starstonetcg.com/",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4985180/063f2f0abe1cc3734dfbd841ec542080b6513769/header.jpg?t=1787878422",
-        "Date": "14 Sep, 2026",
-        "AddedDate": "2026-08-29",
-        "AddedTimestamp": 1788040133.071629,
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-23",
+        "AddedTimestamp": 1790124060.7770128,
         "MatchedTags": [
             "strategy"
         ]
@@ -182024,9 +182024,9 @@
         "URL": "https://store.steampowered.com/app/5142630/",
         "Site": "",
         "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5142630/e58b5af9ba951f606791f23fe2efb51a2dabf77b/header.jpg?t=1788831141",
-        "Date": "Sep 20, 2026",
-        "AddedDate": "2026-09-15",
-        "AddedTimestamp": 1789436016.1796088,
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-23",
+        "AddedTimestamp": 1790124123.1983566,
         "MatchedTags": [
             "strategy",
             "management",
@@ -188913,7 +188913,7 @@
     "5192020": {
         "Title": "Vestibule",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/GTNKpdydUf",
         "URL": "https://store.steampowered.com/app/5192020/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5192020/ab7bc2813f0c03c75991c5785016493f2993e06e/header.jpg?t=1789262501",
@@ -201118,6 +201118,137 @@
         "MatchedTags": [
             "turn-based tactics",
             "resource management"
+        ]
+    },
+    "4836150": {
+        "Title": "Under Review",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4836150/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4836150/9ab84e82d8ccd2a91ed5ad4aa5b284d217d44707/header.jpg?t=1790118936",
+        "Date": "Oct 12, 2026",
+        "AddedDate": "2026-09-23",
+        "AddedTimestamp": 1790124031.0285513,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "4889580": {
+        "Title": "Nine Marches",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4889580/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4889580/83c3f2e46f1e62b236ba86445db1d0fc4c8d9bd9/header.jpg?t=1790122629",
+        "Date": "TBA",
+        "AddedDate": "2026-09-23",
+        "AddedTimestamp": 1790124042.2084014,
+        "MatchedTags": [
+            "tower defense",
+            "strategy",
+            "base building",
+            "real time tactics",
+            "resource management"
+        ]
+    },
+    "5047760": {
+        "Title": "Conjurariun",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5047760/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5047760/5a6397e76f5f3646c29ba4e65531f1791df61eb1/header.jpg?t=1790123257",
+        "Date": "Oct 1, 2026",
+        "AddedDate": "2026-09-23",
+        "AddedTimestamp": 1790124095.8503287,
+        "MatchedTags": [
+            "horror",
+            "survival horror",
+            "psychological horror"
+        ]
+    },
+    "5220490": {
+        "Title": "Industrial Empire",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5220490/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5220490/7dc0a7e675a9927eed9bc846d917c469a38472c6/header.jpg?t=1790122714",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-23",
+        "AddedTimestamp": 1790124158.2210457,
+        "MatchedTags": [
+            "city builder",
+            "resource management"
+        ]
+    },
+    "5260590": {
+        "Title": "The Last Job 2",
+        "Email": "",
+        "Discord": "https://discord.gg/YYhD8HWEQH",
+        "URL": "https://store.steampowered.com/app/5260590/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5260590/b9d5970c7eef6c8272cacb367278ee078eef0a33/header.jpg?t=1790119835",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-09-23",
+        "AddedTimestamp": 1790124195.884048,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5276790": {
+        "Title": "Everyone Expire",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5276790/",
+        "Site": "https://rardo.co.uk/games/everyone-expire/",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5276790/e9fcca34cd3023a74a121182d8c83443395c0f79/header.jpg?t=1790123198",
+        "Date": "To be announced",
+        "AddedDate": "2026-09-23",
+        "AddedTimestamp": 1790124208.3088276,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "turn-based tactics"
+        ]
+    },
+    "5280940": {
+        "Title": "Fangrush",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5280940/",
+        "Site": "https://fangrush.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5280940/f173a701a48c2c1b8bde250f26b074bb69b9c742/header.jpg?t=1790121683",
+        "Date": "Coming soon",
+        "AddedDate": "2026-09-23",
+        "AddedTimestamp": 1790124214.7431664,
+        "MatchedTags": [
+            "turn-based strategy",
+            "strategy",
+            "turn-based tactics",
+            "turn-based combat",
+            "tactical"
+        ]
+    },
+    "5287140": {
+        "Title": "Project Night Lights",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5287140/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5287140/df8969cc2dd20a3742f536b503593a31b5ba9efc/header.jpg?t=1790118019",
+        "Date": "Q2 2027",
+        "AddedDate": "2026-09-23",
+        "AddedTimestamp": 1790124219.5235796,
+        "MatchedTags": [
+            "strategy",
+            "turn-based strategy",
+            "grand strategy",
+            "economy",
+            "turn-based tactics"
         ]
     }
 }
