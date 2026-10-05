@@ -78773,9 +78773,9 @@
         "URL": "https://store.steampowered.com/app/4250710/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4250710/bc745e413dbbae4c760468a3475d4ecd066fd0ec/header.jpg?t=1781001557",
-        "Date": "Coming soon",
-        "AddedDate": "2026-06-24",
-        "AddedTimestamp": 1782275918.6877296,
+        "Date": "Oct 14, 2026",
+        "AddedDate": "2026-10-05",
+        "AddedTimestamp": 1791161922.5316467,
         "MatchedTags": [
             "resource management"
         ]
@@ -107688,9 +107688,9 @@
         "URL": "https://store.steampowered.com/app/4936540/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4936540/c9c85848fa63f7d90a88cbee7a312f3f4f5b884b/header.jpg?t=1783721960",
-        "Date": "To be announced",
-        "AddedDate": "2026-07-30",
-        "AddedTimestamp": 1785437470.9968874,
+        "Date": "Coming soon",
+        "AddedDate": "2026-10-05",
+        "AddedTimestamp": 1791161988.994613,
         "MatchedTags": [
             "horror"
         ]
@@ -109196,7 +109196,7 @@
     "4937370": {
         "Title": "Warlords: Deckbuilding Autobattler",
         "Email": "",
-        "Discord": "",
+        "Discord": "https://discord.gg/vhNkM4CNJS",
         "URL": "https://store.steampowered.com/app/4937370/",
         "Site": "https://pbandgames.com",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4937370/9f607fd10296945efbed9b1e33f408f20794c83b/header.jpg?t=1783960025",
@@ -129401,8 +129401,8 @@
         "AddedDate": "2026-08-03",
         "AddedTimestamp": 1785787389.4935331,
         "MatchedTags": [
-            "resource management",
-            "strategy"
+            "strategy",
+            "resource management"
         ]
     },
     "4999230": {
@@ -192478,9 +192478,9 @@
         "URL": "https://store.steampowered.com/app/5121840/",
         "Site": "https://ordnix.ca",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5121840/14b39916bbc74758d2f8f8de1d0df75acf8d8a33/header.jpg?t=1789576305",
-        "Date": "Coming soon",
-        "AddedDate": "2026-09-16",
-        "AddedTimestamp": 1789578516.5458705,
+        "Date": "Oct 4, 2026",
+        "AddedDate": "2026-10-05",
+        "AddedTimestamp": 1791162064.4290142,
         "MatchedTags": [
             "strategy",
             "real time tactics",
@@ -193667,20 +193667,6 @@
         "MatchedTags": [
             "resource management",
             "management",
-            "strategy"
-        ]
-    },
-    "5239340": {
-        "Title": "Hexcavate",
-        "Email": "",
-        "Discord": "",
-        "URL": "https://store.steampowered.com/app/5239340/",
-        "Site": "",
-        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5239340/b0156db763e6f55520b8bb11b2c9a87a3b464a60/header.jpg?t=1789615266",
-        "Date": "Coming soon",
-        "AddedDate": "2026-09-17",
-        "AddedTimestamp": 1789631499.7138155,
-        "MatchedTags": [
             "strategy"
         ]
     },
@@ -216077,9 +216063,9 @@
         "URL": "https://store.steampowered.com/app/5347730/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5347730/a3b27c1de12352bdfa2455aca1293f6e51bb6319/header.jpg?t=1790969419",
-        "Date": "October 2026",
-        "AddedDate": "2026-10-02",
-        "AddedTimestamp": 1790982645.8221066,
+        "Date": "To be announced",
+        "AddedDate": "2026-10-05",
+        "AddedTimestamp": 1791162178.9262228,
         "MatchedTags": [
             "horror"
         ]
@@ -217680,6 +217666,111 @@
             "horror",
             "psychological horror",
             "survival horror"
+        ]
+    },
+    "3018000": {
+        "Title": "Zynpo Chess",
+        "Email": "",
+        "Discord": "https://discord.gg/n3JApEvjd",
+        "URL": "https://store.steampowered.com/app/3018000/",
+        "Site": "https://www.zynpo.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3018000/a272f9b218828913a252da89af917b853bcb87ef/header.jpg?t=1791153195",
+        "Date": "Coming soon",
+        "AddedDate": "2026-10-05",
+        "AddedTimestamp": 1791161917.2011256,
+        "MatchedTags": [
+            "strategy",
+            "turn-based tactics"
+        ]
+    },
+    "4478720": {
+        "Title": "RattyJunkIdle",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/4478720/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4478720/861d3ca42924c70499cf0336829d34be3f262473/header.jpg?t=1791152844",
+        "Date": "Coming soon",
+        "AddedDate": "2026-10-05",
+        "AddedTimestamp": 1791161937.5004222,
+        "MatchedTags": [
+            "management",
+            "economy",
+            "strategy",
+            "resource management"
+        ]
+    },
+    "5096240": {
+        "Title": "Jane Friday: After Hours",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5096240/",
+        "Site": "https://catandfoxstudios.com",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5096240/e5627166ff96a13800c112b48cb6ee22fdb59e61/header.jpg?t=1791155463",
+        "Date": "Oct 9, 2026",
+        "AddedDate": "2026-10-05",
+        "AddedTimestamp": 1791162055.9897487,
+        "MatchedTags": [
+            "horror",
+            "psychological horror"
+        ]
+    },
+    "5234360": {
+        "Title": "TOKUSAI - Kaiju Countermeasures Bureau",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5234360/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5234360/4ac735887767b84823261d6aa132e6f6d0132d2e/header.jpg?t=1791158338",
+        "Date": "To be announced",
+        "AddedDate": "2026-10-05",
+        "AddedTimestamp": 1791162101.2283664,
+        "MatchedTags": [
+            "tactical"
+        ]
+    },
+    "5323350": {
+        "Title": "European Truck Manager",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5323350/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5323350/96cfb0f9179abc7f7aecba6c948c4a21fec4ca46/header.jpg?t=1791157624",
+        "Date": "Nov 2, 2026",
+        "AddedDate": "2026-10-05",
+        "AddedTimestamp": 1791162155.9310796,
+        "MatchedTags": [
+            "strategy",
+            "economy"
+        ]
+    },
+    "5351240": {
+        "Title": "Princess TCG Card Run",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5351240/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5351240/b4404bafe613692bc016c7eab0bb7f48dc59fc21/header.jpg?t=1791158885",
+        "Date": "Coming soon",
+        "AddedDate": "2026-10-05",
+        "AddedTimestamp": 1791162181.8643599,
+        "MatchedTags": [
+            "strategy"
+        ]
+    },
+    "5358190": {
+        "Title": "Tales of the Southern Seas",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/5358190/",
+        "Site": "",
+        "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5358190/f6943b3ee6ae686813faa893f0919d25993c9472/header.jpg?t=1791155938",
+        "Date": "Q4 2026",
+        "AddedDate": "2026-10-05",
+        "AddedTimestamp": 1791162193.3771083,
+        "MatchedTags": [
+            "strategy",
+            "resource management"
         ]
     }
 }
