@@ -45187,9 +45187,9 @@
         "URL": "https://store.steampowered.com/app/2097940/",
         "Site": "",
         "Thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2097940/b885b2dbdb7aada73403ed3700ebd5ba97d171f9/header.jpg?t=1777471586",
-        "Date": "Coming soon",
-        "AddedDate": "2026-04-29",
-        "AddedTimestamp": 1777473122.9058132,
+        "Date": "Dec 9, 2026",
+        "AddedDate": "2026-10-20",
+        "AddedTimestamp": 1792520987.646018,
         "MatchedTags": [
             "strategy",
             "real time tactics",
@@ -126302,9 +126302,11 @@
         "AddedTimestamp": 1785456994.7294338,
         "MatchedTags": [
             "colony sim",
-            "resource management",
+            "base building",
+            "city builder",
             "strategy",
-            "base building"
+            "resource management",
+            "management"
         ]
     },
     "4983950": {
@@ -245603,6 +245605,21 @@
         "AddedTimestamp": 1792504417.2341924,
         "MatchedTags": [
             "horror"
+        ]
+    },
+    "2404980": {
+        "Title": "A Game About Shredding Everything",
+        "Email": "",
+        "Discord": "",
+        "URL": "https://store.steampowered.com/app/2404980/",
+        "Site": "",
+        "Thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2404980/c367572636cf5947e98f85cbdec1c7d680c5e379/header.jpg?t=1792517349",
+        "Date": "Coming soon",
+        "AddedDate": "2026-10-20",
+        "AddedTimestamp": 1792520993.3238769,
+        "MatchedTags": [
+            "economy",
+            "management"
         ]
     }
 }
